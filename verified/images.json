@@ -346,5 +346,103 @@
       "color": "Purple",
       "file": "img/iphone-12/purple.jpg"
     }
+  ],
+  "samsung-galaxy-a36": [
+    {
+      "color": "Lavender",
+      "file": "img/samsung-galaxy-a36/lavender.jpg"
+    },
+    {
+      "color": "Black",
+      "file": "img/samsung-galaxy-a36/black.jpg"
+    },
+    {
+      "color": "White",
+      "file": "img/samsung-galaxy-a36/white.jpg"
+    },
+    {
+      "color": "Lime",
+      "file": "img/samsung-galaxy-a36/lime.jpg"
+    }
+  ],
+  "samsung-galaxy-a26": [
+    {
+      "color": "Black",
+      "file": "img/samsung-galaxy-a26/black.jpg"
+    },
+    {
+      "color": "White",
+      "file": "img/samsung-galaxy-a26/white.jpg"
+    },
+    {
+      "color": "Mint",
+      "file": "img/samsung-galaxy-a26/mint.jpg"
+    },
+    {
+      "color": "Peach Pink",
+      "file": "img/samsung-galaxy-a26/peach-pink.jpg"
+    }
+  ],
+  "iphone-17": [
+    {
+      "color": "Black",
+      "file": "img/iphone-17/black.jpg"
+    },
+    {
+      "color": "White",
+      "file": "img/iphone-17/white.jpg"
+    },
+    {
+      "color": "Mist Blue",
+      "file": "img/iphone-17/mist-blue.jpg"
+    },
+    {
+      "color": "Sage",
+      "file": "img/iphone-17/sage.jpg"
+    },
+    {
+      "color": "Lavender",
+      "file": "img/iphone-17/lavender.jpg"
+    }
+  ],
+  "poco-x7-pro": [
+    {
+      "color": "Black/Yellow",
+      "file": "img/poco-x7-pro/black-yellow.jpg"
+    },
+    {
+      "color": "White",
+      "file": "img/poco-x7-pro/white.jpg"
+    },
+    {
+      "color": "Green",
+      "file": "img/poco-x7-pro/green.jpg"
+    },
+    {
+      "color": "Red (Iron Man Edition)",
+      "file": "img/poco-x7-pro/red.jpg"
+    }
+  ],
+  "oppo-reno-13": [
+    {
+      "color": "Plume White",
+      "file": "img/oppo-reno-13/plume-white.jpg"
+    },
+    {
+      "color": "Luminous Blue",
+      "file": "img/oppo-reno-13/luminous-blue.jpg"
+    },
+    {
+      "color": "Black",
+      "file": "img/oppo-reno-13/black.jpg"
+    },
+    {
+      "color": "Purple",
+      "file": "img/oppo-reno-13/purple.jpg"
+    },
+    {
+      "color": "Blue",
+      "file": "img/oppo-reno-13/blue.jpg"
+    }
   ]
 }

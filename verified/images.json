@@ -244,5 +244,107 @@
       "color": "Mist Purple",
       "file": "img/vivo-v50/mist-purple.jpg"
     }
+  ],
+  "samsung-galaxy-s24": [
+    {
+      "color": "Onyx Black",
+      "file": "img/samsung-galaxy-s24/onyx-black.jpg"
+    },
+    {
+      "color": "Marble Grey",
+      "file": "img/samsung-galaxy-s24/marble-grey.jpg"
+    },
+    {
+      "color": "Cobalt Violet",
+      "file": "img/samsung-galaxy-s24/cobalt-violet.jpg"
+    },
+    {
+      "color": "Amber Yellow",
+      "file": "img/samsung-galaxy-s24/amber-yellow.jpg"
+    },
+    {
+      "color": "Jade Green",
+      "file": "img/samsung-galaxy-s24/jade-green.jpg"
+    },
+    {
+      "color": "Sandstone Orange",
+      "file": "img/samsung-galaxy-s24/sandstone-orange.jpg"
+    },
+    {
+      "color": "Sapphire Blue",
+      "file": "img/samsung-galaxy-s24/sapphire-blue.jpg"
+    }
+  ],
+  "google-pixel-9": [
+    {
+      "color": "Obsidian",
+      "file": "img/google-pixel-9/obsidian.jpg"
+    },
+    {
+      "color": "Porcelain",
+      "file": "img/google-pixel-9/porcelain.jpg"
+    },
+    {
+      "color": "Wintergreen",
+      "file": "img/google-pixel-9/wintergreen.jpg"
+    },
+    {
+      "color": "Peony",
+      "file": "img/google-pixel-9/peony.jpg"
+    }
+  ],
+  "xiaomi-14": [
+    {
+      "color": "Black",
+      "file": "img/xiaomi-14/black.jpg"
+    },
+    {
+      "color": "White",
+      "file": "img/xiaomi-14/white.jpg"
+    },
+    {
+      "color": "Jade Green",
+      "file": "img/xiaomi-14/jade-green.jpg"
+    }
+  ],
+  "redmi-note-13": [
+    {
+      "color": "Mint Green",
+      "file": "img/redmi-note-13/mint-green.jpg"
+    },
+    {
+      "color": "Midnight Black",
+      "file": "img/redmi-note-13/midnight-black.jpg"
+    },
+    {
+      "color": "Ocean Sunset",
+      "file": "img/redmi-note-13/ocean-sunset.jpg"
+    }
+  ],
+  "iphone-12": [
+    {
+      "color": "Black",
+      "file": "img/iphone-12/black.jpg"
+    },
+    {
+      "color": "White",
+      "file": "img/iphone-12/white.jpg"
+    },
+    {
+      "color": "Red",
+      "file": "img/iphone-12/red.jpg"
+    },
+    {
+      "color": "Green",
+      "file": "img/iphone-12/green.jpg"
+    },
+    {
+      "color": "Blue",
+      "file": "img/iphone-12/blue.jpg"
+    },
+    {
+      "color": "Purple",
+      "file": "img/iphone-12/purple.jpg"
+    }
   ]
 }

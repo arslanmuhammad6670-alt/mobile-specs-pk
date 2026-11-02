@@ -4,7 +4,7 @@
   "name": "iPhone 16 Pro Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 574999,
+  "price": 2076,
   "path": "phones/iphone-16-pro-max.html",
   "specs": {
    "Launch Year": "2024 (announced 9 Sep 2024, released 20 Sep 2024)",
@@ -28,7 +28,7 @@
   "name": "iPhone 16",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 379999,
+  "price": 1372,
   "path": "phones/iphone-16.html",
   "specs": {
    "Launch Year": "2024",
@@ -52,7 +52,7 @@
   "name": "iPhone 15",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 324999,
+  "price": 1173,
   "path": "phones/iphone-15.html",
   "specs": {
    "Launch Year": "2023",
@@ -76,7 +76,7 @@
   "name": "iPhone 14",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 279999,
+  "price": 1011,
   "path": "phones/iphone-14.html",
   "specs": {
    "Launch Year": "2022",
@@ -100,7 +100,7 @@
   "name": "iPhone 13",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 234999,
+  "price": 848,
   "path": "phones/iphone-13.html",
   "specs": {
    "Launch Year": "2021",
@@ -124,7 +124,7 @@
   "name": "Samsung Galaxy S25 Ultra",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 424999,
+  "price": 1534,
   "path": "phones/samsung-galaxy-s25-ultra.html",
   "specs": {
    "Launch Year": "2025 (announced January 2025, released February 2025)",
@@ -148,7 +148,7 @@
   "name": "Samsung Galaxy S24 Ultra",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 399999,
+  "price": 1444,
   "path": "phones/samsung-galaxy-s24-ultra.html",
   "specs": {
    "Launch Year": "2024 (announced 17 Jan 2024, released 24 Jan 2024)",
@@ -172,7 +172,7 @@
   "name": "Samsung Galaxy S23",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 249999,
+  "price": 903,
   "path": "phones/samsung-galaxy-s23.html",
   "specs": {
    "Launch Year": "2023 (announced 1 Feb 2023, released 17 Feb 2023)",
@@ -196,7 +196,7 @@
   "name": "Samsung Galaxy Z Flip 6",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 384999,
+  "price": 1390,
   "path": "phones/samsung-galaxy-z-flip-6.html",
   "specs": {
    "Launch Year": "2024 (announced 10 Jul 2024, released 24 Jul 2024)",
@@ -220,7 +220,7 @@
   "name": "Samsung Galaxy A55",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 139999,
+  "price": 505,
   "path": "phones/samsung-galaxy-a55.html",
   "specs": {
    "Launch Year": "2024 (announced 11 Mar 2024, released 15 Mar 2024)",
@@ -244,7 +244,7 @@
   "name": "Samsung Galaxy A16",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 54999,
+  "price": 199,
   "path": "phones/samsung-galaxy-a16.html",
   "specs": {
    "Launch Year": "2024 (announced 15 Oct 2024, released 20 Nov 2024) — 4G variant",
@@ -268,7 +268,7 @@
   "name": "Samsung Galaxy A15",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 49999,
+  "price": 181,
   "path": "phones/samsung-galaxy-a15.html",
   "specs": {
    "Launch Year": "2023 (announced 11 Dec 2023, released 16 Dec 2023) — 4G variant",
@@ -292,7 +292,7 @@
   "name": "Samsung Galaxy A06",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 32999,
+  "price": 119,
   "path": "phones/samsung-galaxy-a06.html",
   "specs": {
    "Launch Year": "2024 (announced 16 Aug 2024, released 22 Aug 2024) — 4G variant",
@@ -316,7 +316,7 @@
   "name": "Redmi Note 13",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 54999,
+  "price": 199,
   "path": "phones/redmi-note-13.html",
   "specs": {
    "Launch Year": "2024 (announced/released 15 January 2024)",
@@ -340,7 +340,7 @@
   "name": "Redmi Note 13 Pro",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 74999,
+  "price": 271,
   "path": "phones/redmi-note-13-pro.html",
   "specs": {
    "Launch Year": "2024 (announced/released 15 January 2024)",
@@ -364,7 +364,7 @@
   "name": "Redmi 13",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 39999,
+  "price": 144,
   "path": "phones/redmi-13.html",
   "specs": {
    "Launch Year": "2024 (announced/released 3 June 2024)",
@@ -388,7 +388,7 @@
   "name": "Redmi A3",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 24999,
+  "price": 90,
   "path": "phones/redmi-a3.html",
   "specs": {
    "Launch Year": "2024 (announced 14 February 2024, released 23 February 2024)",
@@ -412,7 +412,7 @@
   "name": "Xiaomi 14",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 269999,
+  "price": 975,
   "path": "phones/xiaomi-14.html",
   "specs": {
    "Launch Year": "2023 (announced 26 October 2023, released 1 November 2023; global debut February 2024)",
@@ -436,7 +436,7 @@
   "name": "Poco X6 Pro",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 84999,
+  "price": 307,
   "path": "phones/poco-x6-pro.html",
   "specs": {
    "Launch Year": "2024 (announced 11 January 2024, released 12 January 2024)",
@@ -460,7 +460,7 @@
   "name": "Poco M6 Pro",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 54999,
+  "price": 199,
   "path": "phones/poco-m6-pro.html",
   "specs": {
    "Launch Year": "2024 (announced 11 January 2024, released 12 January 2024)",
@@ -484,7 +484,7 @@
   "name": "Infinix Note 40",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 69999,
+  "price": 253,
   "path": "phones/infinix-note-40.html",
   "specs": {
    "Launch Year": "2024 (announced 18 March 2024, released 19 March 2024)",
@@ -508,7 +508,7 @@
   "name": "Infinix Hot 40 Pro",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 45999,
+  "price": 166,
   "path": "phones/infinix-hot-40-pro.html",
   "specs": {
    "Launch Year": "2023 (announced 5 December 2023, released December 2023)",
@@ -532,7 +532,7 @@
   "name": "Infinix Hot 40i",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 33999,
+  "price": 123,
   "path": "phones/infinix-hot-40i.html",
   "specs": {
    "Launch Year": "2023 (announced 5 December 2023, released December 2023)",
@@ -556,7 +556,7 @@
   "name": "Infinix Smart 8",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 26999,
+  "price": 97,
   "path": "phones/infinix-smart-8.html",
   "specs": {
    "Launch Year": "2023 (announced/released 9 November 2023)",
@@ -580,7 +580,7 @@
   "name": "Tecno Camon 30",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 57999,
+  "price": 209,
   "path": "phones/tecno-camon-30.html",
   "specs": {
    "Launch Year": "2024 (announced 27 February 2024, released 2 April 2024)",
@@ -604,7 +604,7 @@
   "name": "Tecno Spark 20 Pro+",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 39999,
+  "price": 144,
   "path": "phones/tecno-spark-20-pro-plus.html",
   "specs": {
    "Launch Year": "2024 (announced 29 December 2023, released 9 February 2024)",
@@ -628,7 +628,7 @@
   "name": "Tecno Spark 20",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 29999,
+  "price": 108,
   "path": "phones/tecno-spark-20.html",
   "specs": {
    "Launch Year": "2023 (announced 1 December 2023, released December 2023)",
@@ -652,7 +652,7 @@
   "name": "Tecno Pop 8",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 23999,
+  "price": 87,
   "path": "phones/tecno-pop-8.html",
   "specs": {
    "Launch Year": "2023 (announced 30 October 2023, released November 2023)",
@@ -676,7 +676,7 @@
   "name": "Vivo V30",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 139999,
+  "price": 505,
   "path": "phones/vivo-v30.html",
   "specs": {
    "Launch Year": "2024",
@@ -700,7 +700,7 @@
   "name": "Vivo Y28",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 49999,
+  "price": 181,
   "path": "phones/vivo-y28.html",
   "specs": {
    "Launch Year": "2024",
@@ -724,7 +724,7 @@
   "name": "Vivo Y18",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 39999,
+  "price": 144,
   "path": "phones/vivo-y18.html",
   "specs": {
    "Launch Year": "2024",
@@ -748,7 +748,7 @@
   "name": "Oppo Reno 11",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 129999,
+  "price": 469,
   "path": "phones/oppo-reno-11.html",
   "specs": {
    "Launch Year": "2024 (announced 2024, January 12; released 2024, January 25) — GLOBAL variant",
@@ -772,7 +772,7 @@
   "name": "Oppo A58",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 44999,
+  "price": 162,
   "path": "phones/oppo-a58.html",
   "specs": {
    "Launch Year": "2023",
@@ -796,7 +796,7 @@
   "name": "Realme 12+",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 59999,
+  "price": 217,
   "path": "phones/realme-12-plus.html",
   "specs": {
    "Launch Year": "2024",
@@ -820,7 +820,7 @@
   "name": "Realme C65",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 39999,
+  "price": 144,
   "path": "phones/realme-c65.html",
   "specs": {
    "Launch Year": "2024",
@@ -844,7 +844,7 @@
   "name": "Honor X9b",
   "brand": "Honor",
   "cat": "Smartphones",
-  "price": 129999,
+  "price": 469,
   "path": "phones/honor-x9b.html",
   "specs": {
    "Launch Year": "2023",
@@ -868,7 +868,7 @@
   "name": "Honor X7b",
   "brand": "Honor",
   "cat": "Smartphones",
-  "price": 64999,
+  "price": 235,
   "path": "phones/honor-x7b.html",
   "specs": {
    "Launch Year": "2023",
@@ -892,7 +892,7 @@
   "name": "OnePlus 12",
   "brand": "OnePlus",
   "cat": "Smartphones",
-  "price": 279999,
+  "price": 1011,
   "path": "phones/oneplus-12.html",
   "specs": {
    "Launch Year": "2023 (announced 2023, December 05; released 2023, December 11 in China; global launch January 2024)",
@@ -916,7 +916,7 @@
   "name": "Google Pixel 8",
   "brand": "Google",
   "cat": "Smartphones",
-  "price": 224999,
+  "price": 812,
   "path": "phones/google-pixel-8.html",
   "specs": {
    "Launch Year": "2023",
@@ -940,7 +940,7 @@
   "name": "Google Pixel 8 Pro",
   "brand": "Google",
   "cat": "Smartphones",
-  "price": 324999,
+  "price": 1173,
   "path": "phones/google-pixel-8-pro.html",
   "specs": {
    "Launch Year": "2023",
@@ -964,7 +964,7 @@
   "name": "Nothing Phone (2)",
   "brand": "Nothing",
   "cat": "Smartphones",
-  "price": 164999,
+  "price": 596,
   "path": "phones/nothing-phone-2.html",
   "specs": {
    "Launch Year": "2023",
@@ -988,7 +988,7 @@
   "name": "Nokia 105 (2023)",
   "brand": "Nokia",
   "cat": "Keypad Phones",
-  "price": 5499,
+  "price": 20,
   "path": "keypad/nokia-105-2023.html",
   "specs": {
    "Launch Year": "2023",
@@ -1008,7 +1008,7 @@
   "name": "Nokia 106 (2023)",
   "brand": "Nokia",
   "cat": "Keypad Phones",
-  "price": 4499,
+  "price": 16,
   "path": "keypad/nokia-106-2023.html",
   "specs": {
    "Launch Year": "2023",
@@ -1028,7 +1028,7 @@
   "name": "Nokia 110 4G (2023)",
   "brand": "Nokia",
   "cat": "Keypad Phones",
-  "price": 7499,
+  "price": 27,
   "path": "keypad/nokia-110-4g-2023.html",
   "specs": {
    "Launch Year": "2023",
@@ -1048,7 +1048,7 @@
   "name": "Nokia 130 Music",
   "brand": "Nokia",
   "cat": "Keypad Phones",
-  "price": 6999,
+  "price": 25,
   "path": "keypad/nokia-130-music.html",
   "specs": {
    "Launch Year": "2023",
@@ -1068,7 +1068,7 @@
   "name": "Nokia 150 (2023)",
   "brand": "Nokia",
   "cat": "Keypad Phones",
-  "price": 7999,
+  "price": 29,
   "path": "keypad/nokia-150-2023.html",
   "specs": {
    "Launch Year": "2023",
@@ -1088,7 +1088,7 @@
   "name": "Nokia 215 4G",
   "brand": "Nokia",
   "cat": "Keypad Phones",
-  "price": 8499,
+  "price": 31,
   "path": "keypad/nokia-215-4g.html",
   "specs": {
    "Launch Year": "2024",
@@ -1108,7 +1108,7 @@
   "name": "Nokia 225 4G",
   "brand": "Nokia",
   "cat": "Keypad Phones",
-  "price": 9499,
+  "price": 34,
   "path": "keypad/nokia-225-4g.html",
   "specs": {
    "Launch Year": "2024",
@@ -1128,7 +1128,7 @@
   "name": "HMD 105",
   "brand": "HMD",
   "cat": "Keypad Phones",
-  "price": 4299,
+  "price": 16,
   "path": "keypad/hmd-105.html",
   "specs": {
    "Launch Year": "2024",
@@ -1148,7 +1148,7 @@
   "name": "Apple iPad (10th Generation)",
   "brand": "Apple",
   "cat": "Tablets",
-  "price": 119999,
+  "price": 433,
   "path": "tablets/apple-ipad-10.html",
   "specs": {
    "Launch Year": "2022",
@@ -1169,7 +1169,7 @@
   "name": "Apple iPad Air 11 (M2)",
   "brand": "Apple",
   "cat": "Tablets",
-  "price": 219999,
+  "price": 794,
   "path": "tablets/apple-ipad-air-m2.html",
   "specs": {
    "Launch Year": "2024",
@@ -1190,7 +1190,7 @@
   "name": "Samsung Galaxy Tab A9",
   "brand": "Samsung",
   "cat": "Tablets",
-  "price": 54999,
+  "price": 199,
   "path": "tablets/samsung-galaxy-tab-a9.html",
   "specs": {
    "Launch Year": "2023",
@@ -1212,7 +1212,7 @@
   "name": "Samsung Galaxy Tab S9",
   "brand": "Samsung",
   "cat": "Tablets",
-  "price": 264999,
+  "price": 957,
   "path": "tablets/samsung-galaxy-tab-s9.html",
   "specs": {
    "Launch Year": "2023",
@@ -1234,7 +1234,7 @@
   "name": "Xiaomi Pad 6",
   "brand": "Xiaomi",
   "cat": "Tablets",
-  "price": 114999,
+  "price": 415,
   "path": "tablets/xiaomi-pad-6.html",
   "specs": {
    "Launch Year": "2023",
@@ -1255,7 +1255,7 @@
   "name": "Redmi Pad SE",
   "brand": "Xiaomi",
   "cat": "Tablets",
-  "price": 44999,
+  "price": 162,
   "path": "tablets/redmi-pad-se.html",
   "specs": {
    "Launch Year": "2023",
@@ -1276,7 +1276,7 @@
   "name": "Infinix XPad",
   "brand": "Infinix",
   "cat": "Tablets",
-  "price": 39999,
+  "price": 144,
   "path": "tablets/infinix-xpad.html",
   "specs": {
    "Launch Year": "2024",
@@ -1298,7 +1298,7 @@
   "name": "Lenovo Tab M11",
   "brand": "Lenovo",
   "cat": "Tablets",
-  "price": 47999,
+  "price": 173,
   "path": "tablets/lenovo-tab-m11.html",
   "specs": {
    "Launch Year": "2024",
@@ -1320,7 +1320,7 @@
   "name": "Apple MacBook Air 13 (M3)",
   "brand": "Apple",
   "cat": "Laptops",
-  "price": 374999,
+  "price": 1354,
   "path": "laptops/apple-macbook-air-m3.html",
   "specs": {
    "Launch Year": "2024",
@@ -1340,7 +1340,7 @@
   "name": "Apple MacBook Pro 14 (M3 Pro)",
   "brand": "Apple",
   "cat": "Laptops",
-  "price": 719999,
+  "price": 2599,
   "path": "laptops/apple-macbook-pro-14-m3-pro.html",
   "specs": {
    "Launch Year": "2023",
@@ -1360,7 +1360,7 @@
   "name": "HP Pavilion 15 (Core i5 13th Gen)",
   "brand": "HP",
   "cat": "Laptops",
-  "price": 184999,
+  "price": 668,
   "path": "laptops/hp-pavilion-15.html",
   "specs": {
    "Launch Year": "2023",
@@ -1380,7 +1380,7 @@
   "name": "Dell Inspiron 15 3530",
   "brand": "Dell",
   "cat": "Laptops",
-  "price": 179999,
+  "price": 650,
   "path": "laptops/dell-inspiron-3530.html",
   "specs": {
    "Launch Year": "2023",
@@ -1400,7 +1400,7 @@
   "name": "Lenovo IdeaPad Slim 3 (Ryzen 5)",
   "brand": "Lenovo",
   "cat": "Laptops",
-  "price": 149999,
+  "price": 542,
   "path": "laptops/lenovo-ideapad-slim-3.html",
   "specs": {
    "Launch Year": "2023",
@@ -1420,7 +1420,7 @@
   "name": "Asus Vivobook 15 (Core i5 12th Gen)",
   "brand": "Asus",
   "cat": "Laptops",
-  "price": 169999,
+  "price": 614,
   "path": "laptops/asus-vivobook-15.html",
   "specs": {
    "Launch Year": "2023",
@@ -1440,7 +1440,7 @@
   "name": "Acer Aspire 5 (Core i5 13th Gen)",
   "brand": "Acer",
   "cat": "Laptops",
-  "price": 174999,
+  "price": 632,
   "path": "laptops/acer-aspire-5.html",
   "specs": {
    "Launch Year": "2023",
@@ -1460,7 +1460,7 @@
   "name": "HP Victus 15 Gaming (RTX 4050)",
   "brand": "HP",
   "cat": "Laptops",
-  "price": 289999,
+  "price": 1047,
   "path": "laptops/hp-victus-15-gaming.html",
   "specs": {
    "Launch Year": "2023",
@@ -1480,7 +1480,7 @@
   "name": "Samsung Galaxy A35",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 119999,
+  "price": 433,
   "path": "phones/samsung-galaxy-a35.html",
   "specs": {
    "Launch Year": "2024 (announced 11 Mar 2024, released 15 Mar 2024)",
@@ -1504,7 +1504,7 @@
   "name": "Samsung Galaxy A25",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 63499,
+  "price": 229,
   "path": "phones/samsung-galaxy-a25.html",
   "specs": {
    "Launch Year": "2023 (announced 11 Dec 2023, released 16 Dec 2023)",
@@ -1528,7 +1528,7 @@
   "name": "Samsung Galaxy A05s",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 32999,
+  "price": 119,
   "path": "phones/samsung-galaxy-a05s.html",
   "specs": {
    "Launch Year": "2023 (announced 25 Sep 2023, released 18 Oct 2023)",
@@ -1552,7 +1552,7 @@
   "name": "Samsung Galaxy S24 FE",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 219999,
+  "price": 794,
   "path": "phones/samsung-galaxy-s24-fe.html",
   "specs": {
    "Launch Year": "2024 (announced 26 Sep 2024, released 3 Oct 2024)",
@@ -1576,7 +1576,7 @@
   "name": "Samsung Galaxy S23 FE",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 204999,
+  "price": 740,
   "path": "phones/samsung-galaxy-s23-fe.html",
   "specs": {
    "Launch Year": "2023 (announced 4 Oct 2023, released 5 Oct 2023)",
@@ -1600,7 +1600,7 @@
   "name": "Apple iPhone 16 Pro",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 396999,
+  "price": 1433,
   "path": "phones/apple-iphone-16-pro.html",
   "specs": {
    "Launch Year": "2024 (announced 9 Sep 2024, released 20 Sep 2024)",
@@ -1624,7 +1624,7 @@
   "name": "Apple iPhone 16 Plus",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 327999,
+  "price": 1184,
   "path": "phones/apple-iphone-16-plus.html",
   "specs": {
    "Launch Year": "2024 (announced 9 Sep 2024, released 20 Sep 2024)",
@@ -1648,7 +1648,7 @@
   "name": "Apple iPhone 15 Pro Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 474999,
+  "price": 1715,
   "path": "phones/apple-iphone-15-pro-max.html",
   "specs": {
    "Launch Year": "2023 (announced 12 Sep 2023, released 22 Sep 2023)",
@@ -1672,7 +1672,7 @@
   "name": "Apple iPhone 15 Plus",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 384999,
+  "price": 1390,
   "path": "phones/apple-iphone-15-plus.html",
   "specs": {
    "Launch Year": "2023 (announced 12 Sep 2023, released 22 Sep 2023)",
@@ -1696,7 +1696,7 @@
   "name": "Apple iPhone 13 mini",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 223399,
+  "price": 806,
   "path": "phones/apple-iphone-13-mini.html",
   "specs": {
    "Launch Year": "2021 (announced 14 Sep 2021, released 24 Sep 2021)",
@@ -1720,7 +1720,7 @@
   "name": "Infinix Note 40 Pro",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 74999,
+  "price": 271,
   "path": "phones/infinix-note-40-pro.html",
   "specs": {
    "Launch Year": "2024 (announced 18 March 2024, released 19 March 2024)",
@@ -1744,7 +1744,7 @@
   "name": "Infinix Hot 50 Pro Plus",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 58999,
+  "price": 213,
   "path": "phones/infinix-hot-50-pro-plus.html",
   "specs": {
    "Launch Year": "2024 (announced 20 October 2024, released November 2024)",
@@ -1768,7 +1768,7 @@
   "name": "Infinix Smart 9",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 26999,
+  "price": 97,
   "path": "phones/infinix-smart-9.html",
   "specs": {
    "Launch Year": "2024 (announced 23 September 2024, released October 2024)",
@@ -1792,7 +1792,7 @@
   "name": "Infinix Zero 40 4G",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 62999,
+  "price": 227,
   "path": "phones/infinix-zero-40-4g.html",
   "specs": {
    "Launch Year": "2024 (announced 29 August 2024, released 8 September 2024)",
@@ -1816,7 +1816,7 @@
   "name": "Tecno Camon 40",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 57999,
+  "price": 209,
   "path": "phones/tecno-camon-40.html",
   "specs": {
    "Launch Year": "2025 (announced 3 March 2025, released May 2025)",
@@ -1840,7 +1840,7 @@
   "name": "Tecno Spark 30 Pro",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 39999,
+  "price": 144,
   "path": "phones/tecno-spark-30-pro.html",
   "specs": {
    "Launch Year": "2024 (announced 23 September 2024, released October 2024)",
@@ -1864,7 +1864,7 @@
   "name": "Tecno Pova 6",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 64999,
+  "price": 235,
   "path": "phones/tecno-pova-6.html",
   "specs": {
    "Launch Year": "2024 (announced 4 April 2024, released May 2024)",
@@ -1888,7 +1888,7 @@
   "name": "Redmi Note 14",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 57999,
+  "price": 209,
   "path": "phones/redmi-note-14.html",
   "specs": {
    "Launch Year": "2025 (announced 10 January 2025, released 15 January 2025) — global 4G version",
@@ -1912,7 +1912,7 @@
   "name": "Redmi Note 13 Pro Plus 5G",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 139999,
+  "price": 505,
   "path": "phones/redmi-note-13-pro-plus.html",
   "specs": {
    "Launch Year": "2023 (announced/released 21 September 2023)",
@@ -1936,7 +1936,7 @@
   "name": "Poco X7",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 113999,
+  "price": 412,
   "path": "phones/poco-x7.html",
   "specs": {
    "Launch Year": "2025 (announced/released 9 January 2025) — global version",
@@ -1960,7 +1960,7 @@
   "name": "Vivo V40",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 139999,
+  "price": 505,
   "path": "phones/vivo-v40.html",
   "specs": {
    "Launch Year": "2024 (announced 17 June 2024, released 3 July 2024)",
@@ -1984,7 +1984,7 @@
   "name": "Vivo Y29",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 49999,
+  "price": 181,
   "path": "phones/vivo-y29.html",
   "specs": {
    "Launch Year": "2025 (announced 19 February 2025, released 24 February 2025)",
@@ -2008,7 +2008,7 @@
   "name": "Vivo Y19s",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 36999,
+  "price": 134,
   "path": "phones/vivo-y19s.html",
   "specs": {
    "Launch Year": "2024 (announced 15 October 2024, released October 2024)",
@@ -2032,7 +2032,7 @@
   "name": "Oppo Reno 12",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 159999,
+  "price": 578,
   "path": "phones/oppo-reno-12.html",
   "specs": {
    "Launch Year": "2024 (announced 18 June 2024, released 25 June 2024)",
@@ -2056,7 +2056,7 @@
   "name": "Oppo A3",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 39999,
+  "price": 144,
   "path": "phones/oppo-a3-4g.html",
   "specs": {
    "Launch Year": "2024 (announced and released 20 August 2024)",
@@ -2080,7 +2080,7 @@
   "name": "Realme 13 Pro Plus",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 104999,
+  "price": 379,
   "path": "phones/realme-13-pro-plus.html",
   "specs": {
    "Launch Year": "2024 (announced 30 July 2024, released 6 August 2024)",
@@ -2104,7 +2104,7 @@
   "name": "Realme C75",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 46999,
+  "price": 170,
   "path": "phones/realme-c75.html",
   "specs": {
    "Launch Year": "2024 (announced 26 November 2024, released 1 December 2024)",
@@ -2128,7 +2128,7 @@
   "name": "Realme Note 60",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 24999,
+  "price": 90,
   "path": "phones/realme-note-60.html",
   "specs": {
    "Launch Year": "2024 (announced and released 30 August 2024)",
@@ -2152,7 +2152,7 @@
   "name": "Honor X8b",
   "brand": "Honor",
   "cat": "Smartphones",
-  "price": 79999,
+  "price": 289,
   "path": "phones/honor-x8b.html",
   "specs": {
    "Launch Year": "2023 (announced 14 December 2023, released 22 December 2023)",
@@ -2176,7 +2176,7 @@
   "name": "Honor 200",
   "brand": "Honor",
   "cat": "Smartphones",
-  "price": 104999,
+  "price": 379,
   "path": "phones/honor-200.html",
   "specs": {
    "Launch Year": "2024 (announced 27 May 2024, released 31 May 2024)",
@@ -2200,7 +2200,7 @@
   "name": "Google Pixel 9",
   "brand": "Google",
   "cat": "Smartphones",
-  "price": 199999,
+  "price": 722,
   "path": "phones/google-pixel-9.html",
   "specs": {
    "Launch Year": "2024 (announced 13 Aug 2024, released 22 Aug 2024)",
@@ -2224,7 +2224,7 @@
   "name": "Google Pixel 9 Pro",
   "brand": "Google",
   "cat": "Smartphones",
-  "price": 269999,
+  "price": 975,
   "path": "phones/google-pixel-9-pro.html",
   "specs": {
    "Launch Year": "2024 (announced 13 Aug 2024, released 9 Sep 2024)",
@@ -2248,7 +2248,7 @@
   "name": "OnePlus 12R",
   "brand": "OnePlus",
   "cat": "Smartphones",
-  "price": 120999,
+  "price": 437,
   "path": "phones/oneplus-12r.html",
   "specs": {
    "Launch Year": "2024 (announced 23 Jan 2024, released 6 Feb 2024)",
@@ -2272,7 +2272,7 @@
   "name": "OnePlus Nord 4",
   "brand": "OnePlus",
   "cat": "Smartphones",
-  "price": 99999,
+  "price": 361,
   "path": "phones/oneplus-nord-4.html",
   "specs": {
    "Launch Year": "2024 (announced 16 Jul 2024, released 8 Aug 2024)",
@@ -2296,7 +2296,7 @@
   "name": "Nothing Phone (2a)",
   "brand": "Nothing",
   "cat": "Smartphones",
-  "price": 116749,
+  "price": 421,
   "path": "phones/nothing-phone-2a.html",
   "specs": {
    "Launch Year": "2024 (announced 5 Mar 2024, released 12 Mar 2024)",
@@ -2320,7 +2320,7 @@
   "name": "Motorola Edge 50 Fusion",
   "brand": "Motorola",
   "cat": "Smartphones",
-  "price": 129999,
+  "price": 469,
   "path": "phones/motorola-edge-50-fusion.html",
   "specs": {
    "Launch Year": "2024 (announced 16 Apr 2024, released 15 May 2024)",
@@ -2344,7 +2344,7 @@
   "name": "Samsung Galaxy Tab A9 Plus",
   "brand": "Samsung",
   "cat": "Tablets",
-  "price": 74999,
+  "price": 271,
   "path": "tablets/samsung-galaxy-tab-a9-plus.html",
   "specs": {
    "Launch Year": "2023",
@@ -2366,7 +2366,7 @@
   "name": "Apple iPad Pro 11 (M4)",
   "brand": "Apple",
   "cat": "Tablets",
-  "price": 289999,
+  "price": 1047,
   "path": "tablets/apple-ipad-pro-m4-11.html",
   "specs": {
    "Launch Year": "2024",
@@ -2388,7 +2388,7 @@
   "name": "Nokia 3210 (2024)",
   "brand": "Nokia",
   "cat": "Keypad Phones",
-  "price": 11999,
+  "price": 43,
   "path": "keypad/nokia-3210-2024.html",
   "specs": {
    "Launch Year": "2024",
@@ -2408,7 +2408,7 @@
   "name": "HMD 110 4G",
   "brand": "HMD",
   "cat": "Keypad Phones",
-  "price": 9999,
+  "price": 36,
   "path": "keypad/hmd-110-4g.html",
   "specs": {
    "Launch Year": "2024",
@@ -2428,7 +2428,7 @@
   "name": "Samsung Galaxy S23 Ultra",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 389999,
+  "price": 1408,
   "path": "phones/samsung-galaxy-s23-ultra.html",
   "specs": {
    "Launch Year": "2023 (announced 1 February 2023, released 17 February 2023)",
@@ -2452,7 +2452,7 @@
   "name": "Samsung Galaxy A54",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 140999,
+  "price": 509,
   "path": "phones/samsung-galaxy-a54.html",
   "specs": {
    "Launch Year": "2023 (announced 15 March 2023, released 24 March 2023)",
@@ -2476,7 +2476,7 @@
   "name": "Samsung Galaxy A34",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 109999,
+  "price": 397,
   "path": "phones/samsung-galaxy-a34.html",
   "specs": {
    "Launch Year": "2023 (announced 14 March 2023, released 24 March 2023)",
@@ -2500,7 +2500,7 @@
   "name": "Apple iPhone 14 Pro Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 565999,
+  "price": 2043,
   "path": "phones/apple-iphone-14-pro-max.html",
   "specs": {
    "Launch Year": "2022 (announced 7 September 2022, released 16 September 2022)",
@@ -2524,7 +2524,7 @@
   "name": "iPhone 12",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 175599,
+  "price": 634,
   "path": "phones/iphone-12.html",
   "specs": {
    "Launch Year": "2020 (announced 13 October 2020, released 23 October 2020)",
@@ -2548,7 +2548,7 @@
   "name": "iPhone 11",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 144899,
+  "price": 523,
   "path": "phones/iphone-11.html",
   "specs": {
    "Launch Year": "2019 (announced 10 September 2019, released 20 September 2019)",
@@ -2572,7 +2572,7 @@
   "name": "Redmi Note 12 Pro (4G)",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 89999,
+  "price": 325,
   "path": "phones/redmi-note-12-pro-4g.html",
   "specs": {
    "Launch Year": "2023 (announced 3 March 2023, released 11 April 2023)",
@@ -2596,7 +2596,7 @@
   "name": "Poco X6",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 114999,
+  "price": 415,
   "path": "phones/poco-x6.html",
   "specs": {
    "Launch Year": "2024 (announced 11 January 2024, released 12 January 2024)",
@@ -2620,7 +2620,7 @@
   "name": "Infinix Hot 40",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 37999,
+  "price": 137,
   "path": "phones/infinix-hot-40.html",
   "specs": {
    "Launch Year": "2023 (announced 5 December 2023, released December 2023)",
@@ -2644,7 +2644,7 @@
   "name": "Tecno Spark 20 Pro",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 40999,
+  "price": 148,
   "path": "phones/tecno-spark-20-pro.html",
   "specs": {
    "Launch Year": "2023 (announced 15 December 2023, released December 2023)",
@@ -2668,7 +2668,7 @@
   "name": "Vivo V29",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 159999,
+  "price": 578,
   "path": "phones/vivo-v29.html",
   "specs": {
    "Launch Year": "2023 (announced 31 July 2023, released September 2023)",
@@ -2692,7 +2692,7 @@
   "name": "Vivo Y36",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 59999,
+  "price": 217,
   "path": "phones/vivo-y36.html",
   "specs": {
    "Launch Year": "2023 (announced 27 May 2023, released 27 May 2023)",
@@ -2716,7 +2716,7 @@
   "name": "Oppo A60",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 54999,
+  "price": 199,
   "path": "phones/oppo-a60.html",
   "specs": {
    "Launch Year": "2024 (announced 26 April 2024, released 26 April 2024)",
@@ -2740,7 +2740,7 @@
   "name": "Oppo A78 4G",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 64999,
+  "price": 235,
   "path": "phones/oppo-a78-4g.html",
   "specs": {
    "Launch Year": "2023 (announced 10 July 2023, released 10 July 2023)",
@@ -2764,7 +2764,7 @@
   "name": "Realme C67",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 44999,
+  "price": 162,
   "path": "phones/realme-c67.html",
   "specs": {
    "Launch Year": "2023 (announced 19 December 2023, released 19 December 2023)",
@@ -2788,7 +2788,7 @@
   "name": "Honor X6b",
   "brand": "Honor",
   "cat": "Smartphones",
-  "price": 23999,
+  "price": 87,
   "path": "phones/honor-x6b.html",
   "specs": {
    "Launch Year": "2024 (announced 13 June 2024, released June 2024)",
@@ -2812,7 +2812,7 @@
   "name": "Xiaomi 13T",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 169999,
+  "price": 614,
   "path": "phones/xiaomi-13t.html",
   "specs": {
    "Launch Year": "2023 (announced 26 September 2023, released 26 September 2023)",
@@ -2836,7 +2836,7 @@
   "name": "Poco C65",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 44999,
+  "price": 162,
   "path": "phones/poco-c65.html",
   "specs": {
    "Launch Year": "2023 (announced 5 November 2023, released 6 November 2023)",
@@ -2860,7 +2860,7 @@
   "name": "Infinix Note 30",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 44999,
+  "price": 162,
   "path": "phones/infinix-note-30.html",
   "specs": {
    "Launch Year": "2023 (announced 22 May 2023, released 22 May 2023)",
@@ -2884,7 +2884,7 @@
   "name": "Tecno Pova 6 Neo",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 54999,
+  "price": 199,
   "path": "phones/tecno-pova-6-neo.html",
   "specs": {
    "Launch Year": "2024 (announced 4 April 2024, released May 2024)",
@@ -2908,7 +2908,7 @@
   "name": "Samsung Galaxy Z Fold 6",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 604999,
+  "price": 2184,
   "path": "phones/samsung-galaxy-z-fold-6.html",
   "specs": {
    "Launch Year": "2024 (announced 10 July 2024, released 24 July 2024)",
@@ -2932,7 +2932,7 @@
   "name": "Samsung Galaxy Z Fold 5",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 399999,
+  "price": 1444,
   "path": "phones/samsung-galaxy-z-fold-5.html",
   "specs": {
    "Launch Year": "2023 (announced 26 July 2023, released 11 August 2023)",
@@ -2956,7 +2956,7 @@
   "name": "Samsung Galaxy S24",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 289999,
+  "price": 1047,
   "path": "phones/samsung-galaxy-s24.html",
   "specs": {
    "Launch Year": "2024 (announced 17 January 2024, released 24 January 2024)",
@@ -2980,7 +2980,7 @@
   "name": "OnePlus Nord CE4",
   "brand": "OnePlus",
   "cat": "Smartphones",
-  "price": 93999,
+  "price": 339,
   "path": "phones/oneplus-nord-ce4.html",
   "specs": {
    "Launch Year": "2024 (announced 1 April 2024, released 4 April 2024)",
@@ -3004,7 +3004,7 @@
   "name": "Google Pixel 8a",
   "brand": "Google",
   "cat": "Smartphones",
-  "price": 143999,
+  "price": 520,
   "path": "phones/google-pixel-8a.html",
   "specs": {
    "Launch Year": "2024 (announced 7 May 2024, released 14 May 2024)",
@@ -3028,7 +3028,7 @@
   "name": "Motorola Edge 50 Pro",
   "brand": "Motorola",
   "cat": "Smartphones",
-  "price": 187999,
+  "price": 679,
   "path": "phones/motorola-edge-50-pro.html",
   "specs": {
    "Launch Year": "2024 (announced 3 April 2024, released 8 April 2024)",
@@ -3052,7 +3052,7 @@
   "name": "Realme GT 6",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 149999,
+  "price": 542,
   "path": "phones/realme-gt-6.html",
   "specs": {
    "Launch Year": "2024 (announced 20 June 2024, released 25 June 2024)",
@@ -3076,7 +3076,7 @@
   "name": "Honor Magic 6 Pro",
   "brand": "Honor",
   "cat": "Smartphones",
-  "price": 187999,
+  "price": 679,
   "path": "phones/honor-magic-6-pro.html",
   "specs": {
    "Launch Year": "2024 (announced 11 January 2024, released 18 January 2024)",
@@ -3100,7 +3100,7 @@
   "name": "Nothing Phone 2a Plus",
   "brand": "Nothing",
   "cat": "Smartphones",
-  "price": 151999,
+  "price": 549,
   "path": "phones/nothing-phone-2a-plus.html",
   "specs": {
    "Launch Year": "2024 (announced 31 July 2024, released 3 August 2024)",
@@ -3124,7 +3124,7 @@
   "name": "Vivo V40 Lite 4G",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 55999,
+  "price": 202,
   "path": "phones/vivo-v40-lite-4g.html",
   "specs": {
    "Launch Year": "2024 (announced 25 September 2024, released 25 September 2024)",

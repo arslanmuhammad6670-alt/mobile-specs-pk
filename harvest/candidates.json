@@ -1,0 +1,1229 @@
+{
+"Apple": {
+"total_on_gsm": 39,
+"missing": {
+"apple-iphone-duo-fold": [
+"apple_iphone_duo_fold",
+"13804"
+],
+"apple-iphone-18-pro-max": [
+"apple_iphone_18_pro_max",
+"14716"
+],
+"apple-iphone-18-pro": [
+"apple_iphone_18_pro",
+"14934"
+],
+"apple-ipad-mini-(2026)": [
+"apple_ipad_mini_(2026)",
+"15039"
+],
+"apple-iphone-17e": [
+"apple_iphone_17e",
+"14487"
+],
+"apple-ipad-air-13-5g-(2026)": [
+"apple_ipad_air_13_5g_(2026)",
+"14521"
+],
+"apple-ipad-air-11-5g-(2026)": [
+"apple_ipad_air_11_5g_(2026)",
+"14520"
+],
+"apple-ipad-pro-13-5g-(2025)": [
+"apple_ipad_pro_13_5g_(2025)",
+"14233"
+],
+"apple-ipad-pro-11-5g-(2025)": [
+"apple_ipad_pro_11_5g_(2025)",
+"14234"
+],
+"apple-iphone-17-pro-max": [
+"apple_iphone_17_pro_max",
+"13964"
+],
+"apple-iphone-17-pro": [
+"apple_iphone_17_pro",
+"14049"
+],
+"apple-iphone-17-air": [
+"apple_iphone_17_air",
+"13502"
+],
+"apple-iphone-17": [
+"apple_iphone_17",
+"14050"
+],
+"apple-ipad-air-13-(2025)": [
+"apple_ipad_air_13_(2025)",
+"13704"
+],
+"apple-ipad-air-11-(2025)": [
+"apple_ipad_air_11_(2025)",
+"13703"
+],
+"apple-ipad-(2025)": [
+"apple_ipad_(2025)",
+"13702"
+],
+"apple-iphone-16e": [
+"apple_iphone_16e",
+"13395"
+],
+"apple-ipad-mini-(2024)": [
+"apple_ipad_mini_(2024)",
+"13437"
+],
+"apple-iphone-16-pro-max": [
+"apple_iphone_16_pro_max",
+"13123"
+],
+"apple-iphone-16": [
+"apple_iphone_16",
+"13317"
+],
+"apple-ipad-pro-13-(2024)": [
+"apple_ipad_pro_13_(2024)",
+"12987"
+],
+"apple-ipad-pro-11-(2024)": [
+"apple_ipad_pro_11_(2024)",
+"12986"
+],
+"apple-ipad-air-13-(2024)": [
+"apple_ipad_air_13_(2024)",
+"12985"
+],
+"apple-ipad-air-11-(2024)": [
+"apple_ipad_air_11_(2024)",
+"12984"
+],
+"apple-iphone-15-pro": [
+"apple_iphone_15_pro",
+"12557"
+],
+"apple-iphone-15": [
+"apple_iphone_15",
+"12559"
+],
+"apple-ipad-pro-12-9-(2022)": [
+"apple_ipad_pro_12_9_(2022)",
+"11939"
+],
+"apple-ipad-pro-11-(2022)": [
+"apple_ipad_pro_11_(2022)",
+"11940"
+],
+"apple-ipad-(2022)": [
+"apple_ipad_(2022)",
+"11941"
+],
+"apple-iphone-14-pro": [
+"apple_iphone_14_pro",
+"11860"
+],
+"apple-iphone-14-plus": [
+"apple_iphone_14_plus",
+"11862"
+],
+"apple-iphone-14": [
+"apple_iphone_14",
+"11861"
+]
+}
+},
+"Google": {
+"total_on_gsm": 42,
+"missing": {
+"google-pixel-11-pro-fold": [
+"google_pixel_11_pro_fold",
+"14874"
+],
+"google-pixel-11-pro-xl-5g": [
+"google_pixel_11_pro_xl_5g",
+"14800"
+],
+"google-pixel-11-pro-5g": [
+"google_pixel_11_pro_5g",
+"14801"
+],
+"google-pixel-11-5g": [
+"google_pixel_11_5g",
+"14799"
+],
+"google-pixel-10a-5g": [
+"google_pixel_10a_5g",
+"14474"
+],
+"google-pixel-10-pro-fold": [
+"google_pixel_10_pro_fold",
+"14014"
+],
+"google-pixel-10-pro-xl-5g": [
+"google_pixel_10_pro_xl_5g",
+"13988"
+],
+"google-pixel-10-pro-5g": [
+"google_pixel_10_pro_5g",
+"13987"
+],
+"google-pixel-10-5g": [
+"google_pixel_10_5g",
+"13979"
+],
+"google-pixel-9-pro-fold": [
+"google_pixel_9_pro_fold",
+"13220"
+],
+"google-pixel-fold": [
+"google_pixel_fold",
+"12265"
+],
+"google-pixel-tablet": [
+"google_pixel_tablet",
+"11905"
+],
+"google-pixel-7a": [
+"google_pixel_7a",
+"12170"
+],
+"google-pixel-7-pro": [
+"google_pixel_7_pro",
+"11908"
+],
+"google-pixel-7": [
+"google_pixel_7",
+"11903"
+],
+"google-pixel-6a": [
+"google_pixel_6a",
+"11229"
+],
+"google-pixel-6-pro": [
+"google_pixel_6_pro",
+"10918"
+],
+"google-pixel-6": [
+"google_pixel_6",
+"11037"
+],
+"google-pixel-5a-5g": [
+"google_pixel_5a_5g",
+"11059"
+],
+"google-pixel-5": [
+"google_pixel_5",
+"10386"
+],
+"google-pixel-4a-5g": [
+"google_pixel_4a_5g",
+"10385"
+],
+"google-pixel-4a": [
+"google_pixel_4a",
+"10123"
+],
+"google-pixel-4-xl": [
+"google_pixel_4_xl",
+"9895"
+],
+"google-pixel-4": [
+"google_pixel_4",
+"9896"
+],
+"google-pixel-3a-xl": [
+"google_pixel_3a_xl",
+"9690"
+],
+"google-pixel-3a": [
+"google_pixel_3a",
+"9408"
+],
+"google-pixel-3-xl": [
+"google_pixel_3_xl",
+"9257"
+],
+"google-pixel-3": [
+"google_pixel_3",
+"9256"
+],
+"google-pixel-2": [
+"google_pixel_2",
+"8733"
+],
+"google-pixel-2-xl": [
+"google_pixel_2_xl",
+"8720"
+],
+"google-pixel-xl": [
+"google_pixel_xl",
+"8345"
+],
+"google-pixel": [
+"google_pixel",
+"8346"
+],
+"google-pixel-c": [
+"google_pixel_c",
+"7826"
+]
+}
+},
+"Samsung": {
+"total_on_gsm": 48,
+"missing": {
+"samsung-galaxy-f70-5g": [
+"samsung_galaxy_f70_5g",
+"15014"
+],
+"samsung-galaxy-tab-s12-ultra-5g": [
+"samsung_galaxy_tab_s12_ultra_5g",
+"14811"
+],
+"samsung-galaxy-tab-s12+-5g": [
+"samsung_galaxy_tab_s12+_5g",
+"14981"
+],
+"samsung-galaxy-f08": [
+"samsung_galaxy_f08",
+"14988"
+],
+"samsung-galaxy-m08": [
+"samsung_galaxy_m08",
+"14987"
+],
+"samsung-galaxy-a18": [
+"samsung_galaxy_a18",
+"14941"
+],
+"samsung-galaxy-a08": [
+"samsung_galaxy_a08",
+"14938"
+],
+"samsung-galaxy-a07s": [
+"samsung_galaxy_a07s",
+"14930"
+],
+"samsung-galaxy-s26-fe-5g": [
+"samsung_galaxy_s26_fe_5g",
+"14870"
+],
+"samsung-galaxy-f70-pro-5g": [
+"samsung_galaxy_f70_pro_5g",
+"14856"
+],
+"samsung-galaxy-z-fold8-ultra-5g": [
+"samsung_galaxy_z_fold8_ultra_5g",
+"14802"
+],
+"samsung-galaxy-z-fold-wide-5g": [
+"samsung_galaxy_z_fold_wide_5g",
+"14673"
+],
+"samsung-galaxy-z-flip8-5g": [
+"samsung_galaxy_z_flip8_5g",
+"14803"
+],
+"samsung-galaxy-m47-5g": [
+"samsung_galaxy_m47_5g",
+"14749"
+],
+"samsung-galaxy-a27-5g": [
+"samsung_galaxy_a27_5g",
+"14606"
+],
+"samsung-galaxy-a57-5g": [
+"samsung_galaxy_a57_5g",
+"14379"
+],
+"samsung-galaxy-a37-5g": [
+"samsung_galaxy_a37_5g",
+"14378"
+],
+"samsung-galaxy-m17e-5g": [
+"samsung_galaxy_m17e_5g",
+"14534"
+],
+"samsung-galaxy-s26-ultra-5g": [
+"samsung_galaxy_s26_ultra_5g",
+"14320"
+],
+"samsung-galaxy-s26+-5g": [
+"samsung_galaxy_s26+_5g",
+"14457"
+],
+"samsung-galaxy-s26-5g": [
+"samsung_galaxy_s26_5g",
+"14456"
+],
+"samsung-galaxy-f70e-5g": [
+"samsung_galaxy_f70e_5g",
+"14459"
+],
+"samsung-galaxy-a07-5g": [
+"samsung_galaxy_a07_5g",
+"14409"
+],
+"samsung-galaxy-z-trifold-5g": [
+"samsung_galaxy_z_trifold_5g",
+"14292"
+],
+"samsung-galaxy-m17-5g": [
+"samsung_galaxy_m17_5g",
+"14221"
+],
+"samsung-galaxy-f07": [
+"samsung_galaxy_f07",
+"14205"
+],
+"samsung-galaxy-m07": [
+"samsung_galaxy_m07",
+"14100"
+],
+"samsung-galaxy-a17": [
+"samsung_galaxy_a17",
+"14157"
+],
+"samsung-galaxy-tab-a11+": [
+"samsung_galaxy_tab_a11+",
+"14192"
+],
+"samsung-galaxy-tab-a11": [
+"samsung_galaxy_tab_a11",
+"14141"
+],
+"samsung-galaxy-f17-5g": [
+"samsung_galaxy_f17_5g",
+"14107"
+],
+"samsung-galaxy-s25-fe-5g": [
+"samsung_galaxy_s25_fe_5g",
+"14042"
+],
+"samsung-galaxy-tab-s11-ultra-5g": [
+"samsung_galaxy_tab_s11_ultra_5g",
+"14057"
+],
+"samsung-galaxy-tab-s11-5g": [
+"samsung_galaxy_tab_s11_5g",
+"14058"
+],
+"samsung-galaxy-tab-s10-lite-5g": [
+"samsung_galaxy_tab_s10_lite_5g",
+"14059"
+],
+"samsung-galaxy-a17-5g": [
+"samsung_galaxy_a17_5g",
+"14041"
+],
+"samsung-galaxy-f36-5g": [
+"samsung_galaxy_f36_5g",
+"14009"
+],
+"samsung-galaxy-z-fold7": [
+"samsung_galaxy_z_fold7",
+"13826"
+],
+"samsung-galaxy-z-flip7": [
+"samsung_galaxy_z_flip7",
+"13712"
+],
+"samsung-galaxy-z-flip7-fe-5g": [
+"samsung_galaxy_z_flip7_fe_5g",
+"13844"
+],
+"samsung-galaxy-m36-5g": [
+"samsung_galaxy_m36_5g",
+"13967"
+],
+"samsung-galaxy-s25-edge": [
+"samsung_galaxy_s25_edge",
+"13506"
+],
+"samsung-galaxy-f56-5g": [
+"samsung_galaxy_f56_5g",
+"13855"
+],
+"samsung-galaxy-m56-5g": [
+"samsung_galaxy_m56_5g",
+"13801"
+],
+"samsung-galaxy-xcover7-pro": [
+"samsung_galaxy_xcover7_pro",
+"13780"
+]
+}
+},
+"Vivo": {
+"total_on_gsm": 52,
+"missing": {
+"vivo-iqoo-neo12-5g-(china)": [
+"vivo_iqoo_neo12_5g_(china)",
+"15041"
+],
+"vivo-iqoo-pad-pro-8-8": [
+"vivo_iqoo_pad_pro_8_8",
+"15043"
+],
+"vivo-y600-5g": [
+"vivo_y600_5g",
+"15030"
+],
+"vivo-y32-(2026)": [
+"vivo_y32_(2026)",
+"14992"
+],
+"vivo-v80-5g": [
+"vivo_v80_5g",
+"14989"
+],
+"vivo-s2-fe-5g": [
+"vivo_s2_fe_5g",
+"14962"
+],
+"vivo-iqoo-pad-ultra": [
+"vivo_iqoo_pad_ultra",
+"14978"
+],
+"vivo-iqoo-16-5g": [
+"vivo_iqoo_16_5g",
+"14976"
+],
+"vivo-y600i-5g": [
+"vivo_y600i_5g",
+"14964"
+],
+"vivo-x500-pro-max-5g": [
+"vivo_x500_pro_max_5g",
+"14782"
+],
+"vivo-x500-pro-5g": [
+"vivo_x500_pro_5g",
+"14950"
+],
+"vivo-x500-5g": [
+"vivo_x500_5g",
+"14951"
+],
+"vivo-v80-lite-5g": [
+"vivo_v80_lite_5g",
+"14892"
+],
+"vivo-t5-5g": [
+"vivo_t5_5g",
+"14899"
+],
+"vivo-v80-lite-5g-(india)": [
+"vivo_v80_lite_5g_(india)",
+"14863"
+],
+"vivo-v70-lite": [
+"vivo_v70_lite",
+"14898"
+],
+"vivo-iqoo-z11-5g-(india)": [
+"vivo_iqoo_z11_5g_(india)",
+"14886"
+],
+"vivo-y31t-5g": [
+"vivo_y31t_5g",
+"14884"
+],
+"vivo-iqoo-neo11-ultra-5g": [
+"vivo_iqoo_neo11_ultra_5g",
+"14878"
+],
+"vivo-iqoo-z11s-5g-(china)": [
+"vivo_iqoo_z11s_5g_(china)",
+"14880"
+],
+"vivo-s2-5g": [
+"vivo_s2_5g",
+"14839"
+],
+"vivo-y05e": [
+"vivo_y05e",
+"15004"
+],
+"vivo-t5e": [
+"vivo_t5e",
+"14829"
+],
+"vivo-x300-e-5g": [
+"vivo_x300_e_5g",
+"14826"
+],
+"vivo-y11d": [
+"vivo_y11d",
+"14945"
+],
+"vivo-iqoo-z11-lite-5g": [
+"vivo_iqoo_z11_lite_5g",
+"14809"
+],
+"vivo-t5-lite-5g": [
+"vivo_t5_lite_5g",
+"14734"
+],
+"vivo-y500": [
+"vivo_y500",
+"14780"
+],
+"vivo-iqoo-z11i-5g": [
+"vivo_iqoo_z11i_5g",
+"14771"
+],
+"vivo-x-fold6-5g": [
+"vivo_x_fold6_5g",
+"14748"
+],
+"vivo-iqoo-pad5c": [
+"vivo_iqoo_pad5c",
+"14763"
+],
+"vivo-v70-lite-5g": [
+"vivo_v70_lite_5g",
+"14710"
+],
+"vivo-s60-5g": [
+"vivo_s60_5g",
+"14692"
+],
+"vivo-s60-vitality-5g": [
+"vivo_s60_vitality_5g",
+"14693"
+],
+"vivo-t5": [
+"vivo_t5",
+"14697"
+],
+"vivo-y600-turbo-5g": [
+"vivo_y600_turbo_5g",
+"14687"
+],
+"vivo-iqoo-15t-5g": [
+"vivo_iqoo_15t_5g",
+"14661"
+],
+"vivo-iqoo-pad6-pro": [
+"vivo_iqoo_pad6_pro",
+"14679"
+],
+"vivo-iqoo-z11-5g": [
+"vivo_iqoo_z11_5g",
+"14654"
+],
+"vivo-y600-pro-5g-(china)": [
+"vivo_y600_pro_5g_(china)",
+"14634"
+],
+"vivo-y500s-5g": [
+"vivo_y500s_5g",
+"14631"
+],
+"vivo-y6-5g": [
+"vivo_y6_5g",
+"14632"
+],
+"vivo-y6t-5g": [
+"vivo_y6t_5g",
+"14649"
+],
+"vivo-y60-5g": [
+"vivo_y60_5g",
+"14633"
+],
+"vivo-x300-fe-5g": [
+"vivo_x300_fe_5g",
+"14491"
+],
+"vivo-t5-pro-5g": [
+"vivo_t5_pro_5g",
+"14599"
+],
+"vivo-x300-ultra-5g": [
+"vivo_x300_ultra_5g",
+"14388"
+],
+"vivo-x300s-5g": [
+"vivo_x300s_5g",
+"14557"
+],
+"vivo-pad6-pro": [
+"vivo_pad6_pro",
+"14569"
+],
+"vivo-iqoo-z11-5g-(china)": [
+"vivo_iqoo_z11_5g_(china)",
+"14562"
+]
+}
+},
+"Oppo": {
+"total_on_gsm": 48,
+"missing": {
+"oppo-k15s-5g": [
+"oppo_k15s_5g",
+"14995"
+],
+"oppo-k15x-5g": [
+"oppo_k15x_5g",
+"14996"
+],
+"oppo-f35-pro-5g": [
+"oppo_f35_pro_5g",
+"14859"
+],
+"oppo-f35-5g": [
+"oppo_f35_5g",
+"14990"
+],
+"oppo-find-x10-pro-max": [
+"oppo_find_x10_pro_max",
+"14939"
+],
+"oppo-find-x10": [
+"oppo_find_x10",
+"14953"
+],
+"oppo-find-x10-e": [
+"oppo_find_x10_e",
+"14954"
+],
+"oppo-k14-plus-5g": [
+"oppo_k14_plus_5g",
+"14963"
+],
+"oppo-k14-lite": [
+"oppo_k14_lite",
+"14942"
+],
+"oppo-a7-pro-5g": [
+"oppo_a7_pro_5g",
+"14928"
+],
+"oppo-a7-pro-max-5g": [
+"oppo_a7_pro_max_5g",
+"14828"
+],
+"oppo-k15-5g": [
+"oppo_k15_5g",
+"14810"
+],
+"oppo-reno16c-5g": [
+"oppo_reno16c_5g",
+"14768"
+],
+"oppo-reno16-pro-5g": [
+"oppo_reno16_pro_5g",
+"14746"
+],
+"oppo-reno16-5g": [
+"oppo_reno16_5g",
+"14747"
+],
+"oppo-reno16-fs-5g": [
+"oppo_reno16_fs_5g",
+"14752"
+],
+"oppo-reno16-f-5g": [
+"oppo_reno16_f_5g",
+"14751"
+],
+"oppo-reno16-pro-5g-(china)": [
+"oppo_reno16_pro_5g_(china)",
+"14675"
+],
+"oppo-reno16-5g-(china)": [
+"oppo_reno16_5g_(china)",
+"14676"
+],
+"oppo-pad-6": [
+"oppo_pad_6",
+"14690"
+],
+"oppo-find-x9-ultra-5g": [
+"oppo_find_x9_ultra_5g",
+"14548"
+],
+"oppo-find-x9s-pro": [
+"oppo_find_x9s_pro",
+"14592"
+],
+"oppo-find-x9s-5g": [
+"oppo_find_x9s_5g",
+"14617"
+],
+"oppo-pad-5-pro": [
+"oppo_pad_5_pro",
+"14621"
+],
+"oppo-pad-mini": [
+"oppo_pad_mini",
+"14624"
+],
+"oppo-f33-pro-5g": [
+"oppo_f33_pro_5g",
+"14601"
+],
+"oppo-f33-5g": [
+"oppo_f33_5g",
+"14602"
+],
+"oppo-a6s-pro-5g-(china)": [
+"oppo_a6s_pro_5g_(china)",
+"14597"
+],
+"oppo-a6c": [
+"oppo_a6c",
+"14418"
+],
+"oppo-a6k": [
+"oppo_a6k",
+"14588"
+],
+"oppo-k15-pro+-5g": [
+"oppo_k15_pro+_5g",
+"14572"
+],
+"oppo-k15-pro-5g": [
+"oppo_k15_pro_5g",
+"14573"
+],
+"oppo-find-n6-5g": [
+"oppo_find_n6_5g",
+"14389"
+],
+"oppo-k14-5g": [
+"oppo_k14_5g",
+"14530"
+],
+"oppo-a6s-5g-(india)": [
+"oppo_a6s_5g_(india)",
+"14546"
+],
+"oppo-a6s-pro": [
+"oppo_a6s_pro",
+"14523"
+],
+"oppo-k14x-5g": [
+"oppo_k14x_5g",
+"14458"
+],
+"oppo-reno15c-5g-(india)": [
+"oppo_reno15c_5g_(india)",
+"14513"
+],
+"oppo-reno15-fs-5g": [
+"oppo_reno15_fs_5g",
+"14373"
+],
+"oppo-a6c-(china)": [
+"oppo_a6c_(china)",
+"14591"
+],
+"oppo-a6t-pro": [
+"oppo_a6t_pro",
+"14415"
+],
+"oppo-a6t-5g": [
+"oppo_a6t_5g",
+"14417"
+],
+"oppo-a6t": [
+"oppo_a6t",
+"14416"
+],
+"oppo-a6-5g": [
+"oppo_a6_5g",
+"14412"
+],
+"oppo-a6": [
+"oppo_a6",
+"14413"
+],
+"oppo-a6x-5g-(global)": [
+"oppo_a6x_5g_(global)",
+"14414"
+],
+"oppo-a6s": [
+"oppo_a6s",
+"14411"
+],
+"oppo-a6s-5g": [
+"oppo_a6s_5g",
+"14410"
+]
+}
+},
+"Xiaomi": {
+"total_on_gsm": 47,
+"missing": {
+"xiaomi-redmi-m100-pro-5g": [
+"xiaomi_redmi_m100_pro_5g",
+"15054"
+],
+"xiaomi-redmi-k100-5g": [
+"xiaomi_redmi_k100_5g",
+"15018"
+],
+"xiaomi-redmi-note-17-pro-refresh-5g-(china": [
+"xiaomi_redmi_note_17_pro_refresh_5g_(china",
+"15042"
+],
+"xiaomi-poco-x8s-5g": [
+"xiaomi_poco_x8s_5g",
+"15038"
+],
+"xiaomi-18-pro-max-5g": [
+"xiaomi_18_pro_max_5g",
+"14958"
+],
+"xiaomi-18-pro-5g": [
+"xiaomi_18_pro_5g",
+"14959"
+],
+"xiaomi-pad-9-pro": [
+"xiaomi_pad_9_pro",
+"14960"
+],
+"xiaomi-pad-9": [
+"xiaomi_pad_9",
+"14961"
+],
+"xiaomi-poco-c95-pro": [
+"xiaomi_poco_c95_pro",
+"14933"
+],
+"xiaomi-18-fold-5g": [
+"xiaomi_18_fold_5g",
+"14931"
+],
+"xiaomi-pad-9-pro-max": [
+"xiaomi_pad_9_pro_max",
+"14932"
+],
+"xiaomi-poco-x8-power-5g": [
+"xiaomi_poco_x8_power_5g",
+"14912"
+],
+"xiaomi-poco-x8-5g": [
+"xiaomi_poco_x8_5g",
+"14911"
+],
+"xiaomi-poco-f9-ultra-5g": [
+"xiaomi_poco_f9_ultra_5g",
+"14876"
+],
+"xiaomi-poco-f9-pro-5g": [
+"xiaomi_poco_f9_pro_5g",
+"14877"
+],
+"xiaomi-redmi-note-17-pro-max-5g": [
+"xiaomi_redmi_note_17_pro_max_5g",
+"14845"
+],
+"xiaomi-redmi-note-17-pro-5g": [
+"xiaomi_redmi_note_17_pro_5g",
+"14844"
+],
+"xiaomi-redmi-note-17-5g": [
+"xiaomi_redmi_note_17_5g",
+"14846"
+],
+"xiaomi-redmi-note-17": [
+"xiaomi_redmi_note_17",
+"14847"
+],
+"xiaomi-redmi-17c-5g": [
+"xiaomi_redmi_17c_5g",
+"14866"
+],
+"xiaomi-poco-m8x-5g": [
+"xiaomi_poco_m8x_5g",
+"14879"
+],
+"xiaomi-redmi-m100-5g": [
+"xiaomi_redmi_m100_5g",
+"14882"
+],
+"xiaomi-redmi-k100-pro-max-5g": [
+"xiaomi_redmi_k100_pro_max_5g",
+"14865"
+],
+"xiaomi-redmi-k100-pro-5g": [
+"xiaomi_redmi_k100_pro_5g",
+"14715"
+],
+"xiaomi-redmi-17-5g": [
+"xiaomi_redmi_17_5g",
+"14869"
+],
+"xiaomi-redmi-17": [
+"xiaomi_redmi_17",
+"14807"
+],
+"xiaomi-poco-m8-power-5g": [
+"xiaomi_poco_m8_power_5g",
+"14804"
+],
+"xiaomi-redmi-note-17-pro-5g-(china)": [
+"xiaomi_redmi_note_17_pro_5g_(china)",
+"14797"
+],
+"xiaomi-redmi-note-17-5g-(china)": [
+"xiaomi_redmi_note_17_5g_(china)",
+"14798"
+],
+"xiaomi-redmi-k90-ultra-5g": [
+"xiaomi_redmi_k90_ultra_5g",
+"14757"
+],
+"xiaomi-redmi-17c-(china)": [
+"xiaomi_redmi_17c_(china)",
+"14750"
+],
+"xiaomi-17t-pro-5g": [
+"xiaomi_17t_pro_5g",
+"14651"
+],
+"xiaomi-17t-5g": [
+"xiaomi_17t_5g",
+"14652"
+],
+"xiaomi-17-max-5g": [
+"xiaomi_17_max_5g",
+"14667"
+],
+"xiaomi-poco-pad-c1": [
+"xiaomi_poco_pad_c1",
+"14682"
+],
+"xiaomi-black-shark-pad-se": [
+"xiaomi_black_shark_pad_se",
+"14777"
+],
+"xiaomi-poco-c81-pro": [
+"xiaomi_poco_c81_pro",
+"14635"
+],
+"xiaomi-poco-c81": [
+"xiaomi_poco_c81",
+"14626"
+],
+"xiaomi-poco-c81x": [
+"xiaomi_poco_c81x",
+"14627"
+],
+"xiaomi-redmi-k90-max-5g": [
+"xiaomi_redmi_k90_max_5g",
+"14618"
+],
+"xiaomi-redmi-k-pad-2": [
+"xiaomi_redmi_k_pad_2",
+"14625"
+],
+"xiaomi-redmi-pad-2-9-7": [
+"xiaomi_redmi_pad_2_9_7",
+"14636"
+],
+"xiaomi-redmi-a7-pro-5g": [
+"xiaomi_redmi_a7_pro_5g",
+"14616"
+],
+"xiaomi-redmi-a7": [
+"xiaomi_redmi_a7",
+"14623"
+],
+"xiaomi-poco-m8s-5g": [
+"xiaomi_poco_m8s_5g",
+"14615"
+],
+"xiaomi-redmi-r70m-5g": [
+"xiaomi_redmi_r70m_5g",
+"14600"
+],
+"xiaomi-redmi-r70-5g": [
+"xiaomi_redmi_r70_5g",
+"14598"
+]
+}
+},
+"iQOO": {
+"total_on_gsm": 50,
+"missing": {}
+},
+"Motorola": {
+"total_on_gsm": 0,
+"missing": {}
+},
+"OnePlus": {
+"total_on_gsm": 44,
+"missing": {
+"oneplus-ace-7-pro-5g": [
+"oneplus_ace_7_pro_5g",
+"15045"
+],
+"oneplus-ace-7-5g": [
+"oneplus_ace_7_5g",
+"14672"
+],
+"oneplus-16-5g": [
+"oneplus_16_5g",
+"14974"
+],
+"oneplus-n6-lite": [
+"oneplus_n6_lite",
+"14952"
+],
+"oneplus-n6x": [
+"oneplus_n6x",
+"14849"
+],
+"oneplus-n6": [
+"oneplus_n6",
+"14760"
+],
+"oneplus-pad-3-pro": [
+"oneplus_pad_3_pro",
+"14739"
+],
+"oneplus-turbo-6x-pro-5g": [
+"oneplus_turbo_6x_pro_5g",
+"14711"
+],
+"oneplus-turbo-6x-5g": [
+"oneplus_turbo_6x_5g",
+"14712"
+],
+"oneplus-nord-ce6-5g": [
+"oneplus_nord_ce6_5g",
+"14611"
+],
+"oneplus-nord-ce6-lite-5g": [
+"oneplus_nord_ce6_lite_5g",
+"14567"
+],
+"oneplus-ace-6-ultra-5g": [
+"oneplus_ace_6_ultra_5g",
+"14637"
+],
+"oneplus-pad-4": [
+"oneplus_pad_4",
+"14630"
+],
+"oneplus-nord-6-5g": [
+"oneplus_nord_6_5g",
+"14558"
+],
+"oneplus-15t-5g": [
+"oneplus_15t_5g",
+"14385"
+],
+"oneplus-turbo-6-5g": [
+"oneplus_turbo_6_5g",
+"14260"
+],
+"oneplus-turbo-6v-5g": [
+"oneplus_turbo_6v_5g",
+"14404"
+],
+"oneplus-15r-5g": [
+"oneplus_15r_5g",
+"14358"
+],
+"oneplus-pad-go-2-5g": [
+"oneplus_pad_go_2_5g",
+"14343"
+],
+"oneplus-ace-6t-5g": [
+"oneplus_ace_6t_5g",
+"14315"
+],
+"oneplus-15-5g": [
+"oneplus_15_5g",
+"14206"
+],
+"oneplus-ace-6-5g": [
+"oneplus_ace_6_5g",
+"14259"
+],
+"oneplus-nord-5-5g": [
+"oneplus_nord_5_5g",
+"13992"
+],
+"oneplus-nord-ce5-5g": [
+"oneplus_nord_ce5_5g",
+"13792"
+],
+"oneplus-pad-lite": [
+"oneplus_pad_lite",
+"13956"
+],
+"oneplus-pad-3-(global)": [
+"oneplus_pad_3_(global)",
+"13881"
+],
+"oneplus-13s-5g": [
+"oneplus_13s_5g",
+"13818"
+],
+"oneplus-ace-5-ultra-5g": [
+"oneplus_ace_5_ultra_5g",
+"13891"
+],
+"oneplus-ace-5-racing-5g": [
+"oneplus_ace_5_racing_5g",
+"13892"
+],
+"oneplus-pad-2-pro": [
+"oneplus_pad_2_pro",
+"13860"
+],
+"oneplus-13t-5g": [
+"oneplus_13t_5g",
+"13791"
+],
+"oneplus-13r": [
+"oneplus_13r",
+"13548"
+],
+"oneplus-ace-5-pro": [
+"oneplus_ace_5_pro",
+"13591"
+],
+"oneplus-ace-5": [
+"oneplus_ace_5",
+"13592"
+],
+"oneplus-pad-3": [
+"oneplus_pad_3",
+"13593"
+],
+"oneplus-pad-2": [
+"oneplus_pad_2",
+"13210"
+],
+"oneplus-ace-3-pro": [
+"oneplus_ace_3_pro",
+"13179"
+],
+"oneplus-pad-pro": [
+"oneplus_pad_pro",
+"13180"
+],
+"oneplus-nord-ce4-lite": [
+"oneplus_nord_ce4_lite",
+"13166"
+],
+"oneplus-nord-ce4-lite-(india)": [
+"oneplus_nord_ce4_lite_(india)",
+"13155"
+],
+"oneplus-ace-3v": [
+"oneplus_ace_3v",
+"12889"
+]
+}
+}
+}

@@ -21,7 +21,16 @@
    "Charging": "Wired PD2.0, 50% in 30 min; 25W wireless (MagSafe); 15W wireless (Qi2); 4.5W reverse wired",
    "Operating System": "iOS 18",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen 2); emergency SOS / messaging via satellite",
-   "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium"
+   "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2 Gen 2, DisplayPort",
+   "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
   }
  },
  {
@@ -46,7 +55,16 @@
    "Charging": "Wired PD2.0, 50% in 30 min; 25W wireless (MagSafe / Qi2); 4.5W reverse wired",
    "Operating System": "iOS 18",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen 2); emergency SOS via satellite",
-   "Colors": "Black, White, Pink, Teal, Ultramarine"
+   "Colors": "Black, White, Pink, Teal, Ultramarine",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, DisplayPort",
+   "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
   }
  },
  {
@@ -71,7 +89,16 @@
    "Charging": "Wired PD2.0, 50% in 30 min; 15W wireless (MagSafe); 15W wireless (Qi2, from iOS 17.2); 4.5W reverse wired; USB Type-C 2.0",
    "Operating System": "iOS 17",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen 2); emergency SOS via satellite",
-   "Colors": "Black, Blue, Green, Yellow, Pink"
+   "Colors": "Black, Blue, Green, Yellow, Pink",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, DisplayPort",
+   "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
   }
  },
  {
@@ -96,7 +123,16 @@
    "Charging": "Wired PD2.0, 50% in 30 min; 15W wireless (MagSafe); 15W wireless (Qi2, from iOS 17.2); Lightning, USB 2.0",
    "Operating System": "iOS 16",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband; emergency SOS via satellite",
-   "Colors": "Midnight, Purple, Starlight, Blue, Red, Yellow"
+   "Colors": "Midnight, Purple, Starlight, Blue, Red, Yellow",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "Lightning, USB 2.0",
+   "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
   }
  },
  {
@@ -121,7 +157,16 @@
    "Charging": "Wired PD2.0, 50% in 30 min; 15W wireless (MagSafe); 15W wireless (Qi2, from iOS 17.2); Lightning, USB 2.0",
    "Operating System": "iOS 15",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband",
-   "Colors": "Starlight, Midnight, Blue, Pink, Red, Green"
+   "Colors": "Starlight, Midnight, Blue, Pink, Red, Green",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "Lightning, USB 2.0",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -146,7 +191,16 @@
    "Charging": "45W wired, PD3.0, 65% in 30 min; 15W wireless (Qi2); 4.5W reverse wireless",
    "Operating System": "Android 15, One UI 7 (up to 7 major Android upgrades)",
    "Sensors/Features": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer; Samsung DeX; Ultra Wideband (UWB); S Pen",
-   "Colors": "Titanium Silverblue, Titanium Black, Titanium Whitesilver, Titanium Gray, Titanium Jade Green, Titanium Jet Black, Titanium Pink Gold"
+   "Colors": "Titanium Silverblue, Titanium Black, Titanium Whitesilver, Titanium Gray, Titanium Jade Green, Titanium Jet Black, Titanium Pink Gold",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE",
+   "GPS": "GPS, GLONASS, BDS, GALILEO, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2, DisplayPort 1.2, OTG",
+   "SIM": "Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT Nano-SIM + eSIM + eSIM (max 2 at a time) - USA Nano-SIM + Nano-SIM - CN"
   }
  },
  {
@@ -171,7 +225,16 @@
    "Charging": "45W wired, PD3.0, 65% in 30 min; 15W wireless (Qi); 4.5W reverse wireless",
    "Operating System": "Android 14, One UI 6.1 (up to 7 major Android upgrades)",
    "Sensors/Features": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer; Samsung DeX / Wireless DeX; Ultra Wideband (UWB); S Pen",
-   "Colors": "Titanium Black, Titanium Gray, Titanium Violet, Titanium Yellow, Titanium Blue, Titanium Green, Titanium Orange"
+   "Colors": "Titanium Black, Titanium Gray, Titanium Violet, Titanium Yellow, Titanium Blue, Titanium Green, Titanium Orange",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, BDS, GALILEO, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2, DisplayPort 1.2, OTG",
+   "SIM": "Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT Nano-SIM + eSIM + eSIM (max 2 at a time) - USA Nano-SIM + Nano-SIM - CN"
   }
  },
  {
@@ -196,7 +259,16 @@
    "Charging": "25W wired, PD3.0, 50% in 30 min; 15W wireless (Qi); 4.5W reverse wireless",
    "Operating System": "Android 13, One UI 5.1 (up to 4 major Android upgrades)",
    "Sensors/Features": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer; Samsung DeX / Wireless DeX",
-   "Colors": "Phantom Black, Cream, Green, Lavender, Graphite, Lime"
+   "Colors": "Phantom Black, Cream, Green, Lavender, Graphite, Lime",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, BDS, GALILEO",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2, OTG",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
   }
  },
  {
@@ -246,7 +318,16 @@
    "Charging": "25W wired",
    "Operating System": "Android 14, One UI 6.1 (up to 4 major Android upgrades)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass, virtual proximity sensing; barometer (USA only)",
-   "Colors": "Iceblue, Lilac, Navy, Lemon"
+   "Colors": "Iceblue, Lilac, Navy, Lemon",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM Nano-SIM + eSIM Nano-SIM + Nano-SIM Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
   }
  },
  {
@@ -271,7 +352,16 @@
    "Charging": "25W wired",
    "Operating System": "Android 14, One UI 6.1 (up to 6 major Android upgrades)",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, compass; virtual proximity sensing; NFC (market dependent)",
-   "Colors": "Gray, Water Green, Midnight Blue"
+   "Colors": "Gray, Water Green, Midnight Blue",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "FM radio (market/region dependent)",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -296,7 +386,16 @@
    "Charging": "25W wired",
    "Operating System": "Android 14, One UI 6 (up to 4 major Android upgrades)",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, compass; virtual proximity sensing; NFC (market dependent); 3.5mm jack",
-   "Colors": "Brave Black, Optimistic Blue, Magical Blue, Personality Yellow"
+   "Colors": "Brave Black, Optimistic Blue, Magical Blue, Personality Yellow",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "FM radio (market/region dependent)",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -346,7 +445,16 @@
    "Charging": "33W wired (50% in 29 min)",
    "Operating System": "Android 13, MIUI 14 at launch (GSMArena now lists upgradable to Android 15, HyperOS 2)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers, 3.5mm jack, IR port, NFC (region dependent)",
-   "Colors": "Midnight Black, Mint Green, Ice Blue, Ocean Sunset"
+   "Colors": "Midnight Black, Mint Green, Ice Blue, Ocean Sunset",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.1, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -371,7 +479,16 @@
    "Charging": "67W wired (50% in 16 min, 100% in 46 min)",
    "Operating System": "Android 13, MIUI 14 at launch (upgradable, HyperOS)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass, virtual proximity; dual speakers, 3.5mm jack, IR port, FM radio, NFC (region dependent)",
-   "Colors": "Midnight Black, Lavender Purple, Forest Green"
+   "Colors": "Midnight Black, Lavender Purple, Forest Green",
+   "Loudspeaker": "Yes, with dual speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.2, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -396,7 +513,16 @@
    "Charging": "33W wired",
    "Operating System": "Android 14, HyperOS",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, compass, virtual proximity; 3.5mm jack, IR port, FM radio, NFC (region dependent)",
-   "Colors": "Midnight Black, Sandy Gold, Ocean Blue, Pink (Pearl Pink)"
+   "Colors": "Midnight Black, Sandy Gold, Ocean Blue, Pink (Pearl Pink)",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.4, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "FM radio",
+   "USB": "USB Type-C",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -446,7 +572,16 @@
    "Charging": "90W wired (100% in 31 min), 50W wireless, 10W reverse wireless",
    "Operating System": "Android 14, HyperOS (upgradable to Android 15, HyperOS 1.1)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, proximity, gyro, compass, barometer; stereo speakers, no 3.5mm jack, Wi-Fi 7, NFC, IR port",
-   "Colors": "Black, White, Jade Green, Pink"
+   "Colors": "Black, White, Jade Green, Pink",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC",
+   "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2, OTG",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -471,7 +606,16 @@
    "Charging": "67W wired (100% in 45 min)",
    "Operating System": "Android 14, HyperOS",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass, virtual proximity; dual speakers, no 3.5mm jack, IR port, NFC (region dependent)",
-   "Colors": "Black, Yellow, Gray"
+   "Colors": "Black, Yellow, Gray",
+   "Loudspeaker": "Yes, with dual speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE, aptX HD",
+   "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -496,7 +640,16 @@
    "Charging": "67W wired (100% in 44 min)",
    "Operating System": "Android 13, MIUI 14 (planned upgrade to Android 14, HyperOS)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass, virtual proximity; dual speakers, 3.5mm jack, IR port, FM radio, NFC (region dependent)",
-   "Colors": "Black, Blue, Purple"
+   "Colors": "Black, Blue, Purple",
+   "Loudspeaker": "Yes, with dual speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.2, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -521,7 +674,16 @@
    "Charging": "45W wired (50% in 26 min), 20W wireless MagCharge, reverse wired/wireless",
    "Operating System": "Android 14, XOS 14",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers tuned by JBL, no 3.5mm jack, NFC (region dependent), FM radio",
-   "Colors": "Titan Gold, Obsidian Black, Racing Edition"
+   "Colors": "Titan Gold, Obsidian Black, Racing Edition",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "Yes",
+   "GPS": "GPS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -596,7 +758,16 @@
    "Charging": "10W wired, reverse wired",
    "Operating System": "Android 13 (GSMArena global page lists plain Android 13; XOS 13 is listed for the Smart 8 HD/India pages)",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, proximity, compass; 3.5mm jack, FM radio, no NFC",
-   "Colors": "Timber Black, Shiny Gold, Crystal Green, Galaxy White"
+   "Colors": "Timber Black, Shiny Gold, Crystal Green, Galaxy White",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS",
+   "NFC": "No",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -621,7 +792,16 @@
    "Charging": "70W wired (0-100% in 45 min)",
    "Operating System": "Android 14, HIOS 14",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; dual speakers, 3.5mm jack, NFC, IR port, FM radio",
-   "Colors": "Iceland Basaltic Dark, Uyuni Salt White, Sahara Sand Brown"
+   "Colors": "Iceland Basaltic Dark, Uyuni Salt White, Sahara Sand Brown",
+   "Loudspeaker": "Yes, with dual speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS",
+   "NFC": "Yes",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -646,7 +826,16 @@
    "Charging": "33W wired",
    "Operating System": "Android 14 (GSMArena lists plain Android 14; Tecno ships it with HIOS 14)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers, no 3.5mm jack, NFC, FM radio",
-   "Colors": "Temporal Orbits, Lunar Frost, Radiant Starstream, Magic Skin 2.0 Green"
+   "Colors": "Temporal Orbits, Lunar Frost, Radiant Starstream, Magic Skin 2.0 Green",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.2, A2DP, LE",
+   "GPS": "GPS, GLONASS",
+   "NFC": "Yes",
+   "Radio": "FM radio",
+   "USB": "USB Type-C",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -671,7 +860,16 @@
    "Charging": "18W wired",
    "Operating System": "Android 13, HIOS 13",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, proximity, compass; stereo speakers, 3.5mm jack, FM radio, no NFC",
-   "Colors": "Gravity Black, Cyber White, Neon Gold, Magic Skin 2.0 (Blue)"
+   "Colors": "Gravity Black, Cyber White, Neon Gold, Magic Skin 2.0 (Blue)",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.2, A2DP, LE",
+   "GPS": "GPS",
+   "NFC": "No",
+   "Radio": "FM radio",
+   "USB": "USB Type-C, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -696,7 +894,16 @@
    "Charging": "10W wired",
    "Operating System": "Android 13 (Go edition)",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer; dual speakers, 3.5mm jack, FM radio, no NFC",
-   "Colors": "Mystery White, Alpenglow Gold, Magic Skin, Gravity Black"
+   "Colors": "Mystery White, Alpenglow Gold, Magic Skin, Gravity Black",
+   "Loudspeaker": "Yes, with dual speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Yes",
+   "Bluetooth": "Yes",
+   "GPS": "GPS",
+   "NFC": "No",
+   "Radio": "FM radio",
+   "USB": "USB Type-C, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -721,7 +928,16 @@
    "Charging": "80W wired",
    "Operating System": "Android 14, Funtouch 14",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
-   "Colors": "Bloom White, Waving Aqua, Lush Green, Noble Black"
+   "Colors": "Bloom White, Waving Aqua, Lush Green, Noble Black",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless",
+   "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -771,7 +987,16 @@
    "Charging": "15W wired",
    "Operating System": "Android 14, Funtouch 14",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, proximity, compass; 3.5mm jack",
-   "Colors": "Mocha Brown, Wave Aqua"
+   "Colors": "Mocha Brown, Wave Aqua",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -846,7 +1071,16 @@
    "Charging": "67W wired (50% in 19 min)",
    "Operating System": "Android 14, Realme UI 5.0",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers, 3.5mm jack, Hi-Res audio, NFC (market/region dependent)",
-   "Colors": "Pioneer Green, Navigator Beige"
+   "Colors": "Pioneer Green, Navigator Beige",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+   "Bluetooth": "5.2, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+   "NFC": "Yes, 360˚ (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -871,7 +1105,16 @@
    "Charging": "45W wired",
    "Operating System": "Android 14, Realme UI 5.0",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass; 3.5mm jack, NFC",
-   "Colors": "Purple Nebula, Black Milky Way"
+   "Colors": "Purple Nebula, Black Milky Way",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS",
+   "NFC": "Yes",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -921,7 +1164,16 @@
    "Charging": "35W wired",
    "Operating System": "Android 13, MagicOS 7.2 (GSMArena: upgradable to Android 14, MagicOS 8)",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, virtual proximity sensing; stereo speakers, 3.5mm jack, Hi-Res audio, NFC (CLK-LX1 only)",
-   "Colors": "Flowing Silver, Emerald Green, Midnight Black"
+   "Colors": "Flowing Silver, Emerald Green, Midnight Black",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes (CLK-LX1 only)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -946,7 +1198,16 @@
    "Charging": "100W wired (International; 80W in USA), 50W wireless, 10W reverse wireless",
    "Operating System": "Android 14, OxygenOS 14 (International) / ColorOS 14 (China) at launch",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers, NFC, infrared port, USB Type-C 3.2",
-   "Colors": "Flowy Emerald, Silky Black, Silver (Glacial White)"
+   "Colors": "Flowy Emerald, Silky Black, Silver (Glacial White)",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC",
+   "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2, OTG",
+   "SIM": "Nano-SIM Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -971,7 +1232,16 @@
    "Charging": "27W wired, 18W wireless, reverse wireless",
    "Operating System": "Android 14 (up to 7 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer; stereo speakers, NFC, USB Type-C 3.2",
-   "Colors": "Obsidian, Hazel, Rose, Mint"
+   "Colors": "Obsidian, Hazel, Rose, Mint",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE, aptX HD",
+   "GPS": "GPS (L1+L5), GLONASS (G1), GALILEO (E1+E5a), QZSS (L1+L5)",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2",
+   "SIM": "Nano-SIM + eSIM"
   }
  },
  {
@@ -996,7 +1266,16 @@
    "Charging": "30W wired, 23W wireless, reverse wireless",
    "Operating System": "Android 14 (up to 7 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature); Ultra Wideband (UWB) support",
-   "Colors": "Obsidian, Porcelain, Bay, Mint"
+   "Colors": "Obsidian, Porcelain, Bay, Mint",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE, aptX HD",
+   "GPS": "GPS (L1+L5), GLONASS (G1), GALILEO (E1+E5a), QZSS (L1+L5)",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2",
+   "SIM": "Nano-SIM + eSIM"
   }
  },
  {
@@ -1021,7 +1300,16 @@
    "Charging": "45W wired, 15W wireless, 5W reverse wireless",
    "Operating System": "Android 13, Nothing OS 2 (at launch; upgradable to Android 15, Nothing OS 3.0)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers, NFC, Snapdragon Sound",
-   "Colors": "White, Dark Gray"
+   "Colors": "White, Dark Gray",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE, aptX HD, aptX Adaptive",
+   "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c), GALILEO (E1), QZSS (L1), NavIC",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -1042,7 +1330,16 @@
    "Features": "Wireless FM radio, LED flashlight, splash resistant, games",
    "Operating System": "Series 30+",
    "Weight": "78.7 g",
-   "Colors": "Charcoal, Cyan, Red Terracotta"
+   "Colors": "Charcoal, Cyan, Red Terracotta",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "No",
+   "Bluetooth": "No",
+   "GPS": "No",
+   "NFC": "No",
+   "Radio": "Wireless FM radio",
+   "USB": "microUSB 1.1",
+   "SIM": "Single SIM (Mini-SIM) or Dual SIM (Mini-SIM, dual stand-by)"
   }
  },
  {
@@ -1084,7 +1381,16 @@
    "Features": "FM radio, MP3 player, torch, Bluetooth 5.0, voice recorder",
    "Operating System": "Series 30+",
    "Weight": "94.5 g",
-   "Colors": "Midnight Blue, Arctic Purple"
+   "Colors": "Midnight Blue, Arctic Purple",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "No",
+   "Bluetooth": "5.0, A2DP",
+   "GPS": "No",
+   "NFC": "No",
+   "Radio": "Wireless FM radio",
+   "USB": "microUSB 2.0",
+   "SIM": "Nano-SIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -1147,7 +1453,16 @@
    "Battery": "1,450 mAh (removable)",
    "Features": "FM radio, MP3 player, torch, Snake game, Bluetooth 5.0, USB Type-C",
    "Operating System": "Series 30+",
-   "Colors": "Black, Peach, Dark Blue"
+   "Colors": "Black, Peach, Dark Blue",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "No",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "No",
+   "NFC": "No",
+   "Radio": "Wireless FM radio",
+   "USB": "USB Type-C",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -1279,7 +1594,16 @@
    "Battery": "8,400 mAh, 45W charging",
    "Operating System": "Android 13, One UI 5.1",
    "Weight": "498 g",
-   "Colors": "Graphite, Beige"
+   "Colors": "Graphite, Beige",
+   "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "No",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2, magnetic connector",
+   "SIM": "Nano-SIM + eSIM (cellular model only)"
   }
  },
  {
@@ -1301,7 +1625,16 @@
    "Battery": "8,840 mAh, 33W charging",
    "Operating System": "Android 13, MIUI Pad 14",
    "Weight": "490 g",
-   "Colors": "Graphite Gray, Mist Blue, Champagne"
+   "Colors": "Graphite Gray, Mist Blue, Champagne",
+   "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/a/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.2, A2DP, LE",
+   "GPS": "Unspecified",
+   "NFC": "No",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2, accessory connector",
+   "SIM": "No"
   }
  },
  {
@@ -1323,7 +1656,16 @@
    "Battery": "8,000 mAh, 18W charging",
    "Operating System": "Android 13, MIUI Pad 14",
    "Weight": "478 g",
-   "Colors": "Lavender Purple, Graphite Gray, Mint Green"
+   "Colors": "Lavender Purple, Graphite Gray, Mint Green",
+   "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "No",
+   "NFC": "No",
+   "Radio": "Yes",
+   "USB": "USB Type-C, OTG",
+   "SIM": "No"
   }
  },
  {
@@ -1369,7 +1711,16 @@
    "Battery": "7,040 mAh, 15W charging",
    "Operating System": "Android 13",
    "Weight": "465 g",
-   "Colors": "Luna Grey, Seafoam Green"
+   "Colors": "Luna Grey, Seafoam Green",
+   "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.1, A2DP, LE",
+   "GPS": "GPS, GLONASS, BDS",
+   "NFC": "No",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM"
   }
  },
  {
@@ -1562,7 +1913,16 @@
    "Charging": "25W wired",
    "Operating System": "Android 14, One UI (up to 4 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC (region dependent); USB Type-C 2.0",
-   "Colors": "Iceblue, Lilac, Navy, Lemon"
+   "Colors": "Iceblue, Lilac, Navy, Lemon",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -1587,7 +1947,16 @@
    "Charging": "25W wired",
    "Operating System": "Android 14, One UI (up to 4 major OS updates)",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, gyro, compass; stereo speakers; 3.5mm jack; NFC (region dependent); USB Type-C 2.0",
-   "Colors": "Brave Black, Personality Yellow, Fantasy Blue, Optimistic Blue"
+   "Colors": "Brave Black, Personality Yellow, Fantasy Blue, Optimistic Blue",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "Market/region dependent",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -1612,7 +1981,16 @@
    "Charging": "25W wired",
    "Operating System": "Android 13, One UI (up to 2 major OS updates)",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, proximity; 3.5mm jack; NFC (region dependent); USB Type-C 2.0",
-   "Colors": "Black, Silver, Light Green, Violet"
+   "Colors": "Black, Silver, Light Green, Violet",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.1, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -1637,7 +2015,16 @@
    "Charging": "25W wired (PD, QC2, 50% in 30 min); 15W wireless; reverse wireless",
    "Operating System": "Android 14, One UI (up to 7 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC; Samsung DeX; USB Type-C 3.2",
-   "Colors": "Blue, Graphite, Gray, Mint, Yellow"
+   "Colors": "Blue, Graphite, Gray, Mint, Yellow",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band (market/region dependent), Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 3.2, OTG",
+   "SIM": "Nano-SIM Nano-SIM + Nano-SIM Nano-SIM + eSIM eSIM + eSIM"
   }
  },
  {
@@ -1662,7 +2049,16 @@
    "Charging": "25W wired (PD3.0, 50% in 30 min); 15W wireless; reverse wireless",
    "Operating System": "Android 13, One UI (up to 4 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC; Samsung DeX; USB Type-C 3.2",
-   "Colors": "Mint, Cream, Graphite, Purple, Indigo, Tangerine"
+   "Colors": "Mint, Cream, Graphite, Purple, Indigo, Tangerine",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 3.2, OTG",
+   "SIM": "Nano-SIM Nano-SIM + Nano-SIM Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
   }
  },
  {
@@ -1687,7 +2083,16 @@
    "Charging": "Wired PD2.0, 50% in 30 min; 25W wireless (MagSafe/Qi2); 4.5W reverse wired",
    "Operating System": "iOS 18",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen2); Emergency SOS via satellite; USB Type-C 3.2 Gen 2",
-   "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium"
+   "Colors": "Black Titanium, White Titanium, Natural Titanium, Desert Titanium",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2 Gen 2, DisplayPort",
+   "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
   }
  },
  {
@@ -1712,7 +2117,16 @@
    "Charging": "Wired PD2.0, 50% in 30 min; 25W wireless (MagSafe/Qi2); 4.5W reverse wired",
    "Operating System": "iOS 18",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen2); Emergency SOS via satellite; USB Type-C 2.0",
-   "Colors": "Black, White, Pink, Teal, Ultramarine"
+   "Colors": "Black, White, Pink, Teal, Ultramarine",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, DisplayPort",
+   "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
   }
  },
  {
@@ -1737,7 +2151,16 @@
    "Charging": "Wired PD2.0, 50% in 30 min; 15W wireless (MagSafe); 15W wireless (Qi2, iOS 17.2+); 4.5W reverse wired",
    "Operating System": "iOS 17",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen2); Emergency SOS via satellite; USB Type-C 3.2 Gen 2",
-   "Colors": "Black Titanium, White Titanium, Blue Titanium, Natural Titanium"
+   "Colors": "Black Titanium, White Titanium, Blue Titanium, Natural Titanium",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, hotspot",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2 Gen 2, DisplayPort",
+   "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
   }
  },
  {
@@ -1762,7 +2185,16 @@
    "Charging": "Wired PD2.0, 50% in 30 min; 15W wireless (MagSafe); 15W wireless (Qi2, iOS 17.2+); 4.5W reverse wired",
    "Operating System": "iOS 17",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen2); Emergency SOS via satellite; USB Type-C 2.0",
-   "Colors": "Black, Blue, Green, Yellow, Pink"
+   "Colors": "Black, Blue, Green, Yellow, Pink",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, DisplayPort",
+   "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
   }
  },
  {
@@ -1787,7 +2219,16 @@
    "Charging": "Wired PD2.0, 50% in 30 min; 15W wireless (MagSafe); 15W wireless (Qi2, iOS 17.2+)",
    "Operating System": "iOS 15",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (UWB); NFC; Lightning, USB 2.0",
-   "Colors": "Starlight, Midnight, Blue, Pink, Red, Green"
+   "Colors": "Starlight, Midnight, Blue, Pink, Red, Green",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "Lightning, USB 2.0",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -1812,7 +2253,16 @@
    "Charging": "70W wired (50% in 20 min), 20W wireless MagCharge, reverse wired/wireless",
    "Operating System": "Android 14, XOS 14",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers tuned by JBL, IR port, NFC (region dependent), FM radio, USB-C 2.0",
-   "Colors": "Vintage Green, Titan Gold, Racing Edition"
+   "Colors": "Vintage Green, Titan Gold, Racing Edition",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "Yes",
+   "GPS": "GPS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -1862,7 +2312,16 @@
    "Charging": "10W wired, reverse wired",
    "Operating System": "Android 14 (Go edition), XOS 14",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, proximity, compass; stereo speakers, 3.5mm jack, IR port, FM radio, USB-C 2.0",
-   "Colors": "Metallic Black, Neo Titanium, Mint Green, Sandstone Gold"
+   "Colors": "Metallic Black, Neo Titanium, Mint Green, Sandstone Gold",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "Yes",
+   "GPS": "GPS",
+   "NFC": "No",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -1912,7 +2371,16 @@
    "Charging": "45W wired (50% in 23 min, 100% in 43 min)",
    "Operating System": "Android 15, HIOS 15 (up to 3 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers, NFC, IR port, FM radio, USB-C 2.0",
-   "Colors": "Emerald Lake Green, Galaxy Black, Glacier White, Emerald Glow Green"
+   "Colors": "Emerald Lake Green, Galaxy Black, Glacier White, Emerald Glow Green",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Yes",
+   "Bluetooth": "Yes",
+   "GPS": "GPS",
+   "NFC": "Yes",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -1962,7 +2430,16 @@
    "Charging": "70W wired (50% in 20 min, 100% in 50 min), 10W reverse wired",
    "Operating System": "Android 14, HIOS 14",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers, 3.5mm jack, Hi-Res audio, NFC, IR port, FM radio, USB-C 2.0",
-   "Colors": "Interstellar Blue, Comet Green, Meteorite Grey"
+   "Colors": "Interstellar Blue, Comet Green, Meteorite Grey",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Yes",
+   "Bluetooth": "Yes",
+   "GPS": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -1987,7 +2464,16 @@
    "Charging": "33W wired (55% in 44 min)",
    "Operating System": "Android 14, HyperOS (up to 4 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity; stereo speakers with Dolby Atmos, 3.5mm jack, NFC (region dependent), IR port, USB-C 2.0",
-   "Colors": "Midnight Black, Mist Purple, Ocean Blue, Lime Green"
+   "Colors": "Midnight Black, Mist Purple, Ocean Blue, Lime Green",
+   "Loudspeaker": "Yes, with stereo speakers (with Dolby Atmos)",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, BDS, GALILEO",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2037,7 +2523,16 @@
    "Charging": "45W wired (100% in 52 min)",
    "Operating System": "Android 14, HyperOS",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity; dual speakers, Wi-Fi 6, NFC (region dependent), IR port, USB-C 2.0",
-   "Colors": "Black, Green, Silver"
+   "Colors": "Black, Green, Silver",
+   "Loudspeaker": "Yes, with dual speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE, LHDC",
+   "GPS": "GPS, GLONASS, BDS, GALILEO, QZSS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2062,7 +2557,16 @@
    "Charging": "80W wired (PD); reverse wired",
    "Operating System": "Android 14, Funtouch 14",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC (market dependent); USB Type-C 2.0",
-   "Colors": "Stellar Silver (Titanium Grey), Nebula Purple (Lotus Purple), Ganges Blue, Moonlight White, Sunglow Peach"
+   "Colors": "Stellar Silver (Titanium Grey), Nebula Purple (Lotus Purple), Ganges Blue, Moonlight White, Sunglow Peach",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+   "Bluetooth": "5.4, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS, NavIC",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2087,7 +2591,16 @@
    "Charging": "44W wired (50% in 41 min, 100% in 92 min); reverse wired",
    "Operating System": "Android 15, Funtouch 15 (upgradable to Android 16, Funtouch 16)",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, proximity, compass; stereo speakers; 24-bit/192kHz Hi-Res audio; infrared port; NFC (market dependent); USB Type-C 2.0",
-   "Colors": "Noble Brown, Elegant White"
+   "Colors": "Noble Brown, Elegant White",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2162,7 +2675,16 @@
    "Charging": "45W wired (PD 2.0 / PPS, 50% in 30 min)",
    "Operating System": "Android 14, ColorOS 14 (upgradable to Android 16, ColorOS 16)",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, proximity, compass; NFC 360° (region dependent); USB Type-C 2.0",
-   "Colors": "Sparkle Black, Starry Purple, Starlight White"
+   "Colors": "Sparkle Black, Starry Purple, Starlight White",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "Yes, 360˚ (market/region dependent)",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2212,7 +2734,16 @@
    "Charging": "45W wired; reverse wired",
    "Operating System": "Android 14, Realme UI 5.0",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, proximity, compass, gyro; dual speakers; USB Type-C 2.0",
-   "Colors": "Lightning Gold, Storm Black"
+   "Colors": "Lightning Gold, Storm Black",
+   "Loudspeaker": "Yes, with dual speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS",
+   "NFC": "Unspecified",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2237,7 +2768,16 @@
    "Charging": "10W wired",
    "Operating System": "Android 14, Realme UI",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, proximity, compass; 3.5mm jack; USB Type-C 2.0",
-   "Colors": "Voyage Blue, Marble Black"
+   "Colors": "Voyage Blue, Marble Black",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS",
+   "NFC": "No",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2287,7 +2827,16 @@
    "Charging": "100W wired (57% in 15 min); 5W reverse wired",
    "Operating System": "Android 14, MagicOS 8",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC; infrared port; USB Type-C 2.0",
-   "Colors": "Coral Pink, Moonlight White, Emerald Green, Black"
+   "Colors": "Coral Pink, Moonlight White, Emerald Green, Black",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE, aptX HD",
+   "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2312,7 +2861,16 @@
    "Charging": "27W wired (55% in 30 min), 15W wireless (Pixel Stand), 12W Qi wireless, reverse wireless",
    "Operating System": "Android 14, up to 7 major Android upgrades",
    "Sensors/Features": "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, barometer, Satellite SOS, stereo speakers, NFC, USB-C 3.2",
-   "Colors": "Obsidian, Porcelain, Wintergreen, Peony"
+   "Colors": "Obsidian, Porcelain, Wintergreen, Peony",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+   "Bluetooth": "5.3, A2DP, LE, aptX HD",
+   "GPS": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2",
+   "SIM": "Nano-SIM + eSIM"
   }
  },
  {
@@ -2337,7 +2895,16 @@
    "Charging": "27W wired (55% in 30 min), 21W wireless (Pixel Stand), 12W Qi wireless, reverse wireless",
    "Operating System": "Android 14, up to 7 major Android upgrades",
    "Sensors/Features": "Fingerprint (under display, ultrasonic), thermometer (skin temperature), UWB, Satellite SOS, stereo speakers, NFC, USB-C 3.2",
-   "Colors": "Porcelain, Rose Quartz, Hazel, Obsidian"
+   "Colors": "Porcelain, Rose Quartz, Hazel, Obsidian",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+   "Bluetooth": "5.3, A2DP, LE, aptX HD",
+   "GPS": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2",
+   "SIM": "Nano-SIM + eSIM"
   }
  },
  {
@@ -2362,7 +2929,16 @@
    "Charging": "100W wired (100% in 26 min)",
    "Operating System": "Android 14, OxygenOS, up to 3 major Android upgrades",
    "Sensors/Features": "Fingerprint (under display, optical), IR port, NFC, stereo speakers",
-   "Colors": "Iron Gray, Cool Blue, Electric Violet, Sunset Dune"
+   "Colors": "Iron Gray, Cool Blue, Electric Violet, Sunset Dune",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+   "Bluetooth": "5.3, A2DP, LE, aptX HD",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2387,7 +2963,16 @@
    "Charging": "100W wired (100% in 28 min)",
    "Operating System": "Android 14, OxygenOS, up to 4 major Android upgrades",
    "Sensors/Features": "Fingerprint (under display, optical), IR port, NFC, stereo speakers",
-   "Colors": "Obsidian Midnight, Mercurial Silver, Oasis Green"
+   "Colors": "Obsidian Midnight, Mercurial Silver, Oasis Green",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2412,7 +2997,16 @@
    "Charging": "45W wired (50% in 23 min, 100% in 1 hour)",
    "Operating System": "Android 14, Nothing OS, up to 3 major Android upgrades",
    "Sensors/Features": "Fingerprint (under display, optical), NFC, stereo speakers",
-   "Colors": "Black, White, Milk, Blue"
+   "Colors": "Black, White, Milk, Blue",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "Yes, 360˚",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2437,7 +3031,16 @@
    "Charging": "68W wired (50% in 15 min)",
    "Operating System": "Android 14, up to 3 major Android upgrades",
    "Sensors/Features": "Fingerprint (under display, optical), NFC, stereo speakers",
-   "Colors": "Forest Blue, Marshmallow Blue, Hot Pink"
+   "Colors": "Forest Blue, Marshmallow Blue, Hot Pink",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.2, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2525,7 +3128,16 @@
    "Battery": "1,450 mAh (removable)",
    "Features": "Wireless FM radio, MP3 player, Bluetooth 5.0, USB-C, 3.5mm jack, flashlight, games",
    "Operating System": "Series 30+",
-   "Colors": "Blue, Titanium"
+   "Colors": "Blue, Titanium",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "No",
+   "Bluetooth": "5.0, A2DP",
+   "GPS": "No",
+   "NFC": "No",
+   "Radio": "Wireless FM radio",
+   "USB": "USB Type-C",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2550,7 +3162,16 @@
    "Charging": "45W wired (PD3.0, 65% in 30 min); 15W wireless (Qi); 4.5W reverse wireless",
    "Operating System": "Android 13, One UI 5.1 (up to 4 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; UWB; Samsung DeX; USB Type-C 3.2",
-   "Colors": "Phantom Black, Green, Cream, Lavender, Graphite, Sky Blue, Lime, Red"
+   "Colors": "Phantom Black, Green, Cream, Lavender, Graphite, Sky Blue, Lime, Red",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2, OTG",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
   }
  },
  {
@@ -2575,7 +3196,16 @@
    "Charging": "25W wired",
    "Operating System": "Android 13, One UI 5.1 (up to 4 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC (market dependent); USB Type-C 2.0",
-   "Colors": "Lime, Graphite, Violet, White"
+   "Colors": "Lime, Graphite, Violet, White",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2600,7 +3230,16 @@
    "Charging": "25W wired",
    "Operating System": "Android 13, One UI 5.1 (up to 4 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC (market dependent); USB Type-C 2.0",
-   "Colors": "Lime, Graphite, Violet, Silver"
+   "Colors": "Lime, Graphite, Violet, Silver",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2625,7 +3264,16 @@
    "Charging": "Wired PD2.0 (50% in 30 min); 15W wireless (MagSafe); 15W wireless (Qi2)",
    "Operating System": "iOS 16",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; UWB; Emergency SOS via satellite; Lightning, USB 2.0",
-   "Colors": "Space Black, Silver, Gold, Deep Purple"
+   "Colors": "Space Black, Silver, Gold, Deep Purple",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "Lightning, USB 2.0",
+   "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
   }
  },
  {
@@ -2650,7 +3298,16 @@
    "Charging": "Wired PD2.0 (50% in 30 min); 15W wireless (MagSafe); 15W wireless (Qi2)",
    "Operating System": "iOS 14.1",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; UWB; MagSafe; Lightning, USB 2.0",
-   "Colors": "Black, White, Red, Green, Blue, Purple"
+   "Colors": "Black, White, Red, Green, Blue, Purple",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "Lightning, USB 2.0",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM (China)"
   }
  },
  {
@@ -2675,7 +3332,16 @@
    "Charging": "Wired PD2.0 (50% in 30 min); wireless (Qi)",
    "Operating System": "iOS 13",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; UWB; Lightning, USB 2.0",
-   "Colors": "Black, Green, Yellow, Purple, Red, White"
+   "Colors": "Black, Green, Yellow, Purple, Red, White",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "Lightning, USB 2.0",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM (China)"
   }
  },
  {
@@ -2725,7 +3391,16 @@
    "Charging": "67W wired (100% in 44 min)",
    "Operating System": "Android 13, HyperOS",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; dual speakers; 3.5mm jack; NFC (market dependent); infrared port; USB Type-C 2.0",
-   "Colors": "Black, White, Blue"
+   "Colors": "Black, White, Blue",
+   "Loudspeaker": "Yes, with dual speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.2, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2750,7 +3425,16 @@
    "Charging": "33W wired (20-75% in 35 min); reverse wired",
    "Operating System": "Android 13, XOS 13.5",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, proximity, compass; stereo speakers; 3.5mm jack; FM radio; NFC; USB Type-C 2.0",
-   "Colors": "Palm Blue, Horizon Gold, Starlit Black, Starfall Green"
+   "Colors": "Palm Blue, Horizon Gold, Starlit Black, Starfall Green",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "Yes",
+   "GPS": "GPS",
+   "NFC": "Yes",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2800,7 +3484,16 @@
    "Charging": "80W wired (50% in 17 min)",
    "Operating System": "Android 13, Funtouch 13 (up to 3 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; NFC; 24-bit/192kHz Hi-Res audio; USB Type-C 2.0",
-   "Colors": "Space Black, Himalayan Blue, Purple Fairy, Majestic Red"
+   "Colors": "Space Black, Himalayan Blue, Purple Fairy, Majestic Red",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.2, A2DP, LE, aptX HD, aptX Adaptive",
+   "GPS": "GPS (L1), GLONASS (G1), BDS (B1I), GALILEO (E1), QZSS (L1)",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2850,7 +3543,16 @@
    "Charging": "45W wired (50% in 30 min)",
    "Operating System": "Android 14, ColorOS 15 (upgradable to Android 15)",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, proximity, compass; stereo speakers; 3.5mm jack; USB Type-C 2.0",
-   "Colors": "Midnight Purple, Ripple Blue"
+   "Colors": "Midnight Purple, Ripple Blue",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "Unspecified",
+   "Radio": "FM radio (market/region dependent)",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2875,7 +3577,16 @@
    "Charging": "67W wired (PD, 76% in 30 min)",
    "Operating System": "Android 13, ColorOS 13.1",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC (market dependent); 3.5mm jack; USB Type-C 2.0",
-   "Colors": "Mist Black, Aqua Green"
+   "Colors": "Mist Black, Aqua Green",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2900,7 +3611,16 @@
    "Charging": "33W wired",
    "Operating System": "Android 14, Realme UI",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass; stereo speakers; NFC 360°; 3.5mm jack; USB Type-C 2.0",
-   "Colors": "Sunny Oasis, Black Rock"
+   "Colors": "Sunny Oasis, Black Rock",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS",
+   "NFC": "Yes, 360˚",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2925,7 +3645,16 @@
    "Charging": "35W wired (31% in 20 min)",
    "Operating System": "Android 14, Magic OS 8",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, proximity; NFC (JDY-LX1 only); 3.5mm jack; USB Type-C 2.0",
-   "Colors": "Forest Green, Starry Purple, Ocean Cyan, Midnight Black"
+   "Colors": "Forest Green, Starry Purple, Ocean Cyan, Midnight Black",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.1, A2DP, LE, aptX HD",
+   "GPS": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes (JDY-LX1 only)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2950,7 +3679,16 @@
    "Charging": "67W wired (PD3.0, QC4, 100% in 42 min)",
    "Operating System": "Android 13, up to 4 major OS updates, HyperOS",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC (market dependent); infrared port; USB Type-C 2.0",
-   "Colors": "Alpine Blue, Meadow Green, Black"
+   "Colors": "Alpine Blue, Meadow Green, Black",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+   "Bluetooth": "5.4, A2DP, LE",
+   "GPS": "GPS (L1+L5), GLONASS (G1), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -2975,7 +3713,16 @@
    "Charging": "18W wired (PD)",
    "Operating System": "Android 13, upgradable to Android 15, HyperOS 2",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, compass; NFC (market dependent); FM radio; 3.5mm jack; USB Type-C 2.0",
-   "Colors": "Black, Blue, Purple"
+   "Colors": "Black, Blue, Purple",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "FM radio, recording",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -3000,7 +3747,16 @@
    "Charging": "45W wired",
    "Operating System": "Android 13",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass; stereo speakers tuned by JBL; NFC (market dependent); FM radio; 3.5mm jack; USB Type-C 2.0",
-   "Colors": "Obsidian Black, Interstellar Blue, Sunset Gold"
+   "Colors": "Obsidian Black, Interstellar Blue, Sunset Gold",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "Yes",
+   "GPS": "GPS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -3100,7 +3856,16 @@
    "Charging": "25W wired (50% in 30 min); 15W wireless (Qi); 4.5W reverse wireless",
    "Operating System": "Android 14, One UI 6.1 (up to 7 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; Samsung DeX; USB Type-C 3.2",
-   "Colors": "Onyx Black, Marble Grey, Cobalt Violet, Amber Yellow, Jade Green, Sandstone Orange, Sapphire Blue"
+   "Colors": "Onyx Black, Marble Grey, Cobalt Violet, Amber Yellow, Jade Green, Sandstone Orange, Sapphire Blue",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, BDS, GALILEO, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2, DisplayPort 1.2, OTG",
+   "SIM": "Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT Nano-SIM + eSIM + eSIM (max 2 at a time) - USA Nano-SIM + Nano-SIM - CN"
   }
  },
  {
@@ -3150,7 +3915,16 @@
    "Charging": "18W wired (PD3.0); 7.5W wireless",
    "Operating System": "Android 14 (up to 7 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; USB Type-C 3.2",
-   "Colors": "Obsidian, Porcelain, Bay, Aloe"
+   "Colors": "Obsidian, Porcelain, Bay, Aloe",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual/tri-band (market/region dependent)",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2",
+   "SIM": "Nano-SIM + eSIM"
   }
  },
  {
@@ -3175,7 +3949,16 @@
    "Charging": "125W wired (100% in 18 min); 50W wireless; 10W reverse wireless",
    "Operating System": "Android 14 (up to 3 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC; USB Type-C 3.1, DisplayPort 1.4",
-   "Colors": "Luxe Lavender, Black Beauty, Moonlight Pearl, Vanilla Cream"
+   "Colors": "Luxe Lavender, Black Beauty, Moonlight Pearl, Vanilla Cream",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.1, OTG, DisplayPort 1.4",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -3200,7 +3983,16 @@
    "Charging": "120W wired (50% in 10 min, 100% in 28 min)",
    "Operating System": "Android 14, Realme UI 5.0 (up to 3 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC (360°); infrared port; USB Type-C 2.0",
-   "Colors": "Fluid Sliver, Razor Green"
+   "Colors": "Fluid Sliver, Razor Green",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+   "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC",
+   "GPS": "GPS (L1+L5), GLONASS, BDS, GALILEO, QZSS",
+   "NFC": "Yes, 360˚",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -3275,7 +4067,16 @@
    "Charging": "80W wired (45% in 15 min); reverse wired",
    "Operating System": "Android 14, Funtouch 14",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC; USB Type-C 2.0",
-   "Colors": "Titanium Silver, Carbon Black, Pearl Violet"
+   "Colors": "Titanium Silver, Carbon Black, Pearl Violet",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -3300,7 +4101,16 @@
    "Charging": "Wired, 50% in 30 min; 7.5W wireless (Qi)",
    "Operating System": "iOS 18.3.1, upgradable to iOS 27.2",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; Emergency SOS and Messages via satellite; USB Type-C 2.0",
-   "Colors": "Black, White"
+   "Colors": "Black, White",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
   }
  },
  {
@@ -3375,7 +4185,16 @@
    "Charging": "25W wired",
    "Operating System": "Android 14, One UI (up to 6 major OS updates)",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, gyro, compass; NFC (market/region dependent); USB Type-C 2.0",
-   "Colors": "Blue Black, Light Gray, Gold, Light Green"
+   "Colors": "Blue Black, Light Gray, Gold, Light Green",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM Nano-SIM + eSIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -3400,7 +4219,16 @@
    "Charging": "90W wired (PD3.0, 2-100% in 35 min)",
    "Operating System": "Android 14, HyperOS (up to 3 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC (market/region dependent); infrared port; USB Type-C 2.0, OTG",
-   "Colors": "Black, Green, Titanium"
+   "Colors": "Black, Green, Titanium",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+   "Bluetooth": "5.4, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -3425,7 +4253,16 @@
    "Charging": "67W wired (PD3.0, 100% in 45 min)",
    "Operating System": "Android 14, upgradable to Android 15, HyperOS 2",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC (market/region dependent); infrared port; USB Type-C 2.0, OTG",
-   "Colors": "Titan Gray, Titan Blue, Titan Black, Lemon Green"
+   "Colors": "Titan Gray, Titan Blue, Titan Black, Lemon Green",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE, LHDC",
+   "GPS": "GPS (L1+L5), BDS (B1I+B1C+B2a), GALILEO (E1+E5a), NavIC (L5), GLONASS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + eSIM eSIM + eSIM Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -3550,7 +4387,16 @@
    "Charging": "90W wired; 40W wireless; reverse wireless; reverse wired",
    "Operating System": "Android 17, up to 5 major OS updates, OriginOS 7",
    "Sensors/Features": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass; stereo speakers; NFC; infrared port; USB Type-C 3.2",
-   "Colors": "Black, Gray, White, Orange"
+   "Colors": "Black, Gray, White, Orange",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+   "Bluetooth": "5.4/6.0, A2DP, LE, aptX HD, LHDC 5",
+   "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5)",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2, OTG",
+   "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International Nano-SIM + Nano-SIM - China"
   }
  },
  {
@@ -3575,7 +4421,16 @@
    "Charging": "90W wired; 40W wireless; reverse wireless; reverse wired",
    "Operating System": "Android 17, up to 5 major OS updates, OriginOS 7",
    "Sensors/Features": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass; stereo speakers; NFC; infrared port; USB Type-C 3.2",
-   "Colors": "Black, Gray, White, Orange"
+   "Colors": "Black, Gray, White, Orange",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+   "Bluetooth": "5.4/6.0, A2DP, LE, aptX HD, LHDC 5",
+   "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5)",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2, OTG",
+   "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International Nano-SIM + Nano-SIM - China"
   }
  },
  {
@@ -3650,7 +4505,16 @@
    "Charging": "100W wired (58% in 30 min); 44W/100W UFCS, 55W PPS; bypass charging",
    "Operating System": "Android 17, ColorOS 17",
    "Sensors/Features": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass; stereo speakers; NFC; infrared port; USB Type-C 2.0",
-   "Colors": "Black, White, Purple"
+   "Colors": "Black, White, Purple",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+   "Bluetooth": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5",
+   "GPS": "GPS (L1+L2+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -3750,7 +4614,16 @@
    "Charging": "40W wired; 5W reverse wired",
    "Operating System": "HarmonyOS 7.0",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, compass; NFC; infrared port; USB Type-C 2.0",
-   "Colors": "Black, White, Blue, Pink"
+   "Colors": "Black, White, Blue, Pink",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+   "Bluetooth": "6.0, A2DP, LE, L2HC (320-960 kbps HD audio)",
+   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -3800,7 +4673,16 @@
    "Charging": "Wired PD3.2 (50% in 20 min); 25W wireless MagSafe/Qi2; 4.5W reverse wired",
    "Operating System": "iOS 26, upgradable to iOS 27.2",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; Ultra Wideband (UWB) gen2 chip; Emergency SOS and Find My via satellite; USB Type-C 2.0",
-   "Colors": "Black, White, Mist Blue, Sage, Lavender"
+   "Colors": "Black, White, Mist Blue, Sage, Lavender",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot",
+   "Bluetooth": "6.0, A2DP, LE",
+   "GPS": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, DisplayPort",
+   "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
   }
  },
  {
@@ -3825,7 +4707,16 @@
    "Charging": "Wired PD3.2 (50% in 20 min); 25W wireless MagSafe/Qi2; 4.5W reverse wired",
    "Operating System": "iOS 26, upgradable to iOS 27.2",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; Ultra Wideband (UWB) gen2 chip; Emergency SOS and Find My via satellite; USB Type-C 3.2 Gen 2",
-   "Colors": "Silver, Cosmic Orange, Deep Blue"
+   "Colors": "Silver, Cosmic Orange, Deep Blue",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+   "Bluetooth": "6.0, A2DP, LE",
+   "GPS": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2 Gen 2, DisplayPort",
+   "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
   }
  },
  {
@@ -3850,7 +4741,16 @@
    "Charging": "Wired PD3.2 (50% in 20 min); 25W wireless MagSafe/Qi2; 4.5W reverse wired",
    "Operating System": "iOS 26, upgradable to iOS 27.2",
    "Sensors/Features": "Face ID, accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; Ultra Wideband (UWB) gen2 chip; Emergency SOS and Find My via satellite; USB Type-C 3.2 Gen 2",
-   "Colors": "Silver, Cosmic Orange, Deep Blue"
+   "Colors": "Silver, Cosmic Orange, Deep Blue",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+   "Bluetooth": "6.0, A2DP, LE",
+   "GPS": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2 Gen 2, DisplayPort",
+   "SIM": "Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
   }
  },
  {
@@ -3875,7 +4775,16 @@
    "Charging": "45W wired (65% in 30 min, 100% in 68 min)",
    "Operating System": "Android 15, One UI 9 (up to 6 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC (market/region dependent); USB Type-C 2.0",
-   "Colors": "Pink, Olive, Graphite, Lightgray"
+   "Colors": "Pink, Olive, Graphite, Lightgray",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
   }
  },
  {
@@ -3900,7 +4809,16 @@
    "Charging": "45W wired (66% in 30 min, 100% in 68 min)",
    "Operating System": "Android 15, One UI 9 (up to 6 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC (market/region dependent); USB Type-C 2.0",
-   "Colors": "Lavender, Black, White, Lime"
+   "Colors": "Lavender, Black, White, Lime",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
   }
  },
  {
@@ -3950,7 +4868,16 @@
    "Charging": "90W wired (PD); reverse wired",
    "Operating System": "Android 15, Funtouch 15 (up to 3 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC (market/region dependent); USB Type-C 2.0",
-   "Colors": "Ancora Red (Rose Red), Satin Black (Titanium Grey), Starry Blue (Starry Night), Mist Purple"
+   "Colors": "Ancora Red (Rose Red), Satin Black (Titanium Grey), Starry Blue (Starry Night), Mist Purple",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+   "Bluetooth": "5.4, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS, NavIC",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -4050,7 +4977,16 @@
    "Charging": "80W wired (6000 mAh version, 40% in 15 min) / 66W wired (5300 mAh version, 44% in 15 min); 5W reverse wired",
    "Operating System": "Android 15, up to 6 major OS updates, MagicOS 10",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, compass, proximity (ultrasonic); stereo speakers; Wi-Fi 6, Bluetooth 5.4, NFC, infrared port; USB Type-C 2.0, OTG; no 3.5mm jack",
-   "Colors": "Midnight Black, Meteor Silver, Desert Gold, Tidal Blue"
+   "Colors": "Midnight Black, Meteor Silver, Desert Gold, Tidal Blue",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE, aptX HD",
+   "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + eSIM"
   }
  },
  {
@@ -4075,7 +5011,16 @@
    "Charging": "100W wired (51% in 15 min, 100% in 39 min); 50W wireless; 5W reverse wired; reverse wireless",
    "Operating System": "Android 15, up to 6 major OS updates, MagicOS 10",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, compass, proximity (ultrasonic); stereo speakers; Wi-Fi 6e/7, Bluetooth 5.4, NFC, infrared port; USB Type-C 2.0, OTG; no 3.5mm jack",
-   "Colors": "Midnight Black, Lunar Grey, Tidal Blue"
+   "Colors": "Midnight Black, Lunar Grey, Tidal Blue",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band or tri-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE, aptX HD",
+   "GPS": "GPS, GALILEO, GLONASS, QZSS, BDS",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + eSIM"
   }
  },
  {
@@ -4150,7 +5095,16 @@
    "Charging": "25W wired",
    "Operating System": "Android 14, One UI 6.1 (up to 4 major Android upgrades)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass, virtual proximity sensing; barometer (USA only)",
-   "Colors": "Iceblue, Lilac, Navy, Lemon"
+   "Colors": "Iceblue, Lilac, Navy, Lemon",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM Nano-SIM + eSIM Nano-SIM + Nano-SIM Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
   }
  },
  {
@@ -4225,7 +5179,16 @@
    "Charging": "90W wired (100% in 38 min); 30W wireless MagCharge; 10W reverse wired; reverse wireless; bypass charging",
    "Operating System": "Android 15, up to 2 major OS updates, XOS 15",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, compass, heart rate, SpO2; stereo speakers tuned by JBL, Hi-Res audio; Wi-Fi 5, Bluetooth 5.4, NFC (market/region dependent), infrared port, FM radio; USB Type-C 2.0, OTG",
-   "Colors": "Titanium Grey, Enchanted Purple, Racing Edition, Shadow Black"
+   "Colors": "Titanium Grey, Enchanted Purple, Racing Edition, Shadow Black",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.4, A2DP, LE",
+   "GPS": "GPS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -4250,7 +5213,16 @@
    "Charging": "66W wired; reverse wired",
    "Operating System": "Android 14, Magic OS 8",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; Wi-Fi 5, Bluetooth 5.1, NFC (market/region dependent); USB Type-C 2.0, OTG; no 3.5mm jack",
-   "Colors": "Titanium Purple, Titanium Black, Jade Cyan"
+   "Colors": "Titanium Purple, Titanium Black, Jade Cyan",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.1, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -4275,7 +5247,16 @@
    "Charging": "90W wired (PD3.0, QC3+, 100% in 42 min); reverse wired",
    "Operating System": "Android 15, HyperOS 2",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers, Hi-Res audio; Wi-Fi 6, Bluetooth 5.4/6.0, NFC (market/region dependent), infrared port; USB Type-C 2.0, OTG",
-   "Colors": "Black/Yellow, White, Green, Red (Iron Man Edition)"
+   "Colors": "Black/Yellow, White, Green, Red (Iron Man Edition)",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4/6.0, A2DP, LE",
+   "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), NavIC (L5)",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "No",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -4300,7 +5281,16 @@
    "Charging": "33W wired (50% in 27 min); reverse wired; bypass charging",
    "Operating System": "Android 14, XOS 14.5 (up to 1 major OS update)",
    "Sensors/Features": "Fingerprint (under display, optical), accelerometer, proximity, compass; stereo speakers; 3.5mm jack; Hi-Res audio; NFC; FM radio; Bluetooth 5.4; USB Type-C 2.0, OTG",
-   "Colors": "Sleek Black, Titanium Grey, Glacier Blue"
+   "Colors": "Sleek Black, Titanium Grey, Glacier Blue",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.4, A2DP, LE",
+   "GPS": "GPS",
+   "NFC": "Yes",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -4325,7 +5315,16 @@
    "Charging": "10W wired",
    "Operating System": "Android 14, Realme UI",
    "Sensors/Features": "Accelerometer, proximity, compass; 3.5mm jack; Wi-Fi 802.11 a/b/g/n/ac dual-band; Bluetooth 5.0; GPS, GALILEO, GLONASS, BDS; no NFC; USB Type-C 2.0",
-   "Colors": "Wilderness Green, Marble Black"
+   "Colors": "Wilderness Green, Marble Black",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.0, A2DP, LE",
+   "GPS": "GPS, GALILEO, GLONASS, BDS",
+   "NFC": "No",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -4375,7 +5374,16 @@
    "Charging": "45W wired, PD2.0, PPS (50% in 30 min)",
    "Operating System": "Android 14, ColorOS 15 (upgradable to Android 15)",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, proximity, compass; 3.5mm jack; Bluetooth 5.0, aptX; no NFC; USB Type-C 2.0, OTG",
-   "Colors": "Nebula Red, Ocean Blue, Starry Purple"
+   "Colors": "Nebula Red, Ocean Blue, Starry Purple",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "5.0, A2DP, LE, aptX",
+   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
+   "NFC": "No",
+   "Radio": "Unspecified",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -4425,7 +5433,16 @@
    "Charging": "25W wired",
    "Operating System": "Android 15, One UI 8 (up to 6 major OS updates)",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, proximity; Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct; Bluetooth 5.3; GPS, GLONASS, GALILEO, BDS; FM radio; no NFC; 3.5mm jack; USB Type-C 2.0",
-   "Colors": "Gray, Light Violet, Dark Green"
+   "Colors": "Gray, Light Violet, Dark Green",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.3, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "No",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -4450,7 +5467,16 @@
    "Charging": "18W wired; reverse wired; bypass charging",
    "Operating System": "Android 14, XOS 14.5",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, proximity, compass; stereo speakers; 3.5mm jack; Wi-Fi 802.11 a/b/g/n/ac dual-band; GPS; FM radio; no NFC; USB Type-C 2.0, OTG",
-   "Colors": "Sleek Black, Sage Green, Titanium Grey"
+   "Colors": "Sleek Black, Sage Green, Titanium Grey",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+   "Bluetooth": "Yes",
+   "GPS": "GPS",
+   "NFC": "No",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -4500,7 +5526,16 @@
    "Charging": "18W wired, USB Power Delivery",
    "Operating System": "Android 14, HyperOS (upgradable to Android 16)",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, compass, virtual proximity sensing; Bluetooth 5.4; NFC (market dependent); FM radio; 3.5mm jack; USB Type-C 2.0, OTG",
-   "Colors": "Midnight Black, Sage Green, Dreamy Purple, Starry Blue"
+   "Colors": "Midnight Black, Sage Green, Dreamy Purple, Starry Blue",
+   "Loudspeaker": "Yes",
+   "3.5mm Jack": "Yes",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE",
+   "GPS": "GPS, GLONASS, GALILEO, BDS",
+   "NFC": "Yes (market/region dependent)",
+   "Radio": "FM radio",
+   "USB": "USB Type-C 2.0, OTG",
+   "SIM": "Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -4650,7 +5685,16 @@
    "Charging": "37W wired, PD3.0 (70% in 30 min); 23W wireless (Pixel Stand); 12W wireless (Qi); reverse wireless; bypass charging",
    "Operating System": "Android 14 (up to 7 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, thermometer; UWB; Satellite SOS; stereo speakers; NFC; Wi-Fi 7; Bluetooth 5.3; USB Type-C 3.2",
-   "Colors": "Porcelain, Rose Quartz, Hazel, Obsidian"
+   "Colors": "Porcelain, Rose Quartz, Hazel, Obsidian",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band",
+   "Bluetooth": "5.3, A2DP, LE, aptX HD",
+   "GPS": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2",
+   "SIM": "Nano-SIM + eSIM"
   }
  },
  {
@@ -4675,7 +5719,16 @@
    "Charging": "100W wired (50% in 13 min, 100% in 36 min); 50W wireless; 10W reverse wireless; 5W reverse wired",
    "Operating System": "Android 15, OxygenOS 16 (International) (up to 4 major OS updates)",
    "Sensors/Features": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; infrared port; Wi-Fi 7; Bluetooth 5.4; USB Type-C 3.2",
-   "Colors": "Black Eclipse, Arctic Dawn, Midnight Ocean"
+   "Colors": "Black Eclipse, Arctic Dawn, Midnight Ocean",
+   "Loudspeaker": "Yes, with stereo speakers",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual or tri-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, A2DP, LE, aptX HD, LHDC 5",
+   "GPS": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC",
+   "NFC": "Yes",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2, OTG",
+   "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
   }
  },
  {
@@ -4750,7 +5803,16 @@
    "Charging": "45W wired, PD3.0, QC3+ (100% in 1h 20 min)",
    "Operating System": "Android 15, HyperOS 2 (up to 4 major OS updates)",
    "Sensors/Features": "Accelerometer, gyro, proximity, compass; quad stereo speakers; Hi-Res audio; Wi-Fi 6e; Bluetooth 5.4; infrared port; USB Type-C 3.2",
-   "Colors": "Black, Blue, Green"
+   "Colors": "Black, Blue, Green",
+   "Loudspeaker": "Yes, with stereo speakers (4 speakers)",
+   "3.5mm Jack": "No",
+   "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
+   "Bluetooth": "5.4, LHDC 5",
+   "GPS": "No",
+   "NFC": "No",
+   "Radio": "No",
+   "USB": "USB Type-C 3.2, accessory connector",
+   "SIM": "No"
   }
  },
  {

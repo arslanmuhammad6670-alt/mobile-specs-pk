@@ -1,0 +1,700 @@
+[
+ {
+  "slug": "google-pixel-9",
+  "name": "Google Pixel 9",
+  "brand": "Google",
+  "price": 199999,
+  "price_src": "https://mobileinto.com/pk/Google-Pixel-9/",
+  "year": 2024,
+  "cat": "Smartphones",
+  "tag": "Tensor G4 aur behtareen AI camera wala Google flagship",
+  "hl": [
+   "6.3\" OLED 120Hz",
+   "Tensor G4",
+   "12 GB RAM",
+   "4,700 mAh"
+  ],
+  "source": "https://www.gsmarena.com/google_pixel_9-13219.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 13 Aug 2024, released 22 Aug 2024)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "152.8 x 72 x 8.5 mm, 198 g; Gorilla Glass Victus 2 front and back, aluminum frame; Nano-SIM + eSIM; IP68 (1.5 m for 30 min)"
+   ],
+   [
+    "Display",
+    "OLED, 120Hz, HDR10+, 1800 nits (HBM), 2700 nits peak; 6.3 inches, 1080 x 2424 pixels; Gorilla Glass Victus 2"
+   ],
+   [
+    "Chipset",
+    "Google Tensor G4 (4 nm); Octa-core CPU (1x3.1 GHz Cortex-X4, 3x2.6 GHz Cortex-A720, 4x1.92 GHz Cortex-A520); Mali-G715 MC7 GPU"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB (UFS 3.1); no card slot"
+   ],
+   [
+    "Main Camera",
+    "50 MP f/1.7 wide (PDAF, OIS, Laser AF) + 48 MP f/1.7 123-degree ultrawide; LED flash, panorama, HDR; video 4K@24/30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "10.5 MP f/2.2 (PDAF); video 4K@30/60fps, 1080p@30/60fps"
+   ],
+   [
+    "Battery",
+    "Li-Ion 4700 mAh"
+   ],
+   [
+    "Charging",
+    "27W wired (55% in 30 min), 15W wireless (Pixel Stand), 12W Qi wireless, reverse wireless"
+   ],
+   [
+    "Operating System",
+    "Android 14, up to 7 major Android upgrades"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, barometer, Satellite SOS, stereo speakers, NFC, USB-C 3.2"
+   ],
+   [
+    "Colors",
+    "Obsidian, Porcelain, Wintergreen, Peony"
+   ]
+  ]
+ },
+ {
+  "slug": "google-pixel-9-pro",
+  "name": "Google Pixel 9 Pro",
+  "brand": "Google",
+  "price": 269999,
+  "price_src": "https://mobileinto.com/pk/Google-Pixel-9-Pro/",
+  "year": 2024,
+  "cat": "Smartphones",
+  "tag": "5x zoom camera aur 16GB RAM wala pro Pixel",
+  "hl": [
+   "6.3\" LTPO OLED 120Hz",
+   "Tensor G4",
+   "16 GB RAM",
+   "4,700 mAh"
+  ],
+  "source": "https://www.gsmarena.com/google_pixel_9_pro-13218.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 13 Aug 2024, released 9 Sep 2024)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "152.8 x 72 x 8.5 mm, 199 g; Gorilla Glass Victus 2 front and back, aluminum frame; Nano-SIM + eSIM; IP68 (1.5 m for 30 min)"
+   ],
+   [
+    "Display",
+    "LTPO OLED, 120Hz, HDR10+, 2000 nits (HBM), 3000 nits peak; 6.3 inches, 1280 x 2856 pixels (~495 ppi); Gorilla Glass Victus 2"
+   ],
+   [
+    "Chipset",
+    "Google Tensor G4 (4 nm); Octa-core CPU (1x3.1 GHz Cortex-X4, 3x2.6 GHz Cortex-A720, 4x1.92 GHz Cortex-A520); Mali-G715 MC7 GPU"
+   ],
+   [
+    "RAM",
+    "16 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB / 1 TB (UFS 3.1); no card slot"
+   ],
+   [
+    "Main Camera",
+    "50 MP f/1.7 wide (PDAF, OIS) + 48 MP f/2.8 periscope telephoto (5x optical zoom) + 48 MP f/1.7 123-degree ultrawide; video 8K@30fps (cloud upscaling), 4K@24/30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "42 MP f/2.2 (PDAF); video 4K@30/60fps, 1080p@30/60fps"
+   ],
+   [
+    "Battery",
+    "Li-Ion 4700 mAh"
+   ],
+   [
+    "Charging",
+    "27W wired (55% in 30 min), 21W wireless (Pixel Stand), 12W Qi wireless, reverse wireless"
+   ],
+   [
+    "Operating System",
+    "Android 14, up to 7 major Android upgrades"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (under display, ultrasonic), thermometer (skin temperature), UWB, Satellite SOS, stereo speakers, NFC, USB-C 3.2"
+   ],
+   [
+    "Colors",
+    "Porcelain, Rose Quartz, Hazel, Obsidian"
+   ]
+  ]
+ },
+ {
+  "slug": "oneplus-12r",
+  "name": "OnePlus 12R",
+  "brand": "OnePlus",
+  "price": 120999,
+  "price_src": "https://mobileinto.com/pk/OnePlus-12R/",
+  "year": 2024,
+  "cat": "Smartphones",
+  "tag": "Snapdragon 8 Gen 2 aur 100W charging budget flagship mein",
+  "hl": [
+   "6.78\" AMOLED 120Hz",
+   "Snapdragon 8 Gen 2",
+   "8/16 GB RAM",
+   "5,500 mAh"
+  ],
+  "source": "https://www.gsmarena.com/oneplus_12r-12727.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 23 Jan 2024, released 6 Feb 2024)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.3 x 75.3 x 8.8 mm, 207 g; Gorilla Glass Victus 2 front, glass back, aluminum frame; IP64 dust/splash resistant"
+   ],
+   [
+    "Display",
+    "LTPO4 AMOLED, 1B colors, 120Hz, Dolby Vision, 1600 nits (HBM), 4500 nits peak; 6.78 inches, 1264 x 2780 pixels"
+   ],
+   [
+    "Chipset",
+    "Qualcomm Snapdragon 8 Gen 2 (4 nm); Adreno 740 GPU"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB (UFS 3.1); no card slot"
+   ],
+   [
+    "Main Camera",
+    "50 MP f/1.8 wide (PDAF, OIS) + 8 MP ultrawide + 2 MP macro; video 4K@30/60fps, 1080p@30/60/120fps"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP f/2.4; video 1080p@30fps"
+   ],
+   [
+    "Battery",
+    "5500 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired (100% in 26 min)"
+   ],
+   [
+    "Operating System",
+    "Android 14, OxygenOS, up to 3 major Android upgrades"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (under display, optical), IR port, NFC, stereo speakers"
+   ],
+   [
+    "Colors",
+    "Iron Gray, Cool Blue, Electric Violet, Sunset Dune"
+   ]
+  ]
+ },
+ {
+  "slug": "oneplus-nord-4",
+  "name": "OnePlus Nord 4",
+  "brand": "OnePlus",
+  "price": 99999,
+  "price_src": "https://mobileinto.com/pk/OnePlus-Nord-4/",
+  "year": 2024,
+  "cat": "Smartphones",
+  "tag": "Metal body aur 100W charging wala Nord",
+  "hl": [
+   "6.74\" AMOLED 120Hz",
+   "Snapdragon 7+ Gen 3",
+   "8/12 GB RAM",
+   "5,500 mAh"
+  ],
+  "source": "https://www.gsmarena.com/oneplus_nord_4-13200.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 16 Jul 2024, released 8 Aug 2024)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.6 x 75 x 8 mm, 199.5 g; glass front, aluminum back and frame (metal unibody); IP65 dust/water resistant"
+   ],
+   [
+    "Display",
+    "Fluid AMOLED, 1B colors, 120Hz, HDR10+, 2150 nits peak; 6.74 inches, 1240 x 2772 pixels"
+   ],
+   [
+    "Chipset",
+    "Qualcomm Snapdragon 7+ Gen 3 (4 nm); Adreno 732 GPU"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB (UFS 3.1 on 128 GB, UFS 4.0 on others); no card slot"
+   ],
+   [
+    "Main Camera",
+    "50 MP f/1.8 wide (PDAF, OIS) + 8 MP ultrawide; video 4K@30/60fps, 1080p@30/60/120fps"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP f/2.4; video 1080p@30fps"
+   ],
+   [
+    "Battery",
+    "5500 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired (100% in 28 min)"
+   ],
+   [
+    "Operating System",
+    "Android 14, OxygenOS, up to 4 major Android upgrades"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (under display, optical), IR port, NFC, stereo speakers"
+   ],
+   [
+    "Colors",
+    "Obsidian Midnight, Mercurial Silver, Oasis Green"
+   ]
+  ]
+ },
+ {
+  "slug": "nothing-phone-2a",
+  "name": "Nothing Phone (2a)",
+  "brand": "Nothing",
+  "price": 116749,
+  "price_src": "http://whatmobile.com.pk/Nothing_Phone-2a",
+  "year": 2024,
+  "cat": "Smartphones",
+  "tag": "Glyph lights aur saaf software wala mukhtalif design",
+  "hl": [
+   "6.7\" AMOLED 120Hz",
+   "Dimensity 7200 Pro",
+   "8/12 GB RAM",
+   "5,000 mAh"
+  ],
+  "source": "https://www.gsmarena.com/nothing_phone_(2a)-12760.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 5 Mar 2024, released 12 Mar 2024)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "161.7 x 76.3 x 8.6 mm, 190 g; Gorilla Glass 5 front, plastic frame and back; IP54; Glyph interface (3 LED strips, 26 zones)"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, HDR10+, 700 nits (typ), 1100 nits (HBM), 1300 nits peak; 6.7 inches, 1080 x 2412 pixels"
+   ],
+   [
+    "Chipset",
+    "MediaTek Dimensity 7200 Pro (4 nm); Mali-G610 MC4 GPU"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; no card slot"
+   ],
+   [
+    "Main Camera",
+    "50 MP f/1.9 wide (PDAF, OIS) + 50 MP f/2.2 114-degree ultrawide; video 4K@30fps, 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP f/2.2; video 1080p@60fps"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired (50% in 23 min, 100% in 1 hour)"
+   ],
+   [
+    "Operating System",
+    "Android 14, Nothing OS, up to 3 major Android upgrades"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (under display, optical), NFC, stereo speakers"
+   ],
+   [
+    "Colors",
+    "Black, White, Milk, Blue"
+   ]
+  ]
+ },
+ {
+  "slug": "motorola-edge-50-fusion",
+  "name": "Motorola Edge 50 Fusion",
+  "brand": "Motorola",
+  "price": 129999,
+  "price_src": "http://mobileinto.com/pk/Motorola-Edge-50-Fusion/",
+  "year": 2024,
+  "cat": "Smartphones",
+  "tag": "144Hz pOLED aur IP68 wala slim Motorola",
+  "hl": [
+   "6.7\" P-OLED 144Hz",
+   "Snapdragon 7s Gen 2",
+   "8/12 GB RAM",
+   "5,000 mAh"
+  ],
+  "source": "https://www.gsmarena.com/motorola_edge_50_fusion-12871.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 16 Apr 2024, released 15 May 2024)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "161.9 x 73.1 x 7.9 mm, 174.9 g; glass front (Gorilla Glass 5), silicone polymer (eco leather) back, plastic frame; IP68 (1.5 m for 30 min)"
+   ],
+   [
+    "Display",
+    "P-OLED, 1B colors, 144Hz (International) / 120Hz (LATAM), 1600 nits peak; 6.7 inches, 1080 x 2400 pixels"
+   ],
+   [
+    "Chipset",
+    "Snapdragon 7s Gen 2 (International) / Snapdragon 6 Gen 1 (LATAM); Adreno 710 GPU"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB (UFS 2.2)"
+   ],
+   [
+    "Main Camera",
+    "50 MP f/1.9 wide (PDAF, OIS) + 13 MP ultrawide (autofocus); video 4K@30fps, 1080p@30/60/120fps"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP f/2.5; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "68W wired (50% in 15 min)"
+   ],
+   [
+    "Operating System",
+    "Android 14, up to 3 major Android upgrades"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (under display, optical), NFC, stereo speakers"
+   ],
+   [
+    "Colors",
+    "Forest Blue, Marshmallow Blue, Hot Pink"
+   ]
+  ]
+ },
+ {
+  "slug": "samsung-galaxy-tab-a9-plus",
+  "name": "Samsung Galaxy Tab A9 Plus",
+  "brand": "Samsung",
+  "price": 74999,
+  "price_src": "https://mobileinto.com/pk/Samsung-Galaxy-Tab-A9-Plus/",
+  "year": 2023,
+  "cat": "Tablets",
+  "tag": "11 inch 90Hz screen aur 4 speakers wala budget tablet",
+  "hl": [
+   "11\" TFT 90Hz",
+   "Snapdragon 695",
+   "7,040 mAh"
+  ],
+  "source": "https://www.gsmarena.com/samsung_galaxy_tab_a9+-12617.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2023"
+   ],
+   [
+    "Network",
+    "5G (SIM model) / Wi-Fi"
+   ],
+   [
+    "Display",
+    "11.0\" TFT LCD, 90Hz, 1200x1920"
+   ],
+   [
+    "Chipset",
+    "Snapdragon 695 5G"
+   ],
+   [
+    "RAM",
+    "4 / 6 / 8 GB"
+   ],
+   [
+    "Storage",
+    "64 / 128 / 256 GB + microSD"
+   ],
+   [
+    "Main Camera",
+    "8MP (AF), 1080p video"
+   ],
+   [
+    "Selfie Camera",
+    "5MP"
+   ],
+   [
+    "Battery",
+    "7,040 mAh, 15W charging"
+   ],
+   [
+    "Operating System",
+    "Android 13, One UI"
+   ],
+   [
+    "Weight",
+    "480 g (Wi-Fi) / 492 g (5G)"
+   ],
+   [
+    "Colors",
+    "Graphite, Silver, Navy"
+   ]
+  ]
+ },
+ {
+  "slug": "apple-ipad-pro-m4-11",
+  "name": "Apple iPad Pro 11 (M4)",
+  "brand": "Apple",
+  "price": 289999,
+  "price_src": "https://mobileinto.com/pk/Apple-iPad-Pro-11-2024/",
+  "year": 2024,
+  "cat": "Tablets",
+  "tag": "M4 chip aur Tandem OLED — sab se patla iPad",
+  "hl": [
+   "11\" Tandem OLED 120Hz",
+   "Apple M4",
+   "256 GB – 2 TB"
+  ],
+  "source": "https://www.gsmarena.com/apple_ipad_pro_11_(2024)-12986.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2024"
+   ],
+   [
+    "Network",
+    "5G (cellular model) / Wi-Fi"
+   ],
+   [
+    "Display",
+    "11.0\" Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits peak, 1668x2420"
+   ],
+   [
+    "Chipset",
+    "Apple M4 (9-core CPU on 256/512 GB, 10-core CPU on 1/2 TB; 10-core GPU)"
+   ],
+   [
+    "RAM",
+    "8 GB (256/512 GB) / 16 GB (1/2 TB)"
+   ],
+   [
+    "Storage",
+    "256 / 512 GB / 1 TB / 2 TB"
+   ],
+   [
+    "Main Camera",
+    "12MP wide + TOF 3D LiDAR, 4K@60 video, ProRes"
+   ],
+   [
+    "Selfie Camera",
+    "12MP ultrawide (landscape)"
+   ],
+   [
+    "Battery",
+    "8,160 mAh (31.29 Wh)"
+   ],
+   [
+    "Operating System",
+    "iPadOS 17.5"
+   ],
+   [
+    "Weight",
+    "444 g (Wi-Fi) / 446 g (5G)"
+   ],
+   [
+    "Colors",
+    "Silver, Space Black"
+   ]
+  ]
+ },
+ {
+  "slug": "nokia-3210-2024",
+  "name": "Nokia 3210 (2024)",
+  "brand": "Nokia",
+  "price": 11999,
+  "price_src": "https://www.hmd.com/en_pk/feature-phones",
+  "year": 2024,
+  "cat": "Keypad Phones",
+  "tag": "Legend 3210 wapas — 4G aur Snake ke sath",
+  "hl": [
+   "2.4\" display",
+   "4G · Dual SIM",
+   "1,450 mAh battery"
+  ],
+  "source": "https://www.gsmarena.com/nokia_3210-12990.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2024"
+   ],
+   [
+    "Network",
+    "4G LTE, Dual SIM"
+   ],
+   [
+    "Display",
+    "2.4\" TFT, 240x320"
+   ],
+   [
+    "Chipset",
+    "Unisoc T107"
+   ],
+   [
+    "Storage",
+    "128 MB + microSD up to 32 GB (64 MB RAM)"
+   ],
+   [
+    "Camera",
+    "2MP with LED flash"
+   ],
+   [
+    "Battery",
+    "1,450 mAh (removable)"
+   ],
+   [
+    "Features",
+    "Wireless FM radio, Bluetooth 5.0, USB-C, 3.5mm jack, Cloud Apps portal, games"
+   ],
+   [
+    "Operating System",
+    "Series 30+"
+   ],
+   [
+    "Colors",
+    "Scuba Blue, Y2K Gold, Grunge Black"
+   ]
+  ]
+ },
+ {
+  "slug": "hmd-110-4g",
+  "name": "HMD 110 4G",
+  "brand": "HMD",
+  "price": 9999,
+  "price_src": "https://directories.parhlo.com/mobile/hmd-110-4g-price-in-pakistan",
+  "year": 2024,
+  "cat": "Keypad Phones",
+  "tag": "4G keypad phone — torch aur lambi battery ke sath",
+  "hl": [
+   "2.4\" display",
+   "4G · Dual SIM",
+   "1,450 mAh battery"
+  ],
+  "source": "https://www.gsmarena.com/hmd_110_4g-13336.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2024"
+   ],
+   [
+    "Network",
+    "4G LTE, Dual SIM"
+   ],
+   [
+    "Display",
+    "2.4\" TFT LCD, 240x320"
+   ],
+   [
+    "Chipset",
+    "Unisoc T127"
+   ],
+   [
+    "Storage",
+    "64 MB + microSD up to 32 GB (128 MB RAM)"
+   ],
+   [
+    "Camera",
+    "QVGA"
+   ],
+   [
+    "Battery",
+    "1,450 mAh (removable)"
+   ],
+   [
+    "Features",
+    "Wireless FM radio, MP3 player, Bluetooth 5.0, USB-C, 3.5mm jack, flashlight, games"
+   ],
+   [
+    "Operating System",
+    "Series 30+"
+   ],
+   [
+    "Colors",
+    "Blue, Titanium"
+   ]
+  ]
+ }
+]

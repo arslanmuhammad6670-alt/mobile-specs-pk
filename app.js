@@ -1,8 +1,10 @@
 
 async function loadPhones(){const r=await fetch('phones.json');return r.json()}
-function pkr(p){return '$'+p.price.toLocaleString('en-US')+' · Rs '+p.price_pkr.toLocaleString('en-PK')}
+function pkr(p){return 'Rs '+p.price_pkr.toLocaleString('en-PK')+' · $'+p.price.toLocaleString('en-US')}
 function doSearch(q){q=(q||'').toLowerCase();document.querySelectorAll('.card').forEach(c=>{c.style.display=c.dataset.name.includes(q)?'':'none'})}
 document.addEventListener('click',e=>{const b=e.target.closest('.tabbtn');if(!b)return;document.querySelectorAll('.tabbtn').forEach(x=>x.classList.toggle('active',x===b));document.querySelectorAll('.tpanel').forEach(p=>p.classList.toggle('on',p.id===b.dataset.t))});
+function heroSearch(e){e.preventDefault();const q=document.getElementById('hq').value;doSearch(q);const t=document.getElementById('allmodels');if(t)t.scrollIntoView({behavior:'smooth'});return false}
+document.addEventListener('DOMContentLoaded',()=>{const q=new URLSearchParams(location.search).get('q');const h=document.getElementById('hq');if(q&&h){h.value=q;doSearch(q)}});
 async function initCompare(){
  const selA=document.getElementById('selA'),selB=document.getElementById('selB');if(!selA)return;
  const brandA=document.getElementById('brandA'),brandB=document.getElementById('brandB');

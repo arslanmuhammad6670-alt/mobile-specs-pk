@@ -1,8 +1,146 @@
 {
   "iphone-16-pro-max": [
-    {"color": "Black Titanium", "file": "img/iphone-16-pro-max/black-titanium.jpg"},
-    {"color": "White Titanium", "file": "img/iphone-16-pro-max/white-titanium.jpg"},
-    {"color": "Natural Titanium", "file": "img/iphone-16-pro-max/natural-titanium.jpg"},
-    {"color": "Desert Titanium", "file": "img/iphone-16-pro-max/desert-titanium.jpg"}
+    {
+      "color": "Black Titanium",
+      "file": "img/iphone-16-pro-max/black-titanium.jpg"
+    },
+    {
+      "color": "White Titanium",
+      "file": "img/iphone-16-pro-max/white-titanium.jpg"
+    },
+    {
+      "color": "Natural Titanium",
+      "file": "img/iphone-16-pro-max/natural-titanium.jpg"
+    },
+    {
+      "color": "Desert Titanium",
+      "file": "img/iphone-16-pro-max/desert-titanium.jpg"
+    }
+  ],
+  "samsung-galaxy-s25-ultra": [
+    {
+      "color": "Titanium Silverblue",
+      "file": "img/samsung-galaxy-s25-ultra/titanium-silverblue.jpg"
+    },
+    {
+      "color": "Titanium Black",
+      "file": "img/samsung-galaxy-s25-ultra/titanium-black.jpg"
+    },
+    {
+      "color": "Titanium Whitesilver",
+      "file": "img/samsung-galaxy-s25-ultra/titanium-whitesilver.jpg"
+    },
+    {
+      "color": "Titanium Gray",
+      "file": "img/samsung-galaxy-s25-ultra/titanium-gray.jpg"
+    },
+    {
+      "color": "Titanium Jade Green",
+      "file": "img/samsung-galaxy-s25-ultra/titanium-jade-green.jpg"
+    },
+    {
+      "color": "Titanium Jet Black",
+      "file": "img/samsung-galaxy-s25-ultra/titanium-jet-black.jpg"
+    },
+    {
+      "color": "Titanium Pink Gold",
+      "file": "img/samsung-galaxy-s25-ultra/titanium-pink-gold.jpg"
+    }
+  ],
+  "iphone-16": [
+    {
+      "color": "Black",
+      "file": "img/iphone-16/black.jpg"
+    },
+    {
+      "color": "White",
+      "file": "img/iphone-16/white.jpg"
+    },
+    {
+      "color": "Pink",
+      "file": "img/iphone-16/pink.jpg"
+    },
+    {
+      "color": "Teal",
+      "file": "img/iphone-16/teal.jpg"
+    },
+    {
+      "color": "Ultramarine",
+      "file": "img/iphone-16/ultramarine.jpg"
+    }
+  ],
+  "apple-iphone-15-pro-max": [
+    {
+      "color": "Black Titanium",
+      "file": "img/apple-iphone-15-pro-max/black-titanium.jpg"
+    },
+    {
+      "color": "White Titanium",
+      "file": "img/apple-iphone-15-pro-max/white-titanium.jpg"
+    },
+    {
+      "color": "Blue Titanium",
+      "file": "img/apple-iphone-15-pro-max/blue-titanium.jpg"
+    },
+    {
+      "color": "Natural Titanium",
+      "file": "img/apple-iphone-15-pro-max/natural-titanium.jpg"
+    }
+  ],
+  "samsung-galaxy-s24-ultra": [
+    {
+      "color": "Titanium Black",
+      "file": "img/samsung-galaxy-s24-ultra/titanium-black.jpg"
+    },
+    {
+      "color": "Titanium Gray",
+      "file": "img/samsung-galaxy-s24-ultra/titanium-gray.jpg"
+    },
+    {
+      "color": "Titanium Violet",
+      "file": "img/samsung-galaxy-s24-ultra/titanium-violet.jpg"
+    },
+    {
+      "color": "Titanium Yellow",
+      "file": "img/samsung-galaxy-s24-ultra/titanium-yellow.jpg"
+    },
+    {
+      "color": "Titanium Blue",
+      "file": "img/samsung-galaxy-s24-ultra/titanium-blue.jpg"
+    },
+    {
+      "color": "Titanium Green",
+      "file": "img/samsung-galaxy-s24-ultra/titanium-green.jpg"
+    },
+    {
+      "color": "Titanium Orange",
+      "file": "img/samsung-galaxy-s24-ultra/titanium-orange.jpg"
+    }
+  ],
+  "iphone-13": [
+    {
+      "color": "Starlight",
+      "file": "img/iphone-13/starlight.jpg"
+    },
+    {
+      "color": "Midnight",
+      "file": "img/iphone-13/midnight.jpg"
+    },
+    {
+      "color": "Blue",
+      "file": "img/iphone-13/blue.jpg"
+    },
+    {
+      "color": "Pink",
+      "file": "img/iphone-13/pink.jpg"
+    },
+    {
+      "color": "Red",
+      "file": "img/iphone-13/red.jpg"
+    },
+    {
+      "color": "Green",
+      "file": "img/iphone-13/green.jpg"
+    }
   ]
 }

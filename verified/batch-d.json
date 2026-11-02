@@ -1,0 +1,1231 @@
+{
+  "nokia-105-2023": {
+    "source": "https://m.gsmarena.com/nokia_105_(2023)-12281.php",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Network",
+        "2G (GSM), Dual SIM"
+      ],
+      [
+        "Display",
+        "1.8\" TFT LCD, 120x160"
+      ],
+      [
+        "Storage",
+        "No memory card slot"
+      ],
+      [
+        "Camera",
+        "No camera"
+      ],
+      [
+        "Battery",
+        "1,000 mAh (removable)"
+      ],
+      [
+        "Features",
+        "Wireless FM radio, LED flashlight, splash resistant, games"
+      ],
+      [
+        "Operating System",
+        "Series 30+"
+      ],
+      [
+        "Weight",
+        "78.7 g"
+      ],
+      [
+        "Colors",
+        "Charcoal, Cyan, Red Terracotta"
+      ]
+    ],
+    "changes": [
+      "Display: 1.8\" TFT, 160x128 -> 1.8\" TFT LCD, 120x160 (GSMArena resolution is 120x160)",
+      "Storage: microSD up to 32 GB -> No card slot (GSMArena lists Card slot: No for this model)",
+      "Features: FM radio, MP3 player, LED torch, Snake game -> Wireless FM radio, LED flashlight, splash resistant, games (GSMArena lists no MP3 player for this model)",
+      "Colors: Charcoal, Cyan, Terracotta -> Charcoal, Cyan, Red Terracotta"
+    ]
+  },
+  "nokia-106-2023": {
+    "source": "https://www.gsmarena.com/nokia_106_(2023)-12283.php",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Network",
+        "2G (GSM), Dual SIM"
+      ],
+      [
+        "Display",
+        "1.8\" TFT LCD, 120x160"
+      ],
+      [
+        "Storage",
+        "microSDHC card slot"
+      ],
+      [
+        "Camera",
+        "No camera"
+      ],
+      [
+        "Battery",
+        "1,000 mAh (removable)"
+      ],
+      [
+        "Features",
+        "FM radio, MP3 player, LED flashlight"
+      ],
+      [
+        "Operating System",
+        "Series 30+"
+      ],
+      [
+        "Weight",
+        "79.4 g"
+      ],
+      [
+        "Colors",
+        "Charcoal, Red Terracotta, Emerald Green"
+      ]
+    ],
+    "changes": [
+      "Display: 1.8\" TFT, 160x128 -> 1.8\" TFT LCD, 120x160",
+      "Storage: microSD up to 32 GB -> microSDHC card slot (per GSMArena)",
+      "Colors: Charcoal, Ocean Blue -> Charcoal, Red Terracotta, Emerald Green (Ocean Blue belongs to the Nokia 106 4G)"
+    ]
+  },
+  "nokia-110-4g-2023": {
+    "source": "https://m.gsmarena.com/nokia_110_4g_(2023)-12285.php",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Network",
+        "4G LTE, Dual SIM"
+      ],
+      [
+        "Display",
+        "1.8\" TFT LCD, 120x160"
+      ],
+      [
+        "Storage",
+        "microSDHC up to 32 GB"
+      ],
+      [
+        "Camera",
+        "QVGA rear camera"
+      ],
+      [
+        "Battery",
+        "1,450 mAh (removable)"
+      ],
+      [
+        "Features",
+        "FM radio, MP3 player, torch, Bluetooth 5.0, voice recorder"
+      ],
+      [
+        "Operating System",
+        "Series 30+"
+      ],
+      [
+        "Weight",
+        "94.5 g"
+      ],
+      [
+        "Colors",
+        "Midnight Blue, Arctic Purple"
+      ]
+    ],
+    "changes": [
+      "Display: 2.0\" TFT, 320x240 -> 1.8\" TFT LCD, 120x160",
+      "Camera: Rear camera (basic) -> QVGA rear camera",
+      "Storage: microSD up to 32 GB -> microSDHC up to 32 GB",
+      "Features: added Bluetooth 5.0 (per GSMArena)",
+      "Colors: Midnight, Purple -> Midnight Blue, Arctic Purple"
+    ]
+  },
+  "nokia-130-music": {
+    "source": "https://www.gsmarena.com/nokia_130_(2023)-12464.php",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Network",
+        "2G (GSM), Dual SIM"
+      ],
+      [
+        "Display",
+        "2.4\" TFT LCD, 240x320"
+      ],
+      [
+        "Storage",
+        "4 MB internal + microSDHC up to 32 GB"
+      ],
+      [
+        "Camera",
+        "No camera"
+      ],
+      [
+        "Battery",
+        "1,450 mAh (removable)"
+      ],
+      [
+        "Features",
+        "Big loudspeaker, FM radio (built-in antenna), MP3 player, torch, IP52 splash resistant"
+      ],
+      [
+        "Operating System",
+        "Series 30+"
+      ],
+      [
+        "Weight",
+        "98.2 g"
+      ],
+      [
+        "Colors",
+        "Dark Blue, Purple, Light Gold"
+      ]
+    ],
+    "changes": [
+      "Storage: microSD up to 32 GB -> 4 MB internal + microSDHC up to 32 GB",
+      "Colors: Dark Blue, Purple, Gray -> Dark Blue, Purple, Light Gold (Gray is a color of the separate Nokia 130 Music 2025 model; this entry is the 2023 model, listed by GSMArena as Nokia 130 (2023) / 130M / 130 Music)"
+    ]
+  },
+  "nokia-150-2023": {
+    "source": "https://www.gsmarena.com/nokia_150_(2023)-12465.php",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Network",
+        "2G (GSM), Dual SIM"
+      ],
+      [
+        "Display",
+        "2.4\" TFT LCD, 240x320"
+      ],
+      [
+        "Storage",
+        "4 MB internal + microSDHC up to 32 GB"
+      ],
+      [
+        "Camera",
+        "0.3 MP VGA rear camera with LED flash"
+      ],
+      [
+        "Battery",
+        "1,450 mAh (removable)"
+      ],
+      [
+        "Features",
+        "FM radio, MP3 player, torch, big buttons, IP52 splash resistant"
+      ],
+      [
+        "Operating System",
+        "Series 30+"
+      ],
+      [
+        "Weight",
+        "106.3 g"
+      ],
+      [
+        "Colors",
+        "Black, Cyan, Red"
+      ]
+    ],
+    "changes": [
+      "Storage: microSD up to 32 GB -> 4 MB internal + microSDHC up to 32 GB",
+      "Camera: VGA rear camera with flash -> 0.3 MP VGA rear camera with LED flash",
+      "Colors: Charcoal, Cyan, Red -> Black, Cyan, Red (GSMArena spec page lists Black; its launch coverage calls the same color Charcoal)"
+    ]
+  },
+  "nokia-215-4g": {
+    "source": "https://www.gsmarena.com/nokia_215_4g_(2024)-12969.php",
+    "rows": [
+      [
+        "Launch Year",
+        2024
+      ],
+      [
+        "Network",
+        "4G LTE, Dual SIM"
+      ],
+      [
+        "Display",
+        "2.8\" TFT LCD, 240x320"
+      ],
+      [
+        "Chipset",
+        "Unisoc T107 (22 nm)"
+      ],
+      [
+        "Storage",
+        "128 MB storage, 64 MB RAM + microSDHC"
+      ],
+      [
+        "Camera",
+        "No camera"
+      ],
+      [
+        "Battery",
+        "1,450 mAh (removable)"
+      ],
+      [
+        "Features",
+        "FM radio, MP3 player, torch, Snake game, Bluetooth 5.0, USB Type-C"
+      ],
+      [
+        "Operating System",
+        "Series 30+"
+      ],
+      [
+        "Colors",
+        "Black, Peach, Dark Blue"
+      ]
+    ],
+    "changes": [
+      "Display: 2.4\" TFT, 240x320 -> 2.8\" TFT LCD, 240x320",
+      "Chipset: Unisoc T117 -> Unisoc T107 (22 nm)",
+      "Storage: 128 MB + microSD up to 32 GB -> 128 MB storage, 64 MB RAM + microSDHC",
+      "Features: FM radio, MP3 player, torch, Snake, internet apps -> FM radio, MP3 player, torch, Snake game, Bluetooth 5.0, USB Type-C"
+    ]
+  },
+  "nokia-225-4g": {
+    "source": "https://m.gsmarena.com/nokia_225_4g_(2024)-12968.php",
+    "rows": [
+      [
+        "Launch Year",
+        2024
+      ],
+      [
+        "Network",
+        "4G LTE, Dual SIM"
+      ],
+      [
+        "Display",
+        "2.4\" TFT LCD, 240x320"
+      ],
+      [
+        "Chipset",
+        "Unisoc T107 (22 nm)"
+      ],
+      [
+        "Storage",
+        "128 MB storage, 64 MB RAM + microSDHC up to 32 GB"
+      ],
+      [
+        "Camera",
+        "0.3 MP VGA rear camera with LED flash"
+      ],
+      [
+        "Battery",
+        "1,450 mAh (removable)"
+      ],
+      [
+        "Features",
+        "FM radio, MP3 player, torch, Bluetooth 5.0, USB Type-C"
+      ],
+      [
+        "Operating System",
+        "Series 30+"
+      ],
+      [
+        "Colors",
+        "Pink, Dark Blue"
+      ]
+    ],
+    "changes": [
+      "Chipset: Unisoc T117 -> Unisoc T107 (22 nm)",
+      "Camera: VGA rear camera -> 0.3 MP VGA rear camera with LED flash",
+      "Storage: 128 MB + microSD up to 32 GB -> 128 MB storage, 64 MB RAM + microSDHC up to 32 GB",
+      "Colors: Black, Dark Blue -> Pink, Dark Blue",
+      "Features: added Bluetooth 5.0 and USB Type-C (per GSMArena)"
+    ]
+  },
+  "hmd-105": {
+    "source": "https://www.hmd.com/en_in/hmd-105/specs",
+    "rows": [
+      [
+        "Launch Year",
+        2024
+      ],
+      [
+        "Network",
+        "2G (GSM 900/1800), Mini SIM"
+      ],
+      [
+        "Display",
+        "2.0\" QQVGA, 120x160"
+      ],
+      [
+        "Storage",
+        "4 MB RAM, microSD up to 32 GB"
+      ],
+      [
+        "Camera",
+        "No camera"
+      ],
+      [
+        "Battery",
+        "1,000 mAh (removable)"
+      ],
+      [
+        "Features",
+        "FM radio (wired + wireless), MP3 player, auto call recording, IP52 splash resistant"
+      ],
+      [
+        "Operating System",
+        "S30+"
+      ],
+      [
+        "Weight",
+        "77.5 g"
+      ],
+      [
+        "Colors",
+        "Black, Purple, Blue"
+      ]
+    ],
+    "changes": [
+      "Display: 2.0\" TFT, 320x240 -> 2.0\" QQVGA, 120x160 (official HMD spec page)",
+      "Storage: microSD up to 32 GB -> 4 MB RAM, microSD up to 32 GB",
+      "Features: FM radio, MP3 player, LED torch, auto call recording -> FM radio (wired + wireless), MP3 player, auto call recording, IP52 splash resistant (official HMD spec page lists no torch)",
+      "Note: a separate HMD 105 4G model exists (2.4 inch QVGA, 1450 mAh, Unisoc T127, USB-C) - it is not this entry"
+    ]
+  },
+  "apple-ipad-10": {
+    "source": "https://fo.gsmarena.com/apple_ipad_(2022)-11941.php",
+    "rows": [
+      [
+        "Launch Year",
+        2022
+      ],
+      [
+        "Display",
+        "10.9\" Liquid Retina, 2360x1640"
+      ],
+      [
+        "Chipset",
+        "Apple A14 Bionic"
+      ],
+      [
+        "RAM",
+        "4 GB"
+      ],
+      [
+        "Storage",
+        "64 / 256 GB"
+      ],
+      [
+        "Main Camera",
+        "12MP wide"
+      ],
+      [
+        "Selfie Camera",
+        "12MP ultrawide (landscape)"
+      ],
+      [
+        "Battery",
+        "Up to 10 hours use"
+      ],
+      [
+        "Operating System",
+        "iPadOS 16"
+      ],
+      [
+        "Weight",
+        "477 g"
+      ],
+      [
+        "Colors",
+        "Silver, Blue, Pink, Yellow"
+      ]
+    ],
+    "changes": []
+  },
+  "apple-ipad-air-m2": {
+    "source": "https://m.gsmarena.com/apple_ipad_air_11_(2024)-12984.php",
+    "rows": [
+      [
+        "Launch Year",
+        2024
+      ],
+      [
+        "Display",
+        "11\" Liquid Retina, 2360x1640"
+      ],
+      [
+        "Chipset",
+        "Apple M2"
+      ],
+      [
+        "RAM",
+        "8 GB"
+      ],
+      [
+        "Storage",
+        "128 / 256 / 512 GB / 1 TB"
+      ],
+      [
+        "Main Camera",
+        "12MP wide"
+      ],
+      [
+        "Selfie Camera",
+        "12MP ultrawide (landscape)"
+      ],
+      [
+        "Battery",
+        "Up to 10 hours use"
+      ],
+      [
+        "Operating System",
+        "iPadOS 17.4"
+      ],
+      [
+        "Weight",
+        "462 g"
+      ],
+      [
+        "Colors",
+        "Space Gray, Starlight, Purple, Blue"
+      ]
+    ],
+    "changes": [
+      "Display: 11\" Liquid Retina, 2368x1648 -> 11\" Liquid Retina, 2360x1640",
+      "Operating System: iPadOS 17 -> iPadOS 17.4 (launch version per GSMArena)"
+    ]
+  },
+  "samsung-galaxy-tab-a9": {
+    "source": "https://m.gsmarena.com/samsung_galaxy_tab_a9-12616.php",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Network",
+        "4G LTE (SIM model) / Wi-Fi"
+      ],
+      [
+        "Display",
+        "8.7\" TFT LCD, 60Hz, 1340x800"
+      ],
+      [
+        "Chipset",
+        "MediaTek Helio G99"
+      ],
+      [
+        "RAM",
+        "4 / 8 GB"
+      ],
+      [
+        "Storage",
+        "64 / 128 GB + microSD"
+      ],
+      [
+        "Main Camera",
+        "8MP"
+      ],
+      [
+        "Selfie Camera",
+        "2MP"
+      ],
+      [
+        "Battery",
+        "5,100 mAh"
+      ],
+      [
+        "Operating System",
+        "Android 13, One UI 5.1"
+      ],
+      [
+        "Weight",
+        "332 g"
+      ],
+      [
+        "Colors",
+        "Graphite, Silver, Navy"
+      ]
+    ],
+    "changes": [
+      "Display: 8.7\" TFT, 90Hz, 1340x800 -> 8.7\" TFT LCD, 60Hz, 1340x800 (the Tab A9 panel is 60Hz; the 90Hz panel belongs to the Tab A9+)"
+    ]
+  },
+  "samsung-galaxy-tab-s9": {
+    "source": "https://www.gsmarena.com/samsung_galaxy_tab_s9-12439.php",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Network",
+        "5G (SIM model) / Wi-Fi"
+      ],
+      [
+        "Display",
+        "11\" Dynamic AMOLED 2X, 120Hz, 2560x1600"
+      ],
+      [
+        "Chipset",
+        "Snapdragon 8 Gen 2"
+      ],
+      [
+        "RAM",
+        "8 / 12 GB"
+      ],
+      [
+        "Storage",
+        "128 / 256 GB + microSD"
+      ],
+      [
+        "Main Camera",
+        "13MP"
+      ],
+      [
+        "Selfie Camera",
+        "12MP ultrawide"
+      ],
+      [
+        "Battery",
+        "8,400 mAh, 45W charging"
+      ],
+      [
+        "Operating System",
+        "Android 13, One UI 5.1"
+      ],
+      [
+        "Weight",
+        "498 g"
+      ],
+      [
+        "Colors",
+        "Graphite, Beige"
+      ]
+    ],
+    "changes": []
+  },
+  "xiaomi-pad-6": {
+    "source": "https://www.gsmarena.com/xiaomi_pad_6-12237.php",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Display",
+        "11\" IPS LCD, 144Hz, 2880x1800"
+      ],
+      [
+        "Chipset",
+        "Snapdragon 870"
+      ],
+      [
+        "RAM",
+        "6 / 8 GB"
+      ],
+      [
+        "Storage",
+        "128 / 256 GB"
+      ],
+      [
+        "Main Camera",
+        "13MP"
+      ],
+      [
+        "Selfie Camera",
+        "8MP"
+      ],
+      [
+        "Battery",
+        "8,840 mAh, 33W charging"
+      ],
+      [
+        "Operating System",
+        "Android 13, MIUI Pad 14"
+      ],
+      [
+        "Weight",
+        "490 g"
+      ],
+      [
+        "Colors",
+        "Graphite Gray, Mist Blue, Champagne"
+      ]
+    ],
+    "changes": []
+  },
+  "redmi-pad-se": {
+    "source": "https://fo.gsmarena.com/xiaomi_redmi_pad_se-12466.php",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Display",
+        "11\" IPS LCD, 90Hz, 1920x1200"
+      ],
+      [
+        "Chipset",
+        "Snapdragon 680"
+      ],
+      [
+        "RAM",
+        "4 / 6 / 8 GB"
+      ],
+      [
+        "Storage",
+        "128 / 256 GB + microSD"
+      ],
+      [
+        "Main Camera",
+        "8MP"
+      ],
+      [
+        "Selfie Camera",
+        "5MP"
+      ],
+      [
+        "Battery",
+        "8,000 mAh, 18W charging"
+      ],
+      [
+        "Operating System",
+        "Android 13, MIUI Pad 14"
+      ],
+      [
+        "Weight",
+        "478 g"
+      ],
+      [
+        "Colors",
+        "Lavender Purple, Graphite Gray, Mint Green"
+      ]
+    ],
+    "changes": [
+      "Storage: 128 GB + microSD -> 128 / 256 GB + microSD (GSMArena lists a 256 GB / 8 GB RAM variant)",
+      "Battery: 8,000 mAh -> 8,000 mAh, 18W charging (18W Quick Charge 3.0 per GSMArena)"
+    ]
+  },
+  "infinix-xpad": {
+    "source": "https://m.gsmarena.com/infinix_xpad-13263.php",
+    "rows": [
+      [
+        "Launch Year",
+        2024
+      ],
+      [
+        "Network",
+        "4G LTE, SIM"
+      ],
+      [
+        "Display",
+        "11\" IPS LCD, 90Hz, 1920x1200"
+      ],
+      [
+        "Chipset",
+        "MediaTek Helio G99"
+      ],
+      [
+        "RAM",
+        "4 / 8 GB"
+      ],
+      [
+        "Storage",
+        "128 / 256 GB + microSD"
+      ],
+      [
+        "Main Camera",
+        "8MP"
+      ],
+      [
+        "Selfie Camera",
+        "8MP"
+      ],
+      [
+        "Battery",
+        "7,000 mAh, 18W charging"
+      ],
+      [
+        "Operating System",
+        "Android 14, XOS 14"
+      ],
+      [
+        "Weight",
+        "496 g"
+      ],
+      [
+        "Colors",
+        "Titan Gold, Frost Blue, Stellar Grey"
+      ]
+    ],
+    "changes": []
+  },
+  "lenovo-tab-m11": {
+    "source": "https://m.gsmarena.com/lenovo_tab_m11-12783.php",
+    "rows": [
+      [
+        "Launch Year",
+        2024
+      ],
+      [
+        "Network",
+        "4G LTE (SIM model) / Wi-Fi"
+      ],
+      [
+        "Display",
+        "11\" IPS LCD, 90Hz, 1920x1200"
+      ],
+      [
+        "Chipset",
+        "MediaTek Helio G88"
+      ],
+      [
+        "RAM",
+        "4 / 8 GB"
+      ],
+      [
+        "Storage",
+        "64 / 128 GB + microSD"
+      ],
+      [
+        "Main Camera",
+        "13MP (8MP in some regions)"
+      ],
+      [
+        "Selfie Camera",
+        "8MP"
+      ],
+      [
+        "Battery",
+        "7,040 mAh, 15W charging"
+      ],
+      [
+        "Operating System",
+        "Android 13"
+      ],
+      [
+        "Weight",
+        "465 g"
+      ],
+      [
+        "Colors",
+        "Luna Grey, Seafoam Green"
+      ]
+    ],
+    "changes": [
+      "Main Camera: 13MP -> 13MP (8MP in some regions) (GSMArena lists both regional variants)",
+      "Battery: 7,040 mAh -> 7,040 mAh, 15W charging"
+    ]
+  },
+  "apple-macbook-air-m3": {
+    "source": "https://manuals.plus/m/0a333a6fee1614d2cf5c922e6ea95496ca78552d699e031ba9e2fbcc713fe947",
+    "rows": [
+      [
+        "Launch Year",
+        2024
+      ],
+      [
+        "Display",
+        "13.6\" Liquid Retina, 2560x1664"
+      ],
+      [
+        "Processor",
+        "Apple M3 (8-core CPU, 8-core GPU; 10-core GPU on higher configurations)"
+      ],
+      [
+        "RAM",
+        "8 / 16 / 24 GB"
+      ],
+      [
+        "Storage",
+        "256 / 512 GB / 1 TB / 2 TB SSD"
+      ],
+      [
+        "Battery",
+        "Up to 18 hours (52.6 Wh)"
+      ],
+      [
+        "Operating System",
+        "macOS Sonoma"
+      ],
+      [
+        "Weight",
+        "1.24 kg"
+      ],
+      [
+        "Ports",
+        "2x Thunderbolt USB-C, MagSafe, 3.5mm jack"
+      ],
+      [
+        "Colors",
+        "Midnight, Starlight, Silver, Space Gray"
+      ]
+    ],
+    "changes": [
+      "Processor: Apple M3 (8-core CPU, 10-core GPU) -> base configuration has an 8-core GPU; the 10-core GPU comes only on higher configurations (Apple tech specs)",
+      "Storage: 256 / 512 GB / 1 TB SSD -> 256 / 512 GB / 1 TB / 2 TB SSD (2 TB option was missing)",
+      "Battery: Up to 18 hours -> Up to 18 hours (52.6 Wh battery, per Apple tech specs)"
+    ]
+  },
+  "apple-macbook-pro-14-m3-pro": {
+    "source": "https://support.apple.com/en-us/117736",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Display",
+        "14.2\" Liquid Retina XDR, 120Hz, 3024x1964"
+      ],
+      [
+        "Processor",
+        "Apple M3 Pro (11-core CPU, 14-core GPU; configurable to 12-core CPU, 18-core GPU)"
+      ],
+      [
+        "RAM",
+        "18 / 36 GB"
+      ],
+      [
+        "Storage",
+        "512 GB / 1 TB / 2 TB / 4 TB SSD"
+      ],
+      [
+        "Battery",
+        "Up to 18 hours (72.4 Wh)"
+      ],
+      [
+        "Operating System",
+        "macOS Sonoma"
+      ],
+      [
+        "Weight",
+        "1.61 kg"
+      ],
+      [
+        "Ports",
+        "HDMI, SDXC card slot, 3x Thunderbolt 4, MagSafe 3, 3.5mm jack"
+      ],
+      [
+        "Colors",
+        "Space Black, Silver"
+      ]
+    ],
+    "changes": [
+      "Weight: 1.55 kg -> 1.61 kg (1.55 kg is the base M3 model; the M3 Pro model weighs 1.61 kg per Apple Support tech specs)",
+      "Storage: 512 GB / 1 TB / 2 TB SSD -> 512 GB / 1 TB / 2 TB / 4 TB SSD (4 TB option was missing)",
+      "Battery: Up to 18 hours -> Up to 18 hours (72.4 Wh battery, per Apple Support tech specs)"
+    ]
+  },
+  "hp-pavilion-15": {
+    "source": "https://www.hp.com/us-en/shop/pdp/cto-dynamic-kits--1/hp-pavilion-laptop-15t-eg300-156-78g50av-1?langId=-1&storeId=10151&catEntryId=3074457345620763319&configId=78G50AV_100084",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Display",
+        "15.6\" IPS Full HD, 1920x1080"
+      ],
+      [
+        "Processor",
+        "Intel Core i5-1335U (10 cores)"
+      ],
+      [
+        "Graphics",
+        "Intel Iris Xe"
+      ],
+      [
+        "RAM",
+        "16 GB DDR4-3200"
+      ],
+      [
+        "Storage",
+        "512 GB NVMe SSD"
+      ],
+      [
+        "Battery",
+        "41 Wh, fast charge"
+      ],
+      [
+        "Operating System",
+        "Windows 11 Home"
+      ],
+      [
+        "Weight",
+        "1.75 kg"
+      ],
+      [
+        "Colors",
+        "Natural Silver"
+      ]
+    ],
+    "changes": [
+      "RAM: 16 GB DDR4 -> 16 GB DDR4-3200 (per HP configuration page)",
+      "Note: the named configuration exists as named on the HP official store (Pavilion 15t-eg300: Core i5-1335U + 16 GB DDR4-3200 + 512 GB PCIe NVMe SSD option, 41 Wh 3-cell battery with fast charge)"
+    ]
+  },
+  "dell-inspiron-3530": {
+    "source": "https://www.singersl.com/brochure/download/DELL3530-I5-8GB512-SIL",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Display",
+        "15.6\" WVA Full HD, 120Hz, 1920x1080"
+      ],
+      [
+        "Processor",
+        "Intel Core i5-1335U (10 cores)"
+      ],
+      [
+        "Graphics",
+        "Intel UHD Graphics (Iris Xe on dual-channel memory configurations)"
+      ],
+      [
+        "RAM",
+        "8 / 16 GB DDR4"
+      ],
+      [
+        "Storage",
+        "512 GB NVMe SSD"
+      ],
+      [
+        "Battery",
+        "41 Wh"
+      ],
+      [
+        "Operating System",
+        "Windows 11 Home"
+      ],
+      [
+        "Weight",
+        "1.62 kg"
+      ],
+      [
+        "Colors",
+        "Carbon Black, Platinum Silver"
+      ]
+    ],
+    "changes": [
+      "Display: 15.6\" IPS Full HD, 120Hz, 1920x1080 -> 15.6\" WVA Full HD, 120Hz, 1920x1080 (Dell specifies a WVA anti-glare panel, 250 nits)",
+      "Graphics: Intel Iris Xe -> Intel UHD Graphics on single-channel memory configurations; Iris Xe only with dual-channel memory (per Dell spec sheet for the 3530)"
+    ]
+  },
+  "lenovo-ideapad-slim-3": {
+    "source": "https://www.startech.com.bd/lenovo-ideapad-slim-3-15abr8-ryzen-5-7530u-fhd-laptop",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Display",
+        "15.6\" IPS Full HD, 1920x1080, 300 nits anti-glare"
+      ],
+      [
+        "Processor",
+        "AMD Ryzen 5 7530U (6 cores)"
+      ],
+      [
+        "Graphics",
+        "AMD Radeon (integrated)"
+      ],
+      [
+        "RAM",
+        "8 / 16 GB"
+      ],
+      [
+        "Storage",
+        "512 GB NVMe SSD"
+      ],
+      [
+        "Battery",
+        "47 Wh"
+      ],
+      [
+        "Operating System",
+        "Windows 11 Home"
+      ],
+      [
+        "Weight",
+        "1.62 kg"
+      ],
+      [
+        "Colors",
+        "Arctic Grey, Abyss Blue"
+      ]
+    ],
+    "changes": [
+      "Display: 15.6\" IPS Full HD, 1920x1080 -> added 300 nits anti-glare detail (IdeaPad Slim 3 15ABR8 panel spec)",
+      "Note: the Ryzen 5 7530U configuration is the IdeaPad Slim 3 15ABR8 (82XM series); 8 GB (soldered DDR4) and 16 GB variants, 512 GB SSD, 47 Wh battery and 1.62 kg weight all confirmed for it"
+    ]
+  },
+  "asus-vivobook-15": {
+    "source": "https://www.asus.com/laptops/for-home/vivobook/vivobook-15-x1502/techspec/",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Display",
+        "15.6\" IPS-level Full HD, 1920x1080"
+      ],
+      [
+        "Processor",
+        "Intel Core i5-1235U (10 cores)"
+      ],
+      [
+        "Graphics",
+        "Intel UHD Graphics (Iris Xe only on dual-channel memory configurations)"
+      ],
+      [
+        "RAM",
+        "8 / 16 GB DDR4"
+      ],
+      [
+        "Storage",
+        "512 GB NVMe SSD"
+      ],
+      [
+        "Battery",
+        "42 Wh"
+      ],
+      [
+        "Operating System",
+        "Windows 11 Home"
+      ],
+      [
+        "Weight",
+        "1.70 kg"
+      ],
+      [
+        "Colors",
+        "Quiet Blue, Cool Silver, Terracotta"
+      ]
+    ],
+    "changes": [
+      "Graphics: Intel Iris Xe -> Intel UHD Graphics (ASUS official Vivobook 15 X1502 tech specs list UHD Graphics; Iris Xe is available only with dual-channel memory)",
+      "Display: 15.6\" IPS Full HD -> 15.6\" IPS-level Full HD (ASUS official panel wording)",
+      "Note: the Core i5-1235U configuration exists in the Vivobook 15 (X1502) line per ASUS official tech specs"
+    ]
+  },
+  "acer-aspire-5": {
+    "source": "https://www.acer.com/ca-en/laptops/aspire/aspire-5-intel/pdp/NX.KHJAA.004",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Display",
+        "15.6\" IPS Full HD, 1920x1080"
+      ],
+      [
+        "Processor",
+        "Intel Core i5-1335U (10 cores)"
+      ],
+      [
+        "Graphics",
+        "Intel Iris Xe"
+      ],
+      [
+        "RAM",
+        "16 GB LPDDR5 (onboard)"
+      ],
+      [
+        "Storage",
+        "512 GB NVMe SSD"
+      ],
+      [
+        "Battery",
+        "50 Wh (48.5 Wh nominal per Acer datasheet)"
+      ],
+      [
+        "Operating System",
+        "Windows 11 Home"
+      ],
+      [
+        "Weight",
+        "1.78 kg"
+      ],
+      [
+        "Colors",
+        "Steel Gray"
+      ]
+    ],
+    "changes": [
+      "RAM: 16 GB -> 16 GB LPDDR5 (onboard) (the Aspire 5 A515-58P uses soldered LPDDR5 memory)",
+      "Battery: 50 Wh -> Acer official datasheet for A515-58P lists a 3-cell 48.5 Wh battery while the Acer Store markets 50 Wh; both figures now noted",
+      "Note: the Core i5-1335U configuration is the Acer Aspire 5 A515-58P, confirmed on the Acer official product page"
+    ]
+  },
+  "hp-victus-15-gaming": {
+    "source": "https://cplanetnp.com/hp-victus-i5-13420h-rtx-4050-price-nepal",
+    "rows": [
+      [
+        "Launch Year",
+        2023
+      ],
+      [
+        "Display",
+        "15.6\" IPS Full HD, 144Hz, 1920x1080"
+      ],
+      [
+        "Processor",
+        "Intel Core i5-13420H (8 cores)"
+      ],
+      [
+        "Graphics",
+        "NVIDIA GeForce RTX 4050 6 GB (75W)"
+      ],
+      [
+        "RAM",
+        "16 GB DDR4"
+      ],
+      [
+        "Storage",
+        "512 GB NVMe SSD"
+      ],
+      [
+        "Battery",
+        "70 Wh"
+      ],
+      [
+        "Operating System",
+        "Windows 11 Home"
+      ],
+      [
+        "Weight",
+        "2.29 kg"
+      ],
+      [
+        "Colors",
+        "Mica Silver, Performance Blue"
+      ]
+    ],
+    "changes": [
+      "Graphics: NVIDIA GeForce RTX 4050 6 GB -> NVIDIA GeForce RTX 4050 6 GB (75W TGP in the Victus 15-fa configuration)",
+      "Note: the named configuration (Core i5-13420H + RTX 4050 6 GB + 16 GB DDR4 + 512 GB SSD + 70 Wh) exists as named in the HP Victus 15-fa line"
+    ]
+  }
+}

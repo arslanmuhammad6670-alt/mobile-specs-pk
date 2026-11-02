@@ -1,9 +1,19 @@
 
 *{box-sizing:border-box}body{margin:0;font-family:system-ui,Segoe UI,Arial,sans-serif;background:#f6f7f9;color:#17202a}
-header{background:#0b3d2e;color:#fff;padding:14px 16px;position:sticky;top:0;z-index:9}
+header{background:#0b3d2e;color:#fff;position:sticky;top:0;z-index:9}
 header .wrap,main{max-width:1100px;margin:0 auto}header a{color:#fff;text-decoration:none}
-.logo{font-size:22px;font-weight:800}.logo span{color:#ffd84d}
-nav{margin-top:8px}nav a{margin-right:14px;font-size:14px;opacity:.92}
+header .wrap{padding:11px 16px}
+.logo{font-size:22px;font-weight:800;vertical-align:middle}.logo span{color:#ffd84d}
+.menubtn{display:none;background:none;border:0;color:#fff;font-size:22px;line-height:1;cursor:pointer;padding:4px 10px 4px 0;vertical-align:middle}
+.navbar{background:#e8efec;border-bottom:1px solid #cfdcd6}
+.navbar .wrap{display:flex;gap:20px;overflow-x:auto;padding-top:0;padding-bottom:0;scrollbar-width:none}
+.navbar a{color:#0b3d2e;font-size:13.5px;font-weight:700;padding:10px 2px;white-space:nowrap;text-transform:uppercase;letter-spacing:.02em}
+@media(max-width:700px){.menubtn{display:inline-block}.navbar{display:none}.navbar.open{display:block}.navbar .wrap{flex-direction:column;gap:0}.navbar a{padding:12px 2px;border-top:1px solid #cfdcd6}}
+.sec{text-transform:uppercase;letter-spacing:.03em;color:#0b3d2e;border-bottom:2px solid #0b3d2e;padding-bottom:6px}
+.feat{display:flex;gap:14px;overflow-x:auto;padding:8px 2px 16px;scroll-snap-type:x mandatory}
+.fcard{min-width:225px;max-width:225px;scroll-snap-align:start;background:#fff;border-radius:14px;box-shadow:0 1px 4px #0001;overflow:hidden;text-decoration:none;color:#17202a;display:flex;flex-direction:column}
+.fthumb{height:105px;display:flex;align-items:center;justify-content:center;font-size:50px;background:linear-gradient(135deg,#0b3d2e,#14805f)}
+.fbody{padding:12px 14px}.fbody b{font-size:15.5px;display:block;margin-bottom:4px}
 main{padding:18px 14px 40px}
 .hero{background:#fff;border-radius:14px;padding:22px;box-shadow:0 1px 4px #0001}
 .hero h1{margin:0 0 6px;font-size:26px}.hero p{margin:0 0 14px;color:#555}

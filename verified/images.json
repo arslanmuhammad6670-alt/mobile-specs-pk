@@ -444,5 +444,197 @@
       "color": "Blue",
       "file": "img/oppo-reno-13/blue.jpg"
     }
+  ],
+  "iphone-17-pro": [
+    {
+      "color": "Silver",
+      "file": "img/iphone-17-pro/silver.jpg"
+    },
+    {
+      "color": "Cosmic Orange",
+      "file": "img/iphone-17-pro/cosmic-orange.jpg"
+    },
+    {
+      "color": "Deep Blue",
+      "file": "img/iphone-17-pro/deep-blue.jpg"
+    }
+  ],
+  "google-pixel-9-pro": [
+    {
+      "color": "Porcelain",
+      "file": "img/google-pixel-9-pro/porcelain.jpg"
+    },
+    {
+      "color": "Rose Quartz",
+      "file": "img/google-pixel-9-pro/rose-quartz.jpg"
+    },
+    {
+      "color": "Hazel",
+      "file": "img/google-pixel-9-pro/hazel.jpg"
+    },
+    {
+      "color": "Obsidian",
+      "file": "img/google-pixel-9-pro/obsidian.jpg"
+    }
+  ],
+  "oneplus-13": [
+    {
+      "color": "Black Eclipse",
+      "file": "img/oneplus-13/black-eclipse.jpg"
+    },
+    {
+      "color": "Arctic Dawn",
+      "file": "img/oneplus-13/arctic-dawn.jpg"
+    },
+    {
+      "color": "Midnight Ocean",
+      "file": "img/oneplus-13/midnight-ocean.jpg"
+    }
+  ],
+  "samsung-galaxy-z-fold-6": [
+    {
+      "color": "Navy",
+      "file": "img/samsung-galaxy-z-fold-6/navy.jpg"
+    },
+    {
+      "color": "Silver Shadow",
+      "file": "img/samsung-galaxy-z-fold-6/silver-shadow.jpg"
+    },
+    {
+      "color": "Pink",
+      "file": "img/samsung-galaxy-z-fold-6/pink.jpg"
+    },
+    {
+      "color": "Black",
+      "file": "img/samsung-galaxy-z-fold-6/black.jpg"
+    },
+    {
+      "color": "White",
+      "file": "img/samsung-galaxy-z-fold-6/white.jpg"
+    }
+  ],
+  "honor-200": [
+    {
+      "color": "Black",
+      "file": "img/honor-200/black.jpg"
+    },
+    {
+      "color": "Silver",
+      "file": "img/honor-200/silver.jpg"
+    },
+    {
+      "color": "Blue",
+      "file": "img/honor-200/blue.jpg"
+    },
+    {
+      "color": "Pink",
+      "file": "img/honor-200/pink.jpg"
+    }
+  ],
+  "samsung-galaxy-s24-fe": [
+    {
+      "color": "Blue",
+      "file": "img/samsung-galaxy-s24-fe/blue.jpg"
+    },
+    {
+      "color": "Graphite",
+      "file": "img/samsung-galaxy-s24-fe/graphite.jpg"
+    },
+    {
+      "color": "Mint",
+      "file": "img/samsung-galaxy-s24-fe/mint.jpg"
+    },
+    {
+      "color": "Yellow",
+      "file": "img/samsung-galaxy-s24-fe/yellow.jpg"
+    }
+  ],
+  "vivo-v40": [
+    {
+      "color": "Stellar Silver",
+      "file": "img/vivo-v40/stellar-silver.jpg"
+    },
+    {
+      "color": "Nebula Purple",
+      "file": "img/vivo-v40/nebula-purple.jpg"
+    },
+    {
+      "color": "Ganges Blue",
+      "file": "img/vivo-v40/ganges-blue.jpg"
+    },
+    {
+      "color": "Moonlight White",
+      "file": "img/vivo-v40/moonlight-white.jpg"
+    },
+    {
+      "color": "Sunglow Peach",
+      "file": "img/vivo-v40/sunglow-peach.jpg"
+    }
+  ],
+  "apple-iphone-16-pro": [
+    {
+      "color": "Black Titanium",
+      "file": "img/apple-iphone-16-pro/black-titanium.jpg"
+    },
+    {
+      "color": "White Titanium",
+      "file": "img/apple-iphone-16-pro/white-titanium.jpg"
+    },
+    {
+      "color": "Natural Titanium",
+      "file": "img/apple-iphone-16-pro/natural-titanium.jpg"
+    },
+    {
+      "color": "Desert Titanium",
+      "file": "img/apple-iphone-16-pro/desert-titanium.jpg"
+    }
+  ],
+  "google-pixel-9a": [
+    {
+      "color": "Obsidian",
+      "file": "img/google-pixel-9a/obsidian.jpg"
+    },
+    {
+      "color": "Porcelain",
+      "file": "img/google-pixel-9a/porcelain.jpg"
+    },
+    {
+      "color": "Iris",
+      "file": "img/google-pixel-9a/iris.jpg"
+    },
+    {
+      "color": "Peony",
+      "file": "img/google-pixel-9a/peony.jpg"
+    }
+  ],
+  "samsung-galaxy-z-flip-6": [
+    {
+      "color": "Yellow",
+      "file": "img/samsung-galaxy-z-flip-6/yellow.jpg"
+    },
+    {
+      "color": "Silver Shadow",
+      "file": "img/samsung-galaxy-z-flip-6/silver-shadow.jpg"
+    },
+    {
+      "color": "Mint",
+      "file": "img/samsung-galaxy-z-flip-6/mint.jpg"
+    },
+    {
+      "color": "Blue",
+      "file": "img/samsung-galaxy-z-flip-6/blue.jpg"
+    },
+    {
+      "color": "Black",
+      "file": "img/samsung-galaxy-z-flip-6/black.jpg"
+    },
+    {
+      "color": "White",
+      "file": "img/samsung-galaxy-z-flip-6/white.jpg"
+    },
+    {
+      "color": "Peach",
+      "file": "img/samsung-galaxy-z-flip-6/peach.jpg"
+    }
   ]
 }

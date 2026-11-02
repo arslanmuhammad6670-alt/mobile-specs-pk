@@ -1,0 +1,314 @@
+{
+  "iphone-16-pro-max": {
+    "source": "http://m.gsmarena.com/results.php3/apple_iphone_16_pro_max-13123.php",
+    "rows": [
+      ["Launch Year", "2024 (announced 9 Sep 2024, released 20 Sep 2024)"],
+      ["Network", "GSM / CDMA / HSPA / EVDO / LTE / 5G"],
+      ["Body", "163 x 77.6 x 8.3 mm, 227 g; glass front (Ceramic Shield), glass back, titanium frame (grade 5); Nano-SIM + eSIM variants; IP68 (6 m for 30 min)"],
+      ["Display", "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ) / 2000 nits (HBM); 6.9 inches, 1320 x 2868 pixels (~460 ppi); Ceramic Shield glass (2024 gen)"],
+      ["Chipset", "Apple A18 Pro (3 nm); Hexa-core CPU (2x4.05 GHz + 4x2.42 GHz); Apple GPU (6-core)"],
+      ["RAM", "8 GB"],
+      ["Storage", "256 GB / 512 GB / 1 TB (NVMe, no card slot)"],
+      ["Main Camera", "48 MP f/1.8 wide (dual pixel PDAF, sensor-shift OIS) + 12 MP f/2.8 120mm periscope telephoto, 5x optical zoom (dual pixel PDAF, 3D sensor-shift OIS) + 48 MP f/2.2 13mm ultrawide (PDAF) + TOF 3D LiDAR scanner; video 4K@24/25/30/60/100/120fps, 1080p up to 240fps, Dolby Vision HDR (60fps), ProRes"],
+      ["Selfie Camera", "12 MP f/1.9 wide + SL 3D (depth/biometrics); video 4K@24/25/30/60fps"],
+      ["Battery", "Li-Ion 4685 mAh"],
+      ["Charging", "Wired PD2.0, 50% in 30 min; 25W wireless (MagSafe); 15W wireless (Qi2); 4.5W reverse wired"],
+      ["Operating System", "iOS 18"],
+      ["Sensors/Features", "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen 2); emergency SOS / messaging via satellite"],
+      ["Colors", "Black Titanium, White Titanium, Natural Titanium, Desert Titanium"]
+    ],
+    "changes": [
+      "Display: '6.9\" LTPO Super Retina XDR OLED, 120Hz, 2868x1320' -> resolution corrected to 1320 x 2868",
+      "Colors: 'Black Titanium, White Titanium, Desert Titanium' -> added Natural Titanium",
+      "Charging: '25W wireless MagSafe, wired fast charge' -> 'Wired PD2.0 (50% in 30 min), 25W wireless MagSafe, 15W wireless Qi2, 4.5W reverse wired'"
+    ]
+  },
+  "iphone-16": {
+    "source": "https://m.gsmarena.com/apple_iphone_16-13317.php",
+    "rows": [
+      ["Launch Year", "2024"],
+      ["Network", "GSM / CDMA / HSPA / EVDO / LTE / 5G"],
+      ["Body", "147.6 x 71.6 x 7.8 mm, 170 g; glass front (Ceramic Shield), glass back, aluminum frame; IP68 (6 m for 30 min)"],
+      ["Display", "Super Retina XDR OLED, 60Hz, HDR10, Dolby Vision, 1000 nits (typ) / 2000 nits (HBM); 6.1 inches, 1179 x 2556 pixels (~460 ppi); Ceramic Shield glass (2024 gen)"],
+      ["Chipset", "Apple A18 (3 nm); Hexa-core CPU (2x4.04 GHz + 4x2.20 GHz); Apple GPU (5-core)"],
+      ["RAM", "8 GB"],
+      ["Storage", "128 GB / 256 GB / 512 GB (NVMe, no card slot)"],
+      ["Main Camera", "48 MP f/1.6 wide (dual pixel PDAF, sensor-shift OIS) + 12 MP f/2.2 13mm ultrawide (dual pixel PDAF); video 4K@24/25/30/60fps, Dolby Vision HDR (60fps)"],
+      ["Selfie Camera", "12 MP f/1.9 wide + SL 3D (depth/biometrics); video 4K@24/25/30/60fps"],
+      ["Battery", "Li-Ion 3561 mAh"],
+      ["Charging", "Wired PD2.0, 50% in 30 min; 25W wireless (MagSafe / Qi2); 4.5W reverse wired"],
+      ["Operating System", "iOS 18"],
+      ["Sensors/Features", "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen 2); emergency SOS via satellite"],
+      ["Colors", "Black, White, Pink, Teal, Ultramarine"]
+    ],
+    "changes": [
+      "Display: '6.1\" Super Retina XDR OLED, 2556x1179' -> resolution corrected to 1179 x 2556",
+      "Charging: 'MagSafe wireless, wired fast charge' -> 'Wired PD2.0 (50% in 30 min), 25W wireless MagSafe/Qi2, 4.5W reverse wired'"
+    ]
+  },
+  "iphone-15": {
+    "source": "https://www.gsmarena.com/apple_iphone_15-12559.php",
+    "rows": [
+      ["Launch Year", "2023"],
+      ["Network", "GSM / CDMA / HSPA / EVDO / LTE / 5G"],
+      ["Body", "147.6 x 71.6 x 7.8 mm, 171 g; glass front (Ceramic Shield), glass back, aluminum frame; IP68 (6 m for 30 min)"],
+      ["Display", "Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (HBM) / 2000 nits (peak); 6.1 inches, 1179 x 2556 pixels (~461 ppi); Ceramic Shield glass"],
+      ["Chipset", "Apple A16 Bionic (4 nm); Hexa-core CPU (2x3.46 GHz Everest + 4x2.02 GHz Sawtooth); Apple GPU (5-core)"],
+      ["RAM", "6 GB"],
+      ["Storage", "128 GB / 256 GB / 512 GB (NVMe, no card slot)"],
+      ["Main Camera", "48 MP f/1.6 wide (dual pixel PDAF, sensor-shift OIS) + 12 MP f/2.4 13mm ultrawide; video 4K@24/25/30/60fps, Dolby Vision HDR (60fps)"],
+      ["Selfie Camera", "12 MP f/1.9 wide + SL 3D (depth/biometrics); video 4K@24/25/30/60fps"],
+      ["Battery", "Li-Ion 3349 mAh"],
+      ["Charging", "Wired PD2.0, 50% in 30 min; 15W wireless (MagSafe); 15W wireless (Qi2, from iOS 17.2); 4.5W reverse wired; USB Type-C 2.0"],
+      ["Operating System", "iOS 17"],
+      ["Sensors/Features", "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen 2); emergency SOS via satellite"],
+      ["Colors", "Black, Blue, Green, Yellow, Pink"]
+    ],
+    "changes": [
+      "Display: '6.1\" Super Retina XDR OLED, 2556x1179' -> resolution corrected to 1179 x 2556",
+      "Charging: 'MagSafe wireless, USB-C' -> 'Wired PD2.0 (50% in 30 min), 15W wireless MagSafe, 15W wireless Qi2, 4.5W reverse wired'"
+    ]
+  },
+  "iphone-14": {
+    "source": "https://m.gsmarena.com/apple_iphone_14-11861.php",
+    "rows": [
+      ["Launch Year", "2022"],
+      ["Network", "GSM / CDMA / HSPA / EVDO / LTE / 5G"],
+      ["Body", "146.7 x 71.5 x 7.8 mm, 172 g; glass front (Ceramic Shield), glass back, aluminum frame; IP68 (6 m for 30 min)"],
+      ["Display", "Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM) / 1200 nits (peak); 6.1 inches, 1170 x 2532 pixels (~460 ppi); Ceramic Shield glass"],
+      ["Chipset", "Apple A15 Bionic (5 nm); Hexa-core CPU (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard); Apple GPU (5-core)"],
+      ["RAM", "6 GB"],
+      ["Storage", "128 GB / 256 GB / 512 GB (NVMe, no card slot)"],
+      ["Main Camera", "12 MP f/1.5 wide (dual pixel PDAF, sensor-shift OIS) + 12 MP f/2.4 13mm ultrawide; video 4K@24/25/30/60fps, Dolby Vision HDR (60fps)"],
+      ["Selfie Camera", "12 MP f/1.9 wide (PDAF) + SL 3D (depth/biometrics); video 4K@24/25/30/60fps"],
+      ["Battery", "Li-Ion 3279 mAh"],
+      ["Charging", "Wired PD2.0, 50% in 30 min; 15W wireless (MagSafe); 15W wireless (Qi2, from iOS 17.2); Lightning, USB 2.0"],
+      ["Operating System", "iOS 16"],
+      ["Sensors/Features", "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband; emergency SOS via satellite"],
+      ["Colors", "Midnight, Purple, Starlight, Blue, Red, Yellow"]
+    ],
+    "changes": [
+      "Display: '6.1\" Super Retina XDR OLED, 2532x1170' -> resolution corrected to 1170 x 2532",
+      "Colors: 'Blue, Purple, Midnight, Starlight, Red' -> added Yellow",
+      "Charging: 'MagSafe wireless' -> 'Wired PD2.0 (50% in 30 min), 15W wireless MagSafe, 15W wireless Qi2; Lightning port (not USB-C)'"
+    ]
+  },
+  "iphone-13": {
+    "source": "https://m.gsmarena.com/apple_iphone_13-11103.php",
+    "rows": [
+      ["Launch Year", "2021"],
+      ["Network", "GSM / CDMA / HSPA / EVDO / LTE / 5G"],
+      ["Body", "146.7 x 71.5 x 7.7 mm, 174 g; glass front (Ceramic Shield), glass back, aluminum frame; IP68 (6 m for 30 min)"],
+      ["Display", "Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM) / 1200 nits (peak); 6.1 inches, 1170 x 2532 pixels (~460 ppi); Ceramic Shield glass"],
+      ["Chipset", "Apple A15 Bionic (5 nm); Hexa-core CPU (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard); Apple GPU (4-core)"],
+      ["RAM", "4 GB"],
+      ["Storage", "128 GB / 256 GB / 512 GB (NVMe, no card slot)"],
+      ["Main Camera", "12 MP f/1.6 wide (dual pixel PDAF, sensor-shift OIS) + 12 MP f/2.4 13mm ultrawide; video 4K@24/25/30/60fps, Dolby Vision HDR (60fps)"],
+      ["Selfie Camera", "12 MP f/2.2 wide + SL 3D (depth/biometrics); video 4K@24/25/30/60fps"],
+      ["Battery", "Li-Ion 3240 mAh"],
+      ["Charging", "Wired PD2.0, 50% in 30 min; 15W wireless (MagSafe); 15W wireless (Qi2, from iOS 17.2); Lightning, USB 2.0"],
+      ["Operating System", "iOS 15"],
+      ["Sensors/Features", "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband"],
+      ["Colors", "Starlight, Midnight, Blue, Pink, Red, Green"]
+    ],
+    "changes": [
+      "Display: '6.1\" Super Retina XDR OLED, 2532x1170' -> resolution corrected to 1170 x 2532",
+      "Colors: 'Pink, Blue, Midnight, Starlight, Red' -> added Green",
+      "Charging: 'MagSafe wireless' -> 'Wired PD2.0 (50% in 30 min), 15W wireless MagSafe, 15W wireless Qi2; Lightning port'"
+    ]
+  },
+  "samsung-galaxy-s25-ultra": {
+    "source": "https://www.gsmarena.com/samsung_galaxy_s25_ultra-review-2793.php",
+    "rows": [
+      ["Launch Year", "2025 (announced January 2025, released February 2025)"],
+      ["Network", "GSM / CDMA / HSPA / EVDO / LTE / 5G"],
+      ["Body", "162.8 x 77.6 x 8.2 mm, 218 g; glass front (Corning Gorilla Armor 2), glass back (Corning Gorilla Victus 2), titanium frame (grade 5); IP68 (1.5 m for 30 min); S Pen stylus (no Bluetooth)"],
+      ["Display", "Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.9 inches, 1440 x 3120 pixels (~498 ppi); Corning Gorilla Armor 2"],
+      ["Chipset", "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm); Octa-core CPU (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); Adreno 830 GPU"],
+      ["RAM", "12 GB (16 GB on the 1 TB variant)"],
+      ["Storage", "256 GB / 512 GB / 1 TB (UFS 4.0, no card slot)"],
+      ["Main Camera", "200 MP f/1.7 wide (multi-directional PDAF, OIS) + 10 MP f/2.4 67mm telephoto, 3x optical zoom (PDAF, OIS) + 50 MP f/3.4 111mm periscope telephoto, 5x optical zoom (PDAF, OIS) + 50 MP f/1.9 ultrawide (dual pixel PDAF, Super Steady video); video 8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/240fps"],
+      ["Selfie Camera", "12 MP f/2.2 26mm wide (dual pixel PDAF); video 4K@30/60fps"],
+      ["Battery", "Li-Ion 5000 mAh"],
+      ["Charging", "45W wired, PD3.0, 65% in 30 min; 15W wireless (Qi2); 4.5W reverse wireless"],
+      ["Operating System", "Android 15, One UI 7 (up to 7 major Android upgrades)"],
+      ["Sensors/Features", "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer; Samsung DeX; Ultra Wideband (UWB); S Pen"],
+      ["Colors", "Titanium Silverblue, Titanium Black, Titanium Whitesilver, Titanium Gray, Titanium Jade Green, Titanium Jet Black, Titanium Pink Gold"]
+    ],
+    "changes": [
+      "Display: '6.9\" Dynamic AMOLED 2X, 120Hz, 3120x1440' -> 'Dynamic LTPO AMOLED 2X, 120Hz, 1440 x 3120' (panel is LTPO; resolution order corrected)",
+      "Colors: 'Titanium Black, Titanium Gray, Titanium Whitesilver' -> added Titanium Silverblue, Titanium Jade Green, Titanium Jet Black, Titanium Pink Gold",
+      "RAM: '12 GB' -> GSMArena also lists a 16 GB RAM variant (1 TB model)",
+      "Charging: '45W wired, 15W wireless' -> wireless is 15W Qi2, plus 4.5W reverse wireless"
+    ]
+  },
+  "samsung-galaxy-s24-ultra": {
+    "source": "https://m.gsmarena.com/compare.php3?idPhone1=12771",
+    "rows": [
+      ["Launch Year", "2024 (announced 17 Jan 2024, released 24 Jan 2024)"],
+      ["Network", "GSM / CDMA / HSPA / EVDO / LTE / 5G"],
+      ["Body", "162.3 x 79 x 8.6 mm, 232 g or 233 g; glass front (Corning Gorilla Armor), glass back (Corning Gorilla Armor), titanium frame (grade 2); IP68 (1.5 m for 30 min); S Pen stylus"],
+      ["Display", "Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.8 inches, 1440 x 3120 pixels (~505 ppi); Corning Gorilla Armor, DX anti-reflective coating"],
+      ["Chipset", "Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm); Octa-core CPU (1x3.39 GHz Cortex-X4 + 3x3.1 GHz Cortex-A720 + 2x2.9 GHz Cortex-A720 + 2x2.2 GHz Cortex-A520); Adreno 750 GPU"],
+      ["RAM", "12 GB"],
+      ["Storage", "256 GB / 512 GB / 1 TB (UFS 4.0, no card slot)"],
+      ["Main Camera", "200 MP f/1.7 wide (multi-directional PDAF, OIS) + 10 MP f/2.4 67mm telephoto, 3x optical zoom (PDAF, OIS) + 50 MP f/3.4 111mm periscope telephoto, 5x optical zoom (PDAF, OIS) + 12 MP f/2.2 13mm 120° ultrawide (dual pixel PDAF, Super Steady video); video 8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps"],
+      ["Selfie Camera", "12 MP f/2.2 26mm wide (dual pixel PDAF); video 4K@30/60fps, 1080p@30fps"],
+      ["Battery", "Li-Ion 5000 mAh"],
+      ["Charging", "45W wired, PD3.0, 65% in 30 min; 15W wireless (Qi); 4.5W reverse wireless"],
+      ["Operating System", "Android 14, One UI 6.1 (up to 7 major Android upgrades)"],
+      ["Sensors/Features", "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer; Samsung DeX / Wireless DeX; Ultra Wideband (UWB); S Pen"],
+      ["Colors", "Titanium Black, Titanium Gray, Titanium Violet, Titanium Yellow, Titanium Blue, Titanium Green, Titanium Orange"]
+    ],
+    "changes": [
+      "Display: '6.8\" Dynamic AMOLED 2X, 120Hz, 3120x1440' -> 'Dynamic LTPO AMOLED 2X, 120Hz, 1440 x 3120' (panel is LTPO; resolution order corrected)",
+      "Colors: 'Titanium Gray, Titanium Black, Titanium Violet' -> added Titanium Yellow, Titanium Blue, Titanium Green, Titanium Orange",
+      "Charging: '45W wired, 15W wireless' -> added 4.5W reverse wireless"
+    ]
+  },
+  "samsung-galaxy-s23": {
+    "source": "https://m.gsmarena.com/samsung_galaxy_s23-ampp-12082.php",
+    "rows": [
+      ["Launch Year", "2023 (announced 1 Feb 2023, released 17 Feb 2023)"],
+      ["Network", "GSM / CDMA / HSPA / EVDO / LTE / 5G"],
+      ["Body", "146.3 x 70.9 x 7.6 mm, 168 g; glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame; IP68 (1.5 m for 30 min)"],
+      ["Display", "Dynamic AMOLED 2X, 120Hz, HDR10+, 1200 nits (HBM) / 1750 nits (peak); 6.1 inches, 1080 x 2340 pixels (~425 ppi); Corning Gorilla Glass Victus 2"],
+      ["Chipset", "Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm); Octa-core CPU (1x3.36 GHz Cortex-X3 + 2x2.8 GHz Cortex-A715 + 2x2.8 GHz Cortex-A710 + 3x2.0 GHz Cortex-A510); Adreno 740 GPU"],
+      ["RAM", "8 GB"],
+      ["Storage", "128 GB / 256 GB / 512 GB (UFS 3.1 on 128 GB, UFS 4.0 on larger; no card slot)"],
+      ["Main Camera", "50 MP f/1.8 wide (dual pixel PDAF, OIS) + 10 MP f/2.4 70mm telephoto, 3x optical zoom (PDAF, OIS) + 12 MP f/2.2 13mm 120° ultrawide (Super Steady video); video 8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps"],
+      ["Selfie Camera", "12 MP f/2.2 26mm wide (dual pixel PDAF); video 4K@30/60fps, 1080p@30fps"],
+      ["Battery", "Li-Ion 3900 mAh"],
+      ["Charging", "25W wired, PD3.0, 50% in 30 min; 15W wireless (Qi); 4.5W reverse wireless"],
+      ["Operating System", "Android 13, One UI 5.1 (up to 4 major Android upgrades)"],
+      ["Sensors/Features", "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer; Samsung DeX / Wireless DeX"],
+      ["Colors", "Phantom Black, Cream, Green, Lavender, Graphite, Lime"]
+    ],
+    "changes": [
+      "Display: '6.1\" Dynamic AMOLED 2X, 120Hz, 2340x1080' -> resolution order corrected to 1080 x 2340",
+      "Storage: '128 / 256 GB' -> added 512 GB variant",
+      "Colors: 'Cream, Green, Lavender, Phantom Black' -> added Graphite, Lime",
+      "Charging: '25W wired, 15W wireless' -> added 4.5W reverse wireless"
+    ]
+  },
+  "samsung-galaxy-z-flip-6": {
+    "source": "https://m.gsmarena.com/samsung_galaxy_z_flip6-13192.php",
+    "rows": [
+      ["Launch Year", "2024 (announced 10 Jul 2024, released 24 Jul 2024)"],
+      ["Network", "GSM / CDMA / HSPA / EVDO / LTE / 5G"],
+      ["Body", "Unfolded: 165.1 x 71.9 x 6.9 mm; Folded: 85.1 x 71.9 x 14.9 mm; 187 g; plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; IP48 (1.5 m for 30 min)"],
+      ["Display", "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.7 inches, 1080 x 2640 pixels (~426 ppi); cover display: Super AMOLED, 60Hz, 1600 nits (peak), 3.4 inches, 720 x 748 pixels (Gorilla Glass Victus 2)"],
+      ["Chipset", "Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm); Octa-core CPU (1x3.39 GHz Cortex-X4 + 3x3.1 GHz Cortex-A720 + 2x2.9 GHz Cortex-A720 + 2x2.2 GHz Cortex-A520); Adreno 750 GPU"],
+      ["RAM", "12 GB"],
+      ["Storage", "128 GB / 256 GB / 512 GB (UFS 4.0, no card slot)"],
+      ["Main Camera", "50 MP f/1.8 23mm wide (dual pixel PDAF, OIS) + 12 MP f/2.2 13mm 123° ultrawide; video 4K@30/60fps, 1080p@60/120/240fps, HDR10+"],
+      ["Selfie Camera", "10 MP f/2.2 23mm wide; video 4K@30/60fps"],
+      ["Battery", "4000 mAh"],
+      ["Charging", "25W wired, QC2.0, 50% in 30 min; 15W wireless; 4.5W reverse wireless"],
+      ["Operating System", "Android 14, One UI 6.1.1 (up to 7 major Android upgrades)"],
+      ["Sensors/Features", "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"],
+      ["Colors", "Yellow, Silver Shadow, Mint, Blue, Black, White, Peach"]
+    ],
+    "changes": [
+      "Display: '6.7\" Foldable Dynamic AMOLED 2X, 120Hz, 2640x1080' -> 'Foldable Dynamic LTPO AMOLED 2X, 1080 x 2640' (panel is LTPO; resolution order corrected) and cover display (3.4\" Super AMOLED, 720 x 748) was missing",
+      "Storage: '256 / 512 GB' -> GSMArena also lists a 128 GB variant",
+      "Colors: 'Yellow, Silver Shadow, Mint, Blue' -> added Black, White, Peach",
+      "Charging: '25W wired, 15W wireless' -> added 4.5W reverse wireless"
+    ]
+  },
+  "samsung-galaxy-a55": {
+    "source": "https://m.gsmarena.com/samsung_galaxy_a55-ampp-12824.php",
+    "rows": [
+      ["Launch Year", "2024 (announced 11 Mar 2024, released 15 Mar 2024)"],
+      ["Network", "GSM / HSPA / LTE / 5G"],
+      ["Body", "161.1 x 77.4 x 8.2 mm, 213 g; glass front (Gorilla Glass Victus+), glass back (Gorilla Glass), aluminum frame; IP67 (1 m for 30 min)"],
+      ["Display", "Super AMOLED, 120Hz, HDR10+, 1000 nits (HBM); 6.6 inches, 1080 x 2340 pixels (~390 ppi); Corning Gorilla Glass Victus+"],
+      ["Chipset", "Exynos 1480 (4 nm); Octa-core CPU (4x2.7 GHz Cortex-A78 + 4x2.0 GHz Cortex-A55)"],
+      ["RAM", "6 GB / 8 GB / 12 GB"],
+      ["Storage", "128 GB / 256 GB; microSDXC (uses shared SIM slot)"],
+      ["Main Camera", "50 MP f/1.8 wide (PDAF, OIS) + 12 MP f/2.2 123° ultrawide + 5 MP macro; video 4K@30fps, 1080p@30/60fps"],
+      ["Selfie Camera", "32 MP f/2.2 26mm wide"],
+      ["Battery", "Li-Ion 5000 mAh"],
+      ["Charging", "25W wired"],
+      ["Operating System", "Android 14, One UI 6.1 (up to 4 major Android upgrades)"],
+      ["Sensors/Features", "Fingerprint (under display, optical), accelerometer, gyro, compass, virtual proximity sensing; barometer (USA only)"],
+      ["Colors", "Iceblue, Lilac, Navy, Lemon"]
+    ],
+    "changes": [
+      "RAM: '8 GB' -> '6 GB / 8 GB / 12 GB' (GSMArena lists 6 GB and 12 GB variants too)",
+      "Display: '6.6\" Super AMOLED, 120Hz, 2340x1080' -> resolution order corrected to 1080 x 2340; HDR10+ and 1000 nits (HBM) were missing"
+    ]
+  },
+  "samsung-galaxy-a16": {
+    "source": "https://m.gsmarena.com/compare.php3?idPhone1=13383&idPhone2=14066",
+    "rows": [
+      ["Launch Year", "2024 (announced 15 Oct 2024, released 20 Nov 2024) — 4G variant"],
+      ["Network", "GSM / HSPA / LTE (4G)"],
+      ["Body", "164.4 x 77.9 x 7.9 mm, 200 g; glass front, plastic back, plastic frame; Nano-SIM / dual Nano-SIM; IP54 (splash resistant)"],
+      ["Display", "Super AMOLED, 90Hz; 6.7 inches, 1080 x 2340 pixels (~385 ppi)"],
+      ["Chipset", "MediaTek Helio G99 (6 nm); Octa-core CPU (2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55); Mali-G57 MC2 GPU"],
+      ["RAM", "4 GB / 6 GB / 8 GB"],
+      ["Storage", "128 GB / 256 GB; microSDXC (uses shared SIM slot)"],
+      ["Main Camera", "50 MP f/1.8 wide (AF) + 5 MP f/2.2 ultrawide + 2 MP macro; video 1080p@30fps"],
+      ["Selfie Camera", "13 MP f/2.0 wide; video 1080p@30fps"],
+      ["Battery", "5000 mAh"],
+      ["Charging", "25W wired"],
+      ["Operating System", "Android 14, One UI 6.1 (up to 6 major Android upgrades)"],
+      ["Sensors/Features", "Fingerprint (side-mounted), accelerometer, compass; virtual proximity sensing; NFC (market dependent)"],
+      ["Colors", "Gray, Water Green, Midnight Blue"]
+    ],
+    "changes": [
+      "RAM: '6 / 8 GB' -> '4 GB / 6 GB / 8 GB' (a 4 GB variant exists)",
+      "Display: '6.7\" Super AMOLED, 90Hz, 2340x1080' -> resolution order corrected to 1080 x 2340",
+      "Colors: 'Blue Black, Light Green, Gold' -> GSMArena lists 'Gray, Water Green, Midnight Blue' (Samsung Pakistan retail naming differs — flag for review before applying)"
+    ]
+  },
+  "samsung-galaxy-a15": {
+    "source": "https://m.gsmarena.com/samsung_galaxy_a15-12637.php",
+    "rows": [
+      ["Launch Year", "2023 (announced 11 Dec 2023, released 16 Dec 2023) — 4G variant"],
+      ["Network", "GSM / HSPA / LTE (4G)"],
+      ["Body", "160.1 x 76.8 x 8.4 mm, 200 g; glass front, plastic back, plastic frame; Nano-SIM / dual Nano-SIM"],
+      ["Display", "Super AMOLED, 90Hz, 800 nits (HBM); 6.5 inches, 1080 x 2340 pixels (~396 ppi)"],
+      ["Chipset", "MediaTek Helio G99 (6 nm); Octa-core CPU (2x2.2 GHz Cortex-A76 + 6x2.0 GHz Cortex-A55); Mali-G57 MC2 GPU"],
+      ["RAM", "4 GB / 6 GB / 8 GB"],
+      ["Storage", "128 GB / 256 GB; microSDXC (uses shared SIM slot)"],
+      ["Main Camera", "50 MP f/1.8 26mm wide (PDAF) + 5 MP f/2.2 17mm ultrawide + 2 MP macro; video 1080p@30fps"],
+      ["Selfie Camera", "13 MP f/2.0 26mm wide; video 1080p@30fps"],
+      ["Battery", "5000 mAh"],
+      ["Charging", "25W wired"],
+      ["Operating System", "Android 14, One UI 6 (up to 4 major Android upgrades)"],
+      ["Sensors/Features", "Fingerprint (side-mounted), accelerometer, compass; virtual proximity sensing; NFC (market dependent); 3.5mm jack"],
+      ["Colors", "Brave Black, Optimistic Blue, Magical Blue, Personality Yellow"]
+    ],
+    "changes": [
+      "Launch Year: 2024 -> 2023 (announced 11 Dec 2023, released 16 Dec 2023)",
+      "RAM: '6 / 8 GB' -> '4 GB / 6 GB / 8 GB' (a 4 GB variant exists)",
+      "Colors: 'Blue, Light Blue, Yellow' -> 'Brave Black, Optimistic Blue, Magical Blue, Personality Yellow' (black was missing entirely)",
+      "Display: '6.5\" Super AMOLED, 90Hz, 2340x1080' -> resolution order corrected to 1080 x 2340"
+    ]
+  },
+  "samsung-galaxy-a06": {
+    "source": "https://www.gsmarena.com/samsung_galaxy_a06-review-2743.php",
+    "rows": [
+      ["Launch Year", "2024 (announced 16 Aug 2024, released 22 Aug 2024) — 4G variant"],
+      ["Network", "GSM / HSPA / LTE (4G)"],
+      ["Body", "167.3 x 77.3 x 8.0 mm, 189 g; glass front, plastic back, plastic frame; Nano-SIM / dual Nano-SIM; no official IP rating"],
+      ["Display", "PLS LCD, 60Hz; 6.7 inches, 720 x 1600 pixels (~262 ppi)"],
+      ["Chipset", "MediaTek Helio G85 (12 nm); Octa-core CPU (2x2.0 GHz Cortex-A75 + 6x1.8 GHz Cortex-A55); Mali-G52 MC2 GPU"],
+      ["RAM", "4 GB / 6 GB"],
+      ["Storage", "64 GB / 128 GB (eMMC 5.1); microSDXC (dedicated slot)"],
+      ["Main Camera", "50 MP f/1.8 wide (PDAF) + 2 MP f/2.4 depth; video 1080p@30/60fps"],
+      ["Selfie Camera", "8 MP f/2.0 wide"],
+      ["Battery", "Li-Po 5000 mAh"],
+      ["Charging", "25W wired"],
+      ["Operating System", "Android 14, One UI 6.1 (up to 2 major Android upgrades)"],
+      ["Sensors/Features", "Fingerprint (side-mounted), accelerometer, proximity; 3.5mm jack; FM radio"],
+      ["Colors", "Blue, Gold, White"]
+    ],
+    "changes": [
+      "Display: '6.7\" PLS LCD, 60Hz, 1600x720' -> resolution order corrected to 720 x 1600",
+      "Colors: 'Blue, Gold, Light Green' -> GSMArena lists 'Blue, Gold, White' (Light Green is a regional variant name — flag for review before applying)"
+    ]
+  }
+}

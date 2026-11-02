@@ -14,6 +14,7 @@ header .wrap{padding:11px 16px}
 .navbar a{color:#dbe7ff;font-size:13.5px;font-weight:700;padding:10px 2px;white-space:nowrap;text-transform:uppercase;letter-spacing:.02em}
 @media(max-width:700px){.menubtn{display:inline-block}.navbar{display:none}.navbar.open{display:block}.navbar .wrap{flex-direction:column;gap:0}.navbar a{padding:12px 2px;border-top:1px solid #cfdcd6}}
 .sec{text-transform:uppercase;letter-spacing:.03em;color:#0b1e3f;border-bottom:2px solid #0b1e3f;padding-bottom:6px}
+.glabel{font-weight:800;color:#0b1e3f;font-size:17px;margin:20px 0 6px}
 .pkrv{color:#d92d20}.usdv{color:#8a94a6;font-size:13px;font-weight:600}
 .hero2{position:relative;overflow:hidden;background:radial-gradient(600px 300px at 85% 20%,#1d4ed8cc,transparent),radial-gradient(500px 260px at 70% 90%,#0ea5e955,transparent),linear-gradient(120deg,#081230,#0b1e3f 55%,#10315f);border-radius:16px;padding:34px 30px;color:#fff;margin-bottom:8px}
 .hero2 h1{margin:0 0 8px;font-size:38px;line-height:1.12;max-width:560px}.hero2 h1 span{color:#38bdf8}

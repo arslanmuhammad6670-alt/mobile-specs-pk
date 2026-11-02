@@ -39,11 +39,40 @@
 "samsung-galaxy-z-fold7",
 "samsung-galaxy-z-flip7",
 "samsung-galaxy-z-flip7-fe-5g",
-"samsung-galaxy-m36-5g"
+"samsung-galaxy-m36-5g",
+"samsung-galaxy-s25-edge",
+"samsung-galaxy-f56-5g",
+"samsung-galaxy-m56-5g",
+"samsung-galaxy-xcover7-pro",
+"apple-iphone-duo-fold",
+"apple-iphone-18-pro-max",
+"apple-iphone-18-pro",
+"apple-ipad-mini-(2026)",
+"apple-iphone-17e",
+"apple-ipad-air-13-5g-(2026)",
+"apple-ipad-air-11-5g-(2026)",
+"apple-ipad-pro-13-5g-(2025)",
+"apple-ipad-pro-11-5g-(2025)",
+"apple-iphone-17-pro-max",
+"apple-iphone-17-pro",
+"apple-iphone-17-air",
+"apple-iphone-17",
+"apple-ipad-air-13-(2025)",
+"apple-ipad-air-11-(2025)",
+"apple-ipad-(2025)",
+"apple-iphone-16e",
+"apple-ipad-mini-(2024)",
+"apple-iphone-16-pro-max",
+"apple-iphone-16",
+"apple-ipad-pro-13-(2024)",
+"apple-ipad-pro-11-(2024)",
+"apple-ipad-air-13-(2024)",
+"apple-ipad-air-11-(2024)",
+"apple-iphone-15-pro"
 ],
 "failed": {
 "samsung-galaxy-m17-5g": "image"
 },
-"batch_idx": 0,
-"added": 40
+"batch_idx": 1,
+"added": 69
 }

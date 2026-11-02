@@ -1,0 +1,8 @@
+{
+  "iphone-16-pro-max": [
+    {"color": "Black Titanium", "file": "img/iphone-16-pro-max/black-titanium.jpg"},
+    {"color": "White Titanium", "file": "img/iphone-16-pro-max/white-titanium.jpg"},
+    {"color": "Natural Titanium", "file": "img/iphone-16-pro-max/natural-titanium.jpg"},
+    {"color": "Desert Titanium", "file": "img/iphone-16-pro-max/desert-titanium.jpg"}
+  ]
+}

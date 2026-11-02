@@ -4,7 +4,7 @@
   "name": "iPhone 16 Pro Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 2076,
+  "price": 2078,
   "price_pkr": 574999,
   "path": "phones/iphone-16-pro-max.html",
   "specs": {
@@ -29,7 +29,7 @@
   "name": "iPhone 16",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 1372,
+  "price": 1373,
   "price_pkr": 379999,
   "path": "phones/iphone-16.html",
   "specs": {
@@ -54,7 +54,7 @@
   "name": "iPhone 15",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 1173,
+  "price": 1175,
   "price_pkr": 324999,
   "path": "phones/iphone-15.html",
   "specs": {
@@ -79,7 +79,7 @@
   "name": "iPhone 14",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 1011,
+  "price": 1012,
   "price_pkr": 279999,
   "path": "phones/iphone-14.html",
   "specs": {
@@ -104,7 +104,7 @@
   "name": "iPhone 13",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 848,
+  "price": 849,
   "price_pkr": 234999,
   "path": "phones/iphone-13.html",
   "specs": {
@@ -129,7 +129,7 @@
   "name": "Samsung Galaxy S25 Ultra",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 1534,
+  "price": 1536,
   "price_pkr": 424999,
   "path": "phones/samsung-galaxy-s25-ultra.html",
   "specs": {
@@ -154,7 +154,7 @@
   "name": "Samsung Galaxy S24 Ultra",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 1444,
+  "price": 1446,
   "price_pkr": 399999,
   "path": "phones/samsung-galaxy-s24-ultra.html",
   "specs": {
@@ -179,7 +179,7 @@
   "name": "Samsung Galaxy S23",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 903,
+  "price": 904,
   "price_pkr": 249999,
   "path": "phones/samsung-galaxy-s23.html",
   "specs": {
@@ -204,7 +204,7 @@
   "name": "Samsung Galaxy Z Flip 6",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 1390,
+  "price": 1391,
   "price_pkr": 384999,
   "path": "phones/samsung-galaxy-z-flip-6.html",
   "specs": {
@@ -229,7 +229,7 @@
   "name": "Samsung Galaxy A55",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 505,
+  "price": 506,
   "price_pkr": 139999,
   "path": "phones/samsung-galaxy-a55.html",
   "specs": {
@@ -379,7 +379,7 @@
   "name": "Redmi 13",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 144,
+  "price": 145,
   "price_pkr": 39999,
   "path": "phones/redmi-13.html",
   "specs": {
@@ -429,7 +429,7 @@
   "name": "Xiaomi 14",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 975,
+  "price": 976,
   "price_pkr": 269999,
   "path": "phones/xiaomi-14.html",
   "specs": {
@@ -579,7 +579,7 @@
   "name": "Infinix Smart 8",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 97,
+  "price": 98,
   "price_pkr": 26999,
   "path": "phones/infinix-smart-8.html",
   "specs": {
@@ -604,7 +604,7 @@
   "name": "Tecno Camon 30",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 209,
+  "price": 210,
   "price_pkr": 57999,
   "path": "phones/tecno-camon-30.html",
   "specs": {
@@ -629,7 +629,7 @@
   "name": "Tecno Spark 20 Pro+",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 144,
+  "price": 145,
   "price_pkr": 39999,
   "path": "phones/tecno-spark-20-pro-plus.html",
   "specs": {
@@ -704,7 +704,7 @@
   "name": "Vivo V30",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 505,
+  "price": 506,
   "price_pkr": 139999,
   "path": "phones/vivo-v30.html",
   "specs": {
@@ -754,7 +754,7 @@
   "name": "Vivo Y18",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 144,
+  "price": 145,
   "price_pkr": 39999,
   "path": "phones/vivo-y18.html",
   "specs": {
@@ -779,7 +779,7 @@
   "name": "Oppo Reno 11",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 469,
+  "price": 470,
   "price_pkr": 129999,
   "path": "phones/oppo-reno-11.html",
   "specs": {
@@ -804,7 +804,7 @@
   "name": "Oppo A58",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 162,
+  "price": 163,
   "price_pkr": 44999,
   "path": "phones/oppo-a58.html",
   "specs": {
@@ -854,7 +854,7 @@
   "name": "Realme C65",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 144,
+  "price": 145,
   "price_pkr": 39999,
   "path": "phones/realme-c65.html",
   "specs": {
@@ -879,7 +879,7 @@
   "name": "Honor X9b",
   "brand": "Honor",
   "cat": "Smartphones",
-  "price": 469,
+  "price": 470,
   "price_pkr": 129999,
   "path": "phones/honor-x9b.html",
   "specs": {
@@ -929,7 +929,7 @@
   "name": "OnePlus 12",
   "brand": "OnePlus",
   "cat": "Smartphones",
-  "price": 1011,
+  "price": 1012,
   "price_pkr": 279999,
   "path": "phones/oneplus-12.html",
   "specs": {
@@ -954,7 +954,7 @@
   "name": "Google Pixel 8",
   "brand": "Google",
   "cat": "Smartphones",
-  "price": 812,
+  "price": 813,
   "price_pkr": 224999,
   "path": "phones/google-pixel-8.html",
   "specs": {
@@ -979,7 +979,7 @@
   "name": "Google Pixel 8 Pro",
   "brand": "Google",
   "cat": "Smartphones",
-  "price": 1173,
+  "price": 1175,
   "price_pkr": 324999,
   "path": "phones/google-pixel-8-pro.html",
   "specs": {
@@ -1197,7 +1197,7 @@
   "name": "Apple iPad (10th Generation)",
   "brand": "Apple",
   "cat": "Tablets",
-  "price": 433,
+  "price": 434,
   "price_pkr": 119999,
   "path": "tablets/apple-ipad-10.html",
   "specs": {
@@ -1219,7 +1219,7 @@
   "name": "Apple iPad Air 11 (M2)",
   "brand": "Apple",
   "cat": "Tablets",
-  "price": 794,
+  "price": 795,
   "price_pkr": 219999,
   "path": "tablets/apple-ipad-air-m2.html",
   "specs": {
@@ -1264,7 +1264,7 @@
   "name": "Samsung Galaxy Tab S9",
   "brand": "Samsung",
   "cat": "Tablets",
-  "price": 957,
+  "price": 958,
   "price_pkr": 264999,
   "path": "tablets/samsung-galaxy-tab-s9.html",
   "specs": {
@@ -1287,7 +1287,7 @@
   "name": "Xiaomi Pad 6",
   "brand": "Xiaomi",
   "cat": "Tablets",
-  "price": 415,
+  "price": 416,
   "price_pkr": 114999,
   "path": "tablets/xiaomi-pad-6.html",
   "specs": {
@@ -1309,7 +1309,7 @@
   "name": "Redmi Pad SE",
   "brand": "Xiaomi",
   "cat": "Tablets",
-  "price": 162,
+  "price": 163,
   "price_pkr": 44999,
   "path": "tablets/redmi-pad-se.html",
   "specs": {
@@ -1331,7 +1331,7 @@
   "name": "Infinix XPad",
   "brand": "Infinix",
   "cat": "Tablets",
-  "price": 144,
+  "price": 145,
   "price_pkr": 39999,
   "path": "tablets/infinix-xpad.html",
   "specs": {
@@ -1377,7 +1377,7 @@
   "name": "Apple MacBook Air 13 (M3)",
   "brand": "Apple",
   "cat": "Laptops",
-  "price": 1354,
+  "price": 1355,
   "price_pkr": 374999,
   "path": "laptops/apple-macbook-air-m3.html",
   "specs": {
@@ -1398,7 +1398,7 @@
   "name": "Apple MacBook Pro 14 (M3 Pro)",
   "brand": "Apple",
   "cat": "Laptops",
-  "price": 2599,
+  "price": 2602,
   "price_pkr": 719999,
   "path": "laptops/apple-macbook-pro-14-m3-pro.html",
   "specs": {
@@ -1419,7 +1419,7 @@
   "name": "HP Pavilion 15 (Core i5 13th Gen)",
   "brand": "HP",
   "cat": "Laptops",
-  "price": 668,
+  "price": 669,
   "price_pkr": 184999,
   "path": "laptops/hp-pavilion-15.html",
   "specs": {
@@ -1440,7 +1440,7 @@
   "name": "Dell Inspiron 15 3530",
   "brand": "Dell",
   "cat": "Laptops",
-  "price": 650,
+  "price": 651,
   "price_pkr": 179999,
   "path": "laptops/dell-inspiron-3530.html",
   "specs": {
@@ -1524,7 +1524,7 @@
   "name": "HP Victus 15 Gaming (RTX 4050)",
   "brand": "HP",
   "cat": "Laptops",
-  "price": 1047,
+  "price": 1048,
   "price_pkr": 289999,
   "path": "laptops/hp-victus-15-gaming.html",
   "specs": {
@@ -1545,7 +1545,7 @@
   "name": "Samsung Galaxy A35",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 433,
+  "price": 434,
   "price_pkr": 119999,
   "path": "phones/samsung-galaxy-a35.html",
   "specs": {
@@ -1620,7 +1620,7 @@
   "name": "Samsung Galaxy S24 FE",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 794,
+  "price": 795,
   "price_pkr": 219999,
   "path": "phones/samsung-galaxy-s24-fe.html",
   "specs": {
@@ -1645,7 +1645,7 @@
   "name": "Samsung Galaxy S23 FE",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 740,
+  "price": 741,
   "price_pkr": 204999,
   "path": "phones/samsung-galaxy-s23-fe.html",
   "specs": {
@@ -1670,7 +1670,7 @@
   "name": "Apple iPhone 16 Pro",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 1433,
+  "price": 1435,
   "price_pkr": 396999,
   "path": "phones/apple-iphone-16-pro.html",
   "specs": {
@@ -1695,7 +1695,7 @@
   "name": "Apple iPhone 16 Plus",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 1184,
+  "price": 1185,
   "price_pkr": 327999,
   "path": "phones/apple-iphone-16-plus.html",
   "specs": {
@@ -1720,7 +1720,7 @@
   "name": "Apple iPhone 15 Pro Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 1715,
+  "price": 1717,
   "price_pkr": 474999,
   "path": "phones/apple-iphone-15-pro-max.html",
   "specs": {
@@ -1745,7 +1745,7 @@
   "name": "Apple iPhone 15 Plus",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 1390,
+  "price": 1391,
   "price_pkr": 384999,
   "path": "phones/apple-iphone-15-plus.html",
   "specs": {
@@ -1770,7 +1770,7 @@
   "name": "Apple iPhone 13 mini",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 806,
+  "price": 807,
   "price_pkr": 223399,
   "path": "phones/apple-iphone-13-mini.html",
   "specs": {
@@ -1845,7 +1845,7 @@
   "name": "Infinix Smart 9",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 97,
+  "price": 98,
   "price_pkr": 26999,
   "path": "phones/infinix-smart-9.html",
   "specs": {
@@ -1870,7 +1870,7 @@
   "name": "Infinix Zero 40 4G",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 227,
+  "price": 228,
   "price_pkr": 62999,
   "path": "phones/infinix-zero-40-4g.html",
   "specs": {
@@ -1895,7 +1895,7 @@
   "name": "Tecno Camon 40",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 209,
+  "price": 210,
   "price_pkr": 57999,
   "path": "phones/tecno-camon-40.html",
   "specs": {
@@ -1920,7 +1920,7 @@
   "name": "Tecno Spark 30 Pro",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 144,
+  "price": 145,
   "price_pkr": 39999,
   "path": "phones/tecno-spark-30-pro.html",
   "specs": {
@@ -1970,7 +1970,7 @@
   "name": "Redmi Note 14",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 209,
+  "price": 210,
   "price_pkr": 57999,
   "path": "phones/redmi-note-14.html",
   "specs": {
@@ -1995,7 +1995,7 @@
   "name": "Redmi Note 13 Pro Plus 5G",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 505,
+  "price": 506,
   "price_pkr": 139999,
   "path": "phones/redmi-note-13-pro-plus.html",
   "specs": {
@@ -2045,7 +2045,7 @@
   "name": "Vivo V40",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 505,
+  "price": 506,
   "price_pkr": 139999,
   "path": "phones/vivo-v40.html",
   "specs": {
@@ -2145,7 +2145,7 @@
   "name": "Oppo A3",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 144,
+  "price": 145,
   "price_pkr": 39999,
   "path": "phones/oppo-a3-4g.html",
   "specs": {
@@ -2295,7 +2295,7 @@
   "name": "Google Pixel 9",
   "brand": "Google",
   "cat": "Smartphones",
-  "price": 722,
+  "price": 723,
   "price_pkr": 199999,
   "path": "phones/google-pixel-9.html",
   "specs": {
@@ -2320,7 +2320,7 @@
   "name": "Google Pixel 9 Pro",
   "brand": "Google",
   "cat": "Smartphones",
-  "price": 975,
+  "price": 976,
   "price_pkr": 269999,
   "path": "phones/google-pixel-9-pro.html",
   "specs": {
@@ -2395,7 +2395,7 @@
   "name": "Nothing Phone (2a)",
   "brand": "Nothing",
   "cat": "Smartphones",
-  "price": 421,
+  "price": 422,
   "price_pkr": 116749,
   "path": "phones/nothing-phone-2a.html",
   "specs": {
@@ -2420,7 +2420,7 @@
   "name": "Motorola Edge 50 Fusion",
   "brand": "Motorola",
   "cat": "Smartphones",
-  "price": 469,
+  "price": 470,
   "price_pkr": 129999,
   "path": "phones/motorola-edge-50-fusion.html",
   "specs": {
@@ -2468,7 +2468,7 @@
   "name": "Apple iPad Pro 11 (M4)",
   "brand": "Apple",
   "cat": "Tablets",
-  "price": 1047,
+  "price": 1048,
   "price_pkr": 289999,
   "path": "tablets/apple-ipad-pro-m4-11.html",
   "specs": {
@@ -2533,7 +2533,7 @@
   "name": "Samsung Galaxy S23 Ultra",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 1408,
+  "price": 1409,
   "price_pkr": 389999,
   "path": "phones/samsung-galaxy-s23-ultra.html",
   "specs": {
@@ -2558,7 +2558,7 @@
   "name": "Samsung Galaxy A54",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 509,
+  "price": 510,
   "price_pkr": 140999,
   "path": "phones/samsung-galaxy-a54.html",
   "specs": {
@@ -2583,7 +2583,7 @@
   "name": "Samsung Galaxy A34",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 397,
+  "price": 398,
   "price_pkr": 109999,
   "path": "phones/samsung-galaxy-a34.html",
   "specs": {
@@ -2608,7 +2608,7 @@
   "name": "Apple iPhone 14 Pro Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 2043,
+  "price": 2046,
   "price_pkr": 565999,
   "path": "phones/apple-iphone-14-pro-max.html",
   "specs": {
@@ -2633,7 +2633,7 @@
   "name": "iPhone 12",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 634,
+  "price": 635,
   "price_pkr": 175599,
   "path": "phones/iphone-12.html",
   "specs": {
@@ -2658,7 +2658,7 @@
   "name": "iPhone 11",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 523,
+  "price": 524,
   "price_pkr": 144899,
   "path": "phones/iphone-11.html",
   "specs": {
@@ -2708,7 +2708,7 @@
   "name": "Poco X6",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 415,
+  "price": 416,
   "price_pkr": 114999,
   "path": "phones/poco-x6.html",
   "specs": {
@@ -2883,7 +2883,7 @@
   "name": "Realme C67",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 162,
+  "price": 163,
   "price_pkr": 44999,
   "path": "phones/realme-c67.html",
   "specs": {
@@ -2958,7 +2958,7 @@
   "name": "Poco C65",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 162,
+  "price": 163,
   "price_pkr": 44999,
   "path": "phones/poco-c65.html",
   "specs": {
@@ -2983,7 +2983,7 @@
   "name": "Infinix Note 30",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 162,
+  "price": 163,
   "price_pkr": 44999,
   "path": "phones/infinix-note-30.html",
   "specs": {
@@ -3033,7 +3033,7 @@
   "name": "Samsung Galaxy Z Fold 6",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 2184,
+  "price": 2186,
   "price_pkr": 604999,
   "path": "phones/samsung-galaxy-z-fold-6.html",
   "specs": {
@@ -3058,7 +3058,7 @@
   "name": "Samsung Galaxy Z Fold 5",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 1444,
+  "price": 1446,
   "price_pkr": 399999,
   "path": "phones/samsung-galaxy-z-fold-5.html",
   "specs": {
@@ -3083,7 +3083,7 @@
   "name": "Samsung Galaxy S24",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 1047,
+  "price": 1048,
   "price_pkr": 289999,
   "path": "phones/samsung-galaxy-s24.html",
   "specs": {
@@ -3108,7 +3108,7 @@
   "name": "OnePlus Nord CE4",
   "brand": "OnePlus",
   "cat": "Smartphones",
-  "price": 339,
+  "price": 340,
   "price_pkr": 93999,
   "path": "phones/oneplus-nord-ce4.html",
   "specs": {
@@ -3283,7 +3283,7 @@
   "name": "Apple iPhone 16e",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 1047,
+  "price": 1048,
   "price_pkr": 289999,
   "path": "phones/iphone-16e.html",
   "specs": {
@@ -3333,7 +3333,7 @@
   "name": "Samsung Galaxy S25",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 1029,
+  "price": 1030,
   "price_pkr": 284999,
   "path": "phones/samsung-galaxy-s25.html",
   "specs": {
@@ -3383,7 +3383,7 @@
   "name": "Poco F6",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 487,
+  "price": 488,
   "price_pkr": 134999,
   "path": "phones/poco-f6.html",
   "specs": {
@@ -3408,7 +3408,7 @@
   "name": "Xiaomi 14T",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 635,
+  "price": 636,
   "price_pkr": 175999,
   "path": "phones/xiaomi-14t.html",
   "specs": {
@@ -3433,7 +3433,7 @@
   "name": "Vivo Y200 4G",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 209,
+  "price": 210,
   "price_pkr": 57999,
   "path": "phones/vivo-y200-4g.html",
   "specs": {
@@ -3508,7 +3508,7 @@
   "name": "Tecno Camon 40 Pro 4G",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 274,
+  "price": 275,
   "price_pkr": 75999,
   "path": "phones/tecno-camon-40-pro-4g.html",
   "specs": {
@@ -3533,7 +3533,7 @@
   "name": "Vivo X500 Pro Max",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 1740,
+  "price": 1742,
   "price_pkr": 482000,
   "path": "phones/vivo-x500-pro-max.html",
   "specs": {
@@ -3558,7 +3558,7 @@
   "name": "Vivo X500 Pro",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 1505,
+  "price": 1507,
   "price_pkr": 417000,
   "path": "phones/vivo-x500-pro.html",
   "specs": {
@@ -3583,7 +3583,7 @@
   "name": "Vivo X500",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 1148,
+  "price": 1149,
   "price_pkr": 318000,
   "path": "phones/vivo-x500.html",
   "specs": {
@@ -3608,7 +3608,7 @@
   "name": "OnePlus Ace 7 Pro",
   "brand": "OnePlus",
   "cat": "Smartphones",
-  "price": 715,
+  "price": 716,
   "price_pkr": 198000,
   "path": "phones/oneplus-ace-7-pro.html",
   "specs": {
@@ -3633,7 +3633,7 @@
   "name": "OnePlus Ace 7",
   "brand": "OnePlus",
   "cat": "Smartphones",
-  "price": 653,
+  "price": 654,
   "price_pkr": 181000,
   "path": "phones/oneplus-ace-7.html",
   "specs": {
@@ -3683,7 +3683,7 @@
   "name": "Huawei Pura 90 Plus",
   "brand": "Huawei",
   "cat": "Smartphones",
-  "price": 827,
+  "price": 828,
   "price_pkr": 229000,
   "path": "phones/huawei-pura-90-plus.html",
   "specs": {
@@ -3783,7 +3783,7 @@
   "name": "Apple iPhone 17",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 1440,
+  "price": 1442,
   "price_pkr": 398999,
   "path": "phones/iphone-17.html",
   "specs": {
@@ -3808,7 +3808,7 @@
   "name": "Apple iPhone 17 Pro",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 1875,
+  "price": 1877,
   "price_pkr": 519499,
   "path": "phones/iphone-17-pro.html",
   "specs": {
@@ -3833,7 +3833,7 @@
   "name": "Apple iPhone 17 Pro Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 2040,
+  "price": 2042,
   "price_pkr": 564999,
   "path": "phones/iphone-17-pro-max.html",
   "specs": {
@@ -3858,7 +3858,7 @@
   "name": "Samsung Galaxy A56",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 498,
+  "price": 499,
   "price_pkr": 137999,
   "path": "phones/samsung-galaxy-a56.html",
   "specs": {
@@ -3883,7 +3883,7 @@
   "name": "Samsung Galaxy A36",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 433,
+  "price": 434,
   "price_pkr": 119999,
   "path": "phones/samsung-galaxy-a36.html",
   "specs": {
@@ -3933,7 +3933,7 @@
   "name": "Vivo V50",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 505,
+  "price": 506,
   "price_pkr": 139999,
   "path": "phones/vivo-v50.html",
   "specs": {
@@ -3983,7 +3983,7 @@
   "name": "Realme 14 Pro Plus",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 415,
+  "price": 416,
   "price_pkr": 114999,
   "path": "phones/realme-14-pro-plus.html",
   "specs": {
@@ -4008,7 +4008,7 @@
   "name": "Infinix Note 50 Pro Plus",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 433,
+  "price": 434,
   "price_pkr": 119999,
   "path": "phones/infinix-note-50-pro-plus.html",
   "specs": {
@@ -4058,7 +4058,7 @@
   "name": "Honor 400 Pro",
   "brand": "Honor",
   "cat": "Smartphones",
-  "price": 794,
+  "price": 795,
   "price_pkr": 219999,
   "path": "phones/honor-400-pro.html",
   "specs": {
@@ -4108,7 +4108,7 @@
   "name": "Oppo Reno 13 Pro",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 794,
+  "price": 795,
   "price_pkr": 219999,
   "path": "phones/oppo-reno-13-pro.html",
   "specs": {
@@ -4133,7 +4133,7 @@
   "name": "Samsung Galaxy A55",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 433,
+  "price": 434,
   "price_pkr": 119999,
   "path": "phones/samsung-galaxy-a55.html",
   "specs": {
@@ -4158,7 +4158,7 @@
   "name": "Xiaomi Redmi Note 14 Pro Plus",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 523,
+  "price": 524,
   "price_pkr": 144999,
   "path": "phones/xiaomi-redmi-note-14-pro-plus.html",
   "specs": {
@@ -4258,7 +4258,7 @@
   "name": "Poco X7 Pro",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 505,
+  "price": 506,
   "price_pkr": 139999,
   "path": "phones/poco-x7-pro.html",
   "specs": {
@@ -4483,7 +4483,7 @@
   "name": "Redmi 14C",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 97,
+  "price": 98,
   "price_pkr": 26999,
   "path": "phones/redmi-14c.html",
   "specs": {
@@ -4526,6 +4526,256 @@
    "Operating System": "Android 14, Realme UI",
    "Sensors/Features": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass; 3.5mm jack; Wi-Fi 802.11 a/b/g/n/ac dual-band; Bluetooth 5.0; GPS, GALILEO, GLONASS, BDS; no NFC; USB Type-C",
    "Colors": "Sparkle Gold, Dark Green"
+  }
+ },
+ {
+  "slug": "samsung-galaxy-tab-s10-plus",
+  "name": "Samsung Galaxy Tab S10 Plus",
+  "brand": "Samsung",
+  "cat": "Tablets",
+  "price": 969,
+  "price_pkr": 267999,
+  "path": "tablets/samsung-galaxy-tab-s10-plus.html",
+  "specs": {
+   "Launch Year": "2024 (announced 26 September 2024, released 3 October 2024)",
+   "Network": "GSM / HSPA / LTE / 5G",
+   "Body": "285.4 x 185.4 x 5.6 mm, 571 g (Wi-Fi) / 576 g (5G); glass front, aluminum frame, aluminum back; Nano-SIM + eSIM (cellular model only); IP68 dust tight and water resistant; stylus support; Enhanced Armor Aluminum",
+   "Display": "Dynamic AMOLED 2X, 120Hz, HDR10+; 12.4 inches; 1752 x 2800 pixels (~266 ppi)",
+   "Chipset": "Mediatek Dimensity 9300+ (4 nm); CPU octa-core (1x3.4 GHz Cortex-X4 & 3x2.8 GHz Cortex-X4 & 4x2.0 GHz Cortex-A720); GPU Immortalis-G720 MC12",
+   "RAM": "12 GB",
+   "Storage": "256 GB / 512 GB (UFS); microSDXC (dedicated slot)",
+   "Main Camera": "13 MP f/2.0 wide (AF) + 8 MP f/2.2 ultrawide; LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps",
+   "Selfie Camera": "12 MP f/2.4 120° ultrawide; HDR; video 4K@30fps, 1080p@30fps",
+   "Battery": "Li-Po 10090 mAh",
+   "Charging": "45W wired",
+   "Operating System": "Android 14, One UI 6.1",
+   "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; quad stereo speakers; Wireless Samsung DeX; Wi-Fi 6e; Bluetooth 5.3; USB Type-C 3.2",
+   "Colors": "Moonstone Gray, Platinum Silver"
+  }
+ },
+ {
+  "slug": "apple-ipad-air-m3",
+  "name": "Apple iPad Air 11 (M3)",
+  "brand": "Apple",
+  "cat": "Tablets",
+  "price": 741,
+  "price_pkr": 204999,
+  "path": "tablets/apple-ipad-air-m3.html",
+  "specs": {
+   "Launch Year": "2025 (announced 4 March 2025, released 12 March 2025)",
+   "Network": "GSM / HSPA / LTE / 5G",
+   "Body": "247.6 x 178.5 x 6.1 mm, 460 g; glass front, aluminum back, aluminum frame; eSIM (cellular model only); stylus support",
+   "Display": "Liquid Retina IPS LCD, 500 nits; 11.0 inches; 1640 x 2360 pixels (~264 ppi); scratch-resistant glass, oleophobic coating",
+   "Chipset": "Apple M3; CPU octa-core (4 performance cores + 4 efficiency cores); GPU Apple 9-core graphics",
+   "RAM": "8 GB",
+   "Storage": "128 GB / 256 GB / 512 GB / 1 TB; no card slot",
+   "Main Camera": "12 MP f/1.8 wide (dual pixel PDAF); HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, gyro-EIS",
+   "Selfie Camera": "12 MP f/2.0 122° ultrawide; HDR; video 1080p@25/30/60fps, gyro-EIS",
+   "Battery": "Li-Po 7606 mAh (28.93 Wh)",
+   "Charging": "Wired charging via USB Type-C",
+   "Operating System": "iPadOS 18, upgradable to iPadOS 27.2",
+   "Sensors/Features": "Fingerprint (top-mounted), accelerometer, gyro, compass, barometer; stereo speakers; Wi-Fi 6e; Bluetooth 5.3; USB Type-C 3.1 Gen2, DisplayPort",
+   "Colors": "Space Gray, Starlight, Purple, Blue"
+  }
+ },
+ {
+  "slug": "apple-ipad-pro-13-m4",
+  "name": "Apple iPad Pro 13 (M4)",
+  "brand": "Apple",
+  "cat": "Tablets",
+  "price": 1120,
+  "price_pkr": 309999,
+  "path": "tablets/apple-ipad-pro-13-m4.html",
+  "specs": {
+   "Launch Year": "2024 (announced 7 May 2024, released 15 May 2024)",
+   "Network": "GSM / HSPA / LTE / 5G",
+   "Body": "281.6 x 215.5 x 5.1 mm, 579 g (Wi-Fi) / 582 g (5G); glass front, aluminum back, aluminum frame; eSIM (cellular model only); stylus support",
+   "Display": "Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits (peak); 13.0 inches; 2064 x 2752 pixels (~264 ppi)",
+   "Chipset": "Apple M4; CPU 9-core (3 performance + 6 efficiency) on 256/512 GB, 10-core (4 performance + 6 efficiency) on 1/2 TB; GPU Apple 10-core graphics",
+   "RAM": "8 GB / 16 GB",
+   "Storage": "256 GB / 512 GB / 1 TB / 2 TB; no card slot",
+   "Main Camera": "12 MP f/1.8 wide (dual pixel PDAF) + TOF 3D LiDAR scanner; Quad-LED dual-tone flash, HDR; video 4K@24/25/30/60fps, 1080p up to 240fps, ProRes, gyro-EIS",
+   "Selfie Camera": "12 MP f/2.4 122° ultrawide; face detection, HDR, panorama; video 1080p@25/30/60fps",
+   "Battery": "Li-Po 10290 mAh",
+   "Charging": "Wired charging via USB Type-C",
+   "Operating System": "iPadOS 17.5, upgradable to iPadOS 27.2",
+   "Sensors/Features": "Face ID, accelerometer, gyro, compass, barometer; four stereo speakers; Wi-Fi 6e; Bluetooth 5.3; USB Type-C 4 (Thunderbolt 3)",
+   "Colors": "Silver, Space Black"
+  }
+ },
+ {
+  "slug": "samsung-galaxy-z-flip-7",
+  "name": "Samsung Galaxy Z Flip 7",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 1409,
+  "price_pkr": 389999,
+  "path": "phones/samsung-galaxy-z-flip-7.html",
+  "specs": {
+   "Launch Year": "2025 (announced 9 July 2025, released 25 July 2025)",
+   "Network": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+   "Body": "Unfolded: 166.7 x 75.2 x 6.5 mm, Folded: 85.5 x 75.2 x 13.7 mm, 188 g; plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM; IP48 dust and water resistant; Armor Aluminum frame",
+   "Display": "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.9 inches; 1080 x 2520 pixels; cover display: 4.1 inches Super AMOLED, 120Hz, 2600 nits (peak), 948 x 1048 pixels, Gorilla Glass Victus 2",
+   "Chipset": "Exynos 2500 (3 nm); CPU 10-core (1x3.3 GHz Cortex-X925 & 2x2.74 GHz Cortex-A725 & 5x2.36 GHz Cortex-A725 & 2x1.8 GHz Cortex-A520); GPU Xclipse 950",
+   "RAM": "12 GB",
+   "Storage": "256 GB / 512 GB (UFS 4.0); no card slot",
+   "Main Camera": "50 MP f/1.8 23mm wide (dual pixel PDAF, OIS) + 12 MP f/2.2 13mm 123° ultrawide; LED flash, HDR, panorama; video 4K@30/60fps, 1080p@60/120/240fps, HDR10+",
+   "Selfie Camera": "10 MP f/2.2 wide; HDR; video 4K@30/60fps",
+   "Battery": "4300 mAh",
+   "Charging": "25W wired, QC2.0 (50% in 30 min); 15W wireless; 4.5W reverse wireless",
+   "Operating System": "Android 16, One UI 8 (up to 7 major OS updates)",
+   "Sensors/Features": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; Samsung DeX; Wi-Fi 7; Bluetooth 5.4; USB Type-C 3.2",
+   "Colors": "Blue Shadow, Jet Black, Coral Red, Mint"
+  }
+ },
+ {
+  "slug": "google-pixel-9-pro-xl",
+  "name": "Google Pixel 9 Pro XL",
+  "brand": "Google",
+  "cat": "Smartphones",
+  "price": 1066,
+  "price_pkr": 294999,
+  "path": "phones/google-pixel-9-pro-xl.html",
+  "specs": {
+   "Launch Year": "2024 (announced 13 August 2024, released 22 August 2024)",
+   "Network": "GSM / HSPA / LTE / 5G",
+   "Body": "162.8 x 76.6 x 8.5 mm, 221 g; glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM; IP68 dust tight and water resistant (up to 1.5 m for 30 min)",
+   "Display": "LTPO OLED, 120Hz, HDR10+, 2000 nits (HBM), 3000 nits (peak); 6.8 inches; 1344 x 2992 pixels (~486 ppi); Corning Gorilla Glass Victus 2 protection",
+   "Chipset": "Google Tensor G4 (4 nm); CPU octa-core (1x3.1 GHz Cortex-X4 & 3x2.6 GHz Cortex-A720 & 4x1.92 GHz Cortex-A520); GPU Mali-G715 MC7",
+   "RAM": "16 GB",
+   "Storage": "128 GB / 256 GB / 512 GB / 1 TB (UFS 3.1); no card slot",
+   "Main Camera": "50 MP f/1.7 wide (dual pixel PDAF, OIS) + 48 MP f/2.8 periscope telephoto (dual pixel PDAF, OIS, 5x optical zoom) + 48 MP f/1.7 123° ultrawide (dual pixel PDAF); multi-zone Laser AF, LED flash, Ultra-HDR, panorama, Best Take; video 8K@30fps, 4K@24/30/60fps, 1080p up to 240fps, gyro-EIS",
+   "Selfie Camera": "42 MP f/2.2 ultrawide (PDAF); HDR, panorama; video 4K@30/60fps",
+   "Battery": "Li-Ion 5060 mAh",
+   "Charging": "37W wired, PD3.0 (70% in 30 min); 23W wireless (Pixel Stand); 12W wireless (Qi); reverse wireless; bypass charging",
+   "Operating System": "Android 14 (up to 7 major OS updates)",
+   "Sensors/Features": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer, thermometer; UWB; Satellite SOS; stereo speakers; NFC; Wi-Fi 7; Bluetooth 5.3; USB Type-C 3.2",
+   "Colors": "Porcelain, Rose Quartz, Hazel, Obsidian"
+  }
+ },
+ {
+  "slug": "oneplus-13",
+  "name": "OnePlus 13",
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "price": 801,
+  "price_pkr": 221499,
+  "path": "phones/oneplus-13.html",
+  "specs": {
+   "Launch Year": "2024 (announced 31 October 2024, released 1 November 2024)",
+   "Network": "GSM / HSPA / LTE / 5G",
+   "Body": "162.9 x 76.5 x 8.5 mm or 8.9 mm, 210 g or 213 g; glass front (Ceramic Guard), glass back or silicone polymer back (eco leather), aluminum frame; Nano-SIM + Nano-SIM + eSIM; IP68/IP69 dust tight and water resistant",
+   "Display": "LTPO 4.1 AMOLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 1600 nits (HBM), 4500 nits (peak); 6.82 inches; 1440 x 3168 pixels (~510 ppi); Ceramic Guard glass protection",
+   "Chipset": "Qualcomm Snapdragon 8 Elite (3 nm); CPU octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); GPU Adreno 830",
+   "RAM": "12 GB / 16 GB / 24 GB",
+   "Storage": "256 GB / 512 GB / 1 TB (UFS 4.0); no card slot",
+   "Main Camera": "50 MP f/1.6 wide (multi-directional PDAF, OIS) + 50 MP f/2.6 periscope telephoto (PDAF, OIS, 3x optical zoom) + 50 MP f/2.0 120° ultrawide (PDAF); Laser focus, Hasselblad Color Calibration, Dual-LED flash, HDR, panorama; video 8K@30fps, 4K@30/60fps, Dolby Vision",
+   "Selfie Camera": "32 MP f/2.4 wide; HDR, panorama; video 4K@30/60fps, gyro-EIS",
+   "Battery": "Si/C Li-Ion 6000 mAh",
+   "Charging": "100W wired (50% in 13 min, 100% in 36 min); 50W wireless; 10W reverse wireless; 5W reverse wired",
+   "Operating System": "Android 15, OxygenOS 16 (International) (up to 4 major OS updates)",
+   "Sensors/Features": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; infrared port; Wi-Fi 7; Bluetooth 5.4; USB Type-C 3.2",
+   "Colors": "Black Eclipse, Arctic Dawn, Midnight Ocean"
+  }
+ },
+ {
+  "slug": "apple-ipad-mini-7",
+  "name": "Apple iPad mini (2024)",
+  "brand": "Apple",
+  "cat": "Tablets",
+  "price": 596,
+  "price_pkr": 165000,
+  "path": "tablets/apple-ipad-mini-7.html",
+  "specs": {
+   "Launch Year": "2024 (announced 15 October 2024, released 23 October 2024)",
+   "Network": "GSM / HSPA / LTE / 5G",
+   "Body": "195.4 x 134.8 x 6.3 mm, 293 g (Wi-Fi) / 297 g (Wi-Fi + Cellular); glass front, aluminum back, aluminum frame; eSIM (cellular model only); stylus support",
+   "Display": "Liquid Retina IPS LCD, 500 nits (typ); 8.3 inches; 1488 x 2266 pixels (~327 ppi)",
+   "Chipset": "Apple A17 Pro (3 nm); CPU hexa-core (2x3.78 GHz performance cores + 4 efficiency cores); GPU Apple 5-core graphics",
+   "RAM": "8 GB",
+   "Storage": "128 GB / 256 GB / 512 GB; no card slot",
+   "Main Camera": "12 MP f/1.8 wide (AF); Quad-LED dual-tone flash, HDR, panorama; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, gyro-EIS",
+   "Selfie Camera": "12 MP f/2.4 122° ultrawide; HDR; video 1080p@25/30/60fps, gyro-EIS",
+   "Battery": "Li-Ion 5078 mAh (19.3 Wh)",
+   "Charging": "Wired charging via USB Type-C",
+   "Operating System": "iPadOS 18, upgradable to iPadOS 27.2",
+   "Sensors/Features": "Fingerprint (top-mounted), accelerometer, gyro, compass, barometer; stereo speakers; Wi-Fi 6e; Bluetooth 5.3; USB Type-C 3.1 Gen2, DisplayPort",
+   "Colors": "Space Gray, Blue, Purple, Starlight"
+  }
+ },
+ {
+  "slug": "samsung-galaxy-tab-s10-fe",
+  "name": "Samsung Galaxy Tab S10 FE",
+  "brand": "Samsung",
+  "cat": "Tablets",
+  "price": 489,
+  "price_pkr": 135240,
+  "path": "tablets/samsung-galaxy-tab-s10-fe.html",
+  "specs": {
+   "Launch Year": "2025 (announced 2 April 2025, released 3 April 2025)",
+   "Network": "GSM / HSPA / LTE / 5G",
+   "Body": "254.3 x 165.8 x 6.0 mm, 497 g or 500 g; glass front, aluminum back, aluminum frame; Nano-SIM + eSIM (cellular model only); IP68 dust tight and water resistant; stylus support",
+   "Display": "IPS LCD, 90Hz; 10.9 inches; 1440 x 2304 pixels (~249 ppi)",
+   "Chipset": "Exynos 1580 (4 nm); CPU octa-core (1x2.9 GHz Cortex-A720 & 3x2.6 GHz Cortex-A720 & 4x1.9 GHz Cortex-A520); GPU Xclipse 540",
+   "RAM": "8 GB / 12 GB",
+   "Storage": "128 GB / 256 GB; microSDXC (dedicated slot)",
+   "Main Camera": "13 MP f/2.0 wide; video 4K@30fps, 1080p@30fps",
+   "Selfie Camera": "12 MP f/2.4 ultrawide; video 4K@30fps, 1080p@30fps",
+   "Battery": "Li-Po 8000 mAh",
+   "Charging": "45W wired, QC2.0",
+   "Operating System": "Android 15, One UI (upgradable to Android 16)",
+   "Sensors/Features": "Fingerprint (side-mounted), accelerometer, gyro, compass; stereo speakers; Wi-Fi 6e; Bluetooth 5.3; USB Type-C 2.0",
+   "Colors": "Silver, Gray, Blue"
+  }
+ },
+ {
+  "slug": "xiaomi-pad-7",
+  "name": "Xiaomi Pad 7",
+  "brand": "Xiaomi",
+  "cat": "Tablets",
+  "price": 452,
+  "price_pkr": 124999,
+  "path": "tablets/xiaomi-pad-7.html",
+  "specs": {
+   "Launch Year": "2024 (announced 29 October 2024, released 29 October 2024)",
+   "Network": "No cellular connectivity (Wi-Fi only)",
+   "Body": "251.2 x 173.4 x 6.2 mm, 500 g; glass front, aluminum frame, aluminum back; no SIM; stylus support (magnetic)",
+   "Display": "IPS LCD, 144Hz, HDR10, Dolby Vision, 800 nits; 11.2 inches; 2136 x 3200 pixels (~344 ppi)",
+   "Chipset": "Qualcomm Snapdragon 7+ Gen 3 (4 nm); CPU octa-core (1x2.8 GHz Cortex-X4 & 4x2.6 GHz Cortex-A720 & 3x1.9 GHz Cortex-A520); GPU Adreno 732",
+   "RAM": "8 GB / 12 GB",
+   "Storage": "128 GB / 256 GB (UFS 3.1 / UFS 4.0); no card slot",
+   "Main Camera": "13 MP f/2.2 wide (PDAF); LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60fps",
+   "Selfie Camera": "8 MP f/2.3 wide; HDR; video 1080p@30fps",
+   "Battery": "8850 mAh",
+   "Charging": "45W wired, PD3.0, QC3+ (100% in 1h 20 min)",
+   "Operating System": "Android 15, HyperOS 2 (up to 4 major OS updates)",
+   "Sensors/Features": "Accelerometer, gyro, proximity, compass; quad stereo speakers; Hi-Res audio; Wi-Fi 6e; Bluetooth 5.4; infrared port; USB Type-C 3.2",
+   "Colors": "Black, Blue, Green"
+  }
+ },
+ {
+  "slug": "nokia-235-4g",
+  "name": "Nokia 235 4G",
+  "brand": "Nokia",
+  "cat": "Keypad Phones",
+  "price": 27,
+  "price_pkr": 7400,
+  "path": "keypad/nokia-235-4g.html",
+  "specs": {
+   "Launch Year": "2024 (announced 30 April 2024, released May 2024)",
+   "Network": "GSM / HSPA / LTE",
+   "Body": "127.3 x 54.2 x 11.6 mm; Nano-SIM + Nano-SIM",
+   "Display": "TFT LCD; 2.8 inches; 240 x 320 pixels (~143 ppi)",
+   "Chipset": "Unisoc T107 (22 nm); CPU 1.0 GHz Cortex-A7",
+   "RAM": "64 MB",
+   "Storage": "128 MB; microSDHC slot",
+   "Main Camera": "2 MP; LED flash; video recording",
+   "Selfie Camera": "No selfie camera",
+   "Battery": "Li-Ion 1450 mAh, removable",
+   "Charging": "Wired charging via USB Type-C",
+   "Operating System": "Series 30+",
+   "Sensors/Features": "Wireless FM radio; MP3 player; Cloud Apps portal; Bluetooth 5.0; 3.5mm headphone jack; USB Type-C; no Wi-Fi",
+   "Colors": "Black, Blue, Purple"
   }
  }
 ]

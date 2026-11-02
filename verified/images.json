@@ -142,5 +142,107 @@
       "color": "Green",
       "file": "img/iphone-13/green.jpg"
     }
+  ],
+  "iphone-17-pro-max": [
+    {
+      "color": "Silver",
+      "file": "img/iphone-17-pro-max/silver.jpg"
+    },
+    {
+      "color": "Cosmic Orange",
+      "file": "img/iphone-17-pro-max/cosmic-orange.jpg"
+    },
+    {
+      "color": "Deep Blue",
+      "file": "img/iphone-17-pro-max/deep-blue.jpg"
+    }
+  ],
+  "samsung-galaxy-s25": [
+    {
+      "color": "Icy Blue",
+      "file": "img/samsung-galaxy-s25/icy-blue.jpg"
+    },
+    {
+      "color": "Mint",
+      "file": "img/samsung-galaxy-s25/mint.jpg"
+    },
+    {
+      "color": "Navy",
+      "file": "img/samsung-galaxy-s25/navy.jpg"
+    },
+    {
+      "color": "Silver Shadow",
+      "file": "img/samsung-galaxy-s25/silver-shadow.jpg"
+    },
+    {
+      "color": "Pink Gold",
+      "file": "img/samsung-galaxy-s25/pink-gold.jpg"
+    },
+    {
+      "color": "Coral Red",
+      "file": "img/samsung-galaxy-s25/coral-red.jpg"
+    },
+    {
+      "color": "Blue Black",
+      "file": "img/samsung-galaxy-s25/blue-black.jpg"
+    }
+  ],
+  "iphone-15": [
+    {
+      "color": "Black",
+      "file": "img/iphone-15/black.jpg"
+    },
+    {
+      "color": "Blue",
+      "file": "img/iphone-15/blue.jpg"
+    },
+    {
+      "color": "Green",
+      "file": "img/iphone-15/green.jpg"
+    },
+    {
+      "color": "Yellow",
+      "file": "img/iphone-15/yellow.jpg"
+    },
+    {
+      "color": "Pink",
+      "file": "img/iphone-15/pink.jpg"
+    }
+  ],
+  "samsung-galaxy-a56": [
+    {
+      "color": "Pink",
+      "file": "img/samsung-galaxy-a56/pink.jpg"
+    },
+    {
+      "color": "Olive",
+      "file": "img/samsung-galaxy-a56/olive.jpg"
+    },
+    {
+      "color": "Graphite",
+      "file": "img/samsung-galaxy-a56/graphite.jpg"
+    },
+    {
+      "color": "Lightgray",
+      "file": "img/samsung-galaxy-a56/lightgray.jpg"
+    }
+  ],
+  "vivo-v50": [
+    {
+      "color": "Ancora Red (Rose Red)",
+      "file": "img/vivo-v50/ancora-red.jpg"
+    },
+    {
+      "color": "Satin Black (Titanium Grey)",
+      "file": "img/vivo-v50/satin-black.jpg"
+    },
+    {
+      "color": "Starry Blue (Starry Night)",
+      "file": "img/vivo-v50/starry-blue.jpg"
+    },
+    {
+      "color": "Mist Purple",
+      "file": "img/vivo-v50/mist-purple.jpg"
+    }
   ]
 }

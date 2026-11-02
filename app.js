@@ -1,7 +1,8 @@
 
 async function loadPhones(){const r=await fetch('phones.json');return r.json()}
-function pkr(n){return '$'+n.toLocaleString('en-US')}
+function pkr(p){return '$'+p.price.toLocaleString('en-US')+' · Rs '+p.price_pkr.toLocaleString('en-PK')}
 function doSearch(q){q=(q||'').toLowerCase();document.querySelectorAll('.card').forEach(c=>{c.style.display=c.dataset.name.includes(q)?'':'none'})}
+document.addEventListener('click',e=>{const b=e.target.closest('.tabbtn');if(!b)return;document.querySelectorAll('.tabbtn').forEach(x=>x.classList.toggle('active',x===b));document.querySelectorAll('.tpanel').forEach(p=>p.classList.toggle('on',p.id===b.dataset.t))});
 async function initCompare(){
  const selA=document.getElementById('selA'),selB=document.getElementById('selB');if(!selA)return;
  const brandA=document.getElementById('brandA'),brandB=document.getElementById('brandB');
@@ -18,9 +19,9 @@ async function initCompare(){
  brandA.onchange=()=>{fillModels(selA,brandA.value);render()};
  brandB.onchange=()=>{fillModels(selB,brandB.value);render()};
  function render(){const a=phones.find(p=>p.slug===selA.value),b=phones.find(p=>p.slug===selB.value);if(!a||!b)return;
-  const keys=['Price (USD)','Brand','Category'];
+  const keys=['Price','Brand','Category'];
   [a,b].forEach(p=>Object.keys(p.specs).forEach(k=>{if(!keys.includes(k))keys.push(k)}));
-  const val=(p,k)=>k==='Price (USD)'?pkr(p.price):k==='Brand'?p.brand:k==='Category'?p.cat:(p.specs[k]||'-');
+  const val=(p,k)=>k==='Price'?pkr(p):k==='Brand'?p.brand:k==='Category'?p.cat:(p.specs[k]||'-');
   document.getElementById('cmp').innerHTML=keys.map(k=>{const va=val(a,k),vb=val(b,k);return `<tr class="${va!==vb?'diff':''}"><th>${k}</th><td>${va}</td><td>${vb}</td></tr>`}).join('');
   document.getElementById('cmpHead').innerHTML=`<tr><th></th><th>${a.name}</th><th>${b.name}</th></tr>`;}
  selA.onchange=render;selB.onchange=render;render();}

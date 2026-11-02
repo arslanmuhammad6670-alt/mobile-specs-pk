@@ -1,0 +1,876 @@
+{
+  "vivo-v30": {
+    "source": "https://www.gsmarena.com/vivo_v30-12818.php",
+    "rows": [
+      [
+        "Launch Year",
+        "2024"
+      ],
+      [
+        "Network",
+        "GSM / HSPA / LTE / 5G"
+      ],
+      [
+        "Body",
+        "164.4 x 75.1 x 7.5 mm, 186 g; Glass front, plastic frame, glass back; Nano-SIM + Nano-SIM; IP54 dust and splash resistant"
+      ],
+      [
+        "Display",
+        "AMOLED, 1B colors, 120Hz, HDR10+, 6.78 inches, 1260 x 2800 pixels, Schott Alpha protection"
+      ],
+      [
+        "Chipset",
+        "Qualcomm Snapdragon 7 Gen 3 (4 nm); CPU Octa-core (1x2.63 GHz Cortex-A715 & 3x2.4 GHz Cortex-A715 & 4x1.8 GHz Cortex-A510); GPU Adreno 720"
+      ],
+      [
+        "RAM",
+        "8 / 12 GB"
+      ],
+      [
+        "Storage",
+        "128 / 256 / 512 GB"
+      ],
+      [
+        "Main Camera",
+        "50 MP wide (OIS) + 50 MP ultrawide + 2 MP (market dependent); Video 4K@30fps"
+      ],
+      [
+        "Selfie Camera",
+        "50 MP (autofocus); Video 4K@30fps"
+      ],
+      [
+        "Battery",
+        "5000 mAh"
+      ],
+      [
+        "Charging",
+        "80W wired"
+      ],
+      [
+        "Operating System",
+        "Android 14, Funtouch 14"
+      ],
+      [
+        "Sensors/Features",
+        "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+      ],
+      [
+        "Colors",
+        "Bloom White, Waving Aqua, Lush Green, Noble Black"
+      ]
+    ],
+    "changes": [
+      "Storage: 256 GB -> 128 / 256 / 512 GB",
+      "Main Camera: 50MP wide (OIS) + 50MP ultrawide -> 50MP wide (OIS) + 50MP ultrawide + 2MP (market dependent) — entry omitted the third 2MP module",
+      "Display: 2800x1260 -> 1260 x 2800 (resolution order corrected); display is AMOLED with 1B colors, HDR10+, Schott Alpha protection",
+      "Colors: Peacock Green, Andaman Blue, Lush Green -> Bloom White, Waving Aqua, Lush Green, Noble Black (GSMArena global color names; entry used regional names)"
+    ]
+  },
+  "vivo-y28": {
+    "source": "https://www.gsmarena.com/vivo_y28_4g-13201.php",
+    "rows": [
+      [
+        "Launch Year",
+        "2024"
+      ],
+      [
+        "Network",
+        "GSM / HSPA / LTE"
+      ],
+      [
+        "Body",
+        "165.7 x 76 x 8.0 mm, 199 g; Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM; IP64; notification LED ring on back"
+      ],
+      [
+        "Display",
+        "IPS LCD, 90Hz, 6.68 inches, 720 x 1608 pixels"
+      ],
+      [
+        "Chipset",
+        "MediaTek Helio G85 (12 nm); CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MC2"
+      ],
+      [
+        "RAM",
+        "4 / 6 / 8 GB"
+      ],
+      [
+        "Storage",
+        "128 / 256 GB, microSDXC"
+      ],
+      [
+        "Main Camera",
+        "50 MP wide + auxiliary lens; Video 1080p@30fps"
+      ],
+      [
+        "Selfie Camera",
+        "8 MP"
+      ],
+      [
+        "Battery",
+        "6000 mAh"
+      ],
+      [
+        "Charging",
+        "44W wired"
+      ],
+      [
+        "Operating System",
+        "Android 14, Funtouch 14 (upgradable to Android 15, Funtouch 15)"
+      ],
+      [
+        "Sensors/Features",
+        "Fingerprint (side-mounted), accelerometer, proximity, compass; stereo speakers, 3.5mm jack, FM radio; No NFC"
+      ],
+      [
+        "Colors",
+        "Agate Green, Gleaming Orange"
+      ]
+    ],
+    "changes": [
+      "RAM: 8 GB -> 4 / 6 / 8 GB",
+      "Main Camera: 50MP wide + 2MP depth -> 50MP wide + auxiliary lens (GSMArena lists an auxiliary lens, not a 2MP depth camera)",
+      "Display: 1608x720 -> 720 x 1608 (resolution order corrected)",
+      "Model identity confirmed: entry matches the vivo Y28 4G (Helio G85) — a different Y28 5G with Dimensity 6020 also exists"
+    ]
+  },
+  "vivo-y18": {
+    "source": "https://www.gsmarena.com/vivo_y18-13129.php",
+    "rows": [
+      [
+        "Launch Year",
+        "2024"
+      ],
+      [
+        "Network",
+        "GSM / HSPA / LTE"
+      ],
+      [
+        "Body",
+        "163.6 x 75.6 x 8.4 mm, 185 g; Nano-SIM + Nano-SIM; IP54 dust and splash resistant"
+      ],
+      [
+        "Display",
+        "IPS LCD, 90Hz, 6.56 inches, 720 x 1612 pixels, 840 nits (HBM)"
+      ],
+      [
+        "Chipset",
+        "MediaTek Helio G85 (12 nm); CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MC2"
+      ],
+      [
+        "RAM",
+        "4 / 6 / 8 GB"
+      ],
+      [
+        "Storage",
+        "64 / 128 / 256 GB, microSDXC"
+      ],
+      [
+        "Main Camera",
+        "50 MP wide + auxiliary lens; Video 1080p@30fps"
+      ],
+      [
+        "Selfie Camera",
+        "8 MP"
+      ],
+      [
+        "Battery",
+        "5000 mAh"
+      ],
+      [
+        "Charging",
+        "15W wired"
+      ],
+      [
+        "Operating System",
+        "Android 14, Funtouch 14"
+      ],
+      [
+        "Sensors/Features",
+        "Fingerprint (side-mounted), accelerometer, proximity, compass; 3.5mm jack"
+      ],
+      [
+        "Colors",
+        "Mocha Brown, Wave Aqua"
+      ]
+    ],
+    "changes": [
+      "Selfie Camera: 5MP -> 8MP",
+      "Weight: 199 g -> 185 g",
+      "Main Camera: 50MP wide + 0.08MP -> 50MP wide + auxiliary lens (single 50MP camera; there is no 0.08MP module)",
+      "RAM: 4 / 6 GB -> 4 / 6 / 8 GB",
+      "Storage: 64 / 128 GB -> 64 / 128 / 256 GB",
+      "Display: 1612x720 -> 720 x 1612 (resolution order corrected)"
+    ]
+  },
+  "oppo-reno-11": {
+    "source": "https://m.gsmarena.com/compare.php3?idPhone1=12790&idPhone2=12791 (GSMArena compare page, Oppo Reno11 global column, model CPH2599; cross-checked against Oppo official global specs)",
+    "rows": [
+      [
+        "Launch Year",
+        "2024 (announced 2024, January 12; released 2024, January 25) — GLOBAL variant"
+      ],
+      [
+        "Network",
+        "GSM / HSPA / LTE / 5G"
+      ],
+      [
+        "Body",
+        "162.4 x 74.3 x 7.9 mm or 8.0 mm, 182 g; Nano-SIM + Nano-SIM"
+      ],
+      [
+        "Display",
+        "AMOLED, 1B colors, 120Hz, HDR10+, 6.7 inches, 1080 x 2412 pixels, Asahi Glass AGC DT-Star2 protection, 800 nits (HBM), 950 nits (peak)"
+      ],
+      [
+        "Chipset",
+        "MediaTek Dimensity 7050 (6 nm); CPU Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU Mali-G68 MC4"
+      ],
+      [
+        "RAM",
+        "8 / 12 GB"
+      ],
+      [
+        "Storage",
+        "128 / 256 GB (UFS 2.2), microSDXC"
+      ],
+      [
+        "Main Camera",
+        "50 MP wide (PDAF, OIS) + 32 MP telephoto (2x optical zoom) + 8 MP ultrawide; Video 4K@30fps, gyro-EIS"
+      ],
+      [
+        "Selfie Camera",
+        "32 MP; Video 4K@30fps"
+      ],
+      [
+        "Battery",
+        "5000 mAh"
+      ],
+      [
+        "Charging",
+        "67W wired (100% in 45 min), reverse wired"
+      ],
+      [
+        "Operating System",
+        "Android 14, ColorOS 14"
+      ],
+      [
+        "Sensors/Features",
+        "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers, NFC, infrared port"
+      ],
+      [
+        "Colors",
+        "Wave Green, Rock Grey"
+      ]
+    ],
+    "changes": [
+      "Chipset: Dimensity 8200 -> Dimensity 7050 (6 nm) — BIG: the Dimensity 8200 is the CHINA variant; the global/Pakistan variant (CPH2599) matching this entry's 5000 mAh battery and Wave Green/Rock Grey colors uses Dimensity 7050. NOTE: the task brief's parenthetical (Dimensity 8200 global vs Snapdragon 778G China) does not match GSMArena — GSMArena shows China = Dimensity 8200, global = Dimensity 7050, and no Snapdragon 778G Reno11; GSMArena + Oppo official global specs both confirm Dimensity 7050 for the global model",
+      "Storage: 256 GB -> 128 / 256 GB",
+      "Colors: Rock Gray -> Rock Grey (GSMArena spelling)",
+      "Display: 2412x1080 -> 1080 x 2412 (resolution order corrected)"
+    ]
+  },
+  "oppo-a58": {
+    "source": "https://m.gsmarena.com/oppo_a58_4g-12436.php",
+    "rows": [
+      [
+        "Launch Year",
+        "2023"
+      ],
+      [
+        "Network",
+        "GSM / HSPA / LTE"
+      ],
+      [
+        "Body",
+        "165.7 x 76 x 8.0 mm, 192 g; Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+      ],
+      [
+        "Display",
+        "IPS LCD, 6.72 inches, 1080 x 2400 pixels, 550 nits (typ), 680 nits (HBM)"
+      ],
+      [
+        "Chipset",
+        "MediaTek Helio G85 (12 nm); CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MC2"
+      ],
+      [
+        "RAM",
+        "6 / 8 GB"
+      ],
+      [
+        "Storage",
+        "128 / 256 GB (eMMC 5.1), microSDXC"
+      ],
+      [
+        "Main Camera",
+        "50 MP wide (AF) + auxiliary lens; Video 1080p@30fps"
+      ],
+      [
+        "Selfie Camera",
+        "8 MP; Video 1080p@30fps"
+      ],
+      [
+        "Battery",
+        "5000 mAh"
+      ],
+      [
+        "Charging",
+        "33W wired (56% in 30 min)"
+      ],
+      [
+        "Operating System",
+        "Android 13, ColorOS 13.1 (GSMArena: upgradable to Android 15, ColorOS 15)"
+      ],
+      [
+        "Sensors/Features",
+        "Fingerprint (side-mounted), accelerometer, proximity, compass; stereo speakers, 3.5mm jack, NFC, infrared port"
+      ],
+      [
+        "Colors",
+        "Glowing Black, Dazzling Green"
+      ]
+    ],
+    "changes": [
+      "Storage: 128 GB -> 128 / 256 GB",
+      "Main Camera: 50MP wide + 2MP depth -> 50MP wide + auxiliary lens (GSMArena lists an auxiliary lens, not a 2MP depth camera)",
+      "Display: 6.72\" IPS LCD, 60Hz, 2400x1080 -> 6.72\" IPS LCD, 1080 x 2400 (GSMArena lists no refresh rate for this panel; resolution order corrected)",
+      "Model identity confirmed: this is the Oppo A58 4G (2023, Helio G85, model CPH2577) — a different 2022 China A58 5G with Dimensity 700 also exists"
+    ]
+  },
+  "realme-12-plus": {
+    "source": "https://www.gsmarena.com/realme_12+-12821.php",
+    "rows": [
+      [
+        "Launch Year",
+        "2024"
+      ],
+      [
+        "Network",
+        "GSM / HSPA / LTE / 5G"
+      ],
+      [
+        "Body",
+        "163 x 75.5 x 7.9 mm, 190 g; Glass front, silicone polymer back (eco leather), plastic frame; Nano-SIM + Nano-SIM; IP54 dust and splash resistant"
+      ],
+      [
+        "Display",
+        "AMOLED, 120Hz, HDR10+, 6.67 inches, 1080 x 2400 pixels, 600 nits (typ), 2000 nits (peak)"
+      ],
+      [
+        "Chipset",
+        "MediaTek Dimensity 7050 (6 nm); CPU Octa-core (2x2.6 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU Mali-G68 MC4"
+      ],
+      [
+        "RAM",
+        "6 / 8 / 12 GB"
+      ],
+      [
+        "Storage",
+        "128 / 256 / 512 GB, microSDXC (uses shared SIM slot)"
+      ],
+      [
+        "Main Camera",
+        "50 MP wide (PDAF, OIS) + 8 MP ultrawide + 2 MP macro; Video 4K@30fps, gyro-EIS"
+      ],
+      [
+        "Selfie Camera",
+        "16 MP; Video 1080p@30fps"
+      ],
+      [
+        "Battery",
+        "5000 mAh"
+      ],
+      [
+        "Charging",
+        "67W wired (50% in 19 min)"
+      ],
+      [
+        "Operating System",
+        "Android 14, Realme UI 5.0"
+      ],
+      [
+        "Sensors/Features",
+        "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers, 3.5mm jack, Hi-Res audio, NFC (market/region dependent)"
+      ],
+      [
+        "Colors",
+        "Pioneer Green, Navigator Beige"
+      ]
+    ],
+    "changes": [
+      "RAM: 8 / 12 GB -> 6 / 8 / 12 GB (a 256GB variant with 6GB RAM exists)",
+      "Storage: 256 GB -> 128 / 256 / 512 GB",
+      "Display: 2400x1080 -> 1080 x 2400 (resolution order corrected)"
+    ]
+  },
+  "realme-c65": {
+    "source": "https://www.gsmarena.com/realme_c65-12908.php",
+    "rows": [
+      [
+        "Launch Year",
+        "2024"
+      ],
+      [
+        "Network",
+        "GSM / HSPA / LTE"
+      ],
+      [
+        "Body",
+        "164.6 x 76.1 x 7.6 mm, 185 g; Nano-SIM + Nano-SIM; IP54 dust and splash resistant"
+      ],
+      [
+        "Display",
+        "IPS LCD, 90Hz, 6.67 inches, 720 x 1604 pixels, 500 nits (typ), 625 nits (HBM)"
+      ],
+      [
+        "Chipset",
+        "MediaTek Helio G85 (12 nm); CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MC2"
+      ],
+      [
+        "RAM",
+        "6 / 8 GB"
+      ],
+      [
+        "Storage",
+        "128 / 256 GB, microSDXC (dedicated slot)"
+      ],
+      [
+        "Main Camera",
+        "50 MP wide (PDAF) + auxiliary lens; Video 1080p@30fps"
+      ],
+      [
+        "Selfie Camera",
+        "8 MP; Video 1080p@30fps"
+      ],
+      [
+        "Battery",
+        "5000 mAh"
+      ],
+      [
+        "Charging",
+        "45W wired"
+      ],
+      [
+        "Operating System",
+        "Android 14, Realme UI 5.0"
+      ],
+      [
+        "Sensors/Features",
+        "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass; 3.5mm jack, NFC"
+      ],
+      [
+        "Colors",
+        "Purple Nebula, Black Milky Way"
+      ]
+    ],
+    "changes": [
+      "Main Camera: 50MP wide -> 50MP wide (PDAF) + auxiliary lens (second module is an auxiliary lens)",
+      "Display: 1604x720 -> 720 x 1604 (resolution order corrected)",
+      "Model identity confirmed: this is the Realme C65 4G (Helio G85, model RMX3910) — a separate C65 5G with Dimensity 6300 also exists"
+    ]
+  },
+  "honor-x9b": {
+    "source": "https://www.gsmarena.com/honor_x9b-12629.php",
+    "rows": [
+      [
+        "Launch Year",
+        "2023"
+      ],
+      [
+        "Network",
+        "GSM / HSPA / LTE / 5G"
+      ],
+      [
+        "Body",
+        "163.6 x 75.5 x 8 mm, 185 g; Nano-SIM + Nano-SIM; IP53 dust and splash resistant (market/region dependent)"
+      ],
+      [
+        "Display",
+        "AMOLED, 1B colors, 120Hz, 6.78 inches, 1220 x 2652 pixels, 1200 nits (peak)"
+      ],
+      [
+        "Chipset",
+        "Qualcomm Snapdragon 6 Gen 1 (4 nm); CPU Octa-core (4x2.2 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55); GPU Adreno 710"
+      ],
+      [
+        "RAM",
+        "8 / 12 GB"
+      ],
+      [
+        "Storage",
+        "256 / 512 GB (UFS 3.1, market/region dependent), no card slot"
+      ],
+      [
+        "Main Camera",
+        "108 MP wide (PDAF) + 5 MP ultrawide + 2 MP macro; Video 4K@30fps"
+      ],
+      [
+        "Selfie Camera",
+        "16 MP; Video 1080p@30fps"
+      ],
+      [
+        "Battery",
+        "5800 mAh"
+      ],
+      [
+        "Charging",
+        "35W wired, reverse wired"
+      ],
+      [
+        "Operating System",
+        "Android 13, Magic OS 7.2"
+      ],
+      [
+        "Sensors/Features",
+        "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; NFC (market/region dependent), infrared port, no 3.5mm jack"
+      ],
+      [
+        "Colors",
+        "Sunrise Orange, Midnight Black, Emerald Green"
+      ]
+    ],
+    "changes": [
+      "Display: 2652x1200 -> 1220 x 2652 (entry had the wrong width — 1200 instead of 1220 — and reversed order)",
+      "RAM: 12 GB -> 8 / 12 GB",
+      "Storage: 256 GB -> 256 / 512 GB",
+      "Colors: Sunrise Gold -> Sunrise Orange (GSMArena color name; also full list is Sunrise Orange, Midnight Black, Emerald Green)"
+    ]
+  },
+  "honor-x7b": {
+    "source": "https://m.gsmarena.com/honor_x7b-12721.php",
+    "rows": [
+      [
+        "Launch Year",
+        "2023"
+      ],
+      [
+        "Network",
+        "GSM / HSPA / LTE"
+      ],
+      [
+        "Body",
+        "166.7 x 76.5 x 8.2 mm, 199 g; Nano-SIM + Nano-SIM"
+      ],
+      [
+        "Display",
+        "IPS LCD, 90Hz, 6.8 inches, 1080 x 2412 pixels, 850 nits (peak)"
+      ],
+      [
+        "Chipset",
+        "Qualcomm Snapdragon 680 4G (6 nm); CPU Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver); GPU Adreno 610"
+      ],
+      [
+        "RAM",
+        "6 / 8 / 12 GB"
+      ],
+      [
+        "Storage",
+        "128 / 256 GB, microSDXC"
+      ],
+      [
+        "Main Camera",
+        "108 MP wide (PDAF) + 5 MP ultrawide + auxiliary lens; Video 1080p@30fps"
+      ],
+      [
+        "Selfie Camera",
+        "8 MP; Video 1080p@30fps"
+      ],
+      [
+        "Battery",
+        "6000 mAh (ROW version; Europe/LATAM version is 5330 mAh)"
+      ],
+      [
+        "Charging",
+        "35W wired"
+      ],
+      [
+        "Operating System",
+        "Android 13, MagicOS 7.2 (GSMArena: upgradable to Android 14, MagicOS 8)"
+      ],
+      [
+        "Sensors/Features",
+        "Fingerprint (side-mounted), accelerometer, virtual proximity sensing; stereo speakers, 3.5mm jack, Hi-Res audio, NFC (CLK-LX1 only)"
+      ],
+      [
+        "Colors",
+        "Flowing Silver, Emerald Green, Midnight Black"
+      ]
+    ],
+    "changes": [
+      "Main Camera: 108MP wide + 5MP ultrawide + 2MP depth -> 108MP wide + 5MP ultrawide + auxiliary lens (third module is an auxiliary lens, not a 2MP depth camera)",
+      "RAM: 8 GB -> 6 / 8 / 12 GB",
+      "Storage: 256 GB -> 128 / 256 GB",
+      "Display: 2412x1080 -> 1080 x 2412 (resolution order corrected)",
+      "Battery note: the 6,000 mAh figure is the ROW version sold in Pakistan; the Europe/LATAM version has 5,330 mAh",
+      "Model identity confirmed: this is the Honor X7b 4G (Snapdragon 680) — a separate X7b 5G with Dimensity 6020 also exists"
+    ]
+  },
+  "oneplus-12": {
+    "source": "https://m.gsmarena.com/oneplus_12-12725.php",
+    "rows": [
+      [
+        "Launch Year",
+        "2023 (announced 2023, December 05; released 2023, December 11 in China; global launch January 2024)"
+      ],
+      [
+        "Network",
+        "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G"
+      ],
+      [
+        "Body",
+        "164.3 x 75.8 x 9.2 mm, 220 g; Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass), aluminum frame; Nano-SIM + Nano-SIM (eSIM variants exist); IP65"
+      ],
+      [
+        "Display",
+        "LTPO AMOLED, 1B colors, 120Hz, Dolby Vision, HDR10+, 6.82 inches, 1440 x 3168 pixels, Gorilla Glass Victus 2, 1600 nits (HBM), 4500 nits (peak)"
+      ],
+      [
+        "Chipset",
+        "Qualcomm Snapdragon 8 Gen 3 (4 nm); CPU Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520); GPU Adreno 750"
+      ],
+      [
+        "RAM",
+        "12 / 16 / 24 GB"
+      ],
+      [
+        "Storage",
+        "256 / 512 GB / 1 TB (UFS 4.0), no card slot"
+      ],
+      [
+        "Main Camera",
+        "50 MP Hasselblad wide (PDAF, OIS) + 64 MP periscope telephoto (3x optical zoom, OIS) + 48 MP ultrawide; Video 8K@24fps, 4K@30/60fps"
+      ],
+      [
+        "Selfie Camera",
+        "32 MP; Video 4K@30fps"
+      ],
+      [
+        "Battery",
+        "5400 mAh"
+      ],
+      [
+        "Charging",
+        "100W wired (International; 80W in USA), 50W wireless, 10W reverse wireless"
+      ],
+      [
+        "Operating System",
+        "Android 14, OxygenOS 14 (International) / ColorOS 14 (China) at launch"
+      ],
+      [
+        "Sensors/Features",
+        "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers, NFC, infrared port, USB Type-C 3.2"
+      ],
+      [
+        "Colors",
+        "Flowy Emerald, Silky Black, Silver (Glacial White)"
+      ]
+    ],
+    "changes": [
+      "Launch Year: 2024 -> 2023 (announced and released December 2023 in China; global rollout followed in January 2024)",
+      "RAM: 12 / 16 GB -> 12 / 16 / 24 GB (24GB exists on the China 1TB variant)",
+      "Storage: 256 / 512 GB -> 256 / 512 GB / 1 TB",
+      "Colors: Silky Black, Flowy Emerald -> Flowy Emerald, Silky Black, Silver (Glacial White) (third color added by GSMArena)",
+      "Display: 3168x1440 -> 1440 x 3168 (resolution order corrected)"
+    ]
+  },
+  "google-pixel-8": {
+    "source": "https://m.gsmarena.com/google_pixel_8-12546.php",
+    "rows": [
+      [
+        "Launch Year",
+        "2023"
+      ],
+      [
+        "Network",
+        "GSM / HSPA / LTE / 5G"
+      ],
+      [
+        "Body",
+        "150.5 x 70.8 x 8.9 mm, 187 g; Glass front (Gorilla Glass Victus), glass back (Gorilla Glass Victus), aluminum frame; Nano-SIM + eSIM; IP68"
+      ],
+      [
+        "Display",
+        "OLED, 120Hz, HDR10+, 6.2 inches, 1080 x 2400 pixels, Gorilla Glass Victus, 1400 nits (HBM), 2000 nits (peak)"
+      ],
+      [
+        "Chipset",
+        "Google Tensor G3 (4 nm); CPU Nona-core (1x2.91 GHz Cortex-X3 & 4x2.37 GHz Cortex-A715 & 4x1.70 GHz Cortex-A510); GPU Mali-G715 MP7 (per GSMArena specs page)"
+      ],
+      [
+        "RAM",
+        "8 GB"
+      ],
+      [
+        "Storage",
+        "128 / 256 GB (UFS 3.1), no card slot"
+      ],
+      [
+        "Main Camera",
+        "50 MP wide (PDAF, OIS, Laser AF) + 12 MP ultrawide (AF); Video 4K@24/30/60fps"
+      ],
+      [
+        "Selfie Camera",
+        "10.5 MP; Video 4K@24/30/60fps"
+      ],
+      [
+        "Battery",
+        "4575 mAh"
+      ],
+      [
+        "Charging",
+        "27W wired, 18W wireless, reverse wireless"
+      ],
+      [
+        "Operating System",
+        "Android 14 (up to 7 major OS updates)"
+      ],
+      [
+        "Sensors/Features",
+        "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer; stereo speakers, NFC, USB Type-C 3.2"
+      ],
+      [
+        "Colors",
+        "Obsidian, Hazel, Rose, Mint"
+      ]
+    ],
+    "changes": [
+      "Charging: 27W wired, wireless charging -> 27W wired, 18W wireless, reverse wireless (wireless speed specified)",
+      "Colors: Hazel, Obsidian, Rose -> Obsidian, Hazel, Rose, Mint (Mint added by GSMArena)",
+      "Display: 2400x1080 -> 1080 x 2400 (resolution order corrected)",
+      "GPU note: GSMArena's specs page lists the GPU as Mali-G715 MP7, while GSMArena's own review lists Immortalis-G715s MC10 — an internal GSMArena discrepancy; the specs-page value is used in the rows"
+    ]
+  },
+  "google-pixel-8-pro": {
+    "source": "https://fo.gsmarena.com/google_pixel_8_pro-12545.php",
+    "rows": [
+      [
+        "Launch Year",
+        "2023"
+      ],
+      [
+        "Network",
+        "GSM / HSPA / LTE / 5G"
+      ],
+      [
+        "Body",
+        "162.6 x 76.5 x 8.8 mm, 213 g; Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM; IP68"
+      ],
+      [
+        "Display",
+        "LTPO OLED, 120Hz, HDR10+, 6.7 inches, 1344 x 2992 pixels, Gorilla Glass Victus 2, 1600 nits (HBM), 2400 nits (peak)"
+      ],
+      [
+        "Chipset",
+        "Google Tensor G3 (4 nm); CPU Nona-core (1x2.91 GHz Cortex-X3 & 4x2.37 GHz Cortex-A715 & 4x1.70 GHz Cortex-A510); GPU Mali-G715 MP7 (per GSMArena specs page)"
+      ],
+      [
+        "RAM",
+        "12 GB"
+      ],
+      [
+        "Storage",
+        "128 / 256 / 512 GB / 1 TB (UFS 3.1), no card slot"
+      ],
+      [
+        "Main Camera",
+        "50 MP wide (PDAF, OIS, multi-zone Laser AF) + 48 MP periscope telephoto (5x optical zoom, OIS) + 48 MP ultrawide; Video 4K@30/60fps"
+      ],
+      [
+        "Selfie Camera",
+        "10.5 MP (PDAF); Video 4K@30/60fps"
+      ],
+      [
+        "Battery",
+        "5050 mAh"
+      ],
+      [
+        "Charging",
+        "30W wired, 23W wireless, reverse wireless"
+      ],
+      [
+        "Operating System",
+        "Android 14 (up to 7 major OS updates)"
+      ],
+      [
+        "Sensors/Features",
+        "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer, thermometer (skin temperature); Ultra Wideband (UWB) support"
+      ],
+      [
+        "Colors",
+        "Obsidian, Porcelain, Bay, Mint"
+      ]
+    ],
+    "changes": [
+      "Display: 3120x1440 -> 1344 x 2992 — WRONG resolution in entry (1440 x 3120 was the older Pixel 6 Pro/7 Pro class panel; the Pixel 8 Pro is 1344 x 2992)",
+      "Storage: 128 / 256 / 512 GB -> 128 / 256 / 512 GB / 1 TB",
+      "Charging: 30W wired, wireless charging -> 30W wired, 23W wireless, reverse wireless (wireless speed specified)",
+      "Colors: Bay, Porcelain, Obsidian -> Obsidian, Porcelain, Bay, Mint (Mint added by GSMArena)",
+      "GPU note: GSMArena's specs page lists the GPU as Mali-G715 MP7, while GSMArena's own review lists Immortalis-G715s MC10 — an internal GSMArena discrepancy; the specs-page value is used in the rows"
+    ]
+  },
+  "nothing-phone-2": {
+    "source": "https://www.gsmarena.com/nothing_phone_(2)-12386.php",
+    "rows": [
+      [
+        "Launch Year",
+        "2023"
+      ],
+      [
+        "Network",
+        "GSM / HSPA / LTE / 5G"
+      ],
+      [
+        "Body",
+        "162.1 x 76.4 x 8.6 mm, 201.2 g; Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame; Nano-SIM + Nano-SIM; IP54; Glyph interface (11 LED strips, 33 addressable zones)"
+      ],
+      [
+        "Display",
+        "LTPO OLED, 1B colors, 120Hz, HDR10+, 6.7 inches, 1080 x 2412 pixels, Gorilla Glass 5, 1600 nits (peak)"
+      ],
+      [
+        "Chipset",
+        "Qualcomm Snapdragon 8+ Gen 1 (4 nm); CPU Octa-core (1x3.0 GHz Cortex-X2 & 3x2.5 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510); GPU Adreno 730"
+      ],
+      [
+        "RAM",
+        "8 / 12 GB"
+      ],
+      [
+        "Storage",
+        "128 / 256 / 512 GB, no card slot"
+      ],
+      [
+        "Main Camera",
+        "50 MP wide (PDAF, OIS) + 50 MP ultrawide (AF); Video 4K@30/60fps"
+      ],
+      [
+        "Selfie Camera",
+        "32 MP; Video 1080p@30fps"
+      ],
+      [
+        "Battery",
+        "4700 mAh"
+      ],
+      [
+        "Charging",
+        "45W wired, 15W wireless, 5W reverse wireless"
+      ],
+      [
+        "Operating System",
+        "Android 13, Nothing OS 2 (at launch; upgradable to Android 15, Nothing OS 3.0)"
+      ],
+      [
+        "Sensors/Features",
+        "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers, NFC, Snapdragon Sound"
+      ],
+      [
+        "Colors",
+        "White, Dark Gray"
+      ]
+    ],
+    "changes": [
+      "Weight: 237 g -> 201.2 g — BIG error in entry (overstated by ~36 g)",
+      "Charging: 45W wired, 15W wireless -> 45W wired, 15W wireless, 5W reverse wireless (reverse wireless added)",
+      "Display: 2412x1080 -> 1080 x 2412 (resolution order corrected)"
+    ]
+  }
+}

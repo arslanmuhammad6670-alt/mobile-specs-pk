@@ -1,0 +1,476 @@
+[
+{
+"brand": "Apple",
+"cat": "Laptops",
+"hl": [
+"13.3\" Retina Display",
+"Apple M1",
+"8 GB RAM",
+"49.9 Wh battery"
+],
+"name": "Apple MacBook Air M1 (2020)",
+"price": 275999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2020 (announced 10 November 2020, released 17 November 2020)"
+],
+[
+"Display",
+"Retina display; 13.3-inch LED-backlit with IPS technology; 2560 x 1600 pixels at 227 ppi; 400 nits brightness; Wide color (P3); True Tone"
+],
+[
+"Chipset",
+"Apple M1; CPU 8-core (4 performance + 4 efficiency cores); GPU 7-core (configurable to 8-core); 16-core Neural Engine"
+],
+[
+"RAM",
+"8 GB unified memory; configurable to 16 GB"
+],
+[
+"Storage",
+"256 GB SSD; configurable to 512 GB, 1 TB or 2 TB"
+],
+[
+"Battery",
+"49.9 Wh lithium-polymer; up to 15 hours wireless web; up to 18 hours Apple TV app movie playback"
+],
+[
+"Charging",
+"30W USB-C Power Adapter; USB-C charge cable (2 m)"
+],
+[
+"Body",
+"0.41-1.61 x 30.41 x 21.24 cm; 1.29 kg; aluminum enclosure"
+],
+[
+"Ports",
+"2x Thunderbolt / USB 4 ports (Thunderbolt 3 up to 40Gb/s, USB 4 up to 40Gb/s); 3.5 mm headphone jack"
+],
+[
+"Camera",
+"720p FaceTime HD camera"
+],
+[
+"Audio/Speakers",
+"Stereo speakers; wide stereo sound; Dolby Atmos playback; three-mic array with directional beamforming"
+],
+[
+"Wi-Fi",
+"Wi-Fi 6 (802.11ax)"
+],
+[
+"Bluetooth",
+"Bluetooth 5.0"
+],
+[
+"Colors",
+"Gold, Silver, Space Gray"
+],
+[
+"OS",
+"macOS Big Sur (at launch)"
+]
+],
+"slug": "apple-macbook-air-m1",
+"source": "https://support.apple.com/en-us/111883",
+"tag": "M1 chip wala pehla MacBook Air — fan ke baghair bhi tez aur khamosh",
+"year": 2020
+},
+{
+"brand": "Apple",
+"cat": "Laptops",
+"hl": [
+"13.6\" Liquid Retina",
+"Apple M2",
+"8 GB RAM",
+"52.6 Wh battery"
+],
+"name": "Apple MacBook Air 13 (M2, 2022)",
+"price": 331999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2022 (announced 6 June 2022, released 15 July 2022)"
+],
+[
+"Display",
+"Liquid Retina display; 13.6-inch LED-backlit with IPS technology; 2560 x 1664 pixels at 224 ppi; 500 nits brightness; 1 billion colors; Wide color (P3); True Tone"
+],
+[
+"Chipset",
+"Apple M2; CPU 8-core (4 performance + 4 efficiency cores); GPU 8-core (configurable to 10-core); 16-core Neural Engine; 100GB/s memory bandwidth"
+],
+[
+"RAM",
+"8 GB unified memory; configurable to 16 GB or 24 GB"
+],
+[
+"Storage",
+"256 GB SSD; configurable to 512 GB, 1 TB or 2 TB"
+],
+[
+"Battery",
+"52.6 Wh lithium-polymer; up to 18 hours Apple TV app movie playback; up to 15 hours wireless web"
+],
+[
+"Charging",
+"30W USB-C Power Adapter (8-core GPU) or 35W Dual USB-C Port Compact Adapter (10-core GPU); MagSafe 3; fast-charge capable with 70W adapter"
+],
+[
+"Body",
+"1.13 x 30.41 x 21.5 cm; 1.24 kg; aluminum enclosure"
+],
+[
+"Ports",
+"MagSafe 3 charging port; 2x Thunderbolt / USB 4 ports (Thunderbolt 3 up to 40Gb/s, USB 4 up to 40Gb/s); 3.5 mm headphone jack with advanced support for high-impedance headphones"
+],
+[
+"Camera",
+"1080p FaceTime HD camera"
+],
+[
+"Audio/Speakers",
+"Four-speaker sound system; wide stereo sound; Spatial Audio with Dolby Atmos; three-mic array with directional beamforming"
+],
+[
+"Wi-Fi",
+"Wi-Fi 6 (802.11ax)"
+],
+[
+"Bluetooth",
+"Bluetooth 5.3"
+],
+[
+"Colors",
+"Silver, Starlight, Space Gray, Midnight"
+],
+[
+"OS",
+"macOS Monterey (at launch)"
+]
+],
+"slug": "apple-macbook-air-m2-13",
+"source": "https://support.apple.com/en-us/111867",
+"tag": "Naya patla design, MagSafe wapas aur M2 ki tez performance",
+"year": 2022
+},
+{
+"brand": "Apple",
+"cat": "Laptops",
+"hl": [
+"15.3\" Liquid Retina",
+"Apple M2",
+"8 GB RAM",
+"66.5 Wh battery"
+],
+"name": "Apple MacBook Air 15 (M2, 2023)",
+"price": 358999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2023 (announced 5 June 2023, released 13 June 2023)"
+],
+[
+"Display",
+"Liquid Retina display; 15.3-inch LED-backlit with IPS technology; 2880 x 1864 pixels at 224 ppi; 500 nits brightness; 1 billion colors; Wide color (P3); True Tone"
+],
+[
+"Chipset",
+"Apple M2; CPU 8-core (4 performance + 4 efficiency cores); GPU 10-core; 16-core Neural Engine; 100GB/s memory bandwidth"
+],
+[
+"RAM",
+"8 GB unified memory; configurable to 16 GB or 24 GB"
+],
+[
+"Storage",
+"256 GB SSD; configurable to 512 GB, 1 TB or 2 TB"
+],
+[
+"Battery",
+"66.5 Wh lithium-polymer; up to 18 hours Apple TV app movie playback; up to 15 hours wireless web"
+],
+[
+"Charging",
+"35W Dual USB-C Port Compact Power Adapter; MagSafe 3; fast-charge capable with 70W adapter"
+],
+[
+"Body",
+"1.15 x 34.04 x 23.76 cm; 1.51 kg; aluminum enclosure"
+],
+[
+"Ports",
+"MagSafe 3 charging port; 2x Thunderbolt / USB 4 ports (Thunderbolt 3 up to 40Gb/s, USB 4 up to 40Gb/s); 3.5 mm headphone jack with advanced support for high-impedance headphones"
+],
+[
+"Camera",
+"1080p FaceTime HD camera"
+],
+[
+"Audio/Speakers",
+"Six-speaker sound system with force-cancelling woofers; wide stereo sound; Spatial Audio with Dolby Atmos; three-mic array with directional beamforming"
+],
+[
+"Wi-Fi",
+"Wi-Fi 6 (802.11ax)"
+],
+[
+"Bluetooth",
+"Bluetooth 5.3"
+],
+[
+"Colors",
+"Silver, Starlight, Space Gray, Midnight"
+],
+[
+"OS",
+"macOS Ventura (at launch)"
+]
+],
+"slug": "apple-macbook-air-m2-15",
+"source": "https://support.apple.com/en-ph/111346",
+"tag": "Sab se patla 15-inch laptop — bari screen, halka wazan",
+"year": 2023
+},
+{
+"brand": "Apple",
+"cat": "Laptops",
+"hl": [
+"15.3\" Liquid Retina",
+"Apple M3",
+"8 GB RAM",
+"66.5 Wh battery"
+],
+"name": "Apple MacBook Air 15 (M3, 2024)",
+"price": 358999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 4 March 2024, released 8 March 2024)"
+],
+[
+"Display",
+"Liquid Retina display; 15.3-inch LED-backlit with IPS technology; 2880 x 1864 pixels at 224 ppi; 500 nits brightness; 1 billion colors; Wide color (P3); True Tone"
+],
+[
+"Chipset",
+"Apple M3; CPU 8-core (4 performance + 4 efficiency cores); GPU 10-core; hardware-accelerated ray tracing; 16-core Neural Engine; 100GB/s memory bandwidth"
+],
+[
+"RAM",
+"8 GB unified memory; configurable to 16 GB or 24 GB"
+],
+[
+"Storage",
+"256 GB SSD; configurable to 512 GB, 1 TB or 2 TB"
+],
+[
+"Battery",
+"66.5 Wh lithium-polymer; up to 18 hours Apple TV app movie playback; up to 15 hours wireless web"
+],
+[
+"Charging",
+"35W Dual USB-C Port Compact Power Adapter; MagSafe 3; fast-charge capable with 70W adapter"
+],
+[
+"Body",
+"1.15 x 34.04 x 23.76 cm; 1.51 kg; aluminum enclosure"
+],
+[
+"Ports",
+"MagSafe 3 charging port; 2x Thunderbolt / USB 4 ports (Thunderbolt 3 up to 40Gb/s, USB 4 up to 40Gb/s); 3.5 mm headphone jack with advanced support for high-impedance headphones"
+],
+[
+"Camera",
+"1080p FaceTime HD camera"
+],
+[
+"Audio/Speakers",
+"Six-speaker sound system with force-cancelling woofers; wide stereo sound; Spatial Audio with Dolby Atmos; three-mic array with directional beamforming"
+],
+[
+"Wi-Fi",
+"Wi-Fi 6E (802.11ax)"
+],
+[
+"Bluetooth",
+"Bluetooth 5.3"
+],
+[
+"Colors",
+"Silver, Starlight, Space Gray, Midnight"
+],
+[
+"OS",
+"macOS Sonoma (at launch)"
+]
+],
+"slug": "apple-macbook-air-m3-15",
+"source": "https://support.apple.com/en-in/118552",
+"tag": "Bari 15.3-inch screen aur M3 power — halka phulka laptop",
+"year": 2024
+},
+{
+"brand": "Apple",
+"cat": "Laptops",
+"hl": [
+"14.2\" Liquid Retina XDR 120Hz",
+"Apple M4",
+"16 GB RAM",
+"72.4 Wh battery"
+],
+"name": "Apple MacBook Pro 14 (M4, 2024)",
+"price": 441999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 30 October 2024, released 8 November 2024)"
+],
+[
+"Display",
+"Liquid Retina XDR display; 14.2-inch; 3024 x 1964 pixels at 254 ppi; 1000 nits sustained XDR brightness, 1600 nits peak; up to 1000 nits SDR outdoors; ProMotion up to 120Hz; 1 billion colors; Wide color (P3); True Tone; nano-texture display option"
+],
+[
+"Chipset",
+"Apple M4; CPU 10-core (4 performance + 6 efficiency cores); GPU 10-core; hardware-accelerated ray tracing; 16-core Neural Engine; 120GB/s memory bandwidth"
+],
+[
+"RAM",
+"16 GB unified memory; configurable to 24 GB or 32 GB"
+],
+[
+"Storage",
+"512 GB SSD; configurable to 1 TB or 2 TB"
+],
+[
+"Battery",
+"72.4 Wh lithium-polymer; up to 24 hours video streaming; up to 16 hours wireless web"
+],
+[
+"Charging",
+"70W USB-C Power Adapter; MagSafe 3; fast-charge capable with 96W adapter"
+],
+[
+"Body",
+"1.55 x 31.26 x 22.12 cm; 1.55 kg; aluminum enclosure"
+],
+[
+"Ports",
+"3x Thunderbolt 4 (USB-C) ports (up to 40Gb/s); HDMI port; SDXC card slot; MagSafe 3 port; 3.5 mm headphone jack with advanced support for high-impedance headphones"
+],
+[
+"Camera",
+"12MP Center Stage camera with support for Desk View; 1080p HD video recording"
+],
+[
+"Audio/Speakers",
+"High-fidelity six-speaker sound system with force-cancelling woofers; wide stereo sound; Spatial Audio with Dolby Atmos; studio-quality three-mic array"
+],
+[
+"Wi-Fi",
+"Wi-Fi 6E (802.11ax)"
+],
+[
+"Bluetooth",
+"Bluetooth 5.3"
+],
+[
+"Colors",
+"Space Black, Silver"
+],
+[
+"OS",
+"macOS Sequoia (at launch)"
+]
+],
+"slug": "apple-macbook-pro-14-m4",
+"source": "https://support.apple.com/en-lk/121552",
+"tag": "M4 chip, 24 ghantay battery — pro laptop ka naya benchmark",
+"year": 2024
+},
+{
+"brand": "Apple",
+"cat": "Laptops",
+"hl": [
+"14.2\" Liquid Retina XDR 120Hz",
+"Apple M4 Pro",
+"24 GB RAM",
+"72.4 Wh battery"
+],
+"name": "Apple MacBook Pro 14 (M4 Pro, 2024)",
+"price": 552999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 30 October 2024, released 8 November 2024)"
+],
+[
+"Display",
+"Liquid Retina XDR display; 14.2-inch; 3024 x 1964 pixels at 254 ppi; 1000 nits sustained XDR brightness, 1600 nits peak; up to 1000 nits SDR outdoors; ProMotion up to 120Hz; 1 billion colors; Wide color (P3); True Tone; nano-texture display option"
+],
+[
+"Chipset",
+"Apple M4 Pro; CPU 12-core (8 performance + 4 efficiency cores), configurable to 14-core (10 performance + 4 efficiency cores); GPU 16-core (configurable to 20-core); 16-core Neural Engine; 273GB/s memory bandwidth"
+],
+[
+"RAM",
+"24 GB unified memory; configurable to 48 GB"
+],
+[
+"Storage",
+"512 GB SSD; configurable to 1 TB, 2 TB or 4 TB"
+],
+[
+"Battery",
+"72.4 Wh lithium-polymer; up to 22 hours video streaming; up to 14 hours wireless web"
+],
+[
+"Charging",
+"70W USB-C Power Adapter (12-core CPU) or 96W USB-C Power Adapter (14-core CPU); MagSafe 3; fast-charge capable"
+],
+[
+"Body",
+"1.55 x 31.26 x 22.12 cm; 1.60 kg; aluminum enclosure"
+],
+[
+"Ports",
+"3x Thunderbolt 5 (USB-C) ports (up to 120Gb/s); HDMI port; SDXC card slot; MagSafe 3 port; 3.5 mm headphone jack with advanced support for high-impedance headphones"
+],
+[
+"Camera",
+"12MP Center Stage camera with support for Desk View; 1080p HD video recording"
+],
+[
+"Audio/Speakers",
+"High-fidelity six-speaker sound system with force-cancelling woofers; wide stereo sound; Spatial Audio with Dolby Atmos; studio-quality three-mic array"
+],
+[
+"Wi-Fi",
+"Wi-Fi 6E (802.11ax)"
+],
+[
+"Bluetooth",
+"Bluetooth 5.3"
+],
+[
+"Colors",
+"Space Black, Silver"
+],
+[
+"OS",
+"macOS Sequoia (at launch)"
+]
+],
+"slug": "apple-macbook-pro-14-m4-pro",
+"source": "https://support.apple.com/en-ke/121553",
+"tag": "Thunderbolt 5 aur M4 Pro — heavy kaam ke liye beast",
+"year": 2024
+}
+]

@@ -1,0 +1,752 @@
+[
+ {
+  "slug": "samsung-galaxy-s23-ultra",
+  "name": "Samsung Galaxy S23 Ultra",
+  "brand": "Samsung",
+  "price": 389999,
+  "price_src": "https://www.WhatMobile.com.pk/Samsung_Galaxy-S23-Ultra",
+  "year": 2023,
+  "cat": "Smartphones",
+  "tag": "200MP camera aur S Pen wala Samsung ka flagship king",
+  "hl": [
+   "6.8\" Dynamic AMOLED 2X 120Hz",
+   "Snapdragon 8 Gen 2",
+   "8/12 GB RAM",
+   "5000 mAh"
+  ],
+  "source": "https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2023 (announced 1 February 2023, released 17 February 2023)"
+   ],
+   [
+    "Network",
+    "5G (GSM / CDMA / HSPA / EVDO / LTE / 5G)"
+   ],
+   [
+    "Body",
+    "163.4 x 78.1 x 8.9 mm, 234 g; glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM / Nano-SIM + Nano-SIM; IP68 dust and water resistant; S Pen stylus"
+   ],
+   [
+    "Display",
+    "Dynamic AMOLED 2X, 120Hz, HDR10+, 1750 nits peak; 6.8 inches; 1440 x 3088 pixels; Corning Gorilla Glass Victus 2 protection"
+   ],
+   [
+    "Chipset",
+    "Qualcomm Snapdragon 8 Gen 2 (4 nm); CPU octa-core; GPU Adreno 740"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB (UFS 4.0); no card slot"
+   ],
+   [
+    "Main Camera",
+    "200 MP f/1.7 wide (OIS) + 10 MP f/2.4 3x telephoto (OIS) + 10 MP f/4.9 10x periscope telephoto (OIS) + 12 MP f/2.2 120° ultrawide; video 8K@24/30fps, 4K@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP f/2.2 (dual pixel PDAF); video 4K@30/60fps"
+   ],
+   [
+    "Battery",
+    "5000 mAh (Li-Ion)"
+   ],
+   [
+    "Charging",
+    "45W wired (PD3.0, 65% in 30 min); 15W wireless (Qi); 4.5W reverse wireless"
+   ],
+   [
+    "Operating System",
+    "Android 13, One UI 5.1 (up to 4 major OS updates)"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; UWB; Samsung DeX; USB Type-C 3.2"
+   ],
+   [
+    "Colors",
+    "Phantom Black, Green, Cream, Lavender, Graphite, Sky Blue, Lime, Red"
+   ]
+  ]
+ },
+ {
+  "slug": "samsung-galaxy-a54",
+  "name": "Samsung Galaxy A54",
+  "brand": "Samsung",
+  "price": 140999,
+  "price_src": "https://www.whatmobile.com.pk/Samsung_Galaxy-A54",
+  "year": 2023,
+  "cat": "Smartphones",
+  "tag": "IP67 protection aur OIS camera wala A-series ka star",
+  "hl": [
+   "6.4\" Super AMOLED 120Hz",
+   "Exynos 1380",
+   "6/8 GB RAM",
+   "5000 mAh"
+  ],
+  "source": "https://www.gsmarena.com/samsung_galaxy_a54-12070.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2023 (announced 15 March 2023, released 24 March 2023)"
+   ],
+   [
+    "Network",
+    "5G (GSM / HSPA / LTE / 5G)"
+   ],
+   [
+    "Body",
+    "158.2 x 76.7 x 8.2 mm, 202 g; glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), plastic frame; Nano-SIM + eSIM / Nano-SIM + Nano-SIM; IP67 dust and water resistant"
+   ],
+   [
+    "Display",
+    "Super AMOLED, 120Hz, HDR10+, 1000 nits (HBM); 6.4 inches; 1080 x 2340 pixels; Corning Gorilla Glass 5 protection"
+   ],
+   [
+    "Chipset",
+    "Exynos 1380 (5 nm); CPU octa-core; GPU Mali-G68 MP5"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP f/1.8 wide (OIS) + 12 MP f/2.2 123° ultrawide + 5 MP macro; video 4K@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP f/2.2; video 4K@30fps"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Operating System",
+    "Android 13, One UI 5.1 (up to 4 major OS updates)"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC (market dependent); USB Type-C 2.0"
+   ],
+   [
+    "Colors",
+    "Lime, Graphite, Violet, White"
+   ]
+  ]
+ },
+ {
+  "slug": "samsung-galaxy-a34",
+  "name": "Samsung Galaxy A34",
+  "brand": "Samsung",
+  "price": 109999,
+  "price_src": "https://www.WhatMobile.com.pk/Samsung_Android_Mobiles_Prices_in_Pakistan",
+  "year": 2023,
+  "cat": "Smartphones",
+  "tag": "120Hz AMOLED aur Dimensity 1080 wala mazboot mid-range",
+  "hl": [
+   "6.6\" Super AMOLED 120Hz",
+   "Dimensity 1080",
+   "6/8 GB RAM",
+   "5000 mAh"
+  ],
+  "source": "https://www.gsmarena.com/samsung_galaxy_a34-12074.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2023 (announced 14 March 2023, released 24 March 2023)"
+   ],
+   [
+    "Network",
+    "5G (GSM / HSPA / LTE / 5G)"
+   ],
+   [
+    "Body",
+    "161.3 x 78.1 x 8.2 mm, 199 g; glass front (Gorilla Glass 5), plastic frame, plastic back; Nano-SIM + Nano-SIM; IP67 dust and water resistant"
+   ],
+   [
+    "Display",
+    "Super AMOLED, 120Hz, 1000 nits (HBM); 6.6 inches; 1080 x 2340 pixels; Corning Gorilla Glass 5 protection"
+   ],
+   [
+    "Chipset",
+    "MediaTek Dimensity 1080 (6 nm); CPU octa-core; GPU Mali-G68 MC4"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "48 MP f/1.8 wide (OIS) + 8 MP f/2.2 123° ultrawide + 5 MP macro; video 4K@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP f/2.2; video 4K@30fps"
+   ],
+   [
+    "Battery",
+    "5000 mAh (Li-Ion)"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Operating System",
+    "Android 13, One UI 5.1 (up to 4 major OS updates)"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC (market dependent); USB Type-C 2.0"
+   ],
+   [
+    "Colors",
+    "Lime, Graphite, Violet, Silver"
+   ]
+  ]
+ },
+ {
+  "slug": "apple-iphone-14-pro-max",
+  "name": "Apple iPhone 14 Pro Max",
+  "brand": "Apple",
+  "price": 565999,
+  "price_src": "https://www.WhatMobile.com.pk/Apple_iPhone-14-Pro-Max",
+  "year": 2022,
+  "cat": "Smartphones",
+  "tag": "Dynamic Island aur 48MP camera wala Apple flagship",
+  "hl": [
+   "6.7\" LTPO Super Retina XDR OLED 120Hz",
+   "Apple A16 Bionic",
+   "6 GB RAM",
+   "4323 mAh"
+  ],
+  "source": "https://www.gsmarena.com/apple_iphone_14_pro_max-11773.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2022 (announced 7 September 2022, released 16 September 2022)"
+   ],
+   [
+    "Network",
+    "5G (GSM / CDMA / HSPA / EVDO / LTE / 5G)"
+   ],
+   [
+    "Body",
+    "160.7 x 77.6 x 7.9 mm, 240 g; glass front, glass back, stainless steel frame; Nano-SIM + eSIM; IP68 dust and water resistant (up to 6m for 30 min)"
+   ],
+   [
+    "Display",
+    "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 2000 nits (HBM); 6.7 inches; 1290 x 2796 pixels; Ceramic Shield glass; Always-On display, Dynamic Island"
+   ],
+   [
+    "Chipset",
+    "Apple A16 Bionic (4 nm); CPU hexa-core; GPU Apple GPU (5-core graphics)"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB / 1 TB (NVMe); no card slot"
+   ],
+   [
+    "Main Camera",
+    "48 MP f/1.8 wide (sensor-shift OIS) + 12 MP f/2.8 3x telephoto (OIS) + 12 MP f/2.2 120° ultrawide + TOF 3D LiDAR scanner; video 4K@24/25/30/60fps, ProRes, Dolby Vision HDR"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP f/1.9 (PDAF, OIS) + SL 3D depth sensor; video 4K@24/25/30/60fps"
+   ],
+   [
+    "Battery",
+    "4323 mAh (Li-Ion)"
+   ],
+   [
+    "Charging",
+    "Wired PD2.0 (50% in 30 min); 15W wireless (MagSafe); 15W wireless (Qi2)"
+   ],
+   [
+    "Operating System",
+    "iOS 16"
+   ],
+   [
+    "Sensors/Features",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; UWB; Emergency SOS via satellite; Lightning, USB 2.0"
+   ],
+   [
+    "Colors",
+    "Space Black, Silver, Gold, Deep Purple"
+   ]
+  ]
+ },
+ {
+  "slug": "iphone-12",
+  "name": "iPhone 12",
+  "brand": "Apple",
+  "price": 175599,
+  "price_src": "https://www.whatmobile.com.pk/Apple_iPhone-12",
+  "year": 2020,
+  "cat": "Smartphones",
+  "tag": "5G aur OLED screen ke sath Apple ka mashhoor model",
+  "hl": [
+   "6.1\" Super Retina XDR OLED",
+   "Apple A14 Bionic",
+   "4 GB RAM",
+   "2815 mAh"
+  ],
+  "source": "https://www.gsmarena.com/apple_iphone_12-10509.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2020 (announced 13 October 2020, released 23 October 2020)"
+   ],
+   [
+    "Network",
+    "5G (GSM / CDMA / HSPA / EVDO / LTE / 5G)"
+   ],
+   [
+    "Body",
+    "146.7 x 71.5 x 7.4 mm, 164 g; glass front, glass back, aluminum frame; Nano-SIM + eSIM; IP68 dust and water resistant (up to 6m for 30 min)"
+   ],
+   [
+    "Display",
+    "Super Retina XDR OLED, HDR10, Dolby Vision, 1200 nits peak; 6.1 inches; 1170 x 2532 pixels; Ceramic Shield glass"
+   ],
+   [
+    "Chipset",
+    "Apple A14 Bionic (5 nm); CPU hexa-core; GPU Apple GPU (4-core graphics)"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB / 256 GB (NVMe); no card slot"
+   ],
+   [
+    "Main Camera",
+    "12 MP f/1.6 wide (OIS) + 12 MP f/2.4 120° ultrawide; video 4K@24/25/30/60fps, Dolby Vision HDR"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP f/2.2 + SL 3D depth sensor; video 4K@24/25/30/60fps"
+   ],
+   [
+    "Battery",
+    "2815 mAh (Li-Ion)"
+   ],
+   [
+    "Charging",
+    "Wired PD2.0 (50% in 30 min); 15W wireless (MagSafe); 15W wireless (Qi2)"
+   ],
+   [
+    "Operating System",
+    "iOS 14.1"
+   ],
+   [
+    "Sensors/Features",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; UWB; MagSafe; Lightning, USB 2.0"
+   ],
+   [
+    "Colors",
+    "Black, White, Red, Green, Blue, Purple"
+   ]
+  ]
+ },
+ {
+  "slug": "iphone-11",
+  "name": "iPhone 11",
+  "brand": "Apple",
+  "price": 144899,
+  "price_src": "https://m.whatmobile.com.pk/Apple_iPhone-11",
+  "year": 2019,
+  "cat": "Smartphones",
+  "tag": "Kam qeemat mein Apple experience — aaj bhi best seller",
+  "hl": [
+   "6.1\" Liquid Retina IPS LCD",
+   "Apple A13 Bionic",
+   "4 GB RAM",
+   "3110 mAh"
+  ],
+  "source": "https://www.gsmarena.com/apple_iphone_11-9848.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2019 (announced 10 September 2019, released 20 September 2019)"
+   ],
+   [
+    "Network",
+    "4G (GSM / CDMA / HSPA / EVDO / LTE)"
+   ],
+   [
+    "Body",
+    "150.9 x 75.7 x 8.3 mm, 194 g; glass front, glass back, aluminum frame (7000 series); Nano-SIM + eSIM; IP68 dust and water resistant (up to 2m for 30 min)"
+   ],
+   [
+    "Display",
+    "Liquid Retina IPS LCD, 625 nits (typ); 6.1 inches; 828 x 1792 pixels; scratch-resistant glass"
+   ],
+   [
+    "Chipset",
+    "Apple A13 Bionic (7 nm+); CPU hexa-core; GPU Apple GPU (4-core graphics)"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB / 256 GB (NVMe); no card slot"
+   ],
+   [
+    "Main Camera",
+    "12 MP f/1.8 wide (OIS) + 12 MP f/2.4 120° ultrawide; video 4K@24/25/30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP f/2.2 + SL 3D depth sensor; video 4K@24/25/30/60fps"
+   ],
+   [
+    "Battery",
+    "3110 mAh (Li-Ion)"
+   ],
+   [
+    "Charging",
+    "Wired PD2.0 (50% in 30 min); wireless (Qi)"
+   ],
+   [
+    "Operating System",
+    "iOS 13"
+   ],
+   [
+    "Sensors/Features",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; UWB; Lightning, USB 2.0"
+   ],
+   [
+    "Colors",
+    "Black, Green, Yellow, Purple, Red, White"
+   ]
+  ]
+ },
+ {
+  "slug": "redmi-note-12-pro-4g",
+  "name": "Redmi Note 12 Pro (4G)",
+  "brand": "Xiaomi",
+  "price": 89999,
+  "price_src": "https://www.whatmobile.com.pk/Xiaomi_Redmi-Note-12-Pro",
+  "year": 2023,
+  "cat": "Smartphones",
+  "tag": "108MP camera aur 67W turbo charging wala Note",
+  "hl": [
+   "6.67\" AMOLED 120Hz",
+   "Snapdragon 732G",
+   "6/8 GB RAM",
+   "5000 mAh"
+  ],
+  "source": "https://www.gsmarena.com/xiaomi_redmi_note_12_pro_4g-12209.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2023 (announced 3 March 2023, released 11 April 2023)"
+   ],
+   [
+    "Network",
+    "4G (GSM / HSPA / LTE)"
+   ],
+   [
+    "Body",
+    "164.2 x 76.1 x 8.1 mm, 201.8 g; Nano-SIM + Nano-SIM (hybrid dual stand-by)"
+   ],
+   [
+    "Display",
+    "AMOLED, 120Hz, Dolby Vision, 1100 nits peak; 6.67 inches; 1080 x 2400 pixels"
+   ],
+   [
+    "Chipset",
+    "Qualcomm Snapdragon 732G (8 nm); CPU octa-core; GPU Adreno 618"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB (UFS 2.2); microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "108 MP f/1.9 wide (PDAF) + 8 MP 120° ultrawide + 2 MP macro + auxiliary lens; video 4K@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP f/2.4; video 1080p@30fps"
+   ],
+   [
+    "Battery",
+    "5000 mAh (Li-Po)"
+   ],
+   [
+    "Charging",
+    "67W wired"
+   ],
+   [
+    "Operating System",
+    "Android 11, MIUI 13"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (side-mounted), accelerometer, gyro, compass; stereo speakers; 3.5mm jack; NFC (market dependent); infrared port; USB Type-C 2.0"
+   ],
+   [
+    "Colors",
+    "Star Blue, Graphite Gray, Polar White, Ice Blue"
+   ]
+  ]
+ },
+ {
+  "slug": "poco-x6",
+  "name": "Poco X6",
+  "brand": "Xiaomi",
+  "price": 114999,
+  "price_src": "approx",
+  "year": 2024,
+  "cat": "Smartphones",
+  "tag": "1.5K AMOLED aur Snapdragon 7s Gen 2 wala gaming mid-range",
+  "hl": [
+   "6.67\" AMOLED 120Hz 1.5K",
+   "Snapdragon 7s Gen 2",
+   "8/12 GB RAM",
+   "5100 mAh"
+  ],
+  "source": "https://www.gsmarena.com/xiaomi_poco_x6-12723.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 11 January 2024, released 12 January 2024)"
+   ],
+   [
+    "Network",
+    "5G (GSM / HSPA / LTE / 5G)"
+   ],
+   [
+    "Body",
+    "161.2 x 74.3 x 8.0 mm, 181 g; glass front (Gorilla Glass Victus), plastic frame, plastic back; Nano-SIM + Nano-SIM; IP54 dust and splash resistant"
+   ],
+   [
+    "Display",
+    "AMOLED, 68B colors, 120Hz, Dolby Vision, 1800 nits peak; 6.67 inches; 1220 x 2712 pixels; Corning Gorilla Glass Victus protection"
+   ],
+   [
+    "Chipset",
+    "Qualcomm Snapdragon 7s Gen 2 (4 nm); CPU octa-core; GPU Adreno 710"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB (UFS 2.2); no card slot"
+   ],
+   [
+    "Main Camera",
+    "64 MP f/1.8 wide (OIS) + 8 MP f/2.2 118° ultrawide + 2 MP macro; video 4K@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP f/2.5; video 1080p@30/60fps"
+   ],
+   [
+    "Battery",
+    "5100 mAh"
+   ],
+   [
+    "Charging",
+    "67W wired (100% in 44 min)"
+   ],
+   [
+    "Operating System",
+    "Android 13, HyperOS"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; dual speakers; 3.5mm jack; NFC (market dependent); infrared port; USB Type-C 2.0"
+   ],
+   [
+    "Colors",
+    "Black, White, Blue"
+   ]
+  ]
+ },
+ {
+  "slug": "infinix-hot-40",
+  "name": "Infinix Hot 40",
+  "brand": "Infinix",
+  "price": 37999,
+  "price_src": "https://www.WhatMobile.com.pk/Infinix_Hot-40",
+  "year": 2023,
+  "cat": "Smartphones",
+  "tag": "32MP selfie aur bari screen wala budget king",
+  "hl": [
+   "6.78\" IPS LCD 90Hz",
+   "Helio G88",
+   "8 GB RAM",
+   "5000 mAh"
+  ],
+  "source": "https://www.gsmarena.com/infinix_hot_40-12732.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2023 (announced 5 December 2023, released December 2023)"
+   ],
+   [
+    "Network",
+    "4G (GSM / HSPA / LTE)"
+   ],
+   [
+    "Body",
+    "168.6 x 76.6 x 8.3 mm, 196 g; glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 90Hz, 500 nits peak; 6.78 inches; 1080 x 2460 pixels"
+   ],
+   [
+    "Chipset",
+    "MediaTek Helio G88 (12 nm); CPU octa-core; GPU Mali-G52 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP f/1.6 wide (AF) + 2 MP macro + auxiliary lens; Quad-LED flash; video 1440p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP f/2.2; dual-LED flash; video 1080p@30fps"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "33W wired (20-75% in 35 min); reverse wired"
+   ],
+   [
+    "Operating System",
+    "Android 13, XOS 13.5"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass; stereo speakers; 3.5mm jack; FM radio; NFC; USB Type-C 2.0"
+   ],
+   [
+    "Colors",
+    "Palm Blue, Horizon Gold, Starlit Black, Starfall Green"
+   ]
+  ]
+ },
+ {
+  "slug": "tecno-spark-20-pro",
+  "name": "Tecno Spark 20 Pro",
+  "brand": "Tecno",
+  "price": 40999,
+  "price_src": "https://www.WhatMobile.com.pk/Tecno_Spark-20-Pro",
+  "year": 2023,
+  "cat": "Smartphones",
+  "tag": "108MP camera aur 120Hz screen kam qeemat mein",
+  "hl": [
+   "6.78\" IPS LCD 120Hz",
+   "Helio G99",
+   "8 GB RAM",
+   "5000 mAh"
+  ],
+  "source": "https://www.gsmarena.com/tecno_spark_20_pro-12747.php",
+  "rows": [
+   [
+    "Launch Year",
+    "2023 (announced 15 December 2023, released December 2023)"
+   ],
+   [
+    "Network",
+    "4G (GSM / HSPA / LTE)"
+   ],
+   [
+    "Body",
+    "168.6 x 76.6 x 8.4 mm; glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM; IP53 dust and splash resistant"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz; 6.78 inches; 1080 x 2460 pixels"
+   ],
+   [
+    "Chipset",
+    "MediaTek Helio G99 (6 nm); CPU octa-core; GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "256 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "108 MP f/1.8 wide (PDAF) + 2 MP macro; Quad-LED flash; video 1440p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP f/2.2; dual-LED flash; video 1080p@30fps"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "33W wired"
+   ],
+   [
+    "Operating System",
+    "Android 13"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass; stereo speakers; 3.5mm jack; FM radio; NFC; USB Type-C"
+   ],
+   [
+    "Colors",
+    "Moonlit Black, Frosty Ivory, Sunset Blush, Magic Skin 2.0 Green"
+   ]
+  ]
+ }
+]

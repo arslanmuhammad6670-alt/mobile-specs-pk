@@ -163,6 +163,17 @@ for _f in sorted(_g2.glob(os.path.join(os.path.dirname(os.path.abspath(__file__)
             EXPAND.append(_d)
 
 ALL = [phone_dev(r) for r in P] + DEVICES + EXPAND
+
+# ---- Price fixes (Phase 1, 2026-11-03): verified prices for released models
+# that arrived without one (PriceOye, else GSMArena price converted) ----
+_pf = os.path.join(os.path.dirname(os.path.abspath(__file__)), "verified", "prices-fix.json")
+if os.path.exists(_pf):
+    _fixes = json.load(open(_pf, encoding="utf-8"))
+    _n = 0
+    for _d in ALL:
+        if _d["slug"] in _fixes and _fixes[_d["slug"]] is not None:
+            _d["price"] = _fixes[_d["slug"]]; _n += 1
+    if _n: print(f"PRICE FIXES APPLIED: {_n}")
 for d in ALL:
     d["folder"] = CATFOLDER[d["cat"]]
     if not any(k == "Price in Pakistan" for k, _ in d["rows"]):
@@ -220,6 +231,54 @@ for d in ALL:
         if _k in _c and _k not in _have:
             d["rows"] = d["rows"] + [(_k, _c[_k])]
 print(f"COMMS ENRICHMENT APPLIED: {sum(1 for d in ALL if COMMS.get(d['slug']))}/{len(ALL)}")
+
+# ---- De-duplication (Phase 1 data accuracy, 2026-11-03): the same slug can
+# arrive from both the base list and an expansion pack. Keep ONE record per
+# slug — the richest spec table wins; ties break toward a priced record,
+# then toward one carrying a source URL.
+_best = {}
+for _d in ALL:
+    _k = _d["slug"]
+    _score = (len(_d["rows"]), 1 if _d.get("price") is not None else 0, 1 if _d.get("src") else 0)
+    if _k not in _best or _score > _best[_k][0]:
+        _best[_k] = (_score, _d)
+if len(_best) < len(ALL):
+    print(f"DEDUP: removed {len(ALL) - len(_best)} duplicate records")
+ALL = [_v[1] for _v in _best.values()]
+
+# Alias duplicates: the same phone can exist as "iphone-14" (base list) and
+# "apple-iphone-14" (expansion). When stripping a leading "apple-" yields an
+# existing slug for the same model name, drop the alias record.
+_slugs_now = {d["slug"] for d in ALL}
+_alias_drop = set()
+for _d in ALL:
+    _s = _d["slug"]
+    if _s.startswith("apple-iphone-") and _s[len("apple-"):] in _slugs_now:
+        _twin = next(x for x in ALL if x["slug"] == _s[len("apple-"):])
+        if _d["name"].replace("Apple ", "") == _twin["name"].replace("Apple ", ""):
+            _alias_drop.add(_s)
+if _alias_drop:
+    print(f"DEDUP ALIAS: removed {len(_alias_drop)} alias records: {sorted(_alias_drop)}")
+    ALL = [d for d in ALL if d["slug"] not in _alias_drop]
+
+# ---- Gap fixes (Phase 1): verified rows for fields a record is missing ----
+_gf = os.path.join(os.path.dirname(os.path.abspath(__file__)), "verified", "gaps-fix.json")
+if os.path.exists(_gf):
+    _gaps = json.load(open(_gf, encoding="utf-8"))
+    for _d in ALL:
+        if _d["slug"] in _gaps:
+            _have = {k for k, _ in _d["rows"]}
+            for _k, _v in _gaps[_d["slug"]]:
+                if _k not in _have:
+                    _d["rows"].append((_k, _v))
+
+# ---- FINAL price-row normalization (bug fix 2026-11-03): the specs table's
+# Price row must ALWAYS match the record's price (the same value the header,
+# title and JSON-LD use). Drop every inherited Price row, then append exactly
+# one correct row per device. ----
+for _d in ALL:
+    _d["rows"] = [(k, v) for k, v in _d["rows"] if k not in ("Price", "Price in Pakistan")]
+    _d["rows"] = _d["rows"] + [("Price", f"Rs {_d['price']:,} · ${usd(_d['price']):,}" if _d['price'] is not None else "Price not announced")]
 
 # ---- Flat single-table specs (user order 2026-11-02: ONE table, no big section headings,
 # small labels, every detail its own row — GSMArena style) ----
@@ -324,6 +383,11 @@ for d in ALL:
     d["images"] = IMAGES.get(d["slug"], [])
     _main = os.path.join(ROOT, "img", d["slug"], "main.jpg")
     d["hero"] = d["images"][0]["file"] if d["images"] else (f'img/{d["slug"]}/main.jpg' if os.path.exists(_main) else "")
+    _hw = d["hero"].rsplit(".", 1)[0] + ".webp" if d["hero"] else ""
+    d["hero_webp"] = _hw if _hw and os.path.exists(os.path.join(ROOT, _hw)) else ""
+    for _im in d["images"]:
+        _w = _im["file"].rsplit(".", 1)[0] + ".webp"
+        _im["webp"] = _w if os.path.exists(os.path.join(ROOT, _w)) else ""
 
 # ---- Model status (Continued / Discontinued) — verified/status*.json overrides win; default by year ----
 _status_over = {}
@@ -333,6 +397,10 @@ for d in ALL:
     d["status"] = _status_over.get(d["slug"], "Continued" if d["year"] >= 2024 else "Discontinued")
 
 def pkr(n): return "$" + f"{usd(n):,}" if n is not None else "Price not announced"
+def pkrtitle(n): return f"Rs {n:,} (${usd(n):,})" if n is not None else "Price not announced"
+def pic(src, webp, cls, alt, base="", lazy=True):
+    im = f'<img class="{cls}" src="{base}{src}" alt="{esc(alt)}"{" loading=\"lazy\"" if lazy else ""}>'
+    return f'<picture><source type="image/webp" srcset="{base}{webp}">{im}</picture>' if webp else im
 def dual(n): return f"<span class=\"prc\" data-pkr=\"{n}\"><b class=\"pkrv\">Rs {n:,}</b> <span class=\"usdv\">${usd(n):,}</span></span>" if n is not None else "<span class=\"usdv\">Price not announced</span>"
 def esc(s): return html.escape(str(s))
 BRANDS = sorted({d["brand"] for d in ALL})
@@ -430,13 +498,18 @@ th{width:30%;background:#eef3fb;color:#0b1e3f}
 h2{margin:26px 0 10px}footer{background:#081230;color:#cfe3da;padding:22px 16px;font-size:13px}footer a{color:#ffd84d}
 select{padding:11px;border-radius:8px;border:1.5px solid #0b1e3f;font-size:15px;width:100%}
 .note{font-size:12.5px;color:#777}.diff{background:#fff7d6!important}
+.crumbs{font-size:13px;color:#667;margin:10px 0 2px}.crumbs a{color:#0b55c4;text-decoration:none}.crumbs a:hover{text-decoration:underline}
+.filterbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;background:#fff;border-radius:12px;box-shadow:0 1px 4px #0001;padding:12px;margin:12px 0}
+.filterbar select{width:auto;flex:1;min-width:160px}.filterbar .fcount{font-size:13px;color:#667;font-weight:600}
+.cmptable th:first-child{position:sticky;left:0;z-index:1;box-shadow:2px 0 4px #00000010}
+.card picture{display:block}.fthumb picture{width:100%;height:100%}
 .tile{background:linear-gradient(135deg,#0b1e3f,#1677ff);color:#fff;border-radius:14px;padding:18px;text-decoration:none;display:block}
 .tile b{font-size:19px;display:block}.tile span{opacity:.85;font-size:13px}
 """
 JS = """
 async function loadPhones(){const r=await fetch('phones.json');return r.json()}
-const RATES={PKR:1,INR:0.342859,BDT:0.449533,AED:0.01327,SAR:0.01355,QAR:0.013152,KWD:0.001119,OMR:0.001389,BHD:0.001359,USD:0.003614,GBP:0.002695,EUR:0.003229,TRY:0.180652,CNY:0.024058,JPY:0.570698,KRW:4.86269,RUB:0.292402,CAD:0.005054,AUD:0.005161,SGD:0.004623,MYR:0.014709,IDR:65.561311,THB:0.121968,PHP:0.228747,ZAR:0.060115,NGN:4.85541,KES:0.469038,EGP:0.200337,LKR:1.201172,NPR:0.548572,AFN:0.233409,ILS:0.011359,CHF:0.002962};
-const SYM={PKR:'Rs ',INR:'₹',BDT:'৳',AED:'AED ',SAR:'SAR ',QAR:'QAR ',KWD:'KWD ',OMR:'OMR ',BHD:'BHD ',USD:'$',GBP:'£',EUR:'€',TRY:'₺',CNY:'¥',JPY:'¥',KRW:'₩',RUB:'₽',CAD:'CA$',AUD:'A$',SGD:'S$',MYR:'RM ',IDR:'Rp ',THB:'฿',PHP:'₱',ZAR:'R ',NGN:'₦',KES:'KSh ',EGP:'E£ ',LKR:'Rs ',NPR:'Rs ',AFN:'؋',ILS:'₪',CHF:'CHF '};
+const RATES={PKR:1,INR:0.342859,BDT:0.449533,AED:0.01327,SAR:0.01355,QAR:0.013152,KWD:0.001119,OMR:0.001389,BHD:0.001359,USD:0.003614,GBP:0.002695,EUR:0.003229,TRY:0.180652,CNY:0.024058,JPY:0.570698,KRW:4.86269,RUB:0.292402,CAD:0.005054,AUD:0.005161,SGD:0.004623,MYR:0.014709,IDR:65.561311,THB:0.121968,PHP:0.228747,ZAR:0.060115,NGN:4.85541,KES:0.469038,EGP:0.200337,LKR:1.201172,NPR:0.548572,AFN:0.233409,ILS:0.011359,CHF:0.002962,VND:93.041694,MMK:7.584721,KHR:14.844538,UZS:43.104459,KZT:1.638417,TZS:9.557823,GHS:0.042218,MAD:0.035488,IQD:5.485564,JOD:0.002562,AZN:0.006144,GEL:0.009383};
+const SYM={PKR:'Rs ',INR:'₹',BDT:'৳',AED:'AED ',SAR:'SAR ',QAR:'QAR ',KWD:'KWD ',OMR:'OMR ',BHD:'BHD ',USD:'$',GBP:'£',EUR:'€',TRY:'₺',CNY:'¥',JPY:'¥',KRW:'₩',RUB:'₽',CAD:'CA$',AUD:'A$',SGD:'S$',MYR:'RM ',IDR:'Rp ',THB:'฿',PHP:'₱',ZAR:'R ',NGN:'₦',KES:'KSh ',EGP:'E£ ',LKR:'Rs ',NPR:'Rs ',AFN:'؋',ILS:'₪',CHF:'CHF ',VND:'₫',MMK:'Ks ',KHR:'៛',UZS:'UZS ',KZT:'₸',TZS:'TSh ',GHS:'GH₵',MAD:'MAD ',IQD:'IQD ',JOD:'JOD ',AZN:'₼',GEL:'₾'};
 function fmtCur(pkrAmt,cur){const v=pkrAmt*RATES[cur];const dec=v>=100?0:(v>=1?2:3);return SYM[cur]+v.toLocaleString('en-US',{minimumFractionDigits:dec,maximumFractionDigits:dec})}
 function curSel(){return localStorage.getItem('cur')||'PKR'}
 function applyCur(){const cur=curSel();const sel=document.getElementById('cursel');if(sel)sel.value=cur;if(cur==='PKR')return;document.querySelectorAll('[data-pkr]').forEach(el=>{const amt=parseFloat(el.getAttribute('data-pkr'));if(isNaN(amt))return;el.innerHTML='<b class="pkrv">'+fmtCur(amt,cur)+'</b> <span class="usdv">Rs '+amt.toLocaleString('en-US')+'</span>'})}
@@ -469,22 +542,32 @@ async function initCompare(){
   document.getElementById('cmpHead').innerHTML=`<tr><th></th><th>${a.name}</th><th>${b.name}</th></tr>`;}
  selA.onchange=render;selB.onchange=render;render();}
 document.addEventListener('DOMContentLoaded',initCompare);
+function initFilters(){const grid=document.getElementById('catgrid');if(!grid)return;const fb=document.getElementById('fbrand'),fs=document.getElementById('fsort'),fc=document.getElementById('fcount');const cards=[...grid.children];
+ function apply(){const b=fb.value;let vis=cards.filter(c=>!b||c.dataset.brand===b);const s=fs.value;const pv=c=>parseFloat(c.dataset.price)||Infinity;const arr=[...grid.children];
+  arr.forEach(c=>c.style.display=vis.includes(c)?'':'none');
+  const sorted=[...vis].sort((x,y)=>s==='plo'?pv(x)-pv(y):s==='phi'?pv(y)-pv(x):s==='az'?x.dataset.name.localeCompare(y.dataset.name):(parseInt(y.dataset.year)||0)-(parseInt(x.dataset.year)||0));
+  sorted.forEach(c=>grid.appendChild(c));if(fc)fc.textContent=vis.length+' models';}
+ fb.addEventListener('change',apply);fs.addEventListener('change',apply);apply();}
+document.addEventListener('DOMContentLoaded',initFilters);
 """
 
-def head(title, desc, path="", depth=0):
+def head(title, desc, path="", depth=0, image="", ld_extra=""):
     pre = "../" * depth
     ld = {"@context": "https://schema.org", "@type": "WebSite", "name": SITE, "url": BASE,
           "potentialAction": {"@type": "SearchAction", "target": BASE + "?q={query}", "query-input": "required name=query"}}
+    ogimg = f'<meta property="og:image" content="{esc(image)}">' if image else ""
+    twimg = f'<meta name="twitter:image" content="{esc(image)}">' if image else ""
     nav = "".join(f'<a href="{BASE}{CATPAGE[c]}">{c}</a>' for c in CATS)
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(title)}</title><meta name="description" content="{esc(desc)}">
 <link rel="canonical" href="{BASE}{path}">
 <meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(desc)}">
-<meta property="og:type" content="website"><meta property="og:url" content="{BASE}{path}">
+<meta property="og:type" content="website"><meta property="og:url" content="{BASE}{path}">{ogimg}
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{esc(title)}"><meta name="twitter:description" content="{esc(desc)}">{twimg}
 <link rel="stylesheet" href="{pre}style.css">
-<script type="application/ld+json">{json.dumps(ld)}</script></head><body>
-<header><div class="wrap hwrap"><button class="menubtn" aria-label="Menu" onclick="document.querySelector('.navbar').classList.toggle('open')">&#9776;</button><a class="logo" href="{BASE}"><span class="logo-ic">📱</span>Check <span>Specs</span></a><span class="tagline">Explore • Compare • Choose</span><select id="cursel" class="cursel" aria-label="Currency"><option value="PKR">🇵🇰 Pakistan · PKR</option><option value="INR">🇮🇳 India · INR</option><option value="BDT">🇧🇩 Bangladesh · BDT</option><option value="AED">🇦🇪 UAE · AED</option><option value="SAR">🇸🇦 Saudi Arabia · SAR</option><option value="QAR">🇶🇦 Qatar · QAR</option><option value="KWD">🇰🇼 Kuwait · KWD</option><option value="OMR">🇴🇲 Oman · OMR</option><option value="BHD">🇧🇭 Bahrain · BHD</option><option value="USD">🇺🇸 USA · USD</option><option value="GBP">🇬🇧 UK · GBP</option><option value="EUR">🇪🇺 Europe · EUR</option><option value="TRY">🇹🇷 Türkiye · TRY</option><option value="CNY">🇨🇳 China · CNY</option><option value="JPY">🇯🇵 Japan · JPY</option><option value="KRW">🇰🇷 South Korea · KRW</option><option value="RUB">🇷🇺 Russia · RUB</option><option value="CAD">🇨🇦 Canada · CAD</option><option value="AUD">🇦🇺 Australia · AUD</option><option value="SGD">🇸🇬 Singapore · SGD</option><option value="MYR">🇲🇾 Malaysia · MYR</option><option value="IDR">🇮🇩 Indonesia · IDR</option><option value="THB">🇹🇭 Thailand · THB</option><option value="PHP">🇵🇭 Philippines · PHP</option><option value="ZAR">🇿🇦 South Africa · ZAR</option><option value="NGN">🇳🇬 Nigeria · NGN</option><option value="KES">🇰🇪 Kenya · KES</option><option value="EGP">🇪🇬 Egypt · EGP</option><option value="LKR">🇱🇰 Sri Lanka · LKR</option><option value="NPR">🇳🇵 Nepal · NPR</option><option value="AFN">🇦🇫 Afghanistan · AFN</option><option value="ILS">🇮🇱 Israel · ILS</option><option value="CHF">🇨🇭 Switzerland · CHF</option></select></div>
+<script type="application/ld+json">{json.dumps(ld)}</script>{ld_extra}</head><body>
+<header><div class="wrap hwrap"><button class="menubtn" aria-label="Menu" onclick="document.querySelector('.navbar').classList.toggle('open')">&#9776;</button><a class="logo" href="{BASE}"><span class="logo-ic">📱</span>Check <span>Specs</span></a><span class="tagline">Explore • Compare • Choose</span><select id="cursel" class="cursel" aria-label="Currency"><option value="PKR">🇵🇰 Pakistan · PKR</option><option value="INR">🇮🇳 India · INR</option><option value="BDT">🇧🇩 Bangladesh · BDT</option><option value="AED">🇦🇪 UAE · AED</option><option value="SAR">🇸🇦 Saudi Arabia · SAR</option><option value="QAR">🇶🇦 Qatar · QAR</option><option value="KWD">🇰🇼 Kuwait · KWD</option><option value="OMR">🇴🇲 Oman · OMR</option><option value="BHD">🇧🇭 Bahrain · BHD</option><option value="USD">🇺🇸 USA · USD</option><option value="GBP">🇬🇧 UK · GBP</option><option value="EUR">🇪🇺 Europe · EUR</option><option value="TRY">🇹🇷 Türkiye · TRY</option><option value="CNY">🇨🇳 China · CNY</option><option value="JPY">🇯🇵 Japan · JPY</option><option value="KRW">🇰🇷 South Korea · KRW</option><option value="RUB">🇷🇺 Russia · RUB</option><option value="CAD">🇨🇦 Canada · CAD</option><option value="AUD">🇦🇺 Australia · AUD</option><option value="SGD">🇸🇬 Singapore · SGD</option><option value="MYR">🇲🇾 Malaysia · MYR</option><option value="IDR">🇮🇩 Indonesia · IDR</option><option value="THB">🇹🇭 Thailand · THB</option><option value="PHP">🇵🇭 Philippines · PHP</option><option value="ZAR">🇿🇦 South Africa · ZAR</option><option value="NGN">🇳🇬 Nigeria · NGN</option><option value="KES">🇰🇪 Kenya · KES</option><option value="EGP">🇪🇬 Egypt · EGP</option><option value="LKR">🇱🇰 Sri Lanka · LKR</option><option value="NPR">🇳🇵 Nepal · NPR</option><option value="AFN">🇦🇫 Afghanistan · AFN</option><option value="ILS">🇮🇱 Israel · ILS</option><option value="CHF">🇨🇭 Switzerland · CHF</option><option value="VND">🇻🇳 Vietnam · VND</option><option value="MMK">🇲🇲 Myanmar · MMK</option><option value="KHR">🇰🇭 Cambodia · KHR</option><option value="UZS">🇺🇿 Uzbekistan · UZS</option><option value="KZT">🇰🇿 Kazakhstan · KZT</option><option value="TZS">🇹🇿 Tanzania · TZS</option><option value="GHS">🇬🇭 Ghana · GHS</option><option value="MAD">🇲🇦 Morocco · MAD</option><option value="IQD">🇮🇶 Iraq · IQD</option><option value="JOD">🇯🇴 Jordan · JOD</option><option value="AZN">🇦🇿 Azerbaijan · AZN</option><option value="GEL">🇬🇪 Georgia · GEL</option></select></div>
 <div class="navbar"><div class="wrap"><a href="{BASE}">Home</a>{nav}<a href="{BASE}compare.html">Compare</a><a href="{BASE}az.html">A–Z Models</a><a href="{BASE}best-under-200.html">Under $200</a><a href="{BASE}best-under-400.html">Under $400</a></div></div></header><main>"""
 
 def foot(depth=0):
@@ -492,14 +575,14 @@ def foot(depth=0):
     return f"""</main><footer><div style="max-width:1100px;margin:0 auto">
 Check Specs — Mobile phones, keypad phones, tablets and laptops: full specifications, latest prices in Pakistan (PKR &amp; USD) and comparisons.
 Prices are approximate market prices; currency figures are converted from PKR at mid-market rates checked 3 Nov 2026 (Rs 276.7 = $1) — use the currency selector at the top of the page to see prices in your own country's currency. Prices can change; always confirm from your local shop before buying.<br>
-<a href="{pre}sitemap.xml">Sitemap</a></div></footer><script src="{pre}app.js"></script></body></html>"""
+<a href="{pre}about.html">About Us</a> · <a href="{pre}contact.html">Contact Us</a> · <a href="{pre}privacy-policy.html">Privacy Policy</a> · <a href="{pre}terms.html">Terms</a> · <a href="{pre}editorial-policy.html">Editorial Policy</a> · <a href="{pre}sources.html">Data Sources</a> · <a href="{pre}sitemap.xml">Sitemap</a></div></footer><script src="{pre}app.js"></script></body></html>"""
 
 BRANDWM = {"Apple": "#111111", "Samsung": "#1428a0", "Google": "#4285f4", "Vivo": "#415fff",
            "Oppo": "#0a8f5a", "Xiaomi": "#ff6900", "Realme": "#b8860b", "Infinix": "#17202a",
            "Tecno": "#1a4f9c", "OnePlus": "#eb0028", "Honor": "#0b1e3f", "Nokia": "#124191",
            "Redmi": "#ff6900", "Poco": "#8a6d00"}
 def tcard(d):
-    img = f'<img src="{d["hero"]}" alt="{esc(d["name"])}" loading="lazy">' if d.get("hero") else "📱"
+    img = pic(d["hero"], d.get("hero_webp", ""), "", d["name"]) if d.get("hero") else "📱"
     badge = f'<span class="badge {"disc" if d["status"] == "Discontinued" else "cont"}">{d["status"]}</span>'
     return f"""<div class="tcard">{badge}<div class="fthumb">{img}</div><div class="tbody"><b>{esc(d['name'])}</b>
 <div class="price">{dual(d['price'])}</div><div class="spec">{esc(d['tag'])}</div>
@@ -508,8 +591,8 @@ def tcard(d):
 def card(d, base=""):
     hl = "".join(f'<div class="spec">{esc(x)}</div>' for x in d["hl"])
     badge = f'<span class="badge {"disc" if d["status"] == "Discontinued" else "cont"}">{d["status"]}</span>'
-    img = f'<img class="cardimg" src="{base}{d["hero"]}" alt="{esc(d["name"])}" loading="lazy">' if d.get("hero") else '<div class="cardph">📱</div>'
-    return f"""<div class="card" data-name="{esc(d['name'].lower())} {esc(d['brand'].lower())} {esc(d['cat'].lower())}">
+    img = pic(d["hero"], d.get("hero_webp", ""), "cardimg", d["name"], base=base) if d.get("hero") else '<div class="cardph">📱</div>'
+    return f"""<div class="card" data-name="{esc(d['name'].lower())} {esc(d['brand'].lower())} {esc(d['cat'].lower())}" data-brand="{esc(d['brand'])}" data-price="{d['price'] if d['price'] is not None else ''}" data-year="{d['year'] or 0}">
 {badge}
 {img}
 <div class="cbody">
@@ -522,6 +605,11 @@ def card(d, base=""):
 </div></div>"""
 
 def write(rel, content):
+    if rel == "style.css":  # Phase 3: minify CSS on write
+        import re as _re
+        content = _re.sub(r"/\*.*?\*/", "", content, flags=_re.S)
+        content = _re.sub(r"\s*([{}:;,>])\s*", r"\1", content)
+        content = _re.sub(r"\s+", " ", content).strip()
     path = os.path.join(ROOT, rel)
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f: f.write(content)
@@ -556,7 +644,8 @@ def main():
 <div class="trend-wrap"><div class="tgrid">{tcards}</div>
 <aside class="rail"><div class="cmp-panel"><h3>⚖️ Compare Phones</h3><p>Side-by-side comparison of any two devices</p><div class="vs">📱 VS 📱</div><a class="btn" style="background:#fff;color:#0b1e3f;display:block;text-align:center" href="compare.html">Start Compare →</a></div>
 <div class="budget-panel"><h3>🏷️ Budget Picks</h3><p>Best phones under your budget</p><a class="btn alt" href="best-under-200.html">Under $200</a> <a class="btn alt" href="best-under-400.html">Under $400</a></div></aside></div>
-<h2 class="sec" id="allmodels">All Models — Full Specs &amp; Prices in Pakistan</h2><div class="grid">{''.join(card(d) for d in latest)}</div>
+<h2 class="sec" id="allmodels">Latest Models — Full Specs &amp; Prices in Pakistan</h2><div class="grid">{''.join(card(d) for d in latest[:120])}</div>
+<p style="text-align:center;margin:16px 0"><a class="btn" href="az.html">Browse All {len(ALL)} Models A–Z →</a></p>
 <h2 class="sec">Popular Comparisons</h2><div class="grid">{ctiles}</div>
 <div class="highlights"><div>🛡️ <b>Verified Specifications</b>Trusted &amp; Accurate</div><div>🌐 <b>Global Coverage</b>{len(ALL)}+ Devices</div><div>🔄 <b>Updated Daily</b>Latest Prices</div><div>⚡ <b>Fast &amp; Responsive</b>On All Devices</div></div>"""
     home += foot(); write("index.html", home)
@@ -565,25 +654,55 @@ def main():
         items = sorted([d for d in ALL if d["cat"] == c], key=lambda d: (-(d["year"] or 0), d["name"]))
         pg = head(f"{c} Prices in Pakistan — Full Specs & Compare | {SITE}",
                   f"All {c.lower()} with prices in Pakistan (PKR & USD), full specifications and comparisons.", CATPAGE[c])
-        pg += f"<h1>{esc(c)} — Prices in Pakistan &amp; Full Specs</h1><p>{len(items)} models. Har model ke full specs aur Pakistan price ke liye model kholen.</p><div class='grid'>{''.join(card(d) for d in items)}</div>"
+        _fbrands = sorted({d["brand"] for d in items})
+        _fopts = "".join(f'<option value="{esc(b)}">{esc(b)}</option>' for b in _fbrands)
+        pg += f"""<h1>{esc(c)} — Prices in Pakistan &amp; Full Specs</h1><p>{len(items)} models. Har model ke full specs aur Pakistan price ke liye model kholen.</p>
+<div class="filterbar"><select id="fbrand" aria-label="Filter by brand"><option value="">All Brands</option>{_fopts}</select>
+<select id="fsort" aria-label="Sort models"><option value="new">Newest First</option><option value="plo">Price: Low to High</option><option value="phi">Price: High to Low</option><option value="az">Name: A to Z</option></select>
+<span class="fcount" id="fcount"></span></div>
+<div class='grid' id='catgrid'>{''.join(card(d) for d in items)}</div>"""
         pg += foot(); write(CATPAGE[c], pg)
     # Device pages
     for d in ALL:
         specs_html = "<table>" + "".join(f'<tr><th>{esc(k)}</th><td>{esc(v)}</td></tr>' for k, v in _flat_rows(d)) + "</table>"
-        hero_html = f'<div class="phero"><img class="hero-img" src="{BASE}{d["hero"]}" alt="{esc(d["name"])}"></div>' if d.get("hero") else ""
+        hero_html = f'<div class="phero">{pic(d["hero"], d.get("hero_webp", ""), "hero-img", d["name"], base=BASE, lazy=False)}</div>' if d.get("hero") else ""
         others = [x for x in ALL if x["brand"] == d["brand"] and x["slug"] != d["slug"]][:3]
         links = "".join(f'<a class="chip" href="../{x["folder"]}/{x["slug"]}.html">{esc(x["name"])}</a>' for x in others)
         cmp = [x for x in ALL if x["cat"] == d["cat"] and x["slug"] != d["slug"] and x["price"] is not None and d["price"] is not None and abs(x["price"] - d["price"]) < max(30000, d["price"] * 0.4)][:2]
+        _rel = [x for x in ALL if x["slug"] != d["slug"] and x["cat"] == d["cat"] and x["price"] is not None and d["price"] is not None and abs(x["price"] - d["price"]) <= max(25000, d["price"] * 0.35)][:4]
+        if len(_rel) < 4:
+            _rel += [x for x in others if x not in _rel][:4 - len(_rel)]
+        rel_html = f'<h2>Related Devices</h2><div class="grid">{"".join(card(x, base="../") for x in _rel)}</div>' if _rel else ""
         clinks = "".join(f'<a class="chip" href="../compare.html?a={d["slug"]}&b={x["slug"]}">{esc(d["name"])} vs {esc(x["name"])}</a>' for x in cmp)
         label = {"Smartphones": "Mobile", "Keypad Phones": "Keypad Phone", "Tablets": "Tablet", "Laptops": "Laptop"}[d["cat"]]
         gal = ""
         if d.get("images"):
-            figs = "".join(f'<figure><img src="{BASE}{im["file"]}" alt="{esc(d["name"])} — {esc(im["color"])}" loading="lazy"><figcaption>{esc(im["color"])}</figcaption></figure>' for im in d["images"])
+            figs = "".join(f'<figure>{pic(im["file"], im.get("webp", ""), "", d["name"] + " — " + im["color"], base=BASE)}<figcaption>{esc(im["color"])}</figcaption></figure>' for im in d["images"])
             gal = f'<p class="glabel">Colors</p><div class="gallery">{figs}</div>'
         src_line = ""
-        pg = head(f"{d['name']} Price in Pakistan {pkr(d['price'])} — Full Specifications | {SITE}",
-                  f"{d['name']} full specifications and price in Pakistan {pkr(d['price'])}. {'; '.join(d['hl'])}. Compare {d['name']} with other devices.",
-                  f"{d['folder']}/{d['slug']}.html", depth=1)
+        # Phase 2 SEO: Product + Breadcrumb structured data, og:image, breadcrumbs
+        _purl = f"{BASE}{d['folder']}/{d['slug']}.html"
+        _img = f"{BASE}{d['hero']}" if d.get("hero") else ""
+        _prod = {"@context": "https://schema.org", "@type": "Product", "name": d["name"],
+                 "brand": {"@type": "Brand", "name": d["brand"]}, "url": _purl,
+                 "description": f"{d['name']} full specifications and price in Pakistan. {'; '.join(d['hl'])}."}
+        if _img: _prod["image"] = _img
+        if d["price"] is not None:
+            _prod["offers"] = {"@type": "Offer", "url": _purl, "priceCurrency": "PKR",
+                               "price": d["price"],
+                               "availability": "https://schema.org/Discontinued" if d["status"] == "Discontinued" else "https://schema.org/InStock"}
+        _crumbs = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": BASE},
+            {"@type": "ListItem", "position": 2, "name": d["cat"], "item": f"{BASE}{CATPAGE[d['cat']]}"},
+            {"@type": "ListItem", "position": 3, "name": d["brand"], "item": f"{BASE}brands/{bslug(d['brand'])}.html"},
+            {"@type": "ListItem", "position": 4, "name": d["name"], "item": _purl}]}
+        _ldx = f'<script type="application/ld+json">{json.dumps(_prod)}</script><script type="application/ld+json">{json.dumps(_crumbs)}</script>'
+        _crumb_html = (f'<nav class="crumbs"><a href="{BASE}">Home</a> › <a href="{BASE}{CATPAGE[d["cat"]]}">{esc(d["cat"])}</a>'
+                       f' › <a href="{BASE}brands/{bslug(d["brand"])}.html">{esc(d["brand"])}</a> › {esc(d["name"])}</nav>')
+        pg = head(f"{d['name']} Price in Pakistan {pkrtitle(d['price'])} — Full Specifications | {SITE}",
+                  f"{d['name']} full specifications and price in Pakistan {pkrtitle(d['price'])}. {'; '.join(d['hl'])}. Compare {d['name']} with other devices.",
+                  f"{d['folder']}/{d['slug']}.html", depth=1, image=_img, ld_extra=_ldx)
+        pg += _crumb_html
         pg += f"""<h1>{esc(d['name'])} — Full Specifications</h1>
 <p><span class="badge2 {"disc" if d["status"] == "Discontinued" else "cont"}">{d["status"]}</span> <span class="note">{"This model is still in production and available in shops." if d["status"] == "Continued" else "This model has been discontinued by the company. It may still be found as old stock in some shops."}</span></p>
 <p class="price">{dual(d['price'])}</p>
@@ -593,7 +712,7 @@ def main():
 {specs_html}
 {src_line}
 <h2>More {esc(d['brand'])} Devices</h2><div class="chips">{links}</div>
-<h2>Compare {esc(d['name'])}</h2><div class="chips">{clinks}</div>"""
+<h2>Compare {esc(d['name'])}</h2><div class="chips">{clinks}</div>{rel_html}"""
         pg += foot(depth=1)
         write(f"{d['folder']}/{d['slug']}.html", pg)
     # Brand pages
@@ -633,7 +752,7 @@ def main():
     pg += """<h1>Compare Devices</h1><p>Do devices chuno — specs side by side, farq yellow rang mein nazar ayega.</p>
 <div class="grid"><div><label>Device 1 — Brand</label><select id="brandA"></select><label style="display:block;margin-top:10px">Device 1 — Model</label><select id="selA"></select></div>
 <div><label>Device 2 — Brand</label><select id="brandB"></select><label style="display:block;margin-top:10px">Device 2 — Model</label><select id="selB"></select></div></div>
-<table style="margin-top:16px"><thead id="cmpHead"></thead><tbody id="cmp"></tbody></table>"""
+<div style="overflow-x:auto"><table class="cmptable" style="margin-top:16px;min-width:520px"><thead id="cmpHead"></thead><tbody id="cmp"></tbody></table></div>"""
     pg += foot(); write("compare.html", pg)
     # Budget guides (smartphones only)
     for limit, fname, label in [(200, "best-under-200.html", "Under $200"), (400, "best-under-400.html", "Under $400")]:
@@ -642,8 +761,87 @@ def main():
                   f"Best mobile phones {label.lower()} in Pakistan with full specs and USD prices.", fname)
         pg += f"<h1>Best Phones {label} in Pakistan</h1><p>Is budget mein sabse behtar phones — specs aur qeemat ke sath.</p><div class='grid'>{''.join(card(d) for d in items)}</div>"
         pg += foot(); write(fname, pg)
+    # Trust & policy pages (Phase 5, 2026-11-03)
+    TRUST = [
+     ("about.html", "About Us", "About Check Specs — an independent mobile, tablet and laptop specifications and price guide for Pakistan and worldwide readers.",
+      """<h1>About Check Specs</h1>
+<p>Check Specs is an independent specifications and price guide for mobile phones, keypad phones, tablets and laptops. Our goal is simple: give every buyer the verified full specifications of a device and its current price in Pakistan — plus prices in 45 currencies for readers around the world — on one fast page, without clutter.</p>
+<h2>What we cover</h2>
+<p>We track every major brand sold in Pakistan and worldwide, from the newest flagships to budget and keypad phones. New models are added as they launch, and older models stay listed with a clear Continued or Discontinued banner so you always know whether a device is still in production.</p>
+<h2>How we work</h2>
+<p>Every specification on this site is read from a reputable source — the manufacturer's official product page, GSMArena's full-specifications database, or another established reference — and checked before it is published. We never invent specifications or prices. Where a Pakistani market price is available from local market listings (such as PriceOye), we show it; where it is not, we show a clearly approximate converted figure, or "Price not announced" when a device has not been priced yet. Read our <a href="sources.html">Data Sources &amp; Verification Policy</a> and <a href="editorial-policy.html">Editorial Policy</a> for the full method.</p>
+<h2>Who runs it</h2>
+<p>Check Specs is run by a small independent editorial desk in Kot Addu, Punjab, Pakistan. We are not owned by any phone brand or retailer, and no brand pays us to list or rank a device.</p>"""),
+     ("contact.html", "Contact Us", "Contact Check Specs for specification corrections, price updates and business inquiries.",
+      """<h1>Contact Us</h1>
+<p>We read every message. The fastest way to reach the Check Specs desk is Facebook Messenger on our publisher page:</p>
+<p><b>Her Khabar Rakho</b> — <a href="https://www.facebook.com/61595091102246" rel="noopener">facebook.com/61595091102246</a> (send us a message there and mention "Check Specs").</p>
+<h2>Specification corrections</h2>
+<p>Spotted a wrong specification or price? Tell us the device name, the exact line that looks wrong, and — if you have it — a link to the official source. Verified corrections are applied as quickly as we can check them, usually the same day.</p>
+<h2>Price updates</h2>
+<p>Local shopkeepers and readers are welcome to report current street prices. Prices on the site are approximate market figures and are refreshed regularly; a single report is always cross-checked before it changes a listing.</p>
+<h2>Business inquiries</h2>
+<p>For advertising and partnership questions, message the same page above with the subject of your inquiry. We do not sell rankings, reviews or specification changes — those are never for sale.</p>"""),
+     ("privacy-policy.html", "Privacy Policy", "Privacy Policy of Check Specs — what data this website does and does not collect.",
+      """<h1>Privacy Policy</h1>
+<p>Check Specs is a static information website. We keep data collection to the minimum a specifications guide needs.</p>
+<h2>What we do not collect</h2>
+<p>There are no user accounts, no comments and no checkout on this site. We do not ask for or store your name, email address, phone number or payment details.</p>
+<h2>What is stored on your device</h2>
+<p>The currency selector saves your chosen currency in your browser's local storage so prices stay in your currency on your next visit. This never leaves your device and you can clear it any time from your browser settings.</p>
+<h2>Hosting and analytics</h2>
+<p>The site is hosted on GitHub Pages, which may keep standard server logs (such as IP address and browser type) for security and operation, under GitHub's own privacy statement. We may use privacy-respecting, aggregate analytics (such as Google Analytics) to understand which devices and pages are popular; such analytics work on aggregated statistics, not on identifying individual visitors. Advertising partners, when present, may use cookies as described in their own policies; you can block cookies in your browser without losing access to any specification or price on this site.</p>
+<h2>External links</h2>
+<p>Pages may link to manufacturer and reference websites. We are not responsible for the privacy practices of external sites.</p>
+<h2>Changes</h2>
+<p>If this policy changes, the new version will be published on this page.</p>"""),
+     ("terms.html", "Terms & Conditions", "Terms and conditions for using Check Specs.",
+      """<h1>Terms &amp; Conditions</h1>
+<h2>Information only</h2>
+<p>Specifications, prices and availability on Check Specs are provided for general information and comparison. Despite careful verification, errors can occur; the manufacturer's official product page is always the final authority on a device's specifications.</p>
+<h2>Prices</h2>
+<p>Prices are approximate market prices in Pakistani Rupees (PKR), with other currencies converted at mid-market rates shown on the site. Prices change frequently and differ between shops and cities. Always confirm the final price, PTA approval status and warranty terms with your seller before buying.</p>
+<h2>Availability</h2>
+<p>A "Continued" banner means the model is in production to the best of our knowledge; it does not guarantee stock at any particular shop. A "Discontinued" model may still be sold as remaining stock.</p>
+<h2>Trademarks</h2>
+<p>All brand names, model names and product images belong to their respective owners. Their use on this site is for identification and comparison only and implies no endorsement.</p>
+<h2>Use of content</h2>
+<p>You may link to any page of this site. Republishing specification tables or page content in bulk without permission is not allowed.</p>
+<h2>Liability</h2>
+<p>We are not liable for purchase decisions made solely on the information published here. Verify critical details — price, warranty and PTA status — before completing a purchase.</p>"""),
+     ("editorial-policy.html", "Editorial Policy", "How Check Specs verifies specifications, handles prices and corrects errors.",
+      """<h1>Editorial Policy</h1>
+<h2>Verification before publication</h2>
+<p>No specification is published from memory or from a single unverified listing. Every model's specification table is read from its official product page or GSMArena's full-specifications page and matched field by field before the model goes live. If a field cannot be verified, it is left out rather than guessed.</p>
+<h2>Sources in order of trust</h2>
+<p>1) The manufacturer's official product/support page. 2) GSMArena's specifications database. 3) Established retailer and reference listings, used mainly for prices. Where sources disagree on a status question — for example whether a model is discontinued — the manufacturer's position wins.</p>
+<h2>Prices</h2>
+<p>Pakistani prices come from current local market listings wherever a model is actually sold in Pakistan. Models not officially sold here are shown with an approximate converted price or "Price not announced". Rumoured or unannounced devices, when listed, are labelled with their expected status and their figures are replaced by final verified data at launch.</p>
+<h2>Corrections</h2>
+<p>Errors reported by readers are checked against the sources above and corrected as quickly as verification allows — see <a href="contact.html">Contact Us</a>. Silent edits are limited to obvious typos; factual corrections follow the verified source.</p>
+<h2>Independence</h2>
+<p>No brand, shop or advertiser can pay to change a specification, a price or a device's position on this site.</p>"""),
+     ("sources.html", "Data Sources & Verification Policy", "Where Check Specs gets its specifications and prices, and how they are verified.",
+      """<h1>Data Sources &amp; Verification Policy</h1>
+<h2>Specifications</h2>
+<p>Specification tables are compiled from the manufacturer's official product pages and <b>GSMArena</b>'s full-specifications database. Each model's data is read from its own specification page — never copied from a similar model — and a second check is made when a model's details are updated after launch (for example, when rumoured figures are replaced by final ones).</p>
+<h2>Prices</h2>
+<p>Pakistani market prices are checked against current local listings, principally <b>PriceOye</b>'s Pakistan price list. Where no Pakistani listing exists, the manufacturer's announced price in USD or EUR is converted at the mid-market rates referenced in the site footer and should be read as an estimate. Currency figures in the selector are conversions of the PKR price at the rates stated on the site; they are guides, not local shop prices.</p>
+<h2>Status (Continued / Discontinued)</h2>
+<p>Production status follows the manufacturer's announcements first and reference databases second; when they disagree, the manufacturer's position is shown.</p>
+<h2>Images</h2>
+<p>Device images are the manufacturers' official product images as carried by the reference sources above, shown for identification. A colour gallery is only published when a verified photo of that exact colour exists.</p>
+<h2>Freshness</h2>
+<p>New launches are added daily by automated checks against the reference databases, and prices of current models are refreshed regularly. If you find stale information, please report it via <a href="contact.html">Contact Us</a>.</p>"""),
+    ]
+    for _f, _t, _desc, _body in TRUST:
+        pg = head(f"{_t} | {SITE}", _desc, _f)
+        pg += _body
+        pg += foot(); write(_f, pg)
     # SEO files
-    urls = ["", "compare.html", "az.html", "best-under-200.html", "best-under-400.html"] + [CATPAGE[c] for c in CATS]
+    urls = ["", "compare.html", "az.html", "best-under-200.html", "best-under-400.html",
+            "about.html", "contact.html", "privacy-policy.html", "terms.html",
+            "editorial-policy.html", "sources.html"] + [CATPAGE[c] for c in CATS]
     urls += [f"{d['folder']}/{d['slug']}.html" for d in ALL]
     urls += [f"brands/{bslug(b)}.html" for b in BRANDS]
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'

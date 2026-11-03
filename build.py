@@ -572,6 +572,9 @@ def head(title, desc, path="", depth=0, image="", ld_extra=""):
     twimg = f'<meta name="twitter:image" content="{esc(image)}">' if image else ""
     nav = "".join(f'<a href="{BASE}{CATPAGE[c]}">{c}</a>' for c in CATS)
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-27E7JGS729"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag('js',new Date());gtag('config','G-27E7JGS729');</script>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(title)}</title><meta name="description" content="{esc(desc)}">
 <link rel="canonical" href="{BASE}{path}">

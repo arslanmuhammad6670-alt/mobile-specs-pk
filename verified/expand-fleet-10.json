@@ -533,5 +533,112 @@
 "source": "https://www.gsmarena.com/infinix_note_50s_5g-13793.php",
 "tag": "6.78\" display · Mediatek Dimensity 7300 Ultima · 6 GB RAM · 5500 mAh",
 "year": 2025
+},
+{
+"brand": "Tecno",
+"cat": "Smartphones",
+"hl": [
+"6.74\" display",
+"Unisoc T7250",
+"4 GB RAM",
+"5000 mAh"
+],
+"name": "Tecno Pop X 4G",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, March 04, released 2026, March 06)"
+],
+[
+"Network",
+"GSM / HSPA / LTE"
+],
+[
+"Body",
+"167.7 x 77.8 x 8.1 mm (6.60 x 3.06 x 0.32 in); -; Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"IPS LCD, 120Hz; 6.74 inches, 109.7 cm2 (~84.1% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+],
+[
+"OS",
+"Android 15, HIOS 15"
+],
+[
+"Chipset",
+"Unisoc T7250 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55); GPU Mali-G57 MP1"
+],
+[
+"RAM",
+"4 GB"
+],
+[
+"Storage",
+"64 GB; microSDXC (dedicated slot)"
+],
+[
+"Main Camera",
+"13 MP, f/1.9, (wide); Dual-LED; video Yes"
+],
+[
+"Selfie Camera",
+"8 MP; video Yes"
+],
+[
+"Sensors",
+"Fingerprint (side-mounted), accelerometer"
+],
+[
+"Loudspeaker",
+"Yes"
+],
+[
+"3.5mm Jack",
+"Yes"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+],
+[
+"Bluetooth",
+"5.2, A2DP, LE"
+],
+[
+"GPS",
+"GPS"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"FM radio"
+],
+[
+"USB",
+"USB Type-C, OTG"
+],
+[
+"Battery",
+"Li-Po 5000 mAh"
+],
+[
+"Charging",
+"15W wired"
+],
+[
+"Colors",
+"Flare White, Chilly Green"
+]
+],
+"slug": "tecno-pop-x",
+"source": "https://www.gsmarena.com/tecno_pop_x-14665.php",
+"tag": "6.74\" display · Unisoc T7250 · 4 GB RAM · 5000 mAh",
+"year": 2026
 }
 ]

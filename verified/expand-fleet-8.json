@@ -533,5 +533,107 @@
 "source": "https://www.gsmarena.com/vivo_s60_5g-14692.php",
 "tag": "6.59\" display · Qualcomm SM8635 Snapdragon 8s  · 12 GB RAM · 7200 mAh",
 "year": 2026
+},
+{
+"brand": "Tecno",
+"cat": "Tablets",
+"hl": [
+"12.0\" display",
+"8 GB RAM",
+"10000 mAh"
+],
+"name": "Tecno Megapad Pro",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 2025, September 03, released 2025, October 20)"
+],
+[
+"Network",
+"No cellular connectivity"
+],
+[
+"Body",
+"6.0 mm thickness; 547 g (1.21 lb); No"
+],
+[
+"Display",
+"IPS LCD, 90Hz, 450 nits; 12.0 inches, 409.9 cm2; 1200 x 2000 pixels, 5:3 ratio (~194 ppi density)"
+],
+[
+"OS",
+"Android 15"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC"
+],
+[
+"Main Camera",
+"13 MP; LED flash; video 1080p@30fps"
+],
+[
+"Selfie Camera",
+"Yes; video Yes"
+],
+[
+"Sensors",
+"Accelerometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers, Dolby Atmos (4 speakers)"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+],
+[
+"Bluetooth",
+"Yes"
+],
+[
+"GPS",
+"No"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C"
+],
+[
+"Battery",
+"10000 mAh"
+],
+[
+"Charging",
+"33W wired"
+],
+[
+"Colors",
+"Sky Gray, Aurora Violet"
+]
+],
+"slug": "tecno-megapad-pro",
+"source": "https://www.gsmarena.com/tecno_megapad_pro-14244.php",
+"tag": "12.0\" display · 8 GB RAM · 10000 mAh",
+"year": 2025
 }
 ]

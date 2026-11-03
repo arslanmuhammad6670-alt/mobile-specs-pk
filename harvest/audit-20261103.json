@@ -1,0 +1,233 @@
+{
+ "acer.html": {
+  "total": 0,
+  "unpriced": [],
+  "dups": {}
+ },
+ "apple.html": {
+  "total": 25,
+  "unpriced": [],
+  "dups": {}
+ },
+ "asus.html": {
+  "total": 0,
+  "unpriced": [],
+  "dups": {}
+ },
+ "dell.html": {
+  "total": 0,
+  "unpriced": [],
+  "dups": {}
+ },
+ "google.html": {
+  "total": 32,
+  "unpriced": [],
+  "dups": {
+   "pixel 4a": [
+    "google-pixel-4a",
+    "google-pixel-4a-5g"
+   ]
+  }
+ },
+ "hmd.html": {
+  "total": 0,
+  "unpriced": [],
+  "dups": {}
+ },
+ "honor.html": {
+  "total": 12,
+  "unpriced": [],
+  "dups": {}
+ },
+ "hp.html": {
+  "total": 0,
+  "unpriced": [],
+  "dups": {}
+ },
+ "huawei.html": {
+  "total": 3,
+  "unpriced": [],
+  "dups": {}
+ },
+ "infinix.html": {
+  "total": 39,
+  "unpriced": [
+   "infinix-note-50-pro-4g",
+   "infinix-note-50s-5g"
+  ],
+  "dups": {
+   "zero 40": [
+    "infinix-zero-40-4g",
+    "infinix-zero-40"
+   ],
+   "note 50 pro": [
+    "infinix-note-50-pro-4g",
+    "infinix-note-50-pro"
+   ],
+   "hot 60i": [
+    "infinix-hot-60i-5g",
+    "infinix-hot-60i"
+   ],
+   "hot 50 pro": [
+    "infinix-hot-50-pro-4g",
+    "infinix-hot-50-pro"
+   ],
+   "hot 50": [
+    "infinix-hot-50-4g",
+    "infinix-hot-50"
+   ]
+  }
+ },
+ "iqoo.html": {
+  "total": 1,
+  "unpriced": [],
+  "dups": {}
+ },
+ "lenovo.html": {
+  "total": 0,
+  "unpriced": [],
+  "dups": {}
+ },
+ "motorola.html": {
+  "total": 4,
+  "unpriced": [],
+  "dups": {}
+ },
+ "nokia.html": {
+  "total": 0,
+  "unpriced": [],
+  "dups": {}
+ },
+ "nothing.html": {
+  "total": 3,
+  "unpriced": [],
+  "dups": {}
+ },
+ "oneplus.html": {
+  "total": 31,
+  "unpriced": [],
+  "dups": {}
+ },
+ "oppo.html": {
+  "total": 54,
+  "unpriced": [
+   "oppo-reno17-pro-5g-(china)"
+  ],
+  "dups": {
+   "a6t": [
+    "oppo-a6t-5g",
+    "oppo-a6t"
+   ],
+   "a6": [
+    "oppo-a6-5g",
+    "oppo-a6"
+   ],
+   "a6s": [
+    "oppo-a6s-5g",
+    "oppo-a6s"
+   ]
+  }
+ },
+ "realme.html": {
+  "total": 13,
+  "unpriced": [],
+  "dups": {}
+ },
+ "samsung.html": {
+  "total": 65,
+  "unpriced": [],
+  "dups": {
+   "galaxy a16": [
+    "samsung-galaxy-a16",
+    "samsung-galaxy-a16-5g"
+   ],
+   "galaxy a07": [
+    "samsung-galaxy-a07",
+    "samsung-galaxy-a07-5g"
+   ]
+  }
+ },
+ "tecno.html": {
+  "total": 44,
+  "unpriced": [
+   "tecno-spark-slim",
+   "tecno-camon-air",
+   "tecno-spark-go-1s",
+   "tecno-pova-8-pro-5g",
+   "tecno-camon-slim",
+   "tecno-pova-7",
+   "tecno-spark-30-5g",
+   "tecno-pop-x-5g"
+  ],
+  "dups": {
+   "camon 40 pro": [
+    "tecno-camon-40-pro-5g",
+    "tecno-camon-40-pro",
+    "tecno-camon-40-pro-4g"
+   ],
+   "spark 30": [
+    "tecno-spark-30",
+    "tecno-spark-30-5g"
+   ],
+   "spark 40": [
+    "tecno-spark-40-5g",
+    "tecno-spark-40-4g"
+   ],
+   "spark 50": [
+    "tecno-spark-50-4g",
+    "tecno-spark-50-5g"
+   ]
+  }
+ },
+ "vivo.html": {
+  "total": 56,
+  "unpriced": [
+   "vivo-iqoo-16-5g",
+   "vivo-s60-5g"
+  ],
+  "dups": {
+   "v70 lite": [
+    "vivo-v70-lite-5g",
+    "vivo-v70-lite"
+   ],
+   "v40 lite": [
+    "vivo-v40-lite-4g",
+    "vivo-v40-lite-5g"
+   ],
+   "x500 pro max": [
+    "vivo-x500-pro-max",
+    "vivo-x500-pro-max-5g"
+   ],
+   "x500 pro": [
+    "vivo-x500-pro",
+    "vivo-x500-pro-5g"
+   ],
+   "x500": [
+    "vivo-x500",
+    "vivo-x500-5g"
+   ],
+   "t5": [
+    "vivo-t5-5g",
+    "vivo-t5"
+   ]
+  }
+ },
+ "xiaomi.html": {
+  "total": 59,
+  "unpriced": [],
+  "dups": {
+   "redmi 17c": [
+    "xiaomi-redmi-17c-5g",
+    "xiaomi-redmi-17c-(china)"
+   ],
+   "redmi 17": [
+    "xiaomi-redmi-17-5g",
+    "xiaomi-redmi-17"
+   ],
+   "redmi note 17": [
+    "xiaomi-redmi-note-17-5g",
+    "xiaomi-redmi-note-17"
+   ]
+  }
+ }
+}

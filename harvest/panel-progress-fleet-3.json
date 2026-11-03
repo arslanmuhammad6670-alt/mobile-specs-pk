@@ -1,0 +1,18 @@
+{
+"done": [
+"infinix-gt-50-pro-5g",
+"infinix-hot-60i",
+"tecno-camon-slim-5g",
+"tecno-megapad-11",
+"tecno-camon-50-pro"
+],
+"failed": {
+"vivo-y500": "image",
+"vivo-y600-pro-5g-(china)": "image",
+"infinix-smart-9-hd": "image",
+"infinix-smart-8-plus": "image",
+"tecno-camon-50-pro": "fetch",
+"tecno-pova-7-5g": "image",
+"tecno-megapad-11": "image"
+}
+}

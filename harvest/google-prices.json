@@ -1,0 +1,142 @@
+{
+ "oneplus-13r": {
+  "amount": 599.99,
+  "cur": "USD",
+  "source": "Notebookcheck"
+ },
+ "oneplus-15t-5g": {
+  "amount": 4299,
+  "cur": "CNY",
+  "source": "Gizmochina"
+ },
+ "oneplus-n6": {
+  "amount": 22999,
+  "cur": "INR",
+  "source": "TechWiser"
+ },
+ "oneplus-n6x": {
+  "amount": 20999,
+  "cur": "INR",
+  "source": "Economic Times"
+ },
+ "oppo-a6c-(china)": {
+  "amount": 799,
+  "cur": "CNY",
+  "source": "The Tech Outlook"
+ },
+ "oppo-a6t-5g": {
+  "amount": 12999,
+  "cur": "INR",
+  "source": "Smartprix"
+ },
+ "oppo-a6t-pro": {
+  "amount": 12999,
+  "cur": "INR",
+  "source": "Smartprix"
+ },
+ "oppo-a6x-5g-(global)": {
+  "amount": 120,
+  "cur": "USD",
+  "source": "Tilifony"
+ },
+ "oppo-f33-5g": {
+  "amount": 31999,
+  "cur": "INR",
+  "source": "Bajaj Finserv"
+ },
+ "oppo-f33-pro-5g": {
+  "amount": 37999,
+  "cur": "INR",
+  "source": "Smartprix"
+ },
+ "oppo-find-x10": {
+  "amount": 1299,
+  "cur": "EUR",
+  "source": "FoneArena"
+ },
+ "oppo-k14x-5g": {
+  "amount": 14999,
+  "cur": "INR",
+  "source": "Smartprix"
+ },
+ "oppo-reno16c-5g": {
+  "amount": 46999,
+  "cur": "INR",
+  "source": "First India"
+ },
+ "samsung-galaxy-f17-5g": {
+  "amount": 13999,
+  "cur": "INR",
+  "source": "Samsung Newsroom India"
+ },
+ "samsung-galaxy-f36-5g": {
+  "amount": 17499,
+  "cur": "INR",
+  "source": "Notebookcheck"
+ },
+ "samsung-galaxy-f70e-5g": {
+  "amount": 12999,
+  "cur": "INR",
+  "source": "Cashify"
+ },
+ "samsung-galaxy-m07": {
+  "amount": 6999,
+  "cur": "INR",
+  "source": "Croma"
+ },
+ "samsung-galaxy-m17e-5g": {
+  "amount": 13999,
+  "cur": "INR",
+  "source": "Pune Mirror"
+ },
+ "samsung-galaxy-m47-5g": {
+  "amount": 25999,
+  "cur": "INR",
+  "source": "Gadgets Now"
+ },
+ "samsung-galaxy-m56-5g": {
+  "amount": 27999,
+  "cur": "INR",
+  "source": "Samsung Newsroom India"
+ },
+ "samsung-galaxy-tab-a11+": {
+  "amount": 249.99,
+  "cur": "USD",
+  "source": "Notebookcheck"
+ },
+ "samsung-galaxy-tab-s11-ultra-5g": {
+  "amount": 1299.99,
+  "cur": "USD",
+  "source": "Samsung"
+ },
+ "samsung-galaxy-z-fold7": {
+  "amount": 1999.99,
+  "cur": "USD",
+  "source": "Samsung"
+ },
+ "vivo-v70-lite": {
+  "amount": 299,
+  "cur": "USD",
+  "source": "Gizbot"
+ },
+ "xiaomi-poco-c95-pro": {
+  "amount": 249.99,
+  "cur": "EUR",
+  "source": "GSMArena"
+ },
+ "xiaomi-poco-pad-c1": {
+  "amount": 139,
+  "cur": "USD",
+  "source": "FoneArena"
+ },
+ "xiaomi-poco-x8-5g": {
+  "amount": 29999,
+  "cur": "INR",
+  "source": "Smartprix"
+ },
+ "xiaomi-redmi-note-17-pro-max-5g": {
+  "amount": 49999,
+  "cur": "INR",
+  "source": "Digit"
+ }
+}

@@ -212,5 +212,112 @@
 "source": "https://www.gsmarena.com/tecno_pop_x_5g-14608.php",
 "tag": "6.78\" display · Mediatek Dimensity 6400 · 4 GB RAM · 6500 mAh",
 "year": 2026
+},
+{
+"brand": "Tecno",
+"cat": "Smartphones",
+"hl": [
+"6.78\" display",
+"Mediatek Dimensity 6400",
+"8 GB RAM",
+"5160 mAh"
+],
+"name": "Tecno Pova Slim",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 2025, September 02, released 2025, October 08)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"164.2 x 75.9 x 6 mm (6.46 x 2.99 x 0.24 in); 156 g (5.50 oz); Glass front (Gorilla Glass 7i), glass-fiber reinforced plastic back; Nano-SIM"
+],
+[
+"Display",
+"AMOLED, 144Hz, 1600 nits (HBM), 4500 nits (peak); 6.78 inches, 111.0 cm2 (~89.1% screen-to-body ratio); 1224 x 2720 pixels, 20:9 ratio (~440 ppi density); Corning Gorilla Glass 7i"
+],
+[
+"OS",
+"Android 15, HIOS 15"
+],
+[
+"Chipset",
+"Mediatek Dimensity 6400 (6 nm); CPU Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; No"
+],
+[
+"Main Camera",
+"50 MP, (wide), PDAF 2 MP; LED flash; video 1440p@30fps, 1080p@30fps"
+],
+[
+"Selfie Camera",
+"13 MP, (wide); video Yes"
+],
+[
+"Sensors",
+"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+],
+[
+"Bluetooth",
+"5.4, A2DP, LE"
+],
+[
+"GPS",
+"GPS, GLONASS, GALILEO, BDS"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"FM radio"
+],
+[
+"USB",
+"USB Type-C"
+],
+[
+"Battery",
+"5160 mAh"
+],
+[
+"Charging",
+"45W wired, 100% in 57 min 10W reverse wired Bypass charging"
+],
+[
+"Colors",
+"Sky Blue, Slim White, Cool Black"
+]
+],
+"slug": "tecno-pova-slim-5g",
+"source": "https://www.gsmarena.com/tecno_pova_slim_5g-14111.php",
+"tag": "6.78\" display · Mediatek Dimensity 6400 · 8 GB RAM · 5160 mAh",
+"year": 2025
 }
 ]

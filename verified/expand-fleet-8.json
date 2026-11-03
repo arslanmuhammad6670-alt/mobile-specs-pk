@@ -319,5 +319,112 @@
 "source": "https://www.gsmarena.com/tecno_spark_30_5g-13384.php",
 "tag": "6.67\" display · Mediatek Dimensity 6300 · 6 GB RAM · 5000 mAh",
 "year": 2024
+},
+{
+"brand": "Tecno",
+"cat": "Smartphones",
+"hl": [
+"6.76\" display",
+"Mediatek Dimensity 7100",
+"6 GB RAM",
+"8000 mAh"
+],
+"name": "Tecno Pova 8",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, June 11, released 2026, July 01)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"165.7 x 78.5 x 8.8 mm (6.52 x 3.09 x 0.35 in); 225 g (7.94 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"IPS LCD, 144Hz; 6.76 inches, 112.6 cm2 (~86.6% screen-to-body ratio); 1080 x 2344 pixels, 19.5:9 ratio (~381 ppi density)"
+],
+[
+"OS",
+"Android 16, HIOS 16"
+],
+[
+"Chipset",
+"Mediatek Dimensity 7100 (6 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G610 MC2"
+],
+[
+"RAM",
+"6 GB / 8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC (uses shared SIM slot) - India model only"
+],
+[
+"Main Camera",
+"50 MP, f/1.8, 23mm (wide), 1/1.95\", 0.8µm, PDAF Auxiliary lens; Dual-LED flash; video 1440p@30fps, 1080p@30/60fps"
+],
+[
+"Selfie Camera",
+"13 MP, f/2.2, 24mm (wide), 1/3.06\", 1.12µm; video 1440p@30fps, 1080p@60fps"
+],
+[
+"Sensors",
+"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers (with Dolby Atmos)"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+],
+[
+"Bluetooth",
+"5.4, A2DP, LE"
+],
+[
+"GPS",
+"GPS, GLONASS, GALILEO, BDS"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"FM radio, recording"
+],
+[
+"USB",
+"USB Type-C 2.0, OTG"
+],
+[
+"Battery",
+"8000 mAh"
+],
+[
+"Charging",
+"45W wired, 50% in 35 min 10W reverse wired"
+],
+[
+"Colors",
+"Arc White, Graphite Black, Helios Orange, Echo Green, Bit White (India), Terminal Green (India)"
+]
+],
+"slug": "tecno-pova-8-5g",
+"source": "https://www.gsmarena.com/tecno_pova_8_5g-14714.php",
+"tag": "6.76\" display · Mediatek Dimensity 7100 · 6 GB RAM · 8000 mAh",
+"year": 2026
 }
 ]

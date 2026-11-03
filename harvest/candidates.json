@@ -1054,8 +1054,197 @@
 "missing": {}
 },
 "Motorola": {
-"total_on_gsm": 0,
-"missing": {}
+"total_on_gsm": 47,
+"missing": {
+"motorola-moto-g47-power": [
+"motorola_moto_g47_power",
+"15023"
+],
+"motorola-signature-27-5g": [
+"motorola_signature_27_5g",
+"14955"
+],
+"motorola-edge-70-plus-5g": [
+"motorola_edge_70_plus_5g",
+"14920"
+],
+"motorola-moto-pad-70": [
+"motorola_moto_pad_70",
+"14888"
+],
+"motorola-moto-g-max-5g": [
+"motorola_moto_g_max_5g",
+"14724"
+],
+"motorola-moto-pad-70-groove": [
+"motorola_moto_pad_70_groove",
+"14853"
+],
+"motorola-edge-70-max-5g": [
+"motorola_edge_70_max_5g",
+"14789"
+],
+"motorola-moto-g77-power-5g": [
+"motorola_moto_g77_power_5g",
+"14772"
+],
+"motorola-moto-pad-70-pro": [
+"motorola_moto_pad_70_pro",
+"14756"
+],
+"motorola-edge-5g-(2026)": [
+"motorola_edge_5g_(2026)",
+"14705"
+],
+"motorola-edge-70-pro+-5g": [
+"motorola_edge_70_pro+_5g",
+"14702"
+],
+"motorola-moto-g87-5g": [
+"motorola_moto_g87_5g",
+"14644"
+],
+"motorola-moto-g47": [
+"motorola_moto_g47",
+"14645"
+],
+"motorola-moto-g37-power": [
+"motorola_moto_g37_power",
+"14647"
+],
+"motorola-moto-g37": [
+"motorola_moto_g37",
+"14646"
+],
+"motorola-razr-ultra-2026": [
+"motorola_razr_ultra_2026",
+"14638"
+],
+"motorola-razr-70-ultra": [
+"motorola_razr_70_ultra",
+"14641"
+],
+"motorola-razr+-2026": [
+"motorola_razr+_2026",
+"14639"
+],
+"motorola-razr-70+": [
+"motorola_razr_70+",
+"14642"
+],
+"motorola-razr-2026": [
+"motorola_razr_2026",
+"14640"
+],
+"motorola-razr-70": [
+"motorola_razr_70",
+"14643"
+],
+"motorola-edge-70-pro-5g": [
+"motorola_edge_70_pro_5g",
+"14620"
+],
+"motorola-moto-pad-(2026)": [
+"motorola_moto_pad_(2026)",
+"14582"
+],
+"motorola-moto-g-stylus-(2026)": [
+"motorola_moto_g_stylus_(2026)",
+"14581"
+],
+"motorola-edge-70-fusion+-5g": [
+"motorola_edge_70_fusion+_5g",
+"14540"
+],
+"motorola-edge-70-fusion-5g": [
+"motorola_edge_70_fusion_5g",
+"14432"
+],
+"motorola-moto-g77-5g": [
+"motorola_moto_g77_5g",
+"14433"
+],
+"motorola-moto-g67-5g": [
+"motorola_moto_g67_5g",
+"14434"
+],
+"motorola-moto-g17-power": [
+"motorola_moto_g17_power",
+"14452"
+],
+"motorola-moto-g17": [
+"motorola_moto_g17",
+"14455"
+],
+"motorola-razr-fold-5g": [
+"motorola_razr_fold_5g",
+"14402"
+],
+"motorola-signature-5g": [
+"motorola_signature_5g",
+"14397"
+],
+"motorola-moto-g-power-5g-(2026)": [
+"motorola_moto_g_power_5g_(2026)",
+"14359"
+],
+"motorola-moto-g57-power-5g": [
+"motorola_moto_g57_power_5g",
+"14282"
+],
+"motorola-moto-g57-5g": [
+"motorola_moto_g57_5g",
+"14284"
+],
+"motorola-moto-g-5g-(2026)": [
+"motorola_moto_g_5g_(2026)",
+"14138"
+],
+"motorola-moto-g-play-5g-(2026)": [
+"motorola_moto_g_play_5g_(2026)",
+"14139"
+],
+"motorola-moto-g67-power-5g": [
+"motorola_moto_g67_power_5g",
+"14266"
+],
+"motorola-edge-70-5g": [
+"motorola_edge_70_5g",
+"14216"
+],
+"motorola-moto-g100s-5g-(china)": [
+"motorola_moto_g100s_5g_(china)",
+"14293"
+],
+"motorola-moto-g100-5g-(china)": [
+"motorola_moto_g100_5g_(china)",
+"14228"
+],
+"motorola-moto-pad-60-lite": [
+"motorola_moto_pad_60_lite",
+"14808"
+],
+"motorola-moto-pad-60-neo-5g": [
+"motorola_moto_pad_60_neo_5g",
+"14140"
+],
+"motorola-edge-60-neo-5g": [
+"motorola_edge_60_neo_5g",
+"14124"
+],
+"motorola-moto-g06-power": [
+"motorola_moto_g06_power",
+"14125"
+],
+"motorola-moto-g06": [
+"motorola_moto_g06",
+"14115"
+],
+"motorola-g96-5g": [
+"motorola_g96_5g",
+"13989"
+]
+}
 },
 "OnePlus": {
 "total_on_gsm": 44,
@@ -1223,6 +1412,1338 @@
 "oneplus-ace-3v": [
 "oneplus_ace_3v",
 "12889"
+]
+}
+},
+"Infinix": {
+"total_on_gsm": 50,
+"missing": {
+"infinix-xpad-30-pro": [
+"infinix_xpad_30_pro",
+"14913"
+],
+"infinix-hot-70-pro-5g": [
+"infinix_hot_70_pro_5g",
+"14806"
+],
+"infinix-hot-70": [
+"infinix_hot_70",
+"14683"
+],
+"infinix-gt-50-pro-5g": [
+"infinix_gt_50_pro_5g",
+"14497"
+],
+"infinix-note-60-ultra-5g": [
+"infinix_note_60_ultra_5g",
+"14528"
+],
+"infinix-note-60-pro-5g": [
+"infinix_note_60_pro_5g",
+"14499"
+],
+"infinix-note-60-5g": [
+"infinix_note_60_5g",
+"14498"
+],
+"infinix-smart-20": [
+"infinix_smart_20",
+"14502"
+],
+"infinix-note-edge-5g": [
+"infinix_note_edge_5g",
+"14421"
+],
+"infinix-xpad-20-pro": [
+"infinix_xpad_20_pro",
+"14116"
+],
+"infinix-hot-60i-5g": [
+"infinix_hot_60i_5g",
+"14072"
+],
+"infinix-gt-30-5g": [
+"infinix_gt_30_5g",
+"14044"
+],
+"infinix-hot-60-5g": [
+"infinix_hot_60_5g",
+"14006"
+],
+"infinix-hot-60-pro+": [
+"infinix_hot_60_pro+",
+"14002"
+],
+"infinix-hot-60-pro": [
+"infinix_hot_60_pro",
+"14003"
+],
+"infinix-hot-60i": [
+"infinix_hot_60i",
+"13983"
+],
+"infinix-smart-10-hd": [
+"infinix_smart_10_hd",
+"13954"
+],
+"infinix-smart-10-plus": [
+"infinix_smart_10_plus",
+"13953"
+],
+"infinix-smart-10": [
+"infinix_smart_10",
+"13933"
+],
+"infinix-xpad-20": [
+"infinix_xpad_20",
+"13922"
+],
+"infinix-gt-30-pro-5g": [
+"infinix_gt_30_pro_5g",
+"13889"
+],
+"infinix-xpad-gt": [
+"infinix_xpad_gt",
+"13890"
+],
+"infinix-note-50s-5g": [
+"infinix_note_50s_5g",
+"13793"
+],
+"infinix-note-50x": [
+"infinix_note_50x",
+"13747"
+],
+"infinix-note-50-pro+": [
+"infinix_note_50_pro+",
+"13746"
+],
+"infinix-note-50-pro-4g": [
+"infinix_note_50_pro_4g",
+"13701"
+],
+"infinix-note-50-4g": [
+"infinix_note_50_4g",
+"13705"
+],
+"infinix-smart-9-hd": [
+"infinix_smart_9_hd",
+"13590"
+],
+"infinix-hot-50-pro-4g": [
+"infinix_hot_50_pro_4g",
+"13461"
+],
+"infinix-hot-50-pro+-4g": [
+"infinix_hot_50_pro+_4g",
+"13408"
+],
+"infinix-hot-50-4g": [
+"infinix_hot_50_4g",
+"13367"
+],
+"infinix-zero-flip": [
+"infinix_zero_flip",
+"13347"
+],
+"infinix-hot-50": [
+"infinix_hot_50",
+"13305"
+],
+"infinix-zero-40": [
+"infinix_zero_40",
+"13290"
+],
+"infinix-note-40x-5g": [
+"infinix_note_40x_5g",
+"13246"
+],
+"infinix-note-40-5g": [
+"infinix_note_40_5g",
+"13035"
+],
+"infinix-gt-20-pro": [
+"infinix_gt_20_pro",
+"12962"
+],
+"infinix-note-40-pro+": [
+"infinix_note_40_pro+",
+"12874"
+],
+"infinix-note-40-pro-4g": [
+"infinix_note_40_pro_4g",
+"12876"
+],
+"infinix-smart-8-plus": [
+"infinix_smart_8_plus",
+"12817"
+],
+"infinix-smart-8-pro": [
+"infinix_smart_8_pro",
+"12812"
+],
+"infinix-smart-8-(india)": [
+"infinix_smart_8_(india)",
+"12792"
+],
+"infinix-smart-8-hd": [
+"infinix_smart_8_hd",
+"12736"
+]
+}
+},
+"Tecno": {
+"total_on_gsm": 50,
+"missing": {
+"tecno-spark-50s-5g": [
+"tecno_spark_50s_5g",
+"15015"
+],
+"tecno-spark-50c": [
+"tecno_spark_50c",
+"15016"
+],
+"tecno-camon-air": [
+"tecno_camon_air",
+"14919"
+],
+"tecno-camon-slim-5g": [
+"tecno_camon_slim_5g",
+"14918"
+],
+"tecno-spark-go-3-pro": [
+"tecno_spark_go_3_pro",
+"14905"
+],
+"tecno-pova-8-pro-5g": [
+"tecno_pova_8_pro_5g",
+"14875"
+],
+"tecno-camon-slim": [
+"tecno_camon_slim",
+"14745"
+],
+"tecno-spark-50-pro": [
+"tecno_spark_50_pro",
+"14728"
+],
+"tecno-pova-8-5g": [
+"tecno_pova_8_5g",
+"14714"
+],
+"tecno-pop-x-5g": [
+"tecno_pop_x_5g",
+"14608"
+],
+"tecno-pop-x": [
+"tecno_pop_x",
+"14665"
+],
+"tecno-spark-50-4g": [
+"tecno_spark_50_4g",
+"14596"
+],
+"tecno-spark-50-5g": [
+"tecno_spark_50_5g",
+"14566"
+],
+"tecno-camon-50-ultra-5g": [
+"tecno_camon_50_ultra_5g",
+"14519"
+],
+"tecno-camon-50-pro-5g": [
+"tecno_camon_50_pro_5g",
+"14538"
+],
+"tecno-camon-50-pro": [
+"tecno_camon_50_pro",
+"14500"
+],
+"tecno-camon-50": [
+"tecno_camon_50",
+"14501"
+],
+"tecno-pova-curve-2-5g": [
+"tecno_pova_curve_2_5g",
+"14384"
+],
+"tecno-spark-go-3": [
+"tecno_spark_go_3",
+"14420"
+],
+"tecno-megapad-se": [
+"tecno_megapad_se",
+"14488"
+],
+"tecno-megapad-pro": [
+"tecno_megapad_pro",
+"14244"
+],
+"tecno-pova-slim-5g": [
+"tecno_pova_slim_5g",
+"14111"
+],
+"tecno-spark-slim": [
+"tecno_spark_slim",
+"14112"
+],
+"tecno-spark-40-5g": [
+"tecno_spark_40_5g",
+"14568"
+],
+"tecno-spark-go-5g": [
+"tecno_spark_go_5g",
+"14074"
+],
+"tecno-spark-40c": [
+"tecno_spark_40c",
+"14052"
+],
+"tecno-pova-7-pro-5g": [
+"tecno_pova_7_pro_5g",
+"13990"
+],
+"tecno-pova-7-5g": [
+"tecno_pova_7_5g",
+"13991"
+],
+"tecno-spark-40-pro+": [
+"tecno_spark_40_pro+",
+"13986"
+],
+"tecno-spark-40-pro": [
+"tecno_spark_40_pro",
+"13985"
+],
+"tecno-spark-40-4g": [
+"tecno_spark_40_4g",
+"13984"
+],
+"tecno-pova-7-ultra-5g": [
+"tecno_pova_7_ultra_5g",
+"13976"
+],
+"tecno-pova-7": [
+"tecno_pova_7",
+"13974"
+],
+"tecno-spark-go-2": [
+"tecno_spark_go_2",
+"13975"
+],
+"tecno-pova-curve-5g": [
+"tecno_pova_curve_5g",
+"13915"
+],
+"tecno-camon-40-premier": [
+"tecno_camon_40_premier",
+"13694"
+],
+"tecno-camon-40-pro-5g": [
+"tecno_camon_40_pro_5g",
+"13695"
+],
+"tecno-camon-40-pro": [
+"tecno_camon_40_pro",
+"13696"
+],
+"tecno-spark-go-1s": [
+"tecno_spark_go_1s",
+"13648"
+],
+"tecno-megapad-11": [
+"tecno_megapad_11",
+"13546"
+],
+"tecno-pop-9-4g": [
+"tecno_pop_9_4g",
+"13509"
+],
+"tecno-megapad": [
+"tecno_megapad",
+"13268"
+],
+"tecno-camon-30s": [
+"tecno_camon_30s",
+"13426"
+],
+"tecno-spark-30c-5g": [
+"tecno_spark_30c_5g",
+"13385"
+],
+"tecno-spark-30-5g": [
+"tecno_spark_30_5g",
+"13384"
+],
+"tecno-pop-9": [
+"tecno_pop_9",
+"13358"
+],
+"tecno-spark-30": [
+"tecno_spark_30",
+"13356"
+],
+"tecno-phantom-v-fold2": [
+"tecno_phantom_v_fold2",
+"13334"
+]
+}
+},
+"Realme": {
+"total_on_gsm": 48,
+"missing": {
+"realme-c01": [
+"realme_c01",
+"15025"
+],
+"realme-p4s-lite": [
+"realme_p4s_lite",
+"14991"
+],
+"realme-c100i-(india)": [
+"realme_c100i_(india)",
+"14900"
+],
+"realme-p4s-5g": [
+"realme_p4s_5g",
+"14885"
+],
+"realme-16x-5g": [
+"realme_16x_5g",
+"14871"
+],
+"realme-narzo-100x-5g": [
+"realme_narzo_100x_5g",
+"14787"
+],
+"realme-p4x": [
+"realme_p4x",
+"14744"
+],
+"realme-p4r-5g": [
+"realme_p4r_5g",
+"14706"
+],
+"realme-16t-5g": [
+"realme_16t_5g",
+"14674"
+],
+"realme-c100x": [
+"realme_c100x",
+"14628"
+],
+"realme-c100i": [
+"realme_c100i",
+"14655"
+],
+"realme-narzo-100-lite-5g": [
+"realme_narzo_100_lite_5g",
+"14593"
+],
+"realme-c100": [
+"realme_c100",
+"14586"
+],
+"realme-c100-5g": [
+"realme_c100_5g",
+"14585"
+],
+"realme-p4-lite-5g": [
+"realme_p4_lite_5g",
+"14545"
+],
+"realme-note-80": [
+"realme_note_80",
+"14537"
+],
+"realme-c83-5g": [
+"realme_c83_5g",
+"14532"
+],
+"realme-narzo-power-5g": [
+"realme_narzo_power_5g",
+"14515"
+],
+"realme-p4-lite": [
+"realme_p4_lite",
+"14490"
+],
+"realme-16-5g": [
+"realme_16_5g",
+"14419"
+],
+"realme-p4-power-5g": [
+"realme_p4_power_5g",
+"14451"
+],
+"realme-neo8-5g": [
+"realme_neo8_5g",
+"14408"
+],
+"realme-c85": [
+"realme_c85",
+"14435"
+],
+"realme-16-pro+-5g": [
+"realme_16_pro+_5g",
+"14363"
+],
+"realme-16-pro-5g": [
+"realme_16_pro_5g",
+"14400"
+],
+"realme-pad-3-5g": [
+"realme_pad_3_5g",
+"14401"
+],
+"realme-narzo-90-5g": [
+"realme_narzo_90_5g",
+"14345"
+],
+"realme-narzo-90x-5g": [
+"realme_narzo_90x_5g",
+"14346"
+],
+"realme-p3-lite-5g": [
+"realme_p3_lite_5g",
+"14360"
+],
+"realme-p3-lite": [
+"realme_p3_lite",
+"14361"
+],
+"realme-p4x-5g": [
+"realme_p4x_5g",
+"14329"
+],
+"realme-c85-pro": [
+"realme_c85_pro",
+"14275"
+],
+"realme-c85-5g": [
+"realme_c85_5g",
+"14274"
+],
+"realme-gt8-pro-5g-(china)": [
+"realme_gt8_pro_5g_(china)",
+"14245"
+],
+"realme-gt8-5g-(china)": [
+"realme_gt8_5g_(china)",
+"14246"
+],
+"realme-15x-5g-(india)": [
+"realme_15x_5g_(india)",
+"14173"
+],
+"realme-15-lite-5g": [
+"realme_15_lite_5g",
+"14159"
+],
+"realme-15-5g-(global)": [
+"realme_15_5g_(global)",
+"14318"
+],
+"realme-15t-5g": [
+"realme_15t_5g",
+"14105"
+],
+"realme-p4-5g": [
+"realme_p4_5g",
+"14087"
+],
+"realme-p4-pro-5g": [
+"realme_p4_pro_5g",
+"14086"
+],
+"realme-narzo-80-lite": [
+"realme_narzo_80_lite",
+"14023"
+],
+"realme-15-pro-5g": [
+"realme_15_pro_5g",
+"14017"
+],
+"realme-note-70": [
+"realme_note_70",
+"14436"
+],
+"realme-15-5g": [
+"realme_15_5g",
+"14018"
+],
+"realme-note-70t": [
+"realme_note_70t",
+"14007"
+],
+"realme-narzo-80-lite-5g": [
+"realme_narzo_80_lite_5g",
+"13952"
+],
+"realme-c73-5g": [
+"realme_c73_5g",
+"13928"
+]
+}
+},
+"Honor": {
+"total_on_gsm": 46,
+"missing": {
+"honor-600s-5g": [
+"honor_600s_5g",
+"15047"
+],
+"honor-x9e-s-5g": [
+"honor_x9e_s_5g",
+"15046"
+],
+"honor-x8e": [
+"honor_x8e",
+"15044"
+],
+"honor-win-turbo2-5g": [
+"honor_win_turbo2_5g",
+"15019"
+],
+"honor-win2-5g": [
+"honor_win2_5g",
+"15020"
+],
+"honor-win2-rt-5g": [
+"honor_win2_rt_5g",
+"15021"
+],
+"honor-win-tablet": [
+"honor_win_tablet",
+"15027"
+],
+"honor-magic9-pro-max-5g": [
+"honor_magic9_pro_max_5g",
+"14940"
+],
+"honor-magic9-super-5g": [
+"honor_magic9_super_5g",
+"14969"
+],
+"honor-magic9-5g": [
+"honor_magic9_5g",
+"14970"
+],
+"honor-play20c": [
+"honor_play20c",
+"14994"
+],
+"honor-x5d-s": [
+"honor_x5d_s",
+"14993"
+],
+"honor-pad-x10-pro-max": [
+"honor_pad_x10_pro_max",
+"14972"
+],
+"honor-magicpad-4-12-1": [
+"honor_magicpad_4_12_1",
+"14973"
+],
+"honor-x9e-pro-5g": [
+"honor_x9e_pro_5g",
+"14949"
+],
+"honor-play11-5g": [
+"honor_play11_5g",
+"14944"
+],
+"honor-play20a": [
+"honor_play20a",
+"14897"
+],
+"honor-x7e-plus": [
+"honor_x7e_plus",
+"14896"
+],
+"honor-turbo-5g": [
+"honor_turbo_5g",
+"14881"
+],
+"honor-robot-phone-5g": [
+"honor_robot_phone_5g",
+"14827"
+],
+"honor-pad-20-pro": [
+"honor_pad_20_pro",
+"14889"
+],
+"honor-x6e": [
+"honor_x6e",
+"14843"
+],
+"honor-x7e-plus-5g": [
+"honor_x7e_plus_5g",
+"14834"
+],
+"honor-x80-pro-max-5g": [
+"honor_x80_pro_max_5g",
+"14718"
+],
+"honor-600-smart-5g": [
+"honor_600_smart_5g",
+"14738"
+],
+"honor-x70-pro-max-5g": [
+"honor_x70_pro_max_5g",
+"14729"
+],
+"honor-play10-5g": [
+"honor_play10_5g",
+"14713"
+],
+"honor-win-turbo-5g": [
+"honor_win_turbo_5g",
+"14684"
+],
+"honor-600-pro-5g-(china)": [
+"honor_600_pro_5g_(china)",
+"14680"
+],
+"honor-600-5g-(china)": [
+"honor_600_5g_(china)",
+"14681"
+],
+"honor-600e-5g": [
+"honor_600e_5g",
+"14688"
+],
+"honor-x7e": [
+"honor_x7e",
+"14677"
+],
+"honor-500-smart-5g": [
+"honor_500_smart_5g",
+"14689"
+],
+"honor-600-pro-5g": [
+"honor_600_pro_5g",
+"14604"
+],
+"honor-600-5g": [
+"honor_600_5g",
+"14605"
+],
+"honor-pad-20": [
+"honor_pad_20",
+"14663"
+],
+"honor-magicpad-3-pro-12-3": [
+"honor_magicpad_3_pro_12_3",
+"14629"
+],
+"honor-play11-plus-5g": [
+"honor_play11_plus_5g",
+"14662"
+],
+"honor-x70-refresh-edition-5g": [
+"honor_x70_refresh_edition_5g",
+"14589"
+],
+"honor-x5d-plus": [
+"honor_x5d_plus",
+"14584"
+],
+"honor-x5d": [
+"honor_x5d",
+"14583"
+],
+"honor-x80i-5g": [
+"honor_x80i_5g",
+"14579"
+],
+"honor-play-80-pro-5g": [
+"honor_play_80_pro_5g",
+"14577"
+],
+"honor-play-80-plus-5g": [
+"honor_play_80_plus_5g",
+"14650"
+],
+"honor-play-70c": [
+"honor_play_70c",
+"14653"
+],
+"honor-play-80-5g": [
+"honor_play_80_5g",
+"14578"
+]
+}
+},
+"Huawei": {
+"total_on_gsm": 40,
+"missing": {
+"huawei-pura-90-plus-5g": [
+"huawei_pura_90_plus_5g",
+"15033"
+],
+"huawei-enjoy-100": [
+"huawei_enjoy_100",
+"15037"
+],
+"huawei-mate-90-rs-ultimate-5g": [
+"huawei_mate_90_rs_ultimate_5g",
+"14985"
+],
+"huawei-mate-90-pro-max-5g": [
+"huawei_mate_90_pro_max_5g",
+"14982"
+],
+"huawei-mate-90-pro-5g": [
+"huawei_mate_90_pro_5g",
+"14983"
+],
+"huawei-mate-90-5g": [
+"huawei_mate_90_5g",
+"14984"
+],
+"huawei-matepad-air-z-enjoy": [
+"huawei_matepad_air_z_enjoy",
+"14980"
+],
+"huawei-matepad-air-z": [
+"huawei_matepad_air_z",
+"14979"
+],
+"huawei-mate-xt-2-ultimate-5g": [
+"huawei_mate_xt_2_ultimate_5g",
+"14929"
+],
+"huawei-pura-x-view": [
+"huawei_pura_x_view",
+"14887"
+],
+"huawei-nova-16s-pro-5g": [
+"huawei_nova_16s_pro_5g",
+"14922"
+],
+"huawei-nova-16s-5g": [
+"huawei_nova_16s_5g",
+"14923"
+],
+"huawei-matepad-pro-12-(2026)": [
+"huawei_matepad_pro_12_(2026)",
+"14864"
+],
+"huawei-nova-16-se": [
+"huawei_nova_16_se",
+"14861"
+],
+"huawei-pura-90s-pro-max-5g": [
+"huawei_pura_90s_pro_max_5g",
+"14794"
+],
+"huawei-pura-90s-pro-5g": [
+"huawei_pura_90s_pro_5g",
+"14795"
+],
+"huawei-matepad-air-(2026)": [
+"huawei_matepad_air_(2026)",
+"14796"
+],
+"huawei-nova-16-ultra-5g": [
+"huawei_nova_16_ultra_5g",
+"14698"
+],
+"huawei-nova-16-pro-5g": [
+"huawei_nova_16_pro_5g",
+"14699"
+],
+"huawei-nova-16-5g": [
+"huawei_nova_16_5g",
+"14700"
+],
+"huawei-nova-16z-5g": [
+"huawei_nova_16z_5g",
+"14701"
+],
+"huawei-nova-y74": [
+"huawei_nova_y74",
+"14703"
+],
+"huawei-matepad-pro-max": [
+"huawei_matepad_pro_max",
+"14658"
+],
+"huawei-nova-15-max": [
+"huawei_nova_15_max",
+"14656"
+],
+"huawei-pura-x-max-5g": [
+"huawei_pura_x_max_5g",
+"14607"
+],
+"huawei-pura-90-pro-max-5g": [
+"huawei_pura_90_pro_max_5g",
+"14609"
+],
+"huawei-pura-90-pro-5g": [
+"huawei_pura_90_pro_5g",
+"14610"
+],
+"huawei-pura-90-5g": [
+"huawei_pura_90_5g",
+"14612"
+],
+"huawei-enjoy-90-pro-max": [
+"huawei_enjoy_90_pro_max",
+"14553"
+],
+"huawei-enjoy-90m-plus": [
+"huawei_enjoy_90m_plus",
+"14587"
+],
+"huawei-enjoy-90-plus": [
+"huawei_enjoy_90_plus",
+"14554"
+],
+"huawei-enjoy-90": [
+"huawei_enjoy_90",
+"14556"
+],
+"huawei-mate-80-pro-max-wind-5g": [
+"huawei_mate_80_pro_max_wind_5g",
+"14555"
+],
+"huawei-nova-15-ultra-5g": [
+"huawei_nova_15_ultra_5g",
+"14370"
+],
+"huawei-nova-15-pro-5g": [
+"huawei_nova_15_pro_5g",
+"14371"
+],
+"huawei-nova-15-5g": [
+"huawei_nova_15_5g",
+"14372"
+],
+"huawei-matepad-11-5-(2026)": [
+"huawei_matepad_11_5_(2026)",
+"14375"
+],
+"huawei-mate-x7-5g": [
+"huawei_mate_x7_5g",
+"14314"
+]
+}
+},
+"Nokia": {
+"total_on_gsm": 50,
+"missing": {
+"nokia-2360-flip": [
+"nokia_2360_flip",
+"15048"
+],
+"nokia-300-charge": [
+"nokia_300_charge",
+"14895"
+],
+"nokia-123-shield": [
+"nokia_123_shield",
+"14818"
+],
+"nokia-235-4g-2nd-edition": [
+"nokia_235_4g_2nd_edition",
+"14773"
+],
+"nokia-215-4g-2nd-edition": [
+"nokia_215_4g_2nd_edition",
+"14774"
+],
+"nokia-210-4g": [
+"nokia_210_4g",
+"14775"
+],
+"nokia-200-4g": [
+"nokia_200_4g",
+"14776"
+],
+"nokia-110-power": [
+"nokia_110_power",
+"14481"
+],
+"nokia-150-music": [
+"nokia_150_music",
+"13688"
+],
+"nokia-110-4g-2nd-edition": [
+"nokia_110_4g_2nd_edition",
+"13584"
+],
+"nokia-105-4g-2nd-edition": [
+"nokia_105_4g_2nd_edition",
+"13583"
+],
+"nokia-108-4g-(2024)": [
+"nokia_108_4g_(2024)",
+"13482"
+],
+"nokia-110-4g-(2024)": [
+"nokia_110_4g_(2024)",
+"13471"
+],
+"nokia-105-(2024)": [
+"nokia_105_(2024)",
+"13188"
+],
+"nokia-220-4g-(2024)": [
+"nokia_220_4g_(2024)",
+"13167"
+],
+"nokia-3210": [
+"nokia_3210",
+"12990"
+],
+"nokia-235-4g-(2024)": [
+"nokia_235_4g_(2024)",
+"12967"
+],
+"nokia-225-4g-(2024)": [
+"nokia_225_4g_(2024)",
+"12968"
+],
+"nokia-215-4g-(2024)": [
+"nokia_215_4g_(2024)",
+"12969"
+],
+"nokia-6310-(2024)": [
+"nokia_6310_(2024)",
+"12926"
+],
+"nokia-5310-(2024)": [
+"nokia_5310_(2024)",
+"12927"
+],
+"nokia-230-(2024)": [
+"nokia_230_(2024)",
+"12928"
+],
+"nokia-c210": [
+"nokia_c210",
+"12472"
+],
+"nokia-g310": [
+"nokia_g310",
+"12471"
+],
+"nokia-150-(2023)": [
+"nokia_150_(2023)",
+"12465"
+],
+"nokia-130-(2023)": [
+"nokia_130_(2023)",
+"12464"
+],
+"nokia-g42": [
+"nokia_g42",
+"12381"
+],
+"nokia-c300": [
+"nokia_c300",
+"12322"
+],
+"nokia-c110": [
+"nokia_c110",
+"12321"
+],
+"nokia-110-4g-(2023)": [
+"nokia_110_4g_(2023)",
+"12285"
+],
+"nokia-110-(2023)": [
+"nokia_110_(2023)",
+"12284"
+],
+"nokia-106-4g-(2023)": [
+"nokia_106_4g_(2023)",
+"12286"
+],
+"nokia-106-(2023)": [
+"nokia_106_(2023)",
+"12283"
+],
+"nokia-105-4g-(2023)": [
+"nokia_105_4g_(2023)",
+"12282"
+],
+"nokia-105-(2023)": [
+"nokia_105_(2023)",
+"12281"
+],
+"nokia-xr21": [
+"nokia_xr21",
+"12244"
+],
+"nokia-c12-plus": [
+"nokia_c12_plus",
+"12210"
+],
+"nokia-c12-pro": [
+"nokia_c12_pro",
+"12184"
+],
+"nokia-c32": [
+"nokia_c32",
+"12139"
+],
+"nokia-c22": [
+"nokia_c22",
+"12138"
+],
+"nokia-g22": [
+"nokia_g22",
+"12137"
+],
+"nokia-c02": [
+"nokia_c02",
+"12136"
+],
+"nokia-c12": [
+"nokia_c12",
+"12085"
+],
+"nokia-2780-flip": [
+"nokia_2780_flip",
+"11973"
+],
+"nokia-x30": [
+"nokia_x30",
+"11831"
+],
+"nokia-g100": [
+"nokia_g100",
+"12373"
+],
+"nokia-g60": [
+"nokia_g60",
+"11826"
+],
+"nokia-c31": [
+"nokia_c31",
+"11825"
+],
+"nokia-t21": [
+"nokia_t21",
+"11823"
+]
+}
+},
+"HMD": {
+"total_on_gsm": 40,
+"missing": {
+"hmd-106": [
+"hmd_106",
+"15010"
+],
+"hmd-vibe-2-pro-5g": [
+"hmd_vibe_2_pro_5g",
+"14977"
+],
+"hmd-102": [
+"hmd_102",
+"14914"
+],
+"hmd-asha-305-lite": [
+"hmd_asha_305_lite",
+"14832"
+],
+"hmd-arc-2": [
+"hmd_arc_2",
+"14788"
+],
+"hmd-vibe-2-5g": [
+"hmd_vibe_2_5g",
+"14668"
+],
+"hmd-luma": [
+"hmd_luma",
+"14517"
+],
+"hmd-terra-m": [
+"hmd_terra_m",
+"14480"
+],
+"hmd-101": [
+"hmd_101",
+"14349"
+],
+"hmd-100": [
+"hmd_100",
+"14348"
+],
+"hmd-touch-4g": [
+"hmd_touch_4g",
+"14208"
+],
+"hmd-ivalo-xe-5g": [
+"hmd_ivalo_xe_5g",
+"14207"
+],
+"hmd-vibe-5g": [
+"hmd_vibe_5g",
+"14145"
+],
+"hmd-102-4g": [
+"hmd_102_4g",
+"14147"
+],
+"hmd-101-4g": [
+"hmd_101_4g",
+"14146"
+],
+"hmd-3210": [
+"hmd_3210",
+"13714"
+],
+"hmd-2660-flip": [
+"hmd_2660_flip",
+"13690"
+],
+"hmd-150-music": [
+"hmd_150_music",
+"13689"
+],
+"hmd-130-music": [
+"hmd_130_music",
+"13687"
+],
+"hmd-aura-2": [
+"hmd_aura_2",
+"13661"
+],
+"hmd-key": [
+"hmd_key",
+"13605"
+],
+"hmd-arc": [
+"hmd_arc",
+"13576"
+],
+"hmd-105-4g": [
+"hmd_105_4g",
+"13337"
+],
+"hmd-fusion": [
+"hmd_fusion",
+"13304"
+],
+"hmd-barbie": [
+"hmd_barbie",
+"13254"
+],
+"hmd-crest-max": [
+"hmd_crest_max",
+"13235"
+],
+"hmd-crest": [
+"hmd_crest",
+"13234"
+],
+"hmd-skyline": [
+"hmd_skyline",
+"13153"
+],
+"hmd-110": [
+"hmd_110",
+"13168"
+],
+"hmd-aura": [
+"hmd_aura",
+"13048"
+],
+"hmd-t21": [
+"hmd_t21",
+"13005"
+],
+"hmd-xr21": [
+"hmd_xr21",
+"13004"
+],
+"hmd-vibe": [
+"hmd_vibe",
+"12957"
+],
+"hmd-pulse-pro": [
+"hmd_pulse_pro",
+"12952"
+],
+"hmd-pulse+": [
+"hmd_pulse+",
+"12956"
+],
+"hmd-pulse": [
+"hmd_pulse",
+"12939"
+],
+"hmd-pulse-2-pro": [
+"hmd_pulse_2_pro",
+"14106"
+],
+"hmd-bold": [
+"hmd_bold",
+"13996"
+]
+}
+},
+"Nothing": {
+"total_on_gsm": 13,
+"missing": {
+"nothing-phone-(4b)-5g": [
+"nothing_phone_(4b)_5g",
+"14781"
+],
+"nothing-phone-(4a)-pro-5g": [
+"nothing_phone_(4a)_pro_5g",
+"14529"
+],
+"nothing-phone-(4a)-5g": [
+"nothing_phone_(4a)_5g",
+"14503"
+],
+"nothing-phone-(3a)-lite-5g": [
+"nothing_phone_(3a)_lite_5g",
+"14267"
+],
+"nothing-phone-(3)-5g": [
+"nothing_phone_(3)_5g",
+"13969"
+],
+"nothing-cmf-phone-2-pro-5g": [
+"nothing_cmf_phone_2_pro_5g",
+"13821"
+],
+"nothing-phone-(3a)-pro": [
+"nothing_phone_(3a)_pro",
+"13649"
+],
+"nothing-phone-(3a)": [
+"nothing_phone_(3a)",
+"13672"
+],
+"nothing-phone-(2a)-plus": [
+"nothing_phone_(2a)_plus",
+"13243"
+],
+"nothing-cmf-phone-1": [
+"nothing_cmf_phone_1",
+"13122"
+],
+"nothing-phone-(2a)": [
+"nothing_phone_(2a)",
+"12760"
+],
+"nothing-phone-(2)": [
+"nothing_phone_(2)",
+"12386"
+],
+"nothing-phone-(1)": [
+"nothing_phone_(1)",
+"11636"
 ]
 }
 }

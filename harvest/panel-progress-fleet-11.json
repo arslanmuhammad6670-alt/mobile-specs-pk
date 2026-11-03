@@ -1,0 +1,19 @@
+{
+"done": [
+"infinix-note-50x",
+"tecno-spark-40-5g",
+"tecno-camon-40-premier",
+"vivo-x300-e-5g",
+"tecno-phantom-v-fold2"
+],
+"failed": {
+"vivo-x300-e-5g": "image",
+"infinix-gt-30-5g": "image",
+"infinix-note-50x": "fetch",
+"infinix-note-40-5g": "image",
+"tecno-spark-50-4g": "image",
+"tecno-spark-40-5g": "fetch",
+"tecno-camon-40-premier": "fetch",
+"tecno-phantom-v-fold2": "image"
+}
+}

@@ -57,7 +57,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # Sirf build ki bani hui output files stage karo (scratch/cache nahi)
           git add index.html smartphones.html keypad-phones.html tablets.html \
-                  laptops.html compare.html best-under-200.html best-under-400.html \
+                  laptops.html compare.html az.html best-under-200.html best-under-400.html \
                   phones.json sitemap.xml robots.txt style.css app.js \
                   phones keypad tablets laptops brands 2>/dev/null || true
           if git diff --cached --quiet; then

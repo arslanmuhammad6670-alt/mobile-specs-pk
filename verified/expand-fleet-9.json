@@ -319,5 +319,112 @@
 "source": "https://www.gsmarena.com/tecno_pova_slim_5g-14111.php",
 "tag": "6.78\" display · Mediatek Dimensity 6400 · 8 GB RAM · 5160 mAh",
 "year": 2025
+},
+{
+"brand": "Vivo",
+"cat": "Smartphones",
+"hl": [
+"6.59\" display",
+"Mediatek Dimensity 7500",
+"8 GB RAM",
+"7200 mAh"
+],
+"name": "vivo S60e",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, May 29, released 2026, June 03)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"157.5 x 74.3 x 7.8 mm (6.20 x 2.93 x 0.31 in); 196 g or 199 g (6.91 oz); Glass front, aluminum frame, glass back; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"AMOLED, 1B colors, 144Hz, HDR, 4320Hz PWM; 6.59 inches, 106.1 cm2 (~90.7% screen-to-body ratio); 1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)"
+],
+[
+"OS",
+"Android 16, OriginOS 6"
+],
+[
+"Chipset",
+"Mediatek Dimensity 7500 (4 nm); CPU Octa-core (4x2.6 GHz Arm C1 Pro & 4x2.0 GHz Arm C1 Nano); GPU Mali-G625 MC"
+],
+[
+"RAM",
+"8 GB / 12 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB; No"
+],
+[
+"Main Camera",
+"50 MP, f/1.9, (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 110˚ (ultrawide); Ring-LED flash, panorama, HDR; video 4K, 1080p, OIS"
+],
+[
+"Selfie Camera",
+"50 MP, f/2.0, 21mm (wide), 1/2.76\", 0.64µm, AF; HDR; video 4K, 1080p"
+],
+[
+"Sensors",
+"Fingerprint (under display, ultrasonic), accelerometer, compass, proximity"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+],
+[
+"Bluetooth",
+"5.4, A2DP, LE, aptX HD"
+],
+[
+"GPS",
+"GPS, GALILEO, GLONASS, BDS, QZSS"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 2.0, OTG"
+],
+[
+"Battery",
+"Si/C Li-Ion 7200 mAh"
+],
+[
+"Charging",
+"90W wired, PD Reverse wired"
+],
+[
+"Colors",
+"Black, White, Green"
+]
+],
+"slug": "vivo-s60-vitality-5g",
+"source": "https://www.gsmarena.com/vivo_s60_vitality_5g-14693.php",
+"tag": "6.59\" display · Mediatek Dimensity 7500 · 8 GB RAM · 7200 mAh",
+"year": 2026
 }
 ]

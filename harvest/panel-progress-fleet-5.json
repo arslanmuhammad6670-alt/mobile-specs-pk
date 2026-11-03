@@ -2,13 +2,17 @@
 "done": [
 "vivo-s2-fe-5g",
 "infinix-hot-50-pro+-4g",
-"vivo-y31t-5g"
+"vivo-y31t-5g",
+"vivo-y6-5g",
+"infinix-smart-8-(india)",
+"tecno-pova-8-pro-5g",
+"tecno-megapad"
 ],
 "failed": {
 "vivo-y31t-5g": "fetch",
 "vivo-y6-5g": "fetch",
 "oppo-reno16-pro-5g-(china)": "image",
-"infinix-note-60-pro-5g": "fetch",
+"infinix-note-60-pro-5g": "image",
 "infinix-smart-10-plus": "image",
 "infinix-hot-50-pro+-4g": "fetch",
 "infinix-smart-8-(india)": "image",

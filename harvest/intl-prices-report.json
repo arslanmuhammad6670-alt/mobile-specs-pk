@@ -1,0 +1,1122 @@
+{
+ "samsung-galaxy-a55": {
+  "usd": 433,
+  "pkr_approx": 119999,
+  "via": "stored-intl"
+ },
+ "apple-macbook-pro-14-m3-pro": {
+  "usd": 1999,
+  "pkr_approx": 552999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-a35": {
+  "usd": 433,
+  "pkr_approx": 119999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-s24-fe": {
+  "usd": 794,
+  "pkr_approx": 219999,
+  "via": "stored-intl"
+ },
+ "apple-iphone-16-pro": {
+  "usd": 1434,
+  "pkr_approx": 396999,
+  "via": "stored-intl"
+ },
+ "apple-iphone-16-plus": {
+  "usd": 1184,
+  "pkr_approx": 327999,
+  "via": "stored-intl"
+ },
+ "apple-iphone-15-pro-max": {
+  "usd": 1715,
+  "pkr_approx": 474999,
+  "via": "stored-intl"
+ },
+ "apple-iphone-15-plus": {
+  "usd": 1390,
+  "pkr_approx": 384999,
+  "via": "stored-intl"
+ },
+ "apple-iphone-13-mini": {
+  "usd": 807,
+  "pkr_approx": 222999,
+  "via": "stored-intl"
+ },
+ "infinix-note-40-pro": {
+  "usd": 271,
+  "pkr_approx": 74999,
+  "via": "stored-intl"
+ },
+ "infinix-hot-50-pro-plus": {
+  "usd": 213,
+  "pkr_approx": 58999,
+  "via": "stored-intl"
+ },
+ "infinix-smart-9": {
+  "usd": 98,
+  "pkr_approx": 26999,
+  "via": "stored-intl"
+ },
+ "infinix-zero-40-4g": {
+  "usd": 228,
+  "pkr_approx": 62999,
+  "via": "stored-intl"
+ },
+ "tecno-camon-40": {
+  "usd": 209,
+  "pkr_approx": 57999,
+  "via": "stored-intl"
+ },
+ "tecno-spark-30-pro": {
+  "usd": 144,
+  "pkr_approx": 39999,
+  "via": "stored-intl"
+ },
+ "tecno-pova-6": {
+  "usd": 235,
+  "pkr_approx": 64999,
+  "via": "stored-intl"
+ },
+ "redmi-note-14": {
+  "usd": 209,
+  "pkr_approx": 57999,
+  "via": "stored-intl"
+ },
+ "redmi-note-13-pro-plus": {
+  "usd": 506,
+  "pkr_approx": 139999,
+  "via": "stored-intl"
+ },
+ "poco-x7": {
+  "usd": 412,
+  "pkr_approx": 113999,
+  "via": "stored-intl"
+ },
+ "vivo-v40": {
+  "usd": 506,
+  "pkr_approx": 139999,
+  "via": "stored-intl"
+ },
+ "vivo-y29": {
+  "usd": 181,
+  "pkr_approx": 49999,
+  "via": "stored-intl"
+ },
+ "vivo-y19s": {
+  "usd": 134,
+  "pkr_approx": 36999,
+  "via": "stored-intl"
+ },
+ "oppo-reno-12": {
+  "usd": 578,
+  "pkr_approx": 159999,
+  "via": "stored-intl"
+ },
+ "oppo-a3-4g": {
+  "usd": 144,
+  "pkr_approx": 39999,
+  "via": "stored-intl"
+ },
+ "realme-13-pro-plus": {
+  "usd": 379,
+  "pkr_approx": 104999,
+  "via": "stored-intl"
+ },
+ "realme-c75": {
+  "usd": 170,
+  "pkr_approx": 46999,
+  "via": "stored-intl"
+ },
+ "realme-note-60": {
+  "usd": 90,
+  "pkr_approx": 24999,
+  "via": "stored-intl"
+ },
+ "honor-x8b": {
+  "usd": 289,
+  "pkr_approx": 79999,
+  "via": "stored-intl"
+ },
+ "honor-200": {
+  "usd": 379,
+  "pkr_approx": 104999,
+  "via": "stored-intl"
+ },
+ "google-pixel-9": {
+  "usd": 722,
+  "pkr_approx": 199999,
+  "via": "stored-intl"
+ },
+ "google-pixel-9-pro": {
+  "usd": 975,
+  "pkr_approx": 269999,
+  "via": "stored-intl"
+ },
+ "oneplus-12r": {
+  "usd": 437,
+  "pkr_approx": 120999,
+  "via": "stored-intl"
+ },
+ "oneplus-nord-4": {
+  "usd": 361,
+  "pkr_approx": 99999,
+  "via": "stored-intl"
+ },
+ "nothing-phone-2a": {
+  "usd": 422,
+  "pkr_approx": 116999,
+  "via": "stored-intl"
+ },
+ "motorola-edge-50-fusion": {
+  "usd": 469,
+  "pkr_approx": 129999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-tab-a9-plus": {
+  "usd": 271,
+  "pkr_approx": 74999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-pro-m4-11": {
+  "usd": 1047,
+  "pkr_approx": 289999,
+  "via": "stored-intl"
+ },
+ "nokia-3210-2024": {
+  "usd": 43,
+  "pkr_approx": 11999,
+  "via": "stored-intl"
+ },
+ "hmd-110-4g": {
+  "usd": 36,
+  "pkr_approx": 9999,
+  "via": "stored-intl"
+ },
+ "apple-iphone-14-pro-max": {
+  "usd": 2044,
+  "pkr_approx": 565999,
+  "via": "stored-intl"
+ },
+ "iphone-12": {
+  "usd": 634,
+  "pkr_approx": 174999,
+  "via": "stored-intl"
+ },
+ "iphone-11": {
+  "usd": 523,
+  "pkr_approx": 144999,
+  "via": "stored-intl"
+ },
+ "redmi-note-12-pro-4g": {
+  "usd": 325,
+  "pkr_approx": 89999,
+  "via": "stored-intl"
+ },
+ "poco-x6": {
+  "usd": 415,
+  "pkr_approx": 114999,
+  "via": "stored-intl"
+ },
+ "infinix-hot-40": {
+  "usd": 137,
+  "pkr_approx": 37999,
+  "via": "stored-intl"
+ },
+ "tecno-spark-20-pro": {
+  "usd": 148,
+  "pkr_approx": 40999,
+  "via": "stored-intl"
+ },
+ "oppo-a60": {
+  "usd": 199,
+  "pkr_approx": 54999,
+  "via": "stored-intl"
+ },
+ "realme-c67": {
+  "usd": 163,
+  "pkr_approx": 44999,
+  "via": "stored-intl"
+ },
+ "honor-x6b": {
+  "usd": 87,
+  "pkr_approx": 23999,
+  "via": "stored-intl"
+ },
+ "poco-c65": {
+  "usd": 163,
+  "pkr_approx": 44999,
+  "via": "stored-intl"
+ },
+ "tecno-pova-6-neo": {
+  "usd": 199,
+  "pkr_approx": 54999,
+  "via": "stored-intl"
+ },
+ "oneplus-nord-ce4": {
+  "usd": 339,
+  "pkr_approx": 93999,
+  "via": "stored-intl"
+ },
+ "motorola-edge-50-pro": {
+  "usd": 679,
+  "pkr_approx": 187999,
+  "via": "stored-intl"
+ },
+ "realme-gt-6": {
+  "usd": 542,
+  "pkr_approx": 149999,
+  "via": "stored-intl"
+ },
+ "honor-magic-6-pro": {
+  "usd": 679,
+  "pkr_approx": 187999,
+  "via": "stored-intl"
+ },
+ "nothing-phone-2a-plus": {
+  "usd": 549,
+  "pkr_approx": 151999,
+  "via": "stored-intl"
+ },
+ "iphone-16e": {
+  "usd": 1047,
+  "pkr_approx": 289999,
+  "via": "stored-intl"
+ },
+ "google-pixel-9a": {
+  "usd": 549,
+  "pkr_approx": 151999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-a16-5g": {
+  "usd": 217,
+  "pkr_approx": 59999,
+  "via": "stored-intl"
+ },
+ "xiaomi-14t": {
+  "usd": 636,
+  "pkr_approx": 175999,
+  "via": "stored-intl"
+ },
+ "vivo-y200-4g": {
+  "usd": 209,
+  "pkr_approx": 57999,
+  "via": "stored-intl"
+ },
+ "tecno-camon-40-pro-4g": {
+  "usd": 274,
+  "pkr_approx": 75999,
+  "via": "stored-intl"
+ },
+ "vivo-x500-pro": {
+  "usd": 1506,
+  "pkr_approx": 416999,
+  "via": "stored-intl"
+ },
+ "vivo-x500": {
+  "usd": 1148,
+  "pkr_approx": 317999,
+  "via": "stored-intl"
+ },
+ "oneplus-ace-7-pro": {
+  "usd": 715,
+  "pkr_approx": 197999,
+  "via": "stored-intl"
+ },
+ "oneplus-ace-7": {
+  "usd": 654,
+  "pkr_approx": 180999,
+  "via": "stored-intl"
+ },
+ "huawei-pura-90-plus": {
+  "usd": 827,
+  "pkr_approx": 228999,
+  "via": "stored-intl"
+ },
+ "huawei-enjoy-100-pro-max": {
+  "usd": 300,
+  "pkr_approx": 82999,
+  "via": "stored-intl"
+ },
+ "huawei-enjoy-100-pro": {
+  "usd": 267,
+  "pkr_approx": 73999,
+  "via": "stored-intl"
+ },
+ "vivo-y600": {
+  "usd": 282,
+  "pkr_approx": 77999,
+  "via": "stored-intl"
+ },
+ "apple-macbook-air-m3-13": {
+  "usd": 1099,
+  "pkr_approx": 303999,
+  "via": "stored-intl"
+ },
+ "apple-macbook-air-m4-13": {
+  "usd": 997,
+  "pkr_approx": 275999,
+  "via": "stored-intl"
+ },
+ "apple-macbook-air-m4-15": {
+  "usd": 1200,
+  "pkr_approx": 331999,
+  "via": "stored-intl"
+ },
+ "apple-macbook-pro-14-m3": {
+  "usd": 1597,
+  "pkr_approx": 441999,
+  "via": "stored-intl"
+ },
+ "apple-macbook-pro-16-m3-pro": {
+  "usd": 2497,
+  "pkr_approx": 690999,
+  "via": "stored-intl"
+ },
+ "apple-macbook-pro-16-m4-pro": {
+  "usd": 2497,
+  "pkr_approx": 690999,
+  "via": "stored-intl"
+ },
+ "apple-macbook-air-m1": {
+  "usd": 997,
+  "pkr_approx": 275999,
+  "via": "stored-intl"
+ },
+ "apple-macbook-air-m2-13": {
+  "usd": 1200,
+  "pkr_approx": 331999,
+  "via": "stored-intl"
+ },
+ "apple-macbook-air-m2-15": {
+  "usd": 1297,
+  "pkr_approx": 358999,
+  "via": "stored-intl"
+ },
+ "apple-macbook-air-m3-15": {
+  "usd": 1297,
+  "pkr_approx": 358999,
+  "via": "stored-intl"
+ },
+ "apple-macbook-pro-14-m4": {
+  "usd": 1597,
+  "pkr_approx": 441999,
+  "via": "stored-intl"
+ },
+ "apple-macbook-pro-14-m4-pro": {
+  "usd": 1999,
+  "pkr_approx": 552999,
+  "via": "stored-intl"
+ },
+ "apple-iphone-duo-fold": {
+  "usd": 2575,
+  "pkr_approx": 711999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-a26": {
+  "usd": 343,
+  "pkr_approx": 94999,
+  "via": "stored-intl"
+ },
+ "vivo-v50": {
+  "usd": 506,
+  "pkr_approx": 139999,
+  "via": "stored-intl"
+ },
+ "oppo-reno-14": {
+  "usd": 542,
+  "pkr_approx": 149999,
+  "via": "stored-intl"
+ },
+ "realme-14-pro-plus": {
+  "usd": 415,
+  "pkr_approx": 114999,
+  "via": "stored-intl"
+ },
+ "infinix-note-50-pro-plus": {
+  "usd": 433,
+  "pkr_approx": 119999,
+  "via": "stored-intl"
+ },
+ "honor-400": {
+  "usd": 578,
+  "pkr_approx": 159999,
+  "via": "stored-intl"
+ },
+ "honor-400-pro": {
+  "usd": 794,
+  "pkr_approx": 219999,
+  "via": "stored-intl"
+ },
+ "infinix-note-50-pro": {
+  "usd": 325,
+  "pkr_approx": 89999,
+  "via": "stored-intl"
+ },
+ "honor-x9c": {
+  "usd": 361,
+  "pkr_approx": 99999,
+  "via": "stored-intl"
+ },
+ "poco-x7-pro": {
+  "usd": 506,
+  "pkr_approx": 139999,
+  "via": "stored-intl"
+ },
+ "infinix-hot-50-pro": {
+  "usd": 152,
+  "pkr_approx": 41999,
+  "via": "stored-intl"
+ },
+ "vivo-y19s-pro": {
+  "usd": 159,
+  "pkr_approx": 43999,
+  "via": "stored-intl"
+ },
+ "oppo-a3x": {
+  "usd": 101,
+  "pkr_approx": 27999,
+  "via": "stored-intl"
+ },
+ "infinix-hot-50i": {
+  "usd": 112,
+  "pkr_approx": 30999,
+  "via": "stored-intl"
+ },
+ "tecno-spark-20c": {
+  "usd": 101,
+  "pkr_approx": 27999,
+  "via": "stored-intl"
+ },
+ "redmi-14c": {
+  "usd": 98,
+  "pkr_approx": 26999,
+  "via": "stored-intl"
+ },
+ "realme-c61": {
+  "usd": 112,
+  "pkr_approx": 30999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-air-m3": {
+  "usd": 740,
+  "pkr_approx": 204999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-pro-13-m4": {
+  "usd": 1119,
+  "pkr_approx": 309999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-z-flip-7": {
+  "usd": 1408,
+  "pkr_approx": 389999,
+  "via": "stored-intl"
+ },
+ "google-pixel-9-pro-xl": {
+  "usd": 1065,
+  "pkr_approx": 294999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-mini-7": {
+  "usd": 596,
+  "pkr_approx": 164999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-tab-s10-fe": {
+  "usd": 488,
+  "pkr_approx": 134999,
+  "via": "stored-intl"
+ },
+ "xiaomi-pad-7": {
+  "usd": 451,
+  "pkr_approx": 124999,
+  "via": "stored-intl"
+ },
+ "nokia-235-4g": {
+  "usd": 27,
+  "pkr_approx": 6999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-f70-5g": {
+  "usd": 213,
+  "pkr_approx": 58999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-tab-s12+-5g": {
+  "usd": 1488,
+  "pkr_approx": 411999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-f08": {
+  "usd": 181,
+  "pkr_approx": 49999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-m08": {
+  "usd": 181,
+  "pkr_approx": 49999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-a08": {
+  "usd": 166,
+  "pkr_approx": 45999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-a07s": {
+  "usd": 155,
+  "pkr_approx": 42999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-z-trifold-5g": {
+  "usd": 3247,
+  "pkr_approx": 897999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-tab-a11": {
+  "usd": 202,
+  "pkr_approx": 55999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-tab-s11-5g": {
+  "usd": 896,
+  "pkr_approx": 247999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-tab-s10-lite-5g": {
+  "usd": 390,
+  "pkr_approx": 107999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-m17-5g": {
+  "usd": 134,
+  "pkr_approx": 36999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-pro-11-(2022)": {
+  "usd": 1177,
+  "pkr_approx": 325999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-(2022)": {
+  "usd": 480,
+  "pkr_approx": 132999,
+  "via": "stored-intl"
+ },
+ "xiaomi-redmi-m100-pro-5g": {
+  "usd": 336,
+  "pkr_approx": 92999,
+  "via": "stored-intl"
+ },
+ "xiaomi-redmi-note-17-pro-refresh-5g-(china": {
+  "usd": 235,
+  "pkr_approx": 64999,
+  "via": "stored-intl"
+ },
+ "xiaomi-18-pro-max-5g": {
+  "usd": 1029,
+  "pkr_approx": 284999,
+  "via": "stored-intl"
+ },
+ "xiaomi-18-fold-5g": {
+  "usd": 1567,
+  "pkr_approx": 433999,
+  "via": "stored-intl"
+ },
+ "xiaomi-poco-m8x-5g": {
+  "usd": 213,
+  "pkr_approx": 58999,
+  "via": "stored-intl"
+ },
+ "xiaomi-redmi-m100-5g": {
+  "usd": 256,
+  "pkr_approx": 70999,
+  "via": "stored-intl"
+ },
+ "xiaomi-redmi-k100-pro-max-5g": {
+  "usd": 603,
+  "pkr_approx": 166999,
+  "via": "stored-intl"
+ },
+ "xiaomi-redmi-k100-pro-5g": {
+  "usd": 538,
+  "pkr_approx": 148999,
+  "via": "stored-intl"
+ },
+ "xiaomi-redmi-note-17-5g-(china)": {
+  "usd": 293,
+  "pkr_approx": 80999,
+  "via": "stored-intl"
+ },
+ "xiaomi-redmi-k90-ultra-5g": {
+  "usd": 437,
+  "pkr_approx": 120999,
+  "via": "stored-intl"
+ },
+ "xiaomi-redmi-17c-(china)": {
+  "usd": 112,
+  "pkr_approx": 30999,
+  "via": "stored-intl"
+ },
+ "xiaomi-poco-c81x": {
+  "usd": 101,
+  "pkr_approx": 27999,
+  "via": "stored-intl"
+ },
+ "xiaomi-redmi-k90-max-5g": {
+  "usd": 491,
+  "pkr_approx": 135999,
+  "via": "stored-intl"
+ },
+ "xiaomi-redmi-k-pad-2": {
+  "usd": 480,
+  "pkr_approx": 132999,
+  "via": "stored-intl"
+ },
+ "xiaomi-redmi-pad-2-9-7": {
+  "usd": 181,
+  "pkr_approx": 49999,
+  "via": "stored-intl"
+ },
+ "xiaomi-poco-m8s-5g": {
+  "usd": 181,
+  "pkr_approx": 49999,
+  "via": "stored-intl"
+ },
+ "xiaomi-redmi-r70m-5g": {
+  "usd": 246,
+  "pkr_approx": 67999,
+  "via": "stored-intl"
+ },
+ "xiaomi-redmi-r70-5g": {
+  "usd": 224,
+  "pkr_approx": 61999,
+  "via": "stored-intl"
+ },
+ "oppo-f35-5g": {
+  "usd": 404,
+  "pkr_approx": 111999,
+  "via": "stored-intl"
+ },
+ "oppo-a7-pro-max-5g": {
+  "usd": 672,
+  "pkr_approx": 185999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-air-11-5g-(2026)": {
+  "usd": 729,
+  "pkr_approx": 201999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-pro-13-5g-(2025)": {
+  "usd": 1625,
+  "pkr_approx": 449999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-pro-11-5g-(2025)": {
+  "usd": 1231,
+  "pkr_approx": 340999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-air-13-(2025)": {
+  "usd": 1062,
+  "pkr_approx": 293999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-(2025)": {
+  "usd": 448,
+  "pkr_approx": 123999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-mini-(2024)": {
+  "usd": 672,
+  "pkr_approx": 185999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-pro-13-(2024)": {
+  "usd": 1733,
+  "pkr_approx": 479999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-pro-11-(2024)": {
+  "usd": 1343,
+  "pkr_approx": 371999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-air-13-(2024)": {
+  "usd": 1062,
+  "pkr_approx": 293999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-air-11-(2024)": {
+  "usd": 784,
+  "pkr_approx": 216999,
+  "via": "stored-intl"
+ },
+ "xiaomi-poco-x8s-5g": {
+  "usd": 404,
+  "pkr_approx": 111999,
+  "via": "stored-intl"
+ },
+ "xiaomi-18-pro-5g": {
+  "usd": 885,
+  "pkr_approx": 244999,
+  "via": "stored-intl"
+ },
+ "xiaomi-pad-9-pro": {
+  "usd": 560,
+  "pkr_approx": 154999,
+  "via": "stored-intl"
+ },
+ "xiaomi-redmi-note-17-pro-5g-(china)": {
+  "usd": 235,
+  "pkr_approx": 64999,
+  "via": "stored-intl"
+ },
+ "xiaomi-poco-c81-pro": {
+  "usd": 134,
+  "pkr_approx": 36999,
+  "via": "stored-intl"
+ },
+ "oppo-reno16-fs-5g": {
+  "usd": 729,
+  "pkr_approx": 201999,
+  "via": "stored-intl"
+ },
+ "oppo-find-x9s-5g": {
+  "usd": 874,
+  "pkr_approx": 241999,
+  "via": "stored-intl"
+ },
+ "oppo-a6s-pro-5g-(china)": {
+  "usd": 303,
+  "pkr_approx": 83999,
+  "via": "stored-intl"
+ },
+ "oppo-k15-pro+-5g": {
+  "usd": 516,
+  "pkr_approx": 142999,
+  "via": "stored-intl"
+ },
+ "oppo-k15-pro-5g": {
+  "usd": 448,
+  "pkr_approx": 123999,
+  "via": "stored-intl"
+ },
+ "oppo-find-n6-5g": {
+  "usd": 1401,
+  "pkr_approx": 387999,
+  "via": "stored-intl"
+ },
+ "oppo-k14-5g": {
+  "usd": 191,
+  "pkr_approx": 52999,
+  "via": "stored-intl"
+ },
+ "oppo-a6s-5g-(india)": {
+  "usd": 202,
+  "pkr_approx": 55999,
+  "via": "stored-intl"
+ },
+ "oneplus-ace-7-pro-5g": {
+  "usd": 729,
+  "pkr_approx": 201999,
+  "via": "stored-intl"
+ },
+ "oneplus-16-5g": {
+  "usd": 896,
+  "pkr_approx": 247999,
+  "via": "stored-intl"
+ },
+ "oneplus-pad-3-pro": {
+  "usd": 639,
+  "pkr_approx": 176999,
+  "via": "stored-intl"
+ },
+ "oneplus-turbo-6x-pro-5g": {
+  "usd": 293,
+  "pkr_approx": 80999,
+  "via": "stored-intl"
+ },
+ "oneplus-ace-6-ultra-5g": {
+  "usd": 491,
+  "pkr_approx": 135999,
+  "via": "stored-intl"
+ },
+ "oneplus-pad-4": {
+  "usd": 672,
+  "pkr_approx": 185999,
+  "via": "stored-intl"
+ },
+ "oneplus-pad-go-2-5g": {
+  "usd": 390,
+  "pkr_approx": 107999,
+  "via": "stored-intl"
+ },
+ "oneplus-ace-6t-5g": {
+  "usd": 358,
+  "pkr_approx": 98999,
+  "via": "stored-intl"
+ },
+ "oneplus-pad-3-(global)": {
+  "usd": 672,
+  "pkr_approx": 185999,
+  "via": "stored-intl"
+ },
+ "oneplus-pad-2": {
+  "usd": 614,
+  "pkr_approx": 169999,
+  "via": "stored-intl"
+ },
+ "oneplus-nord-ce4-lite-(india)": {
+  "usd": 246,
+  "pkr_approx": 67999,
+  "via": "stored-intl"
+ },
+ "samsung-galaxy-f56-5g": {
+  "usd": 303,
+  "pkr_approx": 83999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-air-13-5g-(2026)": {
+  "usd": 953,
+  "pkr_approx": 263999,
+  "via": "stored-intl"
+ },
+ "apple-ipad-air-11-(2025)": {
+  "usd": 784,
+  "pkr_approx": 216999,
+  "via": "stored-intl"
+ },
+ "xiaomi-redmi-k100-5g": {
+  "usd": 527,
+  "pkr_approx": 145999,
+  "via": "stored-intl"
+ },
+ "xiaomi-pad-9": {
+  "usd": 437,
+  "pkr_approx": 120999,
+  "via": "stored-intl"
+ },
+ "xiaomi-pad-9-pro-max": {
+  "usd": 693,
+  "pkr_approx": 191999,
+  "via": "stored-intl"
+ },
+ "xiaomi-17-max-5g": {
+  "usd": 683,
+  "pkr_approx": 188999,
+  "via": "stored-intl"
+ },
+ "xiaomi-black-shark-pad-se": {
+  "usd": 224,
+  "pkr_approx": 61999,
+  "via": "stored-intl"
+ },
+ "xiaomi-poco-c81": {
+  "usd": 112,
+  "pkr_approx": 30999,
+  "via": "stored-intl"
+ },
+ "oppo-k15x-5g": {
+  "usd": 256,
+  "pkr_approx": 70999,
+  "via": "stored-intl"
+ },
+ "oppo-f35-pro-5g": {
+  "usd": 480,
+  "pkr_approx": 132999,
+  "via": "stored-intl"
+ },
+ "oppo-find-x10-e": {
+  "usd": 729,
+  "pkr_approx": 201999,
+  "via": "stored-intl"
+ },
+ "oppo-k14-plus-5g": {
+  "usd": 314,
+  "pkr_approx": 86999,
+  "via": "stored-intl"
+ },
+ "oppo-k14-lite": {
+  "usd": 166,
+  "pkr_approx": 45999,
+  "via": "stored-intl"
+ },
+ "oppo-a7-pro-5g": {
+  "usd": 314,
+  "pkr_approx": 86999,
+  "via": "stored-intl"
+ },
+ "oppo-k15-5g": {
+  "usd": 336,
+  "pkr_approx": 92999,
+  "via": "stored-intl"
+ },
+ "oppo-reno16-f-5g": {
+  "usd": 614,
+  "pkr_approx": 169999,
+  "via": "stored-intl"
+ },
+ "oppo-pad-6": {
+  "usd": 491,
+  "pkr_approx": 135999,
+  "via": "stored-intl"
+ },
+ "oppo-find-x9s-pro": {
+  "usd": 838,
+  "pkr_approx": 231999,
+  "via": "stored-intl"
+ },
+ "oppo-k15s-5g": {
+  "usd": 303,
+  "pkr_approx": 83999,
+  "via": "stored-intl"
+ },
+ "oppo-reno16-5g-(china)": {
+  "usd": 491,
+  "pkr_approx": 135999,
+  "via": "stored-intl"
+ },
+ "oppo-pad-5-pro": {
+  "usd": 603,
+  "pkr_approx": 166999,
+  "via": "stored-intl"
+ },
+ "oppo-reno15c-5g-(india)": {
+  "usd": 368,
+  "pkr_approx": 101999,
+  "via": "stored-intl"
+ },
+ "oneplus-n6-lite": {
+  "usd": 181,
+  "pkr_approx": 49999,
+  "via": "stored-intl"
+ },
+ "oneplus-turbo-6x-5g": {
+  "usd": 267,
+  "pkr_approx": 73999,
+  "via": "stored-intl"
+ },
+ "oneplus-nord-ce6-lite-5g": {
+  "usd": 213,
+  "pkr_approx": 58999,
+  "via": "stored-intl"
+ },
+ "oneplus-turbo-6-5g": {
+  "usd": 314,
+  "pkr_approx": 86999,
+  "via": "stored-intl"
+ },
+ "oneplus-turbo-6v-5g": {
+  "usd": 256,
+  "pkr_approx": 70999,
+  "via": "stored-intl"
+ },
+ "oneplus-ace-5-ultra-5g": {
+  "usd": 347,
+  "pkr_approx": 95999,
+  "via": "stored-intl"
+ },
+ "oneplus-pad-2-pro": {
+  "usd": 448,
+  "pkr_approx": 123999,
+  "via": "stored-intl"
+ },
+ "oneplus-13t-5g": {
+  "usd": 459,
+  "pkr_approx": 126999,
+  "via": "stored-intl"
+ },
+ "oneplus-ace-5": {
+  "usd": 336,
+  "pkr_approx": 92999,
+  "via": "stored-intl"
+ },
+ "oneplus-ace-3-pro": {
+  "usd": 459,
+  "pkr_approx": 126999,
+  "via": "stored-intl"
+ },
+ "oneplus-pad-pro": {
+  "usd": 415,
+  "pkr_approx": 114999,
+  "via": "stored-intl"
+ },
+ "oneplus-nord-ce4-lite": {
+  "usd": 123,
+  "pkr_approx": 33999,
+  "via": "stored-intl"
+ },
+ "google-pixel-c": {
+  "usd": 379,
+  "pkr_approx": 104999,
+  "via": "stored-intl"
+ },
+ "vivo-iqoo-neo12-5g-(china)": {
+  "usd": 639,
+  "pkr_approx": 176999,
+  "via": "stored-intl"
+ },
+ "vivo-v80-5g": {
+  "usd": 650,
+  "pkr_approx": 179999,
+  "via": "stored-intl"
+ },
+ "vivo-iqoo-pad-ultra": {
+  "usd": 964,
+  "pkr_approx": 266999,
+  "via": "stored-intl"
+ },
+ "vivo-y600i-5g": {
+  "usd": 293,
+  "pkr_approx": 80999,
+  "via": "stored-intl"
+ },
+ "vivo-x500-pro-5g": {
+  "usd": 1412,
+  "pkr_approx": 390999,
+  "via": "stored-intl"
+ },
+ "vivo-x500-5g": {
+  "usd": 1152,
+  "pkr_approx": 318999,
+  "via": "stored-intl"
+ },
+ "vivo-t5-5g": {
+  "usd": 325,
+  "pkr_approx": 89999,
+  "via": "stored-intl"
+ },
+ "vivo-v80-lite-5g-(india)": {
+  "usd": 437,
+  "pkr_approx": 120999,
+  "via": "stored-intl"
+ },
+ "vivo-iqoo-neo11-ultra-5g": {
+  "usd": 480,
+  "pkr_approx": 132999,
+  "via": "stored-intl"
+ },
+ "vivo-x-fold6-5g": {
+  "usd": 2318,
+  "pkr_approx": 640999,
+  "via": "stored-intl"
+ },
+ "vivo-t5": {
+  "usd": 325,
+  "pkr_approx": 89999,
+  "via": "stored-intl"
+ },
+ "vivo-y600-turbo-5g": {
+  "usd": 325,
+  "pkr_approx": 89999,
+  "via": "stored-intl"
+ },
+ "vivo-iqoo-z11-5g": {
+  "usd": 415,
+  "pkr_approx": 114999,
+  "via": "stored-intl"
+ }
+}

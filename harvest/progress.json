@@ -155,7 +155,8 @@
 "infinix-xpad-20",
 "infinix-note-50x",
 "infinix-note-50-4g",
-"infinix-hot-50-pro-4g"
+"infinix-hot-50-pro-4g",
+"infinix-hot-50-4g"
 ],
 "failed": {
 "samsung-galaxy-m17-5g": "image",
@@ -388,8 +389,9 @@
 "infinix-note-50s-5g": "image",
 "infinix-note-50-pro+": "image",
 "infinix-note-50-pro-4g": "image",
-"infinix-smart-9-hd": "image"
+"infinix-smart-9-hd": "image",
+"infinix-hot-50-pro+-4g": "image"
 },
 "batch_idx": 4,
-"added": 156
+"added": 157
 }

@@ -257,6 +257,17 @@ for _d in ALL:
         _twin = next(x for x in ALL if x["slug"] == _s[len("apple-"):])
         if _d["name"].replace("Apple ", "") == _twin["name"].replace("Apple ", ""):
             _alias_drop.add(_s)
+# Named alias duplicate (user-approved fix, 2026-11-03): the GSMArena "_5g"
+# harvest of the OnePlus Ace 7 Pro is the SAME phone as oneplus-ace-7-pro
+# (identical name and specs, wrong second price). Drop the alias record so a
+# future pipeline re-add can never render it again. Narrow on purpose: other
+# "-5g" slugs (Galaxy A07 5G, Vivo X500 5G pages) are distinct records.
+for _alias, _base in (("oneplus-ace-7-pro-5g", "oneplus-ace-7-pro"),):
+    if _alias in _slugs_now and _base in _slugs_now:
+        _a = next(x for x in ALL if x["slug"] == _alias)
+        _b = next(x for x in ALL if x["slug"] == _base)
+        if _a["name"].strip().lower() == _b["name"].strip().lower():
+            _alias_drop.add(_alias)
 if _alias_drop:
     print(f"DEDUP ALIAS: removed {len(_alias_drop)} alias records: {sorted(_alias_drop)}")
     ALL = [d for d in ALL if d["slug"] not in _alias_drop]

@@ -533,5 +533,112 @@
 "source": "https://www.gsmarena.com/tecno_camon_30s-13426.php",
 "tag": "6.78\" display · Mediatek Helio G100 · 6 GB RAM · 5000 mAh",
 "year": 2024
+},
+{
+"brand": "Tecno",
+"cat": "Smartphones",
+"hl": [
+"6.67\" display",
+"Mediatek Helio G81",
+"4 GB RAM",
+"5200 mAh"
+],
+"name": "Tecno Spark 40 4G",
+"price": 53999,
+"price_src": "https://priceoye.pk/mobiles/tecno/tecno-spark-40",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 2025, July 02, released 2025, July)"
+],
+[
+"Network",
+"GSM / HSPA / LTE"
+],
+[
+"Body",
+"165.6 x 77 x 7.7 mm (6.52 x 3.03 x 0.30 in); -; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"IPS LCD, 120Hz; 6.67 inches, 107.4 cm2 (~84.2% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+],
+[
+"OS",
+"Android 15, HIOS 15"
+],
+[
+"Chipset",
+"Mediatek Helio G81 (12 nm)Mediatek Helio G91 (12 nm) - NFC model; CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MC2"
+],
+[
+"RAM",
+"4 GB / 6 GB / 8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC"
+],
+[
+"Main Camera",
+"50 MP, (wide), PDAF Auxiliary lens; Dual-LED flash; video 1440p@30fps, 1080p@30fps"
+],
+[
+"Selfie Camera",
+"8 MP, (wide); Dual-LED flash; video 1080p@30fps"
+],
+[
+"Sensors",
+"Fingerprint (side-mounted); unspecified sensors"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"Yes"
+],
+[
+"Wi-Fi",
+"Yes"
+],
+[
+"Bluetooth",
+"Yes"
+],
+[
+"GPS",
+"GPS"
+],
+[
+"NFC",
+"Yes (market/region dependent)"
+],
+[
+"Radio",
+"FM radio"
+],
+[
+"USB",
+"USB Type-C"
+],
+[
+"Battery",
+"5200 mAh"
+],
+[
+"Charging",
+"45W wired, 55 min to 100%"
+],
+[
+"Colors",
+"Ink Black, Titanium Grey, Veil White, Mirage Blue, Sun Orange"
+]
+],
+"slug": "tecno-spark-40-4g",
+"source": "https://www.gsmarena.com/tecno_spark_40_4g-13984.php",
+"tag": "6.67\" display · Mediatek Helio G81 · 4 GB RAM · 5200 mAh",
+"year": 2025
 }
 ]

@@ -1,0 +1,15 @@
+{
+"done": [
+"infinix-hot-60i-5g",
+"tecno-pova-curve-5g"
+],
+"failed": {
+"infinix-hot-60i-5g": "image",
+"infinix-note-50s-5g": "image",
+"infinix-note-40x-5g": "image",
+"tecno-pop-x": "image",
+"tecno-spark-slim": "image",
+"tecno-pova-curve-5g": "image",
+"tecno-spark-30": "image"
+}
+}

@@ -2,7 +2,12 @@
 "done": [
 "infinix-smart-8-pro",
 "vivo-iqoo-z11-5g-(india)",
-"infinix-hot-50-pro-4g"
+"infinix-hot-50-pro-4g",
+"vivo-iqoo-z11i-5g",
+"vivo-y500s-5g",
+"tecno-spark-go-3-pro",
+"tecno-camon-50",
+"tecno-spark-40-pro+"
 ],
 "failed": {
 "vivo-iqoo-z11-5g-(india)": "image",

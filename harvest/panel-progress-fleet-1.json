@@ -1,0 +1,21 @@
+{
+"done": [
+"tecno-spark-50c",
+"tecno-spark-40c",
+"vivo-iqoo-pad6-pro"
+],
+"failed": {
+"vivo-iqoo-pad-pro-8-8": "image",
+"vivo-iqoo-z11-lite-5g": "image",
+"vivo-iqoo-pad6-pro": "image",
+"vivo-iqoo-z11-5g-(china)": "image",
+"infinix-hot-70-pro-5g": "image",
+"infinix-hot-60-pro+": "image",
+"infinix-note-50-pro-4g": "image",
+"infinix-note-40-pro+": "image",
+"tecno-spark-50c": "fetch",
+"tecno-camon-50-ultra-5g": "image",
+"tecno-spark-40c": "fetch",
+"tecno-camon-40-pro": "image"
+}
+}

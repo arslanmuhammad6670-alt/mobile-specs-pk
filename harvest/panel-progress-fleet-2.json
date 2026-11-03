@@ -2,7 +2,11 @@
 "done": [
 "infinix-note-40-pro-4g",
 "tecno-camon-50-pro-5g",
-"tecno-camon-air"
+"tecno-camon-air",
+"tecno-spark-go-1s",
+"vivo-y600-5g",
+"infinix-hot-60-pro",
+"infinix-note-50-4g"
 ],
 "failed": {
 "vivo-y600-5g": "fetch",

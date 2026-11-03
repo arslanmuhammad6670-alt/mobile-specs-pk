@@ -2,7 +2,11 @@
 "done": [
 "infinix-hot-50",
 "tecno-pova-7",
-"tecno-spark-30-5g"
+"tecno-spark-30-5g",
+"tecno-pova-8-5g",
+"vivo-s60-5g",
+"tecno-megapad-pro",
+"infinix-note-edge-5g"
 ],
 "failed": {
 "vivo-s60-5g": "image",

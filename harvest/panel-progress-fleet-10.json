@@ -1,7 +1,10 @@
 {
 "done": [
 "infinix-hot-60i-5g",
-"tecno-pova-curve-5g"
+"tecno-pova-curve-5g",
+"tecno-spark-30",
+"tecno-spark-slim",
+"tecno-pop-x"
 ],
 "failed": {
 "infinix-hot-60i-5g": "image",

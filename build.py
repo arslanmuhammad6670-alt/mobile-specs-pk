@@ -280,6 +280,19 @@ for _d in ALL:
     _d["rows"] = [(k, v) for k, v in _d["rows"] if k not in ("Price", "Price in Pakistan")]
     _d["rows"] = _d["rows"] + [("Price", f"Rs {_d['price']:,} · ${usd(_d['price']):,}" if _d['price'] is not None else "Price not announced")]
 
+# ---- Brand name normalization (user order 2026-11-03): harvested records
+# carry GSMArena casing ("vivo") while base records use "Vivo" — merge them
+# into ONE canonical brand so the homepage shows a single tile/page per brand.
+_BRAND_CANON = {"vivo": "Vivo", "iqoo": "iQOO", "oneplus": "OnePlus", "oppo": "Oppo",
+                "realme": "Realme", "infinix": "Infinix", "tecno": "Tecno", "hmd": "HMD",
+                "hp": "HP", "samsung": "Samsung", "apple": "Apple", "xiaomi": "Xiaomi",
+                "google": "Google", "honor": "Honor", "huawei": "Huawei",
+                "motorola": "Motorola", "nokia": "Nokia", "nothing": "Nothing",
+                "lenovo": "Lenovo", "dell": "Dell", "asus": "Asus", "acer": "Acer"}
+for _d in ALL:
+    _canon = _BRAND_CANON.get(str(_d.get("brand", "")).strip().lower())
+    if _canon: _d["brand"] = _canon
+
 # ---- Flat single-table specs (user order 2026-11-02: ONE table, no big section headings,
 # small labels, every detail its own row — GSMArena style) ----
 import re as _re2

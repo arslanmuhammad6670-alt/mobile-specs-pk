@@ -640,5 +640,112 @@
 "source": "https://www.gsmarena.com/tecno_spark_go_5g-14074.php",
 "tag": "6.75\" display · Mediatek Dimensity 6400 · 4 GB RAM · 6000 mAh",
 "year": 2025
+},
+{
+"brand": "Vivo",
+"cat": "Tablets",
+"hl": [
+"13.2\" display",
+"Qualcomm SM8850-AC Snapdragon ",
+"8 GB RAM",
+"13000 mAh"
+],
+"name": "vivo Pad6 Pro",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, March 30, released 2026, April 03)"
+],
+[
+"Network",
+"No cellular connectivity"
+],
+[
+"Body",
+"297 x 199.8 x 6.2 mm (11.69 x 7.87 x 0.24 in); 663 g (1.46 lb); Glass front, aluminum back, aluminum frame; No"
+],
+[
+"Display",
+"IPS LCD, 1B colors, 144Hz, HDR, 1200 nits (peak); 13.2 inches, 515.0 cm2 (~86.8% screen-to-body ratio); 2512 x 3840 pixels, 3:2 ratio (~348 ppi density)"
+],
+[
+"OS",
+"Android 16, OriginOS 6"
+],
+[
+"Chipset",
+"Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
+],
+[
+"RAM",
+"8 GB / 12 GB / 16 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB; No"
+],
+[
+"Main Camera",
+"13 MP; LED flash, panorama; video 4K, 1080p"
+],
+[
+"Selfie Camera",
+"8 MP; video 1080p@30fps"
+],
+[
+"Sensors",
+"Accelerometer, gyro, proximity (accessories only)"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers (8 speakers)"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6/7 dual-band"
+],
+[
+"Bluetooth",
+"5.4, A2DP, LE"
+],
+[
+"GPS",
+"Unspecified"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 3.2, OTG, magnetic connector"
+],
+[
+"Battery",
+"13000 mAh"
+],
+[
+"Charging",
+"66W wired, PD 5W reverse wired"
+],
+[
+"Colors",
+"Gray, Blue, Purple"
+]
+],
+"slug": "vivo-pad6-pro",
+"source": "https://www.gsmarena.com/vivo_pad6_pro-14569.php",
+"tag": "13.2\" display · Qualcomm SM8850-AC Snapdragon  · 8 GB RAM · 13000 mAh",
+"year": 2026
 }
 ]

@@ -56,13 +56,36 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # Sirf build ki bani hui output files stage karo (scratch/cache nahi)
-          git add index.html smartphones.html keypad-phones.html tablets.html \
-                  laptops.html compare.html az.html best-under-200.html best-under-400.html \
-                  phones.json sitemap.xml robots.txt style.css app.js \
-                  phones keypad tablets laptops brands 2>/dev/null || true
+          stage() {
+            git add index.html smartphones.html keypad-phones.html tablets.html \
+                    laptops.html compare.html az.html best-under-200.html best-under-400.html \
+                    phones.json sitemap.xml robots.txt style.css app.js \
+                    phones keypad tablets laptops brands 2>/dev/null || true
+          }
+          stage
           if git diff --cached --quiet; then
             echo "No site changes to commit."
-          else
-            git commit -m "site: auto rebuild after model change [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "site: auto rebuild after model change [skip ci]"
+          # Push takra jaye (dusra deploy beech mein aa gaya) to latest main
+          # par dobara build karke phir koshish karo — generated files hain,
+          # dobara banana hi sabse saaf hal hai
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "Pushed on attempt $i."
+              exit 0
+            fi
+            echo "Push rejected - syncing to latest main and rebuilding (attempt $i)"
+            git fetch origin main
+            git reset --hard origin/main
+            python3 build.py
+            stage
+            if git diff --cached --quiet; then
+              echo "Already up to date on latest main."
+              exit 0
+            fi
+            git commit -m "site: auto rebuild after model change [skip ci]"
+          done
+          echo "Push failed after all retries."
+          exit 1

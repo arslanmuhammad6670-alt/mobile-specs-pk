@@ -3628,5 +3628,2013 @@
 "source": "https://www.gsmarena.com/oppo_reno16c_5g-14768.php",
 "tag": "6.57\" display · Mediatek Dimensity 7300 Energy · 8 GB RAM · 7000 mAh",
 "year": 2026
+},
+{
+"brand": "Oppo",
+"cat": "Smartphones",
+"hl": [
+"6.32\" display",
+"Mediatek Dimensity 8550 Super",
+"12 GB RAM",
+"6700 mAh"
+],
+"name": "Oppo Reno16 Pro",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, June 25, released 2026, July 13)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"151.2 x 72.4 x 8.2 mm or 8.4 mm; 188 g or 191 g (6.63 oz); Glass front, aluminum frame, glass back or composite plastic back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+],
+[
+"Display",
+"AMOLED, 1B colors, 144Hz, 3840Hz PWM, HDR10+, 600 nits (typ), 1800 nits (HBM), 3600 nits (peak); 6.32 inches, 97.9 cm2 (~89.5% screen-to-body ratio); 1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density); Crystal Guard"
+],
+[
+"OS",
+"Android 16, ColorOS 16"
+],
+[
+"Chipset",
+"Mediatek Dimensity 8550 Super (4 nm); CPU Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725); GPU Mali-G720 MC8"
+],
+[
+"RAM",
+"12 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB; No"
+],
+[
+"Main Camera",
+"200 MP, f/1.8, 24mm (wide), 1/1.56\", 0.5µm, PDAF, OIS 50 MP, f/2.8, 80mm (telephoto), 1/2.75\", 0.64µm, PDAF, OIS, 3.5x optical zoom 50 MP, f/2.0, 16mm, 116˚ (ultrawide), 1/2.88\", 0.61µm, AF; Color spectrum sensor, Multi-focus LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240/480fps, 720p@960fps, gyro-EIS, HDR, OIS"
+],
+[
+"Selfie Camera",
+"50 MP, f/2.0, 18mm, 100˚ (ultrawide), 1/2.75\", 0.64µm, AF; Panorama, HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+],
+[
+"Sensors",
+"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+],
+[
+"Bluetooth",
+"5.4, A2DP, LE, aptX HD, LHDC 5"
+],
+[
+"GPS",
+"GPS, GLONASS, GALILEO, BDS, QZSS"
+],
+[
+"NFC",
+"Yes (market/region dependent)"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 2.0, OTG"
+],
+[
+"Battery",
+"Si/C Li-Ion 6700 mAh (International) or 6000 mAh (Europe)"
+],
+[
+"Charging",
+"80W wired, 44/80W UFCS, 55W PPS, 13.5W PD, 100% in 57 min Reverse wired"
+],
+[
+"Colors",
+"Pop White, Starlight Black"
+]
+],
+"slug": "oppo-reno16-pro-5g",
+"source": "https://www.gsmarena.com/oppo_reno16_pro_5g-14746.php",
+"tag": "6.32\" display · Mediatek Dimensity 8550 Super · 12 GB RAM · 6700 mAh",
+"year": 2026
+},
+{
+"brand": "Apple",
+"cat": "Smartphones",
+"hl": [
+"6.1\" display",
+"Apple A19",
+"8 GB RAM",
+"4005 mAh"
+],
+"name": "Apple iPhone 17e",
+"price": 284999,
+"price_src": "https://priceoye.pk/mobiles/apple/apple-iphone-17e",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, March 02, released 2026, March 11)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"146.7 x 71.5 x 7.8 mm (5.78 x 2.81 x 0.31 in); 169 g (5.96 oz); Glass front (Ceramic Shield 2), glass back, aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time; International/China) eSIM + eSIM (8 or more, max 2 at a time; USA)"
+],
+[
+"Display",
+"Super Retina XDR OLED, HDR10, 800 nits (HBM), 1200 nits (peak); 6.1 inches, 90.2 cm2 (~86.0% screen-to-body ratio); 1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield 2"
+],
+[
+"OS",
+"iOS 26.3, upgradable to iOS 27.2"
+],
+[
+"Chipset",
+"Apple A19 (3 nm); CPU Hexa-core (2x4.26 GHz + 4x2.60 GHz); GPU Apple GPU (4-core graphics)"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB; No"
+],
+[
+"Main Camera",
+"48 MP, f/1.6, 26mm (wide), 1/2.55\", 0.7µm, PDAF, OIS; Dual-LED dual-tone flash, HDR, panorama, 3D (spatial) audio; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, Dolby Vision HDR, OIS, stereo sound rec."
+],
+[
+"Selfie Camera",
+"12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, Dolby Vision HDR"
+],
+[
+"Sensors",
+"Face ID, accelerometer, gyro, proximity, compass, barometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+],
+[
+"Bluetooth",
+"5.3, A2DP, LE"
+],
+[
+"GPS",
+"GPS, GLONASS, GALILEO, BDS, QZSS, NavIC"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 2.0"
+],
+[
+"Battery",
+"Li-Ion 4005 mAh"
+],
+[
+"Charging",
+"Wired, 50% in 30 min 15W wireless MagSafe/Qi2"
+],
+[
+"Colors",
+"Black, White, Soft Pink"
+]
+],
+"slug": "apple-iphone-17e",
+"source": "https://www.gsmarena.com/apple_iphone_17e-14487.php",
+"tag": "6.1\" display · Apple A19 · 8 GB RAM · 4005 mAh",
+"year": 2026
+},
+{
+"brand": "Apple",
+"cat": "Tablets",
+"hl": [
+"11.0\" display",
+"Apple M4",
+"12 GB RAM",
+"7606 mAh"
+],
+"name": "Apple iPad Air 11 (2026)",
+"price": 201999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, March 02, released 2026, March 11)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"247.6 x 178.5 x 6.1 mm (9.75 x 7.03 x 0.24 in); 464 g (Wi-Fi) / 465 g (5G) (1.02 lb); Glass front, aluminum back, aluminum frame; eSIM (cellular model only)"
+],
+[
+"Display",
+"Liquid Retina IPS LCD, 500 nits (typ); 11.0 inches, 357.6 cm2 (~80.9% screen-to-body ratio); 1640 x 2360 pixels (~264 ppi density); Scratch-resistant glass, oleophobic coating"
+],
+[
+"OS",
+"iPadOS 26.3, upgradable to iPadOS 27.2"
+],
+[
+"Chipset",
+"Apple M4; CPU Octa-core (4 performance cores and 4 efficiency cores); GPU Apple GPU (9-core graphics)"
+],
+[
+"RAM",
+"12 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB / 512 GB / 1 TB; No"
+],
+[
+"Main Camera",
+"12 MP, f/1.8, (wide), 1/3.0\", 1.22µm, dual pixel PDAF; HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS"
+],
+[
+"Selfie Camera",
+"12 MP, f/2.0, 122˚ (ultrawide); HDR; video 1080p@25/30/60fps; gyro-EIS"
+],
+[
+"Sensors",
+"Fingerprint (top-mounted), accelerometer, gyro, compass, barometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6e/7 dual-band, hotspot"
+],
+[
+"Bluetooth",
+"6.0, A2DP, LE"
+],
+[
+"GPS",
+"GPS, GLONASS (5G model only)"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 3.1 Gen2, DisplayPort, magnetic connector"
+],
+[
+"Battery",
+"Li-Po 7606 mAh (28.93 Wh)"
+],
+[
+"Colors",
+"Space Gray, Starlight, Purple, Blue"
+]
+],
+"slug": "apple-ipad-air-11-5g-(2026)",
+"source": "https://www.gsmarena.com/apple_ipad_air_11_5g_(2026)-14520.php",
+"tag": "11.0\" display · Apple M4 · 12 GB RAM · 7606 mAh",
+"year": 2026
+},
+{
+"brand": "Apple",
+"cat": "Tablets",
+"hl": [
+"13.0\" display",
+"Apple M5",
+"12 GB RAM",
+"10290 mAh"
+],
+"name": "Apple iPad Pro 13 (2025)",
+"price": 449999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 2025, October 16, released 2025, October 22)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"281.6 x 215.5 x 5.1 mm (11.09 x 8.48 x 0.20 in); 579 g (Wi-Fi), 582 g (5G) (1.28 lb); Glass front, aluminum back, aluminum frame; eSIM - cellular model only"
+],
+[
+"Display",
+"Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits (peak); 13.0 inches, 523.4 cm2 (~86.2% screen-to-body ratio); 2064 x 2752 pixels, 4:3 ratio (~265 ppi density); Scratch-resistant glass, oleophobic coating"
+],
+[
+"OS",
+"iPadOS 26, upgradable to iPadOS 27.2"
+],
+[
+"Chipset",
+"Apple M5; CPU 9-core (3 performance cores, 6 efficiency cores) - 256/512GB models10-core (4 performance cores, 6 efficiency cores) - 1/2TB models; GPU Apple GPU (10-core graphics)"
+],
+[
+"RAM",
+"12 GB / 16 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB / 1 TB / 2 TB; No"
+],
+[
+"Main Camera",
+"12 MP, f/1.8, (wide), dual pixel PDAF TOF 3D LiDAR scanner (depth); Quad-LED dual-tone flash, HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS, ProRes (4K, 1080p)"
+],
+[
+"Selfie Camera",
+"12 MP, f/2.0, 122˚ (ultrawide); Face detection, HDR, panorama; video 1080p@25/30/60fps, gyro-EIS, HDR"
+],
+[
+"Sensors",
+"Face ID, accelerometer, gyro, compass, barometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers (4 speakers)"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, hotspot"
+],
+[
+"Bluetooth",
+"6.0, A2DP, LE, EDR"
+],
+[
+"GPS",
+"GPS, GLONASS, GALILEO, QZSS (Wi‑Fi + Cellular model only)"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 4 (Thunderbolt 3), DisplayPort, magnetic connector"
+],
+[
+"Battery",
+"Li-Po 10290 mAh"
+],
+[
+"Charging",
+"50% in 30 min"
+],
+[
+"Colors",
+"Silver, Space Black"
+]
+],
+"slug": "apple-ipad-pro-13-5g-(2025)",
+"source": "https://www.gsmarena.com/apple_ipad_pro_13_5g_(2025)-14233.php",
+"tag": "13.0\" display · Apple M5 · 12 GB RAM · 10290 mAh",
+"year": 2025
+},
+{
+"brand": "Apple",
+"cat": "Tablets",
+"hl": [
+"11.0\" display",
+"Apple M5",
+"12 GB RAM",
+"8160 mAh"
+],
+"name": "Apple iPad Pro 11 (2025)",
+"price": 340999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 2025, October 16, released 2025, October 22)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"249.7 x 177.5 x 5.3 mm (9.83 x 6.99 x 0.21 in); 444 g (Wi-Fi), 446 g (5G) (1.03 lb); Glass front, aluminum back, aluminum frame; eSIM - cellular model only"
+],
+[
+"Display",
+"Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits (peak); 11.0 inches, 364.8 cm2 (~82.3% screen-to-body ratio); 1668 x 2420 pixels, 3:2 ratio (~267 ppi density); Scratch-resistant glass, oleophobic coating"
+],
+[
+"OS",
+"iPadOS 26, upgradable to iPadOS 27.2"
+],
+[
+"Chipset",
+"Apple M5; CPU 9-core (3 performance cores, 6 efficiency cores) - 256/512GB models10-core (4 performance cores, 6 efficiency cores) - 1/2TB models; GPU Apple GPU (10-core graphics)"
+],
+[
+"RAM",
+"12 GB / 16 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB / 1 TB / 2 TB; No"
+],
+[
+"Main Camera",
+"12 MP, f/1.8, (wide), dual pixel PDAF TOF 3D LiDAR scanner (depth); Quad-LED dual-tone flash, HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS, ProRes (4K, 1080p)"
+],
+[
+"Selfie Camera",
+"12 MP, f/2.0, 122˚ (ultrawide); Face detection, HDR, panorama; video 1080p@25/30/60fps, gyro-EIS, HDR"
+],
+[
+"Sensors",
+"Face ID, accelerometer, gyro, compass, barometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers (4 speakers)"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, hotspot"
+],
+[
+"Bluetooth",
+"6.0, A2DP, LE, EDR"
+],
+[
+"GPS",
+"GPS, GLONASS, GALILEO, QZSS (Wi‑Fi + Cellular model only)"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 4 (Thunderbolt 3), DisplayPort, magnetic connector"
+],
+[
+"Battery",
+"Li-Po 8160 mAh"
+],
+[
+"Charging",
+"50% in 30 min"
+],
+[
+"Colors",
+"Silver, Space Black"
+]
+],
+"slug": "apple-ipad-pro-11-5g-(2025)",
+"source": "https://www.gsmarena.com/apple_ipad_pro_11_5g_(2025)-14234.php",
+"tag": "11.0\" display · Apple M5 · 12 GB RAM · 8160 mAh",
+"year": 2025
+},
+{
+"brand": "Apple",
+"cat": "Smartphones",
+"hl": [
+"6.9\" display",
+"Apple A19 Pro",
+"12 GB RAM",
+"4823 mAh"
+],
+"name": "Apple iPhone 17 Pro Max",
+"price": 514899,
+"price_src": "https://priceoye.pk/mobiles/apple/apple-iphone-17-pro-max",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 2025, September 09, released 2025, September 19)"
+],
+[
+"Network",
+"GSM / CDMA / HSPA / EVDO / LTE / 5G"
+],
+[
+"Body",
+"163.4 x 78 x 8.8 mm (6.43 x 3.07 x 0.35 in); 233 g (8.22 oz); Glass front (Ceramic Shield 2), aluminum frame, aluminum back/ glass back (Ceramic Shield); Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
+],
+[
+"Display",
+"LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak); 6.9 inches, 115.6 cm2 (~90.7% screen-to-body ratio); 1320 x 2868 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield 2"
+],
+[
+"OS",
+"iOS 26, upgradable to iOS 27.2"
+],
+[
+"Chipset",
+"Apple A19 Pro (3 nm); CPU Hexa-core (2x4.26 GHz + 4x2.60 GHz); GPU Apple GPU (6-core graphics)"
+],
+[
+"RAM",
+"12 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB / 1 TB / 2 TB; No"
+],
+[
+"Main Camera",
+"48 MP, f/1.8, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS 48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55\", 0.7µm, PDAF, 3D sensor‑shift OIS, 4x optical zoom 48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF TOF 3D LiDAR scanner (depth); Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo sound rec."
+],
+[
+"Selfie Camera",
+"18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec., ProRes RAW, Apple Log 2; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+],
+[
+"Sensors",
+"Face ID, accelerometer, gyro, proximity, compass, barometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot"
+],
+[
+"Bluetooth",
+"6.0, A2DP, LE"
+],
+[
+"GPS",
+"GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 3.2 Gen 2, DisplayPort"
+],
+[
+"Battery",
+"Market-dependent versions: Li-Ion 4823 mAh - Nano SIM model Li-Ion 5088 mAh - eSIM only model"
+],
+[
+"Charging",
+"Wired, PD3.2, AVS, 50% in 20 min 25W wireless MagSafe/Qi2, 50% in 30 min (15W - China) 4.5W reverse wired"
+],
+[
+"Colors",
+"Silver, Cosmic Orange, Deep Blue"
+]
+],
+"slug": "apple-iphone-17-pro-max",
+"source": "https://www.gsmarena.com/apple_iphone_17_pro_max-13964.php",
+"tag": "6.9\" display · Apple A19 Pro · 12 GB RAM · 4823 mAh",
+"year": 2025
+},
+{
+"brand": "Apple",
+"cat": "Smartphones",
+"hl": [
+"6.3\" display",
+"Apple A19 Pro",
+"12 GB RAM",
+"3998 mAh"
+],
+"name": "Apple iPhone 17 Pro",
+"price": 457699,
+"price_src": "https://priceoye.pk/mobiles/apple/apple-iphone-17-pro",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 2025, September 09, released 2025, September 19)"
+],
+[
+"Network",
+"GSM / CDMA / HSPA / EVDO / LTE / 5G"
+],
+[
+"Body",
+"150 x 71.9 x 8.8 mm (5.91 x 2.83 x 0.35 in); 206 g (7.27 oz); Glass front (Ceramic Shield 2), aluminum frame, aluminum back/ glass back (Ceramic Shield); Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
+],
+[
+"Display",
+"LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak); 6.3 inches, 96.4 cm2 (~89.4% screen-to-body ratio); 1206 x 2622 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield 2"
+],
+[
+"OS",
+"iOS 26, upgradable to iOS 27.2"
+],
+[
+"Chipset",
+"Apple A19 Pro (3 nm); CPU Hexa-core (2x4.26 GHz + 4x2.60 GHz); GPU Apple GPU (6-core graphics)"
+],
+[
+"RAM",
+"12 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB / 1 TB; No"
+],
+[
+"Main Camera",
+"48 MP, f/1.8, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS 48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55\", 0.7µm, PDAF, 3D sensor‑shift OIS, 4x optical zoom 48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF TOF 3D LiDAR scanner (depth); Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo"
+],
+[
+"Selfie Camera",
+"18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec., ProRes RAW, Apple Log 2; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+],
+[
+"Sensors",
+"Face ID, accelerometer, gyro, proximity, compass, barometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot"
+],
+[
+"Bluetooth",
+"6.0, A2DP, LE"
+],
+[
+"GPS",
+"GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 3.2 Gen 2, DisplayPort"
+],
+[
+"Battery",
+"Market-dependent versions: Li-Ion 3998 mAh - Nano SIM model Li-Ion 4252 mAh - eSIM only model"
+],
+[
+"Charging",
+"Wired, PD3.2, AVS, 50% in 20 min 25W wireless MagSafe/Qi2, 50% in 30 min (15W - China) 4.5W reverse wired"
+],
+[
+"Colors",
+"Silver, Cosmic Orange, Deep Blue"
+]
+],
+"slug": "apple-iphone-17-pro",
+"source": "https://www.gsmarena.com/apple_iphone_17_pro-14049.php",
+"tag": "6.3\" display · Apple A19 Pro · 12 GB RAM · 3998 mAh",
+"year": 2025
+},
+{
+"brand": "Apple",
+"cat": "Smartphones",
+"hl": [
+"6.3\" display",
+"Apple A19",
+"8 GB RAM",
+"3692 mAh"
+],
+"name": "Apple iPhone 17",
+"price": 405699,
+"price_src": "https://priceoye.pk/mobiles/apple/apple-iphone-17",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 2025, September 09, released 2025, September 19)"
+],
+[
+"Network",
+"GSM / CDMA / HSPA / EVDO / LTE / 5G"
+],
+[
+"Body",
+"149.6 x 71.5 x 8 mm (5.89 x 2.81 x 0.31 in); 177 g (6.24 oz); Glass front (Ceramic Shield 2), aluminum frame, glass back; Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
+],
+[
+"Display",
+"LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak); 6.3 inches, 96.4 cm2 (~90.1% screen-to-body ratio); 1206 x 2622 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield 2"
+],
+[
+"OS",
+"iOS 26, upgradable to iOS 27.2"
+],
+[
+"Chipset",
+"Apple A19 (3 nm); CPU Hexa-core (2x4.26 GHz + 4x2.60 GHz); GPU Apple GPU (5-core graphics)"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB; No"
+],
+[
+"Main Camera",
+"48 MP, f/1.6, 26mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, sensor-shift OIS 48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF; Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+],
+[
+"Selfie Camera",
+"18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+],
+[
+"Sensors",
+"Face ID, accelerometer, gyro, proximity, compass, barometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot"
+],
+[
+"Bluetooth",
+"6.0, A2DP, LE"
+],
+[
+"GPS",
+"GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 2.0, DisplayPort"
+],
+[
+"Battery",
+"Li-Ion 3692 mAh"
+],
+[
+"Charging",
+"Wired, PD3.2, AVS, 50% in 20 min 25W wireless MagSafe/Qi2, 50% in 30 min (15W - China) 4.5W reverse wired"
+],
+[
+"Colors",
+"Black, White, Mist Blue, Sage, Lavender"
+]
+],
+"slug": "apple-iphone-17",
+"source": "https://www.gsmarena.com/apple_iphone_17-14050.php",
+"tag": "6.3\" display · Apple A19 · 8 GB RAM · 3692 mAh",
+"year": 2025
+},
+{
+"brand": "Apple",
+"cat": "Tablets",
+"hl": [
+"13.0\" display",
+"Apple M3",
+"8 GB RAM",
+"9705 mAh"
+],
+"name": "Apple iPad Air 13 (2025)",
+"price": 293999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 2025, March 04, released 2025, March 12)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"280.6 x 214.9 x 6.1 mm (11.05 x 8.46 x 0.24 in); 616 g (Wi-Fi) / 617 g (5G) (1.36 lb); Glass front, aluminum back, aluminum frame; eSIM (cellular model only)"
+],
+[
+"Display",
+"Liquid Retina IPS LCD, 600 nits (typ); 13.0 inches, 519.3 cm2 (~86.1% screen-to-body ratio); 2048 x 2732 pixels, 4:3 ratio (~264 ppi density); Scratch-resistant glass, oleophobic coating"
+],
+[
+"OS",
+"iPadOS 18.3.2, upgradable to iPadOS 27.2"
+],
+[
+"Chipset",
+"Apple M3; CPU Octa-core (4 performance cores and 4 efficiency cores); GPU Apple GPU (9-core graphics)"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB / 512 GB / 1 TB; No"
+],
+[
+"Main Camera",
+"12 MP, f/1.8, (wide), 1/3.0\", 1.22µm, dual pixel PDAF; HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS"
+],
+[
+"Selfie Camera",
+"12 MP, f/2.0, 122˚ (ultrawide); HDR; video 1080p@25/30/60fps; gyro-EIS"
+],
+[
+"Sensors",
+"Fingerprint (top-mounted), accelerometer, gyro, compass, barometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, hotspot"
+],
+[
+"Bluetooth",
+"5.3, A2DP, LE"
+],
+[
+"GPS",
+"GPS, GLONASS (5G model only)"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 3.1 Gen2, DisplayPort, magnetic connector"
+],
+[
+"Battery",
+"Li-Po 9705 mAh (36.59 Wh)"
+],
+[
+"Colors",
+"Space Gray, Starlight, Purple, Blue"
+]
+],
+"slug": "apple-ipad-air-13-(2025)",
+"source": "https://www.gsmarena.com/apple_ipad_air_13_(2025)-13704.php",
+"tag": "13.0\" display · Apple M3 · 8 GB RAM · 9705 mAh",
+"year": 2025
+},
+{
+"brand": "Apple",
+"cat": "Tablets",
+"hl": [
+"11.0\" display",
+"Apple A16 Bionic",
+"6 GB RAM"
+],
+"name": "Apple iPad (2025)",
+"price": 123999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 2025, March 04, released 2025, March 12)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"248.6 x 179.5 x 7 mm (9.79 x 7.07 x 0.28 in); 477 g (Wi-Fi) / 481 g (LTE) (1.05 lb); Glass front, aluminum back, aluminum frame; eSIM (cellular model only)"
+],
+[
+"Display",
+"Liquid Retina IPS LCD, 500 nits (typ); 11.0 inches, 357.6 cm2 (~80.1% screen-to-body ratio); 1640 x 2360 pixels (~264 ppi density); Scratch-resistant glass, oleophobic coating"
+],
+[
+"OS",
+"iPadOS 18.3.2, upgradable to iPadOS 27.2"
+],
+[
+"Chipset",
+"Apple A16 Bionic (4 nm); CPU 5-core; GPU Apple GPU (4-core graphics)"
+],
+[
+"RAM",
+"6 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB / 512 GB; No"
+],
+[
+"Main Camera",
+"12 MP, f/1.8, (wide), PDAF; HDR, panorama; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, gyro-EIS"
+],
+[
+"Selfie Camera",
+"12 MP, f/2.4, 122˚ (ultrawide); HDR; video 1080p@25/30/60fps, gyro-EIS"
+],
+[
+"Sensors",
+"Fingerprint (top-mounted), accelerometer, gyro, compass, barometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+],
+[
+"Bluetooth",
+"5.3, A2DP, EDR, LE"
+],
+[
+"GPS",
+"GPS, GLONASS (Wi‑Fi + Cellular model only)"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 2.0, DisplayPort; magnetic connector"
+],
+[
+"Charging",
+"45W wired, PD"
+],
+[
+"Colors",
+"Silver, Blue, Pink, Yellow"
+]
+],
+"slug": "apple-ipad-(2025)",
+"source": "https://www.gsmarena.com/apple_ipad_(2025)-13702.php",
+"tag": "11.0\" display · Apple A16 Bionic · 6 GB RAM",
+"year": 2025
+},
+{
+"brand": "Apple",
+"cat": "Tablets",
+"hl": [
+"8.3\" display",
+"Apple A17 Pro",
+"8 GB RAM",
+"5078 mAh"
+],
+"name": "Apple iPad mini (2024)",
+"price": 185999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 2024, October 15, released 2024, October 23)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"195.4 x 134.8 x 6.3 mm (7.69 x 5.31 x 0.25 in); 293 g (Wi-Fi) / 297 g (Wi-Fi + Cellular) (10.34 oz); Glass front, aluminum back, aluminum frame; eSIM (cellular model only)"
+],
+[
+"Display",
+"Liquid Retina IPS LCD, 500 nits (typ); 8.3 inches, 203.9 cm2 (~77.4% screen-to-body ratio); 1488 x 2266 pixels, 3:2 ratio (~327 ppi density)"
+],
+[
+"OS",
+"iPadOS 18, upgradable to iPadOS 27.2"
+],
+[
+"Chipset",
+"Apple A17 Pro (3 nm); CPU Hexa-core (2x3.78 GHz performance cores and 4 efficiency cores); GPU Apple GPU (5-core graphics)"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB / 512 GB; No"
+],
+[
+"Main Camera",
+"12 MP, f/1.8, (wide), AF; Quad-LED dual-tone flash, HDR, panorama; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS"
+],
+[
+"Selfie Camera",
+"12 MP, f/2.4, 122˚ (ultrawide); HDR; video 1080p@25/30/60fps, gyro-EIS"
+],
+[
+"Sensors",
+"Fingerprint (top-mounted), accelerometer, gyro, compass, barometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, hotspot"
+],
+[
+"Bluetooth",
+"5.3, A2DP"
+],
+[
+"GPS",
+"GPS, GLONASS - cellular model only"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 3.1 Gen2, DisplayPort"
+],
+[
+"Battery",
+"Li-Ion 5078 mAh (19.3 Wh)"
+],
+[
+"Colors",
+"Space Gray, Blue, Purple, Starlight"
+]
+],
+"slug": "apple-ipad-mini-(2024)",
+"source": "https://www.gsmarena.com/apple_ipad_mini_(2024)-13437.php",
+"tag": "8.3\" display · Apple A17 Pro · 8 GB RAM · 5078 mAh",
+"year": 2024
+},
+{
+"brand": "Apple",
+"cat": "Tablets",
+"hl": [
+"13.0\" display",
+"Apple M4",
+"8 GB RAM",
+"10290 mAh"
+],
+"name": "Apple iPad Pro 13 (2024)",
+"price": 479999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 2024, May 07, released 2024, May 15)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"281.6 x 215.5 x 5.1 mm (11.09 x 8.48 x 0.20 in); 579 g (Wi-Fi), 582 g (5G) (1.28 lb); Glass front, aluminum back, aluminum frame; eSIM"
+],
+[
+"Display",
+"Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits (peak); 13.0 inches, 527.3 cm2 (~86.9% screen-to-body ratio); 2064 x 2752 pixels, 4:3 ratio (~264 ppi density); Scratch-resistant glass, oleophobic coating"
+],
+[
+"OS",
+"iPadOS 17.5.1, upgradable to iPadOS 27.2"
+],
+[
+"Chipset",
+"Apple M4; CPU 9-core 4.4 GHz (3 performance cores, 6 efficiency cores) - 256/512GB models10-core 4.4 GHz (4 performance cores, 6 efficiency cores) - 1/2TB models; GPU Apple GPU (10-core graphics)"
+],
+[
+"RAM",
+"8 GB / 16 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB / 1 TB / 2 TB; No"
+],
+[
+"Main Camera",
+"12 MP, f/1.8, (wide), dual pixel PDAF TOF 3D LiDAR scanner (depth); Quad-LED dual-tone flash, HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS, ProRes (4K, 1080p)"
+],
+[
+"Selfie Camera",
+"12 MP, f/2.4, 122˚ (ultrawide); Face detection, HDR, panorama; video 1080p@25/30/60fps, gyro-EIS, HDR"
+],
+[
+"Sensors",
+"Face ID, accelerometer, gyro, compass, barometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers (4 speakers)"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, hotspot"
+],
+[
+"Bluetooth",
+"5.3, A2DP, LE, EDR"
+],
+[
+"GPS",
+"GPS, GLONASS, GALILEO, QZSS (Wi‑Fi + Cellular model only)"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 4 (Thunderbolt 3), DisplayPort, magnetic connector"
+],
+[
+"Battery",
+"Li-Po 10290 mAh"
+],
+[
+"Colors",
+"Silver, Space Black"
+]
+],
+"slug": "apple-ipad-pro-13-(2024)",
+"source": "https://www.gsmarena.com/apple_ipad_pro_13_(2024)-12987.php",
+"tag": "13.0\" display · Apple M4 · 8 GB RAM · 10290 mAh",
+"year": 2024
+},
+{
+"brand": "Apple",
+"cat": "Tablets",
+"hl": [
+"11.0\" display",
+"Apple M4",
+"8 GB RAM",
+"8160 mAh"
+],
+"name": "Apple iPad Pro 11 (2024)",
+"price": 371999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 2024, May 07, released 2024, May 15)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"249.7 x 177.5 x 5.3 mm (9.83 x 6.99 x 0.21 in); 444 g (Wi-Fi), 446 g (5G) (1.03 lb); Glass front, aluminum back, aluminum frame; eSIM"
+],
+[
+"Display",
+"Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits (peak); 11.0 inches, 373.1 cm2 (~84.2% screen-to-body ratio); 1668 x 2420 pixels, 3:2 ratio (~264 ppi density); Scratch-resistant glass, oleophobic coating"
+],
+[
+"OS",
+"iPadOS 17.5.1, upgradable to iPadOS 27.2"
+],
+[
+"Chipset",
+"Apple M4; CPU 9-core 4.4 GHz (3 performance cores, 6 efficiency cores) - 256/512GB models10-core 4.4 GHz (4 performance cores, 6 efficiency cores) - 1/2TB models; GPU Apple GPU (10-core graphics)"
+],
+[
+"RAM",
+"8 GB / 16 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB / 1 TB / 2 TB; No"
+],
+[
+"Main Camera",
+"12 MP, f/1.8, (wide), dual pixel PDAF TOF 3D LiDAR scanner (depth); Quad-LED dual-tone flash, HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS, ProRes (4K, 1080p)"
+],
+[
+"Selfie Camera",
+"12 MP, f/2.4, 122˚ (ultrawide); Face detection, HDR, panorama; video 1080p@25/30/60fps, gyro-EIS, HDR"
+],
+[
+"Sensors",
+"Face ID, accelerometer, gyro, compass, barometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers (4 speakers)"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, hotspot"
+],
+[
+"Bluetooth",
+"5.3, A2DP, LE, EDR"
+],
+[
+"GPS",
+"GPS, GLONASS, GALILEO, QZSS (Wi‑Fi + Cellular model only)"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 4 (Thunderbolt 3), DisplayPort, magnetic connector"
+],
+[
+"Battery",
+"Li-Po 8160 mAh"
+],
+[
+"Colors",
+"Silver, Space Black"
+]
+],
+"slug": "apple-ipad-pro-11-(2024)",
+"source": "https://www.gsmarena.com/apple_ipad_pro_11_(2024)-12986.php",
+"tag": "11.0\" display · Apple M4 · 8 GB RAM · 8160 mAh",
+"year": 2024
+},
+{
+"brand": "Apple",
+"cat": "Tablets",
+"hl": [
+"13.0\" display",
+"Apple M2",
+"8 GB RAM",
+"9705 mAh"
+],
+"name": "Apple iPad Air 13 (2024)",
+"price": 293999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 2024, May 07, released 2024, May 15)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"280.6 x 214.9 x 6.1 mm (11.05 x 8.46 x 0.24 in); 617 g (Wi-Fi) / 618 g (5G) (1.36 lb); Glass front, aluminum back, aluminum frame; eSIM (cellular model only)"
+],
+[
+"Display",
+"Liquid Retina IPS LCD, 600 nits (typ); 13.0 inches, 519.3 cm2 (~86.1% screen-to-body ratio); 2048 x 2732 pixels, 4:3 ratio (~264 ppi density); Scratch-resistant glass, oleophobic coating"
+],
+[
+"OS",
+"iPadOS 17.5.1, upgradable to iPadOS 27.2"
+],
+[
+"Chipset",
+"Apple M2; CPU Octa-core (4x3.46 GHz performance cores and 4 efficiency cores); GPU Apple GPU (9-core graphics)"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB / 512 GB / 1 TB; No"
+],
+[
+"Main Camera",
+"12 MP, f/1.8, (wide), 1/3.0\", 1.22µm, dual pixel PDAF; HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS"
+],
+[
+"Selfie Camera",
+"12 MP, f/2.0, 122˚ (ultrawide); HDR; video 1080p@25/30/60fps; gyro-EIS"
+],
+[
+"Sensors",
+"Fingerprint (top-mounted), accelerometer, gyro, compass, barometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, hotspot"
+],
+[
+"Bluetooth",
+"5.3, A2DP, LE"
+],
+[
+"GPS",
+"GPS, GLONASS (5G model only)"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 3.1 Gen2, DisplayPort, magnetic connector"
+],
+[
+"Battery",
+"Li-Po 9705 mAh (36.59 Wh)"
+],
+[
+"Charging",
+"45W wired"
+],
+[
+"Colors",
+"Space Gray, Starlight, Purple, Blue"
+]
+],
+"slug": "apple-ipad-air-13-(2024)",
+"source": "https://www.gsmarena.com/apple_ipad_air_13_(2024)-12985.php",
+"tag": "13.0\" display · Apple M2 · 8 GB RAM · 9705 mAh",
+"year": 2024
+},
+{
+"brand": "Apple",
+"cat": "Tablets",
+"hl": [
+"11.0\" display",
+"Apple M2",
+"8 GB RAM",
+"7606 mAh"
+],
+"name": "Apple iPad Air 11 (2024)",
+"price": 216999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 2024, May 07, released 2024, May 15)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"247.6 x 178.5 x 6.1 mm (9.75 x 7.03 x 0.24 in); 462 g (1.02 lb); Glass front, aluminum back, aluminum frame; eSIM (cellular model only)"
+],
+[
+"Display",
+"Liquid Retina IPS LCD, 500 nits (typ); 11.0 inches, 357.6 cm2 (~80.9% screen-to-body ratio); 1640 x 2360 pixels (~264 ppi density); Scratch-resistant glass, oleophobic coating"
+],
+[
+"OS",
+"iPadOS 17.4, upgradable to iPadOS 27.2"
+],
+[
+"Chipset",
+"Apple M2; CPU Octa-core (4x3.48 GHz performance cores and 4 efficiency cores); GPU Apple GPU (9-core graphics)"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB / 512 GB / 1 TB; No"
+],
+[
+"Main Camera",
+"12 MP, f/1.8, (wide), 1/3.0\", 1.22µm, dual pixel PDAF; HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS"
+],
+[
+"Selfie Camera",
+"12 MP, f/2.0, 122˚ (ultrawide); HDR; video 1080p@25/30/60fps; gyro-EIS"
+],
+[
+"Sensors",
+"Fingerprint (top-mounted), accelerometer, gyro, compass, barometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, hotspot"
+],
+[
+"Bluetooth",
+"5.3, A2DP, LE"
+],
+[
+"GPS",
+"GPS, GLONASS (cellular model only)"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 3.1 Gen2, DisplayPort, magnetic connector"
+],
+[
+"Battery",
+"Li-Po 7606 mAh (28.93 Wh)"
+],
+[
+"Charging",
+"45W wired"
+],
+[
+"Colors",
+"Space Gray, Starlight, Purple, Blue"
+]
+],
+"slug": "apple-ipad-air-11-(2024)",
+"source": "https://www.gsmarena.com/apple_ipad_air_11_(2024)-12984.php",
+"tag": "11.0\" display · Apple M2 · 8 GB RAM · 7606 mAh",
+"year": 2024
+},
+{
+"brand": "Xiaomi",
+"cat": "Smartphones",
+"hl": [
+"6.35\" display",
+"Qualcomm SM7750-AB Snapdragon ",
+"8 GB RAM",
+"6330 mAh"
+],
+"name": "Xiaomi Poco X8s",
+"price": 111999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, October 26, released 2026, October 26)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"151.1 x 71.8 x 8.1 mm (5.95 x 2.83 x 0.32 in); 187 g (6.60 oz); Glass front (Xiaomi Shield Glass), aluminum frame, glass back; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
+],
+[
+"Display",
+"LTPO AMOLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 3500 nits (peak); 6.35 inches, 98.7 cm2 (~91.0% screen-to-body ratio); 1220 x 2656 pixels, 19.5:9 ratio (~460 ppi density); Xiaomi Shield Glass"
+],
+[
+"OS",
+"Android 16, HyperOS 3"
+],
+[
+"Chipset",
+"Qualcomm SM7750-AB Snapdragon 7 Gen 4 (4 nm); CPU Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520); GPU Adreno 722"
+],
+[
+"RAM",
+"8 GB / 12 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB; No"
+],
+[
+"Main Camera",
+"50 MP, f/1.8, (wide), 1/1.55\", 1.0µm, PDAF, OIS 50 MP, f/2.2, 57mm (periscope telephoto), PDAF, 2.5x optical zoom 8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+],
+[
+"Selfie Camera",
+"20 MP; video 1080p@30/60fps"
+],
+[
+"Sensors",
+"Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers (with Dolby Atmos)"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct"
+],
+[
+"Bluetooth",
+"5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5, Auracast, ASHA"
+],
+[
+"GPS",
+"GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 2.0"
+],
+[
+"Battery",
+"Si/C Li-Ion 6330 mAh"
+],
+[
+"Charging",
+"100W wired, PD3.0, QC3+, 100W PPS 22.5W reverse wired"
+],
+[
+"Colors",
+"White, Blue, Black"
+]
+],
+"slug": "xiaomi-poco-x8s-5g",
+"source": "https://www.gsmarena.com/xiaomi_poco_x8s_5g-15038.php",
+"tag": "6.35\" display · Qualcomm SM7750-AB Snapdragon  · 8 GB RAM · 6330 mAh",
+"year": 2026
+},
+{
+"brand": "Xiaomi",
+"cat": "Smartphones",
+"hl": [
+"6.4\" display",
+"Qualcomm Snapdragon 8 Elite Ge",
+"12 GB RAM",
+"7000 mAh"
+],
+"name": "Xiaomi 18 Pro",
+"price": 244999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, September 23, released 2026, September 23)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"151.8 x 72 x 8.5 mm (5.98 x 2.83 x 0.33 in); 203 g or 208 g (7.16 oz); Glass front (Dragon Crystal Glass 3), aluminum frame; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"LTPO AMOLED, 68B colors, 2160Hz PWM, 120Hz, Dolby Vision, HDR Vivid, HDR10+, BT.2020, 4000 nits (peak); 6.4 inches, 100.3 cm2 (~91.8% screen-to-body ratio); 1120 x 2436 pixels, 19.5:9 ratio (~419 ppi density); Xiaomi Dragon Crystal Glass 3"
+],
+[
+"OS",
+"Android 17, HyperOS 4"
+],
+[
+"Chipset",
+"Qualcomm Snapdragon 8 Elite Gen 6 (2 nm); CPU Octa-core (up to 5 GHz); GPU Adreno"
+],
+[
+"RAM",
+"12 GB / 16 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB / 1 TB; No"
+],
+[
+"Main Camera",
+"200 MP, f/1.7, 23mm (wide), 1/1.28\", 0.61µm, dual pixel PDAF, OIS 200 MP, f/2.4, 75mm (periscope telephoto), 1/1.56\", PDAF (10cm - ∞), OIS, 3.2x optical zoom 50 MP, f/2.4, 17mm, 102˚ (ultrawide), 1/2.88\", 0.61µm, PDAF; Laser AF, color spectrum sensor, Leica lens, Dual-LED dual-tone flash, HDR, panorama; video 8K@30fps (HDR), 4K@30/60/120fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+],
+[
+"Selfie Camera",
+"50 MP, f/2.2, 21mm (wide), 1/2.88\", 0.61µm, PDAF; HDR, panorama; video 4K@30/60fps, 1080p@30/60fps, HDR10+, gyro-EIS"
+],
+[
+"Sensors",
+"Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers (with Dolby Atmos)"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct"
+],
+[
+"Bluetooth",
+"6.0, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
+],
+[
+"GPS",
+"GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 3.2, Display Port, OTG"
+],
+[
+"Battery",
+"Si/C Li-Ion 7000 mAh"
+],
+[
+"Charging",
+"100W wired, PD3.0, QC3+, 100W PPS 50W wireless 27W reverse wireless"
+],
+[
+"Colors",
+"Black, White, Pink, Red, Blue"
+]
+],
+"slug": "xiaomi-18-pro-5g",
+"source": "https://www.gsmarena.com/xiaomi_18_pro_5g-14959.php",
+"tag": "6.4\" display · Qualcomm Snapdragon 8 Elite Ge · 12 GB RAM · 7000 mAh",
+"year": 2026
+},
+{
+"brand": "Xiaomi",
+"cat": "Tablets",
+"hl": [
+"12.5\" display",
+"Qualcomm SM8845 Snapdragon 8 G",
+"8 GB RAM",
+"11000 mAh"
+],
+"name": "Xiaomi Pad 9 Pro",
+"price": 154999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, September 23, released 2026, September 23)"
+],
+[
+"Network",
+"No cellular connectivity"
+],
+[
+"Body",
+"279.1 x 192 x 5.8 mm (10.99 x 7.56 x 0.23 in); 580 g or 589 g (1.28 lb); Glass front, aluminum frame, aluminum back; No"
+],
+[
+"Display",
+"IPS LCD, 68B colors, 144Hz, HDR10, Dolby Vision, HDR Vivid, 1000 nits (peak); 12.5 inches, 465.5 cm2 (~86.9% screen-to-body ratio); 3200 x 2136 pixels, 3:2 ratio (~308 ppi density)"
+],
+[
+"OS",
+"Android 17, HyperOS 4"
+],
+[
+"Chipset",
+"Qualcomm SM8845 Snapdragon 8 Gen 5 (3 nm); CPU Octa-core (2x3.8 GHz Oryon V3 Phoenix L + 6x3.32 GHz Oryon V3 Phoenix M); GPU Adreno 829"
+],
+[
+"RAM",
+"8 GB / 12 GB / 16 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; No"
+],
+[
+"Main Camera",
+"50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF; Color spectrum sensor, LED flash, HDR; video 4K@30/60fps, 1080p@30/60fps"
+],
+[
+"Selfie Camera",
+"32 MP, f/2.2, 19mm (ultrawide), 1/3.6\", 0.61µm; HDR; video 1080p@30fps"
+],
+[
+"Sensors",
+"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers, Dolby Atmos (6 speakers)"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+],
+[
+"Bluetooth",
+"6.0, A2DP, LE, LHDC 5"
+],
+[
+"GPS",
+"No"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 3.2, OTG"
+],
+[
+"Battery",
+"11000 mAh"
+],
+[
+"Charging",
+"67W wired, PD3.0, QC3+ 22.5W reverse wired"
+],
+[
+"Colors",
+"Gray, Silver, Green"
+]
+],
+"slug": "xiaomi-pad-9-pro",
+"source": "https://www.gsmarena.com/xiaomi_pad_9_pro-14960.php",
+"tag": "12.5\" display · Qualcomm SM8845 Snapdragon 8 G · 8 GB RAM · 11000 mAh",
+"year": 2026
+},
+{
+"brand": "Xiaomi",
+"cat": "Smartphones",
+"hl": [
+"6.59\" display",
+"Qualcomm SM8850-1-AB Snapdrago",
+"12 GB RAM",
+"6330 mAh"
+],
+"name": "Xiaomi Poco F9 Pro",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, September 01, released 2026, September 01)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"157.5 x 75.3 x 8.8 mm (6.20 x 2.96 x 0.35 in); 206 g (7.27 oz); Glass front (Gorilla Glass 7i), aluminum frame, glass-fiber reinforced plastic back; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
+],
+[
+"Display",
+"AMOLED, 68B colors, 185Hz, Dolby Vision, HDR10+, 850 nits (typ), 2200 nits (HBM), 4500 nits (peak); 6.59 inches, 106.5 cm2 (~89.8% screen-to-body ratio); 1156 x 2510 pixels, 19.5:9 ratio (~419 ppi density); Corning Gorilla Glass 7i"
+],
+[
+"OS",
+"Android 16, up to 4 major OS updates, HyperOS 3"
+],
+[
+"Chipset",
+"Qualcomm SM8850-1-AB Snapdragon 8 Elite Gen 5 V Series (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
+],
+[
+"RAM",
+"12 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB; No"
+],
+[
+"Main Camera",
+"200 MP, f/1.7, 24mm (wide), 1/1.56\", 0.5µm, PDAF, OIS 50 MP, f/2.0, 60mm (telephoto), 1/2.75\", 0.64µm, PDAF (10cm - ∞), OIS, 2.5x optical zoom 8 MP, f/2.3, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm; Color spectrum sensor, LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240/960/1920fps, gyro-EIS, HDR10+"
+],
+[
+"Selfie Camera",
+"32 MP, f/2.2, 22mm (wide), 1/3.4\", 0.61µm; HDR; video 4K@30fps, 1080p@30/60fps"
+],
+[
+"Sensors",
+"Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers (with Dolby Atmos)"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+],
+[
+"Bluetooth",
+"6.0, A2DP, LE, AptX HD, AptX Adaptive, LHDC 5.0, ASHA, MIHC, Auracast"
+],
+[
+"GPS",
+"GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
+],
+[
+"NFC",
+"Yes (market/region dependent)"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C, OTG"
+],
+[
+"Battery",
+"Si/C Li-Ion 6330 mAh"
+],
+[
+"Charging",
+"100W wired, PD3.0, QC3+, 100W PPS, 50% in 19 min 50W wireless, 50% in 35 min 27W reverse wired 22.5W reverse wireless"
+],
+[
+"Colors",
+"Black, White, Aurora Green"
+]
+],
+"slug": "xiaomi-poco-f9-pro-5g",
+"source": "https://www.gsmarena.com/xiaomi_poco_f9_pro_5g-14877.php",
+"tag": "6.59\" display · Qualcomm SM8850-1-AB Snapdrago · 12 GB RAM · 6330 mAh",
+"year": 2026
 }
 ]

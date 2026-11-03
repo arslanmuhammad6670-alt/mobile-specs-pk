@@ -319,5 +319,112 @@
 "source": "https://www.gsmarena.com/tecno_camon_air-14919.php",
 "tag": "6.78\" display · Mediatek Helio G200 Ultimate · 8 GB RAM · 6000 mAh",
 "year": 2026
+},
+{
+"brand": "Tecno",
+"cat": "Smartphones",
+"hl": [
+"6.67\" display",
+"Mediatek Helio G50",
+"3 GB RAM",
+"5000 mAh"
+],
+"name": "Tecno Spark Go 1S",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 2025, January 06, released 2025, January)"
+],
+[
+"Network",
+"GSM / HSPA / LTE"
+],
+[
+"Body",
+"165.6 x 77 x 8.4 mm (6.52 x 3.03 x 0.33 in); -; Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"IPS LCD, 90Hz; 6.67 inches, 107.4 cm2 (~84.2% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+],
+[
+"OS",
+"Android 14 (Go edition), HIOS 14"
+],
+[
+"Chipset",
+"Mediatek Helio G50; CPU Octa-core 2.2 GHz Cortex-A53; GPU PowerVR GE8320"
+],
+[
+"RAM",
+"3 GB"
+],
+[
+"Storage",
+"64 GB; microSDXC"
+],
+[
+"Main Camera",
+"13 MP, f/1.8, 27mm (wide), PDAF; Dual-LED flash, HDR; video 1080p@30fps"
+],
+[
+"Selfie Camera",
+"8 MP; video Yes"
+],
+[
+"Sensors",
+"Fingerprint (side-mounted); unspecified sensors"
+],
+[
+"Loudspeaker",
+"Yes, with dual speakers"
+],
+[
+"3.5mm Jack",
+"Yes"
+],
+[
+"Wi-Fi",
+"Yes"
+],
+[
+"Bluetooth",
+"Yes"
+],
+[
+"GPS",
+"GPS"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"Unspecified"
+],
+[
+"USB",
+"USB Type-C, OTG"
+],
+[
+"Battery",
+"5000 mAh"
+],
+[
+"Charging",
+"15W wired"
+],
+[
+"Colors",
+"Startrail Black, Glittery White"
+]
+],
+"slug": "tecno-spark-go-1s",
+"source": "https://www.gsmarena.com/tecno_spark_go_1s-13648.php",
+"tag": "6.67\" display · Mediatek Helio G50 · 3 GB RAM · 5000 mAh",
+"year": 2025
 }
 ]

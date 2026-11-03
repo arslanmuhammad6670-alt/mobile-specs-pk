@@ -4989,8 +4989,8 @@
   "name": "Apple iPhone Duo",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 2577,
+  "price_pkr": 712999,
   "path": "phones/apple-iphone-duo-fold.html",
   "specs": {
    "Launch Year": "2026 (announced 2026, September 09, released 2026, October 23)",

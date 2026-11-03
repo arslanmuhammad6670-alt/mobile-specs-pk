@@ -3898,8 +3898,8 @@
   "name": "Google Pixel 8a",
   "brand": "Google",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 520,
+  "price_pkr": 143999,
   "path": "phones/google-pixel-8a.html",
   "specs": {
    "Launch Year": "2024 (announced 7 May 2024, released 14 May 2024)",
@@ -4469,8 +4469,8 @@
   "name": "Vivo X500 Pro Max",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 1742,
+  "price_pkr": 482000,
   "path": "phones/vivo-x500-pro-max.html",
   "specs": {
    "Launch Year": "2026 (announced 21 September 2026, global launch 27 October 2026)",
@@ -4621,8 +4621,8 @@
   "name": "iQOO Neo12",
   "brand": "iQOO",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 632,
+  "price_pkr": 175000,
   "path": "phones/iqoo-neo12.html",
   "specs": {
    "Launch Year": "2026 (announced 28 October 2026, released 28 October 2026)",
@@ -5978,8 +5978,8 @@
   "name": "Samsung Galaxy Tab S10 Plus",
   "brand": "Samsung",
   "cat": "Tablets",
-  "price": null,
-  "price_pkr": null,
+  "price": 969,
+  "price_pkr": 267999,
   "path": "tablets/samsung-galaxy-tab-s10-plus.html",
   "specs": {
    "Launch Year": "2024 (announced 26 September 2024, released 3 October 2024)",
@@ -6112,8 +6112,8 @@
   "name": "OnePlus 13",
   "brand": "OnePlus",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 801,
+  "price_pkr": 221499,
   "path": "phones/oneplus-13.html",
   "specs": {
    "Launch Year": "2024 (announced 31 October 2024, released 1 November 2024)",
@@ -10998,7 +10998,7 @@
  {
   "slug": "vivo-t5e",
   "name": "vivo T5e",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": null,
   "price_pkr": null,
@@ -11031,7 +11031,7 @@
  {
   "slug": "vivo-iqoo-pad5c",
   "name": "vivo IQOO Pad5c",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Tablets",
   "price": 390,
   "price_pkr": 107999,
@@ -11064,7 +11064,7 @@
  {
   "slug": "vivo-y60-5g",
   "name": "vivo Y60",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 257,
   "price_pkr": 70999,
@@ -11097,7 +11097,7 @@
  {
   "slug": "vivo-x300-fe-5g",
   "name": "vivo X300 FE",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 911,
   "price_pkr": 251999,
@@ -11130,7 +11130,7 @@
  {
   "slug": "vivo-t5-pro-5g",
   "name": "vivo T5 Pro",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": null,
   "price_pkr": null,
@@ -11163,7 +11163,7 @@
  {
   "slug": "vivo-x300s-5g",
   "name": "vivo X300s",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 705,
   "price_pkr": 194999,
@@ -13568,7 +13568,7 @@
  {
   "slug": "vivo-iqoo-neo12-5g-(china)",
   "name": "vivo iQOO Neo12",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 640,
   "price_pkr": 176999,
@@ -13601,7 +13601,7 @@
  {
   "slug": "vivo-y32-(2026)",
   "name": "vivo Y32",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 275,
   "price_pkr": 75999,
@@ -13634,7 +13634,7 @@
  {
   "slug": "vivo-v80-5g",
   "name": "vivo V80",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 651,
   "price_pkr": 179999,
@@ -13667,7 +13667,7 @@
  {
   "slug": "vivo-iqoo-pad-ultra",
   "name": "vivo iQOO Pad Ultra",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Tablets",
   "price": 965,
   "price_pkr": 266999,
@@ -13700,7 +13700,7 @@
  {
   "slug": "vivo-y600i-5g",
   "name": "vivo Y600i",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 293,
   "price_pkr": 80999,
@@ -13733,7 +13733,7 @@
  {
   "slug": "vivo-x500-pro-max-5g",
   "name": "vivo X500 Pro Max",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 1793,
   "price_pkr": 495999,
@@ -13766,7 +13766,7 @@
  {
   "slug": "vivo-x500-pro-5g",
   "name": "vivo X500 Pro",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 1413,
   "price_pkr": 390999,
@@ -13799,7 +13799,7 @@
  {
   "slug": "vivo-x500-5g",
   "name": "vivo X500",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 1153,
   "price_pkr": 318999,
@@ -13832,7 +13832,7 @@
  {
   "slug": "vivo-t5-5g",
   "name": "vivo T5",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 325,
   "price_pkr": 89999,
@@ -13865,7 +13865,7 @@
  {
   "slug": "vivo-v80-lite-5g-(india)",
   "name": "vivo V80 Lite (IN/PK)",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 437,
   "price_pkr": 120999,
@@ -13898,7 +13898,7 @@
  {
   "slug": "vivo-v70-lite",
   "name": "vivo V70 Lite 4G",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 300,
   "price_pkr": 82999,
@@ -13931,7 +13931,7 @@
  {
   "slug": "vivo-iqoo-neo11-ultra-5g",
   "name": "vivo iQOO Neo11 Ultra",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 481,
   "price_pkr": 132999,
@@ -13964,7 +13964,7 @@
  {
   "slug": "vivo-s2-5g",
   "name": "vivo S2",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 398,
   "price_pkr": 109999,
@@ -13997,7 +13997,7 @@
  {
   "slug": "vivo-y05e",
   "name": "vivo Y05e",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 134,
   "price_pkr": 36999,
@@ -14030,7 +14030,7 @@
  {
   "slug": "vivo-y11d",
   "name": "vivo Y11d",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 186,
   "price_pkr": 51499,
@@ -14063,7 +14063,7 @@
  {
   "slug": "vivo-x-fold6-5g",
   "name": "vivo X Fold6",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 2317,
   "price_pkr": 640999,
@@ -14096,7 +14096,7 @@
  {
   "slug": "vivo-t5",
   "name": "vivo T5 4G",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 325,
   "price_pkr": 89999,
@@ -14129,7 +14129,7 @@
  {
   "slug": "vivo-y600-turbo-5g",
   "name": "vivo Y600 Turbo",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 325,
   "price_pkr": 89999,
@@ -14162,7 +14162,7 @@
  {
   "slug": "vivo-iqoo-z11-5g",
   "name": "vivo iQOO Z11",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 416,
   "price_pkr": 114999,
@@ -14195,7 +14195,7 @@
  {
   "slug": "vivo-x300-ultra-5g",
   "name": "vivo X300 Ultra",
-  "brand": "vivo",
+  "brand": "Vivo",
   "cat": "Smartphones",
   "price": 1962,
   "price_pkr": 542999,

@@ -1,0 +1,20 @@
+{
+"done": [
+"infinix-note-60-5g",
+"infinix-hot-50-4g",
+"tecno-camon-slim",
+"infinix-smart-8-hd",
+"tecno-camon-30s"
+],
+"failed": {
+"vivo-y6t-5g": "image",
+"infinix-note-60-5g": "fetch",
+"infinix-smart-10": "image",
+"infinix-hot-50-4g": "fetch",
+"infinix-smart-8-hd": "image",
+"tecno-camon-slim": "fetch",
+"tecno-spark-go-3": "image",
+"tecno-spark-40-4g": "image",
+"tecno-camon-30s": "image"
+}
+}

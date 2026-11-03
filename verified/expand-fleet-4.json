@@ -426,5 +426,326 @@
 "source": "https://www.gsmarena.com/vivo_iqoo_z11i_5g-14771.php",
 "tag": "6.74\" display · Qualcomm SM4450 Snapdragon 4 G · 6 GB RAM · 6500 mAh",
 "year": 2026
+},
+{
+"brand": "Vivo",
+"cat": "Smartphones",
+"hl": [
+"6.75\" display",
+"Qualcomm SM4450 Snapdragon 4 G",
+"6 GB RAM",
+"7200 mAh"
+],
+"name": "vivo Y500s",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, April 27, released 2026, April 27)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"166.6 x 78.4 x 8.4 mm (6.56 x 3.09 x 0.33 in); 219 g (7.72 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"IPS LCD, 120Hz, 1000 nits (HBM), 1200 nits (peak); 6.75 inches, 111.4 cm2 (~85.3% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+],
+[
+"OS",
+"Android 16, OriginOS 6"
+],
+[
+"Chipset",
+"Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm); CPU Octa-core (2x2.2 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55); GPU Adreno 613"
+],
+[
+"RAM",
+"6 GB / 8 GB / 12 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB; No"
+],
+[
+"Main Camera",
+"50 MP, f/1.8, (wide), PDAF; LED flash, HDR, panorama; video 1080p@30fps"
+],
+[
+"Selfie Camera",
+"8 MP, f/2.1, (wide); video 1080p@30fps"
+],
+[
+"Sensors",
+"Fingerprint (side-mounted), accelerometer, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+],
+[
+"Bluetooth",
+"4.2, A2DP, aptX Adaptive"
+],
+[
+"GPS",
+"GPS, GALILEO, GLONASS, BDS, QZSS"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 2.0, OTG"
+],
+[
+"Battery",
+"Si/C Li-Ion 7200 mAh"
+],
+[
+"Charging",
+"44W wired Reverse wired"
+],
+[
+"Colors",
+"Black, Silver, Gold"
+]
+],
+"slug": "vivo-y500s-5g",
+"source": "https://www.gsmarena.com/vivo_y500s_5g-14631.php",
+"tag": "6.75\" display · Qualcomm SM4450 Snapdragon 4 G · 6 GB RAM · 7200 mAh",
+"year": 2026
+},
+{
+"brand": "Tecno",
+"cat": "Smartphones",
+"hl": [
+"6.78\" display",
+"Unisoc T7250",
+"4 GB RAM",
+"5200 mAh"
+],
+"name": "Tecno Spark Go 3 Pro",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, August 28, released 2026, September 04)"
+],
+[
+"Network",
+"GSM / HSPA / LTE"
+],
+[
+"Body",
+"-; -; Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"IPS LCD, 120Hz; 6.78 inches, 111.0 cm2 (~85.1% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~259 ppi density)"
+],
+[
+"OS",
+"Android 16, HIOS 16"
+],
+[
+"Chipset",
+"Unisoc T7250 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55); GPU Mali-G57 MP1"
+],
+[
+"RAM",
+"4 GB"
+],
+[
+"Storage",
+"64 GB / 128 GB; microSDXC (dedicated slot)"
+],
+[
+"Main Camera",
+"13 MP; Dual-LED; video Yes"
+],
+[
+"Selfie Camera",
+"8 MP; video Yes"
+],
+[
+"Sensors",
+"Fingerprint (side-mounted), accelerometer"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"Yes"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+],
+[
+"Bluetooth",
+"Yes"
+],
+[
+"GPS",
+"GPS"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"FM radio"
+],
+[
+"USB",
+"USB Type-C, OTG"
+],
+[
+"Battery",
+"Li-Po 5200 mAh"
+],
+[
+"Charging",
+"15W wired"
+],
+[
+"Colors",
+"Black, Gray, Orange, Burgundy Red"
+]
+],
+"slug": "tecno-spark-go-3-pro",
+"source": "https://www.gsmarena.com/tecno_spark_go_3_pro-14905.php",
+"tag": "6.78\" display · Unisoc T7250 · 4 GB RAM · 5200 mAh",
+"year": 2026
+},
+{
+"brand": "Tecno",
+"cat": "Smartphones",
+"hl": [
+"6.78\" display",
+"Mediatek Helio G200 Ultimate",
+"8 GB RAM",
+"6150 mAh"
+],
+"name": "Tecno Camon 50 4G",
+"price": 99999,
+"price_src": "https://priceoye.pk/mobiles/tecno/tecno-camon-50",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, February 17, released 2026, March)"
+],
+[
+"Network",
+"GSM / HSPA / LTE"
+],
+[
+"Body",
+"162.4 x 77.2 x 7.5 mm (6.39 x 3.04 x 0.30 in); -; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"AMOLED, 144Hz; 6.78 inches, 112.1 cm2 (~89.4% screen-to-body ratio); 1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density); Unspecified"
+],
+[
+"OS",
+"Android 16, up to 3 major OS updates, HIOS 16"
+],
+[
+"Chipset",
+"Mediatek Helio G200 Ultimate (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2 (1.1GHz)"
+],
+[
+"RAM",
+"8 GB / 12 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; Unspecified"
+],
+[
+"Main Camera",
+"50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 14mm, 112˚ (ultrawide), AF; Dual-LED flash, HDR, panorama; video 1080p@30fps"
+],
+[
+"Selfie Camera",
+"32 MP, f/2.5, (wide); video 1080p@30fps"
+],
+[
+"Sensors",
+"Fingerprint (under display, optical), accelerometer, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Yes"
+],
+[
+"Bluetooth",
+"Yes"
+],
+[
+"GPS",
+"GPS"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"FM radio"
+],
+[
+"USB",
+"USB Type-C 2.0, OTG"
+],
+[
+"Battery",
+"6150 mAh"
+],
+[
+"Charging",
+"45W wired"
+],
+[
+"Colors",
+"Moonlight black, Malachite green, Nebula titanium, Fir green, Lavender mist, Mint cream"
+]
+],
+"slug": "tecno-camon-50",
+"source": "https://www.gsmarena.com/tecno_camon_50-14501.php",
+"tag": "6.78\" display · Mediatek Helio G200 Ultimate · 8 GB RAM · 6150 mAh",
+"year": 2026
 }
 ]

@@ -1,7 +1,7 @@
 
 async function loadPhones(){const r=await fetch('phones.json');return r.json()}
-const RATES={PKR:1,INR:0.342859,BDT:0.449533,AED:0.01327,SAR:0.01355,QAR:0.013152,KWD:0.001119,OMR:0.001389,BHD:0.001359,USD:0.003614,GBP:0.002695,EUR:0.003229,TRY:0.180652,CNY:0.024058,JPY:0.570698,KRW:4.86269,RUB:0.292402,CAD:0.005054,AUD:0.005161,SGD:0.004623,MYR:0.014709,IDR:65.561311,THB:0.121968,PHP:0.228747,ZAR:0.060115,NGN:4.85541,KES:0.469038,EGP:0.200337,LKR:1.201172,NPR:0.548572,AFN:0.233409,ILS:0.011359,CHF:0.002962};
-const SYM={PKR:'Rs ',INR:'₹',BDT:'৳',AED:'AED ',SAR:'SAR ',QAR:'QAR ',KWD:'KWD ',OMR:'OMR ',BHD:'BHD ',USD:'$',GBP:'£',EUR:'€',TRY:'₺',CNY:'¥',JPY:'¥',KRW:'₩',RUB:'₽',CAD:'CA$',AUD:'A$',SGD:'S$',MYR:'RM ',IDR:'Rp ',THB:'฿',PHP:'₱',ZAR:'R ',NGN:'₦',KES:'KSh ',EGP:'E£ ',LKR:'Rs ',NPR:'Rs ',AFN:'؋',ILS:'₪',CHF:'CHF '};
+const RATES={PKR:1,INR:0.342859,BDT:0.449533,AED:0.01327,SAR:0.01355,QAR:0.013152,KWD:0.001119,OMR:0.001389,BHD:0.001359,USD:0.003614,GBP:0.002695,EUR:0.003229,TRY:0.180652,CNY:0.024058,JPY:0.570698,KRW:4.86269,RUB:0.292402,CAD:0.005054,AUD:0.005161,SGD:0.004623,MYR:0.014709,IDR:65.561311,THB:0.121968,PHP:0.228747,ZAR:0.060115,NGN:4.85541,KES:0.469038,EGP:0.200337,LKR:1.201172,NPR:0.548572,AFN:0.233409,ILS:0.011359,CHF:0.002962,VND:93.041694,MMK:7.584721,KHR:14.844538,UZS:43.104459,KZT:1.638417,TZS:9.557823,GHS:0.042218,MAD:0.035488,IQD:5.485564,JOD:0.002562,AZN:0.006144,GEL:0.009383};
+const SYM={PKR:'Rs ',INR:'₹',BDT:'৳',AED:'AED ',SAR:'SAR ',QAR:'QAR ',KWD:'KWD ',OMR:'OMR ',BHD:'BHD ',USD:'$',GBP:'£',EUR:'€',TRY:'₺',CNY:'¥',JPY:'¥',KRW:'₩',RUB:'₽',CAD:'CA$',AUD:'A$',SGD:'S$',MYR:'RM ',IDR:'Rp ',THB:'฿',PHP:'₱',ZAR:'R ',NGN:'₦',KES:'KSh ',EGP:'E£ ',LKR:'Rs ',NPR:'Rs ',AFN:'؋',ILS:'₪',CHF:'CHF ',VND:'₫',MMK:'Ks ',KHR:'៛',UZS:'UZS ',KZT:'₸',TZS:'TSh ',GHS:'GH₵',MAD:'MAD ',IQD:'IQD ',JOD:'JOD ',AZN:'₼',GEL:'₾'};
 function fmtCur(pkrAmt,cur){const v=pkrAmt*RATES[cur];const dec=v>=100?0:(v>=1?2:3);return SYM[cur]+v.toLocaleString('en-US',{minimumFractionDigits:dec,maximumFractionDigits:dec})}
 function curSel(){return localStorage.getItem('cur')||'PKR'}
 function applyCur(){const cur=curSel();const sel=document.getElementById('cursel');if(sel)sel.value=cur;if(cur==='PKR')return;document.querySelectorAll('[data-pkr]').forEach(el=>{const amt=parseFloat(el.getAttribute('data-pkr'));if(isNaN(amt))return;el.innerHTML='<b class="pkrv">'+fmtCur(amt,cur)+'</b> <span class="usdv">Rs '+amt.toLocaleString('en-US')+'</span>'})}
@@ -34,3 +34,10 @@ async function initCompare(){
   document.getElementById('cmpHead').innerHTML=`<tr><th></th><th>${a.name}</th><th>${b.name}</th></tr>`;}
  selA.onchange=render;selB.onchange=render;render();}
 document.addEventListener('DOMContentLoaded',initCompare);
+function initFilters(){const grid=document.getElementById('catgrid');if(!grid)return;const fb=document.getElementById('fbrand'),fs=document.getElementById('fsort'),fc=document.getElementById('fcount');const cards=[...grid.children];
+ function apply(){const b=fb.value;let vis=cards.filter(c=>!b||c.dataset.brand===b);const s=fs.value;const pv=c=>parseFloat(c.dataset.price)||Infinity;const arr=[...grid.children];
+  arr.forEach(c=>c.style.display=vis.includes(c)?'':'none');
+  const sorted=[...vis].sort((x,y)=>s==='plo'?pv(x)-pv(y):s==='phi'?pv(y)-pv(x):s==='az'?x.dataset.name.localeCompare(y.dataset.name):(parseInt(y.dataset.year)||0)-(parseInt(x.dataset.year)||0));
+  sorted.forEach(c=>grid.appendChild(c));if(fc)fc.textContent=vis.length+' models';}
+ fb.addEventListener('change',apply);fs.addEventListener('change',apply);apply();}
+document.addEventListener('DOMContentLoaded',initFilters);

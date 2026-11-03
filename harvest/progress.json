@@ -140,7 +140,13 @@
 "vivo-v70-lite",
 "vivo-iqoo-neo11-ultra-5g",
 "vivo-s2-5g",
-"vivo-y05e"
+"vivo-y05e",
+"vivo-y11d",
+"vivo-x-fold6-5g",
+"vivo-t5",
+"vivo-y600-turbo-5g",
+"vivo-iqoo-z11-5g",
+"vivo-x300-ultra-5g"
 ],
 "failed": {
 "samsung-galaxy-m17-5g": "image",
@@ -331,8 +337,27 @@
 "vivo-v80-lite-5g": "image",
 "vivo-iqoo-z11-5g-(india)": "image",
 "vivo-y31t-5g": "image",
-"vivo-iqoo-z11s-5g-(china)": "image"
+"vivo-iqoo-z11s-5g-(china)": "image",
+"vivo-t5e": "image",
+"vivo-x300-e-5g": "image",
+"vivo-iqoo-z11-lite-5g": "image",
+"vivo-t5-lite-5g": "image",
+"vivo-y500": "image",
+"vivo-iqoo-z11i-5g": "image",
+"vivo-iqoo-pad5c": "image",
+"vivo-v70-lite-5g": "image",
+"vivo-s60-5g": "image",
+"vivo-s60-vitality-5g": "image",
+"vivo-iqoo-15t-5g": "image",
+"vivo-iqoo-pad6-pro": "image",
+"vivo-y600-pro-5g-(china)": "image",
+"vivo-y500s-5g": "image",
+"vivo-y6-5g": "image",
+"vivo-y6t-5g": "image",
+"vivo-y60-5g": "image",
+"vivo-x300-fe-5g": "image",
+"vivo-t5-pro-5g": "image"
 },
 "batch_idx": 3,
-"added": 141
+"added": 147
 }

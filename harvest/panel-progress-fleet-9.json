@@ -1,0 +1,15 @@
+{
+"done": [
+"infinix-zero-40",
+"tecno-pop-x-5g",
+"tecno-pova-slim-5g"
+],
+"failed": {
+"vivo-s60-vitality-5g": "image",
+"infinix-zero-40": "fetch",
+"tecno-pop-x-5g": "fetch",
+"tecno-pova-slim-5g": "image",
+"tecno-spark-go-2": "image",
+"tecno-pop-9": "image"
+}
+}

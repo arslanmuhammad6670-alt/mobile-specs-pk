@@ -1,0 +1,68 @@
+# Check Specs — automatic site rebuild
+# INSTALL LOCATION (later, not done by this prep): .github/workflows/rebuild.yml
+#
+# What it does: jab bhi admin panel (ya koi bhi) verified/expand-*.json ya
+# img/** mein change GitHub par push karta hai, ye workflow:
+#   1) python3 build.py chala kar site dobara banata hai (bilkul waisa hi
+#      jaisa Muse apne computer se chalata hai — build.py sirf Python
+#      standard library use karta hai, koi install nahi chahiye)
+#   2) bani hui site files ko wapas main branch par commit kar deta hai
+# GitHub Pages pehle se main branch ke root se site serve karta hai,
+# is liye commit hote hi nayi site live ho jati hai.
+#
+# Equivalence note: abhi Muse deploy_contents.py se har file Contents API
+# se bhejta hai. Ye workflow usi natije ka git wala rasta hai — bani hui
+# files main branch par pohonchti hain aur Pages wahi serve karta hai.
+# Fark sirf itna hai: deploy_contents.py har dafa Pages ko dobara enable
+# bhi karta hai (POST /pages); workflow ye nahi karta kyunke Pages pehle
+# se enabled hai. Agar Pages kabhi band ho jaye to ek dafa Muse ko
+# deploy chalana hoga — README mein likha hai.
+
+name: Rebuild site
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "verified/expand-*.json"
+      - "img/**"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+# Ek waqt mein ek hi rebuild — do saves takrayen to line mein lag jayen
+concurrency:
+  group: rebuild-site
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build the site
+        run: python3 build.py
+
+      - name: Commit the built site back to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # Sirf build ki bani hui output files stage karo (scratch/cache nahi)
+          git add index.html smartphones.html keypad-phones.html tablets.html \
+                  laptops.html compare.html best-under-200.html best-under-400.html \
+                  phones.json sitemap.xml robots.txt style.css app.js \
+                  phones keypad tablets laptops brands 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No site changes to commit."
+          else
+            git commit -m "site: auto rebuild after model change [skip ci]"
+            git push
+          fi

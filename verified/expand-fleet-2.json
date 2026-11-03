@@ -426,5 +426,112 @@
 "source": "https://www.gsmarena.com/tecno_spark_go_1s-13648.php",
 "tag": "6.67\" display · Mediatek Helio G50 · 3 GB RAM · 5000 mAh",
 "year": 2025
+},
+{
+"brand": "Vivo",
+"cat": "Smartphones",
+"hl": [
+"6.83\" display",
+"Mediatek Dimensity 7300e",
+"6 GB RAM",
+"10000 mAh"
+],
+"name": "vivo Y600",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, October 26, released 2026, October 30)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"163.9 x 76.5 x 8.6 mm (6.45 x 3.01 x 0.34 in); 224 g (7.90 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"AMOLED, 1B colors, 120Hz, HDR10+, 1000 nits, 2000 nits (HBM); 6.83 inches, 112.6 cm2 (~89.8% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~450 ppi density); Schott glass"
+],
+[
+"OS",
+"Android 16, OriginOS 6"
+],
+[
+"Chipset",
+"Mediatek Dimensity 7300e (6 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G610"
+],
+[
+"RAM",
+"6 GB / 8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; No"
+],
+[
+"Main Camera",
+"50 MP, f/1.8, (wide), 1/2.93\", PDAF; LED flash, HDR, panorama; video 1080p@30fps"
+],
+[
+"Selfie Camera",
+"8 MP, f/2.1, (wide); video 1080p@30fps"
+],
+[
+"Sensors",
+"Fingerprint (under display, optical), accelerometer, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+],
+[
+"Bluetooth",
+"5.4, A2DP, LE, aptX HD"
+],
+[
+"GPS",
+"GPS, GALILEO, GLONASS, QZSS, BDS"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 2.0, OTG"
+],
+[
+"Battery",
+"Si/C Li-Ion 10000 mAh"
+],
+[
+"Charging",
+"44W wired Reverse wired"
+],
+[
+"Colors",
+"White, Blue, Black"
+]
+],
+"slug": "vivo-y600-5g",
+"source": "https://www.gsmarena.com/vivo_y600_5g-15030.php",
+"tag": "6.83\" display · Mediatek Dimensity 7300e · 6 GB RAM · 10000 mAh",
+"year": 2026
 }
 ]

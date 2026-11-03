@@ -1,0 +1,141 @@
+{
+ "nokia-105-2023": {
+  "miss": [
+   "Chipset",
+   "RAM"
+  ],
+  "src": "https://m.gsmarena.com/nokia_105_(2023)-12281.php",
+  "name": "Nokia 105 (2023)"
+ },
+ "nokia-106-2023": {
+  "miss": [
+   "Chipset",
+   "RAM"
+  ],
+  "src": "https://www.gsmarena.com/nokia_106_(2023)-12283.php",
+  "name": "Nokia 106 (2023)"
+ },
+ "nokia-110-4g-2023": {
+  "miss": [
+   "Chipset",
+   "RAM"
+  ],
+  "src": "https://m.gsmarena.com/nokia_110_4g_(2023)-12285.php",
+  "name": "Nokia 110 4G (2023)"
+ },
+ "nokia-130-music": {
+  "miss": [
+   "Chipset",
+   "RAM"
+  ],
+  "src": "https://www.gsmarena.com/nokia_130_(2023)-12464.php",
+  "name": "Nokia 130 Music"
+ },
+ "nokia-150-2023": {
+  "miss": [
+   "Chipset",
+   "RAM"
+  ],
+  "src": "https://www.gsmarena.com/nokia_150_(2023)-12465.php",
+  "name": "Nokia 150 (2023)"
+ },
+ "nokia-215-4g": {
+  "miss": [
+   "RAM"
+  ],
+  "src": "https://www.gsmarena.com/nokia_215_4g_(2024)-12969.php",
+  "name": "Nokia 215 4G"
+ },
+ "nokia-225-4g": {
+  "miss": [
+   "RAM"
+  ],
+  "src": "https://m.gsmarena.com/nokia_225_4g_(2024)-12968.php",
+  "name": "Nokia 225 4G"
+ },
+ "hmd-105": {
+  "miss": [
+   "Chipset",
+   "RAM"
+  ],
+  "src": "https://www.hmd.com/en_in/hmd-105/specs",
+  "name": "HMD 105"
+ },
+ "apple-macbook-air-m3": {
+  "miss": [
+   "Main Camera"
+  ],
+  "src": "https://manuals.plus/m/0a333a6fee1614d2cf5c922e6ea95496ca78552d699e031ba9e2fbcc713fe947",
+  "name": "Apple MacBook Air 13 (M3)"
+ },
+ "apple-macbook-pro-14-m3-pro": {
+  "miss": [
+   "Main Camera"
+  ],
+  "src": "https://support.apple.com/en-us/117736",
+  "name": "Apple MacBook Pro 14 (M3 Pro)"
+ },
+ "hp-pavilion-15": {
+  "miss": [
+   "Main Camera"
+  ],
+  "src": "https://www.hp.com/us-en/shop/pdp/cto-dynamic-kits--1/hp-pavilion-laptop-15t-eg300-156-78g50av-1?langId=-1&storeId=10151&catEntryId=3074457345620763319&configId=78G50AV_100084",
+  "name": "HP Pavilion 15 (Core i5 13th Gen)"
+ },
+ "dell-inspiron-3530": {
+  "miss": [
+   "Main Camera"
+  ],
+  "src": "https://www.singersl.com/brochure/download/DELL3530-I5-8GB512-SIL",
+  "name": "Dell Inspiron 15 3530"
+ },
+ "lenovo-ideapad-slim-3": {
+  "miss": [
+   "Main Camera"
+  ],
+  "src": "https://www.startech.com.bd/lenovo-ideapad-slim-3-15abr8-ryzen-5-7530u-fhd-laptop",
+  "name": "Lenovo IdeaPad Slim 3 (Ryzen 5)"
+ },
+ "asus-vivobook-15": {
+  "miss": [
+   "Main Camera"
+  ],
+  "src": "https://www.asus.com/laptops/for-home/vivobook/vivobook-15-x1502/techspec/",
+  "name": "Asus Vivobook 15 (Core i5 12th Gen)"
+ },
+ "acer-aspire-5": {
+  "miss": [
+   "Main Camera"
+  ],
+  "src": "https://www.acer.com/ca-en/laptops/aspire/aspire-5-intel/pdp/NX.KHJAA.004",
+  "name": "Acer Aspire 5 (Core i5 13th Gen)"
+ },
+ "hp-victus-15-gaming": {
+  "miss": [
+   "Main Camera"
+  ],
+  "src": "https://cplanetnp.com/hp-victus-i5-13420h-rtx-4050-price-nepal",
+  "name": "HP Victus 15 Gaming (RTX 4050)"
+ },
+ "nokia-3210-2024": {
+  "miss": [
+   "RAM"
+  ],
+  "src": "https://www.gsmarena.com/nokia_3210-12990.php",
+  "name": "Nokia 3210 (2024)"
+ },
+ "hmd-110-4g": {
+  "miss": [
+   "RAM"
+  ],
+  "src": "https://www.gsmarena.com/hmd_110_4g-13336.php",
+  "name": "HMD 110 4G"
+ },
+ "apple-ipad-(2025)": {
+  "miss": [
+   "Battery"
+  ],
+  "src": "https://www.gsmarena.com/apple_ipad_(2025)-13702.php",
+  "name": "Apple iPad (2025)"
+ }
+}

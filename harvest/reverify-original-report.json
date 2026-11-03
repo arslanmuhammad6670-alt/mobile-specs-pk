@@ -1,0 +1,773 @@
+{
+ "updated": {
+  "samsung-galaxy-s24-ultra": [
+   323999,
+   469999
+  ],
+  "samsung-galaxy-z-flip-6": [
+   304999,
+   384999
+  ],
+  "samsung-galaxy-a15": [
+   44999,
+   52999
+  ],
+  "samsung-galaxy-a06": [
+   22499,
+   27999
+  ],
+  "xiaomi-14": [
+   285995,
+   339999
+  ],
+  "poco-x6-pro": [
+   122099,
+   129999
+  ],
+  "poco-m6-pro": [
+   83999,
+   89999
+  ],
+  "oppo-a58": [
+   43999,
+   48999
+  ],
+  "nokia-106-2023": [
+   4149,
+   4999
+  ],
+  "nokia-110-4g-2023": [
+   5250,
+   6899
+  ],
+  "nokia-130-music": [
+   6449,
+   6500
+  ],
+  "nokia-150-2023": [
+   7449,
+   8999
+  ],
+  "samsung-galaxy-a25": [
+   69999,
+   98500
+  ],
+  "samsung-galaxy-a05s": [
+   29500,
+   38500
+  ],
+  "vivo-v80-lite-5g": [
+   110999,
+   124999
+  ],
+  "infinix-hot-60i-5g": [
+   52495,
+   58999
+  ],
+  "tecno-spark-40-5g": [
+   49999,
+   53999
+  ],
+  "tecno-camon-50-pro-5g": [
+   99995,
+   109999
+  ],
+  "infinix-gt-50-pro-5g": [
+   163995,
+   189999
+  ],
+  "infinix-hot-60i": [
+   52495,
+   58999
+  ],
+  "tecno-camon-50-pro": [
+   99995,
+   109999
+  ],
+  "infinix-note-60-5g": [
+   102999,
+   109999
+  ],
+  "samsung-galaxy-s23-ultra": [
+   281999,
+   382999
+  ],
+  "samsung-galaxy-a54": [
+   80499,
+   140999
+  ],
+  "samsung-galaxy-a34": [
+   68199,
+   116999
+  ],
+  "vivo-v29": [
+   143199,
+   159999
+  ],
+  "vivo-y36": [
+   48899,
+   54999
+  ],
+  "oppo-a78-4g": [
+   58999,
+   64999
+  ],
+  "xiaomi-13t": [
+   160999,
+   169999
+  ],
+  "infinix-note-30": [
+   74999,
+   44999
+  ],
+  "samsung-galaxy-z-fold-6": [
+   469999,
+   604999
+  ],
+  "samsung-galaxy-z-fold-5": [
+   325999,
+   656999
+  ],
+  "samsung-galaxy-s24": [
+   207999,
+   289999
+  ],
+  "samsung-galaxy-s25": [
+   265499,
+   334999
+  ],
+  "poco-f6": [
+   131999,
+   144999
+  ],
+  "apple-iphone-18-pro-max": [
+   613699,
+   645000
+  ],
+  "iphone-17": [
+   405699,
+   434599
+  ],
+  "iphone-17-pro": [
+   457699,
+   491100
+  ],
+  "iphone-17-pro-max": [
+   514899,
+   535600
+  ],
+  "samsung-galaxy-a56": [
+   145999,
+   149495
+  ],
+  "samsung-galaxy-a36": [
+   129999,
+   139999
+  ],
+  "oppo-reno-13": [
+   119999,
+   149999
+  ],
+  "oppo-reno-13-pro": [
+   143999,
+   219999
+  ],
+  "xiaomi-redmi-note-14-pro-plus": [
+   139999,
+   144999
+  ],
+  "realme-note-60x": [
+   29999,
+   33999
+  ],
+  "honor-x6c": [
+   44495,
+   49999
+  ],
+  "samsung-galaxy-a07": [
+   36495,
+   45999
+  ],
+  "infinix-hot-70": [
+   60995,
+   64999
+  ],
+  "infinix-hot-70-pro-5g": [
+   81995,
+   89999
+  ],
+  "tecno-spark-50-4g": [
+   58995,
+   64999
+  ],
+  "tecno-spark-50-5g": [
+   58995,
+   64999
+  ],
+  "tecno-spark-50-pro": [
+   70495,
+   74999
+  ],
+  "samsung-galaxy-s26-fe-5g": [
+   231995,
+   250000
+  ],
+  "samsung-galaxy-a27-5g": [
+   109995,
+   119999
+  ],
+  "samsung-galaxy-a57-5g": [
+   165495,
+   166999
+  ],
+  "samsung-galaxy-a37-5g": [
+   131495,
+   149999
+  ],
+  "samsung-galaxy-s26-ultra-5g": [
+   387495,
+   449999
+  ],
+  "samsung-galaxy-s26+-5g": [
+   330495,
+   384999
+  ],
+  "samsung-galaxy-s26-5g": [
+   284500,
+   319999
+  ],
+  "samsung-galaxy-a07-5g": [
+   36495,
+   45999
+  ],
+  "samsung-galaxy-a17": [
+   62995,
+   72999
+  ],
+  "samsung-galaxy-s25-fe-5g": [
+   189999,
+   219999
+  ],
+  "samsung-galaxy-a17-5g": [
+   62995,
+   72999
+  ],
+  "xiaomi-17t-5g": [
+   218999,
+   239999
+  ],
+  "xiaomi-redmi-a7-pro-5g": [
+   36495,
+   39999
+  ],
+  "apple-iphone-17e": [
+   284999,
+   289000
+  ],
+  "oppo-a6c": [
+   43495,
+   45999
+  ],
+  "oppo-a6k": [
+   53995,
+   56999
+  ],
+  "oppo-a6s-pro": [
+   104995,
+   119999
+  ],
+  "oppo-a6-5g": [
+   69995,
+   74999
+  ],
+  "oppo-a6": [
+   69995,
+   74999
+  ],
+  "xiaomi-17t-pro-5g": [
+   269995,
+   289999
+  ],
+  "oppo-a6s-5g": [
+   91995,
+   99999
+  ],
+  "vivo-x300-fe-5g": [
+   251999,
+   279999
+  ],
+  "apple-iphone-18-pro": [
+   572999,
+   581999
+  ],
+  "oppo-a6s": [
+   91995,
+   99999
+  ],
+  "vivo-y32-(2026)": [
+   75999,
+   82999
+  ],
+  "vivo-y05e": [
+   36999,
+   39999
+  ],
+  "vivo-y11d": [
+   51499,
+   52999
+  ]
+ },
+ "kept_same": [
+  "samsung-galaxy-s23",
+  "infinix-smart-8",
+  "tecno-camon-30",
+  "tecno-pop-8",
+  "samsung-galaxy-s23-fe",
+  "tecno-spark-go-5g",
+  "vivo-y05",
+  "vivo-y31d",
+  "vivo-y500",
+  "vivo-v70-fe",
+  "realme-c100i",
+  "realme-note-70",
+  "tecno-spark-go-3",
+  "tecno-spark-40-pro-plus",
+  "infinix-smart-20",
+  "vivo-v40-lite-4g",
+  "vivo-v40-lite-5g",
+  "google-pixel-5",
+  "google-pixel-4a",
+  "google-pixel-3-xl",
+  "google-pixel-2-xl",
+  "google-pixel-6-pro",
+  "google-pixel-4a-5g",
+  "google-pixel-4-xl",
+  "google-pixel-3a",
+  "google-pixel-2",
+  "google-pixel-xl"
+ ],
+ "no_priceoye": [
+  "iphone-16-pro-max",
+  "iphone-16",
+  "iphone-15",
+  "iphone-14",
+  "iphone-13",
+  "samsung-galaxy-s25-ultra",
+  "samsung-galaxy-a55",
+  "samsung-galaxy-a16",
+  "redmi-note-13",
+  "redmi-note-13-pro",
+  "redmi-13",
+  "redmi-a3",
+  "infinix-note-40",
+  "infinix-hot-40-pro",
+  "infinix-hot-40i",
+  "tecno-spark-20-pro-plus",
+  "tecno-spark-20",
+  "vivo-v30",
+  "vivo-y28",
+  "vivo-y18",
+  "oppo-reno-11",
+  "realme-12-plus",
+  "realme-c65",
+  "honor-x9b",
+  "honor-x7b",
+  "oneplus-12",
+  "google-pixel-8",
+  "google-pixel-8-pro",
+  "nothing-phone-2",
+  "nokia-105-2023",
+  "nokia-215-4g",
+  "nokia-225-4g",
+  "hmd-105",
+  "apple-ipad-10",
+  "apple-ipad-air-m2",
+  "samsung-galaxy-tab-a9",
+  "samsung-galaxy-tab-s9",
+  "xiaomi-pad-6",
+  "redmi-pad-se",
+  "infinix-xpad",
+  "lenovo-tab-m11",
+  "apple-macbook-air-m3",
+  "apple-macbook-pro-14-m3-pro",
+  "hp-pavilion-15",
+  "dell-inspiron-3530",
+  "lenovo-ideapad-slim-3",
+  "asus-vivobook-15",
+  "acer-aspire-5",
+  "hp-victus-15-gaming",
+  "samsung-galaxy-a35",
+  "samsung-galaxy-s24-fe",
+  "apple-iphone-16-pro",
+  "apple-iphone-16-plus",
+  "apple-iphone-15-pro-max",
+  "apple-iphone-15-plus",
+  "apple-iphone-13-mini",
+  "infinix-note-40-pro",
+  "infinix-hot-50-pro-plus",
+  "infinix-smart-9",
+  "infinix-zero-40-4g",
+  "tecno-camon-40",
+  "tecno-spark-30-pro",
+  "tecno-pova-6",
+  "redmi-note-14",
+  "redmi-note-13-pro-plus",
+  "poco-x7",
+  "tecno-camon-40-pro-5g",
+  "infinix-xpad-30-pro",
+  "tecno-spark-50s-5g",
+  "infinix-gt-20-pro",
+  "vivo-pad6-pro",
+  "tecno-spark-50c",
+  "tecno-spark-40c",
+  "vivo-iqoo-pad6-pro",
+  "tecno-camon-40-pro",
+  "tecno-pova-curve-5g",
+  "tecno-spark-30",
+  "infinix-note-50x",
+  "tecno-camon-40-premier",
+  "vivo-x300-e-5g",
+  "tecno-phantom-v-fold2",
+  "infinix-note-40-pro-4g",
+  "tecno-camon-air",
+  "tecno-camon-slim-5g",
+  "tecno-megapad-11",
+  "infinix-smart-9-hd",
+  "infinix-smart-8-plus",
+  "infinix-smart-8-pro",
+  "vivo-iqoo-z11-5g-(india)",
+  "infinix-hot-50-pro-4g",
+  "vivo-iqoo-z11i-5g",
+  "vivo-s2-fe-5g",
+  "infinix-hot-50-pro+-4g",
+  "vivo-y31t-5g",
+  "vivo-y6-5g",
+  "infinix-smart-8-(india)",
+  "infinix-hot-50-4g",
+  "tecno-camon-slim",
+  "infinix-smart-8-hd",
+  "tecno-camon-30s",
+  "vivo-iqoo-z11s-5g-(china)",
+  "vivo-v70-lite-5g",
+  "tecno-megapad-se",
+  "tecno-spark-30c-5g",
+  "vivo-iqoo-16-5g",
+  "infinix-hot-50",
+  "tecno-pova-7",
+  "tecno-spark-30-5g",
+  "tecno-pova-8-5g",
+  "infinix-zero-40",
+  "tecno-pop-x-5g",
+  "tecno-pova-slim-5g",
+  "vivo-v40",
+  "vivo-y29",
+  "vivo-y19s",
+  "oppo-reno-12",
+  "oppo-a3-4g",
+  "realme-13-pro-plus",
+  "realme-c75",
+  "realme-note-60",
+  "honor-x8b",
+  "honor-200",
+  "google-pixel-9",
+  "google-pixel-9-pro",
+  "oneplus-12r",
+  "oneplus-nord-4",
+  "nothing-phone-2a",
+  "motorola-edge-50-fusion",
+  "samsung-galaxy-tab-a9-plus",
+  "apple-ipad-pro-m4-11",
+  "nokia-3210-2024",
+  "hmd-110-4g",
+  "apple-iphone-14-pro-max",
+  "iphone-12",
+  "iphone-11",
+  "redmi-note-12-pro-4g",
+  "poco-x6",
+  "infinix-hot-40",
+  "tecno-spark-20-pro",
+  "oppo-a60",
+  "realme-c67",
+  "honor-x6b",
+  "poco-c65",
+  "tecno-pova-6-neo",
+  "oneplus-nord-ce4",
+  "google-pixel-8a",
+  "motorola-edge-50-pro",
+  "realme-gt-6",
+  "honor-magic-6-pro",
+  "nothing-phone-2a-plus",
+  "iphone-16e",
+  "google-pixel-9a",
+  "samsung-galaxy-a16-5g",
+  "xiaomi-14t",
+  "vivo-y200-4g",
+  "realme-13-4g",
+  "infinix-note-40s",
+  "tecno-camon-40-pro-4g",
+  "google-pixel-11-5g",
+  "google-pixel-11-pro-fold",
+  "vivo-x500-pro-max",
+  "vivo-x500-pro",
+  "vivo-x500",
+  "oneplus-ace-7-pro",
+  "oneplus-ace-7",
+  "iqoo-neo12",
+  "huawei-pura-90-plus",
+  "huawei-enjoy-100-pro-max",
+  "huawei-enjoy-100-pro",
+  "vivo-y600",
+  "apple-macbook-air-m3-13",
+  "apple-macbook-air-m4-13",
+  "apple-macbook-air-m4-15",
+  "apple-macbook-pro-14-m3",
+  "apple-macbook-pro-16-m3-pro",
+  "apple-macbook-pro-16-m4-pro",
+  "apple-macbook-air-m1",
+  "apple-macbook-air-m2-13",
+  "apple-macbook-air-m2-15",
+  "apple-macbook-air-m3-15",
+  "apple-macbook-pro-14-m4",
+  "apple-macbook-pro-14-m4-pro",
+  "apple-iphone-duo-fold",
+  "samsung-galaxy-a26",
+  "vivo-v50",
+  "oppo-reno-14",
+  "realme-14-pro-plus",
+  "infinix-note-50-pro-plus",
+  "motorola-signature-27-5g",
+  "motorola-moto-g47-power",
+  "nokia-2360-flip",
+  "honor-x9e-s-5g",
+  "honor-x8e",
+  "oneplus-turbo-6vs-5g",
+  "samsung-w27",
+  "honor-400",
+  "honor-400-pro",
+  "infinix-note-50-pro",
+  "honor-x9c",
+  "poco-x7-pro",
+  "infinix-hot-50-pro",
+  "vivo-y19s-pro",
+  "oppo-a3x",
+  "infinix-hot-50i",
+  "tecno-spark-20c",
+  "redmi-14c",
+  "realme-c61",
+  "samsung-galaxy-tab-s10-plus",
+  "apple-ipad-air-m3",
+  "apple-ipad-pro-13-m4",
+  "samsung-galaxy-z-flip-7",
+  "google-pixel-9-pro-xl",
+  "oneplus-13",
+  "apple-ipad-mini-7",
+  "samsung-galaxy-tab-s10-fe",
+  "xiaomi-pad-7",
+  "nokia-235-4g",
+  "samsung-galaxy-f70-5g",
+  "samsung-galaxy-tab-s12-ultra-5g",
+  "samsung-galaxy-tab-s12+-5g",
+  "samsung-galaxy-f08",
+  "samsung-galaxy-m08",
+  "samsung-galaxy-a18",
+  "samsung-galaxy-a08",
+  "samsung-galaxy-a07s",
+  "samsung-galaxy-f70-pro-5g",
+  "samsung-galaxy-z-fold8-ultra-5g",
+  "samsung-galaxy-z-fold-wide-5g",
+  "samsung-galaxy-z-flip8-5g",
+  "samsung-galaxy-m47-5g",
+  "samsung-galaxy-m17e-5g",
+  "samsung-galaxy-f70e-5g",
+  "samsung-galaxy-z-trifold-5g",
+  "samsung-galaxy-f07",
+  "samsung-galaxy-m07",
+  "samsung-galaxy-tab-a11+",
+  "samsung-galaxy-tab-a11",
+  "samsung-galaxy-f17-5g",
+  "samsung-galaxy-tab-s11-ultra-5g",
+  "samsung-galaxy-tab-s11-5g",
+  "samsung-galaxy-tab-s10-lite-5g",
+  "samsung-galaxy-f36-5g",
+  "samsung-galaxy-z-fold7",
+  "samsung-galaxy-z-flip7",
+  "samsung-galaxy-z-flip7-fe-5g",
+  "samsung-galaxy-m36-5g",
+  "samsung-galaxy-m17-5g",
+  "apple-ipad-pro-11-(2022)",
+  "apple-ipad-(2022)",
+  "xiaomi-redmi-m100-pro-5g",
+  "xiaomi-redmi-note-17-pro-refresh-5g-(china",
+  "xiaomi-18-pro-max-5g",
+  "xiaomi-poco-c95-pro",
+  "xiaomi-18-fold-5g",
+  "xiaomi-poco-f9-ultra-5g",
+  "xiaomi-redmi-17c-5g",
+  "xiaomi-poco-m8x-5g",
+  "xiaomi-redmi-m100-5g",
+  "xiaomi-redmi-k100-pro-max-5g",
+  "xiaomi-redmi-k100-pro-5g",
+  "xiaomi-redmi-17-5g",
+  "xiaomi-redmi-17",
+  "xiaomi-poco-m8-power-5g",
+  "xiaomi-redmi-note-17-5g-(china)",
+  "xiaomi-redmi-k90-ultra-5g",
+  "xiaomi-redmi-17c-(china)",
+  "xiaomi-poco-pad-c1",
+  "xiaomi-poco-c81x",
+  "xiaomi-redmi-k90-max-5g",
+  "xiaomi-redmi-k-pad-2",
+  "xiaomi-redmi-pad-2-9-7",
+  "xiaomi-redmi-a7",
+  "xiaomi-poco-m8s-5g",
+  "xiaomi-redmi-r70m-5g",
+  "xiaomi-redmi-r70-5g",
+  "oppo-f35-5g",
+  "oppo-a7-pro-max-5g",
+  "oppo-reno16c-5g",
+  "oppo-reno16-pro-5g",
+  "apple-ipad-air-11-5g-(2026)",
+  "apple-ipad-pro-13-5g-(2025)",
+  "apple-ipad-pro-11-5g-(2025)",
+  "apple-ipad-air-13-(2025)",
+  "apple-ipad-(2025)",
+  "apple-ipad-mini-(2024)",
+  "apple-ipad-pro-13-(2024)",
+  "apple-ipad-pro-11-(2024)",
+  "apple-ipad-air-13-(2024)",
+  "apple-ipad-air-11-(2024)",
+  "xiaomi-poco-x8s-5g",
+  "xiaomi-18-pro-5g",
+  "xiaomi-pad-9-pro",
+  "xiaomi-poco-f9-pro-5g",
+  "xiaomi-redmi-note-17-pro-5g-(china)",
+  "xiaomi-poco-c81-pro",
+  "oppo-reno16-fs-5g",
+  "oppo-find-x9s-5g",
+  "oppo-a6s-pro-5g-(china)",
+  "oppo-k15-pro+-5g",
+  "oppo-k15-pro-5g",
+  "oppo-find-n6-5g",
+  "oppo-k14-5g",
+  "oppo-a6s-5g-(india)",
+  "oppo-k14x-5g",
+  "oppo-a6c-(china)",
+  "oppo-a6t-5g",
+  "oppo-a6x-5g-(global)",
+  "oneplus-16-5g",
+  "oneplus-n6x",
+  "oneplus-n6",
+  "oneplus-pad-3-pro",
+  "oneplus-turbo-6x-pro-5g",
+  "oneplus-ace-6-ultra-5g",
+  "oneplus-pad-4",
+  "oneplus-nord-6-5g",
+  "oneplus-15t-5g",
+  "oneplus-pad-go-2-5g",
+  "oneplus-ace-6t-5g",
+  "oneplus-pad-3-(global)",
+  "oneplus-13s-5g",
+  "oneplus-pad-2",
+  "oneplus-nord-ce4-lite-(india)",
+  "oppo-find-x10-pro-max",
+  "oppo-reno16-5g",
+  "oppo-a6t-pro",
+  "samsung-galaxy-xcover7-pro",
+  "oppo-find-x9-ultra-5g",
+  "google-pixel-10-pro-fold",
+  "google-pixel-10-pro-5g",
+  "google-pixel-10-5g",
+  "google-pixel-9-pro-fold",
+  "google-pixel-tablet",
+  "google-pixel-7a",
+  "google-pixel-7-pro",
+  "google-pixel-7",
+  "vivo-t5e",
+  "vivo-iqoo-pad5c",
+  "vivo-y60-5g",
+  "vivo-t5-pro-5g",
+  "vivo-x300s-5g",
+  "infinix-note-60-ultra-5g",
+  "infinix-xpad-20-pro",
+  "infinix-gt-30-pro-5g",
+  "infinix-xpad-gt",
+  "samsung-galaxy-s25-edge",
+  "samsung-galaxy-f56-5g",
+  "samsung-galaxy-m56-5g",
+  "apple-ipad-air-13-5g-(2026)",
+  "apple-iphone-17-air",
+  "apple-ipad-air-11-(2025)",
+  "apple-iphone-15-pro",
+  "apple-iphone-14-pro",
+  "apple-iphone-14-plus",
+  "xiaomi-redmi-k100-5g",
+  "xiaomi-pad-9",
+  "xiaomi-pad-9-pro-max",
+  "xiaomi-poco-x8-power-5g",
+  "xiaomi-poco-x8-5g",
+  "xiaomi-redmi-note-17-pro-max-5g",
+  "xiaomi-redmi-note-17-pro-5g",
+  "xiaomi-redmi-note-17-5g",
+  "xiaomi-redmi-note-17",
+  "xiaomi-17-max-5g",
+  "xiaomi-black-shark-pad-se",
+  "xiaomi-poco-c81",
+  "oppo-k15x-5g",
+  "oppo-f35-pro-5g",
+  "oppo-find-x10",
+  "oppo-find-x10-e",
+  "oppo-k14-plus-5g",
+  "oppo-k14-lite",
+  "oppo-a7-pro-5g",
+  "oppo-k15-5g",
+  "oppo-reno16-f-5g",
+  "oppo-pad-6",
+  "oppo-find-x9s-pro",
+  "oppo-f33-pro-5g",
+  "oppo-f33-5g",
+  "oppo-k15s-5g",
+  "oppo-reno16-5g-(china)",
+  "oppo-pad-5-pro",
+  "oppo-reno15c-5g-(india)",
+  "oppo-a6t",
+  "oneplus-n6-lite",
+  "oneplus-turbo-6x-5g",
+  "oneplus-nord-ce6-5g",
+  "oneplus-nord-ce6-lite-5g",
+  "oneplus-turbo-6-5g",
+  "oneplus-turbo-6v-5g",
+  "oneplus-nord-ce5-5g",
+  "oneplus-ace-5-ultra-5g",
+  "oneplus-pad-2-pro",
+  "oneplus-13t-5g",
+  "oneplus-13r",
+  "oneplus-ace-5",
+  "oneplus-ace-3-pro",
+  "oneplus-pad-pro",
+  "oneplus-nord-ce4-lite",
+  "google-pixel-11-pro-xl-5g",
+  "google-pixel-11-pro-5g",
+  "google-pixel-10a-5g",
+  "google-pixel-fold",
+  "oppo-reno17-pro-5g-(china)",
+  "google-pixel-6",
+  "google-pixel-c",
+  "vivo-iqoo-neo12-5g-(china)",
+  "vivo-v80-5g",
+  "vivo-iqoo-pad-ultra",
+  "vivo-y600i-5g",
+  "vivo-x500-pro-max-5g",
+  "vivo-x500-pro-5g",
+  "vivo-x500-5g",
+  "vivo-t5-5g",
+  "vivo-v80-lite-5g-(india)",
+  "vivo-v70-lite",
+  "vivo-iqoo-neo11-ultra-5g",
+  "vivo-s2-5g",
+  "vivo-x-fold6-5g",
+  "vivo-t5",
+  "vivo-y600-turbo-5g",
+  "vivo-iqoo-z11-5g",
+  "vivo-x300-ultra-5g"
+ ]
+}

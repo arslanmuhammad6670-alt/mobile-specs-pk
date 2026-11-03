@@ -146,7 +146,16 @@
 "vivo-t5",
 "vivo-y600-turbo-5g",
 "vivo-iqoo-z11-5g",
-"vivo-x300-ultra-5g"
+"vivo-x300-ultra-5g",
+"infinix-xpad-30-pro",
+"infinix-gt-50-pro-5g",
+"infinix-hot-60i-5g",
+"infinix-hot-60-5g",
+"infinix-hot-60i",
+"infinix-xpad-20",
+"infinix-note-50x",
+"infinix-note-50-4g",
+"infinix-hot-50-pro-4g"
 ],
 "failed": {
 "samsung-galaxy-m17-5g": "image",
@@ -356,8 +365,31 @@
 "vivo-y6t-5g": "image",
 "vivo-y60-5g": "image",
 "vivo-x300-fe-5g": "image",
-"vivo-t5-pro-5g": "image"
+"vivo-t5-pro-5g": "image",
+"vivo-x300s-5g": "image",
+"vivo-pad6-pro": "image",
+"vivo-iqoo-z11-5g-(china)": "image",
+"infinix-hot-70-pro-5g": "image",
+"infinix-hot-70": "image",
+"infinix-note-60-ultra-5g": "image",
+"infinix-note-60-pro-5g": "image",
+"infinix-note-60-5g": "image",
+"infinix-smart-20": "image",
+"infinix-note-edge-5g": "image",
+"infinix-xpad-20-pro": "image",
+"infinix-gt-30-5g": "image",
+"infinix-hot-60-pro+": "image",
+"infinix-hot-60-pro": "image",
+"infinix-smart-10-hd": "image",
+"infinix-smart-10-plus": "image",
+"infinix-smart-10": "image",
+"infinix-gt-30-pro-5g": "image",
+"infinix-xpad-gt": "image",
+"infinix-note-50s-5g": "image",
+"infinix-note-50-pro+": "image",
+"infinix-note-50-pro-4g": "image",
+"infinix-smart-9-hd": "image"
 },
-"batch_idx": 3,
-"added": 147
+"batch_idx": 4,
+"added": 156
 }

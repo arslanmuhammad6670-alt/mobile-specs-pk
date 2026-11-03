@@ -2,7 +2,9 @@
 "done": [
 "vivo-iqoo-z11s-5g-(china)",
 "vivo-v70-lite-5g",
-"tecno-megapad-se"
+"tecno-megapad-se",
+"vivo-iqoo-16-5g",
+"infinix-zero-flip"
 ],
 "failed": {
 "vivo-iqoo-16-5g": "image",

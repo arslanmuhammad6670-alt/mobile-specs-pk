@@ -1,0 +1,16 @@
+{
+"done": [
+"vivo-iqoo-z11s-5g-(china)",
+"vivo-v70-lite-5g",
+"tecno-megapad-se"
+],
+"failed": {
+"vivo-iqoo-16-5g": "image",
+"infinix-smart-20": "image",
+"infinix-xpad-20": "image",
+"infinix-zero-flip": "image",
+"tecno-spark-50-pro": "image",
+"tecno-pova-7-ultra-5g": "image",
+"tecno-spark-30c-5g": "image"
+}
+}

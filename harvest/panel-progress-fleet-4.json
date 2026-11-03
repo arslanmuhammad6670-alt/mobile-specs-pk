@@ -1,0 +1,19 @@
+{
+"done": [
+"infinix-smart-8-pro",
+"vivo-iqoo-z11-5g-(india)",
+"infinix-hot-50-pro-4g"
+],
+"failed": {
+"vivo-iqoo-z11-5g-(india)": "image",
+"vivo-iqoo-z11i-5g": "image",
+"vivo-y500s-5g": "image",
+"infinix-smart-10-hd": "image",
+"infinix-hot-50-pro-4g": "image",
+"infinix-smart-8-pro": "fetch",
+"tecno-spark-go-3-pro": "image",
+"tecno-camon-50": "image",
+"tecno-spark-40-pro+": "image",
+"tecno-pop-9-4g": "image"
+}
+}

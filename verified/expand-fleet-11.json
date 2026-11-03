@@ -319,5 +319,219 @@
 "source": "https://www.gsmarena.com/tecno_camon_40_premier-13694.php",
 "tag": "6.67\" display · Mediatek Dimensity 8350 · 12 GB RAM · 5100 mAh",
 "year": 2025
+},
+{
+"brand": "Vivo",
+"cat": "Smartphones",
+"hl": [
+"6.59\" display",
+"Qualcomm SM8845 Snapdragon 8 G",
+"12 GB RAM",
+"7200 mAh"
+],
+"name": "vivo X300 E",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, July 27, released 2026, July 31)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"157.5 x 74.3 x 7.8 mm (6.20 x 2.93 x 0.31 in); 200 g or 203 g (7.05 oz); Glass front, aluminum frame, glass back; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"AMOLED, 1B colors, 144Hz, HDR, 1800 nits (HBM), 5000 nits (peak); 6.59 inches, 106.1 cm2 (~90.7% screen-to-body ratio); 1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)"
+],
+[
+"OS",
+"Android 16, OriginOS 6"
+],
+[
+"Chipset",
+"Qualcomm SM8845 Snapdragon 8 Gen 5 (3 nm); CPU Octa-core (2x3.8 GHz Oryon V3 Phoenix L + 6x3.32 GHz Oryon V3 Phoenix M); GPU Adreno 829"
+],
+[
+"RAM",
+"12 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB; No"
+],
+[
+"Main Camera",
+"50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 50 MP, f/2.7, 73mm (periscope telephoto), 1/1.95\", 0.8µm, PDAF, OIS, 3x optical zoom 8 MP, f/2.2, 15mm, 115˚ (ultrawide), 1/4.0\", 1.12µm, AF; Zeiss optics, LED flash, panorama, HDR; video 4K, 1080p; gyro-EIS, OIS"
+],
+[
+"Selfie Camera",
+"50 MP, f/2.0, 20mm (wide), 1/2.76\", 0.64µm, AF; HDR; video 4K, 1080p"
+],
+[
+"Sensors",
+"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+],
+[
+"Bluetooth",
+"5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5"
+],
+[
+"GPS",
+"GPS (L1+L5), BDS (B1I+B1C+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS, NavIC (L5)"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 2.0, OTG"
+],
+[
+"Battery",
+"Si/C Li-Ion 7200 mAh"
+],
+[
+"Charging",
+"90W wired Reverse wired"
+],
+[
+"Colors",
+"White, Gray, Orange"
+]
+],
+"slug": "vivo-x300-e-5g",
+"source": "https://www.gsmarena.com/vivo_x300_e_5g-14826.php",
+"tag": "6.59\" display · Qualcomm SM8845 Snapdragon 8 G · 12 GB RAM · 7200 mAh",
+"year": 2026
+},
+{
+"brand": "Tecno",
+"cat": "Smartphones",
+"hl": [
+"7.85\" display",
+"Mediatek Dimensity 9000+",
+"12 GB RAM",
+"5750 mAh"
+],
+"name": "Tecno Phantom V Fold2",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 2024, September 13, released 2024, October)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"Unfolded: 159 x 140.4 x 6.1 mmFolded: 159 x 72.2 x 11.8-12 mm; 249 g (8.78 oz); Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"Foldable LTPO AMOLED, 1B colors, 120Hz; 7.85 inches, 196.9 cm2 (~88.2% screen-to-body ratio); 2000 x 2296 pixels (~388 ppi density)"
+],
+[
+"OS",
+"Android 14, up to 2 major OS updates, HiOS 14 Fold"
+],
+[
+"Chipset",
+"Mediatek Dimensity 9000+ (4 nm); CPU Octa-core (1x3.20 GHz Cortex-X2 & 3x2.85 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510); GPU Mali-G710 MC10"
+],
+[
+"RAM",
+"12 GB"
+],
+[
+"Storage",
+"512 GB; No"
+],
+[
+"Main Camera",
+"50 MP, f/1.9, 23mm (wide), 1/1.3\", 1.2µm, PDAF, OIS 50 MP, f/2.0, 50mm (telephoto), 1/2.8\", 0.64µm, PDAF, 2x optical zoom 50 MP, f/2.2, 115˚ (ultrawide), PDAF; Dual-LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60fps"
+],
+[
+"Selfie Camera",
+"32 MP, f/2.5, (wide), 1/2.8\", 0.8µm Cover camera: 32 MP, f/2.5, (wide), 1/2.8\", 0.8µm; video 1080p@60fps"
+],
+[
+"Sensors",
+"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band"
+],
+[
+"Bluetooth",
+"5.3, A2DP, LE"
+],
+[
+"GPS",
+"GPS, GLONASS, GALILEO, BDS"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"FM radio, recording"
+],
+[
+"USB",
+"USB Type-C, OTG"
+],
+[
+"Battery",
+"5750 mAh"
+],
+[
+"Charging",
+"70W wired, 50% in 20 min, 100% in 49 min 15W wireless"
+],
+[
+"Colors",
+"Karst Green, Rippling Blue"
+]
+],
+"slug": "tecno-phantom-v-fold2",
+"source": "https://www.gsmarena.com/tecno_phantom_v_fold2-13334.php",
+"tag": "7.85\" display · Mediatek Dimensity 9000+ · 12 GB RAM · 5750 mAh",
+"year": 2024
 }
 ]

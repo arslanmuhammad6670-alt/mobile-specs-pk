@@ -1,0 +1,20 @@
+{
+"done": [
+"infinix-note-40-pro-4g",
+"tecno-camon-50-pro-5g",
+"tecno-camon-air"
+],
+"failed": {
+"vivo-y600-5g": "fetch",
+"vivo-t5-lite-5g": "image",
+"oppo-reno15-fs-5g": "image",
+"infinix-hot-70": "image",
+"infinix-hot-60-pro": "image",
+"infinix-note-50-4g": "image",
+"infinix-note-40-pro-4g": "fetch",
+"tecno-camon-air": "image",
+"tecno-camon-50-pro-5g": "image",
+"tecno-pova-7-pro-5g": "image",
+"tecno-spark-go-1s": "image"
+}
+}

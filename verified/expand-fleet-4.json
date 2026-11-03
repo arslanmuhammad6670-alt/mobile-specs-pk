@@ -747,5 +747,112 @@
 "source": "https://www.gsmarena.com/tecno_camon_50-14501.php",
 "tag": "6.78\" display · Mediatek Helio G200 Ultimate · 8 GB RAM · 6150 mAh",
 "year": 2026
+},
+{
+"brand": "Tecno",
+"cat": "Smartphones",
+"hl": [
+"6.78\" display",
+"Mediatek Helio G200",
+"8 GB RAM",
+"5200 mAh"
+],
+"name": "Tecno Spark 40 Pro+",
+"price": 84999,
+"price_src": "https://priceoye.pk/mobiles/tecno/tecno-spark-40-pro-plus",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 2025, July 02, released 2025, July 07)"
+],
+[
+"Network",
+"GSM / HSPA / LTE"
+],
+[
+"Body",
+"163.9 x 75.8 x 6.5 mm (6.45 x 2.98 x 0.26 in); 160.4 g (5.64 oz); Glass front (Gorilla Glass 7i), plastic back, plastic frame; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"AMOLED, 1B colors, 144Hz, 1600 nits (HBM), 4500 nits (peak); 6.78 inches, 111.0 cm2 (~89.3% screen-to-body ratio); 1224 x 2720 pixels, 20:9 ratio (~440 ppi density); Corning Gorilla Glass 7i"
+],
+[
+"OS",
+"Android 15, HIOS 15"
+],
+[
+"Chipset",
+"Mediatek Helio G200 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2 (1.1GHz)"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; No"
+],
+[
+"Main Camera",
+"50 MP, f/1.6, (wide), 1/2.8\", 0.64µm, PDAF Auxiliary lens; Dual-LED flash, HDR; video 1440p@30fps, 1080p@30fps, gyro-EIS"
+],
+[
+"Selfie Camera",
+"13 MP, f/2.2, (wide), 1/3.1\", 1.12µm; Dual-LED flash; video 1080p@30fps"
+],
+[
+"Sensors",
+"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+],
+[
+"Bluetooth",
+"5.3, A2DP, LE"
+],
+[
+"GPS",
+"GPS"
+],
+[
+"NFC",
+"Yes (market/region dependent)"
+],
+[
+"Radio",
+"FM radio"
+],
+[
+"USB",
+"USB Type-C 2.0, OTG"
+],
+[
+"Battery",
+"5200 mAh"
+],
+[
+"Charging",
+"45W wired, 100% in 55 min 30W wireless 5W reverse wireless 10W reverse wired Bypass charging"
+],
+[
+"Colors",
+"Nebula Black, Aurora White, Moon Titanium, Tundra Green"
+]
+],
+"slug": "tecno-spark-40-pro+",
+"source": "https://www.gsmarena.com/tecno_spark_40_pro+-13986.php",
+"tag": "6.78\" display · Mediatek Helio G200 · 8 GB RAM · 5200 mAh",
+"year": 2025
 }
 ]

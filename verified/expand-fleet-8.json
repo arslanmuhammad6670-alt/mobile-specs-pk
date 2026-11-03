@@ -1,0 +1,323 @@
+[
+{
+"brand": "Infinix",
+"cat": "Smartphones",
+"hl": [
+"6.7\" display",
+"Mediatek Dimensity 6300",
+"4 GB RAM",
+"5000 mAh"
+],
+"name": "Infinix Hot 50",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 2024, September 05, released 2024, October)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"165.7 x 77.1 x 7.8 mm (6.52 x 3.04 x 0.31 in); 188 g (6.63 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"IPS LCD, 120Hz, 480 nits (typ); 6.7 inches, 108.4 cm2 (~84.8% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+],
+[
+"OS",
+"Android 14, XOS 14.5"
+],
+[
+"Chipset",
+"Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+],
+[
+"RAM",
+"4 GB / 6 GB / 8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+],
+[
+"Main Camera",
+"48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, AF Auxiliary lenses; Dual-LED flash; video 1440p@30fps, 1080p@30/60fps"
+],
+[
+"Selfie Camera",
+"8 MP, f/2.0, (wide), 1/4.0\"; LED flash; video Yes"
+],
+[
+"Sensors",
+"Fingerprint (side-mounted), accelerometer, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes"
+],
+[
+"3.5mm Jack",
+"Yes"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+],
+[
+"Bluetooth",
+"5.4, A2DP, LE"
+],
+[
+"GPS",
+"GPS, GALILEO, GLONASS, BDS"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"FM radio"
+],
+[
+"USB",
+"USB Type-C 2.0, OTG"
+],
+[
+"Battery",
+"Li-Po 5000 mAh"
+],
+[
+"Charging",
+"18W wired Reverse wired"
+],
+[
+"Colors",
+"Vibrant Blue, Sleek Black, Sage Green, Dreamy Purple"
+]
+],
+"slug": "infinix-hot-50",
+"source": "https://www.gsmarena.com/infinix_hot_50-13305.php",
+"tag": "6.7\" display · Mediatek Dimensity 6300 · 4 GB RAM · 5000 mAh",
+"year": 2024
+},
+{
+"brand": "Tecno",
+"cat": "Smartphones",
+"hl": [
+"6.78\" display",
+"Mediatek Helio G100 Ultimate",
+"8 GB RAM",
+"7000 mAh"
+],
+"name": "Tecno Pova 7 4G",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 2025, June 20, released 2025, June 25)"
+],
+[
+"Network",
+"GSM / HSPA / LTE"
+],
+[
+"Body",
+"168.6 x 76.6 x 9.3 mm (6.64 x 3.02 x 0.37 in); -; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"AMOLED, 120Hz; 6.78 inches, 109.2 cm2 (~84.5% screen-to-body ratio); 1080 x 2460 pixels (~396 ppi density)"
+],
+[
+"OS",
+"Android 15, HIOS 15"
+],
+[
+"Chipset",
+"Mediatek Helio G100 Ultimate (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC (dedicated slot)"
+],
+[
+"Main Camera",
+"108 MP, f/1.8, 23mm (wide), 0.7µm, PDAF 2 MP (macro); Dual-LED flash; video 1440p@30fps, 1080p@30/60fps"
+],
+[
+"Selfie Camera",
+"8 MP, f/2.0, 26mm (wide); video 1440p@30fps, 1080p@30fps"
+],
+[
+"Sensors",
+"Accelerometer, gyro, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"Yes"
+],
+[
+"Wi-Fi",
+"Yes"
+],
+[
+"Bluetooth",
+"Yes"
+],
+[
+"GPS",
+"GPS, GLONASS, GALILEO, BDS"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"FM radio"
+],
+[
+"USB",
+"USB Type-C 2.0, OTG"
+],
+[
+"Battery",
+"7000 mAh"
+],
+[
+"Charging",
+"45W wired, 50% in 29 min, 100% in 70 min 10W reverse wired"
+],
+[
+"Colors",
+"Hyper Titanium, Magic Silver, Geek Black"
+]
+],
+"slug": "tecno-pova-7",
+"source": "https://www.gsmarena.com/tecno_pova_7-13974.php",
+"tag": "6.78\" display · Mediatek Helio G100 Ultimate · 8 GB RAM · 7000 mAh",
+"year": 2025
+},
+{
+"brand": "Tecno",
+"cat": "Smartphones",
+"hl": [
+"6.67\" display",
+"Mediatek Dimensity 6300",
+"6 GB RAM",
+"5000 mAh"
+],
+"name": "Tecno Spark 30 5G",
+"price": null,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 2024, October 02, released 2024, October)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"165.4 x 76.8 x 7.8 mm (6.51 x 3.02 x 0.31 in); -; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"IPS LCD, 120Hz; 6.67 inches, 107.4 cm2 (~84.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+],
+[
+"OS",
+"Android 14, HIOS 14.5"
+],
+[
+"Chipset",
+"Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+],
+[
+"RAM",
+"6 GB / 8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC (dedicated slot)"
+],
+[
+"Main Camera",
+"108 MP, f/1.9, (wide), PDAF Unspecified cameras; Tripple-LED flash; video Yes"
+],
+[
+"Selfie Camera",
+"8 MP; Dual-LED dual-tone flash; video Yes"
+],
+[
+"Sensors",
+"Fingerprint (side-mounted), accelerometer, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"Yes"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+],
+[
+"Bluetooth",
+"5.3, A2DP, LE"
+],
+[
+"GPS",
+"GPS, GLONASS, GALILEO, BDS"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"Unspecified"
+],
+[
+"USB",
+"USB Type-C 2.0"
+],
+[
+"Battery",
+"5000 mAh"
+],
+[
+"Charging",
+"18W wired"
+],
+[
+"Colors",
+"Azure Sky, Midnight Shadow, Aurora Cloud"
+]
+],
+"slug": "tecno-spark-30-5g",
+"source": "https://www.gsmarena.com/tecno_spark_30_5g-13384.php",
+"tag": "6.67\" display · Mediatek Dimensity 6300 · 6 GB RAM · 5000 mAh",
+"year": 2024
+}
+]

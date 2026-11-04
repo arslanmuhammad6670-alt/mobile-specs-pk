@@ -133,7 +133,7 @@
   <h3>Photo</h3>
   <label for="f_photo">Model photo (JPG/PNG) — needed for a new model; for editing, choose only if you want to replace it</label>
   <input id="f_photo" type="file" accept="image/*">
-  <p class="note">Use the correct model's real photo. It is saved as img/&lt;slug&gt;/main.jpg.</p>
+  <p class="note">Use the correct model's real photo. It is saved as docs/img/&lt;slug&gt;/main.jpg.</p>
 
   <div class="btnrow">
     <button id="btnSave">Save model</button>
@@ -275,7 +275,7 @@ async function putTextFile(path, text, sha, message) {
   if (!res.ok) throw ghError("Saving " + path, res, await res.json().catch(function () { return null; }));
 }
 async function putPhotoFile(slug, file) {
-  var path = "img/" + slug + "/main.jpg";
+  var path = "docs/img/" + slug + "/main.jpg";
   var cur = await getContents(path);
   var b64 = bufToB64(await file.arrayBuffer());
   var payload = { message: "img: " + slug + " photo (admin panel)", content: b64, branch: BRANCH };
@@ -285,7 +285,7 @@ async function putPhotoFile(slug, file) {
 }
 async function deletePhotoFile(slug) {
   try {
-    var path = "img/" + slug + "/main.jpg";
+    var path = "docs/img/" + slug + "/main.jpg";
     var cur = await getContents(path);
     if (!cur.exists) return;
     await gh(API + "/contents/" + path, {

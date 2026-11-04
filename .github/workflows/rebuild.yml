@@ -7,7 +7,8 @@
 #      jaisa Muse apne computer se chalata hai — build.py sirf Python
 #      standard library use karta hai, koi install nahi chahiye)
 #   2) bani hui site files ko wapas main branch par commit kar deta hai
-# GitHub Pages pehle se main branch ke root se site serve karta hai,
+# GitHub Pages main branch ke /docs folder se site serve karta hai (2026-11-04
+# restructure: source files root par rehte hain, serve nahi hote),
 # is liye commit hote hi nayi site live ho jati hai.
 #
 # Equivalence note: abhi Muse deploy_contents.py se har file Contents API
@@ -25,7 +26,7 @@ on:
     branches: [main]
     paths:
       - "verified/expand-*.json"
-      - "img/**"
+      - "docs/img/**"
   workflow_dispatch: {}
 
 permissions:
@@ -57,10 +58,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # Sirf build ki bani hui output files stage karo (scratch/cache nahi)
           stage() {
-            git add index.html smartphones.html keypad-phones.html tablets.html \
-                    laptops.html compare.html az.html best-under-200.html best-under-400.html \
-                    phones.json sitemap.xml robots.txt style.css app.js \
-                    phones keypad tablets laptops brands 2>/dev/null || true
+            git add docs 2>/dev/null || true
           }
           stage
           if git diff --cached --quiet; then

@@ -9,6 +9,7 @@ import json, os, html
 BASE = "https://checkspecs.work.gd/"
 SITE = "Check Specs"
 ROOT = os.path.dirname(os.path.abspath(__file__))
+OUT = os.path.join(ROOT, "docs")  # 2026-11-04: Pages serves /docs only — source stays unserved at repo root
 CATFOLDER = {"Smartphones": "phones", "Keypad Phones": "keypad", "Tablets": "tablets", "Laptops": "laptops"}
 CATPAGE = {"Smartphones": "smartphones.html", "Keypad Phones": "keypad-phones.html", "Tablets": "tablets.html", "Laptops": "laptops.html"}
 
@@ -261,12 +262,42 @@ for _d in ALL:
 # harvest of the OnePlus Ace 7 Pro is the SAME phone as oneplus-ace-7-pro
 # (identical name and specs, wrong second price). Drop the alias record so a
 # future pipeline re-add can never render it again. Narrow on purpose: other
-# "-5g" slugs (Galaxy A07 5G, Vivo X500 5G pages) are distinct records.
+# "-5g" slugs (Galaxy A07 5G etc.) are distinct records.
 for _alias, _base in (("oneplus-ace-7-pro-5g", "oneplus-ace-7-pro"),):
     if _alias in _slugs_now and _base in _slugs_now:
         _a = next(x for x in ALL if x["slug"] == _alias)
         _b = next(x for x in ALL if x["slug"] == _base)
         if _a["name"].strip().lower() == _b["name"].strip().lower():
+            _alias_drop.add(_alias)
+# Audited alias duplicates (user-ordered all-brand fix, 2026-11-03): each pair
+# below was proven the SAME phone at spec level (identical chipset, screen,
+# battery and dimensions on both records) — a second harvest of one phone
+# under a suffixed slug. Names may differ only by the trailing 4G/5G token.
+# Chipset-different variant pairs (Pixel 4a/4a 5G, Galaxy A16/A16 5G, Oppo
+# A6 4G/5G, Spark 40 4G/5G, Redmi 17 4G/5G ...) are NOT here and stay live.
+def _norm_model_name(_n):
+    _n = _n.strip().lower().replace("+", " plus ")
+    _n = " ".join(_n.split())
+    while _n.endswith(" 4g") or _n.endswith(" 5g"):
+        _n = _n[: -3].strip()
+    return _n
+for _alias, _base in (
+    ("infinix-note-50-pro-4g", "infinix-note-50-pro"),
+    ("infinix-hot-50-pro-4g", "infinix-hot-50-pro"),
+    ("tecno-camon-40-pro-4g", "tecno-camon-40-pro"),
+    ("vivo-x500-5g", "vivo-x500"),
+    ("vivo-x500-pro-5g", "vivo-x500-pro"),
+    ("vivo-x500-pro-max-5g", "vivo-x500-pro-max"),
+    # Round 2 (same all-brand audit, 2026-11-03): three more spec-identical
+    # harvest duplicates found in the fleet expansion records.
+    ("infinix-hot-50-pro+-4g", "infinix-hot-50-pro-plus"),
+    ("tecno-spark-40-pro+", "tecno-spark-40-pro-plus"),
+    ("vivo-y600-5g", "vivo-y600"),
+):
+    if _alias in _slugs_now and _base in _slugs_now:
+        _a = next(x for x in ALL if x["slug"] == _alias)
+        _b = next(x for x in ALL if x["slug"] == _base)
+        if _norm_model_name(_a["name"]) == _norm_model_name(_b["name"]):
             _alias_drop.add(_alias)
 if _alias_drop:
     print(f"DEDUP ALIAS: removed {len(_alias_drop)} alias records: {sorted(_alias_drop)}")
@@ -405,13 +436,13 @@ _imgf = os.path.join(os.path.dirname(os.path.abspath(__file__)), "verified", "im
 IMAGES = json.load(open(_imgf, encoding="utf-8")) if os.path.exists(_imgf) else {}
 for d in ALL:
     d["images"] = IMAGES.get(d["slug"], [])
-    _main = os.path.join(ROOT, "img", d["slug"], "main.jpg")
+    _main = os.path.join(OUT, "img", d["slug"], "main.jpg")
     d["hero"] = d["images"][0]["file"] if d["images"] else (f'img/{d["slug"]}/main.jpg' if os.path.exists(_main) else "")
     _hw = d["hero"].rsplit(".", 1)[0] + ".webp" if d["hero"] else ""
-    d["hero_webp"] = _hw if _hw and os.path.exists(os.path.join(ROOT, _hw)) else ""
+    d["hero_webp"] = _hw if _hw and os.path.exists(os.path.join(OUT, _hw)) else ""
     for _im in d["images"]:
         _w = _im["file"].rsplit(".", 1)[0] + ".webp"
-        _im["webp"] = _w if os.path.exists(os.path.join(ROOT, _w)) else ""
+        _im["webp"] = _w if os.path.exists(os.path.join(OUT, _w)) else ""
 
 # ---- Model status (Continued / Discontinued) — verified/status*.json overrides win; default by year ----
 _status_over = {}
@@ -637,7 +668,7 @@ def write(rel, content):
         content = _re.sub(r"/\*.*?\*/", "", content, flags=_re.S)
         content = _re.sub(r"\s*([{}:;,>])\s*", r"\1", content)
         content = _re.sub(r"\s+", " ", content).strip()
-    path = os.path.join(ROOT, rel)
+    path = os.path.join(OUT, rel)
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as f: f.write(content)
     print("wrote", rel)

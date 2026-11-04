@@ -765,6 +765,15 @@
   "path": "phones/poco-x7.html"
  },
  {
+  "slug": "realme-16-pro-5g",
+  "name": "Realme 16 Pro",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 358,
+  "price_pkr": 98999,
+  "path": "phones/realme-16-pro-5g.html"
+ },
+ {
   "slug": "tecno-camon-40-pro-5g",
   "name": "Tecno Camon 40 Pro",
   "brand": "Tecno",

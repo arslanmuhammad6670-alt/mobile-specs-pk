@@ -1,0 +1,71 @@
+# Check Specs — zip deploy
+# INSTALL LOCATION: .github/workflows/unzip-deploy.yml
+#
+# Why: the file-by-file Contents API deploy from a dropping connection takes
+# hours. Instead, ONE zip (deploy-inbox.zip at repo root, containing only the
+# changed site files under docs/ plus an optional deleted.txt listing stale
+# docs/ paths to remove) is committed, and this workflow unpacks it on
+# GitHub's own runners and commits the result to main. GitHub Pages serves
+# main:/docs, so the commit goes live on the next Pages build.
+
+name: Deploy site zip
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "deploy-inbox.zip"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rebuild-site
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Unpack the zip and commit the site
+        run: |
+          cp deploy-inbox.zip /tmp/inbox.zip
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          apply_zip() {
+            python3 -c "import zipfile; zipfile.ZipFile('/tmp/inbox.zip').extractall('.')"
+            if [ -f deleted.txt ]; then
+              while IFS= read -r p; do
+                case "$p" in docs/*) rm -f -- "$p" ;; esac
+              done < deleted.txt
+              rm -f deleted.txt
+            fi
+            git add -A docs
+          }
+          apply_zip
+          if git diff --cached --quiet; then
+            echo "Zip contents already match main - nothing to commit."
+            exit 0
+          fi
+          git commit -m "site: zip deploy [skip ci]"
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "Pushed on attempt $i."
+              exit 0
+            fi
+            echo "Push rejected - syncing to latest main and re-applying zip (attempt $i)"
+            git fetch origin main
+            git reset --hard origin/main
+            apply_zip
+            if git diff --cached --quiet; then
+              echo "Already up to date on latest main."
+              exit 0
+            fi
+            git commit -m "site: zip deploy [skip ci]"
+          done
+          echo "Push failed after all retries."
+          exit 1

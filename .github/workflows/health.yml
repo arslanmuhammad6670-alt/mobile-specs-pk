@@ -1,0 +1,60 @@
+# Check Specs — daily site health check
+# INSTALL LOCATION: .github/workflows/health.yml
+#
+# Runs every day (and on demand). Fails loudly if any check fails; GitHub
+# emails the repository owner about failed scheduled workflows (subject to
+# the owner's GitHub notification settings).
+# Checks: homepage 200, sitemap 200, phones.json 200, custom 404 page live,
+# sensitive source paths 404 (build.py, PLAN.md, verified/, harvest/),
+# and the latest GitHub Pages build status is "built".
+
+name: Daily health check
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: read
+
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check live pages return 200
+        run: |
+          fail=0
+          for u in "https://checkspecs.work.gd/" "https://checkspecs.work.gd/sitemap.xml" \
+                   "https://checkspecs.work.gd/phones.json" "https://checkspecs.work.gd/rates.json" \
+                   "https://checkspecs.work.gd/404.html" "https://checkspecs.work.gd/best-gaming-phones.html"; do
+            code=$(curl -s -o /dev/null -w "%{http_code}" --max-time 30 "$u")
+            echo "$code $u"
+            [ "$code" = "200" ] || fail=1
+          done
+          exit $fail
+
+      - name: Check sensitive source paths stay hidden (404)
+        run: |
+          fail=0
+          for u in "https://checkspecs.work.gd/build.py" "https://checkspecs.work.gd/PLAN.md" \
+                   "https://checkspecs.work.gd/enrich-failures.txt" \
+                   "https://checkspecs.work.gd/verified/prices-fix.json" \
+                   "https://checkspecs.work.gd/harvest/add_models.py"; do
+            code=$(curl -s -o /dev/null -w "%{http_code}" --max-time 30 "$u")
+            echo "$code $u"
+            [ "$code" = "404" ] || fail=1
+          done
+          exit $fail
+
+      - name: Check latest Pages build succeeded
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          status=$(curl -s --max-time 30 -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            "https://api.github.com/repos/${{ github.repository }}/pages/builds?per_page=1" \
+            | python3 -c "import sys,json; print(json.load(sys.stdin)[0]['status'])")
+          echo "latest Pages build: $status"
+          [ "$status" = "built" ]

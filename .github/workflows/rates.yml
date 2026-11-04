@@ -1,0 +1,71 @@
+# Check Specs — weekly currency-rate refresh
+# INSTALL LOCATION: .github/workflows/rates.yml
+#
+# Every Monday (and on demand): fetches fresh mid-market rates from
+# ExchangeRate-API's free endpoint, patches build.py via
+# harvest/update_rates.py, rebuilds the site and commits the result.
+# PKR prices on the site are verified market prices and are NOT touched;
+# only the conversion rates for other currencies are refreshed, and all
+# converted figures stay labelled as estimates.
+
+name: Weekly currency rates
+
+on:
+  schedule:
+    - cron: "15 3 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rebuild-site
+  cancel-in-progress: false
+
+jobs:
+  rates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch fresh rates and patch build.py
+        run: python3 harvest/update_rates.py
+
+      - name: Rebuild the site
+        run: python3 build.py
+
+      - name: Commit refreshed rates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add build.py docs
+          if git diff --cached --quiet; then
+            echo "Rates unchanged; nothing to commit."
+            exit 0
+          fi
+          git commit -m "rates: weekly mid-market refresh [skip ci]"
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "Pushed on attempt $i."
+              exit 0
+            fi
+            echo "Push rejected - syncing to latest main and retrying (attempt $i)"
+            git fetch origin main
+            git reset --hard origin/main
+            python3 harvest/update_rates.py
+            python3 build.py
+            git add build.py docs
+            if git diff --cached --quiet; then
+              echo "Already up to date on latest main."
+              exit 0
+            fi
+            git commit -m "rates: weekly mid-market refresh [skip ci]"
+          done
+          echo "Push failed after all retries."
+          exit 1

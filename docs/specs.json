@@ -1790,8 +1790,8 @@
   "NFC": "Yes (market/region dependent)",
   "Radio": "No",
   "USB": "USB Type-C 2.0, OTG",
-  "Battery": "Si/C Li-Ion 7000 mAh - version 16500 mAh - version 2",
-  "Charging": "80W wired, 55W PPS，13.5W PD2.0 - version 1 45W wired, 45W PPS，13.5W PD2.0 - version 2 Reverse wired Bypass Charging",
+  "Battery": "Si/C Li-Ion 7000 mAh (version 1) / 6500 mAh (version 2)",
+  "Charging": "80W wired, 55W PPS, 13.5W PD2.0 (version 1) / 45W wired, 45W PPS, 13.5W PD2.0 (version 2); Reverse wired Bypass Charging",
   "Colors": "Gold, Pebble Grey, Orchid Purple, Harry Potter Edition"
  },
  "tecno-camon-40-pro-5g": {

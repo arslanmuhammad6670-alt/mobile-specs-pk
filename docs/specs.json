@@ -8069,7 +8069,7 @@
   "NFC": "Yes (market/region dependent)",
   "Radio": "FM radio",
   "USB": "USB Type-C 2.0",
-  "Battery": "Si/C Li-Ion 7500 mAh - version 1Si/C Li-Ion 7900 mAh - version 2",
+  "Battery": "Si/C Li-Ion 7500 mAh (version 1) / Si/C Li-Ion 7900 mAh (version 2)",
   "Charging": "45W wired, 51% in 40 min, 100% in 96 min 22.5W reverse wired",
   "Colors": "Absolute Black, Deep Blue (Endless Blue), Vivid Orange (Eternal Orange)"
  },
@@ -10774,7 +10774,7 @@
   "NFC": "Yes (market/region dependent)",
   "Radio": "No",
   "USB": "USB Type-C 2.0, OTG",
-  "Battery": "Si/C Li-Ion 8340 mAh - version 1Si/C Li-Ion 9000 mAh - version 2",
+  "Battery": "Si/C Li-Ion 8340 mAh (version 1) / Si/C Li-Ion 9000 mAh (version 2)",
   "Charging": "67W wired, PD3.0 22.5W reverse wired",
   "Colors": "Black, Frost White, Fiery Orange"
  },
@@ -10798,7 +10798,7 @@
   "NFC": "Yes (market/region dependent)",
   "Radio": "No",
   "USB": "USB Type-C 2.0, OTG",
-  "Battery": "Si/C Li-Ion 9210 mAh - version 1Si/C Li-Ion 10000 mAh - version 2",
+  "Battery": "Si/C Li-Ion 9210 mAh (version 1) / Si/C Li-Ion 10000 mAh (version 2)",
   "Charging": "100W wired, PD3.0, PPS 27W reverse wired",
   "Colors": "Black, Purple, Cloud Blush, Green, Secret Sunrise"
  },
@@ -10822,7 +10822,7 @@
   "NFC": "Yes (market/region dependent)",
   "Radio": "No",
   "USB": "USB Type-C 2.0, OTG",
-  "Battery": "Si/C Li-Ion 8340 mAh - version 1Si/C Li-Ion 9000 mAh - version 2",
+  "Battery": "Si/C Li-Ion 8340 mAh (version 1) / Si/C Li-Ion 9000 mAh (version 2)",
   "Charging": "67W wired, PD3.0, 50% in 34 min 22.5W reverse wired",
   "Colors": "Sky Blue, Black, Satin Orange, Purple"
  },

@@ -5938,19 +5938,19 @@
   "Colors": "Titanium Grey, Enchanted Purple, Racing Edition"
  },
  "motorola-signature-27-5g": {
-  "Launch Year": "2026 (announced 22 September 2026, expected release November 2026 — launch confirmed 5 November 2026)",
+  "Launch Year": "2026 (announced 22 September 2026, fully launched 5 November 2026; available 16 November 2026)",
   "Network": "GSM / HSPA / LTE / 5G; 5G SA/NSA/Sub6",
-  "Body": "Glass front (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + Nano-SIM; IP68/IP69 dust and water resistant; MIL-STD-810H compliant",
-  "Display": "LTPO AMOLED, 1B colors, 165Hz, Dolby Vision, HDR10+; 6.8 inches; 1264 x 2780 pixels; Corning Gorilla Glass Victus 2",
+  "Body": "162.01 x 77.04 x 7.99 mm, 227 g; aluminum frame, ceramic and glass build with Gorilla Glass Ceramic 3; Nano-SIM + Nano-SIM; IP68/IP69 dust and water resistant; MIL-STD-810H compliant",
+  "Display": "LTPO AMOLED (Extreme AMOLED Duo, tandem), 1B colors, 120Hz, Dolby Vision, HDR10+, 12,000 nits (peak); 6.78 inches; 1264 x 2780 pixels; Corning Gorilla Glass Ceramic 3",
   "Chipset": "Qualcomm SM8975 Snapdragon 8 Elite Extreme Gen 6 (2 nm); CPU Octa-core (2x5.01 GHz Prime + 3x4.03 GHz Performance + 3x3.74 GHz Performance); GPU Adreno 850",
   "RAM": "12 GB / 16 GB",
-  "Storage": "256 GB / 512 GB / 1 TB (UFS 4.1); no card slot",
-  "Main Camera": "50 MP (wide), PDAF, OIS + 200 MP (periscope telephoto), PDAF, OIS, 5x optical zoom + 50 MP f/2.0 ultrawide, PDAF; Dual-LED flash, HDR, panorama; video 8K@30fps (Dolby Vision), 4K@30/60fps (Dolby Vision), 4K@120fps, 1080p@30/60/120/240fps",
+  "Storage": "256 GB / 512 GB (UFS 4.1); no card slot",
+  "Main Camera": "50 MP (wide), Sony Lytia 910, f/1.6, PDAF, OIS + 200 MP (periscope telephoto), PDAF, OIS, 3x optical zoom, up to 100x Super Zoom Pro + 50 MP f/2.0 ultrawide, PDAF; Dual-LED flash, HDR, panorama; video 8K@30fps (Dolby Vision), 4K@30/60fps (Dolby Vision), 4K@120fps, 1080p@30/60/120/240fps",
   "Selfie Camera": "50 MP f/2.0 (wide), dual-pixel PDAF; HDR; video 4K@30/60fps, 1080p@30/60/120/240fps",
   "Battery": "Si/C Li-Ion 7000 mAh",
-  "Charging": "90W wired; 50W wireless; 10W reverse wireless; 5W reverse wired",
+  "Charging": "90W wired; 50W wireless; 5W reverse wireless; 4.5W reverse wired",
   "Operating System": "Android 17, up to 7 major OS updates",
-  "Sensors/Features": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass; stereo speakers with Dolby Atmos, Sound by Bang & Olufsen; NFC; UWB support; USB Type-C 3.1 Gen2, DisplayPort 1.4",
+  "Sensors/Features": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass; dedicated EVS action sensor; stereo speakers with Dolby Atmos, Sound by Bang & Olufsen; NFC; UWB support; Wi-Fi 8; USB Type-C 3.1 Gen2, DisplayPort 1.4",
   "Colors": "Pantone: Coal Smoke, Capulet Olive"
  },
  "motorola-moto-g47-power": {
@@ -6070,7 +6070,7 @@
   "Colors": "Nightfreeze (Transparent Black), Subzero (Transparent Silver), Skyfrost (Blue Transparent)"
  },
  "apple-ipad-mini-(2026)": {
-  "Launch Year": "2026 (announced 26 October 2026, expected release 6 November 2026)",
+  "Launch Year": "2026 (announced 26 October 2026, released 6 November 2026)",
   "Network": "GSM / HSPA / LTE / 5G — cellular model only; Wi-Fi-only model also available",
   "Body": "195.3 x 132.6 x 5.4 mm (7.69 x 5.22 x 0.21 in); 255 g (Wi-Fi) / 263 g (Wi-Fi + Cellular) (8.99 oz); Glass front, aluminum back, aluminum frame; eSIM (cellular model only); IP67 dust and water resistant; stylus support (Apple Pencil Pro / Apple Pencil USB-C)",
   "Display": "Super Retina XDR OLED, 600 nits (typ), 1200 nits (HBM); 8.5 inches, 213.4 cm2 (~82.4% screen-to-body ratio); 1512 x 2316 pixels, 3:2 ratio (~325 ppi density)",
@@ -6092,6 +6092,22 @@
   "Battery": "Li-Ion 4900 mAh",
   "Charging": "Wired, 50% in 30 min",
   "Colors": "Midnight, Starlight"
+ },
+ "vivo-v80-fe-5g": {
+  "Launch Year": "2026 (announced 3 November 2026, expected release November 2026)",
+  "Network": "GSM / HSPA / LTE / 5G",
+  "Body": "157.8 x 74.5 x 7.8 mm (6.21 x 2.93 x 0.31 in); 201 g (7.09 oz); Glass front, plastic frame, glass back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time); IP68/IP69 dust and water resistant",
+  "Display": "AMOLED, 1B colors, 120Hz, HDR10+, 1800 nits (HBM), 3000 nits (peak); 6.59 inches; 1260 x 2750 pixels",
+  "Chipset": "Mediatek Dimensity 7400 Turbo (4 nm); CPU Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2",
+  "RAM": "8 GB",
+  "Storage": "128 GB / 256 GB (UFS 3.1); no card slot",
+  "Main Camera": "50 MP f/1.9 (wide), 1/1.56\", PDAF, OIS + 50 MP f/2.1 (ultrawide), 120˚, AF; Ring-LED flash, HDR, panorama; video 4K, 1080p, gyro-EIS, OIS",
+  "Selfie Camera": "50 MP f/2.0 (wide), AF; video 4K, 1080p",
+  "Battery": "Si/C Li-Ion 7000 mAh",
+  "Charging": "90W wired (100% in 60 min); reverse wired; bypass charging",
+  "Operating System": "Android 17, OriginOS 7",
+  "Sensors/Features": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC (market/region dependent); infrared port; USB Type-C 2.0, OTG",
+  "Colors": "Chill Green, Sparkling Gold"
  },
  "honor-400": {
   "Launch Year": "2025 (announced 22 May 2025, released 23 May 2025)",

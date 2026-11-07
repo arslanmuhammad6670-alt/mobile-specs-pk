@@ -2702,6 +2702,4577 @@
   "path": "phones/realme-c61.html"
  },
  {
+  "slug": "samsung-galaxy-a12",
+  "name": "Samsung Galaxy A12",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 130,
+  "price_pkr": 35999,
+  "path": "phones/samsung-galaxy-a12.html"
+ },
+ {
+  "slug": "samsung-galaxy-s22-ultra-5g",
+  "name": "Samsung Galaxy S22 Ultra 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 473,
+  "price_pkr": 130999,
+  "path": "phones/samsung-galaxy-s22-ultra-5g.html"
+ },
+ {
+  "slug": "apple-iphone-se",
+  "name": "Apple iPhone SE",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 155,
+  "price_pkr": 42999,
+  "path": "phones/apple-iphone-se.html"
+ },
+ {
+  "slug": "apple-iphone-6",
+  "name": "Apple iPhone 6",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/apple-iphone-6.html"
+ },
+ {
+  "slug": "apple-iphone-6s",
+  "name": "Apple iPhone 6s",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 257,
+  "price_pkr": 70999,
+  "path": "phones/apple-iphone-6s.html"
+ },
+ {
+  "slug": "apple-iphone-xr",
+  "name": "Apple iPhone XR",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 220,
+  "price_pkr": 60999,
+  "path": "phones/apple-iphone-xr.html"
+ },
+ {
+  "slug": "apple-iphone-7",
+  "name": "Apple iPhone 7",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 202,
+  "price_pkr": 55999,
+  "path": "phones/apple-iphone-7.html"
+ },
+ {
+  "slug": "samsung-galaxy-s21-fe-5g",
+  "name": "Samsung Galaxy S21 FE 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 383,
+  "price_pkr": 105999,
+  "path": "phones/samsung-galaxy-s21-fe-5g.html"
+ },
+ {
+  "slug": "apple-iphone-5s",
+  "name": "Apple iPhone 5s",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 369,
+  "price_pkr": 101999,
+  "path": "phones/apple-iphone-5s.html"
+ },
+ {
+  "slug": "samsung-galaxy-s22-5g",
+  "name": "Samsung Galaxy S22 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 300,
+  "price_pkr": 82999,
+  "path": "phones/samsung-galaxy-s22-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-a14",
+  "name": "Samsung Galaxy A14",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 101,
+  "price_pkr": 27999,
+  "path": "phones/samsung-galaxy-a14.html"
+ },
+ {
+  "slug": "samsung-galaxy-a21s",
+  "name": "Samsung Galaxy A21s",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 246,
+  "price_pkr": 67999,
+  "path": "phones/samsung-galaxy-a21s.html"
+ },
+ {
+  "slug": "samsung-galaxy-s23+",
+  "name": "Samsung Galaxy S23+",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 896,
+  "price_pkr": 247999,
+  "path": "phones/samsung-galaxy-s23+.html"
+ },
+ {
+  "slug": "samsung-galaxy-s10+",
+  "name": "Samsung Galaxy S10+",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 177,
+  "price_pkr": 48999,
+  "path": "phones/samsung-galaxy-s10+.html"
+ },
+ {
+  "slug": "apple-iphone-7+",
+  "name": "Apple iPhone 7+",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 358,
+  "price_pkr": 98999,
+  "path": "phones/apple-iphone-7+.html"
+ },
+ {
+  "slug": "samsung-galaxy-grand-prime",
+  "name": "Samsung Galaxy Grand Prime",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 155,
+  "price_pkr": 42999,
+  "path": "phones/samsung-galaxy-grand-prime.html"
+ },
+ {
+  "slug": "apple-iphone-13-pro-max",
+  "name": "Apple iPhone 13 Pro Max",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 734,
+  "price_pkr": 202999,
+  "path": "phones/apple-iphone-13-pro-max.html"
+ },
+ {
+  "slug": "samsung-galaxy-s10",
+  "name": "Samsung Galaxy S10",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 199,
+  "price_pkr": 54999,
+  "path": "phones/samsung-galaxy-s10.html"
+ },
+ {
+  "slug": "samsung-galaxy-s21-5g",
+  "name": "Samsung Galaxy S21 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 329,
+  "price_pkr": 90999,
+  "path": "phones/samsung-galaxy-s21-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-a51",
+  "name": "Samsung Galaxy A51",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 173,
+  "price_pkr": 47999,
+  "path": "phones/samsung-galaxy-a51.html"
+ },
+ {
+  "slug": "apple-iphone-6s+",
+  "name": "Apple iPhone 6s+",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 267,
+  "price_pkr": 73999,
+  "path": "phones/apple-iphone-6s+.html"
+ },
+ {
+  "slug": "samsung-galaxy-z-fold6",
+  "name": "Samsung Galaxy Z Fold6",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 1323,
+  "price_pkr": 365999,
+  "path": "phones/samsung-galaxy-z-fold6.html"
+ },
+ {
+  "slug": "samsung-galaxy-s25+",
+  "name": "Samsung Galaxy S25+",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 1016,
+  "price_pkr": 280999,
+  "path": "phones/samsung-galaxy-s25+.html"
+ },
+ {
+  "slug": "apple-iphone-xs-max",
+  "name": "Apple iPhone XS Max",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 278,
+  "price_pkr": 76999,
+  "path": "phones/apple-iphone-xs-max.html"
+ },
+ {
+  "slug": "samsung-galaxy-s21+-5g",
+  "name": "Samsung Galaxy S21+ 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 365,
+  "price_pkr": 100999,
+  "path": "phones/samsung-galaxy-s21+-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-z-fold5",
+  "name": "Samsung Galaxy Z Fold5",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 1008,
+  "price_pkr": 278999,
+  "path": "phones/samsung-galaxy-z-fold5.html"
+ },
+ {
+  "slug": "samsung-galaxy-s21-ultra-5g",
+  "name": "Samsung Galaxy S21 Ultra 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 528,
+  "price_pkr": 145999,
+  "path": "phones/samsung-galaxy-s21-ultra-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-s22+-5g",
+  "name": "Samsung Galaxy S22+ 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 492,
+  "price_pkr": 135999,
+  "path": "phones/samsung-galaxy-s22+-5g.html"
+ },
+ {
+  "slug": "apple-iphone-13-pro",
+  "name": "Apple iPhone 13 Pro",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 632,
+  "price_pkr": 174999,
+  "path": "phones/apple-iphone-13-pro.html"
+ },
+ {
+  "slug": "samsung-galaxy-a13-4g",
+  "name": "Samsung Galaxy A13 4G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-a13-4g.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-z-flip6",
+  "name": "Samsung Galaxy Z Flip6",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 755,
+  "price_pkr": 208999,
+  "path": "phones/samsung-galaxy-z-flip6.html"
+ },
+ {
+  "slug": "apple-iphone-12-pro-max",
+  "name": "Apple iPhone 12 Pro Max",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 546,
+  "price_pkr": 150999,
+  "path": "phones/apple-iphone-12-pro-max.html"
+ },
+ {
+  "slug": "samsung-galaxy-s9+",
+  "name": "Samsung Galaxy S9+",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 134,
+  "price_pkr": 36999,
+  "path": "phones/samsung-galaxy-s9+.html"
+ },
+ {
+  "slug": "samsung-galaxy-s20-ultra-5g",
+  "name": "Samsung Galaxy S20 Ultra 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 398,
+  "price_pkr": 109999,
+  "path": "phones/samsung-galaxy-s20-ultra-5g.html"
+ },
+ {
+  "slug": "apple-iphone-xs",
+  "name": "Apple iPhone XS",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 210,
+  "price_pkr": 57999,
+  "path": "phones/apple-iphone-xs.html"
+ },
+ {
+  "slug": "samsung-galaxy-note-9",
+  "name": "Samsung Galaxy Note 9",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 643,
+  "price_pkr": 177999,
+  "path": "phones/samsung-galaxy-note-9.html"
+ },
+ {
+  "slug": "xiaomi-9",
+  "name": "Xiaomi 9",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/xiaomi-9.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-s9",
+  "name": "Samsung Galaxy S9",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 148,
+  "price_pkr": 40999,
+  "path": "phones/samsung-galaxy-s9.html"
+ },
+ {
+  "slug": "samsung-galaxy-z-flip4-5g",
+  "name": "Samsung Galaxy Z Flip4 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 437,
+  "price_pkr": 120999,
+  "path": "phones/samsung-galaxy-z-flip4-5g.html"
+ },
+ {
+  "slug": "oppo-a5",
+  "name": "Oppo A5",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/oppo-a5.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-s24+",
+  "name": "Samsung Galaxy S24+",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 896,
+  "price_pkr": 247999,
+  "path": "phones/samsung-galaxy-s24+.html"
+ },
+ {
+  "slug": "samsung-galaxy-note20-ultra-5g",
+  "name": "Samsung Galaxy Note20 Ultra 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 524,
+  "price_pkr": 144999,
+  "path": "phones/samsung-galaxy-note20-ultra-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-z-fold4",
+  "name": "Samsung Galaxy Z Fold4",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 885,
+  "price_pkr": 244999,
+  "path": "phones/samsung-galaxy-z-fold4.html"
+ },
+ {
+  "slug": "samsung-galaxy-s20+-5g",
+  "name": "Samsung Galaxy S20+ 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 445,
+  "price_pkr": 122999,
+  "path": "phones/samsung-galaxy-s20+-5g.html"
+ },
+ {
+  "slug": "apple-iphone-12-pro",
+  "name": "Apple iPhone 12 Pro",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 473,
+  "price_pkr": 130999,
+  "path": "phones/apple-iphone-12-pro.html"
+ },
+ {
+  "slug": "samsung-galaxy-s5",
+  "name": "Samsung Galaxy S5",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 282,
+  "price_pkr": 77999,
+  "path": "phones/samsung-galaxy-s5.html"
+ },
+ {
+  "slug": "apple-iphone-6+",
+  "name": "Apple iPhone 6+",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 470,
+  "price_pkr": 129999,
+  "path": "phones/apple-iphone-6+.html"
+ },
+ {
+  "slug": "apple-iphone-x",
+  "name": "Apple iPhone X",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 239,
+  "price_pkr": 65999,
+  "path": "phones/apple-iphone-x.html"
+ },
+ {
+  "slug": "apple-iphone-11-pro",
+  "name": "Apple iPhone 11 Pro",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 314,
+  "price_pkr": 86999,
+  "path": "phones/apple-iphone-11-pro.html"
+ },
+ {
+  "slug": "apple-iphone-11-pro-max",
+  "name": "Apple iPhone 11 Pro Max",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 405,
+  "price_pkr": 111999,
+  "path": "phones/apple-iphone-11-pro-max.html"
+ },
+ {
+  "slug": "oppo-a37",
+  "name": "Oppo A37",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 246,
+  "price_pkr": 67999,
+  "path": "phones/oppo-a37.html"
+ },
+ {
+  "slug": "samsung-galaxy-j7-prime",
+  "name": "Samsung Galaxy J7 Prime",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 235,
+  "price_pkr": 64999,
+  "path": "phones/samsung-galaxy-j7-prime.html"
+ },
+ {
+  "slug": "samsung-galaxy-a53-5g",
+  "name": "Samsung Galaxy A53 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 332,
+  "price_pkr": 91999,
+  "path": "phones/samsung-galaxy-a53-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-s7-edge",
+  "name": "Samsung Galaxy S7 Edge",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 369,
+  "price_pkr": 101999,
+  "path": "phones/samsung-galaxy-s7-edge.html"
+ },
+ {
+  "slug": "samsung-galaxy-a50",
+  "name": "Samsung Galaxy A50",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 304,
+  "price_pkr": 83999,
+  "path": "phones/samsung-galaxy-a50.html"
+ },
+ {
+  "slug": "nokia-5130-xpressmusic",
+  "name": "Nokia 5130 Xpressmusic",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 69,
+  "price_pkr": 18999,
+  "path": "phones/nokia-5130-xpressmusic.html"
+ },
+ {
+  "slug": "samsung-galaxy-j2-core",
+  "name": "Samsung Galaxy J2 Core",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 134,
+  "price_pkr": 36999,
+  "path": "phones/samsung-galaxy-j2-core.html"
+ },
+ {
+  "slug": "samsung-galaxy-a30",
+  "name": "Samsung Galaxy A30",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/samsung-galaxy-a30.html"
+ },
+ {
+  "slug": "samsung-galaxy-a10",
+  "name": "Samsung Galaxy A10",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 181,
+  "price_pkr": 49999,
+  "path": "phones/samsung-galaxy-a10.html"
+ },
+ {
+  "slug": "samsung-galaxy-s10e",
+  "name": "Samsung Galaxy S10e",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 304,
+  "price_pkr": 83999,
+  "path": "phones/samsung-galaxy-s10e.html"
+ },
+ {
+  "slug": "samsung-galaxy-a30s",
+  "name": "Samsung Galaxy A30s",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 293,
+  "price_pkr": 80999,
+  "path": "phones/samsung-galaxy-a30s.html"
+ },
+ {
+  "slug": "samsung-galaxy-a22",
+  "name": "Samsung Galaxy A22",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 137,
+  "price_pkr": 37999,
+  "path": "phones/samsung-galaxy-a22.html"
+ },
+ {
+  "slug": "xiaomi-9a",
+  "name": "Xiaomi 9a",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/xiaomi-9a.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-s8",
+  "name": "Samsung Galaxy S8",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 257,
+  "price_pkr": 70999,
+  "path": "phones/samsung-galaxy-s8.html"
+ },
+ {
+  "slug": "samsung-galaxy-a31",
+  "name": "Samsung Galaxy A31",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 199,
+  "price_pkr": 54999,
+  "path": "phones/samsung-galaxy-a31.html"
+ },
+ {
+  "slug": "apple-iphone-8",
+  "name": "Apple iPhone 8",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 235,
+  "price_pkr": 64999,
+  "path": "phones/apple-iphone-8.html"
+ },
+ {
+  "slug": "samsung-galaxy-j2",
+  "name": "Samsung Galaxy J2",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/samsung-galaxy-j2.html"
+ },
+ {
+  "slug": "samsung-galaxy-a33-5g",
+  "name": "Samsung Galaxy A33 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 264,
+  "price_pkr": 72999,
+  "path": "phones/samsung-galaxy-a33-5g.html"
+ },
+ {
+  "slug": "apple-iphone-12-mini",
+  "name": "Apple iPhone 12 Mini",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 257,
+  "price_pkr": 70999,
+  "path": "phones/apple-iphone-12-mini.html"
+ },
+ {
+  "slug": "apple-iphone-8+",
+  "name": "Apple iPhone 8+",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 379,
+  "price_pkr": 104999,
+  "path": "phones/apple-iphone-8+.html"
+ },
+ {
+  "slug": "samsung-galaxy-z-flip5",
+  "name": "Samsung Galaxy Z Flip5",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 542,
+  "price_pkr": 149999,
+  "path": "phones/samsung-galaxy-z-flip5.html"
+ },
+ {
+  "slug": "samsung-galaxy-note10+",
+  "name": "Samsung Galaxy NOTE10+",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 437,
+  "price_pkr": 120999,
+  "path": "phones/samsung-galaxy-note10+.html"
+ },
+ {
+  "slug": "samsung-galaxy-j1-ace",
+  "name": "Samsung Galaxy J1 Ace",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 155,
+  "price_pkr": 42999,
+  "path": "phones/samsung-galaxy-j1-ace.html"
+ },
+ {
+  "slug": "samsung-galaxy-z-flip3-5g",
+  "name": "Samsung Galaxy Z Flip3 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 361,
+  "price_pkr": 99999,
+  "path": "phones/samsung-galaxy-z-flip3-5g.html"
+ },
+ {
+  "slug": "apple-iphone-5c",
+  "name": "Apple iPhone 5c",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": 336,
+  "price_pkr": 92999,
+  "path": "phones/apple-iphone-5c.html"
+ },
+ {
+  "slug": "samsung-galaxy-a03s",
+  "name": "Samsung Galaxy A03s",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 130,
+  "price_pkr": 35999,
+  "path": "phones/samsung-galaxy-a03s.html"
+ },
+ {
+  "slug": "samsung-galaxy-s26-edge",
+  "name": "Samsung Galaxy S26 Edge",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 1352,
+  "price_pkr": 373999,
+  "path": "phones/samsung-galaxy-s26-edge.html"
+ },
+ {
+  "slug": "samsung-galaxy-note-8",
+  "name": "Samsung Galaxy Note 8",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 564,
+  "price_pkr": 155999,
+  "path": "phones/samsung-galaxy-note-8.html"
+ },
+ {
+  "slug": "samsung-galaxy-s7",
+  "name": "Samsung Galaxy S7",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/samsung-galaxy-s7.html"
+ },
+ {
+  "slug": "samsung-galaxy-s8+",
+  "name": "Samsung Galaxy S8+",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 481,
+  "price_pkr": 132999,
+  "path": "phones/samsung-galaxy-s8+.html"
+ },
+ {
+  "slug": "samsung-galaxy-a20",
+  "name": "Samsung Galaxy A20",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 87,
+  "price_pkr": 23999,
+  "path": "phones/samsung-galaxy-a20.html"
+ },
+ {
+  "slug": "realme-c33",
+  "name": "Realme C33",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 72,
+  "price_pkr": 19999,
+  "path": "phones/realme-c33.html"
+ },
+ {
+  "slug": "samsung-galaxy-grand-neo",
+  "name": "Samsung Galaxy Grand Neo",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/samsung-galaxy-grand-neo.html"
+ },
+ {
+  "slug": "samsung-galaxy-a14-5g",
+  "name": "Samsung Galaxy A14 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 155,
+  "price_pkr": 42999,
+  "path": "phones/samsung-galaxy-a14-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-a11",
+  "name": "Samsung Galaxy A11",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 181,
+  "price_pkr": 49999,
+  "path": "phones/samsung-galaxy-a11.html"
+ },
+ {
+  "slug": "samsung-galaxy-j8",
+  "name": "Samsung Galaxy J8",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 347,
+  "price_pkr": 95999,
+  "path": "phones/samsung-galaxy-j8.html"
+ },
+ {
+  "slug": "samsung-galaxy-s20-5g",
+  "name": "Samsung Galaxy S20 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 390,
+  "price_pkr": 107999,
+  "path": "phones/samsung-galaxy-s20-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-a05",
+  "name": "Samsung Galaxy A05",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 90,
+  "price_pkr": 24999,
+  "path": "phones/samsung-galaxy-a05.html"
+ },
+ {
+  "slug": "samsung-galaxy-a23-5g",
+  "name": "Samsung Galaxy A23 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/samsung-galaxy-a23-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-j4+",
+  "name": "Samsung Galaxy J4+",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 246,
+  "price_pkr": 67999,
+  "path": "phones/samsung-galaxy-j4+.html"
+ },
+ {
+  "slug": "samsung-galaxy-a10s",
+  "name": "Samsung Galaxy A10s",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 202,
+  "price_pkr": 55999,
+  "path": "phones/samsung-galaxy-a10s.html"
+ },
+ {
+  "slug": "realme-c20",
+  "name": "Realme C20",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 101,
+  "price_pkr": 27999,
+  "path": "phones/realme-c20.html"
+ },
+ {
+  "slug": "samsung-galaxy-s6",
+  "name": "Samsung Galaxy S6",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 267,
+  "price_pkr": 73999,
+  "path": "phones/samsung-galaxy-s6.html"
+ },
+ {
+  "slug": "samsung-galaxy-j6",
+  "name": "Samsung Galaxy J6",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 202,
+  "price_pkr": 55999,
+  "path": "phones/samsung-galaxy-j6.html"
+ },
+ {
+  "slug": "xiaomi-7",
+  "name": "Xiaomi 7",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/xiaomi-7.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-a02",
+  "name": "Samsung Galaxy A02",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 155,
+  "price_pkr": 42999,
+  "path": "phones/samsung-galaxy-a02.html"
+ },
+ {
+  "slug": "honor-play-3",
+  "name": "Honor Play 3",
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/honor-play-3.html"
+ },
+ {
+  "slug": "samsung-galaxy-a71",
+  "name": "Samsung Galaxy A71",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/samsung-galaxy-a71.html"
+ },
+ {
+  "slug": "huawei-p30-lite",
+  "name": "Huawei P30 Lite",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 470,
+  "price_pkr": 129999,
+  "path": "phones/huawei-p30-lite.html"
+ },
+ {
+  "slug": "samsung-galaxy-j4",
+  "name": "Samsung Galaxy J4",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 155,
+  "price_pkr": 42999,
+  "path": "phones/samsung-galaxy-j4.html"
+ },
+ {
+  "slug": "samsung-galaxy-a32-5g",
+  "name": "Samsung Galaxy A32 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/samsung-galaxy-a32-5g.html"
+ },
+ {
+  "slug": "siemens-c25",
+  "name": "Siemens C25",
+  "brand": "Siemens",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/siemens-c25.html",
+  "unv": 1
+ },
+ {
+  "slug": "xiaomi-redmi-6a",
+  "name": "Xiaomi Redmi 6a",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/xiaomi-redmi-6a.html"
+ },
+ {
+  "slug": "realme-c51",
+  "name": "Realme C51",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 130,
+  "price_pkr": 35999,
+  "path": "phones/realme-c51.html"
+ },
+ {
+  "slug": "redmi-note-12",
+  "name": "Redmi Note 12",
+  "brand": "Redmi",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/redmi-note-12.html",
+  "unv": 1
+ },
+ {
+  "slug": "nokia-c3",
+  "name": "Nokia C3",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/nokia-c3.html"
+ },
+ {
+  "slug": "realme-c55",
+  "name": "Realme C55",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/realme-c55.html"
+ },
+ {
+  "slug": "samsung-galaxy-a13-5g",
+  "name": "Samsung Galaxy A13 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 206,
+  "price_pkr": 56999,
+  "path": "phones/samsung-galaxy-a13-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-a04s",
+  "name": "Samsung Galaxy A04s",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 137,
+  "price_pkr": 37999,
+  "path": "phones/samsung-galaxy-a04s.html"
+ },
+ {
+  "slug": "samsung-galaxy-a04e",
+  "name": "Samsung Galaxy A04e",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 119,
+  "price_pkr": 32999,
+  "path": "phones/samsung-galaxy-a04e.html"
+ },
+ {
+  "slug": "samsung-galaxy-j7-duo",
+  "name": "Samsung Galaxy J7 Duo",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 267,
+  "price_pkr": 73999,
+  "path": "phones/samsung-galaxy-j7-duo.html"
+ },
+ {
+  "slug": "realme-c63",
+  "name": "Realme C63",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 134,
+  "price_pkr": 36999,
+  "path": "phones/realme-c63.html"
+ },
+ {
+  "slug": "samsung-galaxy-a01",
+  "name": "Samsung Galaxy A01",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/samsung-galaxy-a01.html"
+ },
+ {
+  "slug": "samsung-galaxy-note20-5g",
+  "name": "Samsung Galaxy Note20 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 481,
+  "price_pkr": 132999,
+  "path": "phones/samsung-galaxy-note20-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-m12",
+  "name": "Samsung Galaxy M12",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 192,
+  "price_pkr": 52999,
+  "path": "phones/samsung-galaxy-m12.html"
+ },
+ {
+  "slug": "samsung-galaxy-s20-fe-5g",
+  "name": "Samsung Galaxy S20 FE 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 336,
+  "price_pkr": 92999,
+  "path": "phones/samsung-galaxy-s20-fe-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-j1",
+  "name": "Samsung Galaxy J1",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/samsung-galaxy-j1.html"
+ },
+ {
+  "slug": "samsung-galaxy-z-fold3-5g",
+  "name": "Samsung Galaxy Z Fold3 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 553,
+  "price_pkr": 152999,
+  "path": "phones/samsung-galaxy-z-fold3-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-a03-core",
+  "name": "Samsung Galaxy A03 Core",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/samsung-galaxy-a03-core.html"
+ },
+ {
+  "slug": "samsung-galaxy-j6+",
+  "name": "Samsung Galaxy J6+",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/samsung-galaxy-j6+.html"
+ },
+ {
+  "slug": "samsung-galaxy-a01-core",
+  "name": "Samsung Galaxy A01 Core",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/samsung-galaxy-a01-core.html"
+ },
+ {
+  "slug": "realme-c25y",
+  "name": "Realme C25y",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 83,
+  "price_pkr": 22999,
+  "path": "phones/realme-c25y.html"
+ },
+ {
+  "slug": "samsung-galaxy-a03",
+  "name": "Samsung Galaxy A03",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 141,
+  "price_pkr": 38999,
+  "path": "phones/samsung-galaxy-a03.html"
+ },
+ {
+  "slug": "samsung-galaxy-a7-(2018)",
+  "name": "Samsung Galaxy A7 (2018)",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 347,
+  "price_pkr": 95999,
+  "path": "phones/samsung-galaxy-a7-(2018).html"
+ },
+ {
+  "slug": "huawei-nova-5-pro",
+  "name": "Huawei Nova 5 Pro",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 437,
+  "price_pkr": 120999,
+  "path": "phones/huawei-nova-5-pro.html"
+ },
+ {
+  "slug": "samsung-galaxy-a5-(2017)",
+  "name": "Samsung Galaxy A5 (2017)",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/samsung-galaxy-a5-(2017).html"
+ },
+ {
+  "slug": "samsung-galaxy-j7",
+  "name": "Samsung Galaxy J7",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/samsung-galaxy-j7.html"
+ },
+ {
+  "slug": "oppo-a53",
+  "name": "Oppo A53",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 192,
+  "price_pkr": 52999,
+  "path": "phones/oppo-a53.html"
+ },
+ {
+  "slug": "oppo-a16",
+  "name": "Oppo A16",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 94,
+  "price_pkr": 25999,
+  "path": "phones/oppo-a16.html"
+ },
+ {
+  "slug": "samsung-galaxy-j7-pro",
+  "name": "Samsung Galaxy J7 Pro",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/samsung-galaxy-j7-pro.html"
+ },
+ {
+  "slug": "vivo-y3",
+  "name": "Vivo Y3",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/vivo-y3.html"
+ },
+ {
+  "slug": "samsung-galaxy-j5-prime",
+  "name": "Samsung Galaxy J5 Prime",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 134,
+  "price_pkr": 36999,
+  "path": "phones/samsung-galaxy-j5-prime.html"
+ },
+ {
+  "slug": "samsung-galaxy-s4",
+  "name": "Samsung Galaxy S4",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 654,
+  "price_pkr": 180999,
+  "path": "phones/samsung-galaxy-s4.html"
+ },
+ {
+  "slug": "vivo-y93",
+  "name": "Vivo Y93",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/vivo-y93.html"
+ },
+ {
+  "slug": "nokia-x3",
+  "name": "Nokia X3",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 101,
+  "price_pkr": 27999,
+  "path": "phones/nokia-x3.html"
+ },
+ {
+  "slug": "xiaomi-redmi-4a",
+  "name": "Xiaomi Redmi 4a",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/xiaomi-redmi-4a.html"
+ },
+ {
+  "slug": "nokia-6300",
+  "name": "Nokia 6300",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 80,
+  "price_pkr": 21999,
+  "path": "phones/nokia-6300.html"
+ },
+ {
+  "slug": "samsung-galaxy-s6-edge+",
+  "name": "Samsung Galaxy S6 EDGE+",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 506,
+  "price_pkr": 139999,
+  "path": "phones/samsung-galaxy-s6-edge+.html"
+ },
+ {
+  "slug": "samsung-galaxy-a52-5g",
+  "name": "Samsung Galaxy A52 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 300,
+  "price_pkr": 82999,
+  "path": "phones/samsung-galaxy-a52-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-s6-edge",
+  "name": "Samsung Galaxy S6 Edge",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 314,
+  "price_pkr": 86999,
+  "path": "phones/samsung-galaxy-s6-edge.html"
+ },
+ {
+  "slug": "samsung-galaxy-a02s",
+  "name": "Samsung Galaxy A02s",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/samsung-galaxy-a02s.html"
+ },
+ {
+  "slug": "samsung-galaxy-note-5",
+  "name": "Samsung Galaxy Note 5",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 170,
+  "price_pkr": 46999,
+  "path": "phones/samsung-galaxy-note-5.html"
+ },
+ {
+  "slug": "xiaomi-7a",
+  "name": "Xiaomi 7a",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/xiaomi-7a.html",
+  "unv": 1
+ },
+ {
+  "slug": "realme-c21y",
+  "name": "Realme C21y",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/realme-c21y.html"
+ },
+ {
+  "slug": "realme-narzo-50",
+  "name": "Realme Narzo 50",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 593,
+  "price_pkr": 163999,
+  "path": "phones/realme-narzo-50.html"
+ },
+ {
+  "slug": "samsung-galaxy-grand-2",
+  "name": "Samsung Galaxy Grand 2",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 202,
+  "price_pkr": 55999,
+  "path": "phones/samsung-galaxy-grand-2.html"
+ },
+ {
+  "slug": "samsung-galaxy-j2-pro",
+  "name": "Samsung Galaxy J2 Pro",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-j2-pro.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-j2-prime-lte",
+  "name": "Samsung Galaxy J2 Prime LTE",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-j2-prime-lte.html",
+  "unv": 1
+ },
+ {
+  "slug": "htc-one",
+  "name": "HTC One",
+  "brand": "HTC",
+  "cat": "Smartphones",
+  "price": 304,
+  "price_pkr": 83999,
+  "path": "phones/htc-one.html"
+ },
+ {
+  "slug": "samsung-galaxy-a52s-5g",
+  "name": "Samsung Galaxy A52s 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 220,
+  "price_pkr": 60999,
+  "path": "phones/samsung-galaxy-a52s-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-a73-5g",
+  "name": "Samsung Galaxy A73 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 600,
+  "price_pkr": 165999,
+  "path": "phones/samsung-galaxy-a73-5g.html"
+ },
+ {
+  "slug": "realme-3",
+  "name": "Realme 3",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 101,
+  "price_pkr": 27999,
+  "path": "phones/realme-3.html"
+ },
+ {
+  "slug": "oppo-a83",
+  "name": "Oppo A83",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/oppo-a83.html"
+ },
+ {
+  "slug": "oppo-a3s",
+  "name": "Oppo A3s",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/oppo-a3s.html"
+ },
+ {
+  "slug": "motorola-v60",
+  "name": "Motorola V60",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/motorola-v60.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-a70",
+  "name": "Samsung Galaxy A70",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 101,
+  "price_pkr": 27999,
+  "path": "phones/samsung-galaxy-a70.html"
+ },
+ {
+  "slug": "samsung-galaxy-note-10",
+  "name": "Samsung Galaxy Note 10",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 788,
+  "price_pkr": 217999,
+  "path": "phones/samsung-galaxy-note-10.html"
+ },
+ {
+  "slug": "huawei-p30-pro",
+  "name": "Huawei P30 Pro",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 752,
+  "price_pkr": 207999,
+  "path": "phones/huawei-p30-pro.html"
+ },
+ {
+  "slug": "vivo-y35",
+  "name": "Vivo Y35",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 416,
+  "price_pkr": 114999,
+  "path": "phones/vivo-y35.html"
+ },
+ {
+  "slug": "realme-10",
+  "name": "Realme 10",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 267,
+  "price_pkr": 73999,
+  "path": "phones/realme-10.html"
+ },
+ {
+  "slug": "xiaomi-k40",
+  "name": "Xiaomi K40",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/xiaomi-k40.html",
+  "unv": 1
+ },
+ {
+  "slug": "xiaomi-redmi-note-4",
+  "name": "Xiaomi Redmi Note 4",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/xiaomi-redmi-note-4.html"
+ },
+ {
+  "slug": "oppo-r9s",
+  "name": "Oppo R9s",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 506,
+  "price_pkr": 139999,
+  "path": "phones/oppo-r9s.html"
+ },
+ {
+  "slug": "motorola-razr-v3i",
+  "name": "Motorola Razr V3i",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/motorola-razr-v3i.html"
+ },
+ {
+  "slug": "xiaomi-redmi-5a",
+  "name": "Xiaomi Redmi 5a",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/xiaomi-redmi-5a.html"
+ },
+ {
+  "slug": "samsung-galaxy-fold",
+  "name": "Samsung Galaxy Fold",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 1959,
+  "price_pkr": 541999,
+  "path": "phones/samsung-galaxy-fold.html"
+ },
+ {
+  "slug": "samsung-galaxy-a52-4g",
+  "name": "Samsung Galaxy A52 4G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-a52-4g.html",
+  "unv": 1
+ },
+ {
+  "slug": "motorola-razr-v3",
+  "name": "Motorola Razr V3",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/motorola-razr-v3.html"
+ },
+ {
+  "slug": "huawei-mate-60-pro",
+  "name": "Huawei Mate 60 Pro",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 997,
+  "price_pkr": 275999,
+  "path": "phones/huawei-mate-60-pro.html"
+ },
+ {
+  "slug": "samsung-galaxy-note-3",
+  "name": "Samsung Galaxy Note 3",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 470,
+  "price_pkr": 129999,
+  "path": "phones/samsung-galaxy-note-3.html"
+ },
+ {
+  "slug": "realme-c31",
+  "name": "Realme C31",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 170,
+  "price_pkr": 46999,
+  "path": "phones/realme-c31.html"
+ },
+ {
+  "slug": "vivo-y02",
+  "name": "Vivo Y02",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 101,
+  "price_pkr": 27999,
+  "path": "phones/vivo-y02.html"
+ },
+ {
+  "slug": "realme-8",
+  "name": "Realme 8",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 126,
+  "price_pkr": 34999,
+  "path": "phones/realme-8.html"
+ },
+ {
+  "slug": "nokia-100",
+  "name": "Nokia 100",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 58,
+  "price_pkr": 15999,
+  "path": "phones/nokia-100.html"
+ },
+ {
+  "slug": "huawei-p30",
+  "name": "Huawei P30",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 249,
+  "price_pkr": 68999,
+  "path": "phones/huawei-p30.html"
+ },
+ {
+  "slug": "samsung-galaxy-a22-5g",
+  "name": "Samsung Galaxy A22 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/samsung-galaxy-a22-5g.html"
+ },
+ {
+  "slug": "oppo-a15",
+  "name": "Oppo A15",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 405,
+  "price_pkr": 111999,
+  "path": "phones/oppo-a15.html"
+ },
+ {
+  "slug": "realme-c30",
+  "name": "Realme C30",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 80,
+  "price_pkr": 21999,
+  "path": "phones/realme-c30.html"
+ },
+ {
+  "slug": "realme-c53",
+  "name": "Realme C53",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 148,
+  "price_pkr": 40999,
+  "path": "phones/realme-c53.html"
+ },
+ {
+  "slug": "alcatel-ot-303",
+  "name": "alcatel OT-303",
+  "brand": "Alcatel",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/alcatel-ot-303.html",
+  "unv": 1
+ },
+ {
+  "slug": "realme-c2",
+  "name": "Realme C2",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 69,
+  "price_pkr": 18999,
+  "path": "phones/realme-c2.html"
+ },
+ {
+  "slug": "realme-6",
+  "name": "Realme 6",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/realme-6.html"
+ },
+ {
+  "slug": "samsung-galaxy-s20-fe-lte",
+  "name": "Samsung Galaxy S20 FE LTE",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-s20-fe-lte.html",
+  "unv": 1
+ },
+ {
+  "slug": "oppo-a57-4g",
+  "name": "Oppo A57 4G",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 173,
+  "price_pkr": 47999,
+  "path": "phones/oppo-a57-4g.html"
+ },
+ {
+  "slug": "oppo-a5s",
+  "name": "Oppo A5s",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/oppo-a5s.html",
+  "unv": 1
+ },
+ {
+  "slug": "realme-9i",
+  "name": "Realme 9i",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/realme-9i.html"
+ },
+ {
+  "slug": "oppo-a18",
+  "name": "Oppo A18",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/oppo-a18.html",
+  "unv": 1
+ },
+ {
+  "slug": "oppo-a38",
+  "name": "Oppo A38",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 141,
+  "price_pkr": 38999,
+  "path": "phones/oppo-a38.html"
+ },
+ {
+  "slug": "nokia-3650",
+  "name": "Nokia 3650",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/nokia-3650.html",
+  "unv": 1
+ },
+ {
+  "slug": "realme-12-pro+-5g",
+  "name": "Realme 12 PRO+ 5G",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 459,
+  "price_pkr": 126999,
+  "path": "phones/realme-12-pro+-5g.html"
+ },
+ {
+  "slug": "realme-14-pro",
+  "name": "Realme 14 Pro",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/realme-14-pro.html",
+  "unv": 1
+ },
+ {
+  "slug": "huawei-p-smart-2019",
+  "name": "Huawei P Smart 2019",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/huawei-p-smart-2019.html"
+ },
+ {
+  "slug": "nokia-105-dual-sim",
+  "name": "Nokia 105 Dual Sim",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/nokia-105-dual-sim.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-note-10.1",
+  "name": "Samsung Galaxy Note 10.1",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-note-10.1.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-m53",
+  "name": "Samsung Galaxy M53",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 282,
+  "price_pkr": 77999,
+  "path": "phones/samsung-galaxy-m53.html"
+ },
+ {
+  "slug": "samsung-galaxy-a04",
+  "name": "Samsung Galaxy A04",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 69,
+  "price_pkr": 18999,
+  "path": "phones/samsung-galaxy-a04.html"
+ },
+ {
+  "slug": "huawei-9x",
+  "name": "Huawei 9x",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-9x.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-j3-(2017)",
+  "name": "Samsung Galaxy J3 (2017)",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/samsung-galaxy-j3-(2017).html"
+ },
+ {
+  "slug": "realme-c21",
+  "name": "Realme C21",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 459,
+  "price_pkr": 126999,
+  "path": "phones/realme-c21.html"
+ },
+ {
+  "slug": "realme-12-lite",
+  "name": "Realme 12 Lite",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 336,
+  "price_pkr": 92999,
+  "path": "phones/realme-12-lite.html"
+ },
+ {
+  "slug": "huawei-mate-30-pro-5g",
+  "name": "Huawei Mate 30 Pro 5G",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 1612,
+  "price_pkr": 445999,
+  "path": "phones/huawei-mate-30-pro-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-note-4",
+  "name": "Samsung Galaxy Note 4",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 390,
+  "price_pkr": 107999,
+  "path": "phones/samsung-galaxy-note-4.html"
+ },
+ {
+  "slug": "samsung-galaxy-a8+",
+  "name": "Samsung Galaxy A8+",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-a8+.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-a10e",
+  "name": "Samsung Galaxy A10e",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 90,
+  "price_pkr": 24999,
+  "path": "phones/samsung-galaxy-a10e.html"
+ },
+ {
+  "slug": "samsung-galaxy-m21",
+  "name": "Samsung Galaxy M21",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/samsung-galaxy-m21.html"
+ },
+ {
+  "slug": "vivo-y16",
+  "name": "Vivo Y16",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 134,
+  "price_pkr": 36999,
+  "path": "phones/vivo-y16.html"
+ },
+ {
+  "slug": "realme-9-5g",
+  "name": "Realme 9 5G",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/realme-9-5g.html"
+ },
+ {
+  "slug": "motorola-moto-g-stylus-5g",
+  "name": "Motorola Moto G Stylus 5G",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 87,
+  "price_pkr": 23999,
+  "path": "phones/motorola-moto-g-stylus-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-note10+-5g",
+  "name": "Samsung Galaxy NOTE10+ 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 784,
+  "price_pkr": 216999,
+  "path": "phones/samsung-galaxy-note10+-5g.html"
+ },
+ {
+  "slug": "realme-c35",
+  "name": "Realme C35",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/realme-c35.html"
+ },
+ {
+  "slug": "vivo-y11-(2019)",
+  "name": "Vivo Y11 (2019)",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 80,
+  "price_pkr": 21999,
+  "path": "phones/vivo-y11-(2019).html"
+ },
+ {
+  "slug": "honor-x50",
+  "name": "Honor X50",
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "price": 202,
+  "price_pkr": 55999,
+  "path": "phones/honor-x50.html"
+ },
+ {
+  "slug": "realme-5",
+  "name": "Realme 5",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/realme-5.html"
+ },
+ {
+  "slug": "oppo-a12",
+  "name": "Oppo A12",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 629,
+  "price_pkr": 173999,
+  "path": "phones/oppo-a12.html"
+ },
+ {
+  "slug": "huawei-honor-8x",
+  "name": "Huawei Honor 8x",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-honor-8x.html",
+  "unv": 1
+ },
+ {
+  "slug": "realme-narzo-50a",
+  "name": "Realme Narzo 50a",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/realme-narzo-50a.html"
+ },
+ {
+  "slug": "samsung-galaxy-a80",
+  "name": "Samsung Galaxy A80",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 426,
+  "price_pkr": 117999,
+  "path": "phones/samsung-galaxy-a80.html"
+ },
+ {
+  "slug": "vivo-y91i",
+  "name": "Vivo Y91i",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/vivo-y91i.html"
+ },
+ {
+  "slug": "oppo-a8",
+  "name": "Oppo A8",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/oppo-a8.html"
+ },
+ {
+  "slug": "oppo-a54",
+  "name": "Oppo A54",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 148,
+  "price_pkr": 40999,
+  "path": "phones/oppo-a54.html"
+ },
+ {
+  "slug": "realme-gt-5g",
+  "name": "Realme Gt 5G",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 416,
+  "price_pkr": 114999,
+  "path": "phones/realme-gt-5g.html"
+ },
+ {
+  "slug": "realme-13+-5g",
+  "name": "Realme 13+ 5G",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 220,
+  "price_pkr": 60999,
+  "path": "phones/realme-13+-5g.html"
+ },
+ {
+  "slug": "xiaomi-redmi-8",
+  "name": "Xiaomi Redmi 8",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 235,
+  "price_pkr": 64999,
+  "path": "phones/xiaomi-redmi-8.html"
+ },
+ {
+  "slug": "samsung-galaxy-m10",
+  "name": "Samsung Galaxy M10",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 267,
+  "price_pkr": 73999,
+  "path": "phones/samsung-galaxy-m10.html"
+ },
+ {
+  "slug": "samsung-galaxy-a2-core",
+  "name": "Samsung Galaxy A2 Core",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 134,
+  "price_pkr": 36999,
+  "path": "phones/samsung-galaxy-a2-core.html"
+ },
+ {
+  "slug": "tecno-spark-7",
+  "name": "Tecno Spark 7",
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "price": 101,
+  "price_pkr": 27999,
+  "path": "phones/tecno-spark-7.html"
+ },
+ {
+  "slug": "tecno-spark-go-1",
+  "name": "Tecno Spark Go 1",
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "price": 90,
+  "price_pkr": 24999,
+  "path": "phones/tecno-spark-go-1.html"
+ },
+ {
+  "slug": "vivo-y22",
+  "name": "Vivo Y22",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 105,
+  "price_pkr": 28999,
+  "path": "phones/vivo-y22.html"
+ },
+ {
+  "slug": "realme-11-5g",
+  "name": "Realme 11 5G",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 257,
+  "price_pkr": 70999,
+  "path": "phones/realme-11-5g.html"
+ },
+ {
+  "slug": "xiaomi-redmi-6",
+  "name": "Xiaomi Redmi 6",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/xiaomi-redmi-6.html"
+ },
+ {
+  "slug": "huawei-p40",
+  "name": "Huawei P40",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 582,
+  "price_pkr": 160999,
+  "path": "phones/huawei-p40.html"
+ },
+ {
+  "slug": "samsung-galaxy-a20s",
+  "name": "Samsung Galaxy A20s",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 282,
+  "price_pkr": 77999,
+  "path": "phones/samsung-galaxy-a20s.html"
+ },
+ {
+  "slug": "samsung-galaxy-m34-5g",
+  "name": "Samsung Galaxy M34 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/samsung-galaxy-m34-5g.html"
+ },
+ {
+  "slug": "vivo-y15s",
+  "name": "Vivo Y15s",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 134,
+  "price_pkr": 36999,
+  "path": "phones/vivo-y15s.html"
+ },
+ {
+  "slug": "realme-8-pro",
+  "name": "Realme 8 Pro",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 614,
+  "price_pkr": 169999,
+  "path": "phones/realme-8-pro.html"
+ },
+ {
+  "slug": "realme-11-pro+",
+  "name": "Realme 11 Pro+",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 488,
+  "price_pkr": 134999,
+  "path": "phones/realme-11-pro+.html"
+ },
+ {
+  "slug": "huawei-p40-pro",
+  "name": "Huawei P40 Pro",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 390,
+  "price_pkr": 107999,
+  "path": "phones/huawei-p40-pro.html"
+ },
+ {
+  "slug": "nokia-c1-01",
+  "name": "Nokia C1-01",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 58,
+  "price_pkr": 15999,
+  "path": "phones/nokia-c1-01.html"
+ },
+ {
+  "slug": "honor-x70",
+  "name": "Honor X70",
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/honor-x70.html",
+  "unv": 1
+ },
+ {
+  "slug": "realme-7-pro",
+  "name": "Realme 7 Pro",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/realme-7-pro.html"
+ },
+ {
+  "slug": "motorola-moto-g35-5g",
+  "name": "Motorola Moto G35 5G",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 199,
+  "price_pkr": 54999,
+  "path": "phones/motorola-moto-g35-5g.html"
+ },
+ {
+  "slug": "xiaomi-redmi-note-4x",
+  "name": "Xiaomi Redmi Note 4x",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/xiaomi-redmi-note-4x.html"
+ },
+ {
+  "slug": "xiaomi-mi-11",
+  "name": "Xiaomi Mi 11",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/xiaomi-mi-11.html"
+ },
+ {
+  "slug": "nokia-3110-classic",
+  "name": "Nokia 3110 Classic",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/nokia-3110-classic.html"
+ },
+ {
+  "slug": "samsung-galaxy-s26-pro",
+  "name": "Samsung Galaxy S26 Pro",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 1128,
+  "price_pkr": 311999,
+  "path": "phones/samsung-galaxy-s26-pro.html"
+ },
+ {
+  "slug": "tecno-spark-8c",
+  "name": "Tecno Spark 8c",
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/tecno-spark-8c.html",
+  "unv": 1
+ },
+ {
+  "slug": "tecno-spark-go-2024",
+  "name": "Tecno Spark Go 2024",
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "price": 130,
+  "price_pkr": 35999,
+  "path": "phones/tecno-spark-go-2024.html"
+ },
+ {
+  "slug": "vivo-x6",
+  "name": "Vivo X6",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/vivo-x6.html",
+  "unv": 1
+ },
+ {
+  "slug": "huawei-mate-30-5g",
+  "name": "Huawei Mate 30 5G",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 730,
+  "price_pkr": 201999,
+  "path": "phones/huawei-mate-30-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-a42-5g",
+  "name": "Samsung Galaxy A42 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 325,
+  "price_pkr": 89999,
+  "path": "phones/samsung-galaxy-a42-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-a3-(2016)",
+  "name": "Samsung Galaxy A3 (2016)",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/samsung-galaxy-a3-(2016).html"
+ },
+ {
+  "slug": "samsung-galaxy-a6",
+  "name": "Samsung Galaxy A6",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-a6.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-m14",
+  "name": "Samsung Galaxy M14",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 94,
+  "price_pkr": 25999,
+  "path": "phones/samsung-galaxy-m14.html"
+ },
+ {
+  "slug": "huawei-20",
+  "name": "Huawei 20",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-20.html",
+  "unv": 1
+ },
+ {
+  "slug": "realme-gt-neo2",
+  "name": "Realme Gt Neo2",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 199,
+  "price_pkr": 54999,
+  "path": "phones/realme-gt-neo2.html"
+ },
+ {
+  "slug": "honor-play-20",
+  "name": "Honor Play 20",
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/honor-play-20.html"
+ },
+ {
+  "slug": "realme-c30s",
+  "name": "Realme C30s",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/realme-c30s.html"
+ },
+ {
+  "slug": "huawei-nova-5i",
+  "name": "Huawei Nova 5i",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 293,
+  "price_pkr": 80999,
+  "path": "phones/huawei-nova-5i.html"
+ },
+ {
+  "slug": "nokia-n73",
+  "name": "Nokia N73",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/nokia-n73.html"
+ },
+ {
+  "slug": "nokia-c2-03",
+  "name": "Nokia C2-03",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 80,
+  "price_pkr": 21999,
+  "path": "phones/nokia-c2-03.html"
+ },
+ {
+  "slug": "samsung-galaxy-m30s",
+  "name": "Samsung Galaxy M30s",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 293,
+  "price_pkr": 80999,
+  "path": "phones/samsung-galaxy-m30s.html"
+ },
+ {
+  "slug": "samsung-galaxy-j7-nxt",
+  "name": "Samsung Galaxy J7 Nxt",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 202,
+  "price_pkr": 55999,
+  "path": "phones/samsung-galaxy-j7-nxt.html"
+ },
+ {
+  "slug": "oppo-a55",
+  "name": "Oppo A55",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/oppo-a55.html",
+  "unv": 1
+ },
+ {
+  "slug": "vivo-y51",
+  "name": "Vivo Y51",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/vivo-y51.html"
+ },
+ {
+  "slug": "xiaomi-9c",
+  "name": "Xiaomi 9c",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/xiaomi-9c.html",
+  "unv": 1
+ },
+ {
+  "slug": "huawei-p8-lite",
+  "name": "Huawei P8 Lite",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-p8-lite.html",
+  "unv": 1
+ },
+ {
+  "slug": "huawei-y5-(2019)",
+  "name": "Huawei Y5 (2019)",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/huawei-y5-(2019).html"
+ },
+ {
+  "slug": "nokia-7650",
+  "name": "Nokia 7650",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/nokia-7650.html",
+  "unv": 1
+ },
+ {
+  "slug": "nokia-3220",
+  "name": "Nokia 3220",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/nokia-3220.html",
+  "unv": 1
+ },
+ {
+  "slug": "nokia-2700-classic",
+  "name": "Nokia 2700 Classic",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 58,
+  "price_pkr": 15999,
+  "path": "phones/nokia-2700-classic.html"
+ },
+ {
+  "slug": "nokia-c2-00",
+  "name": "Nokia C2-00",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 58,
+  "price_pkr": 15999,
+  "path": "phones/nokia-c2-00.html"
+ },
+ {
+  "slug": "nokia-x2-02",
+  "name": "Nokia X2-02",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 69,
+  "price_pkr": 18999,
+  "path": "phones/nokia-x2-02.html"
+ },
+ {
+  "slug": "samsung-galaxy-s5-mini",
+  "name": "Samsung Galaxy S5 Mini",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 246,
+  "price_pkr": 67999,
+  "path": "phones/samsung-galaxy-s5-mini.html"
+ },
+ {
+  "slug": "samsung-galaxy-j5-(2017)",
+  "name": "Samsung Galaxy J5 (2017)",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/samsung-galaxy-j5-(2017).html"
+ },
+ {
+  "slug": "samsung-galaxy-m30",
+  "name": "Samsung Galaxy M30",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 293,
+  "price_pkr": 80999,
+  "path": "phones/samsung-galaxy-m30.html"
+ },
+ {
+  "slug": "samsung-galaxy-z-fold-3",
+  "name": "Samsung Galaxy Z Fold 3",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 1016,
+  "price_pkr": 280999,
+  "path": "phones/samsung-galaxy-z-fold-3.html"
+ },
+ {
+  "slug": "tecno-spark-10-pro",
+  "name": "Tecno Spark 10 Pro",
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "price": 181,
+  "price_pkr": 49999,
+  "path": "phones/tecno-spark-10-pro.html"
+ },
+ {
+  "slug": "vivo-y91",
+  "name": "Vivo Y91",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/vivo-y91.html"
+ },
+ {
+  "slug": "oppo-r15",
+  "name": "Oppo R15",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 517,
+  "price_pkr": 142999,
+  "path": "phones/oppo-r15.html"
+ },
+ {
+  "slug": "oppo-a9",
+  "name": "Oppo A9",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 304,
+  "price_pkr": 83999,
+  "path": "phones/oppo-a9.html"
+ },
+ {
+  "slug": "realme-c12",
+  "name": "Realme C12",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/realme-c12.html"
+ },
+ {
+  "slug": "xiaomi-redmi-8a",
+  "name": "Xiaomi Redmi 8a",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 134,
+  "price_pkr": 36999,
+  "path": "phones/xiaomi-redmi-8a.html"
+ },
+ {
+  "slug": "huawei-p9",
+  "name": "Huawei P9",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 379,
+  "price_pkr": 104999,
+  "path": "phones/huawei-p9.html"
+ },
+ {
+  "slug": "tcl-1",
+  "name": "TCL 1",
+  "brand": "TCL",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/tcl-1.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-a8-(2018)",
+  "name": "Samsung Galaxy A8 (2018)",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 282,
+  "price_pkr": 77999,
+  "path": "phones/samsung-galaxy-a8-(2018).html"
+ },
+ {
+  "slug": "samsung-galaxy-j4-core",
+  "name": "Samsung Galaxy J4 Core",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/samsung-galaxy-j4-core.html"
+ },
+ {
+  "slug": "vivo-x9",
+  "name": "Vivo X9",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 517,
+  "price_pkr": 142999,
+  "path": "phones/vivo-x9.html"
+ },
+ {
+  "slug": "vivo-y71",
+  "name": "Vivo Y71",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 155,
+  "price_pkr": 42999,
+  "path": "phones/vivo-y71.html"
+ },
+ {
+  "slug": "oppo-r17",
+  "name": "Oppo R17",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 517,
+  "price_pkr": 142999,
+  "path": "phones/oppo-r17.html"
+ },
+ {
+  "slug": "oppo-a17",
+  "name": "Oppo A17",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/oppo-a17.html"
+ },
+ {
+  "slug": "huawei-p20",
+  "name": "Huawei P20",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 369,
+  "price_pkr": 101999,
+  "path": "phones/huawei-p20.html"
+ },
+ {
+  "slug": "samsung-galaxy-a72",
+  "name": "Samsung Galaxy A72",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 412,
+  "price_pkr": 113999,
+  "path": "phones/samsung-galaxy-a72.html"
+ },
+ {
+  "slug": "samsung-galaxy-j1-mini-prime",
+  "name": "Samsung Galaxy J1 Mini Prime",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/samsung-galaxy-j1-mini-prime.html"
+ },
+ {
+  "slug": "samsung-galaxy-a21",
+  "name": "Samsung Galaxy A21",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 76,
+  "price_pkr": 20999,
+  "path": "phones/samsung-galaxy-a21.html"
+ },
+ {
+  "slug": "samsung-galaxy-mega-5.8",
+  "name": "Samsung Galaxy Mega 5.8",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 80,
+  "price_pkr": 21999,
+  "path": "phones/samsung-galaxy-mega-5.8.html"
+ },
+ {
+  "slug": "lg-g3",
+  "name": "LG G3",
+  "brand": "LG",
+  "cat": "Smartphones",
+  "price": 336,
+  "price_pkr": 92999,
+  "path": "phones/lg-g3.html"
+ },
+ {
+  "slug": "samsung-galaxy-j7-prime-2",
+  "name": "Samsung Galaxy J7 Prime 2",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 192,
+  "price_pkr": 52999,
+  "path": "phones/samsung-galaxy-j7-prime-2.html"
+ },
+ {
+  "slug": "samsung-galaxy-s10-5g",
+  "name": "Samsung Galaxy S10 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 426,
+  "price_pkr": 117999,
+  "path": "phones/samsung-galaxy-s10-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-m13",
+  "name": "Samsung Galaxy M13",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/samsung-galaxy-m13.html"
+ },
+ {
+  "slug": "oppo-a52",
+  "name": "Oppo A52",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 267,
+  "price_pkr": 73999,
+  "path": "phones/oppo-a52.html"
+ },
+ {
+  "slug": "vivo-y12s",
+  "name": "Vivo Y12s",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 134,
+  "price_pkr": 36999,
+  "path": "phones/vivo-y12s.html"
+ },
+ {
+  "slug": "vivo-y12",
+  "name": "Vivo Y12",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 181,
+  "price_pkr": 49999,
+  "path": "phones/vivo-y12.html"
+ },
+ {
+  "slug": "vivo-y17s",
+  "name": "Vivo Y17s",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 108,
+  "price_pkr": 29999,
+  "path": "phones/vivo-y17s.html"
+ },
+ {
+  "slug": "huawei-honor-6x",
+  "name": "Huawei Honor 6x",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-honor-6x.html",
+  "unv": 1
+ },
+ {
+  "slug": "huawei-honor-7x",
+  "name": "Huawei Honor 7x",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-honor-7x.html",
+  "unv": 1
+ },
+ {
+  "slug": "motorola-moto-e22",
+  "name": "Motorola Moto E22",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 105,
+  "price_pkr": 28999,
+  "path": "phones/motorola-moto-e22.html"
+ },
+ {
+  "slug": "huawei-nova-5",
+  "name": "Huawei Nova 5",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 405,
+  "price_pkr": 111999,
+  "path": "phones/huawei-nova-5.html"
+ },
+ {
+  "slug": "nokia-2630",
+  "name": "Nokia 2630",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 69,
+  "price_pkr": 18999,
+  "path": "phones/nokia-2630.html"
+ },
+ {
+  "slug": "realme-p3x-5g",
+  "name": "Realme P3x 5G",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 134,
+  "price_pkr": 36999,
+  "path": "phones/realme-p3x-5g.html"
+ },
+ {
+  "slug": "vivo-y67",
+  "name": "Vivo Y67",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 304,
+  "price_pkr": 83999,
+  "path": "phones/vivo-y67.html"
+ },
+ {
+  "slug": "vivo-y53i",
+  "name": "Vivo Y53i",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 90,
+  "price_pkr": 24999,
+  "path": "phones/vivo-y53i.html"
+ },
+ {
+  "slug": "realme-c11",
+  "name": "Realme C11",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 105,
+  "price_pkr": 28999,
+  "path": "phones/realme-c11.html"
+ },
+ {
+  "slug": "realme-10-pro+-5g",
+  "name": "Realme 10 PRO+ 5G",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 181,
+  "price_pkr": 49999,
+  "path": "phones/realme-10-pro+-5g.html"
+ },
+ {
+  "slug": "xiaomi-redmi-note-4g",
+  "name": "Xiaomi Redmi Note 4G",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 181,
+  "price_pkr": 49999,
+  "path": "phones/xiaomi-redmi-note-4g.html"
+ },
+ {
+  "slug": "xiaomi-redmi-5+",
+  "name": "Xiaomi Redmi 5+",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/xiaomi-redmi-5+.html",
+  "unv": 1
+ },
+ {
+  "slug": "nokia-6101",
+  "name": "Nokia 6101",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/nokia-6101.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-a6+",
+  "name": "Samsung Galaxy A6+",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-a6+.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-m20",
+  "name": "Samsung Galaxy M20",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 448,
+  "price_pkr": 123999,
+  "path": "phones/samsung-galaxy-m20.html"
+ },
+ {
+  "slug": "huawei-x30",
+  "name": "Huawei X30",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-x30.html",
+  "unv": 1
+ },
+ {
+  "slug": "oppo-a33",
+  "name": "Oppo A33",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 267,
+  "price_pkr": 73999,
+  "path": "phones/oppo-a33.html"
+ },
+ {
+  "slug": "oppo-a32",
+  "name": "Oppo A32",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/oppo-a32.html"
+ },
+ {
+  "slug": "lg-v20",
+  "name": "LG V20",
+  "brand": "LG",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/lg-v20.html"
+ },
+ {
+  "slug": "huawei-nova-4",
+  "name": "Huawei Nova 4",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 448,
+  "price_pkr": 123999,
+  "path": "phones/huawei-nova-4.html"
+ },
+ {
+  "slug": "nokia-n70",
+  "name": "Nokia N70",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/nokia-n70.html"
+ },
+ {
+  "slug": "samsung-galaxy-note-edge",
+  "name": "Samsung Galaxy Note Edge",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 336,
+  "price_pkr": 92999,
+  "path": "phones/samsung-galaxy-note-edge.html"
+ },
+ {
+  "slug": "realme-c85",
+  "name": "Realme C85",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 170,
+  "price_pkr": 46999,
+  "path": "phones/realme-c85.html"
+ },
+ {
+  "slug": "tecno-spark-10c",
+  "name": "Tecno Spark 10c",
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/tecno-spark-10c.html",
+  "unv": 1
+ },
+ {
+  "slug": "tecno-pop-7",
+  "name": "Tecno Pop 7",
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/tecno-pop-7.html",
+  "unv": 1
+ },
+ {
+  "slug": "vivo-y30",
+  "name": "Vivo Y30",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/vivo-y30.html"
+ },
+ {
+  "slug": "vivo-y20s",
+  "name": "Vivo Y20s",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/vivo-y20s.html"
+ },
+ {
+  "slug": "oppo-a1k",
+  "name": "Oppo A1k",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/oppo-a1k.html"
+ },
+ {
+  "slug": "huawei-honor-7s",
+  "name": "Huawei Honor 7s",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-honor-7s.html",
+  "unv": 1
+ },
+ {
+  "slug": "oppo-a17k",
+  "name": "Oppo A17k",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/oppo-a17k.html"
+ },
+ {
+  "slug": "realme-11-pro",
+  "name": "Realme 11 Pro",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 249,
+  "price_pkr": 68999,
+  "path": "phones/realme-11-pro.html"
+ },
+ {
+  "slug": "realme-gt3",
+  "name": "Realme Gt3",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 672,
+  "price_pkr": 185999,
+  "path": "phones/realme-gt3.html"
+ },
+ {
+  "slug": "huawei-nova-7-5g",
+  "name": "Huawei Nova 7 5G",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 437,
+  "price_pkr": 120999,
+  "path": "phones/huawei-nova-7-5g.html"
+ },
+ {
+  "slug": "huawei-nova-6-5g",
+  "name": "Huawei Nova 6 5G",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-nova-6-5g.html",
+  "unv": 1
+ },
+ {
+  "slug": "nokia-5310-xpressmusic",
+  "name": "Nokia 5310 Xpressmusic",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/nokia-5310-xpressmusic.html"
+ },
+ {
+  "slug": "samsung-galaxy-a20e",
+  "name": "Samsung Galaxy A20e",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/samsung-galaxy-a20e.html"
+ },
+ {
+  "slug": "samsung-galaxy-a40",
+  "name": "Samsung Galaxy A40",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 293,
+  "price_pkr": 80999,
+  "path": "phones/samsung-galaxy-a40.html"
+ },
+ {
+  "slug": "samsung-galaxy-z-flip-5g",
+  "name": "Samsung Galaxy Z Flip 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 896,
+  "price_pkr": 247999,
+  "path": "phones/samsung-galaxy-z-flip-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-m11",
+  "name": "Samsung Galaxy M11",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/samsung-galaxy-m11.html"
+ },
+ {
+  "slug": "vivo-y04",
+  "name": "Vivo Y04",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 101,
+  "price_pkr": 27999,
+  "path": "phones/vivo-y04.html"
+ },
+ {
+  "slug": "huawei-honor-4x",
+  "name": "Huawei Honor 4x",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-honor-4x.html",
+  "unv": 1
+ },
+ {
+  "slug": "oppo-reno6-5g",
+  "name": "Oppo Reno6 5G",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 275,
+  "price_pkr": 75999,
+  "path": "phones/oppo-reno6-5g.html"
+ },
+ {
+  "slug": "huawei-honor-9-lite",
+  "name": "Huawei Honor 9 Lite",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-honor-9-lite.html",
+  "unv": 1
+ },
+ {
+  "slug": "realme-8i",
+  "name": "Realme 8i",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 80,
+  "price_pkr": 21999,
+  "path": "phones/realme-8i.html"
+ },
+ {
+  "slug": "oppo-a2",
+  "name": "Oppo A2",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 246,
+  "price_pkr": 67999,
+  "path": "phones/oppo-a2.html"
+ },
+ {
+  "slug": "oppo-a3-pro-5g",
+  "name": "Oppo A3 Pro 5G",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/oppo-a3-pro-5g.html"
+ },
+ {
+  "slug": "motorola-moto-e4",
+  "name": "Motorola Moto E4",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/motorola-moto-e4.html"
+ },
+ {
+  "slug": "motorola-moto-g6-play",
+  "name": "Motorola Moto G6 Play",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/motorola-moto-g6-play.html"
+ },
+ {
+  "slug": "xiaomi-redmi-2",
+  "name": "Xiaomi Redmi 2",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/xiaomi-redmi-2.html"
+ },
+ {
+  "slug": "huawei-mate-9",
+  "name": "Huawei Mate 9",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 358,
+  "price_pkr": 98999,
+  "path": "phones/huawei-mate-9.html"
+ },
+ {
+  "slug": "huawei-p10",
+  "name": "Huawei P10",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 314,
+  "price_pkr": 86999,
+  "path": "phones/huawei-p10.html"
+ },
+ {
+  "slug": "huawei-p20-pro",
+  "name": "Huawei P20 Pro",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 459,
+  "price_pkr": 126999,
+  "path": "phones/huawei-p20-pro.html"
+ },
+ {
+  "slug": "huawei-mate-20",
+  "name": "Huawei Mate 20",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 517,
+  "price_pkr": 142999,
+  "path": "phones/huawei-mate-20.html"
+ },
+ {
+  "slug": "huawei-enjoy-10",
+  "name": "Huawei Enjoy 10",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/huawei-enjoy-10.html"
+ },
+ {
+  "slug": "nokia-6600",
+  "name": "Nokia 6600",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/nokia-6600.html",
+  "unv": 1
+ },
+ {
+  "slug": "nokia-e71",
+  "name": "Nokia E71",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/nokia-e71.html"
+ },
+ {
+  "slug": "nokia-5230",
+  "name": "Nokia 5230",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 90,
+  "price_pkr": 24999,
+  "path": "phones/nokia-5230.html"
+ },
+ {
+  "slug": "samsung-galaxy-a5-duos",
+  "name": "Samsung Galaxy A5 Duos",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 325,
+  "price_pkr": 89999,
+  "path": "phones/samsung-galaxy-a5-duos.html"
+ },
+ {
+  "slug": "samsung-galaxy-s21",
+  "name": "Samsung Galaxy S21",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 329,
+  "price_pkr": 90999,
+  "path": "phones/samsung-galaxy-s21.html"
+ },
+ {
+  "slug": "samsung-galaxy-s10-lite",
+  "name": "Samsung Galaxy S10 Lite",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 426,
+  "price_pkr": 117999,
+  "path": "phones/samsung-galaxy-s10-lite.html"
+ },
+ {
+  "slug": "siemens-a50",
+  "name": "Siemens A50",
+  "brand": "Siemens",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/siemens-a50.html",
+  "unv": 1
+ },
+ {
+  "slug": "vivo-s1",
+  "name": "Vivo S1",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 257,
+  "price_pkr": 70999,
+  "path": "phones/vivo-s1.html"
+ },
+ {
+  "slug": "vivo-y1s",
+  "name": "Vivo Y1s",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 90,
+  "price_pkr": 24999,
+  "path": "phones/vivo-y1s.html"
+ },
+ {
+  "slug": "oppo-a11",
+  "name": "Oppo A11",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/oppo-a11.html"
+ },
+ {
+  "slug": "nokia-x2",
+  "name": "Nokia X2",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/nokia-x2.html",
+  "unv": 1
+ },
+ {
+  "slug": "huawei-honor-8",
+  "name": "Huawei Honor 8",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-honor-8.html",
+  "unv": 1
+ },
+ {
+  "slug": "realme-c17",
+  "name": "Realme C17",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 181,
+  "price_pkr": 49999,
+  "path": "phones/realme-c17.html"
+ },
+ {
+  "slug": "honor-x10-5g",
+  "name": "Honor X10 5G",
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "price": 282,
+  "price_pkr": 77999,
+  "path": "phones/honor-x10-5g.html"
+ },
+ {
+  "slug": "motorola-moto-g34-5g",
+  "name": "Motorola Moto G34 5G",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 130,
+  "price_pkr": 35999,
+  "path": "phones/motorola-moto-g34-5g.html"
+ },
+ {
+  "slug": "huawei-mate-20-pro",
+  "name": "Huawei Mate 20 Pro",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 896,
+  "price_pkr": 247999,
+  "path": "phones/huawei-mate-20-pro.html"
+ },
+ {
+  "slug": "huawei-nova-4e",
+  "name": "Huawei Nova 4e",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 304,
+  "price_pkr": 83999,
+  "path": "phones/huawei-nova-4e.html"
+ },
+ {
+  "slug": "nokia-6020",
+  "name": "Nokia 6020",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/nokia-6020.html",
+  "unv": 1
+ },
+ {
+  "slug": "nokia-6230i",
+  "name": "Nokia 6230i",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/nokia-6230i.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-xcover-pro",
+  "name": "Samsung Galaxy Xcover Pro",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 126,
+  "price_pkr": 34999,
+  "path": "phones/samsung-galaxy-xcover-pro.html"
+ },
+ {
+  "slug": "samsung-galaxy-m22",
+  "name": "Samsung Galaxy M22",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 257,
+  "price_pkr": 70999,
+  "path": "phones/samsung-galaxy-m22.html"
+ },
+ {
+  "slug": "samsung-galaxy-m52-5g",
+  "name": "Samsung Galaxy M52 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 202,
+  "price_pkr": 55999,
+  "path": "phones/samsung-galaxy-m52-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-m15-5g",
+  "name": "Samsung Galaxy M15 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/samsung-galaxy-m15-5g.html"
+ },
+ {
+  "slug": "oppo-a5-4g",
+  "name": "Oppo A5 4G",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 170,
+  "price_pkr": 46999,
+  "path": "phones/oppo-a5-4g.html"
+ },
+ {
+  "slug": "oppo-a5-pro-5g",
+  "name": "Oppo A5 Pro 5G",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 202,
+  "price_pkr": 55999,
+  "path": "phones/oppo-a5-pro-5g.html"
+ },
+ {
+  "slug": "honor-x20",
+  "name": "Honor X20",
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "price": 282,
+  "price_pkr": 77999,
+  "path": "phones/honor-x20.html"
+ },
+ {
+  "slug": "vivo-iqoo-z6",
+  "name": "Vivo iQOO Z6",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/vivo-iqoo-z6.html"
+ },
+ {
+  "slug": "oppo-r11s",
+  "name": "Oppo R11s",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 506,
+  "price_pkr": 139999,
+  "path": "phones/oppo-r11s.html"
+ },
+ {
+  "slug": "oppo-r11",
+  "name": "Oppo R11",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 448,
+  "price_pkr": 123999,
+  "path": "phones/oppo-r11.html"
+ },
+ {
+  "slug": "lg-k9",
+  "name": "LG K9",
+  "brand": "LG",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/lg-k9.html",
+  "unv": 1
+ },
+ {
+  "slug": "oppo-a2x",
+  "name": "Oppo A2x",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/oppo-a2x.html"
+ },
+ {
+  "slug": "motorola-l2",
+  "name": "Motorola L2",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/motorola-l2.html",
+  "unv": 1
+ },
+ {
+  "slug": "motorola-w510",
+  "name": "Motorola W510",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 58,
+  "price_pkr": 15999,
+  "path": "phones/motorola-w510.html"
+ },
+ {
+  "slug": "lg-k20",
+  "name": "LG K20",
+  "brand": "LG",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/lg-k20.html",
+  "unv": 1
+ },
+ {
+  "slug": "huawei-nova-3",
+  "name": "Huawei Nova 3",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 390,
+  "price_pkr": 107999,
+  "path": "phones/huawei-nova-3.html"
+ },
+ {
+  "slug": "huawei-enjoy-9",
+  "name": "Huawei Enjoy 9",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/huawei-enjoy-9.html"
+ },
+ {
+  "slug": "huawei-enjoy-10+",
+  "name": "Huawei Enjoy 10+",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/huawei-enjoy-10+.html"
+ },
+ {
+  "slug": "huawei-pura-70",
+  "name": "Huawei Pura 70",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 1120,
+  "price_pkr": 309999,
+  "path": "phones/huawei-pura-70.html"
+ },
+ {
+  "slug": "nokia-lumia-520",
+  "name": "Nokia Lumia 520",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 80,
+  "price_pkr": 21999,
+  "path": "phones/nokia-lumia-520.html"
+ },
+ {
+  "slug": "samsung-galaxy-a51-5g",
+  "name": "Samsung Galaxy A51 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 199,
+  "price_pkr": 54999,
+  "path": "phones/samsung-galaxy-a51-5g.html"
+ },
+ {
+  "slug": "vivo-y51a",
+  "name": "Vivo Y51a",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/vivo-y51a.html"
+ },
+ {
+  "slug": "vivo-v3",
+  "name": "Vivo V3",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 293,
+  "price_pkr": 80999,
+  "path": "phones/vivo-v3.html"
+ },
+ {
+  "slug": "vivo-s1-pro",
+  "name": "Vivo S1 Pro",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/vivo-s1-pro.html"
+ },
+ {
+  "slug": "vivo-y20",
+  "name": "Vivo Y20",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/vivo-y20.html"
+ },
+ {
+  "slug": "vivo-y21s",
+  "name": "Vivo Y21s",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/vivo-y21s.html",
+  "unv": 1
+ },
+ {
+  "slug": "vivo-y02s",
+  "name": "Vivo Y02s",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/vivo-y02s.html"
+ },
+ {
+  "slug": "vivo-y02t",
+  "name": "Vivo Y02t",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/vivo-y02t.html",
+  "unv": 1
+ },
+ {
+  "slug": "oppo-a72-5g",
+  "name": "Oppo A72 5G",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 257,
+  "price_pkr": 70999,
+  "path": "phones/oppo-a72-5g.html"
+ },
+ {
+  "slug": "oppo-a15s",
+  "name": "Oppo A15s",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/oppo-a15s.html"
+ },
+ {
+  "slug": "huawei-10-lite",
+  "name": "Huawei 10 Lite",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-10-lite.html",
+  "unv": 1
+ },
+ {
+  "slug": "realme-9-pro+",
+  "name": "Realme 9 Pro+",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 231,
+  "price_pkr": 63999,
+  "path": "phones/realme-9-pro+.html"
+ },
+ {
+  "slug": "realme-9-pro",
+  "name": "Realme 9 Pro",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 184,
+  "price_pkr": 50999,
+  "path": "phones/realme-9-pro.html"
+ },
+ {
+  "slug": "oppo-reno8-5g",
+  "name": "Oppo Reno8 5G",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 376,
+  "price_pkr": 103999,
+  "path": "phones/oppo-reno8-5g.html"
+ },
+ {
+  "slug": "realme-12-pro-5g",
+  "name": "Realme 12 Pro 5G",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 322,
+  "price_pkr": 88999,
+  "path": "phones/realme-12-pro-5g.html"
+ },
+ {
+  "slug": "lg-q7",
+  "name": "LG Q7",
+  "brand": "LG",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/lg-q7.html"
+ },
+ {
+  "slug": "xiaomi-mi-9",
+  "name": "Xiaomi Mi 9",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 661,
+  "price_pkr": 182999,
+  "path": "phones/xiaomi-mi-9.html"
+ },
+ {
+  "slug": "huawei-nova",
+  "name": "Huawei Nova",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/huawei-nova.html"
+ },
+ {
+  "slug": "nokia-6070",
+  "name": "Nokia 6070",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 101,
+  "price_pkr": 27999,
+  "path": "phones/nokia-6070.html"
+ },
+ {
+  "slug": "nokia-5200",
+  "name": "Nokia 5200",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 90,
+  "price_pkr": 24999,
+  "path": "phones/nokia-5200.html"
+ },
+ {
+  "slug": "nokia-n95",
+  "name": "Nokia N95",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 235,
+  "price_pkr": 64999,
+  "path": "phones/nokia-n95.html"
+ },
+ {
+  "slug": "vivo-y66",
+  "name": "Vivo Y66",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/vivo-y66.html"
+ },
+ {
+  "slug": "vivo-y01",
+  "name": "Vivo Y01",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/vivo-y01.html"
+ },
+ {
+  "slug": "tecno-f1",
+  "name": "Tecno F1",
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/tecno-f1.html",
+  "unv": 1
+ },
+ {
+  "slug": "realme-5-pro",
+  "name": "Realme 5 Pro",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 481,
+  "price_pkr": 132999,
+  "path": "phones/realme-5-pro.html"
+ },
+ {
+  "slug": "oppo-a55-5g",
+  "name": "Oppo A55 5G",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/oppo-a55-5g.html"
+ },
+ {
+  "slug": "huawei-honor-9",
+  "name": "Huawei Honor 9",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-honor-9.html",
+  "unv": 1
+ },
+ {
+  "slug": "huawei-honor-10",
+  "name": "Huawei Honor 10",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-honor-10.html",
+  "unv": 1
+ },
+ {
+  "slug": "realme-narzo-50i-prime",
+  "name": "Realme Narzo 50i Prime",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 80,
+  "price_pkr": 21999,
+  "path": "phones/realme-narzo-50i-prime.html"
+ },
+ {
+  "slug": "motorola-moto-c",
+  "name": "Motorola Moto C",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/motorola-moto-c.html"
+ },
+ {
+  "slug": "lg-g4",
+  "name": "LG G4",
+  "brand": "LG",
+  "cat": "Smartphones",
+  "price": 336,
+  "price_pkr": 92999,
+  "path": "phones/lg-g4.html"
+ },
+ {
+  "slug": "xiaomi-redmi-3s",
+  "name": "Xiaomi Redmi 3s",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 134,
+  "price_pkr": 36999,
+  "path": "phones/xiaomi-redmi-3s.html"
+ },
+ {
+  "slug": "xiaomi-poco-m3",
+  "name": "Xiaomi Poco M3",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 152,
+  "price_pkr": 41999,
+  "path": "phones/xiaomi-poco-m3.html"
+ },
+ {
+  "slug": "xiaomi-mi-11-lite-5g",
+  "name": "Xiaomi Mi 11 Lite 5G",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 137,
+  "price_pkr": 37999,
+  "path": "phones/xiaomi-mi-11-lite-5g.html"
+ },
+ {
+  "slug": "huawei-y5ii",
+  "name": "Huawei Y5II",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/huawei-y5ii.html"
+ },
+ {
+  "slug": "nokia-2690",
+  "name": "Nokia 2690",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 58,
+  "price_pkr": 15999,
+  "path": "phones/nokia-2690.html"
+ },
+ {
+  "slug": "samsung-galaxy-a50s",
+  "name": "Samsung Galaxy A50s",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 325,
+  "price_pkr": 89999,
+  "path": "phones/samsung-galaxy-a50s.html"
+ },
+ {
+  "slug": "huawei-mate-80",
+  "name": "Huawei Mate 80",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 788,
+  "price_pkr": 217999,
+  "path": "phones/huawei-mate-80.html"
+ },
+ {
+  "slug": "vivo-y15c",
+  "name": "Vivo Y15c",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 116,
+  "price_pkr": 31999,
+  "path": "phones/vivo-y15c.html"
+ },
+ {
+  "slug": "tecno-pop-5",
+  "name": "Tecno Pop 5",
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "price": 80,
+  "price_pkr": 21999,
+  "path": "phones/tecno-pop-5.html"
+ },
+ {
+  "slug": "tecno-spark-10",
+  "name": "Tecno Spark 10",
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "price": 155,
+  "price_pkr": 42999,
+  "path": "phones/tecno-spark-10.html"
+ },
+ {
+  "slug": "vivo-x60",
+  "name": "Vivo X60",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 314,
+  "price_pkr": 86999,
+  "path": "phones/vivo-x60.html"
+ },
+ {
+  "slug": "oppo-a91",
+  "name": "Oppo A91",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/oppo-a91.html"
+ },
+ {
+  "slug": "lg-k7",
+  "name": "LG K7",
+  "brand": "LG",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/lg-k7.html"
+ },
+ {
+  "slug": "realme-5i",
+  "name": "Realme 5i",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 192,
+  "price_pkr": 52999,
+  "path": "phones/realme-5i.html"
+ },
+ {
+  "slug": "realme-7i",
+  "name": "Realme 7i",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 202,
+  "price_pkr": 55999,
+  "path": "phones/realme-7i.html"
+ },
+ {
+  "slug": "oppo-a16k",
+  "name": "Oppo A16k",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 614,
+  "price_pkr": 169999,
+  "path": "phones/oppo-a16k.html"
+ },
+ {
+  "slug": "oppo-a76",
+  "name": "Oppo A76",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 173,
+  "price_pkr": 47999,
+  "path": "phones/oppo-a76.html"
+ },
+ {
+  "slug": "realme-pad-mini",
+  "name": "Realme Pad Mini",
+  "brand": "Realme",
+  "cat": "Tablets",
+  "price": 202,
+  "price_pkr": 55999,
+  "path": "tablets/realme-pad-mini.html"
+ },
+ {
+  "slug": "motorola-moto-g7-power",
+  "name": "Motorola Moto G7 Power",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/motorola-moto-g7-power.html"
+ },
+ {
+  "slug": "lg-v10",
+  "name": "LG V10",
+  "brand": "LG",
+  "cat": "Smartphones",
+  "price": 282,
+  "price_pkr": 77999,
+  "path": "phones/lg-v10.html"
+ },
+ {
+  "slug": "xiaomi-redmi-3",
+  "name": "Xiaomi Redmi 3",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 181,
+  "price_pkr": 49999,
+  "path": "phones/xiaomi-redmi-3.html"
+ },
+ {
+  "slug": "xiaomi-poco-x3-pro",
+  "name": "Xiaomi Poco X3 Pro",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 181,
+  "price_pkr": 49999,
+  "path": "phones/xiaomi-poco-x3-pro.html"
+ },
+ {
+  "slug": "huawei-y3ii",
+  "name": "Huawei Y3II",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 90,
+  "price_pkr": 24999,
+  "path": "phones/huawei-y3ii.html"
+ },
+ {
+  "slug": "huawei-p-smart-2021",
+  "name": "Huawei P Smart 2021",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 257,
+  "price_pkr": 70999,
+  "path": "phones/huawei-p-smart-2021.html"
+ },
+ {
+  "slug": "nokia-5300",
+  "name": "Nokia 5300",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/nokia-5300.html"
+ },
+ {
+  "slug": "nokia-5233",
+  "name": "Nokia 5233",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/nokia-5233.html"
+ },
+ {
+  "slug": "nokia-x2-01",
+  "name": "Nokia X2-01",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 58,
+  "price_pkr": 15999,
+  "path": "phones/nokia-x2-01.html"
+ },
+ {
+  "slug": "nokia-c2-01",
+  "name": "Nokia C2-01",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 80,
+  "price_pkr": 21999,
+  "path": "phones/nokia-c2-01.html"
+ },
+ {
+  "slug": "samsung-galaxy-m31",
+  "name": "Samsung Galaxy M31",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 347,
+  "price_pkr": 95999,
+  "path": "phones/samsung-galaxy-m31.html"
+ },
+ {
+  "slug": "samsung-galaxy-z-fold2-5g",
+  "name": "Samsung Galaxy Z Fold2 5G",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 1077,
+  "price_pkr": 297999,
+  "path": "phones/samsung-galaxy-z-fold2-5g.html"
+ },
+ {
+  "slug": "samsung-galaxy-m02",
+  "name": "Samsung Galaxy M02",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 90,
+  "price_pkr": 24999,
+  "path": "phones/samsung-galaxy-m02.html"
+ },
+ {
+  "slug": "itel-a100c",
+  "name": "Itel A100c",
+  "brand": "Itel",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/itel-a100c.html"
+ },
+ {
+  "slug": "xiaomi-note-8",
+  "name": "Xiaomi Note 8",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/xiaomi-note-8.html",
+  "unv": 1
+ },
+ {
+  "slug": "xiaomi-note-10",
+  "name": "Xiaomi Note 10",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/xiaomi-note-10.html",
+  "unv": 1
+ },
+ {
+  "slug": "tecno-spark-go-2020",
+  "name": "Tecno Spark Go 2020",
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "price": 90,
+  "price_pkr": 24999,
+  "path": "phones/tecno-spark-go-2020.html"
+ },
+ {
+  "slug": "vivo-y83",
+  "name": "Vivo Y83",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 282,
+  "price_pkr": 77999,
+  "path": "phones/vivo-y83.html"
+ },
+ {
+  "slug": "vivo-y03",
+  "name": "Vivo Y03",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 90,
+  "price_pkr": 24999,
+  "path": "phones/vivo-y03.html"
+ },
+ {
+  "slug": "realme-c15-(qualcomm-edition)",
+  "name": "Realme C15 (QUALCOMM EDITION)",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/realme-c15-(qualcomm-edition).html"
+ },
+ {
+  "slug": "honor-play-9a",
+  "name": "Honor Play 9a",
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "price": 134,
+  "price_pkr": 36999,
+  "path": "phones/honor-play-9a.html"
+ },
+ {
+  "slug": "motorola-moto-g7-play",
+  "name": "Motorola Moto G7 Play",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 181,
+  "price_pkr": 49999,
+  "path": "phones/motorola-moto-g7-play.html"
+ },
+ {
+  "slug": "xiaomi-redmi-1s",
+  "name": "Xiaomi Redmi 1s",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 101,
+  "price_pkr": 27999,
+  "path": "phones/xiaomi-redmi-1s.html"
+ },
+ {
+  "slug": "xiaomi-redmi-5",
+  "name": "Xiaomi Redmi 5",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 181,
+  "price_pkr": 49999,
+  "path": "phones/xiaomi-redmi-5.html"
+ },
+ {
+  "slug": "nokia-5100",
+  "name": "Nokia 5100",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/nokia-5100.html",
+  "unv": 1
+ },
+ {
+  "slug": "nokia-7250",
+  "name": "Nokia 7250",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/nokia-7250.html",
+  "unv": 1
+ },
+ {
+  "slug": "nokia-6120-classic",
+  "name": "Nokia 6120 Classic",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/nokia-6120-classic.html"
+ },
+ {
+  "slug": "nokia-2760",
+  "name": "Nokia 2760",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 69,
+  "price_pkr": 18999,
+  "path": "phones/nokia-2760.html"
+ },
+ {
+  "slug": "samsung-galaxy-s20",
+  "name": "Samsung Galaxy S20",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 249,
+  "price_pkr": 68999,
+  "path": "phones/samsung-galaxy-s20.html"
+ },
+ {
+  "slug": "siemens-s6",
+  "name": "Siemens S6",
+  "brand": "Siemens",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/siemens-s6.html",
+  "unv": 1
+ },
+ {
+  "slug": "vivo-y33s",
+  "name": "Vivo Y33s",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 235,
+  "price_pkr": 64999,
+  "path": "phones/vivo-y33s.html"
+ },
+ {
+  "slug": "vivo-y81",
+  "name": "Vivo Y81",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 202,
+  "price_pkr": 55999,
+  "path": "phones/vivo-y81.html"
+ },
+ {
+  "slug": "oppo-neo-7",
+  "name": "Oppo Neo 7",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 155,
+  "price_pkr": 42999,
+  "path": "phones/oppo-neo-7.html"
+ },
+ {
+  "slug": "oppo-f1s",
+  "name": "Oppo F1s",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 166,
+  "price_pkr": 45999,
+  "path": "phones/oppo-f1s.html"
+ },
+ {
+  "slug": "oppo-a35",
+  "name": "Oppo A35",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/oppo-a35.html",
+  "unv": 1
+ },
+ {
+  "slug": "oppo-reno6-pro-5g",
+  "name": "Oppo Reno6 Pro 5G",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 369,
+  "price_pkr": 101999,
+  "path": "phones/oppo-reno6-pro-5g.html"
+ },
+ {
+  "slug": "realme-8-5g",
+  "name": "Realme 8 5G",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/realme-8-5g.html"
+ },
+ {
+  "slug": "realme-10-pro-5g",
+  "name": "Realme 10 Pro 5G",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 152,
+  "price_pkr": 41999,
+  "path": "phones/realme-10-pro-5g.html"
+ },
+ {
+  "slug": "xiaomi-mi-3",
+  "name": "Xiaomi Mi 3",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/xiaomi-mi-3.html"
+ },
+ {
+  "slug": "xiaomi-mi-8",
+  "name": "Xiaomi Mi 8",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 481,
+  "price_pkr": 132999,
+  "path": "phones/xiaomi-mi-8.html"
+ },
+ {
+  "slug": "xiaomi-mi-8-lite",
+  "name": "Xiaomi Mi 8 Lite",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 405,
+  "price_pkr": 111999,
+  "path": "phones/xiaomi-mi-8-lite.html"
+ },
+ {
+  "slug": "huawei-nova-7-pro-5g",
+  "name": "Huawei Nova 7 Pro 5G",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 538,
+  "price_pkr": 148999,
+  "path": "phones/huawei-nova-7-pro-5g.html"
+ },
+ {
+  "slug": "huawei-p9-lite",
+  "name": "Huawei P9 Lite",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 235,
+  "price_pkr": 64999,
+  "path": "phones/huawei-p9-lite.html"
+ },
+ {
+  "slug": "huawei-nova-3i",
+  "name": "Huawei Nova 3i",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 246,
+  "price_pkr": 67999,
+  "path": "phones/huawei-nova-3i.html"
+ },
+ {
+  "slug": "nokia-7230",
+  "name": "Nokia 7230",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 90,
+  "price_pkr": 24999,
+  "path": "phones/nokia-7230.html"
+ },
+ {
+  "slug": "nokia-5800-xpressmusic",
+  "name": "Nokia 5800 Xpressmusic",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/nokia-5800-xpressmusic.html"
+ },
+ {
+  "slug": "nokia-c5-03",
+  "name": "Nokia C5-03",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/nokia-c5-03.html"
+ },
+ {
+  "slug": "nokia-asha-200",
+  "name": "Nokia Asha 200",
+  "brand": "Nokia",
+  "cat": "Smartphones",
+  "price": 58,
+  "price_pkr": 15999,
+  "path": "phones/nokia-asha-200.html"
+ },
+ {
+  "slug": "samsung-galaxy-note-pro-12.2",
+  "name": "Samsung Galaxy Note Pro 12.2",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 604,
+  "price_pkr": 166999,
+  "path": "phones/samsung-galaxy-note-pro-12.2.html"
+ },
+ {
+  "slug": "samsung-galaxy-m42",
+  "name": "Samsung Galaxy M42",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": 246,
+  "price_pkr": 67999,
+  "path": "phones/samsung-galaxy-m42.html"
+ },
+ {
+  "slug": "itel-a100",
+  "name": "Itel A100",
+  "brand": "Itel",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/itel-a100.html",
+  "unv": 1
+ },
+ {
+  "slug": "redmi-note-15",
+  "name": "Redmi Note 15",
+  "brand": "Redmi",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/redmi-note-15.html",
+  "unv": 1
+ },
+ {
+  "slug": "vivo-y53s",
+  "name": "Vivo Y53s",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 257,
+  "price_pkr": 70999,
+  "path": "phones/vivo-y53s.html"
+ },
+ {
+  "slug": "huawei-honor-5x",
+  "name": "Huawei Honor 5x",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-honor-5x.html",
+  "unv": 1
+ },
+ {
+  "slug": "oppo-a16s",
+  "name": "Oppo A16s",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 123,
+  "price_pkr": 33999,
+  "path": "phones/oppo-a16s.html"
+ },
+ {
   "slug": "infinix-hot-70",
   "name": "Infinix Hot 70",
   "brand": "Infinix",

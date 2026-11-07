@@ -3031,10 +3031,9 @@
   "name": "Xiaomi 9",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/xiaomi-9.html",
-  "unv": 1
+  "price": 661,
+  "price_pkr": 182999,
+  "path": "phones/xiaomi-9.html"
  },
  {
   "slug": "samsung-galaxy-s9",
@@ -3277,10 +3276,9 @@
   "name": "Xiaomi 9a",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/xiaomi-9a.html",
-  "unv": 1
+  "price": 69,
+  "price_pkr": 18999,
+  "path": "phones/xiaomi-9a.html"
  },
  {
   "slug": "samsung-galaxy-s8",
@@ -3572,16 +3570,6 @@
   "path": "phones/samsung-galaxy-j6.html"
  },
  {
-  "slug": "xiaomi-7",
-  "name": "Xiaomi 7",
-  "brand": "Xiaomi",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/xiaomi-7.html",
-  "unv": 1
- },
- {
   "slug": "samsung-galaxy-a02",
   "name": "Samsung Galaxy A02",
   "brand": "Samsung",
@@ -3639,10 +3627,10 @@
   "slug": "siemens-c25",
   "name": "Siemens C25",
   "brand": "Siemens",
-  "cat": "Smartphones",
+  "cat": "Keypad Phones",
   "price": null,
   "price_pkr": null,
-  "path": "phones/siemens-c25.html",
+  "path": "keypad/siemens-c25.html",
   "unv": 1
  },
  {
@@ -3668,10 +3656,9 @@
   "name": "Redmi Note 12",
   "brand": "Redmi",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/redmi-note-12.html",
-  "unv": 1
+  "price": 112,
+  "price_pkr": 30999,
+  "path": "phones/redmi-note-12.html"
  },
  {
   "slug": "nokia-c3",

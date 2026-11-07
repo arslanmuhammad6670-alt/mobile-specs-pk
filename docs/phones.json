@@ -3182,6 +3182,16 @@
   "path": "phones/samsung-galaxy-a53-5g.html"
  },
  {
+  "slug": "realme-14x-5g",
+  "name": "Realme 14x 5G",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/realme-14x-5g.html",
+  "unv": 1
+ },
+ {
   "slug": "samsung-galaxy-s7-edge",
   "name": "Samsung Galaxy S7 Edge",
   "brand": "Samsung",
@@ -3453,6 +3463,16 @@
   "path": "phones/samsung-galaxy-grand-neo.html"
  },
  {
+  "slug": "samsung-galaxy-note-2",
+  "name": "Samsung Galaxy Note 2",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-note-2.html",
+  "unv": 1
+ },
+ {
   "slug": "samsung-galaxy-a14-5g",
   "name": "Samsung Galaxy A14 5G",
   "brand": "Samsung",
@@ -3697,6 +3717,16 @@
   "price": 119,
   "price_pkr": 32999,
   "path": "phones/samsung-galaxy-a04e.html"
+ },
+ {
+  "slug": "apple-iphone-se-(2nd-gen)",
+  "name": "Apple iPhone SE (2ND GEN)",
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/apple-iphone-se-(2nd-gen).html",
+  "unv": 1
  },
  {
   "slug": "samsung-galaxy-j7-duo",
@@ -3960,6 +3990,16 @@
   "path": "phones/samsung-galaxy-a52-5g.html"
  },
  {
+  "slug": "samsung-galaxy-grand",
+  "name": "Samsung Galaxy Grand",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-grand.html",
+  "unv": 1
+ },
+ {
   "slug": "samsung-galaxy-s6-edge",
   "name": "Samsung Galaxy S6 Edge",
   "brand": "Samsung",
@@ -3985,6 +4025,16 @@
   "price": 170,
   "price_pkr": 46999,
   "path": "phones/samsung-galaxy-note-5.html"
+ },
+ {
+  "slug": "samsung-galaxy-s3-mini",
+  "name": "Samsung Galaxy S3 Mini",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-s3-mini.html",
+  "unv": 1
  },
  {
   "slug": "xiaomi-7a",
@@ -4172,6 +4222,26 @@
   "path": "phones/xiaomi-redmi-note-4.html"
  },
  {
+  "slug": "samsung-galaxy-grand-primeplus",
+  "name": "Samsung Galaxy Grand Primeplus",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-grand-primeplus.html",
+  "unv": 1
+ },
+ {
+  "slug": "samsung-galaxy-s2",
+  "name": "Samsung Galaxy S2",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-s2.html",
+  "unv": 1
+ },
+ {
   "slug": "oppo-r9s",
   "name": "Oppo R9s",
   "brand": "Oppo",
@@ -4245,6 +4315,16 @@
   "path": "phones/samsung-galaxy-note-3.html"
  },
  {
+  "slug": "realme-c100-4g",
+  "name": "Realme C100 4G",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/realme-c100-4g.html",
+  "unv": 1
+ },
+ {
   "slug": "realme-c31",
   "name": "Realme C31",
   "brand": "Realme",
@@ -4315,6 +4395,16 @@
   "price": 80,
   "price_pkr": 21999,
   "path": "phones/realme-c30.html"
+ },
+ {
+  "slug": "xiaomi-10c",
+  "name": "Xiaomi 10c",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/xiaomi-10c.html",
+  "unv": 1
  },
  {
   "slug": "realme-c53",
@@ -4421,6 +4511,16 @@
   "unv": 1
  },
  {
+  "slug": "oppo-r9",
+  "name": "Oppo R9",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/oppo-r9.html",
+  "unv": 1
+ },
+ {
   "slug": "realme-12-pro+-5g",
   "name": "Realme 12 PRO+ 5G",
   "brand": "Realme",
@@ -4504,6 +4604,26 @@
   "price": 123,
   "price_pkr": 33999,
   "path": "phones/samsung-galaxy-j3-(2017).html"
+ },
+ {
+  "slug": "samsung-galaxy-j7-neo",
+  "name": "Samsung Galaxy J7 Neo",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-j7-neo.html",
+  "unv": 1
+ },
+ {
+  "slug": "realme-c100x",
+  "name": "Realme C100x",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/realme-c100x.html",
+  "unv": 1
  },
  {
   "slug": "realme-c21",
@@ -4604,6 +4724,16 @@
   "price": 784,
   "price_pkr": 216999,
   "path": "phones/samsung-galaxy-note10+-5g.html"
+ },
+ {
+  "slug": "realme-note-80",
+  "name": "Realme Note 80",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/realme-note-80.html",
+  "unv": 1
  },
  {
   "slug": "realme-c35",
@@ -4823,6 +4953,16 @@
   "path": "phones/samsung-galaxy-m34-5g.html"
  },
  {
+  "slug": "tecno-pop-8-spark-go-2024",
+  "name": "Tecno Pop 8-SPARK Go 2024",
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/tecno-pop-8-spark-go-2024.html",
+  "unv": 1
+ },
+ {
   "slug": "vivo-y15s",
   "name": "Vivo Y15s",
   "brand": "Vivo",
@@ -4866,6 +5006,36 @@
   "price": 58,
   "price_pkr": 15999,
   "path": "phones/nokia-c1-01.html"
+ },
+ {
+  "slug": "samsung-galaxy-s3-neo",
+  "name": "Samsung Galaxy S3 Neo",
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/samsung-galaxy-s3-neo.html",
+  "unv": 1
+ },
+ {
+  "slug": "xiaomi-note-9-(2020)",
+  "name": "Xiaomi Note 9 (2020)",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/xiaomi-note-9-(2020).html",
+  "unv": 1
+ },
+ {
+  "slug": "xiaomi-redmi-4x",
+  "name": "Xiaomi Redmi 4x",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/xiaomi-redmi-4x.html",
+  "unv": 1
  },
  {
   "slug": "honor-x70",
@@ -5087,6 +5257,16 @@
   "price": 202,
   "price_pkr": 55999,
   "path": "phones/samsung-galaxy-j7-nxt.html"
+ },
+ {
+  "slug": "asus-zenfone-go",
+  "name": "Asus Zenfone Go",
+  "brand": "Asus",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/asus-zenfone-go.html",
+  "unv": 1
  },
  {
   "slug": "oppo-a55",
@@ -7106,171 +7286,6 @@
   "price": 123,
   "price_pkr": 33999,
   "path": "phones/realme-8-5g.html"
- },
- {
-  "slug": "realme-10-pro-5g",
-  "name": "Realme 10 Pro 5G",
-  "brand": "Realme",
-  "cat": "Smartphones",
-  "price": 152,
-  "price_pkr": 41999,
-  "path": "phones/realme-10-pro-5g.html"
- },
- {
-  "slug": "xiaomi-mi-3",
-  "name": "Xiaomi Mi 3",
-  "brand": "Xiaomi",
-  "cat": "Smartphones",
-  "price": 224,
-  "price_pkr": 61999,
-  "path": "phones/xiaomi-mi-3.html"
- },
- {
-  "slug": "xiaomi-mi-8",
-  "name": "Xiaomi Mi 8",
-  "brand": "Xiaomi",
-  "cat": "Smartphones",
-  "price": 481,
-  "price_pkr": 132999,
-  "path": "phones/xiaomi-mi-8.html"
- },
- {
-  "slug": "xiaomi-mi-8-lite",
-  "name": "Xiaomi Mi 8 Lite",
-  "brand": "Xiaomi",
-  "cat": "Smartphones",
-  "price": 405,
-  "price_pkr": 111999,
-  "path": "phones/xiaomi-mi-8-lite.html"
- },
- {
-  "slug": "huawei-nova-7-pro-5g",
-  "name": "Huawei Nova 7 Pro 5G",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": 538,
-  "price_pkr": 148999,
-  "path": "phones/huawei-nova-7-pro-5g.html"
- },
- {
-  "slug": "huawei-p9-lite",
-  "name": "Huawei P9 Lite",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": 235,
-  "price_pkr": 64999,
-  "path": "phones/huawei-p9-lite.html"
- },
- {
-  "slug": "huawei-nova-3i",
-  "name": "Huawei Nova 3i",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": 246,
-  "price_pkr": 67999,
-  "path": "phones/huawei-nova-3i.html"
- },
- {
-  "slug": "nokia-7230",
-  "name": "Nokia 7230",
-  "brand": "Nokia",
-  "cat": "Smartphones",
-  "price": 90,
-  "price_pkr": 24999,
-  "path": "phones/nokia-7230.html"
- },
- {
-  "slug": "nokia-5800-xpressmusic",
-  "name": "Nokia 5800 Xpressmusic",
-  "brand": "Nokia",
-  "cat": "Smartphones",
-  "price": 145,
-  "price_pkr": 39999,
-  "path": "phones/nokia-5800-xpressmusic.html"
- },
- {
-  "slug": "nokia-c5-03",
-  "name": "Nokia C5-03",
-  "brand": "Nokia",
-  "cat": "Smartphones",
-  "price": 112,
-  "price_pkr": 30999,
-  "path": "phones/nokia-c5-03.html"
- },
- {
-  "slug": "nokia-asha-200",
-  "name": "Nokia Asha 200",
-  "brand": "Nokia",
-  "cat": "Smartphones",
-  "price": 58,
-  "price_pkr": 15999,
-  "path": "phones/nokia-asha-200.html"
- },
- {
-  "slug": "samsung-galaxy-note-pro-12.2",
-  "name": "Samsung Galaxy Note Pro 12.2",
-  "brand": "Samsung",
-  "cat": "Smartphones",
-  "price": 604,
-  "price_pkr": 166999,
-  "path": "phones/samsung-galaxy-note-pro-12.2.html"
- },
- {
-  "slug": "samsung-galaxy-m42",
-  "name": "Samsung Galaxy M42",
-  "brand": "Samsung",
-  "cat": "Smartphones",
-  "price": 246,
-  "price_pkr": 67999,
-  "path": "phones/samsung-galaxy-m42.html"
- },
- {
-  "slug": "itel-a100",
-  "name": "Itel A100",
-  "brand": "Itel",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/itel-a100.html",
-  "unv": 1
- },
- {
-  "slug": "redmi-note-15",
-  "name": "Redmi Note 15",
-  "brand": "Redmi",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/redmi-note-15.html",
-  "unv": 1
- },
- {
-  "slug": "vivo-y53s",
-  "name": "Vivo Y53s",
-  "brand": "Vivo",
-  "cat": "Smartphones",
-  "price": 257,
-  "price_pkr": 70999,
-  "path": "phones/vivo-y53s.html"
- },
- {
-  "slug": "huawei-honor-5x",
-  "name": "Huawei Honor 5x",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/huawei-honor-5x.html",
-  "unv": 1
- },
- {
-  "slug": "oppo-a16s",
-  "name": "Oppo A16s",
-  "brand": "Oppo",
-  "cat": "Smartphones",
-  "price": 123,
-  "price_pkr": 33999,
-  "path": "phones/oppo-a16s.html"
  },
  {
   "slug": "infinix-hot-70",

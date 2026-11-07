@@ -126,6 +126,8 @@ async function analyse(){
   const brand=DB.tac.brands[e[1]];
   let model=DB.tac.models[e[2]];
   if(model===model.toUpperCase()) model=model.toLowerCase().replace(/\b\w/g,c=>c.toUpperCase()).replace(/(\d)G\b/g,'$1G').replace(/\bLte\b/g,'LTE').replace(/\bSe\b/g,'SE').replace(/\bXr\b/g,'XR').replace(/\bXs\b/g,'XS');
+  const bN=brand.trim().toLowerCase(), mN=model.trim().toLowerCase();
+  const dispName = (mN===bN) ? brand : ((mN.startsWith(bN+' ')||mN.startsWith(bN+'-')) ? model : (brand+' '+model));
   const slug = e[3]>=0 ? DB.tac.phones[e[3]] : null;
   const p = slug ? DB.bySlug[slug] : null;
   if(p){
@@ -144,7 +146,7 @@ async function analyse(){
     }
   } else {
     const xs=DB.ext ? DB.ext[e[2]] : null;
-    html+='<div class="dev-head"><div><div class="cat">Identified Model</div><h2>'+esc(brand)+' '+esc(model)+'</h2>'
+    html+='<div class="dev-head"><div><div class="cat">Identified Model</div><h2>'+esc(dispName)+'</h2>'
         + '<p class="note">Identified from TAC '+tac+' · Full specifications below, checked by Check Specs.</p></div></div>';
     if(xs){
       html+='<h2 class="sec">Full Specifications</h2><table>';

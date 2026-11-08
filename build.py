@@ -181,7 +181,19 @@ if os.path.exists(_pf):
 # or the China CNY price at the day's CNY/PKR rate — owner order 2026-11-06
 # for the Enjoy 100 series + OnePlus 15T: CNY x 41.48); display it
 # labelled "Expected" everywhere the PKR price appears. ----
-EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide-5g", "huawei-enjoy-100", "huawei-enjoy-100-pro", "huawei-enjoy-100-pro-max", "oneplus-15t-5g", "redmi-15-5g"}
+EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide-5g", "huawei-enjoy-100", "huawei-enjoy-100-pro", "huawei-enjoy-100-pro-max", "oneplus-15t-5g", "redmi-15-5g",
+    # nightly 2026-11-09 (24 agent-flagged Expected + 3 Tab S8-series, never
+    # officially launched in Pakistan; S8/S8+ now carry MobileInto PK expected
+    # prices, S8 Ultra keeps its EUR conversion — see memory 2026-11-09)
+    "samsung-galaxy-tab-s8", "samsung-galaxy-tab-s8+", "samsung-galaxy-tab-s8-ultra",
+    "xiaomi-14-pro", "redmi-k80", "xiaomi-redmi-k90-5g", "poco-f7",
+    "oneplus-nord-5-5g", "oneplus-ace-6-5g", "oneplus-15r-5g",
+    "huawei-nova-15-5g", "huawei-nova-15-pro-5g", "huawei-nova-15-ultra-5g",
+    "oneplus-pad-lite", "oneplus-pad-3", "oneplus-ace-5-racing-5g", "huawei-mate-x7-5g",
+    "google-pixel-10-pro-xl-5g", "nothing-phone-3-5g", "realme-gt-8-pro-5g-(china)",
+    "vivo-iqoo-15t-5g", "oppo-reno16-pro-5g-(china)", "infinix-gt-30-5g",
+    "apple-ipad-pro-12-9-(2022)", "nothing-phone-3a-pro-5g",
+    "hmd-pulse", "motorola-edge-70"}
 for _d in ALL:
     _d["price_expected"] = _d["slug"] in EXPECTED_SLUGS
 

@@ -52,10 +52,22 @@ async function initCompare(){
   document.getElementById('cmpHead').innerHTML=`<tr><th></th><th>${a.name}</th><th>${b.name}</th></tr>`;}
  selA.onchange=render;selB.onchange=render;render();}
 document.addEventListener('DOMContentLoaded',initCompare);
-function initFilters(){const grid=document.getElementById('catgrid');if(!grid)return;const fb=document.getElementById('fbrand'),fs=document.getElementById('fsort'),fc=document.getElementById('fcount');const cards=[...grid.children];
- function apply(){const b=fb.value;let vis=cards.filter(c=>!b||c.dataset.brand===b);const s=fs.value;const pv=c=>parseFloat(c.dataset.price)||Infinity;const arr=[...grid.children];
-  arr.forEach(c=>c.style.display=vis.includes(c)?'':'none');
-  const sorted=[...vis].sort((x,y)=>s==='plo'?pv(x)-pv(y):s==='phi'?pv(y)-pv(x):s==='az'?x.dataset.name.localeCompare(y.dataset.name):(parseInt(y.dataset.year)||0)-(parseInt(x.dataset.year)||0));
-  sorted.forEach(c=>grid.appendChild(c));if(fc)fc.textContent=vis.length+' models';}
- fb.addEventListener('change',apply);fs.addEventListener('change',apply);apply();}
-document.addEventListener('DOMContentLoaded',initFilters);
+function _sortCmp(s){const pv=c=>{const v=parseFloat(c.dataset.price);return isNaN(v)?null:v};const yv=c=>parseInt(c.dataset.year)||0;const nm=c=>(c.dataset.name||'');
+ return function(x,y){if(s==='az')return nm(x).localeCompare(nm(y));if(s==='za')return nm(y).localeCompare(nm(x));
+  if(s==='plo'||s==='phi'){const a=pv(x),b=pv(y);if(a===null&&b===null)return 0;if(a===null)return 1;if(b===null)return -1;return s==='plo'?a-b:b-a}
+  if(s==='new'||s==='old'){const a=yv(x),b=yv(y);if(a===0&&b===0)return 0;if(a===0)return 1;if(b===0)return -1;return s==='new'?b-a:a-b}
+  return 0}}
+function initSortZones(){document.querySelectorAll('.sortzone').forEach(zone=>{const grid=zone.querySelector('.sortgrid');if(!grid)return;const fb=zone.querySelector('.fbrand'),fs=zone.querySelector('.fsort'),fc=zone.querySelector('.fcount');const cards=[...grid.children];
+ function apply(){const b=fb?fb.value:'';const vis=cards.filter(c=>!b||c.dataset.brand===b);const s=fs?fs.value:'def';
+  cards.forEach(c=>c.style.display=vis.includes(c)?'':'none');
+  const ordered=s==='def'?[...vis]:[...vis].sort(_sortCmp(s));
+  ordered.forEach(c=>grid.appendChild(c));if(fc)fc.textContent=vis.length+' models';}
+ if(fb)fb.addEventListener('change',apply);if(fs)fs.addEventListener('change',apply);apply();});}
+document.addEventListener('DOMContentLoaded',initSortZones);
+function initAzSort(){const sel=document.getElementById('azsort');if(!sel)return;const secs=[];document.querySelectorAll('.azlist').forEach(l=>{secs.push({list:l,head:l.previousElementSibling,rows:[...l.children]})});if(!secs.length)return;const chips=document.querySelector('.azchips');const host=secs[0].list;
+ function apply(){const s=sel.value;secs.forEach(sc=>{sc.rows.forEach(r=>sc.list.appendChild(r));sc.list.style.display='';if(sc.head)sc.head.style.display=''});if(chips)chips.style.display='';
+  if(s==='def'||s==='az')return;
+  const sorted=secs.flatMap(sc=>sc.rows).sort(_sortCmp(s));sorted.forEach(r=>host.appendChild(r));
+  secs.forEach(sc=>{if(sc.head)sc.head.style.display='none';if(sc.list!==host)sc.list.style.display='none'});if(chips)chips.style.display='none';}
+ sel.addEventListener('change',apply);}
+document.addEventListener('DOMContentLoaded',initAzSort);

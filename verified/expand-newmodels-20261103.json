@@ -1,0 +1,510 @@
+[
+ {
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" LTPO AMOLED 120Hz",
+   "Snapdragon 8 Elite Extreme Gen 6",
+   "12 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Motorola Signature 27",
+  "price": 441999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 22 September 2026, fully launched 5 November 2026; available 16 November 2026)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G; 5G SA/NSA/Sub6"
+   ],
+   [
+    "Body",
+    "162.01 x 77.04 x 7.99 mm, 227 g; aluminum frame, ceramic and glass build with Gorilla Glass Ceramic 3; Nano-SIM + Nano-SIM; IP68/IP69 dust and water resistant; MIL-STD-810H compliant"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED (Extreme AMOLED Duo, tandem), 1B colors, 120Hz, Dolby Vision, HDR10+, 12,000 nits (peak); 6.78 inches; 1264 x 2780 pixels; Corning Gorilla Glass Ceramic 3"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8975 Snapdragon 8 Elite Extreme Gen 6 (2 nm); CPU Octa-core (2x5.01 GHz Prime + 3x4.03 GHz Performance + 3x3.74 GHz Performance); GPU Adreno 850"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB (UFS 4.1); no card slot"
+   ],
+   [
+    "Main Camera",
+    "50 MP (wide), Sony Lytia 910, f/1.6, PDAF, OIS + 200 MP (periscope telephoto), PDAF, OIS, 3x optical zoom, up to 100x Super Zoom Pro + 50 MP f/2.0 ultrawide, PDAF; Dual-LED flash, HDR, panorama; video 8K@30fps (Dolby Vision), 4K@30/60fps (Dolby Vision), 4K@120fps, 1080p@30/60/120/240fps"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP f/2.0 (wide), dual-pixel PDAF; HDR; video 4K@30/60fps, 1080p@30/60/120/240fps"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7000 mAh"
+   ],
+   [
+    "Charging",
+    "90W wired; 50W wireless; 5W reverse wireless; 4.5W reverse wired"
+   ],
+   [
+    "Operating System",
+    "Android 17, up to 7 major OS updates"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass; dedicated EVS action sensor; stereo speakers with Dolby Atmos, Sound by Bang & Olufsen; NFC; UWB support; Wi-Fi 8; USB Type-C 3.1 Gen2, DisplayPort 1.4"
+   ],
+   [
+    "Colors",
+    "Pantone: Coal Smoke, Capulet Olive"
+   ]
+  ],
+  "slug": "motorola-signature-27-5g",
+  "source": "https://www.gsmarena.com/motorola_signature_27_5g-14955.php",
+  "tag": "Motorola ka naya flagship, 200MP periscope zoom aur 7000 mAh battery ke sath",
+  "year": 2026
+ },
+ {
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "hl": [
+   "6.67\" IPS LCD 120Hz",
+   "MediaTek Dimensity 6300",
+   "4 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Motorola Moto G47 Power",
+  "price": 105299,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 27 October 2026, released 27 October 2026)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G; 5G SA/NSA"
+   ],
+   [
+    "Body",
+    "166.2 x 76.5 x 8.9 mm, 215 g; glass front (Gorilla Glass 7i), plastic frame, plastic back or silicone polymer (eco leather) back; Nano-SIM + Nano-SIM; IP64 dust tight and water resistant; MIL-STD-810H compliant"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 1050 nits (HBM); 6.67 inches; 720 x 1604 pixels; Corning Gorilla Glass 7i"
+   ],
+   [
+    "Chipset",
+    "MediaTek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "128 GB (UFS 2.2); microSDXC card slot"
+   ],
+   [
+    "Main Camera",
+    "108 MP f/1.7 (wide), PDAF + 2 MP (macro); LED flash, HDR, panorama; video 1440p@30fps, 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP f/2.0 (wide); video 1440p@30fps, 1080p@30fps"
+   ],
+   [
+    "Battery",
+    "7000 mAh"
+   ],
+   [
+    "Charging",
+    "30W wired; 6W reverse wired"
+   ],
+   [
+    "Operating System",
+    "Android 16"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass; stereo speakers with Dolby Atmos; 3.5mm jack; NFC (market/region dependent); USB Type-C 2.0"
+   ],
+   [
+    "Colors",
+    "Pantone: Capri, Impenetrable, Nautical Blue"
+   ]
+  ],
+  "slug": "motorola-moto-g47-power",
+  "source": "https://www.gsmarena.com/motorola_moto_g47_power-15023.php",
+  "tag": "7000 mAh battery wala budget phone — 108MP camera aur 120Hz display ke sath",
+  "year": 2026
+ },
+ {
+  "brand": "Nokia",
+  "cat": "Keypad Phones",
+  "hl": [
+   "2.8\" TFT display",
+   "Dual display + SOS button",
+   "1450 mAh removable battery"
+  ],
+  "name": "Nokia 2360 Flip",
+  "price": 15499,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 30 October 2026, released 2 November 2026)"
+   ],
+   [
+    "Network",
+    "GSM (2G only); GPRS, EDGE"
+   ],
+   [
+    "Body",
+    "111.9 x 55.6 x 19 mm, 121 g; Mini-SIM + Mini-SIM; dedicated SOS button"
+   ],
+   [
+    "Display",
+    "TFT; 2.8 inches; 240 x 320 pixels; secondary external 1.77\" display"
+   ],
+   [
+    "Storage",
+    "4 MB (4 MB RAM); microSDHC card slot; phonebook, call records"
+   ],
+   [
+    "Main Camera",
+    "QVGA; LED flash"
+   ],
+   [
+    "Selfie Camera",
+    "No"
+   ],
+   [
+    "Battery",
+    "Li-Ion 1450 mAh, removable"
+   ],
+   [
+    "Features",
+    "Family Assist: remote device management by family members; FM radio; SMS, MMS; games; loudspeaker; 3.5mm jack; USB Type-C"
+   ],
+   [
+    "Colors",
+    "Burgundy Red, Charcoal, Teal"
+   ]
+  ],
+  "slug": "nokia-2360-flip",
+  "source": "https://www.gsmarena.com/nokia_2360_flip-15048.php",
+  "tag": "SOS button aur dual display wala naya flip feature phone — Family Assist ke sath",
+  "year": 2026
+ },
+ {
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "hl": [
+   "6.79\" AMOLED 120Hz",
+   "Snapdragon 6 Gen 4",
+   "8 GB RAM",
+   "8560 mAh"
+  ],
+  "name": "Honor X9e s",
+  "price": 111499,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 22 October 2026, released 26 October 2026)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G; 5G SA/NSA"
+   ],
+   [
+    "Body",
+    "161.9 x 76.1 x 7.8 mm, 196 g; glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM; IP68/IP69K dust tight and water resistant; drop resistant up to 2.5m"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR, 800 nits (typ), 1800 nits (HBM), 6000 nits (peak); 6.79 inches; 1200 x 2640 pixels; aluminosilicate glass"
+   ],
+   [
+    "Chipset",
+    "Qualcomm Snapdragon 6 Gen 4 (4 nm); CPU Octa-core (1x2.3 GHz Cortex-A720s & 3x2.2 GHz Cortex-A720s & 4x1.8 GHz Cortex-A520s); GPU Adreno 810"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "256 GB; no card slot"
+   ],
+   [
+    "Main Camera",
+    "50 MP f/1.8 (wide), PDAF, OIS + 5 MP f/2.2 (ultrawide); LED flash, panorama, HDR; video 4K@30fps, 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP f/2.5 (wide); video 1080p@30fps"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Po 8560 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired; 7.5W reverse wired"
+   ],
+   [
+    "Operating System",
+    "Android 16, Magic OS 10"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (under display, optical), accelerometer, compass, gyro, proximity; stereo speakers; NFC (market/region dependent); USB Type-C 2.0, OTG"
+   ],
+   [
+    "Colors",
+    "Dawn Orange, Midnight Black, Glacier White"
+   ]
+  ],
+  "slug": "honor-x9e-s-5g",
+  "source": "https://www.gsmarena.com/honor_x9e_s_5g-15046.php",
+  "tag": "8560 mAh battery aur 6000 nits display wala mazboot mid-range phone",
+  "year": 2026
+ },
+ {
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "hl": [
+   "6.87\" TFT LCD 120Hz",
+   "Snapdragon 685",
+   "6 GB RAM",
+   "7700 mAh"
+  ],
+  "name": "Honor X8e",
+  "price": 111499,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 28 October 2026, released 28 October 2026)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE; 4G LTE"
+   ],
+   [
+    "Body",
+    "168.3 x 78.5 x 8.3 mm, 218.5 g; glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM; IP68/IP69K dust tight and water resistant; drop resistant up to 2.5m"
+   ],
+   [
+    "Display",
+    "TFT LCD, 120Hz, 1020 nits (HBM); 6.87 inches; 720 x 1592 pixels"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM6225 Snapdragon 685 (6 nm); CPU Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53); GPU Adreno 610"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Storage",
+    "256 GB; no card slot"
+   ],
+   [
+    "Main Camera",
+    "108 MP f/1.8 (wide), AF + auxiliary lens; LED flash, panorama, HDR; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP f/2.2 (wide); video 1080p@30fps"
+   ],
+   [
+    "Battery",
+    "Li-Po 7700 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired; 5W reverse wired"
+   ],
+   [
+    "Operating System",
+    "Android 16, MagicOS 10"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass; stereo speakers; NFC (market/region dependent); USB Type-C 2.0, OTG"
+   ],
+   [
+    "Colors",
+    "Sunrise Orange, Desert Gold, Velvet Black"
+   ]
+  ],
+  "slug": "honor-x8e",
+  "source": "https://www.gsmarena.com/honor_x8e-15044.php",
+  "tag": "7700 mAh battery aur 108MP camera wala bara 4G phone",
+  "year": 2026
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" AMOLED 144Hz",
+   "Snapdragon 7s Gen 4",
+   "12 GB RAM",
+   "9000 mAh"
+  ],
+  "name": "OnePlus Turbo 6Vs",
+  "price": 153799,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (listed 1 November 2026, China — same hardware as Turbo 6V per GSMArena)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.5 x 77.5 x 8.5 mm, 215 g; Nano-SIM + Nano-SIM; IP66/IP68/IP69/IP69K dust and water resistant"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 144Hz, 3840Hz PWM, 800 nits (typ), 1800 nits (peak); 6.78 inches; 1272 x 2772 pixels"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm); CPU Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520); GPU Adreno 810"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB (UFS 3.1); no card slot"
+   ],
+   [
+    "Main Camera",
+    "50 MP f/1.9 (wide), PDAF, OIS + 2 MP monochrome; LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120fps"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP f/2.4 (wide); video 1080p@30fps"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 9000 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired; 27W reverse wired; bypass charging"
+   ],
+   [
+    "Operating System",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC; IR blaster; USB Type-C 2.0"
+   ],
+   [
+    "Colors",
+    "Orange, Nova White"
+   ]
+  ],
+  "slug": "oneplus-turbo-6vs-5g",
+  "source": "https://fo.gsmarena.com/oneplus_turbo_6vs_debuts_quietly_with_same_specs_as_turbo_6v-news-75306.php",
+  "tag": "9000 mAh battery wala Turbo 6V ka naya variant — naye Orange colour ke sath",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "8.0\" Foldable AMOLED 120Hz",
+   "Snapdragon 8 Elite Gen 5",
+   "16 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung W27",
+  "price": 788599,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 29 October 2026, China — Galaxy Z Fold8 Ultra hardware with luxury finish)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G; satellite connectivity (Tiantong)"
+   ],
+   [
+    "Body",
+    "Unfolded: 158.4 x 143.2 x 4.1 mm, Folded: 158.4 x 72.8 x 8.9 mm; 215 g; glass front and back (Gorilla Glass Ceramic 3), aluminum frame with gold accents, gold 'Heart to the World' logo; Nano-SIM + eSIM"
+   ],
+   [
+    "Display",
+    "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 3000 nits (peak); 8.0 inches; 2256 x 2504 pixels; cover display: 6.5 inches Dynamic AMOLED 2X, 120Hz, 1080 x 2520 pixels"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 for Galaxy (3 nm); CPU Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
+   ],
+   [
+    "RAM",
+    "16 GB"
+   ],
+   [
+    "Storage",
+    "512 GB / 1 TB; no card slot"
+   ],
+   [
+    "Main Camera",
+    "200 MP f/1.7 (wide), PDAF, OIS + 10 MP f/2.4 (telephoto), PDAF, OIS, 3x optical zoom + 50 MP f/1.9 (ultrawide), PDAF; LED flash, HDR, panorama; video 8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps"
+   ],
+   [
+    "Selfie Camera",
+    "10 MP f/2.2 (ultrawide) + 10 MP f/2.2 cover camera; video 4K@30/60fps, 1080p@30/60fps"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 5000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired; 20W wireless (Qi2.2); 4.5W reverse wireless"
+   ],
+   [
+    "Operating System",
+    "Android 17, One UI 9 (up to 7 major OS updates)"
+   ],
+   [
+    "Sensors/Features",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; UWB support; USB Type-C 3.2"
+   ],
+   [
+    "Colors",
+    "Jihu Blue, Jixia Hong (dual-tone with gold accents)"
+   ]
+  ],
+  "slug": "samsung-w27",
+  "source": "https://m.gsmarena.com/the_samsung_w27_goes_official_in_china-news-75268.php",
+  "tag": "Galaxy Z Fold8 Ultra ka luxury version — gold finish aur satellite connectivity ke sath",
+  "year": 2026
+ }
+]

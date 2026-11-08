@@ -1,0 +1,537 @@
+[
+{
+"brand": "Infinix",
+"cat": "Smartphones",
+"hl": [
+"6.78\" display",
+"Mediatek Helio G100 Ultimate",
+"4 GB RAM",
+"6000 mAh"
+],
+"name": "Infinix Hot 70",
+"price": 60995,
+"price_src": "https://priceoye.pk/mobiles/infinix/infinix-hot-70",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, May 25, released 2026, May 25)"
+],
+[
+"Network",
+"GSM / HSPA / LTE"
+],
+[
+"Body",
+"167.9 x 79.1 x 7.5 mm (6.61 x 3.11 x 0.30 in); 195 g (6.88 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"IPS LCD, 120Hz, 700 nits (HBM); 6.78 inches, 112.1 cm2 (~84.4% screen-to-body ratio); 720 x 1576 pixels, 19.5:9 ratio (~256 ppi density)"
+],
+[
+"OS",
+"Android 16, up to 3 major OS updates, XOS 16"
+],
+[
+"Chipset",
+"Mediatek Helio G100 Ultimate (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G52 MC2"
+],
+[
+"RAM",
+"4 GB / 6 GB / 8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC (dedicated slot)"
+],
+[
+"Main Camera",
+"50 MP, f/1.9, (wide), AF Auxiliary lens; Dual-LED flash, HDR, panorama; video 1440p@30fps, 1080p@30fps"
+],
+[
+"Selfie Camera",
+"8 MP, f/2.0, (wide); Dual-LED flash; video 1440p@30fps, 1080p@30fps"
+],
+[
+"Sensors",
+"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"Yes"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+],
+[
+"Bluetooth",
+"5.4, A2DP, LE"
+],
+[
+"GPS",
+"GPS"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"FM radio"
+],
+[
+"USB",
+"USB Type-C 2.0, OTG"
+],
+[
+"Battery",
+"6000 mAh"
+],
+[
+"Charging",
+"45W wired, 50% in 25 min 10W reverse wired Bypass charging"
+],
+[
+"Colors",
+"Night Pulse, Dive Blue, Silver Dancer, Thermo Orange, Green Texture, Quiet Violet"
+]
+],
+"slug": "infinix-hot-70",
+"source": "https://www.gsmarena.com/infinix_hot_70-14683.php",
+"tag": "6.78\" display · Mediatek Helio G100 Ultimate · 4 GB RAM · 6000 mAh",
+"year": 2026
+},
+{
+"brand": "Infinix",
+"cat": "Smartphones",
+"hl": [
+"6.76\" display",
+"Mediatek Dimensity 7100",
+"6 GB RAM",
+"6000 mAh"
+],
+"name": "Infinix Hot 70 Pro",
+"price": 81995,
+"price_src": "https://priceoye.pk/mobiles/infinix/infinix-hot-70-pro-5g",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, July 16, released 2026, July)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"166.9 x 79.5 x 7.9 mm (6.57 x 3.13 x 0.31 in); 204 g (7.20 oz); Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"IPS LCD, 144Hz, 950 nits (HBM); 6.76 inches, 110.3 cm2 (~83.2% screen-to-body ratio); 1080 x 2344 pixels, 20:9 ratio (~441 ppi density)"
+],
+[
+"OS",
+"Android 16, up to 3 major OS updates, XOS 16"
+],
+[
+"Chipset",
+"Mediatek Dimensity 7100 (6 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G610 MC2"
+],
+[
+"RAM",
+"6 GB / 8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC (dedicated slot)"
+],
+[
+"Main Camera",
+"50 MP, f/1.8, 25mm (wide), 1/1.95\", 0.8µm, PDAF Auxiliary lens; Dual-LED flash, HDR, panorama; video 1440p@30fps, 1080p@30/60fps"
+],
+[
+"Selfie Camera",
+"8 MP, f/2.0, (wide); video 1440p@30fps, 1080p@30fps"
+],
+[
+"Sensors",
+"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"Yes"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+],
+[
+"Bluetooth",
+"5.4, A2DP, LE"
+],
+[
+"GPS",
+"GPS"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"FM radio"
+],
+[
+"USB",
+"USB Type-C 2.0, OTG"
+],
+[
+"Battery",
+"6000 mAh or 5600 mAh"
+],
+[
+"Charging",
+"45W wired, 50% in 25 min, 100% in 53 min (for 5600 mAh) 10W reverse wired Bypass charging"
+],
+[
+"Colors",
+"Thermo Orange, Mirage Green, Silk Glow Purple, Depth Ring White, Night Pulse, Dive Blue"
+]
+],
+"slug": "infinix-hot-70-pro-5g",
+"source": "https://www.gsmarena.com/infinix_hot_70_pro_5g-14806.php",
+"tag": "6.76\" display · Mediatek Dimensity 7100 · 6 GB RAM · 6000 mAh",
+"year": 2026
+},
+{
+"brand": "Tecno",
+"cat": "Smartphones",
+"hl": [
+"6.78\" display",
+"MediaTek Helio G81",
+"4 GB RAM",
+"7000 mAh"
+],
+"name": "Tecno Spark 50 4G",
+"price": 58995,
+"price_src": "https://priceoye.pk/mobiles/tecno/tecno-spark-50",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, April 14, released 2026, April 14)"
+],
+[
+"Network",
+"GSM / HSPA / LTE"
+],
+[
+"Body",
+"167.8 x 79.2 x 8.2 mm (6.61 x 3.12 x 0.32 in); 210 g (7.41 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"IPS LCD, 120Hz; 6.78 inches, 111.0 cm2 (~83.5% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~259 ppi density)"
+],
+[
+"OS",
+"Android 16, HIOS 16"
+],
+[
+"Chipset",
+"MediaTek Helio G81; CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G57 MC2"
+],
+[
+"RAM",
+"4 GB / 6 GB / 8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC (dedicated slot)"
+],
+[
+"Main Camera",
+"50 MP, f/1.9, (wide), PDAF; LED flash; video Yes"
+],
+[
+"Selfie Camera",
+"8 MP, f/2.0, (wide); video Yes"
+],
+[
+"Sensors",
+"Fingerprint (side-mounted), gyro"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"Yes"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+],
+[
+"Bluetooth",
+"5.3, A2DP, LE"
+],
+[
+"GPS",
+"GPS"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"FM radio"
+],
+[
+"USB",
+"USB Type-C"
+],
+[
+"Battery",
+"7000 mAh"
+],
+[
+"Charging",
+"18W wired"
+],
+[
+"Colors",
+"Halo Blue, Titanium Grey, Ink Black, Aurora Purple, Bloom Pink"
+]
+],
+"slug": "tecno-spark-50-4g",
+"source": "https://www.gsmarena.com/tecno_spark_50_4g-14596.php",
+"tag": "6.78\" display · MediaTek Helio G81 · 4 GB RAM · 7000 mAh",
+"year": 2026
+},
+{
+"brand": "Tecno",
+"cat": "Smartphones",
+"hl": [
+"6.78\" display",
+"Mediatek Dimensity 6400",
+"4 GB RAM",
+"6500 mAh"
+],
+"name": "Tecno Spark 50",
+"price": 58995,
+"price_src": "https://priceoye.pk/mobiles/tecno/tecno-spark-50",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, March 27, released 2026, April 03)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"167.9 x 79.3 x 8.2 mm (6.61 x 3.12 x 0.32 in); 210 g (7.41 oz); Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"IPS LCD, 120Hz; 6.78 inches, 112.1 cm2 (~84.2% screen-to-body ratio); 720 x 1576 pixels, 19.5:9 ratio (~256 ppi density)"
+],
+[
+"OS",
+"Android 16, HIOS 16"
+],
+[
+"Chipset",
+"Mediatek Dimensity 6400 (6 nm); CPU Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+],
+[
+"RAM",
+"4 GB / 6 GB / 8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC (dedicated slot)"
+],
+[
+"Main Camera",
+"50 MP, f/1.9, (wide), PDAF; LED flash; video Yes"
+],
+[
+"Selfie Camera",
+"8 MP, f/2.0, (wide); video Yes"
+],
+[
+"Sensors",
+"Fingerprint (side-mounted); unspecified sensors"
+],
+[
+"Loudspeaker",
+"Yes"
+],
+[
+"3.5mm Jack",
+"Yes"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+],
+[
+"Bluetooth",
+"5.3, A2DP, LE"
+],
+[
+"GPS",
+"GPS"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"Unspecified"
+],
+[
+"USB",
+"USB Type-C"
+],
+[
+"Battery",
+"6500 mAh"
+],
+[
+"Charging",
+"45W wired"
+],
+[
+"Colors",
+"Fantasy Purple, Mint Green, Ink Black, Champagne Gold"
+]
+],
+"slug": "tecno-spark-50-5g",
+"source": "https://www.gsmarena.com/tecno_spark_50_5g-14566.php",
+"tag": "6.78\" display · Mediatek Dimensity 6400 · 4 GB RAM · 6500 mAh",
+"year": 2026
+},
+{
+"brand": "Tecno",
+"cat": "Smartphones",
+"hl": [
+"6.78\" display",
+"Mediatek Helio G100 Ultimate",
+"4 GB RAM",
+"6000 mAh"
+],
+"name": "Tecno Spark 50 Pro",
+"price": 70495,
+"price_src": "https://priceoye.pk/mobiles/tecno/tecno-spark-50-pro",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, June 15, released 2026, June)"
+],
+[
+"Network",
+"GSM / HSPA / LTE"
+],
+[
+"Body",
+"167.8 x 79.2 x 7.8 mm (6.61 x 3.12 x 0.31 in); -; Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"IPS LCD, 120Hz; 6.78 inches, 111.0 cm2 (~83.5% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~259 ppi density)"
+],
+[
+"OS",
+"Android 16, HIOS 16"
+],
+[
+"Chipset",
+"Mediatek Helio G100 Ultimate (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G52 MC2"
+],
+[
+"RAM",
+"4 GB / 6 GB / 8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC (dedicated slot)"
+],
+[
+"Main Camera",
+"50 MP, f/1.8, (wide), 1/1.95\" 0.8μm, PDAF; LED flash; video Yes"
+],
+[
+"Selfie Camera",
+"8 MP, f/2.0, (wide); video Yes"
+],
+[
+"Sensors",
+"Fingerprint (side-mounted), unspecified sensors"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+],
+[
+"Bluetooth",
+"5.4, A2DP, LE"
+],
+[
+"GPS",
+"GPS"
+],
+[
+"NFC",
+"Yes"
+],
+[
+"Radio",
+"FM radio"
+],
+[
+"USB",
+"USB Type-C"
+],
+[
+"Battery",
+"6000 mAh or 5600 mAh"
+],
+[
+"Charging",
+"60W wired, 63% in 30 min, 100% in 55 min Bypass charging"
+],
+[
+"Colors",
+"Ink Black, Titanium Grey, Midnight Blue, Dynamic Orange, Cloud White"
+]
+],
+"slug": "tecno-spark-50-pro",
+"source": "https://www.gsmarena.com/tecno_spark_50_pro-14728.php",
+"tag": "6.78\" display · Mediatek Helio G100 Ultimate · 4 GB RAM · 6000 mAh",
+"year": 2026
+}
+]

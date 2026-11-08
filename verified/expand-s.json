@@ -1,4274 +1,4274 @@
 [
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Qualcomm SM8750-AC Snapdragon ",
-"12 GB RAM",
-"3900 mAh"
-],
-"name": "Samsung Galaxy S25 Edge",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, May 13, released 2025, May 29)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"158.2 x 75.6 x 5.8 mm (6.23 x 2.98 x 0.23 in); 163 g (5.75 oz); Glass front (Gorilla Glass Ceramic 2), titanium frame, glass back (Gorilla Glass Victus 2); Nano-SIM + eSIM Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"LTPO AMOLED 2X, 120Hz, HDR10+; 6.7 inches, 110.2 cm2 (~92.1% screen-to-body ratio); 1440 x 3120 pixels, 19.5:9 ratio (~513 ppi density); Corning Gorilla Glass Ceramic 2"
-],
-[
-"OS",
-"Android 15, upgradable to Android 17, up to 7 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Qualcomm SM8750-AC Snapdragon 8 Elite (3 nm); CPU Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); GPU Adreno 830 (1200 MHz)"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.7, 24mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS 12 MP, f/2.2, 13mm (ultrawide), 1/2.55\", 1.4µm, PDAF; Best Face, LED flash, HDR, panorama; video 8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 10-bit HDR"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.2, 26mm (wide), 1/3.2\", 1.12µm, dual pixel PDAF; video 4K@30/60fps, 1080p@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 3.2"
-],
-[
-"Battery",
-"Li-Ion 3900 mAh"
-],
-[
-"Charging",
-"25W wired, PD, QC2.0, 55% in 30 min 15W wireless (Qi2 Ready)"
-],
-[
-"Colors",
-"Titanium Icyblue, Titanium Silver, Titanium Jetblack"
-]
-],
-"slug": "samsung-galaxy-s25-edge",
-"source": "https://www.gsmarena.com/samsung_galaxy_s25_edge-13506.php",
-"tag": "6.7\" display · Qualcomm SM8750-AC Snapdragon  · 12 GB RAM · 3900 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.74\" display",
-"Exynos 1480",
-"8 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy F56",
-"price": 83999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, May 07, released 2025, May 14)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162 x 77.3 x 7.2 mm (6.38 x 3.04 x 0.28 in); 180 g (6.35 oz); Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Super AMOLED+, 120Hz; 6.74 inches, 111.5 cm2 (~89.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~382 ppi density); Corning Gorilla Glass Victus+"
-],
-[
-"OS",
-"Android 15, up to 6 major OS updates, One UI 8.5"
-],
-[
-"Chipset",
-"Exynos 1480 (4 nm); CPU Octa-core (4x2.75 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Xclipse 530"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), PDAF, OIS 8 MP, f/2.2, (ultrawide) 2 MP (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, gyro-EIS, OIS, 10-bit HDR"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.2, (wide); HDR; video Yes"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"45W wired"
-],
-[
-"Colors",
-"Green, Violet"
-]
-],
-"slug": "samsung-galaxy-f56-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_f56_5g-13855.php",
-"tag": "6.74\" display · Exynos 1480 · 8 GB RAM · 5000 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.74\" display",
-"Exynos 1480",
-"8 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy M56",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, April 17, released 2025, April 17)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162 x 77.3 x 7.2 mm (6.38 x 3.04 x 0.28 in); 180 g (6.35 oz); Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Super AMOLED+, 120Hz; 6.74 inches, 111.5 cm2 (~89.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~382 ppi density); Corning Gorilla Glass Victus+"
-],
-[
-"OS",
-"Android 15, up to 6 major OS updates, One UI 7"
-],
-[
-"Chipset",
-"Exynos 1480 (4 nm); CPU Octa-core (4x2.75 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Xclipse 530"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), PDAF, OIS 8 MP, f/2.2, (ultrawide) 2 MP (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, gyro-EIS, OIS, 10-bit HDR"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.2, (wide); video Yes"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"45W wired"
-],
-[
-"Colors",
-"Black, Light Green"
-]
-],
-"slug": "samsung-galaxy-m56-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_m56_5g-13801.php",
-"tag": "6.74\" display · Exynos 1480 · 8 GB RAM · 5000 mAh",
-"year": 2025
-},
-{
-"brand": "Apple",
-"cat": "Smartphones",
-"hl": [
-"6.3\" display",
-"Apple A20 Pro",
-"12 GB RAM",
-"4056 mAh"
-],
-"name": "Apple iPhone 18 Pro",
-"price": 572999,
-"price_src": "https://priceoye.pk/mobiles/apple/apple-iphone-18-pro",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 09, released 2026, September 18)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"150 x 71.9 x 8.8 mm (5.91 x 2.83 x 0.35 in); 211 g (7.44 oz); Glass front (Ceramic Shield 2), aluminum frame, aluminum back/ glass back (Ceramic Shield); Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time; China)"
-],
-[
-"Display",
-"LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak); 6.3 inches, 96.4 cm2 (~89.4% screen-to-body ratio); 1206 x 2622 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield 2"
-],
-[
-"OS",
-"iOS 27, upgradable to iOS 27.2"
-],
-[
-"Chipset",
-"Apple A20 Pro (2 nm); CPU Hexa-core (2x4.93 GHz + 4x2.64 GHz); GPU Apple GPU (7-core graphics)"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB / 2 TB; No"
-],
-[
-"Main Camera",
-"48 MP, f/1.5-4.0, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS (gen2) 48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55\", 0.7µm, PDAF, 3D sensor‑shift OIS, 4x optical zoom 48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF TOF 3D LiDAR scanner (depth); Dual-LED dual-tone flash, HDR (photo/panorama), Cinematic from regular video; video 4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo sound rec."
-],
-[
-"Selfie Camera",
-"18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec., ProRes RAW, Apple Log 2; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
-],
-[
-"Sensors",
-"Face ID, accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2 Gen 2, DisplayPort"
-],
-[
-"Battery",
-"Market-dependent versions: Li-Ion 4056 mAh - Nano SIM model Li-Ion 4288 mAh - eSIM only model*"
-],
-[
-"Charging",
-"Wired, PD3.2, AVS, 50% in 15 min 25W wireless MagSafe/Qi2, 50% in 30 min (15W - China) 4.5W reverse wired * eSIM only model battery capacity is officially unconfirmed"
-],
-[
-"Colors",
-"Black, Silver, Glacier, Burgundy"
-]
-],
-"slug": "apple-iphone-18-pro",
-"source": "https://www.gsmarena.com/apple_iphone_18_pro-14934.php",
-"tag": "6.3\" display · Apple A20 Pro · 12 GB RAM · 4056 mAh",
-"year": 2026
-},
-{
-"brand": "Apple",
-"cat": "Tablets",
-"hl": [
-"13.0\" display",
-"Apple M4",
-"12 GB RAM",
-"9705 mAh"
-],
-"name": "Apple iPad Air 13 (2026)",
-"price": 263999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, March 02, released 2026, March 11)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"280.6 x 214.9 x 6.1 mm (11.05 x 8.46 x 0.24 in); 616 g (Wi-Fi) / 617 g (5G) (1.36 lb); Glass front, aluminum back, aluminum frame; eSIM (cellular model only)"
-],
-[
-"Display",
-"Liquid Retina IPS LCD, 600 nits (typ); 13.0 inches, 519.3 cm2 (~86.1% screen-to-body ratio); 2048 x 2732 pixels, 4:3 ratio (~264 ppi density); Scratch-resistant glass, oleophobic coating"
-],
-[
-"OS",
-"iPadOS 26.3, upgradable to iPadOS 27.2"
-],
-[
-"Chipset",
-"Apple M4; CPU Octa-core (4 performance cores and 4 efficiency cores); GPU Apple GPU (9-core graphics)"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"12 MP, f/1.8, (wide), 1/3.0\", 1.22µm, dual pixel PDAF; HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.0, 122˚ (ultrawide); HDR; video 1080p@25/30/60fps; gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (top-mounted), accelerometer, gyro, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, hotspot"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS (5G model only)"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.1 Gen2, DisplayPort, magnetic connector"
-],
-[
-"Battery",
-"Li-Po 9705 mAh (36.59 Wh)"
-],
-[
-"Colors",
-"Space Gray, Starlight, Purple, Blue"
-]
-],
-"slug": "apple-ipad-air-13-5g-(2026)",
-"source": "https://www.gsmarena.com/apple_ipad_air_13_5g_(2026)-14521.php",
-"tag": "13.0\" display · Apple M4 · 12 GB RAM · 9705 mAh",
-"year": 2026
-},
-{
-"brand": "Apple",
-"cat": "Smartphones",
-"hl": [
-"6.5\" display",
-"Apple A19 Pro",
-"12 GB RAM",
-"3149 mAh"
-],
-"name": "Apple iPhone Air",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, September 09, released 2025, September 19)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"156.2 x 74.7 x 5.6 mm (6.15 x 2.94 x 0.22 in); 165 g (5.82 oz); Glass front (Ceramic Shield 2), titanium frame (grade 5), glass back (Ceramic Shield); eSIM + eSIM (8 or more, max 2 at a time)"
-],
-[
-"Display",
-"LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak); 6.5 inches, 104.9 cm2 (~89.9% screen-to-body ratio); 1260 x 2736 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield 2"
-],
-[
-"OS",
-"iOS 26, upgradable to iOS 27.2"
-],
-[
-"Chipset",
-"Apple A19 Pro (3 nm); CPU Hexa-core (2x4.26 GHz + 4x2.60 GHz); GPU Apple GPU (5-core graphics)"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"48 MP, f/1.6, 26mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, sensor-shift OIS; Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
-],
-[
-"Selfie Camera",
-"18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
-],
-[
-"Sensors",
-"Face ID, accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, QZSS, BDS, NavIC"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Li-Ion 3149 mAh"
-],
-[
-"Charging",
-"Wired, PD2.0, 50% in 30 min 20 wireless MagSafe/Qi2, 50% in 30 min (15W - China) 4.5W reverse wired"
-],
-[
-"Colors",
-"Space Black, Cloud White, Light Gold, Sky Blue"
-]
-],
-"slug": "apple-iphone-17-air",
-"source": "https://www.gsmarena.com/apple_iphone_17_air-13502.php",
-"tag": "6.5\" display · Apple A19 Pro · 12 GB RAM · 3149 mAh",
-"year": 2025
-},
-{
-"brand": "Apple",
-"cat": "Tablets",
-"hl": [
-"11.0\" display",
-"Apple M3",
-"8 GB RAM",
-"7606 mAh"
-],
-"name": "Apple iPad Air 11 (2025)",
-"price": 216999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, March 04, released 2025, March 12)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"247.6 x 178.5 x 6.1 mm (9.75 x 7.03 x 0.24 in); 460 g (1.01 lb); Glass front, aluminum back, aluminum frame; eSIM (cellular model only)"
-],
-[
-"Display",
-"Liquid Retina IPS LCD, 500 nits (typ); 11.0 inches, 357.6 cm2 (~80.9% screen-to-body ratio); 1640 x 2360 pixels (~264 ppi density); Scratch-resistant glass, oleophobic coating"
-],
-[
-"OS",
-"iPadOS 18.3.2, upgradable to iPadOS 27.2"
-],
-[
-"Chipset",
-"Apple M3; CPU Octa-core (4 performance cores and 4 efficiency cores); GPU Apple GPU (9-core graphics)"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"12 MP, f/1.8, (wide), 1/3.0\", 1.22µm, dual pixel PDAF; HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.0, 122˚ (ultrawide); HDR; video 1080p@25/30/60fps; gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (top-mounted), accelerometer, gyro, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, hotspot"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS (5G model only)"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.1 Gen2, DisplayPort, magnetic connector"
-],
-[
-"Battery",
-"Li-Po 7606 mAh (28.93 Wh)"
-],
-[
-"Colors",
-"Space Gray, Starlight, Purple, Blue"
-]
-],
-"slug": "apple-ipad-air-11-(2025)",
-"source": "https://www.gsmarena.com/apple_ipad_air_11_(2025)-13703.php",
-"tag": "11.0\" display · Apple M3 · 8 GB RAM · 7606 mAh",
-"year": 2025
-},
-{
-"brand": "Apple",
-"cat": "Smartphones",
-"hl": [
-"6.1\" display",
-"Apple A18",
-"8 GB RAM",
-"4005 mAh"
-],
-"name": "Apple iPhone 16e",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, February 19, released 2025, February 28)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"146.7 x 71.5 x 7.8 mm (5.78 x 2.81 x 0.31 in); 167 g (5.89 oz); Glass front (Ceramic Shield), glass back, aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
-],
-[
-"Display",
-"Super Retina XDR OLED, HDR10, 800 nits (HBM), 1200 nits (peak); 6.1 inches, 90.2 cm2 (~86.0% screen-to-body ratio); 1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield glass"
-],
-[
-"OS",
-"iOS 18.3.1, upgradable to iOS 27.2"
-],
-[
-"Chipset",
-"Apple A18 (3 nm); CPU Hexa-core (2x4.04 GHz + 4x2.20 GHz); GPU Apple GPU (4-core graphics)"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"48 MP, f/1.6, 26mm (wide), 1/2.55\", 0.7µm, PDAF, OIS; Dual-LED dual-tone flash, HDR, panorama, 3D (spatial) audio; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, Dolby Vision HDR, OIS, stereo sound rec."
-],
-[
-"Selfie Camera",
-"12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, HDR"
-],
-[
-"Sensors",
-"Face ID, accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS, QZSS, NavIC"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Li-Ion 4005 mAh"
-],
-[
-"Charging",
-"Wired, 50% in 30 min 7.5W wireless (Qi)"
-],
-[
-"Colors",
-"Black, White"
-]
-],
-"slug": "apple-iphone-16e",
-"source": "https://www.gsmarena.com/apple_iphone_16e-13395.php",
-"tag": "6.1\" display · Apple A18 · 8 GB RAM · 4005 mAh",
-"year": 2025
-},
-{
-"brand": "Apple",
-"cat": "Smartphones",
-"hl": [
-"6.9\" display",
-"Apple A18 Pro",
-"8 GB RAM",
-"4685 mAh"
-],
-"name": "Apple iPhone 16 Pro Max",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2024 (announced 2024, September 09, released 2024, September 20)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"163 x 77.6 x 8.3 mm (6.42 x 3.06 x 0.33 in); 227 g (8.01 oz); Glass front (Ceramic Shield), glass back, titanium frame (grade 5); Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
-],
-[
-"Display",
-"LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM); 6.9 inches, 115.6 cm2 (~91.4% screen-to-body ratio); 1320 x 2868 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield glass (2024 gen)"
-],
-[
-"OS",
-"iOS 18, upgradable to iOS 27.2"
-],
-[
-"Chipset",
-"Apple A18 Pro (3 nm); CPU Hexa-core (2x4.05 GHz + 4x2.42 GHz); GPU Apple GPU (6-core graphics)"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"48 MP, f/1.8, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.8, 120mm (periscope telephoto), 1/3.06\", 1.12µm, dual pixel PDAF, 3D sensor‑shift OIS, 5x optical zoom 48 MP, f/2.2, 13mm (ultrawide), 1/2.55\", 0.7µm, PDAF TOF 3D LiDAR scanner (depth); Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, 3D (spatial) video/audio, stereo sound rec."
-],
-[
-"Selfie Camera",
-"12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF, OIS SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
-],
-[
-"Sensors",
-"Face ID, accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2 Gen 2, DisplayPort"
-],
-[
-"Battery",
-"Li-Ion 4685 mAh"
-],
-[
-"Charging",
-"Wired, PD2.0, 50% in 30 min 25W wireless MagSafe/Qi2, 50% in 30 min (15W - China) 4.5W reverse wired"
-],
-[
-"Colors",
-"Black Titanium, White Titanium, Natural Titanium, Desert Titanium"
-]
-],
-"slug": "apple-iphone-16-pro-max",
-"source": "https://www.gsmarena.com/apple_iphone_16_pro_max-13123.php",
-"tag": "6.9\" display · Apple A18 Pro · 8 GB RAM · 4685 mAh",
-"year": 2024
-},
-{
-"brand": "Apple",
-"cat": "Smartphones",
-"hl": [
-"6.1\" display",
-"Apple A18",
-"8 GB RAM",
-"3561 mAh"
-],
-"name": "Apple iPhone 16",
-"price": 330799,
-"price_src": "https://priceoye.pk/mobiles/apple/apple-iphone-16",
-"rows": [
-[
-"Launch Year",
-"2024 (announced 2024, September 09, released 2024, September 20)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in); 170 g (6.00 oz); Glass front (Ceramic Shield), glass back, aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
-],
-[
-"Display",
-"Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM); 6.1 inches, 91.7 cm2 (~86.8% screen-to-body ratio); 1179 x 2556 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield glass (2024 gen)"
-],
-[
-"OS",
-"iOS 18, upgradable to iOS 27.2"
-],
-[
-"Chipset",
-"Apple A18 (3 nm); CPU Hexa-core (2x4.04 GHz + 4x2.20 GHz); GPU Apple GPU (5-core graphics)"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"48 MP, f/1.6, 26mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 0.7µm, dual pixel PDAF; Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
-],
-[
-"Selfie Camera",
-"12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
-],
-[
-"Sensors",
-"Face ID, accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, DisplayPort"
-],
-[
-"Battery",
-"Li-Ion 3561 mAh"
-],
-[
-"Charging",
-"Wired, PD2.0, 50% in 30 min 25W wireless MagSafe/Qi2, 50% in 30 min (15W - China) 4.5W reverse wired"
-],
-[
-"Colors",
-"Black, White, Pink, Teal, Ultramarine"
-]
-],
-"slug": "apple-iphone-16",
-"source": "https://www.gsmarena.com/apple_iphone_16-13317.php",
-"tag": "6.1\" display · Apple A18 · 8 GB RAM · 3561 mAh",
-"year": 2024
-},
-{
-"brand": "Apple",
-"cat": "Smartphones",
-"hl": [
-"6.1\" display",
-"Apple A17 Pro",
-"8 GB RAM",
-"3274 mAh"
-],
-"name": "Apple iPhone 15 Pro",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2023 (announced 2023, September 12, released 2023, September 22)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in); 187 g (6.60 oz); Glass front, glass back, titanium frame (grade 5); Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
-],
-[
-"Display",
-"LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM); 6.1 inches, 91.3 cm2 (~88.2% screen-to-body ratio); 1179 x 2556 pixels, 19.5:9 ratio (~461 ppi density); Ceramic Shield glass"
-],
-[
-"OS",
-"iOS 17, upgradable to iOS 27.2"
-],
-[
-"Chipset",
-"Apple A17 Pro (3 nm); CPU Hexa-core (2x3.78 GHz + 4x2.11 GHz); GPU Apple GPU (6-core graphics)"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"48 MP, f/1.8, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.8, 77mm (telephoto), 1/3.5\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 1.4µm, dual pixel PDAF TOF 3D LiDAR scanner (depth); Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, 3D (spatial) video, stereo sound rec."
-],
-[
-"Selfie Camera",
-"12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF, OIS SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
-],
-[
-"Sensors",
-"Face ID, accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, hotspot"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2 Gen 2, DisplayPort"
-],
-[
-"Battery",
-"Li-Ion 3274 mAh"
-],
-[
-"Charging",
-"Wired, PD2.0, 50% in 30 min 15W wireless (MagSafe) 15W wireless (Qi2) - requires iOS 17.2 update 4.5W reverse wired"
-],
-[
-"Colors",
-"Black Titanium, White Titanium, Blue Titanium, Natural Titanium"
-]
-],
-"slug": "apple-iphone-15-pro",
-"source": "https://www.gsmarena.com/apple_iphone_15_pro-12557.php",
-"tag": "6.1\" display · Apple A17 Pro · 8 GB RAM · 3274 mAh",
-"year": 2023
-},
-{
-"brand": "Apple",
-"cat": "Smartphones",
-"hl": [
-"6.1\" display",
-"Apple A16 Bionic",
-"6 GB RAM",
-"3349 mAh"
-],
-"name": "Apple iPhone 15",
-"price": 264999,
-"price_src": "https://priceoye.pk/mobiles/apple/apple-iphone-15",
-"rows": [
-[
-"Launch Year",
-"2023 (announced 2023, September 12, released 2023, September 22)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in); 171 g (6.03 oz); Glass front, glass back, aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
-],
-[
-"Display",
-"Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (HBM), 2000 nits (peak); 6.1 inches, 91.3 cm2 (~86.4% screen-to-body ratio); 1179 x 2556 pixels, 19.5:9 ratio (~461 ppi density); Ceramic Shield glass"
-],
-[
-"OS",
-"iOS 17, upgradable to iOS 27.2"
-],
-[
-"Chipset",
-"Apple A16 Bionic (4 nm); CPU Hexa-core (2x3.46 GHz Everest + 4x2.02 GHz Sawtooth); GPU Apple GPU (5-core graphics)"
-],
-[
-"RAM",
-"6 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"48 MP, f/1.6, 26mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.4, 13mm, 120˚ (ultrawide), 0.7µm; Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
-],
-[
-"Selfie Camera",
-"12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
-],
-[
-"Sensors",
-"Face ID, accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, DisplayPort"
-],
-[
-"Battery",
-"Li-Ion 3349 mAh"
-],
-[
-"Charging",
-"Wired, PD2.0, 50% in 30 min 15W wireless (MagSafe) 15W wireless (Qi2) - requires iOS 17.2 update 4.5W reverse wired"
-],
-[
-"Colors",
-"Black, Blue, Green, Yellow, Pink"
-]
-],
-"slug": "apple-iphone-15",
-"source": "https://www.gsmarena.com/apple_iphone_15-12559.php",
-"tag": "6.1\" display · Apple A16 Bionic · 6 GB RAM · 3349 mAh",
-"year": 2023
-},
-{
-"brand": "Apple",
-"cat": "Smartphones",
-"hl": [
-"6.1\" display",
-"Apple A16 Bionic",
-"6 GB RAM",
-"3200 mAh"
-],
-"name": "Apple iPhone 14 Pro",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2022 (announced 2022, September 07, released 2022, September 16)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"147.5 x 71.5 x 7.9 mm (5.81 x 2.81 x 0.31 in); 206 g (7.27 oz); Glass front, glass back, stainless steel frame; Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
-],
-[
-"Display",
-"LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM); 6.1 inches, 91.7 cm2 (~87.0% screen-to-body ratio); 1179 x 2556 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield glass"
-],
-[
-"OS",
-"iOS 16, upgradable to iOS 27.2"
-],
-[
-"Chipset",
-"Apple A16 Bionic (4 nm); CPU Hexa-core (2x3.46 GHz Everest + 4x2.02 GHz Sawtooth); GPU Apple GPU (5-core graphics)"
-],
-[
-"RAM",
-"6 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"48 MP, f/1.8, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.8, 77mm (telephoto), 1/3.5\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 1.4µm, dual pixel PDAF TOF 3D LiDAR scanner (depth); Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, stereo sound rec."
-],
-[
-"Selfie Camera",
-"12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF, OIS SL 3D, (depth/biometrics sensor); HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
-],
-[
-"Sensors",
-"Face ID, accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"Lightning, USB 2.0"
-],
-[
-"Battery",
-"Li-Ion 3200 mAh (12.38 Wh)"
-],
-[
-"Charging",
-"Wired, PD2.0, 50% in 30 min 15W wireless (MagSafe) 15W wireless (Qi2) - requires iOS 17.2 update"
-],
-[
-"Colors",
-"Space Black, Silver, Gold, Deep Purple"
-]
-],
-"slug": "apple-iphone-14-pro",
-"source": "https://www.gsmarena.com/apple_iphone_14_pro-11860.php",
-"tag": "6.1\" display · Apple A16 Bionic · 6 GB RAM · 3200 mAh",
-"year": 2022
-},
-{
-"brand": "Apple",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Apple A15 Bionic",
-"6 GB RAM",
-"4323 mAh"
-],
-"name": "Apple iPhone 14 Plus",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2022 (announced 2022, September 07, released 2022, October 07)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"160.8 x 78.1 x 7.8 mm (6.33 x 3.07 x 0.31 in); 203 g (7.16 oz); Glass front, glass back, aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
-],
-[
-"Display",
-"Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM), 1200 nits (peak); 6.7 inches, 109.8 cm2 (~87.4% screen-to-body ratio); 1284 x 2778 pixels, 19.5:9 ratio (~458 ppi density); Ceramic Shield glass"
-],
-[
-"OS",
-"iOS 16, upgradable to iOS 27.2"
-],
-[
-"Chipset",
-"Apple A15 Bionic (5 nm); CPU Hexa-core (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard); GPU Apple GPU (5-core graphics)"
-],
-[
-"RAM",
-"6 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"12 MP, f/1.5, 26mm (wide), 1/1.7\", 1.9µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.4, 13mm, 120˚ (ultrawide); Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
-],
-[
-"Selfie Camera",
-"12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF SL 3D, (depth/biometrics sensor); HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
-],
-[
-"Sensors",
-"Face ID, accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"Lightning, USB 2.0"
-],
-[
-"Battery",
-"Li-Ion 4323 mAh (16.68 Wh)"
-],
-[
-"Charging",
-"Wired, PD2.0, 50% in 30 min 15W wireless (MagSafe) 15W wireless (Qi2) - requires iOS 17.2 update"
-],
-[
-"Colors",
-"Midnight, Purple, Starlight, Blue, Red, Yellow"
-]
-],
-"slug": "apple-iphone-14-plus",
-"source": "https://www.gsmarena.com/apple_iphone_14_plus-11862.php",
-"tag": "6.7\" display · Apple A15 Bionic · 6 GB RAM · 4323 mAh",
-"year": 2022
-},
-{
-"brand": "Apple",
-"cat": "Smartphones",
-"hl": [
-"6.1\" display",
-"Apple A15 Bionic",
-"6 GB RAM",
-"3279 mAh"
-],
-"name": "Apple iPhone 14",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2022 (announced 2022, September 07, released 2022, September 16)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"146.7 x 71.5 x 7.8 mm (5.78 x 2.81 x 0.31 in); 172 g (6.07 oz); Glass front, glass back, aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
-],
-[
-"Display",
-"Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM), 1200 nits (peak); 6.1 inches, 90.2 cm2 (~86.0% screen-to-body ratio); 1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield glass"
-],
-[
-"OS",
-"iOS 16, upgradable to iOS 27.2"
-],
-[
-"Chipset",
-"Apple A15 Bionic (5 nm); CPU Hexa-core (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard); GPU Apple GPU (5-core graphics)"
-],
-[
-"RAM",
-"6 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"12 MP, f/1.5, 26mm (wide), 1/1.7\", 1.9µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.4, 13mm, 120˚ (ultrawide); Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
-],
-[
-"Selfie Camera",
-"12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF SL 3D, (depth/biometrics sensor); HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
-],
-[
-"Sensors",
-"Face ID, accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"Lightning, USB 2.0"
-],
-[
-"Battery",
-"Li-Ion 3279 mAh (12.68 Wh)"
-],
-[
-"Charging",
-"Wired, PD2.0, 50% in 30 min 15W wireless (MagSafe) 15W wireless (Qi2) - requires iOS 17.2 update"
-],
-[
-"Colors",
-"Midnight, Purple, Starlight, Blue, Red, Yellow"
-]
-],
-"slug": "apple-iphone-14",
-"source": "https://www.gsmarena.com/apple_iphone_14-11861.php",
-"tag": "6.1\" display · Apple A15 Bionic · 6 GB RAM · 3279 mAh",
-"year": 2022
-},
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.83\" display",
-"Qualcomm SM8750-AB Snapdragon ",
-"12 GB RAM",
-"10000 mAh"
-],
-"name": "Xiaomi Redmi K100",
-"price": 145999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, October 27, released 2026, October 27)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.9 x 77.9 x 8.7 mm (6.41 x 3.07 x 0.34 in); 234.5 g (8.29 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 68B colors, 165Hz, Dolby Vision, HDR Vivid, HDR10+, 3500 nits (HBM), 9000 nits (peak)*; 6.83 inches, 114.5 cm2 (~90.3% screen-to-body ratio); 1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)"
-],
-[
-"OS",
-"Android 17, HyperOS 4"
-],
-[
-"Chipset",
-"Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm); CPU Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); GPU Adreno 840"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.7, (wide), 1/1.55\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/4.0\", 1.12µm; Color spectrum sensor, LED flash, HDR, panorama; video 8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
-],
-[
-"Selfie Camera",
-"20 MP, (wide), 1/2.0\", 0.8µm; video 1080p@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, LHDC 5.0, ASHA, Auracast"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 10000 mAh"
-],
-[
-"Charging",
-"100W wired, PD3.0, QC3+, 100W PPS 27W reverse wired Bypass charging"
-],
-[
-"Colors",
-"Black, White, Green"
-]
-],
-"slug": "xiaomi-redmi-k100-5g",
-"source": "https://www.gsmarena.com/xiaomi_redmi_k100_5g-15018.php",
-"tag": "6.83\" display · Qualcomm SM8750-AB Snapdragon  · 12 GB RAM · 10000 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Tablets",
-"hl": [
-"11.2\" display",
-"Qualcomm SM8735 Snapdragon 8s ",
-"8 GB RAM",
-"9720 mAh"
-],
-"name": "Xiaomi Pad 9",
-"price": 120999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 23, released 2026, September 23)"
-],
-[
-"Network",
-"No cellular connectivity"
-],
-[
-"Body",
-"251.2 x 173.4 x 5.8 mm (9.89 x 6.83 x 0.23 in); 485 g or 494 g (1.07 lb); Glass front, aluminum frame, aluminum back; No"
-],
-[
-"Display",
-"IPS LCD, 68B colors, 144Hz, HDR10, Dolby Vision, HDR Vivid, 800 nits (peak); 11.2 inches, 373.7 cm2 (~85.8% screen-to-body ratio); 3200 x 2136 pixels, 3:2 ratio (~344 ppi density)"
-],
-[
-"OS",
-"Android 17, HyperOS 4"
-],
-[
-"Chipset",
-"Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm); CPU Octa-core (1x3.21 GHz Cortex-X4 & 3x3.0 GHz Cortex-A720 & 2x2.8 GHz Cortex-A720 & 2x2.0 GHz Cortex-A720); GPU Adreno 825"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"13 MP; Color spectrum sensor, LED flash, HDR; video 4K@30fps, 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"8 MP; HDR; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers, Dolby Atmos (4 speakers)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE, LHDC 5"
-],
-[
-"GPS",
-"No"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG"
-],
-[
-"Battery",
-"9720 mAh"
-],
-[
-"Charging",
-"45W wired, PD3.0, QC3+ 22.5W reverse wired"
-],
-[
-"Colors",
-"Gray, Silver, Green, Pink"
-]
-],
-"slug": "xiaomi-pad-9",
-"source": "https://www.gsmarena.com/xiaomi_pad_9-14961.php",
-"tag": "11.2\" display · Qualcomm SM8735 Snapdragon 8s  · 8 GB RAM · 9720 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Tablets",
-"hl": [
-"13.3\" display",
-"XRing O3",
-"8 GB RAM",
-"12000 mAh"
-],
-"name": "Xiaomi Pad 9 Pro Max",
-"price": 191999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 07, released 2026, September 07)"
-],
-[
-"Network",
-"No cellular connectivity"
-],
-[
-"Body",
-"296.2 x 203.1 x 5.7 mm (11.66 x 8.00 x 0.22 in); 645 g or 653 g (1.42 lb); Glass front, aluminum frame, aluminum back; No"
-],
-[
-"Display",
-"IPS LCD, 68B colors, 144Hz, HDR10, Dolby Vision, HDR Vivid, 1000 nits (peak); 13.3 inches, 526.7 cm2 (~87.6% screen-to-body ratio); 3408 x 2272 pixels, 3:2 ratio (~308 ppi density)"
-],
-[
-"OS",
-"Android 17, HyperOS 4"
-],
-[
-"Chipset",
-"XRing O3 (3 nm); CPU 10-core 4.35 GHz; GPU Arm G2-Ultra NX MC16"
-],
-[
-"RAM",
-"8 GB / 12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF; Color spectrum sensor, LED flash, HDR; video 4K@30/60fps, 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.2, 19mm (ultrawide), 1/3.6\", 0.61µm; HDR; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers, Dolby Atmos (8 speakers)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE, LHDC 5"
-],
-[
-"GPS",
-"No"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2 Gen2, OTG, DisplayPort"
-],
-[
-"Battery",
-"12000 mAh"
-],
-[
-"Charging",
-"120W wired, PD3.0, QC2 22.5W reverse wired"
-],
-[
-"Colors",
-"Gray, Silver, Burgundy red"
-]
-],
-"slug": "xiaomi-pad-9-pro-max",
-"source": "https://www.gsmarena.com/xiaomi_pad_9_pro_max-14932.php",
-"tag": "13.3\" display · XRing O3 · 8 GB RAM · 12000 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.83\" display",
-"Qualcomm SM6850 Snapdragon 6 G",
-"8 GB RAM",
-"10000 mAh"
-],
-"name": "Xiaomi Poco X8 Power",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 04, released 2026, September 11)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"163.4 x 78.3 x 8.6 mm (6.43 x 3.08 x 0.34 in); 229 g (8.08 oz); Glass front (Gorilla Glass Victus 2), plastic back, plastic frame; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"AMOLED, 68B colors, 120Hz, 3840Hz PWM, HDR10+, Dolby Vision, 1060 nits (typ), 2000 nits (HBM), 3500 nits (peak); 6.83 inches, 114.5 cm2 (~89.5% screen-to-body ratio); 1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density); Corning Gorilla Glass Victus 2"
-],
-[
-"OS",
-"Android 16, up to 4 major OS updates, HyperOS 3"
-],
-[
-"Chipset",
-"Qualcomm SM6850 Snapdragon 6 Gen 5 (4 nm); CPU Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Adreno 812"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.5, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS 8 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/4.0\", 1.12µm; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.2, (wide), 1/3.6\", 0.61µm; HDR, panorama; video 4K@30fps, 1080p@30/60fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, compass, proximity (ultrasonic)"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Yes"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, QZSS, BDS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 10000 mAh"
-],
-[
-"Charging",
-"100W wired, PD3.0, PPS 27W reverse wired Bypass charging"
-],
-[
-"Colors",
-"Black, Yellow"
-]
-],
-"slug": "xiaomi-poco-x8-power-5g",
-"source": "https://www.gsmarena.com/xiaomi_poco_x8_power_5g-14912.php",
-"tag": "6.83\" display · Qualcomm SM6850 Snapdragon 6 G · 8 GB RAM · 10000 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.83\" display",
-"Qualcomm SM6435-AA Snapdragon ",
-"6 GB RAM",
-"8340 mAh"
-],
-"name": "Xiaomi Poco X8",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 01, released 2026, September 11)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"163.5 x 78.3 x 8.6 mm (6.44 x 3.08 x 0.34 in); 223 g (7.87 oz); Glass front (Gorilla Glass Victus 2), plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 68B colors, 120Hz, 3840Hz PWM, 1060 nits (typ), 1800 nits (HBM), 3500 nits (peak); 6.83 inches, 114.5 cm2 (~89.5% screen-to-body ratio); 1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density); Corning Gorilla Glass Victus 2"
-],
-[
-"OS",
-"Android 16, HyperOS 3"
-],
-[
-"Chipset",
-"Qualcomm SM6435-AA Snapdragon 6s Gen 4 (4 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55); GPU Adreno 710"
-],
-[
-"RAM",
-"6 GB / 8 GB / 12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 26mm (wide), 1/2.76\", 0.64µm, PDAF, OIS Auxiliary lens; LED flash, HDR, panorama; video 1080p@30fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.4, (wide), 1.0µm; HDR, panorama; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, compass, proximity"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.1, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 8340 mAh - version 1Si/C Li-Ion 9000 mAh - version 2"
-],
-[
-"Charging",
-"67W wired, PD3.0 22.5W reverse wired"
-],
-[
-"Colors",
-"Black, Frost White, Fiery Orange"
-]
-],
-"slug": "xiaomi-poco-x8-5g",
-"source": "https://www.gsmarena.com/xiaomi_poco_x8_5g-14911.php",
-"tag": "6.83\" display · Qualcomm SM6435-AA Snapdragon  · 6 GB RAM · 8340 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.83\" display",
-"Qualcomm SM6850 Snapdragon 6 G",
-"8 GB RAM",
-"9210 mAh"
-],
-"name": "Xiaomi Redmi Note 17 Pro Max",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, August 27, released 2026, August 28)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"163.4 x 78.3 x 8.6 mm (6.43 x 3.08 x 0.34 in); 229.5 g (8.11 oz); Glass front (Gorilla Glass Victus 2), plastic back, plastic frame; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"AMOLED, 68B colors, 120Hz, 3840Hz PWM, HDR10+, Dolby Vision, 1060 nits (typ), 2000 nits (HBM), 3500 nits (peak); 6.83 inches, 114.5 cm2 (~89.5% screen-to-body ratio); 1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density); Corning Gorilla Glass Victus 2"
-],
-[
-"OS",
-"Android 16, HyperOS 3"
-],
-[
-"Chipset",
-"Qualcomm SM6850 Snapdragon 6 Gen 5 (4 nm); CPU Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Adreno 812"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.5, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS 8 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/4.0\", 1.12µm; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.2, 22mm (wide), 1/3.6\", 0.61µm; HDR, panorama; video 4K@30fps, 1080p@30/60fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, compass, proximity"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 9210 mAh - version 1Si/C Li-Ion 10000 mAh - version 2"
-],
-[
-"Charging",
-"100W wired, PD3.0, PPS 27W reverse wired"
-],
-[
-"Colors",
-"Black, Purple, Cloud Blush, Green, Secret Sunrise"
-]
-],
-"slug": "xiaomi-redmi-note-17-pro-max-5g",
-"source": "https://www.gsmarena.com/xiaomi_redmi_note_17_pro_max_5g-14845.php",
-"tag": "6.83\" display · Qualcomm SM6850 Snapdragon 6 G · 8 GB RAM · 9210 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.83\" display",
-"Qualcomm SM6435-AA Snapdragon ",
-"6 GB RAM",
-"8340 mAh"
-],
-"name": "Xiaomi Redmi Note 17 Pro",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, August 27, released 2026, August 28)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"163.5 x 78.3 x 8.6 mm (6.44 x 3.08 x 0.34 in); 223 g (7.87 oz); Glass front (Gorilla Glass Victus 2), plastic back, plastic frame; Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"AMOLED, 68B colors, 120Hz, 3840Hz PWM, 1060 nits (typ), 1800 nits (HBM), 3500 nits (peak); 6.83 inches, 114.5 cm2 (~89.5% screen-to-body ratio); 1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density); Corning Gorilla Glass Victus 2"
-],
-[
-"OS",
-"Android 16, HyperOS 3"
-],
-[
-"Chipset",
-"Qualcomm SM6435-AA Snapdragon 6s Gen 4 (4 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55); GPU Adreno 710"
-],
-[
-"RAM",
-"6 GB / 8 GB / 12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 26mm (wide), 1/2.76\", 0.64µm, PDAF, OIS 8 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/4.0\", 1.12µm; LED flash, HDR, panorama; video 1080p@30fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.4, (wide), 1.0µm; HDR, panorama; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, compass, proximity (ultrasonic)"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.1, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 8340 mAh - version 1Si/C Li-Ion 9000 mAh - version 2"
-],
-[
-"Charging",
-"67W wired, PD3.0, 50% in 34 min 22.5W reverse wired"
-],
-[
-"Colors",
-"Sky Blue, Black, Satin Orange, Purple"
-]
-],
-"slug": "xiaomi-redmi-note-17-pro-5g",
-"source": "https://www.gsmarena.com/xiaomi_redmi_note_17_pro_5g-14844.php",
-"tag": "6.83\" display · Qualcomm SM6435-AA Snapdragon  · 6 GB RAM · 8340 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.99\" display",
-"Qualcomm SM4450-AF Snapdragon ",
-"6 GB RAM",
-"7700 mAh"
-],
-"name": "Xiaomi Redmi Note 17",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, August 27, released 2026, August 28)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"169.7 x 79.1 x 8.5 mm (6.68 x 3.11 x 0.33 in); 225 g (7.94 oz); Glass front (Gorilla Glass 7i), plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 120Hz, 700 nits (typ), 1200 nits (HBM), 1800 nits (peak); 6.99 inches, 118.7 cm2 (~88.4% screen-to-body ratio); 1080 x 2396 pixels (~375 ppi density); Corning Gorilla Glass 7i"
-],
-[
-"OS",
-"Android 16, HyperOS 3"
-],
-[
-"Chipset",
-"Qualcomm SM4450-AF Snapdragon 4 Gen 4 (4 nm); CPU Octa-core (2x2.3 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55); GPU Adreno 613"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 26mm (wide), 1/2.76\", 0.64µm, PDAF; LED flash, HDR, panorama; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.5, (wide), 1/3.0\"; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.1, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS (B1I + B1C)"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7700 mAh"
-],
-[
-"Charging",
-"45W wired, PD3.0 22.5W reverse wired"
-],
-[
-"Colors",
-"Celestial Purple, Sky Teal, Black"
-]
-],
-"slug": "xiaomi-redmi-note-17-5g",
-"source": "https://www.gsmarena.com/xiaomi_redmi_note_17_5g-14846.php",
-"tag": "6.99\" display · Qualcomm SM4450-AF Snapdragon  · 6 GB RAM · 7700 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.99\" display",
-"Qualcomm SM6225-AF Snapdragon ",
-"4 GB RAM",
-"7700 mAh"
-],
-"name": "Xiaomi Redmi Note 17 4G",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, August 27, released 2026, August 28)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"169.7 x 79.1 x 8.5 mm (6.68 x 3.11 x 0.33 in); 224 g (7.90 oz); Glass front (Gorilla Glass 7i), plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 120Hz, 700 nits (typ), 1200 nits (HBM), 1800 nits (peak); 6.99 inches, 118.7 cm2 (~88.4% screen-to-body ratio); 1080 x 2396 pixels (~375 ppi density); Corning Gorilla Glass 7i"
-],
-[
-"OS",
-"Android 16, HyperOS 3"
-],
-[
-"Chipset",
-"Qualcomm SM6225-AF Snapdragon 6s 4G Gen 2 (6 nm); CPU Octa-core (4x2.9 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53); GPU Adreno 610"
-],
-[
-"RAM",
-"4 GB / 6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 26mm (wide), 1/2.76\", 0.64µm, PDAF; LED flash, HDR, panorama; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.5, (wide), 1/3.0\"; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.0, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7700 mAh"
-],
-[
-"Charging",
-"45W wired, PD3.0 22.5W reverse wired"
-],
-[
-"Colors",
-"Celestial Purple, Sky Teal, Black"
-]
-],
-"slug": "xiaomi-redmi-note-17",
-"source": "https://www.gsmarena.com/xiaomi_redmi_note_17-14847.php",
-"tag": "6.99\" display · Qualcomm SM6225-AF Snapdragon  · 4 GB RAM · 7700 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.9\" display",
-"Qualcomm SM8850-AC Snapdragon ",
-"12 GB RAM",
-"8000 mAh"
-],
-"name": "Xiaomi 17 Max",
-"price": 188999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, May 21, released 2026, May 21)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.9 x 77.6 x 8.2 mm (6.41 x 3.06 x 0.32 in); 219 g or 225 g (7.72 oz); Glass front, aluminum frame, glass back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"LTPO AMOLED, 68B colors, PWM, 120Hz, Dolby Vision, HDR Vivid, HDR10+, 3500 nits (peak); 6.9 inches, 114.4 cm2 (~90.5% screen-to-body ratio); 1200 x 2608 pixels, 19.5:9 ratio (~420 ppi density)"
-],
-[
-"OS",
-"Android 16, HyperOS 3"
-],
-[
-"Chipset",
-"Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.7, 23mm (wide), 1/1.4\", 1.12µm, dual pixel PDAF, OIS 50 MP, f/2.4, 70mm (periscope telephoto), 1/2.0\", PDAF (15cm - ∞), OIS, 3x optical zoom 50 MP, f/2.4, 17mm, 102˚ (ultrawide), 1/2.76\", 0.64µm; Laser AF, color spectrum sensor, Leica lens, LED flash, HDR, panorama; video 8K@30fps (HDR), 4K@30/60fps (10-bit Dolby Vision HDR), 4K@120fps, 1080p@30/60/120/240/960fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.2, 21mm (wide); video 4K@30fps, 1080p@30/60fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5, MIHC"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, Display Port, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 8000 mAh"
-],
-[
-"Charging",
-"100W wired, PD3.0, QC3+, 100W PPS 50W wireless 22.5W reverse wireless 22.5W reverse wired"
-],
-[
-"Colors",
-"Black, Blue, White"
-]
-],
-"slug": "xiaomi-17-max-5g",
-"source": "https://www.gsmarena.com/xiaomi_17_max_5g-14667.php",
-"tag": "6.9\" display · Qualcomm SM8850-AC Snapdragon  · 12 GB RAM · 8000 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Tablets",
-"hl": [
-"10.1\" display",
-"Mediatek Helio G85",
-"4 GB RAM",
-"6600 mAh"
-],
-"name": "Xiaomi Black Shark Pad SE",
-"price": 61999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, March, released 2026, April)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"255 x 167 x 7.4 mm (10.04 x 6.57 x 0.29 in); 478 g (1.05 lb); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 450 nits; 10.1 inches, 295.8 cm2 (~69.5% screen-to-body ratio); 800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
-],
-[
-"OS",
-"Android 16"
-],
-[
-"Chipset",
-"Mediatek Helio G85 (12 nm); CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MC2"
-],
-[
-"RAM",
-"4 GB / 6 GB"
-],
-[
-"Storage",
-"128 GB; microSDXC"
-],
-[
-"Main Camera",
-"8 MP; LED flash; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"5 MP; video 1080p@30fps"
-],
-[
-"Sensors",
-"Accelerometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.0, A2DP"
-],
-[
-"GPS",
-"No"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C"
-],
-[
-"Battery",
-"6600 mAh"
-],
-[
-"Charging",
-"10W wired"
-],
-[
-"Colors",
-"Black, Blue"
-]
-],
-"slug": "xiaomi-black-shark-pad-se",
-"source": "https://www.gsmarena.com/xiaomi_black_shark_pad_se-14777.php",
-"tag": "10.1\" display · Mediatek Helio G85 · 4 GB RAM · 6600 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.9\" display",
-"Unisoc T7250",
-"4 GB RAM",
-"6300 mAh"
-],
-"name": "Xiaomi Poco C81",
-"price": 30999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, April 23, released 2026, April 23)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"171.6 x 79.5 x 8.2 mm (6.76 x 3.13 x 0.32 in); 208 g (7.34 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 800 nits (peak); 6.9 inches, 114.9 cm2 (~84.3% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~254 ppi density)"
-],
-[
-"OS",
-"Android 16, up to 4 major OS updates, HyperOS 3"
-],
-[
-"Chipset",
-"Unisoc T7250 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55); GPU Mali-G57 MP1"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"13 MP, (wide); LED flash; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"8 MP, (wide); HDR; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.2, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"6300 mAh"
-],
-[
-"Charging",
-"15W wired 7.5W reverse wired"
-],
-[
-"Colors",
-"Sky Blue, Elite Black, Sunset Gold"
-]
-],
-"slug": "xiaomi-poco-c81",
-"source": "https://www.gsmarena.com/xiaomi_poco_c81-14626.php",
-"tag": "6.9\" display · Unisoc T7250 · 4 GB RAM · 6300 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.75\" display",
-"Mediatek Dimensity 6300",
-"6 GB RAM",
-"6500 mAh"
-],
-"name": "Oppo K15x",
-"price": 70999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, October 02, released 2026, October 02)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in); 212 g (7.48 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 1125 nits (peak); 6.75 inches, 111.4 cm2 (~85.2% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"6 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC"
-],
-[
-"Main Camera",
-"13 MP, f/2.2, 27mm (wide), AF Auxiliary lens; LED flash, HDR, panorama; video 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"5 MP, f/2.2, 27mm (wide); Panorama; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"6500 mAh"
-],
-[
-"Charging",
-"45W wired 5W reverse wired"
-],
-[
-"Colors",
-"Purple, White"
-]
-],
-"slug": "oppo-k15x-5g",
-"source": "https://www.gsmarena.com/oppo_k15x_5g-14996.php",
-"tag": "6.75\" display · Mediatek Dimensity 6300 · 6 GB RAM · 6500 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Dimensity 7360 Max",
-"6 GB RAM",
-"8000 mAh"
-],
-"name": "Oppo F35 Pro",
-"price": 132999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, October 05, released 2026, October 11)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.6 x 77.6 x 8.4 mm (6.40 x 3.06 x 0.33 in); 210 g (7.41 oz); Glass front, aluminum frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 120Hz, 2160Hz PWM, 800 nits (typ), 1800 nits (HBM), 3600 nits (peak); 6.78 inches, 112.4 cm2 (~89.1% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density); AGC DT-Star D+"
-],
-[
-"OS",
-"Android 16, ColorOS 16.5"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7360 Max (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.0\", PDAF, OIS 8 MP, f/2.2, 116˚ (ultrawide), 1/4.0\", AF; Color spectrum sensor, LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.0, 18mm (ultrawide), AF; Panorama; video 4K@30fps, 1080p@30fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"8000 mAh"
-],
-[
-"Charging",
-"80W wired, 44W UFCS, 55W PPS, 13.5W PD Reverse wired"
-],
-[
-"Colors",
-"Twilight Brown, Wave Blue, Sunrise Orange"
-]
-],
-"slug": "oppo-f35-pro-5g",
-"source": "https://www.gsmarena.com/oppo_f35_pro_5g-14859.php",
-"tag": "6.78\" display · Mediatek Dimensity 7360 Max · 6 GB RAM · 8000 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.59\" display",
-"Mediatek Dimensity 9600M",
-"12 GB RAM",
-"7150 mAh"
-],
-"name": "Oppo Find X10",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 22, released 2026, September 24)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"156.5 x 74.3 x 8.4 mm (6.16 x 2.93 x 0.33 in); 216 g (7.62 oz); Glass front (Crystal Guard), glass back (Crystal Guard), aluminum frame; Nano-SIM + eSIM Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"LTPO AMOLED, 1B colors, 144Hz, 3840Hz PWM, Dolby Vision, HDR10+, HDR Vivid, BT.2020, 800 nits (typ), 2000 nits (HBM), 3600 nits (peak); 6.59 inches, 106.7 cm2 (~91.7% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~462 ppi density); Crystal Guard"
-],
-[
-"OS",
-"Android 17, ColorOS 17"
-],
-[
-"Chipset",
-"Mediatek Dimensity 9600M (3 nm); CPU Octa-core (1x4.21 GHz & 3x3.5 GHz & 4x2.7 GHz); GPU ARM Mali-G1 Ultra MC12"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.6, 23mm (wide), 1/1.4\", 0.56µm, PDAF, OIS 200 MP, f/2.6, 65mm (periscope telephoto), 1/1.56\", 0.5µm, PDAF, OIS, 2.8x optical zoom 50 MP, f/2.0, 15mm (ultrawide), 1/2.75\", 0.64µm, PDAF; Laser AF, color spectrum sensor, Hasselblad Color Calibration, LED flash, HDR, panorama, LUT preview; video 8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision, LOG"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.0, 18mm (ultrawide), 1/2.76\", 0.64µm, PDAF; Panorama; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band or tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.2, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC (L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7150 mAh - EU Si/C Li-Ion 8000 mAh - Global"
-],
-[
-"Charging",
-"80W wired, 44/80W UFCS, 55W PPS, 13.5W PD 50W wireless 10W reverse wireless"
-],
-[
-"Colors",
-"Glacier Blue, Glow Coral, Mist Grey"
-]
-],
-"slug": "oppo-find-x10",
-"source": "https://www.gsmarena.com/oppo_find_x10-14953.php",
-"tag": "6.59\" display · Mediatek Dimensity 9600M · 12 GB RAM · 7150 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.59\" display",
-"Mediatek Dimensity 9500s",
-"12 GB RAM",
-"7025 mAh"
-],
-"name": "Oppo Find X10 E",
-"price": 201999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 22, released 2026, September 24)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"157 x 73.9 x 8 mm (6.18 x 2.91 x 0.31 in); 203 g (7.16 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 120Hz, 3840Hz PWM, Dolby Vision, HDR Vivid, 800 nits (typ), 1800 nits (peak); 6.59 inches, 105.6 cm2 (~91.0% screen-to-body ratio); 1256 x 2760 pixels (~460 ppi density)"
-],
-[
-"OS",
-"Android 17, ColorOS 17"
-],
-[
-"Chipset",
-"Mediatek Dimensity 9500s (3 nm); CPU Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720); GPU Immortalis-G925 MC11"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.6, 23mm (wide), 1/1.4\", PDAF, OIS 50 MP, f/2.6, 73mm (telephoto), 1/1.95\", PDAF, OIS, 3x optical zoom 50 MP, f/2.0, 15mm (ultrawide), 1/2.75\", 0.64µm, PDAF; Laser AF, color spectrum sensor, Hasselblad Color Calibration, LED flash, HDR, panorama, LUT preview; video 4K@30/60fps, 1080p@30/60/240fps, gyro-EIS, Dolby Vision, 10-bit HDR"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.4, 21mm (wide), 1/2.74\", 0.8µm; Panorama; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.2, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC (L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7025 mAh"
-],
-[
-"Charging",
-"80W wired, 44/80W UFCS, 55W PPS, 13.5W PD 50W wireless 10W reverse wireless"
-],
-[
-"Colors",
-"Titanium Gray, Blue"
-]
-],
-"slug": "oppo-find-x10-e",
-"source": "https://www.gsmarena.com/oppo_find_x10_e-14954.php",
-"tag": "6.59\" display · Mediatek Dimensity 9500s · 12 GB RAM · 7025 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Dimensity 7360 Max",
-"6 GB RAM",
-"8000 mAh"
-],
-"name": "Oppo K14 Plus",
-"price": 86999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 28, released 2026, October 07)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.6 x 77.6 x 8.4 mm (6.40 x 3.06 x 0.33 in); 207 g (7.30 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 144Hz, 800 nits (typ), 1800 nits (HBM), 3600 nits (peak); 6.78 inches, 112.4 cm2 (~89.1% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density); AGC DT-Star D+"
-],
-[
-"OS",
-"Android 16, ColorOS 16.5"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7360 Max (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.0\", PDAF, OIS Auxiliary lens; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.4, (wide), 1/3.09\"; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"8000 mAh"
-],
-[
-"Charging",
-"45W wired, UFCS, 45W PPS, 13.5W PD Reverse wired"
-],
-[
-"Colors",
-"Star White, Solar Orange"
-]
-],
-"slug": "oppo-k14-plus-5g",
-"source": "https://www.gsmarena.com/oppo_k14_plus_5g-14963.php",
-"tag": "6.78\" display · Mediatek Dimensity 7360 Max · 6 GB RAM · 8000 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.75\" display",
-"Unisoc T7250",
-"4 GB RAM",
-"7000 mAh"
-],
-"name": "Oppo K14 Lite",
-"price": 45999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 16, released 2026, September 16)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"166.6 x 78.2 x 9 mm (6.56 x 3.08 x 0.35 in); 215 g (7.58 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 900 nits (HBM); 6.75 inches, 111.4 cm2 (~85.5% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Unisoc T7250 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55); GPU Mali-G57 MP1"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB; microSDXC"
-],
-[
-"Main Camera",
-"13 MP, f/2.2, (wide), AF; LED flash, panorama; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"5 MP, f/2.2, (wide); video 720p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.2, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"7000 mAh"
-],
-[
-"Charging",
-"15W wired, 15W PD, 37% in 30 min Reverse wired"
-],
-[
-"Colors",
-"Stone Brown, Feather Purple"
-]
-],
-"slug": "oppo-k14-lite",
-"source": "https://www.gsmarena.com/oppo_k14_lite-14942.php",
-"tag": "6.75\" display · Unisoc T7250 · 4 GB RAM · 7000 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.57\" display",
-"Mediatek Dimensity 6360 Max",
-"6 GB RAM",
-"8000 mAh"
-],
-"name": "Oppo A7 Pro",
-"price": 86999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 08, released 2026, September 11)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"159.1 x 75.8 x 8.8 mm (6.26 x 2.98 x 0.35 in); 205 g (7.23 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 120Hz, 800 nits (typ), 1400 nits (peak); 6.57 inches, 105.0 cm2 (~87.1% screen-to-body ratio); 1080 x 2372 pixels (~397 ppi density)"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6360 Max (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"256 GB; microSDXC"
-],
-[
-"Main Camera",
-"50 MP, f/1.9, 25mm (wide), PDAF, OIS Auxiliary lens; LED flash, HDR, panorama; video 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.1, 25mm (wide); Panorama; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 8000 mAh"
-],
-[
-"Charging",
-"45W wired, 45W UFCS, 45W PPS, 13.5W PD Reverse wired"
-],
-[
-"Colors",
-"Gray, Blue, Pink"
-]
-],
-"slug": "oppo-a7-pro-5g",
-"source": "https://www.gsmarena.com/oppo_a7_pro_5g-14928.php",
-"tag": "6.57\" display · Mediatek Dimensity 6360 Max · 6 GB RAM · 8000 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.59\" display",
-"Mediatek Dimensity 7360 Super",
-"12 GB RAM",
-"8000 mAh"
-],
-"name": "Oppo K15",
-"price": 92999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, July 24, released 2026, July 24)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"158.3 x 75.1 x 8.3 mm (6.23 x 2.96 x 0.33 in); 205 g (7.23 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 120Hz, 1200 nits (peak); 6.59 inches, 105.6 cm2 (~88.9% screen-to-body ratio); 1256 x 2760 pixels (~460 ppi density)"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7360 Super (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 26mm (wide), PDAF, OIS 50 MP, f/2.2, 16mm, 143˚ (ultrawide); Color spectrum sensor, LED flash, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.0, 18mm (wide), AF; Panorama; video 4K@30fps, 1080p@30/60fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 8000 mAh"
-],
-[
-"Charging",
-"80W wired, 44W/80W UFCS, 55W PPS, 13.5W PD Reverse wired Bypass charging"
-],
-[
-"Colors",
-"Gray, Silver"
-]
-],
-"slug": "oppo-k15-5g",
-"source": "https://www.gsmarena.com/oppo_k15_5g-14810.php",
-"tag": "6.59\" display · Mediatek Dimensity 7360 Super · 12 GB RAM · 8000 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.57\" display",
-"Mediatek Dimensity 7300 Energy",
-"8 GB RAM",
-"7000 mAh"
-],
-"name": "Oppo Reno16 F",
-"price": 169999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, June 25, released 2026, July 13)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"158.2 x 74.5 x 8.4 mm or 8.6 mm; 194/195/196/197 g (6.84 oz); Glass front, plastic frame, glass back or composite plastic back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"AMOLED, 1B colors, 120Hz, 600 nits (typ), 1400 nits (HBM); 6.57 inches, 105.0 cm2 (~89.1% screen-to-body ratio); 1080 x 2372 pixels (~397 ppi density); Crystal Guard"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7300 Energy (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF, OIS 50 MP, f/2.8, 92mm (telephoto), 1/3.13\", 0.56µm, PDAF, OIS, 3.5x optical zoom 8 MP, f/2.2, 15mm, 116˚ (ultrawide), 1/4.0\", 1.12µm, AF; Color spectrum sensor, Multi-focus LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.0, 18mm, 100˚ (ultrawide), 1/2.88\", 0.61µm, AF; Panorama; video 4K@30fps, 1080p@30fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS, QZSS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7000 mAh (International) or 6500 mAh (Europe)"
-],
-[
-"Charging",
-"80W wired, 55W PPS, 13.5W PD/QC, 100% in 62 min - International model 45W wired, 45W PPS, 13.5W PD/QC, 100% in 84 min - Europe model Reverse wired"
-],
-[
-"Colors",
-"Pop White, Twilight Violet, Dream Purple"
-]
-],
-"slug": "oppo-reno16-f-5g",
-"source": "https://www.gsmarena.com/oppo_reno16_f_5g-14751.php",
-"tag": "6.57\" display · Mediatek Dimensity 7300 Energy · 8 GB RAM · 7000 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Tablets",
-"hl": [
-"12.1\" display",
-"Mediatek Dimensity 9500s",
-"8 GB RAM",
-"10420 mAh"
-],
-"name": "Oppo Pad 6",
-"price": 135999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, May 25, released 2026, May 29)"
-],
-[
-"Network",
-"No cellular connectivity"
-],
-[
-"Body",
-"266.9 x 193.4 x 6 mm (10.51 x 7.61 x 0.24 in); 577 g or 579 g (1.27 lb); No"
-],
-[
-"Display",
-"IPS LCD, 1B colors, 144Hz, Dolby Vision, 600 nits (typ), 900 nits (HBM); 12.1 inches, 445.2 cm2 (~86.2% screen-to-body ratio); 2120 x 3000 pixels (~304 ppi density)"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 9500s (3 nm); CPU Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720); GPU Immortalis-G925 MC11"
-],
-[
-"RAM",
-"8 GB / 12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"8 MP; Color spectrum sensor, LED flash; video 4K@30fps, 1080p@30ps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"8 MP; video 1080p@30fps"
-],
-[
-"Sensors",
-"Accelerometer, proximity (accessories only), gyro"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (6 speakers)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"No"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG, accessory connector"
-],
-[
-"Battery",
-"10420 mAh"
-],
-[
-"Charging",
-"67W wired, 67W UFCS, 55W PPS, 18W PD"
-],
-[
-"Colors",
-"Silver, Gray, Blue"
-]
-],
-"slug": "oppo-pad-6",
-"source": "https://www.gsmarena.com/oppo_pad_6-14690.php",
-"tag": "12.1\" display · Mediatek Dimensity 9500s · 8 GB RAM · 10420 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.32\" display",
-"Mediatek Dimensity 9500",
-"12 GB RAM",
-"7025 mAh"
-],
-"name": "Oppo Find X9s Pro",
-"price": 231999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, April 21, released 2026, April)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"150.5 x 71.7 x 8.4 mm or 8.6 mm; 198 g or 200 g (6.98 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 144Hz, 3840Hz PWM, Dolby Vision, HDR Vivid, 800 nits (typ), 1800 nits (peak); 6.32 inches, 97.9 cm2 (~90.7% screen-to-body ratio); 1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density)"
-],
-[
-"OS",
-"Android 16, ColorOS 16.0"
-],
-[
-"Chipset",
-"Mediatek Dimensity 9500 (3 nm); CPU Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro); GPU Immortalis-G925"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.6, 23mm (wide), 1/1.4\", 0.56µm, PDAF, OIS 200 MP, f/2.6, 65mm (periscope telephoto), 1/1.56\", PDAF, OIS, 2.8x optical zoom 50 MP, f/2.0, 15mm, 120˚ (ultrawide), PDAF; Laser AF, color spectrum sensor, Hasselblad Color Calibration, Hasselblad Ultra HD, HDR, panorama, Multi-focus LED flash; video 8K@30fps (10-bit Log), 4K@30/60/120fps, 1080p@30/60/120/240fps, gyro-EIS, OIS, Dolby Vision HDR, 3D LUT"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.4, 21mm (wide); Panorama, HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.1, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), GALILEO (E1+E5a+E5b), QZSS (L1+L5), BDS (B1l+B1C+ B2a+B2b), GLONASS, NavIC (L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7025 mAh"
-],
-[
-"Charging",
-"80W wired, 44W/80W UFCS, 55W PPS, 13.5W PD 50W wireless"
-],
-[
-"Colors",
-"Blue/Green, Orange, Titanium, White"
-]
-],
-"slug": "oppo-find-x9s-pro",
-"source": "https://www.gsmarena.com/oppo_find_x9s_pro-14592.php",
-"tag": "6.32\" display · Mediatek Dimensity 9500 · 12 GB RAM · 7025 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.57\" display",
-"Mediatek Dimensity 6360 Max",
-"8 GB RAM",
-"7000 mAh"
-],
-"name": "Oppo F33 Pro",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, April 15, released 2026, April 26)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"158.4 x 75.2 x 8.3 mm (6.24 x 2.96 x 0.33 in); 194 g (6.84 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 120Hz, 600 nits (typ), 1400 nits (HBM); 6.57 inches, 105.0 cm2 (~88.2% screen-to-body ratio); 1080 x 2372 pixels (~397 ppi density); Asahi Glass DT-STAR D+"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6360 Max (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), PDAF Auxiliary lens; Color spectrum sensor, LED flash, HDR, panorama; video 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.0, 18mm (ultrawide), AF; Panorama; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7000 mAh"
-],
-[
-"Charging",
-"80W wired, 55W PPS, 13.5W PD 5W reverse wired"
-],
-[
-"Colors",
-"Misty Forest, Passion Red, Starry Blue"
-]
-],
-"slug": "oppo-f33-pro-5g",
-"source": "https://www.gsmarena.com/oppo_f33_pro_5g-14601.php",
-"tag": "6.57\" display · Mediatek Dimensity 6360 Max · 8 GB RAM · 7000 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.57\" display",
-"Mediatek Dimensity 6360 Max",
-"6 GB RAM",
-"7000 mAh"
-],
-"name": "Oppo F33",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, April 15, released 2026, April 21)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"158.2 x 75 x 8 mm (6.23 x 2.95 x 0.31 in); 189 g (6.67 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 120Hz, 600 nits (typ), 1400 nits (HBM); 6.57 inches, 105.0 cm2 (~88.5% screen-to-body ratio); 1080 x 2372 pixels (~397 ppi density); Asahi Glass DT-STAR D+"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6360 Max (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash, HDR, panorama; video 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.4, (wide); Panorama; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7000 mAh"
-],
-[
-"Charging",
-"80W wired, 33W PPS, 13.5W PD 10W reverse wired"
-],
-[
-"Colors",
-"Pearl White, Forest Green"
-]
-],
-"slug": "oppo-f33-5g",
-"source": "https://www.gsmarena.com/oppo_f33_5g-14602.php",
-"tag": "6.57\" display · Mediatek Dimensity 6360 Max · 6 GB RAM · 7000 mAh",
-"year": 2026
-}
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Qualcomm SM8750-AC Snapdragon ",
+   "12 GB RAM",
+   "3900 mAh"
+  ],
+  "name": "Samsung Galaxy S25 Edge",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, May 13, released 2025, May 29)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "158.2 x 75.6 x 5.8 mm (6.23 x 2.98 x 0.23 in); 163 g (5.75 oz); Glass front (Gorilla Glass Ceramic 2), titanium frame, glass back (Gorilla Glass Victus 2); Nano-SIM + eSIM Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED 2X, 120Hz, HDR10+; 6.7 inches, 110.2 cm2 (~92.1% screen-to-body ratio); 1440 x 3120 pixels, 19.5:9 ratio (~513 ppi density); Corning Gorilla Glass Ceramic 2"
+   ],
+   [
+    "OS",
+    "Android 15, upgradable to Android 17, up to 7 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8750-AC Snapdragon 8 Elite (3 nm); CPU Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); GPU Adreno 830 (1200 MHz)"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.7, 24mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS 12 MP, f/2.2, 13mm (ultrawide), 1/2.55\", 1.4µm, PDAF; Best Face, LED flash, HDR, panorama; video 8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 10-bit HDR"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.2, 26mm (wide), 1/3.2\", 1.12µm, dual pixel PDAF; video 4K@30/60fps, 1080p@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2"
+   ],
+   [
+    "Battery",
+    "Li-Ion 3900 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired, PD, QC2.0, 55% in 30 min 15W wireless (Qi2 Ready)"
+   ],
+   [
+    "Colors",
+    "Titanium Icyblue, Titanium Silver, Titanium Jetblack"
+   ]
+  ],
+  "slug": "samsung-galaxy-s25-edge",
+  "source": "https://www.gsmarena.com/samsung_galaxy_s25_edge-13506.php",
+  "tag": "6.7\" display · Qualcomm SM8750-AC Snapdragon  · 12 GB RAM · 3900 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.74\" display",
+   "Exynos 1480",
+   "8 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy F56",
+  "price": 83999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, May 07, released 2025, May 14)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162 x 77.3 x 7.2 mm (6.38 x 3.04 x 0.28 in); 180 g (6.35 oz); Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Super AMOLED+, 120Hz; 6.74 inches, 111.5 cm2 (~89.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~382 ppi density); Corning Gorilla Glass Victus+"
+   ],
+   [
+    "OS",
+    "Android 15, up to 6 major OS updates, One UI 8.5"
+   ],
+   [
+    "Chipset",
+    "Exynos 1480 (4 nm); CPU Octa-core (4x2.75 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Xclipse 530"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF, OIS 8 MP, f/2.2, (ultrawide) 2 MP (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, gyro-EIS, OIS, 10-bit HDR"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.2, (wide); HDR; video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired"
+   ],
+   [
+    "Colors",
+    "Green, Violet"
+   ]
+  ],
+  "slug": "samsung-galaxy-f56-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_f56_5g-13855.php",
+  "tag": "6.74\" display · Exynos 1480 · 8 GB RAM · 5000 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.74\" display",
+   "Exynos 1480",
+   "8 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy M56",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, April 17, released 2025, April 17)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162 x 77.3 x 7.2 mm (6.38 x 3.04 x 0.28 in); 180 g (6.35 oz); Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Super AMOLED+, 120Hz; 6.74 inches, 111.5 cm2 (~89.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~382 ppi density); Corning Gorilla Glass Victus+"
+   ],
+   [
+    "OS",
+    "Android 15, up to 6 major OS updates, One UI 7"
+   ],
+   [
+    "Chipset",
+    "Exynos 1480 (4 nm); CPU Octa-core (4x2.75 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Xclipse 530"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF, OIS 8 MP, f/2.2, (ultrawide) 2 MP (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, gyro-EIS, OIS, 10-bit HDR"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.2, (wide); video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired"
+   ],
+   [
+    "Colors",
+    "Black, Light Green"
+   ]
+  ],
+  "slug": "samsung-galaxy-m56-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_m56_5g-13801.php",
+  "tag": "6.74\" display · Exynos 1480 · 8 GB RAM · 5000 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "hl": [
+   "6.3\" display",
+   "Apple A20 Pro",
+   "12 GB RAM",
+   "4056 mAh"
+  ],
+  "name": "Apple iPhone 18 Pro",
+  "price": 572999,
+  "price_src": "https://priceoye.pk/mobiles/apple/apple-iphone-18-pro",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 09, released 2026, September 18)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "150 x 71.9 x 8.8 mm (5.91 x 2.83 x 0.35 in); 211 g (7.44 oz); Glass front (Ceramic Shield 2), aluminum frame, aluminum back/ glass back (Ceramic Shield); Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time; China)"
+   ],
+   [
+    "Display",
+    "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak); 6.3 inches, 96.4 cm2 (~89.4% screen-to-body ratio); 1206 x 2622 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield 2"
+   ],
+   [
+    "OS",
+    "iOS 27, upgradable to iOS 27.2"
+   ],
+   [
+    "Chipset",
+    "Apple A20 Pro (2 nm); CPU Hexa-core (2x4.93 GHz + 4x2.64 GHz); GPU Apple GPU (7-core graphics)"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB / 2 TB; No"
+   ],
+   [
+    "Main Camera",
+    "48 MP, f/1.5-4.0, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS (gen2) 48 MP, f/2.8, 100mm (periscope telephoto), 1/2.55\", 0.7µm, PDAF, 3D sensor‑shift OIS, 4x optical zoom 48 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 0.7µm, PDAF TOF 3D LiDAR scanner (depth); Dual-LED dual-tone flash, HDR (photo/panorama), Cinematic from regular video; video 4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 120fps), ProRes, ProRes RAW (up to 120fps), Apple Log 2, 3D (spatial) video/audio, stereo sound rec."
+   ],
+   [
+    "Selfie Camera",
+    "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec., ProRes RAW, Apple Log 2; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2 Gen 2, DisplayPort"
+   ],
+   [
+    "Battery",
+    "Market-dependent versions: Li-Ion 4056 mAh - Nano SIM model Li-Ion 4288 mAh - eSIM only model*"
+   ],
+   [
+    "Charging",
+    "Wired, PD3.2, AVS, 50% in 15 min 25W wireless MagSafe/Qi2, 50% in 30 min (15W - China) 4.5W reverse wired * eSIM only model battery capacity is officially unconfirmed"
+   ],
+   [
+    "Colors",
+    "Black, Silver, Glacier, Burgundy"
+   ]
+  ],
+  "slug": "apple-iphone-18-pro",
+  "source": "https://www.gsmarena.com/apple_iphone_18_pro-14934.php",
+  "tag": "6.3\" display · Apple A20 Pro · 12 GB RAM · 4056 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Apple",
+  "cat": "Tablets",
+  "hl": [
+   "13.0\" display",
+   "Apple M4",
+   "12 GB RAM",
+   "9705 mAh"
+  ],
+  "name": "Apple iPad Air 13 (2026)",
+  "price": 263999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, March 02, released 2026, March 11)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "280.6 x 214.9 x 6.1 mm (11.05 x 8.46 x 0.24 in); 616 g (Wi-Fi) / 617 g (5G) (1.36 lb); Glass front, aluminum back, aluminum frame; eSIM (cellular model only)"
+   ],
+   [
+    "Display",
+    "Liquid Retina IPS LCD, 600 nits (typ); 13.0 inches, 519.3 cm2 (~86.1% screen-to-body ratio); 2048 x 2732 pixels, 4:3 ratio (~264 ppi density); Scratch-resistant glass, oleophobic coating"
+   ],
+   [
+    "OS",
+    "iPadOS 26.3, upgradable to iPadOS 27.2"
+   ],
+   [
+    "Chipset",
+    "Apple M4; CPU Octa-core (4 performance cores and 4 efficiency cores); GPU Apple GPU (9-core graphics)"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "12 MP, f/1.8, (wide), 1/3.0\", 1.22µm, dual pixel PDAF; HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.0, 122˚ (ultrawide); HDR; video 1080p@25/30/60fps; gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (top-mounted), accelerometer, gyro, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, hotspot"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS (5G model only)"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.1 Gen2, DisplayPort, magnetic connector"
+   ],
+   [
+    "Battery",
+    "Li-Po 9705 mAh (36.59 Wh)"
+   ],
+   [
+    "Colors",
+    "Space Gray, Starlight, Purple, Blue"
+   ]
+  ],
+  "slug": "apple-ipad-air-13-5g-(2026)",
+  "source": "https://www.gsmarena.com/apple_ipad_air_13_5g_(2026)-14521.php",
+  "tag": "13.0\" display · Apple M4 · 12 GB RAM · 9705 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "hl": [
+   "6.5\" display",
+   "Apple A19 Pro",
+   "12 GB RAM",
+   "3149 mAh"
+  ],
+  "name": "Apple iPhone Air",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, September 09, released 2025, September 19)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "156.2 x 74.7 x 5.6 mm (6.15 x 2.94 x 0.22 in); 165 g (5.82 oz); Glass front (Ceramic Shield 2), titanium frame (grade 5), glass back (Ceramic Shield); eSIM + eSIM (8 or more, max 2 at a time)"
+   ],
+   [
+    "Display",
+    "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak); 6.5 inches, 104.9 cm2 (~89.9% screen-to-body ratio); 1260 x 2736 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield 2"
+   ],
+   [
+    "OS",
+    "iOS 26, upgradable to iOS 27.2"
+   ],
+   [
+    "Chipset",
+    "Apple A19 Pro (3 nm); CPU Hexa-core (2x4.26 GHz + 4x2.60 GHz); GPU Apple GPU (5-core graphics)"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "48 MP, f/1.6, 26mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, sensor-shift OIS; Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Selfie Camera",
+    "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, QZSS, BDS, NavIC"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Li-Ion 3149 mAh"
+   ],
+   [
+    "Charging",
+    "Wired, PD2.0, 50% in 30 min 20 wireless MagSafe/Qi2, 50% in 30 min (15W - China) 4.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Space Black, Cloud White, Light Gold, Sky Blue"
+   ]
+  ],
+  "slug": "apple-iphone-17-air",
+  "source": "https://www.gsmarena.com/apple_iphone_17_air-13502.php",
+  "tag": "6.5\" display · Apple A19 Pro · 12 GB RAM · 3149 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Apple",
+  "cat": "Tablets",
+  "hl": [
+   "11.0\" display",
+   "Apple M3",
+   "8 GB RAM",
+   "7606 mAh"
+  ],
+  "name": "Apple iPad Air 11 (2025)",
+  "price": 216999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, March 04, released 2025, March 12)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "247.6 x 178.5 x 6.1 mm (9.75 x 7.03 x 0.24 in); 460 g (1.01 lb); Glass front, aluminum back, aluminum frame; eSIM (cellular model only)"
+   ],
+   [
+    "Display",
+    "Liquid Retina IPS LCD, 500 nits (typ); 11.0 inches, 357.6 cm2 (~80.9% screen-to-body ratio); 1640 x 2360 pixels (~264 ppi density); Scratch-resistant glass, oleophobic coating"
+   ],
+   [
+    "OS",
+    "iPadOS 18.3.2, upgradable to iPadOS 27.2"
+   ],
+   [
+    "Chipset",
+    "Apple M3; CPU Octa-core (4 performance cores and 4 efficiency cores); GPU Apple GPU (9-core graphics)"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "12 MP, f/1.8, (wide), 1/3.0\", 1.22µm, dual pixel PDAF; HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps; gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.0, 122˚ (ultrawide); HDR; video 1080p@25/30/60fps; gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (top-mounted), accelerometer, gyro, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, hotspot"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS (5G model only)"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.1 Gen2, DisplayPort, magnetic connector"
+   ],
+   [
+    "Battery",
+    "Li-Po 7606 mAh (28.93 Wh)"
+   ],
+   [
+    "Colors",
+    "Space Gray, Starlight, Purple, Blue"
+   ]
+  ],
+  "slug": "apple-ipad-air-11-(2025)",
+  "source": "https://www.gsmarena.com/apple_ipad_air_11_(2025)-13703.php",
+  "tag": "11.0\" display · Apple M3 · 8 GB RAM · 7606 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "hl": [
+   "6.1\" display",
+   "Apple A18",
+   "8 GB RAM",
+   "4005 mAh"
+  ],
+  "name": "Apple iPhone 16e",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, February 19, released 2025, February 28)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "146.7 x 71.5 x 7.8 mm (5.78 x 2.81 x 0.31 in); 167 g (5.89 oz); Glass front (Ceramic Shield), glass back, aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
+   ],
+   [
+    "Display",
+    "Super Retina XDR OLED, HDR10, 800 nits (HBM), 1200 nits (peak); 6.1 inches, 90.2 cm2 (~86.0% screen-to-body ratio); 1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield glass"
+   ],
+   [
+    "OS",
+    "iOS 18.3.1, upgradable to iOS 27.2"
+   ],
+   [
+    "Chipset",
+    "Apple A18 (3 nm); CPU Hexa-core (2x4.04 GHz + 4x2.20 GHz); GPU Apple GPU (4-core graphics)"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "48 MP, f/1.6, 26mm (wide), 1/2.55\", 0.7µm, PDAF, OIS; Dual-LED dual-tone flash, HDR, panorama, 3D (spatial) audio; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, Dolby Vision HDR, OIS, stereo sound rec."
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, HDR"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Li-Ion 4005 mAh"
+   ],
+   [
+    "Charging",
+    "Wired, 50% in 30 min 7.5W wireless (Qi)"
+   ],
+   [
+    "Colors",
+    "Black, White"
+   ]
+  ],
+  "slug": "apple-iphone-16e",
+  "source": "https://www.gsmarena.com/apple_iphone_16e-13395.php",
+  "tag": "6.1\" display · Apple A18 · 8 GB RAM · 4005 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "hl": [
+   "6.9\" display",
+   "Apple A18 Pro",
+   "8 GB RAM",
+   "4685 mAh"
+  ],
+  "name": "Apple iPhone 16 Pro Max",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 2024, September 09, released 2024, September 20)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163 x 77.6 x 8.3 mm (6.42 x 3.06 x 0.33 in); 227 g (8.01 oz); Glass front (Ceramic Shield), glass back, titanium frame (grade 5); Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
+   ],
+   [
+    "Display",
+    "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM); 6.9 inches, 115.6 cm2 (~91.4% screen-to-body ratio); 1320 x 2868 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield glass (2024 gen)"
+   ],
+   [
+    "OS",
+    "iOS 18, upgradable to iOS 27.2"
+   ],
+   [
+    "Chipset",
+    "Apple A18 Pro (3 nm); CPU Hexa-core (2x4.05 GHz + 4x2.42 GHz); GPU Apple GPU (6-core graphics)"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "48 MP, f/1.8, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.8, 120mm (periscope telephoto), 1/3.06\", 1.12µm, dual pixel PDAF, 3D sensor‑shift OIS, 5x optical zoom 48 MP, f/2.2, 13mm (ultrawide), 1/2.55\", 0.7µm, PDAF TOF 3D LiDAR scanner (depth); Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60/100/120fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, 3D (spatial) video/audio, stereo sound rec."
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF, OIS SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2 Gen 2, DisplayPort"
+   ],
+   [
+    "Battery",
+    "Li-Ion 4685 mAh"
+   ],
+   [
+    "Charging",
+    "Wired, PD2.0, 50% in 30 min 25W wireless MagSafe/Qi2, 50% in 30 min (15W - China) 4.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black Titanium, White Titanium, Natural Titanium, Desert Titanium"
+   ]
+  ],
+  "slug": "apple-iphone-16-pro-max",
+  "source": "https://www.gsmarena.com/apple_iphone_16_pro_max-13123.php",
+  "tag": "6.9\" display · Apple A18 Pro · 8 GB RAM · 4685 mAh",
+  "year": 2024
+ },
+ {
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "hl": [
+   "6.1\" display",
+   "Apple A18",
+   "8 GB RAM",
+   "3561 mAh"
+  ],
+  "name": "Apple iPhone 16",
+  "price": 330799,
+  "price_src": "https://priceoye.pk/mobiles/apple/apple-iphone-16",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 2024, September 09, released 2024, September 20)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in); 170 g (6.00 oz); Glass front (Ceramic Shield), glass back, aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
+   ],
+   [
+    "Display",
+    "Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM); 6.1 inches, 91.7 cm2 (~86.8% screen-to-body ratio); 1179 x 2556 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield glass (2024 gen)"
+   ],
+   [
+    "OS",
+    "iOS 18, upgradable to iOS 27.2"
+   ],
+   [
+    "Chipset",
+    "Apple A18 (3 nm); CPU Hexa-core (2x4.04 GHz + 4x2.20 GHz); GPU Apple GPU (5-core graphics)"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "48 MP, f/1.6, 26mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 0.7µm, dual pixel PDAF; Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, hotspot"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, DisplayPort"
+   ],
+   [
+    "Battery",
+    "Li-Ion 3561 mAh"
+   ],
+   [
+    "Charging",
+    "Wired, PD2.0, 50% in 30 min 25W wireless MagSafe/Qi2, 50% in 30 min (15W - China) 4.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, White, Pink, Teal, Ultramarine"
+   ]
+  ],
+  "slug": "apple-iphone-16",
+  "source": "https://www.gsmarena.com/apple_iphone_16-13317.php",
+  "tag": "6.1\" display · Apple A18 · 8 GB RAM · 3561 mAh",
+  "year": 2024
+ },
+ {
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "hl": [
+   "6.1\" display",
+   "Apple A17 Pro",
+   "8 GB RAM",
+   "3274 mAh"
+  ],
+  "name": "Apple iPhone 15 Pro",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2023 (announced 2023, September 12, released 2023, September 22)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "146.6 x 70.6 x 8.3 mm (5.77 x 2.78 x 0.33 in); 187 g (6.60 oz); Glass front, glass back, titanium frame (grade 5); Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
+   ],
+   [
+    "Display",
+    "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM); 6.1 inches, 91.3 cm2 (~88.2% screen-to-body ratio); 1179 x 2556 pixels, 19.5:9 ratio (~461 ppi density); Ceramic Shield glass"
+   ],
+   [
+    "OS",
+    "iOS 17, upgradable to iOS 27.2"
+   ],
+   [
+    "Chipset",
+    "Apple A17 Pro (3 nm); CPU Hexa-core (2x3.78 GHz + 4x2.11 GHz); GPU Apple GPU (6-core graphics)"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "48 MP, f/1.8, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.8, 77mm (telephoto), 1/3.5\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 1.4µm, dual pixel PDAF TOF 3D LiDAR scanner (depth); Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, 3D (spatial) video, stereo sound rec."
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF, OIS SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, hotspot"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2 Gen 2, DisplayPort"
+   ],
+   [
+    "Battery",
+    "Li-Ion 3274 mAh"
+   ],
+   [
+    "Charging",
+    "Wired, PD2.0, 50% in 30 min 15W wireless (MagSafe) 15W wireless (Qi2) - requires iOS 17.2 update 4.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black Titanium, White Titanium, Blue Titanium, Natural Titanium"
+   ]
+  ],
+  "slug": "apple-iphone-15-pro",
+  "source": "https://www.gsmarena.com/apple_iphone_15_pro-12557.php",
+  "tag": "6.1\" display · Apple A17 Pro · 8 GB RAM · 3274 mAh",
+  "year": 2023
+ },
+ {
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "hl": [
+   "6.1\" display",
+   "Apple A16 Bionic",
+   "6 GB RAM",
+   "3349 mAh"
+  ],
+  "name": "Apple iPhone 15",
+  "price": 264999,
+  "price_src": "https://priceoye.pk/mobiles/apple/apple-iphone-15",
+  "rows": [
+   [
+    "Launch Year",
+    "2023 (announced 2023, September 12, released 2023, September 22)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "147.6 x 71.6 x 7.8 mm (5.81 x 2.82 x 0.31 in); 171 g (6.03 oz); Glass front, glass back, aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
+   ],
+   [
+    "Display",
+    "Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (HBM), 2000 nits (peak); 6.1 inches, 91.3 cm2 (~86.4% screen-to-body ratio); 1179 x 2556 pixels, 19.5:9 ratio (~461 ppi density); Ceramic Shield glass"
+   ],
+   [
+    "OS",
+    "iOS 17, upgradable to iOS 27.2"
+   ],
+   [
+    "Chipset",
+    "Apple A16 Bionic (4 nm); CPU Hexa-core (2x3.46 GHz Everest + 4x2.02 GHz Sawtooth); GPU Apple GPU (5-core graphics)"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "48 MP, f/1.6, 26mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.4, 13mm, 120˚ (ultrawide), 0.7µm; Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF SL 3D, (depth/biometrics sensor); HDR, Dolby Vision HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, DisplayPort"
+   ],
+   [
+    "Battery",
+    "Li-Ion 3349 mAh"
+   ],
+   [
+    "Charging",
+    "Wired, PD2.0, 50% in 30 min 15W wireless (MagSafe) 15W wireless (Qi2) - requires iOS 17.2 update 4.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Blue, Green, Yellow, Pink"
+   ]
+  ],
+  "slug": "apple-iphone-15",
+  "source": "https://www.gsmarena.com/apple_iphone_15-12559.php",
+  "tag": "6.1\" display · Apple A16 Bionic · 6 GB RAM · 3349 mAh",
+  "year": 2023
+ },
+ {
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "hl": [
+   "6.1\" display",
+   "Apple A16 Bionic",
+   "6 GB RAM",
+   "3200 mAh"
+  ],
+  "name": "Apple iPhone 14 Pro",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2022 (announced 2022, September 07, released 2022, September 16)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "147.5 x 71.5 x 7.9 mm (5.81 x 2.81 x 0.31 in); 206 g (7.27 oz); Glass front, glass back, stainless steel frame; Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
+   ],
+   [
+    "Display",
+    "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 2000 nits (HBM); 6.1 inches, 91.7 cm2 (~87.0% screen-to-body ratio); 1179 x 2556 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield glass"
+   ],
+   [
+    "OS",
+    "iOS 16, upgradable to iOS 27.2"
+   ],
+   [
+    "Chipset",
+    "Apple A16 Bionic (4 nm); CPU Hexa-core (2x3.46 GHz Everest + 4x2.02 GHz Sawtooth); GPU Apple GPU (5-core graphics)"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "48 MP, f/1.8, 24mm (wide), 1/1.28\", 1.22µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.8, 77mm (telephoto), 1/3.5\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 1.4µm, dual pixel PDAF TOF 3D LiDAR scanner (depth); Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, 10-bit HDR, Dolby Vision HDR (up to 60fps), ProRes, stereo sound rec."
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF, OIS SL 3D, (depth/biometrics sensor); HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "Lightning, USB 2.0"
+   ],
+   [
+    "Battery",
+    "Li-Ion 3200 mAh (12.38 Wh)"
+   ],
+   [
+    "Charging",
+    "Wired, PD2.0, 50% in 30 min 15W wireless (MagSafe) 15W wireless (Qi2) - requires iOS 17.2 update"
+   ],
+   [
+    "Colors",
+    "Space Black, Silver, Gold, Deep Purple"
+   ]
+  ],
+  "slug": "apple-iphone-14-pro",
+  "source": "https://www.gsmarena.com/apple_iphone_14_pro-11860.php",
+  "tag": "6.1\" display · Apple A16 Bionic · 6 GB RAM · 3200 mAh",
+  "year": 2022
+ },
+ {
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Apple A15 Bionic",
+   "6 GB RAM",
+   "4323 mAh"
+  ],
+  "name": "Apple iPhone 14 Plus",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2022 (announced 2022, September 07, released 2022, October 07)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "160.8 x 78.1 x 7.8 mm (6.33 x 3.07 x 0.31 in); 203 g (7.16 oz); Glass front, glass back, aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
+   ],
+   [
+    "Display",
+    "Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM), 1200 nits (peak); 6.7 inches, 109.8 cm2 (~87.4% screen-to-body ratio); 1284 x 2778 pixels, 19.5:9 ratio (~458 ppi density); Ceramic Shield glass"
+   ],
+   [
+    "OS",
+    "iOS 16, upgradable to iOS 27.2"
+   ],
+   [
+    "Chipset",
+    "Apple A15 Bionic (5 nm); CPU Hexa-core (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard); GPU Apple GPU (5-core graphics)"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "12 MP, f/1.5, 26mm (wide), 1/1.7\", 1.9µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.4, 13mm, 120˚ (ultrawide); Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF SL 3D, (depth/biometrics sensor); HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "Lightning, USB 2.0"
+   ],
+   [
+    "Battery",
+    "Li-Ion 4323 mAh (16.68 Wh)"
+   ],
+   [
+    "Charging",
+    "Wired, PD2.0, 50% in 30 min 15W wireless (MagSafe) 15W wireless (Qi2) - requires iOS 17.2 update"
+   ],
+   [
+    "Colors",
+    "Midnight, Purple, Starlight, Blue, Red, Yellow"
+   ]
+  ],
+  "slug": "apple-iphone-14-plus",
+  "source": "https://www.gsmarena.com/apple_iphone_14_plus-11862.php",
+  "tag": "6.7\" display · Apple A15 Bionic · 6 GB RAM · 4323 mAh",
+  "year": 2022
+ },
+ {
+  "brand": "Apple",
+  "cat": "Smartphones",
+  "hl": [
+   "6.1\" display",
+   "Apple A15 Bionic",
+   "6 GB RAM",
+   "3279 mAh"
+  ],
+  "name": "Apple iPhone 14",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2022 (announced 2022, September 07, released 2022, September 16)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "146.7 x 71.5 x 7.8 mm (5.78 x 2.81 x 0.31 in); 172 g (6.07 oz); Glass front, glass back, aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)"
+   ],
+   [
+    "Display",
+    "Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM), 1200 nits (peak); 6.1 inches, 90.2 cm2 (~86.0% screen-to-body ratio); 1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density); Ceramic Shield glass"
+   ],
+   [
+    "OS",
+    "iOS 16, upgradable to iOS 27.2"
+   ],
+   [
+    "Chipset",
+    "Apple A15 Bionic (5 nm); CPU Hexa-core (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard); GPU Apple GPU (5-core graphics)"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "12 MP, f/1.5, 26mm (wide), 1/1.7\", 1.9µm, dual pixel PDAF, sensor-shift OIS 12 MP, f/2.4, 13mm, 120˚ (ultrawide); Dual-LED dual-tone flash, HDR (photo/panorama); video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, HDR, Dolby Vision HDR (up to 60fps), stereo sound rec."
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/1.9, 23mm (wide), 1/3.6\", 1.0µm, PDAF SL 3D, (depth/biometrics sensor); HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "Lightning, USB 2.0"
+   ],
+   [
+    "Battery",
+    "Li-Ion 3279 mAh (12.68 Wh)"
+   ],
+   [
+    "Charging",
+    "Wired, PD2.0, 50% in 30 min 15W wireless (MagSafe) 15W wireless (Qi2) - requires iOS 17.2 update"
+   ],
+   [
+    "Colors",
+    "Midnight, Purple, Starlight, Blue, Red, Yellow"
+   ]
+  ],
+  "slug": "apple-iphone-14",
+  "source": "https://www.gsmarena.com/apple_iphone_14-11861.php",
+  "tag": "6.1\" display · Apple A15 Bionic · 6 GB RAM · 3279 mAh",
+  "year": 2022
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.83\" display",
+   "Qualcomm SM8750-AB Snapdragon ",
+   "12 GB RAM",
+   "10000 mAh"
+  ],
+  "name": "Xiaomi Redmi K100",
+  "price": 145999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, October 27, released 2026, October 27)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.9 x 77.9 x 8.7 mm (6.41 x 3.07 x 0.34 in); 234.5 g (8.29 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 68B colors, 165Hz, Dolby Vision, HDR Vivid, HDR10+, 3500 nits (HBM), 9000 nits (peak)*; 6.83 inches, 114.5 cm2 (~90.3% screen-to-body ratio); 1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, HyperOS 4"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm); CPU Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); GPU Adreno 840"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.7, (wide), 1/1.55\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/4.0\", 1.12µm; Color spectrum sensor, LED flash, HDR, panorama; video 8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
+   ],
+   [
+    "Selfie Camera",
+    "20 MP, (wide), 1/2.0\", 0.8µm; video 1080p@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, LHDC 5.0, ASHA, Auracast"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 10000 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, PD3.0, QC3+, 100W PPS 27W reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Black, White, Green"
+   ]
+  ],
+  "slug": "xiaomi-redmi-k100-5g",
+  "source": "https://www.gsmarena.com/xiaomi_redmi_k100_5g-15018.php",
+  "tag": "6.83\" display · Qualcomm SM8750-AB Snapdragon  · 12 GB RAM · 10000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Tablets",
+  "hl": [
+   "11.2\" display",
+   "Qualcomm SM8735 Snapdragon 8s ",
+   "8 GB RAM",
+   "9720 mAh"
+  ],
+  "name": "Xiaomi Pad 9",
+  "price": 120999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 23, released 2026, September 23)"
+   ],
+   [
+    "Network",
+    "No cellular connectivity"
+   ],
+   [
+    "Body",
+    "251.2 x 173.4 x 5.8 mm (9.89 x 6.83 x 0.23 in); 485 g or 494 g (1.07 lb); Glass front, aluminum frame, aluminum back; No"
+   ],
+   [
+    "Display",
+    "IPS LCD, 68B colors, 144Hz, HDR10, Dolby Vision, HDR Vivid, 800 nits (peak); 11.2 inches, 373.7 cm2 (~85.8% screen-to-body ratio); 3200 x 2136 pixels, 3:2 ratio (~344 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, HyperOS 4"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm); CPU Octa-core (1x3.21 GHz Cortex-X4 & 3x3.0 GHz Cortex-A720 & 2x2.8 GHz Cortex-A720 & 2x2.0 GHz Cortex-A720); GPU Adreno 825"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "13 MP; Color spectrum sensor, LED flash, HDR; video 4K@30fps, 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP; HDR; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers, Dolby Atmos (4 speakers)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, LHDC 5"
+   ],
+   [
+    "GPS",
+    "No"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG"
+   ],
+   [
+    "Battery",
+    "9720 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, PD3.0, QC3+ 22.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Gray, Silver, Green, Pink"
+   ]
+  ],
+  "slug": "xiaomi-pad-9",
+  "source": "https://www.gsmarena.com/xiaomi_pad_9-14961.php",
+  "tag": "11.2\" display · Qualcomm SM8735 Snapdragon 8s  · 8 GB RAM · 9720 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Tablets",
+  "hl": [
+   "13.3\" display",
+   "XRing O3",
+   "8 GB RAM",
+   "12000 mAh"
+  ],
+  "name": "Xiaomi Pad 9 Pro Max",
+  "price": 191999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 07, released 2026, September 07)"
+   ],
+   [
+    "Network",
+    "No cellular connectivity"
+   ],
+   [
+    "Body",
+    "296.2 x 203.1 x 5.7 mm (11.66 x 8.00 x 0.22 in); 645 g or 653 g (1.42 lb); Glass front, aluminum frame, aluminum back; No"
+   ],
+   [
+    "Display",
+    "IPS LCD, 68B colors, 144Hz, HDR10, Dolby Vision, HDR Vivid, 1000 nits (peak); 13.3 inches, 526.7 cm2 (~87.6% screen-to-body ratio); 3408 x 2272 pixels, 3:2 ratio (~308 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, HyperOS 4"
+   ],
+   [
+    "Chipset",
+    "XRing O3 (3 nm); CPU 10-core 4.35 GHz; GPU Arm G2-Ultra NX MC16"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF; Color spectrum sensor, LED flash, HDR; video 4K@30/60fps, 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.2, 19mm (ultrawide), 1/3.6\", 0.61µm; HDR; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers, Dolby Atmos (8 speakers)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, LHDC 5"
+   ],
+   [
+    "GPS",
+    "No"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2 Gen2, OTG, DisplayPort"
+   ],
+   [
+    "Battery",
+    "12000 mAh"
+   ],
+   [
+    "Charging",
+    "120W wired, PD3.0, QC2 22.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Gray, Silver, Burgundy red"
+   ]
+  ],
+  "slug": "xiaomi-pad-9-pro-max",
+  "source": "https://www.gsmarena.com/xiaomi_pad_9_pro_max-14932.php",
+  "tag": "13.3\" display · XRing O3 · 8 GB RAM · 12000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.83\" display",
+   "Qualcomm SM6850 Snapdragon 6 G",
+   "8 GB RAM",
+   "10000 mAh"
+  ],
+  "name": "Xiaomi Poco X8 Power",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 04, released 2026, September 11)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.4 x 78.3 x 8.6 mm (6.43 x 3.08 x 0.34 in); 229 g (8.08 oz); Glass front (Gorilla Glass Victus 2), plastic back, plastic frame; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "AMOLED, 68B colors, 120Hz, 3840Hz PWM, HDR10+, Dolby Vision, 1060 nits (typ), 2000 nits (HBM), 3500 nits (peak); 6.83 inches, 114.5 cm2 (~89.5% screen-to-body ratio); 1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density); Corning Gorilla Glass Victus 2"
+   ],
+   [
+    "OS",
+    "Android 16, up to 4 major OS updates, HyperOS 3"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM6850 Snapdragon 6 Gen 5 (4 nm); CPU Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Adreno 812"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.5, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS 8 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/4.0\", 1.12µm; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.2, (wide), 1/3.6\", 0.61µm; HDR, panorama; video 4K@30fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity (ultrasonic)"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, QZSS, BDS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 10000 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, PD3.0, PPS 27W reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Black, Yellow"
+   ]
+  ],
+  "slug": "xiaomi-poco-x8-power-5g",
+  "source": "https://www.gsmarena.com/xiaomi_poco_x8_power_5g-14912.php",
+  "tag": "6.83\" display · Qualcomm SM6850 Snapdragon 6 G · 8 GB RAM · 10000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.83\" display",
+   "Qualcomm SM6435-AA Snapdragon ",
+   "6 GB RAM",
+   "8340 mAh"
+  ],
+  "name": "Xiaomi Poco X8",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 01, released 2026, September 11)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.5 x 78.3 x 8.6 mm (6.44 x 3.08 x 0.34 in); 223 g (7.87 oz); Glass front (Gorilla Glass Victus 2), plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 68B colors, 120Hz, 3840Hz PWM, 1060 nits (typ), 1800 nits (HBM), 3500 nits (peak); 6.83 inches, 114.5 cm2 (~89.5% screen-to-body ratio); 1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density); Corning Gorilla Glass Victus 2"
+   ],
+   [
+    "OS",
+    "Android 16, HyperOS 3"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM6435-AA Snapdragon 6s Gen 4 (4 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55); GPU Adreno 710"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 26mm (wide), 1/2.76\", 0.64µm, PDAF, OIS Auxiliary lens; LED flash, HDR, panorama; video 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.4, (wide), 1.0µm; HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.1, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 8340 mAh (version 1) / Si/C Li-Ion 9000 mAh (version 2)"
+   ],
+   [
+    "Charging",
+    "67W wired, PD3.0 22.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Frost White, Fiery Orange"
+   ]
+  ],
+  "slug": "xiaomi-poco-x8-5g",
+  "source": "https://www.gsmarena.com/xiaomi_poco_x8_5g-14911.php",
+  "tag": "6.83\" display · Qualcomm SM6435-AA Snapdragon  · 6 GB RAM · 8340 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.83\" display",
+   "Qualcomm SM6850 Snapdragon 6 G",
+   "8 GB RAM",
+   "9210 mAh"
+  ],
+  "name": "Xiaomi Redmi Note 17 Pro Max",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 27, released 2026, August 28)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.4 x 78.3 x 8.6 mm (6.43 x 3.08 x 0.34 in); 229.5 g (8.11 oz); Glass front (Gorilla Glass Victus 2), plastic back, plastic frame; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "AMOLED, 68B colors, 120Hz, 3840Hz PWM, HDR10+, Dolby Vision, 1060 nits (typ), 2000 nits (HBM), 3500 nits (peak); 6.83 inches, 114.5 cm2 (~89.5% screen-to-body ratio); 1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density); Corning Gorilla Glass Victus 2"
+   ],
+   [
+    "OS",
+    "Android 16, HyperOS 3"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM6850 Snapdragon 6 Gen 5 (4 nm); CPU Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Adreno 812"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.5, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS 8 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/4.0\", 1.12µm; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.2, 22mm (wide), 1/3.6\", 0.61µm; HDR, panorama; video 4K@30fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 9210 mAh (version 1) / Si/C Li-Ion 10000 mAh (version 2)"
+   ],
+   [
+    "Charging",
+    "100W wired, PD3.0, PPS 27W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Purple, Cloud Blush, Green, Secret Sunrise"
+   ]
+  ],
+  "slug": "xiaomi-redmi-note-17-pro-max-5g",
+  "source": "https://www.gsmarena.com/xiaomi_redmi_note_17_pro_max_5g-14845.php",
+  "tag": "6.83\" display · Qualcomm SM6850 Snapdragon 6 G · 8 GB RAM · 9210 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.83\" display",
+   "Qualcomm SM6435-AA Snapdragon ",
+   "6 GB RAM",
+   "8340 mAh"
+  ],
+  "name": "Xiaomi Redmi Note 17 Pro",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 27, released 2026, August 28)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.5 x 78.3 x 8.6 mm (6.44 x 3.08 x 0.34 in); 223 g (7.87 oz); Glass front (Gorilla Glass Victus 2), plastic back, plastic frame; Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "AMOLED, 68B colors, 120Hz, 3840Hz PWM, 1060 nits (typ), 1800 nits (HBM), 3500 nits (peak); 6.83 inches, 114.5 cm2 (~89.5% screen-to-body ratio); 1280 x 2772 pixels, 19.5:9 ratio (~447 ppi density); Corning Gorilla Glass Victus 2"
+   ],
+   [
+    "OS",
+    "Android 16, HyperOS 3"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM6435-AA Snapdragon 6s Gen 4 (4 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55); GPU Adreno 710"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 26mm (wide), 1/2.76\", 0.64µm, PDAF, OIS 8 MP, f/2.2, 15mm, 120˚ (ultrawide), 1/4.0\", 1.12µm; LED flash, HDR, panorama; video 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.4, (wide), 1.0µm; HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity (ultrasonic)"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.1, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, QZSS, BDS (B1I+B1c)"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 8340 mAh (version 1) / Si/C Li-Ion 9000 mAh (version 2)"
+   ],
+   [
+    "Charging",
+    "67W wired, PD3.0, 50% in 34 min 22.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Sky Blue, Black, Satin Orange, Purple"
+   ]
+  ],
+  "slug": "xiaomi-redmi-note-17-pro-5g",
+  "source": "https://www.gsmarena.com/xiaomi_redmi_note_17_pro_5g-14844.php",
+  "tag": "6.83\" display · Qualcomm SM6435-AA Snapdragon  · 6 GB RAM · 8340 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.99\" display",
+   "Qualcomm SM4450-AF Snapdragon ",
+   "6 GB RAM",
+   "7700 mAh"
+  ],
+  "name": "Xiaomi Redmi Note 17",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 27, released 2026, August 28)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "169.7 x 79.1 x 8.5 mm (6.68 x 3.11 x 0.33 in); 225 g (7.94 oz); Glass front (Gorilla Glass 7i), plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 120Hz, 700 nits (typ), 1200 nits (HBM), 1800 nits (peak); 6.99 inches, 118.7 cm2 (~88.4% screen-to-body ratio); 1080 x 2396 pixels (~375 ppi density); Corning Gorilla Glass 7i"
+   ],
+   [
+    "OS",
+    "Android 16, HyperOS 3"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM4450-AF Snapdragon 4 Gen 4 (4 nm); CPU Octa-core (2x2.3 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55); GPU Adreno 613"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 26mm (wide), 1/2.76\", 0.64µm, PDAF; LED flash, HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.5, (wide), 1/3.0\"; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.1, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS (B1I + B1C)"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7700 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, PD3.0 22.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Celestial Purple, Sky Teal, Black"
+   ]
+  ],
+  "slug": "xiaomi-redmi-note-17-5g",
+  "source": "https://www.gsmarena.com/xiaomi_redmi_note_17_5g-14846.php",
+  "tag": "6.99\" display · Qualcomm SM4450-AF Snapdragon  · 6 GB RAM · 7700 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.99\" display",
+   "Qualcomm SM6225-AF Snapdragon ",
+   "4 GB RAM",
+   "7700 mAh"
+  ],
+  "name": "Xiaomi Redmi Note 17 4G",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 27, released 2026, August 28)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "169.7 x 79.1 x 8.5 mm (6.68 x 3.11 x 0.33 in); 224 g (7.90 oz); Glass front (Gorilla Glass 7i), plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 120Hz, 700 nits (typ), 1200 nits (HBM), 1800 nits (peak); 6.99 inches, 118.7 cm2 (~88.4% screen-to-body ratio); 1080 x 2396 pixels (~375 ppi density); Corning Gorilla Glass 7i"
+   ],
+   [
+    "OS",
+    "Android 16, HyperOS 3"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM6225-AF Snapdragon 6s 4G Gen 2 (6 nm); CPU Octa-core (4x2.9 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53); GPU Adreno 610"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 26mm (wide), 1/2.76\", 0.64µm, PDAF; LED flash, HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.5, (wide), 1/3.0\"; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.0, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7700 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, PD3.0 22.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Celestial Purple, Sky Teal, Black"
+   ]
+  ],
+  "slug": "xiaomi-redmi-note-17",
+  "source": "https://www.gsmarena.com/xiaomi_redmi_note_17-14847.php",
+  "tag": "6.99\" display · Qualcomm SM6225-AF Snapdragon  · 4 GB RAM · 7700 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.9\" display",
+   "Qualcomm SM8850-AC Snapdragon ",
+   "12 GB RAM",
+   "8000 mAh"
+  ],
+  "name": "Xiaomi 17 Max",
+  "price": 188999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, May 21, released 2026, May 21)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.9 x 77.6 x 8.2 mm (6.41 x 3.06 x 0.32 in); 219 g or 225 g (7.72 oz); Glass front, aluminum frame, glass back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED, 68B colors, PWM, 120Hz, Dolby Vision, HDR Vivid, HDR10+, 3500 nits (peak); 6.9 inches, 114.4 cm2 (~90.5% screen-to-body ratio); 1200 x 2608 pixels, 19.5:9 ratio (~420 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, HyperOS 3"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.7, 23mm (wide), 1/1.4\", 1.12µm, dual pixel PDAF, OIS 50 MP, f/2.4, 70mm (periscope telephoto), 1/2.0\", PDAF (15cm - ∞), OIS, 3x optical zoom 50 MP, f/2.4, 17mm, 102˚ (ultrawide), 1/2.76\", 0.64µm; Laser AF, color spectrum sensor, Leica lens, LED flash, HDR, panorama; video 8K@30fps (HDR), 4K@30/60fps (10-bit Dolby Vision HDR), 4K@120fps, 1080p@30/60/120/240/960fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.2, 21mm (wide); video 4K@30fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5, MIHC"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, Display Port, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 8000 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, PD3.0, QC3+, 100W PPS 50W wireless 22.5W reverse wireless 22.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Blue, White"
+   ]
+  ],
+  "slug": "xiaomi-17-max-5g",
+  "source": "https://www.gsmarena.com/xiaomi_17_max_5g-14667.php",
+  "tag": "6.9\" display · Qualcomm SM8850-AC Snapdragon  · 12 GB RAM · 8000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Tablets",
+  "hl": [
+   "10.1\" display",
+   "Mediatek Helio G85",
+   "4 GB RAM",
+   "6600 mAh"
+  ],
+  "name": "Xiaomi Black Shark Pad SE",
+  "price": 61999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, March, released 2026, April)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "255 x 167 x 7.4 mm (10.04 x 6.57 x 0.29 in); 478 g (1.05 lb); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 450 nits; 10.1 inches, 295.8 cm2 (~69.5% screen-to-body ratio); 800 x 1280 pixels, 16:10 ratio (~149 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G85 (12 nm); CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB"
+   ],
+   [
+    "Storage",
+    "128 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "8 MP; LED flash; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Accelerometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.0, A2DP"
+   ],
+   [
+    "GPS",
+    "No"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C"
+   ],
+   [
+    "Battery",
+    "6600 mAh"
+   ],
+   [
+    "Charging",
+    "10W wired"
+   ],
+   [
+    "Colors",
+    "Black, Blue"
+   ]
+  ],
+  "slug": "xiaomi-black-shark-pad-se",
+  "source": "https://www.gsmarena.com/xiaomi_black_shark_pad_se-14777.php",
+  "tag": "10.1\" display · Mediatek Helio G85 · 4 GB RAM · 6600 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.9\" display",
+   "Unisoc T7250",
+   "4 GB RAM",
+   "6300 mAh"
+  ],
+  "name": "Xiaomi Poco C81",
+  "price": 30999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, April 23, released 2026, April 23)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "171.6 x 79.5 x 8.2 mm (6.76 x 3.13 x 0.32 in); 208 g (7.34 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 800 nits (peak); 6.9 inches, 114.9 cm2 (~84.3% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~254 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, up to 4 major OS updates, HyperOS 3"
+   ],
+   [
+    "Chipset",
+    "Unisoc T7250 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55); GPU Mali-G57 MP1"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "13 MP, (wide); LED flash; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, (wide); HDR; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.2, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "6300 mAh"
+   ],
+   [
+    "Charging",
+    "15W wired 7.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Sky Blue, Elite Black, Sunset Gold"
+   ]
+  ],
+  "slug": "xiaomi-poco-c81",
+  "source": "https://www.gsmarena.com/xiaomi_poco_c81-14626.php",
+  "tag": "6.9\" display · Unisoc T7250 · 4 GB RAM · 6300 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.75\" display",
+   "Mediatek Dimensity 6300",
+   "6 GB RAM",
+   "6500 mAh"
+  ],
+  "name": "Oppo K15x",
+  "price": 70999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, October 02, released 2026, October 02)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in); 212 g (7.48 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 1125 nits (peak); 6.75 inches, 111.4 cm2 (~85.2% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "13 MP, f/2.2, 27mm (wide), AF Auxiliary lens; LED flash, HDR, panorama; video 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP, f/2.2, 27mm (wide); Panorama; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "6500 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Purple, White"
+   ]
+  ],
+  "slug": "oppo-k15x-5g",
+  "source": "https://www.gsmarena.com/oppo_k15x_5g-14996.php",
+  "tag": "6.75\" display · Mediatek Dimensity 6300 · 6 GB RAM · 6500 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Dimensity 7360 Max",
+   "6 GB RAM",
+   "8000 mAh"
+  ],
+  "name": "Oppo F35 Pro",
+  "price": 132999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, October 05, released 2026, October 11)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.6 x 77.6 x 8.4 mm (6.40 x 3.06 x 0.33 in); 210 g (7.41 oz); Glass front, aluminum frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 2160Hz PWM, 800 nits (typ), 1800 nits (HBM), 3600 nits (peak); 6.78 inches, 112.4 cm2 (~89.1% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density); AGC DT-Star D+"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16.5"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7360 Max (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.0\", PDAF, OIS 8 MP, f/2.2, 116˚ (ultrawide), 1/4.0\", AF; Color spectrum sensor, LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 18mm (ultrawide), AF; Panorama; video 4K@30fps, 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "8000 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 44W UFCS, 55W PPS, 13.5W PD Reverse wired"
+   ],
+   [
+    "Colors",
+    "Twilight Brown, Wave Blue, Sunrise Orange"
+   ]
+  ],
+  "slug": "oppo-f35-pro-5g",
+  "source": "https://www.gsmarena.com/oppo_f35_pro_5g-14859.php",
+  "tag": "6.78\" display · Mediatek Dimensity 7360 Max · 6 GB RAM · 8000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.59\" display",
+   "Mediatek Dimensity 9600M",
+   "12 GB RAM",
+   "7150 mAh"
+  ],
+  "name": "Oppo Find X10",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 22, released 2026, September 24)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "156.5 x 74.3 x 8.4 mm (6.16 x 2.93 x 0.33 in); 216 g (7.62 oz); Glass front (Crystal Guard), glass back (Crystal Guard), aluminum frame; Nano-SIM + eSIM Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED, 1B colors, 144Hz, 3840Hz PWM, Dolby Vision, HDR10+, HDR Vivid, BT.2020, 800 nits (typ), 2000 nits (HBM), 3600 nits (peak); 6.59 inches, 106.7 cm2 (~91.7% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~462 ppi density); Crystal Guard"
+   ],
+   [
+    "OS",
+    "Android 17, ColorOS 17"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 9600M (3 nm); CPU Octa-core (1x4.21 GHz & 3x3.5 GHz & 4x2.7 GHz); GPU ARM Mali-G1 Ultra MC12"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.6, 23mm (wide), 1/1.4\", 0.56µm, PDAF, OIS 200 MP, f/2.6, 65mm (periscope telephoto), 1/1.56\", 0.5µm, PDAF, OIS, 2.8x optical zoom 50 MP, f/2.0, 15mm (ultrawide), 1/2.75\", 0.64µm, PDAF; Laser AF, color spectrum sensor, Hasselblad Color Calibration, LED flash, HDR, panorama, LUT preview; video 8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision, LOG"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 18mm (ultrawide), 1/2.76\", 0.64µm, PDAF; Panorama; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band or tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.2, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC (L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7150 mAh - EU Si/C Li-Ion 8000 mAh - Global"
+   ],
+   [
+    "Charging",
+    "80W wired, 44/80W UFCS, 55W PPS, 13.5W PD 50W wireless 10W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Glacier Blue, Glow Coral, Mist Grey"
+   ]
+  ],
+  "slug": "oppo-find-x10",
+  "source": "https://www.gsmarena.com/oppo_find_x10-14953.php",
+  "tag": "6.59\" display · Mediatek Dimensity 9600M · 12 GB RAM · 7150 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.59\" display",
+   "Mediatek Dimensity 9500s",
+   "12 GB RAM",
+   "7025 mAh"
+  ],
+  "name": "Oppo Find X10 E",
+  "price": 201999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 22, released 2026, September 24)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "157 x 73.9 x 8 mm (6.18 x 2.91 x 0.31 in); 203 g (7.16 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 3840Hz PWM, Dolby Vision, HDR Vivid, 800 nits (typ), 1800 nits (peak); 6.59 inches, 105.6 cm2 (~91.0% screen-to-body ratio); 1256 x 2760 pixels (~460 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, ColorOS 17"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 9500s (3 nm); CPU Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720); GPU Immortalis-G925 MC11"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.6, 23mm (wide), 1/1.4\", PDAF, OIS 50 MP, f/2.6, 73mm (telephoto), 1/1.95\", PDAF, OIS, 3x optical zoom 50 MP, f/2.0, 15mm (ultrawide), 1/2.75\", 0.64µm, PDAF; Laser AF, color spectrum sensor, Hasselblad Color Calibration, LED flash, HDR, panorama, LUT preview; video 4K@30/60fps, 1080p@30/60/240fps, gyro-EIS, Dolby Vision, 10-bit HDR"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.4, 21mm (wide), 1/2.74\", 0.8µm; Panorama; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.2, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC (L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7025 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 44/80W UFCS, 55W PPS, 13.5W PD 50W wireless 10W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Titanium Gray, Blue"
+   ]
+  ],
+  "slug": "oppo-find-x10-e",
+  "source": "https://www.gsmarena.com/oppo_find_x10_e-14954.php",
+  "tag": "6.59\" display · Mediatek Dimensity 9500s · 12 GB RAM · 7025 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Dimensity 7360 Max",
+   "6 GB RAM",
+   "8000 mAh"
+  ],
+  "name": "Oppo K14 Plus",
+  "price": 86999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 28, released 2026, October 07)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.6 x 77.6 x 8.4 mm (6.40 x 3.06 x 0.33 in); 207 g (7.30 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 144Hz, 800 nits (typ), 1800 nits (HBM), 3600 nits (peak); 6.78 inches, 112.4 cm2 (~89.1% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density); AGC DT-Star D+"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16.5"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7360 Max (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.0\", PDAF, OIS Auxiliary lens; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.4, (wide), 1/3.09\"; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "8000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, UFCS, 45W PPS, 13.5W PD Reverse wired"
+   ],
+   [
+    "Colors",
+    "Star White, Solar Orange"
+   ]
+  ],
+  "slug": "oppo-k14-plus-5g",
+  "source": "https://www.gsmarena.com/oppo_k14_plus_5g-14963.php",
+  "tag": "6.78\" display · Mediatek Dimensity 7360 Max · 6 GB RAM · 8000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.75\" display",
+   "Unisoc T7250",
+   "4 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Oppo K14 Lite",
+  "price": 45999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 16, released 2026, September 16)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "166.6 x 78.2 x 9 mm (6.56 x 3.08 x 0.35 in); 215 g (7.58 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 900 nits (HBM); 6.75 inches, 111.4 cm2 (~85.5% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Unisoc T7250 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55); GPU Mali-G57 MP1"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "13 MP, f/2.2, (wide), AF; LED flash, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP, f/2.2, (wide); video 720p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.2, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "7000 mAh"
+   ],
+   [
+    "Charging",
+    "15W wired, 15W PD, 37% in 30 min Reverse wired"
+   ],
+   [
+    "Colors",
+    "Stone Brown, Feather Purple"
+   ]
+  ],
+  "slug": "oppo-k14-lite",
+  "source": "https://www.gsmarena.com/oppo_k14_lite-14942.php",
+  "tag": "6.75\" display · Unisoc T7250 · 4 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.57\" display",
+   "Mediatek Dimensity 6360 Max",
+   "6 GB RAM",
+   "8000 mAh"
+  ],
+  "name": "Oppo A7 Pro",
+  "price": 86999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 08, released 2026, September 11)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "159.1 x 75.8 x 8.8 mm (6.26 x 2.98 x 0.35 in); 205 g (7.23 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 800 nits (typ), 1400 nits (peak); 6.57 inches, 105.0 cm2 (~87.1% screen-to-body ratio); 1080 x 2372 pixels (~397 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6360 Max (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "256 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, 25mm (wide), PDAF, OIS Auxiliary lens; LED flash, HDR, panorama; video 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.1, 25mm (wide); Panorama; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 8000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, 45W UFCS, 45W PPS, 13.5W PD Reverse wired"
+   ],
+   [
+    "Colors",
+    "Gray, Blue, Pink"
+   ]
+  ],
+  "slug": "oppo-a7-pro-5g",
+  "source": "https://www.gsmarena.com/oppo_a7_pro_5g-14928.php",
+  "tag": "6.57\" display · Mediatek Dimensity 6360 Max · 6 GB RAM · 8000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.59\" display",
+   "Mediatek Dimensity 7360 Super",
+   "12 GB RAM",
+   "8000 mAh"
+  ],
+  "name": "Oppo K15",
+  "price": 92999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, July 24, released 2026, July 24)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "158.3 x 75.1 x 8.3 mm (6.23 x 2.96 x 0.33 in); 205 g (7.23 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 1200 nits (peak); 6.59 inches, 105.6 cm2 (~88.9% screen-to-body ratio); 1256 x 2760 pixels (~460 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7360 Super (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 26mm (wide), PDAF, OIS 50 MP, f/2.2, 16mm, 143˚ (ultrawide); Color spectrum sensor, LED flash, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 18mm (wide), AF; Panorama; video 4K@30fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 8000 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 44W/80W UFCS, 55W PPS, 13.5W PD Reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Gray, Silver"
+   ]
+  ],
+  "slug": "oppo-k15-5g",
+  "source": "https://www.gsmarena.com/oppo_k15_5g-14810.php",
+  "tag": "6.59\" display · Mediatek Dimensity 7360 Super · 12 GB RAM · 8000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.57\" display",
+   "Mediatek Dimensity 7300 Energy",
+   "8 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Oppo Reno16 F",
+  "price": 169999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, June 25, released 2026, July 13)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "158.2 x 74.5 x 8.4 mm or 8.6 mm; 194/195/196/197 g (6.84 oz); Glass front, plastic frame, glass back or composite plastic back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 600 nits (typ), 1400 nits (HBM); 6.57 inches, 105.0 cm2 (~89.1% screen-to-body ratio); 1080 x 2372 pixels (~397 ppi density); Crystal Guard"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7300 Energy (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF, OIS 50 MP, f/2.8, 92mm (telephoto), 1/3.13\", 0.56µm, PDAF, OIS, 3.5x optical zoom 8 MP, f/2.2, 15mm, 116˚ (ultrawide), 1/4.0\", 1.12µm, AF; Color spectrum sensor, Multi-focus LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 18mm, 100˚ (ultrawide), 1/2.88\", 0.61µm, AF; Panorama; video 4K@30fps, 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7000 mAh (International) or 6500 mAh (Europe)"
+   ],
+   [
+    "Charging",
+    "80W wired, 55W PPS, 13.5W PD/QC, 100% in 62 min - International model 45W wired, 45W PPS, 13.5W PD/QC, 100% in 84 min - Europe model Reverse wired"
+   ],
+   [
+    "Colors",
+    "Pop White, Twilight Violet, Dream Purple"
+   ]
+  ],
+  "slug": "oppo-reno16-f-5g",
+  "source": "https://www.gsmarena.com/oppo_reno16_f_5g-14751.php",
+  "tag": "6.57\" display · Mediatek Dimensity 7300 Energy · 8 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Tablets",
+  "hl": [
+   "12.1\" display",
+   "Mediatek Dimensity 9500s",
+   "8 GB RAM",
+   "10420 mAh"
+  ],
+  "name": "Oppo Pad 6",
+  "price": 135999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, May 25, released 2026, May 29)"
+   ],
+   [
+    "Network",
+    "No cellular connectivity"
+   ],
+   [
+    "Body",
+    "266.9 x 193.4 x 6 mm (10.51 x 7.61 x 0.24 in); 577 g or 579 g (1.27 lb); No"
+   ],
+   [
+    "Display",
+    "IPS LCD, 1B colors, 144Hz, Dolby Vision, 600 nits (typ), 900 nits (HBM); 12.1 inches, 445.2 cm2 (~86.2% screen-to-body ratio); 2120 x 3000 pixels (~304 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 9500s (3 nm); CPU Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720); GPU Immortalis-G925 MC11"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "8 MP; Color spectrum sensor, LED flash; video 4K@30fps, 1080p@30ps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Accelerometer, proximity (accessories only), gyro"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (6 speakers)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "No"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG, accessory connector"
+   ],
+   [
+    "Battery",
+    "10420 mAh"
+   ],
+   [
+    "Charging",
+    "67W wired, 67W UFCS, 55W PPS, 18W PD"
+   ],
+   [
+    "Colors",
+    "Silver, Gray, Blue"
+   ]
+  ],
+  "slug": "oppo-pad-6",
+  "source": "https://www.gsmarena.com/oppo_pad_6-14690.php",
+  "tag": "12.1\" display · Mediatek Dimensity 9500s · 8 GB RAM · 10420 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.32\" display",
+   "Mediatek Dimensity 9500",
+   "12 GB RAM",
+   "7025 mAh"
+  ],
+  "name": "Oppo Find X9s Pro",
+  "price": 231999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, April 21, released 2026, April)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "150.5 x 71.7 x 8.4 mm or 8.6 mm; 198 g or 200 g (6.98 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 144Hz, 3840Hz PWM, Dolby Vision, HDR Vivid, 800 nits (typ), 1800 nits (peak); 6.32 inches, 97.9 cm2 (~90.7% screen-to-body ratio); 1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16.0"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 9500 (3 nm); CPU Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro); GPU Immortalis-G925"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.6, 23mm (wide), 1/1.4\", 0.56µm, PDAF, OIS 200 MP, f/2.6, 65mm (periscope telephoto), 1/1.56\", PDAF, OIS, 2.8x optical zoom 50 MP, f/2.0, 15mm, 120˚ (ultrawide), PDAF; Laser AF, color spectrum sensor, Hasselblad Color Calibration, Hasselblad Ultra HD, HDR, panorama, Multi-focus LED flash; video 8K@30fps (10-bit Log), 4K@30/60/120fps, 1080p@30/60/120/240fps, gyro-EIS, OIS, Dolby Vision HDR, 3D LUT"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.4, 21mm (wide); Panorama, HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.1, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GALILEO (E1+E5a+E5b), QZSS (L1+L5), BDS (B1l+B1C+ B2a+B2b), GLONASS, NavIC (L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7025 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 44W/80W UFCS, 55W PPS, 13.5W PD 50W wireless"
+   ],
+   [
+    "Colors",
+    "Blue/Green, Orange, Titanium, White"
+   ]
+  ],
+  "slug": "oppo-find-x9s-pro",
+  "source": "https://www.gsmarena.com/oppo_find_x9s_pro-14592.php",
+  "tag": "6.32\" display · Mediatek Dimensity 9500 · 12 GB RAM · 7025 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.57\" display",
+   "Mediatek Dimensity 6360 Max",
+   "8 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Oppo F33 Pro",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, April 15, released 2026, April 26)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "158.4 x 75.2 x 8.3 mm (6.24 x 2.96 x 0.33 in); 194 g (6.84 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 600 nits (typ), 1400 nits (HBM); 6.57 inches, 105.0 cm2 (~88.2% screen-to-body ratio); 1080 x 2372 pixels (~397 ppi density); Asahi Glass DT-STAR D+"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6360 Max (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF Auxiliary lens; Color spectrum sensor, LED flash, HDR, panorama; video 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 18mm (ultrawide), AF; Panorama; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7000 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 55W PPS, 13.5W PD 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Misty Forest, Passion Red, Starry Blue"
+   ]
+  ],
+  "slug": "oppo-f33-pro-5g",
+  "source": "https://www.gsmarena.com/oppo_f33_pro_5g-14601.php",
+  "tag": "6.57\" display · Mediatek Dimensity 6360 Max · 8 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.57\" display",
+   "Mediatek Dimensity 6360 Max",
+   "6 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Oppo F33",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, April 15, released 2026, April 21)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "158.2 x 75 x 8 mm (6.23 x 2.95 x 0.31 in); 189 g (6.67 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 600 nits (typ), 1400 nits (HBM); 6.57 inches, 105.0 cm2 (~88.5% screen-to-body ratio); 1080 x 2372 pixels (~397 ppi density); Asahi Glass DT-STAR D+"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6360 Max (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash, HDR, panorama; video 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.4, (wide); Panorama; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7000 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 33W PPS, 13.5W PD 10W reverse wired"
+   ],
+   [
+    "Colors",
+    "Pearl White, Forest Green"
+   ]
+  ],
+  "slug": "oppo-f33-5g",
+  "source": "https://www.gsmarena.com/oppo_f33_5g-14602.php",
+  "tag": "6.57\" display · Mediatek Dimensity 6360 Max · 6 GB RAM · 7000 mAh",
+  "year": 2026
+ }
 ]

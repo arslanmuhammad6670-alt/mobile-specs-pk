@@ -1,4282 +1,4282 @@
 [
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.35\" display",
-"Qualcomm SM7750-AB Snapdragon ",
-"8 GB RAM",
-"6330 mAh"
-],
-"name": "Xiaomi Poco X8s",
-"price": 111999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, October 26, released 2026, October 26)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"151.1 x 71.8 x 8.1 mm (5.95 x 2.83 x 0.32 in); 187 g (6.60 oz); Glass front (Xiaomi Shield Glass), aluminum frame, glass back; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"LTPO AMOLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 3500 nits (peak); 6.35 inches, 98.7 cm2 (~91.0% screen-to-body ratio); 1220 x 2656 pixels, 19.5:9 ratio (~460 ppi density); Xiaomi Shield Glass"
-],
-[
-"OS",
-"Android 16, HyperOS 3"
-],
-[
-"Chipset",
-"Qualcomm SM7750-AB Snapdragon 7 Gen 4 (4 nm); CPU Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520); GPU Adreno 722"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/1.55\", 1.0µm, PDAF, OIS 50 MP, f/2.2, 57mm (periscope telephoto), PDAF, 2.5x optical zoom 8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"20 MP; video 1080p@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5, Auracast, ASHA"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Si/C Li-Ion 6330 mAh"
-],
-[
-"Charging",
-"100W wired, PD3.0, QC3+, 100W PPS 22.5W reverse wired"
-],
-[
-"Colors",
-"White, Blue, Black"
-]
-],
-"slug": "xiaomi-poco-x8s-5g",
-"source": "https://www.gsmarena.com/xiaomi_poco_x8s_5g-15038.php",
-"tag": "6.35\" display · Qualcomm SM7750-AB Snapdragon  · 8 GB RAM · 6330 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.4\" display",
-"Qualcomm Snapdragon 8 Elite Ge",
-"12 GB RAM",
-"7000 mAh"
-],
-"name": "Xiaomi 18 Pro",
-"price": 244999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 23, released 2026, September 23)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"151.8 x 72 x 8.5 mm (5.98 x 2.83 x 0.33 in); 203 g or 208 g (7.16 oz); Glass front (Dragon Crystal Glass 3), aluminum frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"LTPO AMOLED, 68B colors, 2160Hz PWM, 120Hz, Dolby Vision, HDR Vivid, HDR10+, BT.2020, 4000 nits (peak); 6.4 inches, 100.3 cm2 (~91.8% screen-to-body ratio); 1120 x 2436 pixels, 19.5:9 ratio (~419 ppi density); Xiaomi Dragon Crystal Glass 3"
-],
-[
-"OS",
-"Android 17, HyperOS 4"
-],
-[
-"Chipset",
-"Qualcomm Snapdragon 8 Elite Gen 6 (2 nm); CPU Octa-core (up to 5 GHz); GPU Adreno"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.7, 23mm (wide), 1/1.28\", 0.61µm, dual pixel PDAF, OIS 200 MP, f/2.4, 75mm (periscope telephoto), 1/1.56\", PDAF (10cm - ∞), OIS, 3.2x optical zoom 50 MP, f/2.4, 17mm, 102˚ (ultrawide), 1/2.88\", 0.61µm, PDAF; Laser AF, color spectrum sensor, Leica lens, Dual-LED dual-tone flash, HDR, panorama; video 8K@30fps (HDR), 4K@30/60/120fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.2, 21mm (wide), 1/2.88\", 0.61µm, PDAF; HDR, panorama; video 4K@30/60fps, 1080p@30/60fps, HDR10+, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, Display Port, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7000 mAh"
-],
-[
-"Charging",
-"100W wired, PD3.0, QC3+, 100W PPS 50W wireless 27W reverse wireless"
-],
-[
-"Colors",
-"Black, White, Pink, Red, Blue"
-]
-],
-"slug": "xiaomi-18-pro-5g",
-"source": "https://www.gsmarena.com/xiaomi_18_pro_5g-14959.php",
-"tag": "6.4\" display · Qualcomm Snapdragon 8 Elite Ge · 12 GB RAM · 7000 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.9\" display",
-"Qualcomm SM8850-AC Snapdragon ",
-"12 GB RAM",
-"8050 mAh"
-],
-"name": "Xiaomi Poco F9 Ultra",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 01, released 2026, September 01)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"163.5 x 77.9 x 8.7 mm (6.44 x 3.07 x 0.34 in); 235 g (8.29 oz); Glass front (Gorilla Glass 7i), aluminum frame, glass-fiber reinforced plastic back; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"AMOLED, 68B colors, 185Hz, Dolby Vision, HDR10+, 850 nits (typ), 2200 nits (HBM), 4500 nits (peak); 6.9 inches, 116.6 cm2 (~91.6% screen-to-body ratio); 1200 x 2608 pixels, 19.5:9 ratio (~416 ppi density); Corning Gorilla Glass 7i"
-],
-[
-"OS",
-"Android 16, up to 4 major OS updates, HyperOS 3"
-],
-[
-"Chipset",
-"Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.7, 24mm (wide), 1/1.56\", 0.5µm, PDAF, OIS 50 MP, f/3.0, 114mm (periscope telephoto), 1/2.76\", 0.64µm, PDAF, OIS, 5x optical zoom 50 MP, f/2.4, 17mm, 102˚ (ultrawide), 1/2.88\", 0.61µm; Color spectrum sensor, LED flash, HDR, panorama; video 8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960/1920fps, gyro-EIS, HDR10+"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.2, 22mm (wide), 1/3.4\", 0.61µm; HDR; video 4K@30fps, 1080p@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE, AptX HD, AptX Adaptive, LHDC 5.0, ASHA, MIHC, Auracast"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG, video output"
-],
-[
-"Battery",
-"Si/C Li-Ion 8050 mAh"
-],
-[
-"Charging",
-"100W wired, PD3.0, QC3+, 100W PPS, 100% in 50 min 50W wireless, 50% in 37 min 27W reverse wired 22.5W reverse wireless"
-],
-[
-"Colors",
-"Black, Dark Cherry"
-]
-],
-"slug": "xiaomi-poco-f9-ultra-5g",
-"source": "https://www.gsmarena.com/xiaomi_poco_f9_ultra_5g-14876.php",
-"tag": "6.9\" display · Qualcomm SM8850-AC Snapdragon  · 12 GB RAM · 8050 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.59\" display",
-"Qualcomm SM8850-1-AB Snapdrago",
-"12 GB RAM",
-"6330 mAh"
-],
-"name": "Xiaomi Poco F9 Pro",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 01, released 2026, September 01)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"157.5 x 75.3 x 8.8 mm (6.20 x 2.96 x 0.35 in); 206 g (7.27 oz); Glass front (Gorilla Glass 7i), aluminum frame, glass-fiber reinforced plastic back; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"AMOLED, 68B colors, 185Hz, Dolby Vision, HDR10+, 850 nits (typ), 2200 nits (HBM), 4500 nits (peak); 6.59 inches, 106.5 cm2 (~89.8% screen-to-body ratio); 1156 x 2510 pixels, 19.5:9 ratio (~419 ppi density); Corning Gorilla Glass 7i"
-],
-[
-"OS",
-"Android 16, up to 4 major OS updates, HyperOS 3"
-],
-[
-"Chipset",
-"Qualcomm SM8850-1-AB Snapdragon 8 Elite Gen 5 V Series (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.7, 24mm (wide), 1/1.56\", 0.5µm, PDAF, OIS 50 MP, f/2.0, 60mm (telephoto), 1/2.75\", 0.64µm, PDAF (10cm - ∞), OIS, 2.5x optical zoom 8 MP, f/2.3, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm; Color spectrum sensor, LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240/960/1920fps, gyro-EIS, HDR10+"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.2, 22mm (wide), 1/3.4\", 0.61µm; HDR; video 4K@30fps, 1080p@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE, AptX HD, AptX Adaptive, LHDC 5.0, ASHA, MIHC, Auracast"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 6330 mAh"
-],
-[
-"Charging",
-"100W wired, PD3.0, QC3+, 100W PPS, 50% in 19 min 50W wireless, 50% in 35 min 27W reverse wired 22.5W reverse wireless"
-],
-[
-"Colors",
-"Black, White, Aurora Green"
-]
-],
-"slug": "xiaomi-poco-f9-pro-5g",
-"source": "https://www.gsmarena.com/xiaomi_poco_f9_pro_5g-14877.php",
-"tag": "6.59\" display · Qualcomm SM8850-1-AB Snapdrago · 12 GB RAM · 6330 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.59\" display",
-"Qualcomm SM8850-1-AB Snapdrago",
-"12 GB RAM",
-"8580 mAh"
-],
-"name": "Xiaomi Redmi K100 Pro",
-"price": 148999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, August 11, released 2026, August 11)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"157.5 x 75.3 x 8.6 mm (6.20 x 2.96 x 0.34 in); 218 g (7.69 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 68B colors, 185Hz, Dolby Vision, HDR Vivid, HDR10+, BT.2020, 4500 nits (peak); 6.59 inches, 106.5 cm2 (~89.8% screen-to-body ratio); 1156 x 2510 pixels, 19.5:9 ratio (~419 ppi density)"
-],
-[
-"OS",
-"Android 16, HyperOS 3"
-],
-[
-"Chipset",
-"Qualcomm SM8850-1-AB Snapdragon 8 Elite Gen 5 V Series (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.7, 24mm (wide), 0.5µm, PDAF, OIS 50 MP, f/2.0, 60mm (telephoto), 1/2.75\", 0.64µm, PDAF (10cm - ∞), OIS, 2.5x optical zoom 8 MP, 112˚ (ultrawide); Color spectrum sensor, LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240/960/1920fps, gyro-EIS, HDR10+"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.2, 21mm (wide), 1/3.44\", 0.64µm; video 4K@30fps, 1080p@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE, LHDC 5.0, ASHA, MIHC, Auracast"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 8580 mAh"
-],
-[
-"Charging",
-"100W wired, PD3.0, QC3+, 100W PPS 50W wireless 27W reverse wired 22.5W reverse wireless"
-],
-[
-"Colors",
-"Black, White, Light Green, Red (Burgundy)"
-]
-],
-"slug": "xiaomi-redmi-k100-pro-5g",
-"source": "https://www.gsmarena.com/xiaomi_redmi_k100_pro_5g-14715.php",
-"tag": "6.59\" display · Qualcomm SM8850-1-AB Snapdrago · 12 GB RAM · 8580 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.99\" display",
-"Qualcomm SM4450-AF Snapdragon ",
-"6 GB RAM",
-"8000 mAh"
-],
-"name": "Xiaomi Poco M8 Power",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, August 04, released 2026, August 07)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"169.7 x 79.1 x 8.5 mm (6.68 x 3.11 x 0.33 in); 225 g (7.94 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 120Hz, 1800 nits (peak); 6.99 inches, 118.7 cm2 (~88.4% screen-to-body ratio); 1080 x 2396 pixels (~375 ppi density); Corning Gorilla Glass 7i"
-],
-[
-"OS",
-"Android 16, up to 4 major OS updates, HyperOS 3"
-],
-[
-"Chipset",
-"Qualcomm SM4450-AF Snapdragon 4 Gen 4; CPU Octa-core (2x2.3 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55); GPU Adreno 613"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 26mm (wide), 1/2.76\", 0.64µm, PDAF; LED flash, HDR, panorama; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, (wide); video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.1, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 8000 mAh"
-],
-[
-"Charging",
-"45W wired, PD3.0 22.5W reverse wired"
-],
-[
-"Colors",
-"Black, Green, Blaze Orange"
-]
-],
-"slug": "xiaomi-poco-m8-power-5g",
-"source": "https://www.gsmarena.com/xiaomi_poco_m8_power_5g-14804.php",
-"tag": "6.99\" display · Qualcomm SM4450-AF Snapdragon  · 6 GB RAM · 8000 mAh",
-"year": 2026
-},
-{
-"brand": "Xiaomi",
-"cat": "Smartphones",
-"hl": [
-"6.9\" display",
-"Unisoc T8300",
-"4 GB RAM",
-"6300 mAh"
-],
-"name": "Xiaomi Redmi A7 Pro",
-"price": 36495,
-"price_src": "https://priceoye.pk/mobiles/xiaomi/xiaomi-redmi-a7-pro",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, April 13, released 2026, April 15)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"171.5 x 79.5 x 8.2 mm (6.75 x 3.13 x 0.32 in); 210 g (7.41 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 800 nits (peak); 6.9 inches, 114.9 cm2 (~84.3% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~254 ppi density)"
-],
-[
-"OS",
-"Android 16, up to 4 major OS updates, HyperOS 3"
-],
-[
-"Chipset",
-"Unisoc T8300 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB / 6 GB"
-],
-[
-"Storage",
-"64 GB / 128 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"32 MP, f/2.0, (wide), 1.12µm Auxiliary lens; LED flash; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, (wide), 1/4.0\", 1.12µm; HDR; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"6300 mAh"
-],
-[
-"Charging",
-"15W wired 7.5W reverse wired"
-],
-[
-"Colors",
-"Black, Mist Blue, Sunset Orange"
-]
-],
-"slug": "xiaomi-redmi-a7-pro-5g",
-"source": "https://www.gsmarena.com/xiaomi_redmi_a7_pro_5g-14616.php",
-"tag": "6.9\" display · Unisoc T8300 · 4 GB RAM · 6300 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.57\" display",
-"Mediatek Dimensity 6360 Max",
-"6 GB RAM",
-"8000 mAh"
-],
-"name": "Oppo K15s",
-"price": 83999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, October 02, released 2026, October 02)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"159.1 x 75.8 x 8.8 mm (6.26 x 2.98 x 0.35 in); 205 g (7.23 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 120Hz, 800 nits (typ), 1400 nits (peak); 6.57 inches, 105.0 cm2 (~87.1% screen-to-body ratio); 1080 x 2372 pixels (~397 ppi density)"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6360 Max (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC"
-],
-[
-"Main Camera",
-"50 MP, f/1.9, 25mm (wide), PDAF Auxiliary lens; LED flash, HDR, panorama; video 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.1, 25mm (wide); Panorama; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 8000 mAh"
-],
-[
-"Charging",
-"45W wired, 45W UFCS, 45W PPS, 13.5W PD Reverse wired"
-],
-[
-"Colors",
-"Gray, Purple"
-]
-],
-"slug": "oppo-k15s-5g",
-"source": "https://www.gsmarena.com/oppo_k15s_5g-14995.php",
-"tag": "6.57\" display · Mediatek Dimensity 6360 Max · 6 GB RAM · 8000 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.57\" display",
-"Mediatek Dimensity 6360 Max",
-"6 GB RAM",
-"8000 mAh"
-],
-"name": "Oppo F35",
-"price": 111999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, October 05, released 2026, October 11)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"159.1 x 75.8 x 8.8 mm (6.26 x 2.98 x 0.35 in); 205 g (7.23 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 120Hz, 800 nits (typ), 1400 nits (peak); 6.57 inches, 105.0 cm2 (~87.1% screen-to-body ratio); 1080 x 2372 pixels (~397 ppi density); Crystal Guard"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6360 Max (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB; microSDXC"
-],
-[
-"Main Camera",
-"50 MP, f/1.9, (wide), 1/2.0\", PDAF Auxiliary lens; LED flash, HDR, panorama; video 1440p@30fps, 1080p@30/60fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.1, 18mm (ultrawide), AF; Panorama; video 1440p@30fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"8000 mAh"
-],
-[
-"Charging",
-"80W wired, 44/80W UFCS, 55W PPS, 13.5W PD, 40% in 30 min Reverse wired"
-],
-[
-"Colors",
-"Mist Pink, Titanium Grey, Wave Blue"
-]
-],
-"slug": "oppo-f35-5g",
-"source": "https://www.gsmarena.com/oppo_f35_5g-14990.php",
-"tag": "6.57\" display · Mediatek Dimensity 6360 Max · 6 GB RAM · 8000 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Dimensity 9600 Pro",
-"12 GB RAM",
-"7150 mAh"
-],
-"name": "Oppo Find X10 Pro Max",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 22, released 2026, September 24)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"161.3 x 76.6 x 8.4 mm (6.35 x 3.02 x 0.33 in); 233 g or 235 g (8.22 oz); Glass front (Crystal Guard), glass back (Crystal Guard), aluminum frame; Nano-SIM + eSIM Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"LTPO AMOLED, 1B colors, 144Hz, 3840Hz PWM, Dolby Vision, HDR10+, HDR Vivid, BT.2020, 800 nits (typ), 2000 nits (HBM), 3600 nits (peak); 6.78 inches, 112.4 cm2 (~91.0% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density); Crystal Guard"
-],
-[
-"OS",
-"Android 17, ColorOS 17"
-],
-[
-"Chipset",
-"Mediatek Dimensity 9600 Pro (2 nm); CPU Octa-core (2x4.55 GHz & 3x4.35 GHz & 3x3.1 GHz); GPU Mali-G2-Ultra-NX"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.5, 24mm (wide), 1/1.3\", 0.6µm, PDAF, OIS 200 MP, f/2.1, 70mm (periscope telephoto), 1/1.56\", 0.5µm, PDAF (10cm - ∞), OIS, 3x optical zoom 200 MP, f/2.2, 13mm (ultrawide), 1/1.56\", 0.5µm, PDAF; Laser AF, color spectrum sensor, Hasselblad Color Calibration, LED flash, HDR, panorama, LUT preview; video 8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision, LOG"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.0, 18mm (ultrawide), 1/2.76\", 0.64µm, PDAF; Panorama; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band or tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.2, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC (L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7150 mAh - EU, AU, NZ Si/C Li-Ion 8000 mAh - Global"
-],
-[
-"Charging",
-"80W wired, 44/80W UFCS, 55W PPS, 13.5W PD 50W wireless 10W reverse wireless"
-],
-[
-"Colors",
-"Titanium Grey, Luna White, Orange"
-]
-],
-"slug": "oppo-find-x10-pro-max",
-"source": "https://www.gsmarena.com/oppo_find_x10_pro_max-14939.php",
-"tag": "6.78\" display · Mediatek Dimensity 9600 Pro · 12 GB RAM · 7150 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.32\" display",
-"Qualcomm SM7750-AB Snapdragon ",
-"8 GB RAM",
-"6700 mAh"
-],
-"name": "Oppo Reno16",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, June 25, released 2026, July 09)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"151.2 x 72.4 x 8.2 mm or 8.4 mm; 188 g or 191 g (6.63 oz); Glass front, aluminum frame, glass back or composite plastic back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR10+, 600 nits (typ), 1800 nits (HBM), 3600 nits (peak); 6.32 inches, 97.9 cm2 (~89.5% screen-to-body ratio); 1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density); Crystal Guard"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Qualcomm SM7750-AB Snapdragon 7 Gen 4 (4 nm); CPU Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520); GPU Adreno 722"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS 50 MP, f/2.8, 80mm (telephoto), 1/2.75\", 0.64µm, PDAF, OIS, 3.5x optical zoom 50 MP, f/2.0, 16mm, 116˚ (ultrawide), 1/2.88\", 0.61µm, AF; Color spectrum sensor, Multi-focus LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, HDR, OIS"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.0, 18mm, 100˚ (ultrawide), 1/2.75\", 0.64µm, AF; Panorama, HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS, QZSS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 6700 mAh (International) or 6000 mAh (Europe)"
-],
-[
-"Charging",
-"80W wired, 55W PPS, 13.5W PD/QC, 100% in 59 min Reverse wired"
-],
-[
-"Colors",
-"Pop White, Twilight Violet, Dream Purple"
-]
-],
-"slug": "oppo-reno16-5g",
-"source": "https://www.gsmarena.com/oppo_reno16_5g-14747.php",
-"tag": "6.32\" display · Qualcomm SM7750-AB Snapdragon  · 8 GB RAM · 6700 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.32\" display",
-"Mediatek Dimensity 8500 Super",
-"12 GB RAM",
-"6700 mAh"
-],
-"name": "Oppo Reno16 (China)",
-"price": 135999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, May 25, released 2026, May 29)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"151.2 x 72.4 x 8.2 mm or 8.4 mm; 188 g or 191 g (6.63 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 120Hz, 3840Hz PWM, 600 nits (typ), 1800 nits (HBM), 3600 nits (peak); 6.32 inches, 97.9 cm2 (~89.5% screen-to-body ratio); 1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density)"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 8500 Super (4 nm); CPU Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725); GPU Mali-G720 MC8"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.8, 24mm (wide), PDAF, OIS 50 MP, f/2.8, 80mm (telephoto), PDAF, OIS, 3.5x optical zoom 50 MP, f/2.0, 16mm, 116˚ (ultrawide), AF; Color spectrum sensor, Multi-focus LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, HDR"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.0, 18mm, 100˚ (ultrawide), AF; Panorama, HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"6700 mAh"
-],
-[
-"Charging",
-"80W wired, 55W PPS, 44W/80W UFCS, 13.5W PD Reverse wired"
-],
-[
-"Colors",
-"Black, Purple, White"
-]
-],
-"slug": "oppo-reno16-5g-(china)",
-"source": "https://www.gsmarena.com/oppo_reno16_5g_(china)-14676.php",
-"tag": "6.32\" display · Mediatek Dimensity 8500 Super · 12 GB RAM · 6700 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Tablets",
-"hl": [
-"13.2\" display",
-"Qualcomm SM8850-AC Snapdragon ",
-"8 GB RAM",
-"13380 mAh"
-],
-"name": "Oppo Pad 5 Pro",
-"price": 166999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, April 21, released 2026, April 21)"
-],
-[
-"Network",
-"No cellular connectivity"
-],
-[
-"Body",
-"289.7 x 208.8 x 5.9 mm (11.41 x 8.22 x 0.23 in); 672 g (1.48 lb); Glass front, aluminum frame, aluminum back; No"
-],
-[
-"Display",
-"IPS LCD, 144Hz, 700 nits (typ), 1000 nits (peak); 13.2 inches, 530.0 cm2 (~87.6% screen-to-body ratio); 3392 x 2400 pixels (~315 ppi density)"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
-],
-[
-"RAM",
-"8 GB / 12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"13 MP; Color spectrum sensor, LED flash; video 4K@30fps, 1080p@30ps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"8 MP; video 1080p@30fps"
-],
-[
-"Sensors",
-"Accelerometer, proximity (accessories only), gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (8 speakers)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"Yes, aptX HD, Adaptive, LHDC 5.0"
-],
-[
-"GPS",
-"No"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG"
-],
-[
-"Battery",
-"13380 mAh"
-],
-[
-"Charging",
-"67W wired, UFCS, 13.5W PD"
-],
-[
-"Colors",
-"Gold, Brown, Purple"
-]
-],
-"slug": "oppo-pad-5-pro",
-"source": "https://www.gsmarena.com/oppo_pad_5_pro-14621.php",
-"tag": "13.2\" display · Qualcomm SM8850-AC Snapdragon  · 8 GB RAM · 13380 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.75\" display",
-"Unisoc T7250",
-"4 GB RAM",
-"7000 mAh"
-],
-"name": "Oppo A6c",
-"price": 43495,
-"price_src": "https://priceoye.pk/mobiles/oppo/oppo-a6c",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, April, released 2026, April)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"166.5 x 78.5 x 8.9 mm (6.56 x 3.09 x 0.35 in); 215 g (7.58 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 700 nits (typ); 6.75 inches, 111.4 cm2 (~85.2% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
-],
-[
-"OS",
-"Android 15, ColorOS 15"
-],
-[
-"Chipset",
-"Unisoc T7250 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55); GPU Mali-G57 MP1"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB / 128 GB; microSDXC"
-],
-[
-"Main Camera",
-"13 MP, f/2.2, (wide), AF; LED flash, HDR, panorama; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"5 MP, f/2.2, (wide); video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n, dual-band"
-],
-[
-"Bluetooth",
-"5.2, A2DP, LE, aptX"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"7000 mAh"
-],
-[
-"Charging",
-"15W wired 5W reverse wired"
-],
-[
-"Colors",
-"Stone Brown, Feather Purple, Feather White"
-]
-],
-"slug": "oppo-a6c",
-"source": "https://www.gsmarena.com/oppo_a6c-14418.php",
-"tag": "6.75\" display · Unisoc T7250 · 4 GB RAM · 7000 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.75\" display",
-"Mediatek Dimensity 6300",
-"4 GB RAM",
-"6500 mAh"
-],
-"name": "Oppo K14x",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, February 10, released 2026, February 16)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in); 212 g (7.48 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 700 nits (typ), 1125 nits (peak); 6.75 inches, 111.4 cm2 (~85.2% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
-],
-[
-"OS",
-"Android 15, ColorOS 15"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB / 6 GB"
-],
-[
-"Storage",
-"64 GB / 128 GB; microSDXC"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash, HDR, panorama; video 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"5 MP, f/2.2, (wide); Panorama; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"6500 mAh"
-],
-[
-"Charging",
-"45 wired, 33W PPS, 13.5W PD 5W reverse wired"
-],
-[
-"Colors",
-"Prism Violet, Icy Blue"
-]
-],
-"slug": "oppo-k14x-5g",
-"source": "https://www.gsmarena.com/oppo_k14x_5g-14458.php",
-"tag": "6.75\" display · Mediatek Dimensity 6300 · 4 GB RAM · 6500 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.57\" display",
-"Qualcomm SM6450 Snapdragon 6 G",
-"8 GB RAM",
-"7000 mAh"
-],
-"name": "Oppo Reno15c (India)",
-"price": 101999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, February 04, released 2026, February 05)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"158.2 x 74.9 x 8.1 mm (6.23 x 2.95 x 0.32 in); 195 g (6.88 oz); Glass front (Gorilla Glass+), glass back (AGC Dragontrail DT-Star D+); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 120Hz, 600 nits (typ), 1400 nits (HBM); 6.57 inches, 105.0 cm2 (~88.6% screen-to-body ratio); 1080 x 2372 pixels (~397 ppi density); Corning Gorilla Glass+"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm); CPU Octa-core (4x2.2 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55); GPU Adreno 710"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"256 GB; microSDXC"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS 8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm 2 MP (macro); Color spectrum sensor, LED flash, HDR, panorama, Ring LED flash (Afterglow Pink model only); video 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.0, 100˚, 18mm (ultrawide), AF; Panorama; video 4K@30fps, 1080p@30fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.1, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7000 mAh"
-],
-[
-"Charging",
-"80W wired, 55W PPS, 13.5W PD/QC, 100% in 64 min Reverse wired"
-],
-[
-"Colors",
-"Afterglow Pink, Twilight Blue"
-]
-],
-"slug": "oppo-reno15c-5g-(india)",
-"source": "https://www.gsmarena.com/oppo_reno15c_5g_(india)-14513.php",
-"tag": "6.57\" display · Qualcomm SM6450 Snapdragon 6 G · 8 GB RAM · 7000 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.75\" display",
-"Qualcomm SM6225 Snapdragon 685",
-"4 GB RAM",
-"6500 mAh"
-],
-"name": "Oppo A6t 4G",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, January 13, released 2026, January 13)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in); 210 g (7.41 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 1125 nits (peak); 6.75 inches, 111.4 cm2 (~85.2% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
-],
-[
-"OS",
-"Android 15, ColorOS 15"
-],
-[
-"Chipset",
-"Qualcomm SM6225 Snapdragon 685 (6 nm); CPU Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53); GPU Adreno 610"
-],
-[
-"RAM",
-"4 GB / 6 GB"
-],
-[
-"Storage",
-"64 GB / 128 GB / 256 GB; microSDXC"
-],
-[
-"Main Camera",
-"13 MP, f/2.2, (wide), AF; LED flash, HDR, panorama; video 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"5 MP, f/2.2, (wide); video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.0, A2DP, LE, aptX"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"6500 mAh"
-],
-[
-"Charging",
-"Wired 5W reverse wired"
-],
-[
-"Colors",
-"Crystal Violet, Crystal Blue"
-]
-],
-"slug": "oppo-a6t",
-"source": "https://www.gsmarena.com/oppo_a6t-14416.php",
-"tag": "6.75\" display · Qualcomm SM6225 Snapdragon 685 · 4 GB RAM · 6500 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.75\" display",
-"Mediatek Dimensity 6300",
-"4 GB RAM",
-"7000 mAh"
-],
-"name": "Oppo A6",
-"price": 69995,
-"price_src": "https://priceoye.pk/mobiles/oppo/oppo-a6",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, January 13, released 2026, January 13)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in); 216 g (7.62 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 1125 nits (peak); 6.75 inches, 111.4 cm2 (~85.2% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
-],
-[
-"OS",
-"Android 15, ColorOS 15"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB / 6 GB / 8 GB / 12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; microSDXC"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash, HDR, panorama; video 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, (wide); Panorama; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, QZSS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7000 mAh"
-],
-[
-"Charging",
-"45W wired, 33W PPS, 13.5W PD, 37% in 30 min 5W reverse wired"
-],
-[
-"Colors",
-"Sapphire Blue, Sakura Pink"
-]
-],
-"slug": "oppo-a6-5g",
-"source": "https://www.gsmarena.com/oppo_a6_5g-14412.php",
-"tag": "6.75\" display · Mediatek Dimensity 6300 · 4 GB RAM · 7000 mAh",
-"year": 2026
-},
-{
-"brand": "Oppo",
-"cat": "Smartphones",
-"hl": [
-"6.75\" display",
-"Qualcomm SM6225 Snapdragon 685",
-"8 GB RAM",
-"7000 mAh"
-],
-"name": "Oppo A6s 4G",
-"price": 91995,
-"price_src": "https://priceoye.pk/mobiles/oppo/oppo-a6s",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, January 09, released 2026, January 09)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in); 215 g (7.58 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 1125 nits (peak); 6.75 inches, 111.4 cm2 (~85.2% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
-],
-[
-"OS",
-"Android 15, ColorOS 15"
-],
-[
-"Chipset",
-"Qualcomm SM6225 Snapdragon 685 (6 nm); CPU Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53); GPU Adreno 610"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash, HDR, panorama; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.4, (wide); Panorama; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.0, A2DP, LE, aptX"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, QZSS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7000 mAh"
-],
-[
-"Charging",
-"80W wired, 33W PPS, 13.5W PD, 56% in 30 min 5W reverse wired"
-],
-[
-"Colors",
-"Cappuccino Brown, Ice White"
-]
-],
-"slug": "oppo-a6s",
-"source": "https://www.gsmarena.com/oppo_a6s-14411.php",
-"tag": "6.75\" display · Qualcomm SM6225 Snapdragon 685 · 8 GB RAM · 7000 mAh",
-"year": 2026
-},
-{
-"brand": "OnePlus",
-"cat": "Smartphones",
-"hl": [
-"6.75\" display",
-"Unisoc T7250",
-"4 GB RAM",
-"7000 mAh"
-],
-"name": "OnePlus N6 Lite",
-"price": 49999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 22, released 2026, September 22)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"166.5 x 78.2 x 9 mm (6.56 x 3.08 x 0.35 in); 215 g (7.58 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 900 nits (HBM); 6.75 inches, 111.4 cm2 (~85.5% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
-],
-[
-"OS",
-"Android 16, OxygenOS 16"
-],
-[
-"Chipset",
-"Unisoc T7250 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55); GPU Mali-G57 MP1"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"13 MP, f/2.2, (wide), AF; LED flash, panorama; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"5 MP, f/2.2, (wide); Panorama; video 720p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.2, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"7000 mAh"
-],
-[
-"Charging",
-"15W wired 5W reverse wired"
-],
-[
-"Colors",
-"Midnight Hype, Neo Green"
-]
-],
-"slug": "oneplus-n6-lite",
-"source": "https://www.gsmarena.com/oneplus_n6_lite-14952.php",
-"tag": "6.75\" display · Unisoc T7250 · 4 GB RAM · 7000 mAh",
-"year": 2026
-},
-{
-"brand": "OnePlus",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Dimensity 7400 Super",
-"8 GB RAM",
-"8000 mAh"
-],
-"name": "OnePlus Turbo 6X Pro",
-"price": 80999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, June 10, released 2026, June 15)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.6 x 77.6 x 8.8 mm (6.40 x 3.06 x 0.35 in); 213 g (7.51 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 144Hz, HDR, 800 nits (typ), 1400 nits (HBM), 6500 nits (peak); 6.78 inches, 112.4 cm2 (~89.1% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7400 Super (4 nm); CPU Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali G615"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 27mm (wide), PDAF, OIS 8 MP, f/2.2, 16mm, 112˚ (ultrawide); Color spectrum sensor, LED flash, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.4, 23mm (wide); video 1080p@30fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Si/C Li-Ion 8000 mAh"
-],
-[
-"Charging",
-"80W wired, 80W/44W UFCS, 55W PPS, 13.5W PD, 50% in 31 min Bypass charging"
-],
-[
-"Colors",
-"Gray, Orange"
-]
-],
-"slug": "oneplus-turbo-6x-pro-5g",
-"source": "https://www.gsmarena.com/oneplus_turbo_6x_pro_5g-14711.php",
-"tag": "6.78\" display · Mediatek Dimensity 7400 Super · 8 GB RAM · 8000 mAh",
-"year": 2026
-},
-{
-"brand": "OnePlus",
-"cat": "Smartphones",
-"hl": [
-"6.72\" display",
-"Mediatek Dimensity 7360 Super",
-"8 GB RAM",
-"7000 mAh"
-],
-"name": "OnePlus Turbo 6X",
-"price": 73999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, June 10, released 2026, June 15)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"165.9 x 76 x 9 mm (6.53 x 2.99 x 0.35 in); 208 g (7.34 oz); Glass front, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 144Hz, 800 nits (typ), 1000 nits (peak); 6.72 inches, 109.6 cm2 (~86.9% screen-to-body ratio); 1080 x 2400 pixels, 20:9 ratio (~391 ppi density)"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7360 Super (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 27mm (wide), 1/2.88\", 0.61µm, PDAF Auxiliary lens; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, 25mm (wide); video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Si/C Li-Ion 7000 mAh"
-],
-[
-"Charging",
-"45W wired, 45W UFCS, 45W PPS, 13.5W PD Reverse wired Bypass charging"
-],
-[
-"Colors",
-"Black, White, Green"
-]
-],
-"slug": "oneplus-turbo-6x-5g",
-"source": "https://www.gsmarena.com/oneplus_turbo_6x_5g-14712.php",
-"tag": "6.72\" display · Mediatek Dimensity 7360 Super · 8 GB RAM · 7000 mAh",
-"year": 2026
-},
-{
-"brand": "OnePlus",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Qualcomm SM7635-AC Snapdragon ",
-"8 GB RAM",
-"7500 mAh"
-],
-"name": "OnePlus Nord CE6",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, May 07, released 2026, May 08)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.5 x 77.5 x 8.5 mm (6.40 x 3.05 x 0.33 in); 208 g or 215 g (7.34 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 144Hz, 3840Hz PWM, HDR, 800 nits (typ), 1800 nits (HBM), 3600 nits (peak); 6.78 inches, 112.4 cm2 (~89.3% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)"
-],
-[
-"OS",
-"Android 16"
-],
-[
-"Chipset",
-"Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm); CPU Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520); GPU Adreno 810"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; Unspecified"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 27mm (wide), 1/2.88\", 0.61µm, PDAF, OIS Auxiliary lens; Color spectrum sensor, LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.0, 21mm (wide), 1/3.1\", 0.7µm; Panorama; video 4K@30fps, 1080p@30fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.2, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"7500 mAh - Global8000 mAh - India"
-],
-[
-"Charging",
-"80W wired, 55W PPS, 13.5W PD 27W reverse wired (India) 6.5W reverse wired (Global) Bypass charging"
-],
-[
-"Colors",
-"Pitch Black, Lunar Pearl, Blue"
-]
-],
-"slug": "oneplus-nord-ce6-5g",
-"source": "https://www.gsmarena.com/oneplus_nord_ce6_5g-14611.php",
-"tag": "6.78\" display · Qualcomm SM7635-AC Snapdragon  · 8 GB RAM · 7500 mAh",
-"year": 2026
-},
-{
-"brand": "OnePlus",
-"cat": "Smartphones",
-"hl": [
-"6.72\" display",
-"Mediatek Dimensity 7400 Apex",
-"6 GB RAM",
-"7000 mAh"
-],
-"name": "OnePlus Nord CE6 Lite",
-"price": 58999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, May 07, released 2026, May 12)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"165.9 x 76 x 8.5 mm (6.53 x 2.99 x 0.33 in); 208 g (7.34 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 144Hz, 800 nits (typ), 1000 nits (HBM); 6.72 inches, 109.0 cm2 (~86.5% screen-to-body ratio); 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)"
-],
-[
-"OS",
-"Android 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7400 Apex (4 nm); CPU Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali G615"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 27mm (wide), 1/2.88\", 0.61µm, PDAF Auxiliary lens; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, 25mm (wide), 1/4.0\", 1.12µm; Panorama; video 1080p@30fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"7000 mAh"
-],
-[
-"Charging",
-"45W wired, 45W PPS 10W reverse wired Bypass charging"
-],
-[
-"Colors",
-"Hyper Black, Vivid Mint"
-]
-],
-"slug": "oneplus-nord-ce6-lite-5g",
-"source": "https://www.gsmarena.com/oneplus_nord_ce6_lite_5g-14567.php",
-"tag": "6.72\" display · Mediatek Dimensity 7400 Apex · 6 GB RAM · 7000 mAh",
-"year": 2026
-},
-{
-"brand": "OnePlus",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Qualcomm SM8735 Snapdragon 8s ",
-"12 GB RAM",
-"9000 mAh"
-],
-"name": "OnePlus Turbo 6",
-"price": 86999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, January 08, released 2026, January 09)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.5 x 77.5 x 8.5 mm (6.40 x 3.05 x 0.33 in); 217 g (7.65 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 165Hz, 3840Hz PWM, HDR Vivid, 800 nits (typ), 1800 nits (peak); 6.78 inches, 112.4 cm2 (~89.3% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm); CPU Octa-core (1x3.21 GHz Cortex-X4 & 3x3.0 GHz Cortex-A720 & 2x2.8 GHz Cortex-A720 & 2x2.0 GHz Cortex-A720); GPU Adreno 825"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.9, 26mm (wide), PDAF, OIS Auxiliary lens; Color spectrum sensor, LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/240fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.4, 23mm (wide), 1/3\", 1.0µm; HDR, panorama; video 1080p@30fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Si/C Li-Ion 9000 mAh"
-],
-[
-"Charging",
-"80W wired, UFCS, 55W PPS, 13.5W PD/QC 27W reverse wired"
-],
-[
-"Colors",
-"Black, White, Mint"
-]
-],
-"slug": "oneplus-turbo-6-5g",
-"source": "https://www.gsmarena.com/oneplus_turbo_6_5g-14260.php",
-"tag": "6.78\" display · Qualcomm SM8735 Snapdragon 8s  · 12 GB RAM · 9000 mAh",
-"year": 2026
-},
-{
-"brand": "OnePlus",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Qualcomm SM7635-AC Snapdragon ",
-"8 GB RAM",
-"9000 mAh"
-],
-"name": "OnePlus Turbo 6V",
-"price": 70999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, January 08, released 2026, January 09)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.5 x 77.5 x 8.5 mm (6.40 x 3.05 x 0.33 in); 215 g (7.58 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 144Hz, 3840Hz PWM, 800 nits (typ), 1800 nits (peak); 6.78 inches, 112.4 cm2 (~89.3% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)"
-],
-[
-"OS",
-"Android 16, ColorOS 16"
-],
-[
-"Chipset",
-"Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm); CPU Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520); GPU Adreno 810"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.9, 27mm (wide), PDAF, OIS Auxiliary lens; Color spectrum sensor, LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.4, 23mm (wide), 1/3\", 1.0µm; HDR, panorama; video 1080p@30fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Si/C Li-Ion 9000 mAh"
-],
-[
-"Charging",
-"80W wired, UFCS, 55W PPS, 13.5W PD/QC 27W reverse wired"
-],
-[
-"Colors",
-"Black, White, Blue, Orange"
-]
-],
-"slug": "oneplus-turbo-6v-5g",
-"source": "https://www.gsmarena.com/oneplus_turbo_6v_5g-14404.php",
-"tag": "6.78\" display · Qualcomm SM7635-AC Snapdragon  · 8 GB RAM · 9000 mAh",
-"year": 2026
-},
-{
-"brand": "OnePlus",
-"cat": "Smartphones",
-"hl": [
-"6.77\" display",
-"Mediatek Dimensity 8350 Apex",
-"8 GB RAM",
-"5200 mAh"
-],
-"name": "OnePlus Nord CE5",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, July 08, released 2025, July 08)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"163.6 x 76 x 8.2 mm (6.44 x 2.99 x 0.32 in); 199 g (7.02 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Fluid AMOLED, 1B colors, 120Hz, HDR10+, 800 nits (typ), 1300 nits (HBM), 1430 nits (peak); 6.77 inches, 111.5 cm2 (~89.7% screen-to-body ratio); 1080 x 2392 pixels (~387 ppi density)"
-],
-[
-"OS",
-"Android 15, ColorOS 15"
-],
-[
-"Chipset",
-"Mediatek Dimensity 8350 Apex (4 nm); CPU Octa-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510); GPU Mali G615-MC6"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS 8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm; LED flash, Ultra HDR, panorama; video 4K@30/60fps (HDR), 1080p@30/60/120/480fps, 720p@960fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.4, 23mm (wide), 1/3.0\", 1.0µm; Panorama; video 1080p@30/60fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Market-dependent versions: 5200 mAh (Global) Si/C Li-Ion 7100 mAh (India)"
-],
-[
-"Charging",
-"80W wired Bypass charging"
-],
-[
-"Colors",
-"Marble Mist, Black Infinity, Nexus Blue"
-]
-],
-"slug": "oneplus-nord-ce5-5g",
-"source": "https://www.gsmarena.com/oneplus_nord_ce5_5g-13792.php",
-"tag": "6.77\" display · Mediatek Dimensity 8350 Apex · 8 GB RAM · 5200 mAh",
-"year": 2025
-},
-{
-"brand": "OnePlus",
-"cat": "Smartphones",
-"hl": [
-"6.83\" display",
-"Mediatek Dimensity 9400+",
-"12 GB RAM",
-"6700 mAh"
-],
-"name": "OnePlus Ace 5 Ultra",
-"price": 95999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, May 27, released 2025, May 27)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"163.4 x 77 x 8.1 mm (6.43 x 3.03 x 0.32 in); 206 g (7.27 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 144Hz, 3840Hz PWM, HDR10+, Dolby Vision, HDR Vivid, 800 nits (typ), 1400 nits (peak); 6.83 inches, 113.3 cm2 (~90.1% screen-to-body ratio); 1272 x 2800 pixels (~450 ppi density); Crystal Shield Glass"
-],
-[
-"OS",
-"Android 15, ColorOS 15"
-],
-[
-"Chipset",
-"Mediatek Dimensity 9400+ (3 nm); CPU Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720); GPU Immortalis-G925 MC12"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm; LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.4, 23mm (wide), 1/3\", 1.0µm; HDR, panorama; video 1080p@30fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, LHDC 5, BLE Audio"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Si/C Li-Ion 6700 mAh"
-],
-[
-"Charging",
-"100W wired, PD, 100% in 39 min 7.5W reverse wired Bypass charging"
-],
-[
-"Colors",
-"Blue, Black, Titanium"
-]
-],
-"slug": "oneplus-ace-5-ultra-5g",
-"source": "https://www.gsmarena.com/oneplus_ace_5_ultra_5g-13891.php",
-"tag": "6.83\" display · Mediatek Dimensity 9400+ · 12 GB RAM · 6700 mAh",
-"year": 2025
-},
-{
-"brand": "OnePlus",
-"cat": "Tablets",
-"hl": [
-"13.2\" display",
-"Qualcomm SM8750-AB Snapdragon ",
-"8 GB RAM",
-"12140 mAh"
-],
-"name": "OnePlus Pad 2 Pro",
-"price": 123999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, May 13, released 2025, May 20)"
-],
-[
-"Network",
-"No cellular connectivity"
-],
-[
-"Body",
-"289.6 x 209.7 x 6 mm (11.40 x 8.26 x 0.24 in); 675 g (1.49 lb); Glass front, aluminum frame, aluminum back; No"
-],
-[
-"Display",
-"IPS LCD, 68B colors, Dolby Vision, 144Hz, 900 nits (HBM); 13.2 inches, 530.0 cm2 (~87.3% screen-to-body ratio); 2400 x 3392 pixels (~315 ppi density)"
-],
-[
-"OS",
-"Android 15, ColorOS 15"
-],
-[
-"Chipset",
-"Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm); CPU Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); GPU Adreno 830"
-],
-[
-"RAM",
-"8 GB / 12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"13 MP; Color spectrum sensor, LED flash; video 4K@30fps, 1080p@30ps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"8 MP; video 1080p@30fps"
-],
-[
-"Sensors",
-"Accelerometer, proximity (accessories only), gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (4 speakers)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"No"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG, accessory connector"
-],
-[
-"Battery",
-"12140 mAh"
-],
-[
-"Charging",
-"67W wired"
-],
-[
-"Colors",
-"Blue, Silver"
-]
-],
-"slug": "oneplus-pad-2-pro",
-"source": "https://www.gsmarena.com/oneplus_pad_2_pro-13860.php",
-"tag": "13.2\" display · Qualcomm SM8750-AB Snapdragon  · 8 GB RAM · 12140 mAh",
-"year": 2025
-},
-{
-"brand": "OnePlus",
-"cat": "Smartphones",
-"hl": [
-"6.32\" display",
-"Qualcomm SM8750-AB Snapdragon ",
-"12 GB RAM",
-"6260 mAh"
-],
-"name": "OnePlus 13T",
-"price": 126999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, April 24, released 2025, April 30)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"150.8 x 71.7 x 8.2 mm (5.94 x 2.82 x 0.32 in); 185 g (6.53 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"LTPO AMOLED, 1B colors, 120Hz, 2160Hz PWM, Dolby Vision, HDR10+, HDR Vivid, 1600 nits (HBM); 6.32 inches, 97.9 cm2 (~90.6% screen-to-body ratio); 1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density); Crystal Shield Glass"
-],
-[
-"OS",
-"Android 15, OxygenOS 15 (International), ColorOS 15 (China)"
-],
-[
-"Chipset",
-"Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm); CPU Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); GPU Adreno 830"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS 50 MP, f/2.0, (telephoto), 1/2.76\", 0.64µm, 2x optical zoom, PDAF; Color spectrum sensor, LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/240fps, gyro-EIS, OIS, Dolby Vision HDR"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.4, 24mm (wide); HDR, panorama; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual or tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 6260 mAh"
-],
-[
-"Charging",
-"80W wired, 33W PPS, 18W PD, 18W QC 5W reverse wired"
-],
-[
-"Colors",
-"Black, Gray, Pink"
-]
-],
-"slug": "oneplus-13t-5g",
-"source": "https://www.gsmarena.com/oneplus_13t_5g-13791.php",
-"tag": "6.32\" display · Qualcomm SM8750-AB Snapdragon  · 12 GB RAM · 6260 mAh",
-"year": 2025
-},
-{
-"brand": "OnePlus",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Qualcomm SM8650-AB Snapdragon ",
-"12 GB RAM",
-"6000 mAh"
-],
-"name": "OnePlus 13R",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, January 07, released 2025, January 14)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / LTE / 5G"
-],
-[
-"Body",
-"161.7 x 75.8 x 8 mm (6.37 x 2.98 x 0.31 in); 206 g (7.27 oz); Glass front (Gorilla Glass 7i), aluminum frame, glass back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"LTPO 4.1 AMOLED, 1B colors, 120Hz, 2160Hz PWM, HDR10+, Dolby Vision, HDR Vivid, 1600 nits (HBM), 4500 nits (peak); 6.78 inches, 111.7 cm2 (~91.2% screen-to-body ratio); 1264 x 2780 pixels (~450 ppi density); Corning Gorilla Glass 7i"
-],
-[
-"OS",
-"Android 15, up to 4 major OS updates, OxygenOS 15"
-],
-[
-"Chipset",
-"Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm); CPU Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520); GPU Adreno 750"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS 50 MP, f/2.0, 47mm (telephoto), 1/2.75\", 0.64µm, PDAF, 2x optical zoom 8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm; Color spectrum sensor, LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.4, 26mm (wide), 1/3.1\", 1.0µm; HDR, panorama; video 1080p@30fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band (6e is market specific)"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Li-Ion 6000 mAh"
-],
-[
-"Charging",
-"80W wired, 50% in 20 min, 100% in 52/54 min"
-],
-[
-"Colors",
-"Astral Trail, Nebula Noir"
-]
-],
-"slug": "oneplus-13r",
-"source": "https://www.gsmarena.com/oneplus_13r-13548.php",
-"tag": "6.78\" display · Qualcomm SM8650-AB Snapdragon  · 12 GB RAM · 6000 mAh",
-"year": 2025
-},
-{
-"brand": "OnePlus",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Qualcomm SM8650-AB Snapdragon ",
-"12 GB RAM",
-"6415 mAh"
-],
-"name": "OnePlus Ace 5",
-"price": 92999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2024 (announced 2024, December 26, released 2024, December 26)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / LTE / 5G"
-],
-[
-"Body",
-"161.7 x 75.8 x 8.1 mm (6.37 x 2.98 x 0.32 in); 206 g or 223 g (7.27 oz); Glass front (Crystal Shield Glass), glass back (Crystal Shield Glass), aluminum frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"LTPO AMOLED, 1B colors, 120Hz, HDR10+, Dolby Vision, 800 nits (typ), 1600 nits (HBM), 4500 nits (peak); 6.78 inches, 111.7 cm2 (~91.2% screen-to-body ratio); 1264 x 2780 pixels (~450 ppi density); Crystal Shield Glass"
-],
-[
-"OS",
-"Android 15, ColorOS 15"
-],
-[
-"Chipset",
-"Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm); CPU Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520); GPU Adreno 750"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm 2 MP (macro); Color spectrum sensor, Dual-LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.4, 24mm (wide), 1/3\", 1.0µm; HDR, panorama; video 1080p@30fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Si/C Li-Ion 6415 mAh"
-],
-[
-"Charging",
-"80W wired, 18W PD, 55% in 15 min, 100% in 35 min"
-],
-[
-"Colors",
-"Gray, White, Green"
-]
-],
-"slug": "oneplus-ace-5",
-"source": "https://www.gsmarena.com/oneplus_ace_5-13592.php",
-"tag": "6.78\" display · Qualcomm SM8650-AB Snapdragon  · 12 GB RAM · 6415 mAh",
-"year": 2024
-},
-{
-"brand": "OnePlus",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Qualcomm SM8650-AB Snapdragon ",
-"12 GB RAM",
-"6100 mAh"
-],
-"name": "OnePlus Ace 3 Pro",
-"price": 126999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2024 (announced 2024, June 27, released 2024, July 03)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / LTE / 5G"
-],
-[
-"Body",
-"163.3 x 75.3 x 8.7 / 8.9 / 9.0 mm; 207 g, 212 g, 225 g (7.30 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"LTPO AMOLED, 1B colors, 120Hz, HDR10+, Dolby Vision, 800 nits (typ), 1600 nits (HBM), 4500 nits (peak); 6.78 inches, 111.7 cm2 (~90.9% screen-to-body ratio); 1264 x 2780 pixels (~450 ppi density); Corning Gorilla Glass Victus 2"
-],
-[
-"OS",
-"Android 14, ColorOS 14"
-],
-[
-"Chipset",
-"Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm); CPU Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520); GPU Adreno 750"
-],
-[
-"RAM",
-"12 GB / 16 GB / 24 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm 2 MP (macro); Dual-LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.4, 26mm (wide), 1/3\", 1.0µm; HDR, panorama; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE, aptX HD, LHDC"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"6100 mAh"
-],
-[
-"Charging",
-"100W wired, PD2.0, QC2, 52% in 15 min, 100% in 36 min"
-],
-[
-"Colors",
-"Gray, White, Green"
-]
-],
-"slug": "oneplus-ace-3-pro",
-"source": "https://www.gsmarena.com/oneplus_ace_3_pro-13179.php",
-"tag": "6.78\" display · Qualcomm SM8650-AB Snapdragon  · 12 GB RAM · 6100 mAh",
-"year": 2024
-},
-{
-"brand": "OnePlus",
-"cat": "Tablets",
-"hl": [
-"12.1\" display",
-"Qualcomm SM8650-AB Snapdragon ",
-"8 GB RAM",
-"9510 mAh"
-],
-"name": "OnePlus Pad Pro",
-"price": 114999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2024 (announced 2024, June 27, released 2024, June 29)"
-],
-[
-"Network",
-"No cellular connectivity"
-],
-[
-"Body",
-"268.7 x 195.1 x 6.5 mm (10.58 x 7.68 x 0.26 in); 584 g (1.29 lb); Glass front, aluminum back, aluminum frame; No"
-],
-[
-"Display",
-"IPS LCD, 68B colors, Dolby Vision, HDR10+, 144Hz, 600 nits (typ), 900 nits (peak); 12.1 inches, 445.2 cm2 (~84.9% screen-to-body ratio); 2120 x 3000 pixels (~304 ppi density)"
-],
-[
-"OS",
-"Android 14, OxygenOS 14.1"
-],
-[
-"Chipset",
-"Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm); CPU Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520); GPU Adreno 750"
-],
-[
-"RAM",
-"8 GB / 12 GB / 16 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"13 MP, f/2.2, 23mm (wide); LED flash; video 4K@30fps, 1080p@30ps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.3, (wide), 1/4.0\", 1.12µm; video 1080p@30fps"
-],
-[
-"Sensors",
-"Accelerometer, gyro, proximity (accessories only), compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (4 speakers)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, LHDC"
-],
-[
-"GPS",
-"No"
-],
-[
-"NFC",
-"NFC (data sharing only)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG, accessory connector"
-],
-[
-"Battery",
-"Li-Po 9510 mAh"
-],
-[
-"Charging",
-"67W wired, PD, QC"
-],
-[
-"Colors",
-"Gray, Green"
-]
-],
-"slug": "oneplus-pad-pro",
-"source": "https://www.gsmarena.com/oneplus_pad_pro-13180.php",
-"tag": "12.1\" display · Qualcomm SM8650-AB Snapdragon  · 8 GB RAM · 9510 mAh",
-"year": 2024
-},
-{
-"brand": "OnePlus",
-"cat": "Smartphones",
-"hl": [
-"6.67\" display",
-"Qualcomm SM6375 Snapdragon 695",
-"8 GB RAM",
-"5110 mAh"
-],
-"name": "OnePlus Nord CE4 Lite",
-"price": 33999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2024 (announced 2024, June 24, released 2024, July 02)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.9 x 75.6 x 8.1 mm (6.41 x 2.98 x 0.32 in); 191 g (6.74 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 120Hz, 600 nits (typ), 1200 nits (HBM), 2100 nits (peak); 6.67 inches, 107.4 cm2 (~87.2% screen-to-body ratio); 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
-],
-[
-"OS",
-"Android 14, upgradable to Android 16, OxygenOS 16"
-],
-[
-"Chipset",
-"Qualcomm SM6375 Snapdragon 695 5G (6 nm); CPU Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver); GPU Adreno 619"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"256 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 25mm (wide), 1/1.95\", 0.8µm, PDAF, OIS Auxiliary lens; Dual-LED flash, HDR, panorama; video 1080p@30fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.4, 24mm (wide); Panorama; video 1080p@30fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.1, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"5110 mAh"
-],
-[
-"Charging",
-"80W wired, 100% in 50 min 5W reverse wired"
-],
-[
-"Colors",
-"Super Silver, Mega Blue"
-]
-],
-"slug": "oneplus-nord-ce4-lite",
-"source": "https://www.gsmarena.com/oneplus_nord_ce4_lite-13166.php",
-"tag": "6.67\" display · Qualcomm SM6375 Snapdragon 695 · 8 GB RAM · 5110 mAh",
-"year": 2024
-},
-{
-"brand": "Google",
-"cat": "Smartphones",
-"hl": [
-"6.8\" display",
-"Google Tensor G6",
-"12 GB RAM",
-"5115 mAh"
-],
-"name": "Google Pixel 11 Pro XL",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, August 12, released 2026, August 20)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.7 x 76.5 x 8.5 mm (6.41 x 3.01 x 0.33 in); 226 g (7.97 oz); Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM eSIM + eSIM (8 or more, max 2 at a time; USA)"
-],
-[
-"Display",
-"LTPO OLED, 120Hz, HDR10+, 2400 nits (HBM), 3600 nits (peak); 6.8 inches, 111.5 cm2 (~89.6% screen-to-body ratio); 1344 x 2992 pixels, 20:9 ratio (~482 ppi density); Corning Gorilla Glass Victus 2"
-],
-[
-"OS",
-"Android 17, up to 7 major OS updates"
-],
-[
-"Chipset",
-"Google Tensor G6 (3 nm); CPU 7-core (1x4.1 GHz ARM C1-Ultra & 4x3.4 GHz ARM C1-Pro & 2x2.65 GHz ARM C1-Pro); GPU IMG CXTP-48-1536"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.7, 24mm (wide), 1/1.3\", 1.2µm, dual pixel PDAF, OIS 48 MP, f/2.8, 105mm (periscope telephoto), 1/1.95\", 0.8µm, multi-directional PDAF, OIS, 5x optical zoom 48 MP, f/1.7, 12mm, 123˚ (ultrawide), 1/2.51\", 0.7µm, multi-directional PDAF; Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance; video 8K@24/30fps, 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
-],
-[
-"Selfie Camera",
-"42 MP, f/2.2, 17mm, 103˚ (ultrawide), 0.7µm, dual pixel PDAF; HDR, panorama; video 4K@30/60fps, 1080p@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2"
-],
-[
-"Battery",
-"Li-Ion 5115 mAh"
-],
-[
-"Charging",
-"45W wired, PD3.0, PPS, 75% in 30 min 25W wireless (magnetic), Qi2.2 Reverse wired Bypass charging"
-],
-[
-"Colors",
-"Canyon, Olive, Fog, Obsidian"
-]
-],
-"slug": "google-pixel-11-pro-xl-5g",
-"source": "https://www.gsmarena.com/google_pixel_11_pro_xl_5g-14800.php",
-"tag": "6.8\" display · Google Tensor G6 · 12 GB RAM · 5115 mAh",
-"year": 2026
-},
-{
-"brand": "Google",
-"cat": "Smartphones",
-"hl": [
-"6.3\" display",
-"Google Tensor G6",
-"12 GB RAM",
-"4850 mAh"
-],
-"name": "Google Pixel 11 Pro",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, August 12, released 2026, August 20)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"152.7 x 71.9 x 8.4 mm (6.01 x 2.83 x 0.33 in); 204 g (7.20 oz); Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM eSIM + eSIM (8 or more, max 2 at a time; USA)"
-],
-[
-"Display",
-"LTPO OLED, 120Hz, HDR10+, 2400 nits (HBM), 3600 nits (peak); 6.3 inches, 95.6 cm2 (~87.0% screen-to-body ratio); 1280 x 2856 pixels, 20:9 ratio (~497 ppi density); Corning Gorilla Glass Victus 2"
-],
-[
-"OS",
-"Android 17, up to 7 major OS updates"
-],
-[
-"Chipset",
-"Google Tensor G6 (3 nm); CPU 7-core (1x4.1 GHz ARM C1-Ultra & 4x3.4 GHz ARM C1-Pro & 2x2.65 GHz ARM C1-Pro); GPU IMG CXTP-48-1536"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.7, 24mm (wide), 1/1.3\", 1.2µm, dual pixel PDAF, OIS 48 MP, f/2.8, 105mm (periscope telephoto), 1/1.95\", 0.8µm, multi-directional PDAF, OIS, 5x optical zoom 48 MP, f/1.7, 12mm, 123˚ (ultrawide), 1/2.51\", 0.7µm, multi-directional PDAF; Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance; video 8K@24/30fps, 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
-],
-[
-"Selfie Camera",
-"42 MP, f/2.2, 17mm, 103˚ (ultrawide), 0.7µm, dual pixel PDAF; HDR, panorama; video 4K@30/60fps, 1080p@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2"
-],
-[
-"Battery",
-"Li-Ion 4850 mAh"
-],
-[
-"Charging",
-"30W wired, PD3.0, PPS, 55% in 30 min 25W wireless (magnetic), Qi2.2 Reverse wired Bypass charging"
-],
-[
-"Colors",
-"Canyon, Olive, Fog, Obsidian"
-]
-],
-"slug": "google-pixel-11-pro-5g",
-"source": "https://www.gsmarena.com/google_pixel_11_pro_5g-14801.php",
-"tag": "6.3\" display · Google Tensor G6 · 12 GB RAM · 4850 mAh",
-"year": 2026
-},
-{
-"brand": "Google",
-"cat": "Smartphones",
-"hl": [
-"6.3\" display",
-"Google Tensor G4",
-"8 GB RAM",
-"5100 mAh"
-],
-"name": "Google Pixel 10a",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, February 18, released 2026, March 05)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"153.9 x 73 x 9 mm (6.06 x 2.87 x 0.35 in); 183 g (6.46 oz); Glass front (Gorilla Glass 7i), aluminum frame, plastic back; Nano-SIM + eSIM"
-],
-[
-"Display",
-"P-OLED, HDR, 120Hz, 2000 nits (HBM), 3000 nits (peak); 6.3 inches, 94.7 cm2 (~84.3% screen-to-body ratio); 1080 x 2424 pixels, 20:9 ratio (~422 ppi density); Corning Gorilla Glass 7i"
-],
-[
-"OS",
-"Android 16, up to 7 major OS updates"
-],
-[
-"Chipset",
-"Google Tensor G4 (4 nm); CPU Octa-core (1x3.1 GHz Cortex-X4 & 3x2.6 GHz Cortex-A720 & 4x1.9 GHz Cortex-A520); GPU Mali-G715 MP7"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS 13 MP, f/2.2, 120˚ (ultrawide), 1/3.1\", 1.12µm; Dual-LED flash, Pixel Shift, Ultra HDR, panorama, Best Take; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"13 MP, f/2.2, 20mm (ultrawide), 1/3.1\", 1.12µm; HDR, panorama; video 4K@30fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e, dual/tri-band (market/region dependent)"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2"
-],
-[
-"Battery",
-"Li-Po 5100 mAh"
-],
-[
-"Charging",
-"30W wired, PD3.0, 50% in 30 min 10W wireless Bypass charging"
-],
-[
-"Colors",
-"Obsidian, Fog, Berry, Lavender"
-]
-],
-"slug": "google-pixel-10a-5g",
-"source": "https://www.gsmarena.com/google_pixel_10a_5g-14474.php",
-"tag": "6.3\" display · Google Tensor G4 · 8 GB RAM · 5100 mAh",
-"year": 2026
-},
-{
-"brand": "Google",
-"cat": "Smartphones",
-"hl": [
-"7.6\" display",
-"Google Tensor G2",
-"12 GB RAM",
-"4821 mAh"
-],
-"name": "Google Pixel Fold",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2023 (announced 2023, May 10, released 2023, June 27)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"Unfolded: 139.7 x 158.7 x 5.8 mmFolded: 139.7 x 79.5 x 12.1 mm; 283 g (9.98 oz); Glass front (Gorilla Glass Victus) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus), aluminum frame; Nano-SIM + eSIM"
-],
-[
-"Display",
-"Foldable OLED, 120Hz, HDR10+, 1000 nits (HBM), 1450 nits (peak); 7.6 inches, 183.3 cm2 (~82.7% screen-to-body ratio); 1840 x 2208 pixels (~378 ppi density)"
-],
-[
-"OS",
-"Android 13, upgradable to Android 15, up to 5 major OS updates"
-],
-[
-"Chipset",
-"Google Tensor G2 (5 nm); CPU Octa-core (2x2.85 GHz Cortex-X1 & 2x2.35 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55); GPU Mali-G710 MP7"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS 10.8 MP, f/3.1, 112mm (telephoto), 1/3.1\", 1.22µm, dual pixel PDAF, OIS, 5x optical zoom 10.8 MP, f/2.2, 121˚, (ultrawide), 1/3.0\", 1.25µm; Laser AF, Dual-LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, 24mm (wide), 1/4.0\", 1.12µm Cover camera: 9.5 MP, f/2.2, 24mm (wide), 1.22µm, dual pixel PDAF; HDR, panorama; video 4K@30/60fps, 1080p@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.2, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG"
-],
-[
-"Battery",
-"Li-Po 4821 mAh"
-],
-[
-"Charging",
-"Wired, PD3.0 Wireless"
-],
-[
-"Colors",
-"Porcelain, Obsidian"
-]
-],
-"slug": "google-pixel-fold",
-"source": "https://www.gsmarena.com/google_pixel_fold-12265.php",
-"tag": "7.6\" display · Google Tensor G2 · 12 GB RAM · 4821 mAh",
-"year": 2023
-},
-{
-"brand": "Google",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Google Tensor",
-"12 GB RAM",
-"5003 mAh"
-],
-"name": "Google Pixel 6 Pro",
-"price": 168000,
-"price_src": "https://priceoye.pk/mobiles/google/google-pixel-6-pro",
-"rows": [
-[
-"Launch Year",
-"2021 (announced 2021, October 19, released 2021, October 28)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"163.9 x 75.9 x 8.9 mm (6.45 x 2.99 x 0.35 in); 210 g (7.41 oz); Glass front (Gorilla Glass Victus), glass back (Gorilla Glass Victus), aluminum frame; Nano-SIM + eSIM"
-],
-[
-"Display",
-"LTPO AMOLED, 120Hz, HDR10+; 6.7 inches, 110.6 cm2 (~88.9% screen-to-body ratio); 1440 x 3120 pixels, 19.5:9 ratio (~512 ppi density); Corning Gorilla Glass Victus"
-],
-[
-"OS",
-"Android 12, upgradable to Android 16, up to 5 major OS updates"
-],
-[
-"Chipset",
-"Google Tensor (5 nm); CPU Octa-core (2x2.80 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.80 GHz Cortex-A55); GPU Mali-G78 MP20"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.9, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS 48 MP, f/3.5, 104mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 4x optical zoom 12 MP, f/2.2, 17mm, 114˚ (ultrawide), 1.25µm; Laser AF, Dual-LED flash, Pixel Shift, Auto-HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps; gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"11.1 MP, f/2.2, 20mm (ultrawide), 1.22µm; HDR, panorama; video 4K@30fps, 1080p@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.2, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.1"
-],
-[
-"Battery",
-"Li-Ion 5003 mAh"
-],
-[
-"Charging",
-"23W wired, PD3.0, 50% in 30 min 23W wireless Reverse wireless"
-],
-[
-"Colors",
-"Cloudy White, Sorta Sunny, Stormy Black"
-]
-],
-"slug": "google-pixel-6-pro",
-"source": "https://www.gsmarena.com/google_pixel_6_pro-10918.php",
-"tag": "6.7\" display · Google Tensor · 12 GB RAM · 5003 mAh",
-"year": 2021
-}
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.35\" display",
+   "Qualcomm SM7750-AB Snapdragon ",
+   "8 GB RAM",
+   "6330 mAh"
+  ],
+  "name": "Xiaomi Poco X8s",
+  "price": 111999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, October 26, released 2026, October 26)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "151.1 x 71.8 x 8.1 mm (5.95 x 2.83 x 0.32 in); 187 g (6.60 oz); Glass front (Xiaomi Shield Glass), aluminum frame, glass back; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED, 68B colors, 120Hz, Dolby Vision, HDR10+, 3500 nits (peak); 6.35 inches, 98.7 cm2 (~91.0% screen-to-body ratio); 1220 x 2656 pixels, 19.5:9 ratio (~460 ppi density); Xiaomi Shield Glass"
+   ],
+   [
+    "OS",
+    "Android 16, HyperOS 3"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7750-AB Snapdragon 7 Gen 4 (4 nm); CPU Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520); GPU Adreno 722"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/1.55\", 1.0µm, PDAF, OIS 50 MP, f/2.2, 57mm (periscope telephoto), PDAF, 2.5x optical zoom 8 MP, f/2.2, 120˚ (ultrawide), 1/4.0\", 1.12µm; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "20 MP; video 1080p@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5, Auracast, ASHA"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 6330 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, PD3.0, QC3+, 100W PPS 22.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "White, Blue, Black"
+   ]
+  ],
+  "slug": "xiaomi-poco-x8s-5g",
+  "source": "https://www.gsmarena.com/xiaomi_poco_x8s_5g-15038.php",
+  "tag": "6.35\" display · Qualcomm SM7750-AB Snapdragon  · 8 GB RAM · 6330 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.4\" display",
+   "Qualcomm Snapdragon 8 Elite Ge",
+   "12 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Xiaomi 18 Pro",
+  "price": 244999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 23, released 2026, September 23)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "151.8 x 72 x 8.5 mm (5.98 x 2.83 x 0.33 in); 203 g or 208 g (7.16 oz); Glass front (Dragon Crystal Glass 3), aluminum frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED, 68B colors, 2160Hz PWM, 120Hz, Dolby Vision, HDR Vivid, HDR10+, BT.2020, 4000 nits (peak); 6.4 inches, 100.3 cm2 (~91.8% screen-to-body ratio); 1120 x 2436 pixels, 19.5:9 ratio (~419 ppi density); Xiaomi Dragon Crystal Glass 3"
+   ],
+   [
+    "OS",
+    "Android 17, HyperOS 4"
+   ],
+   [
+    "Chipset",
+    "Qualcomm Snapdragon 8 Elite Gen 6 (2 nm); CPU Octa-core (up to 5 GHz); GPU Adreno"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.7, 23mm (wide), 1/1.28\", 0.61µm, dual pixel PDAF, OIS 200 MP, f/2.4, 75mm (periscope telephoto), 1/1.56\", PDAF (10cm - ∞), OIS, 3.2x optical zoom 50 MP, f/2.4, 17mm, 102˚ (ultrawide), 1/2.88\", 0.61µm, PDAF; Laser AF, color spectrum sensor, Leica lens, Dual-LED dual-tone flash, HDR, panorama; video 8K@30fps (HDR), 4K@30/60/120fps (HDR10+, 10-bit Dolby Vision HDR, 10-bit LOG), 1080p@30/60/120/240/960fps, 720p@1920fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.2, 21mm (wide), 1/2.88\", 0.61µm, PDAF; HDR, panorama; video 4K@30/60fps, 1080p@30/60fps, HDR10+, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, Display Port, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7000 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, PD3.0, QC3+, 100W PPS 50W wireless 27W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Black, White, Pink, Red, Blue"
+   ]
+  ],
+  "slug": "xiaomi-18-pro-5g",
+  "source": "https://www.gsmarena.com/xiaomi_18_pro_5g-14959.php",
+  "tag": "6.4\" display · Qualcomm Snapdragon 8 Elite Ge · 12 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.9\" display",
+   "Qualcomm SM8850-AC Snapdragon ",
+   "12 GB RAM",
+   "8050 mAh"
+  ],
+  "name": "Xiaomi Poco F9 Ultra",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 01, released 2026, September 01)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.5 x 77.9 x 8.7 mm (6.44 x 3.07 x 0.34 in); 235 g (8.29 oz); Glass front (Gorilla Glass 7i), aluminum frame, glass-fiber reinforced plastic back; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "AMOLED, 68B colors, 185Hz, Dolby Vision, HDR10+, 850 nits (typ), 2200 nits (HBM), 4500 nits (peak); 6.9 inches, 116.6 cm2 (~91.6% screen-to-body ratio); 1200 x 2608 pixels, 19.5:9 ratio (~416 ppi density); Corning Gorilla Glass 7i"
+   ],
+   [
+    "OS",
+    "Android 16, up to 4 major OS updates, HyperOS 3"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.7, 24mm (wide), 1/1.56\", 0.5µm, PDAF, OIS 50 MP, f/3.0, 114mm (periscope telephoto), 1/2.76\", 0.64µm, PDAF, OIS, 5x optical zoom 50 MP, f/2.4, 17mm, 102˚ (ultrawide), 1/2.88\", 0.61µm; Color spectrum sensor, LED flash, HDR, panorama; video 8K@30fps, 4K@30/60fps, 1080p@30/60/120/240/960/1920fps, gyro-EIS, HDR10+"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.2, 22mm (wide), 1/3.4\", 0.61µm; HDR; video 4K@30fps, 1080p@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, AptX HD, AptX Adaptive, LHDC 5.0, ASHA, MIHC, Auracast"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG, video output"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 8050 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, PD3.0, QC3+, 100W PPS, 100% in 50 min 50W wireless, 50% in 37 min 27W reverse wired 22.5W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Black, Dark Cherry"
+   ]
+  ],
+  "slug": "xiaomi-poco-f9-ultra-5g",
+  "source": "https://www.gsmarena.com/xiaomi_poco_f9_ultra_5g-14876.php",
+  "tag": "6.9\" display · Qualcomm SM8850-AC Snapdragon  · 12 GB RAM · 8050 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.59\" display",
+   "Qualcomm SM8850-1-AB Snapdrago",
+   "12 GB RAM",
+   "6330 mAh"
+  ],
+  "name": "Xiaomi Poco F9 Pro",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 01, released 2026, September 01)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "157.5 x 75.3 x 8.8 mm (6.20 x 2.96 x 0.35 in); 206 g (7.27 oz); Glass front (Gorilla Glass 7i), aluminum frame, glass-fiber reinforced plastic back; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "AMOLED, 68B colors, 185Hz, Dolby Vision, HDR10+, 850 nits (typ), 2200 nits (HBM), 4500 nits (peak); 6.59 inches, 106.5 cm2 (~89.8% screen-to-body ratio); 1156 x 2510 pixels, 19.5:9 ratio (~419 ppi density); Corning Gorilla Glass 7i"
+   ],
+   [
+    "OS",
+    "Android 16, up to 4 major OS updates, HyperOS 3"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8850-1-AB Snapdragon 8 Elite Gen 5 V Series (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.7, 24mm (wide), 1/1.56\", 0.5µm, PDAF, OIS 50 MP, f/2.0, 60mm (telephoto), 1/2.75\", 0.64µm, PDAF (10cm - ∞), OIS, 2.5x optical zoom 8 MP, f/2.3, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm; Color spectrum sensor, LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240/960/1920fps, gyro-EIS, HDR10+"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.2, 22mm (wide), 1/3.4\", 0.61µm; HDR; video 4K@30fps, 1080p@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, AptX HD, AptX Adaptive, LHDC 5.0, ASHA, MIHC, Auracast"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 6330 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, PD3.0, QC3+, 100W PPS, 50% in 19 min 50W wireless, 50% in 35 min 27W reverse wired 22.5W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Black, White, Aurora Green"
+   ]
+  ],
+  "slug": "xiaomi-poco-f9-pro-5g",
+  "source": "https://www.gsmarena.com/xiaomi_poco_f9_pro_5g-14877.php",
+  "tag": "6.59\" display · Qualcomm SM8850-1-AB Snapdrago · 12 GB RAM · 6330 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.59\" display",
+   "Qualcomm SM8850-1-AB Snapdrago",
+   "12 GB RAM",
+   "8580 mAh"
+  ],
+  "name": "Xiaomi Redmi K100 Pro",
+  "price": 148999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 11, released 2026, August 11)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "157.5 x 75.3 x 8.6 mm (6.20 x 2.96 x 0.34 in); 218 g (7.69 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 68B colors, 185Hz, Dolby Vision, HDR Vivid, HDR10+, BT.2020, 4500 nits (peak); 6.59 inches, 106.5 cm2 (~89.8% screen-to-body ratio); 1156 x 2510 pixels, 19.5:9 ratio (~419 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, HyperOS 3"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8850-1-AB Snapdragon 8 Elite Gen 5 V Series (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.7, 24mm (wide), 0.5µm, PDAF, OIS 50 MP, f/2.0, 60mm (telephoto), 1/2.75\", 0.64µm, PDAF (10cm - ∞), OIS, 2.5x optical zoom 8 MP, 112˚ (ultrawide); Color spectrum sensor, LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240/960/1920fps, gyro-EIS, HDR10+"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.2, 21mm (wide), 1/3.44\", 0.64µm; video 4K@30fps, 1080p@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, LHDC 5.0, ASHA, MIHC, Auracast"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 8580 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, PD3.0, QC3+, 100W PPS 50W wireless 27W reverse wired 22.5W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Black, White, Light Green, Red (Burgundy)"
+   ]
+  ],
+  "slug": "xiaomi-redmi-k100-pro-5g",
+  "source": "https://www.gsmarena.com/xiaomi_redmi_k100_pro_5g-14715.php",
+  "tag": "6.59\" display · Qualcomm SM8850-1-AB Snapdrago · 12 GB RAM · 8580 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.99\" display",
+   "Qualcomm SM4450-AF Snapdragon ",
+   "6 GB RAM",
+   "8000 mAh"
+  ],
+  "name": "Xiaomi Poco M8 Power",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 04, released 2026, August 07)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "169.7 x 79.1 x 8.5 mm (6.68 x 3.11 x 0.33 in); 225 g (7.94 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 120Hz, 1800 nits (peak); 6.99 inches, 118.7 cm2 (~88.4% screen-to-body ratio); 1080 x 2396 pixels (~375 ppi density); Corning Gorilla Glass 7i"
+   ],
+   [
+    "OS",
+    "Android 16, up to 4 major OS updates, HyperOS 3"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM4450-AF Snapdragon 4 Gen 4; CPU Octa-core (2x2.3 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55); GPU Adreno 613"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 26mm (wide), 1/2.76\", 0.64µm, PDAF; LED flash, HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, (wide); video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.1, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 8000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, PD3.0 22.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Green, Blaze Orange"
+   ]
+  ],
+  "slug": "xiaomi-poco-m8-power-5g",
+  "source": "https://www.gsmarena.com/xiaomi_poco_m8_power_5g-14804.php",
+  "tag": "6.99\" display · Qualcomm SM4450-AF Snapdragon  · 6 GB RAM · 8000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "hl": [
+   "6.9\" display",
+   "Unisoc T8300",
+   "4 GB RAM",
+   "6300 mAh"
+  ],
+  "name": "Xiaomi Redmi A7 Pro",
+  "price": 36495,
+  "price_src": "https://priceoye.pk/mobiles/xiaomi/xiaomi-redmi-a7-pro",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, April 13, released 2026, April 15)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "171.5 x 79.5 x 8.2 mm (6.75 x 3.13 x 0.32 in); 210 g (7.41 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 800 nits (peak); 6.9 inches, 114.9 cm2 (~84.3% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~254 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, up to 4 major OS updates, HyperOS 3"
+   ],
+   [
+    "Chipset",
+    "Unisoc T8300 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "32 MP, f/2.0, (wide), 1.12µm Auxiliary lens; LED flash; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm; HDR; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "6300 mAh"
+   ],
+   [
+    "Charging",
+    "15W wired 7.5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Mist Blue, Sunset Orange"
+   ]
+  ],
+  "slug": "xiaomi-redmi-a7-pro-5g",
+  "source": "https://www.gsmarena.com/xiaomi_redmi_a7_pro_5g-14616.php",
+  "tag": "6.9\" display · Unisoc T8300 · 4 GB RAM · 6300 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.57\" display",
+   "Mediatek Dimensity 6360 Max",
+   "6 GB RAM",
+   "8000 mAh"
+  ],
+  "name": "Oppo K15s",
+  "price": 83999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, October 02, released 2026, October 02)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "159.1 x 75.8 x 8.8 mm (6.26 x 2.98 x 0.35 in); 205 g (7.23 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 800 nits (typ), 1400 nits (peak); 6.57 inches, 105.0 cm2 (~87.1% screen-to-body ratio); 1080 x 2372 pixels (~397 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6360 Max (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, 25mm (wide), PDAF Auxiliary lens; LED flash, HDR, panorama; video 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.1, 25mm (wide); Panorama; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 8000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, 45W UFCS, 45W PPS, 13.5W PD Reverse wired"
+   ],
+   [
+    "Colors",
+    "Gray, Purple"
+   ]
+  ],
+  "slug": "oppo-k15s-5g",
+  "source": "https://www.gsmarena.com/oppo_k15s_5g-14995.php",
+  "tag": "6.57\" display · Mediatek Dimensity 6360 Max · 6 GB RAM · 8000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.57\" display",
+   "Mediatek Dimensity 6360 Max",
+   "6 GB RAM",
+   "8000 mAh"
+  ],
+  "name": "Oppo F35",
+  "price": 111999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, October 05, released 2026, October 11)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "159.1 x 75.8 x 8.8 mm (6.26 x 2.98 x 0.35 in); 205 g (7.23 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 800 nits (typ), 1400 nits (peak); 6.57 inches, 105.0 cm2 (~87.1% screen-to-body ratio); 1080 x 2372 pixels (~397 ppi density); Crystal Guard"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6360 Max (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, (wide), 1/2.0\", PDAF Auxiliary lens; LED flash, HDR, panorama; video 1440p@30fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.1, 18mm (ultrawide), AF; Panorama; video 1440p@30fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "8000 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 44/80W UFCS, 55W PPS, 13.5W PD, 40% in 30 min Reverse wired"
+   ],
+   [
+    "Colors",
+    "Mist Pink, Titanium Grey, Wave Blue"
+   ]
+  ],
+  "slug": "oppo-f35-5g",
+  "source": "https://www.gsmarena.com/oppo_f35_5g-14990.php",
+  "tag": "6.57\" display · Mediatek Dimensity 6360 Max · 6 GB RAM · 8000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Dimensity 9600 Pro",
+   "12 GB RAM",
+   "7150 mAh"
+  ],
+  "name": "Oppo Find X10 Pro Max",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 22, released 2026, September 24)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "161.3 x 76.6 x 8.4 mm (6.35 x 3.02 x 0.33 in); 233 g or 235 g (8.22 oz); Glass front (Crystal Guard), glass back (Crystal Guard), aluminum frame; Nano-SIM + eSIM Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED, 1B colors, 144Hz, 3840Hz PWM, Dolby Vision, HDR10+, HDR Vivid, BT.2020, 800 nits (typ), 2000 nits (HBM), 3600 nits (peak); 6.78 inches, 112.4 cm2 (~91.0% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density); Crystal Guard"
+   ],
+   [
+    "OS",
+    "Android 17, ColorOS 17"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 9600 Pro (2 nm); CPU Octa-core (2x4.55 GHz & 3x4.35 GHz & 3x3.1 GHz); GPU Mali-G2-Ultra-NX"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.5, 24mm (wide), 1/1.3\", 0.6µm, PDAF, OIS 200 MP, f/2.1, 70mm (periscope telephoto), 1/1.56\", 0.5µm, PDAF (10cm - ∞), OIS, 3x optical zoom 200 MP, f/2.2, 13mm (ultrawide), 1/1.56\", 0.5µm, PDAF; Laser AF, color spectrum sensor, Hasselblad Color Calibration, LED flash, HDR, panorama, LUT preview; video 8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps; gyro-EIS; HDR, 10‑bit video, Dolby Vision, LOG"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 18mm (ultrawide), 1/2.76\", 0.64µm, PDAF; Panorama; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band or tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.2, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), GLONASS, NavIC (L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7150 mAh - EU, AU, NZ Si/C Li-Ion 8000 mAh - Global"
+   ],
+   [
+    "Charging",
+    "80W wired, 44/80W UFCS, 55W PPS, 13.5W PD 50W wireless 10W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Titanium Grey, Luna White, Orange"
+   ]
+  ],
+  "slug": "oppo-find-x10-pro-max",
+  "source": "https://www.gsmarena.com/oppo_find_x10_pro_max-14939.php",
+  "tag": "6.78\" display · Mediatek Dimensity 9600 Pro · 12 GB RAM · 7150 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.32\" display",
+   "Qualcomm SM7750-AB Snapdragon ",
+   "8 GB RAM",
+   "6700 mAh"
+  ],
+  "name": "Oppo Reno16",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, June 25, released 2026, July 09)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "151.2 x 72.4 x 8.2 mm or 8.4 mm; 188 g or 191 g (6.63 oz); Glass front, aluminum frame, glass back or composite plastic back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR10+, 600 nits (typ), 1800 nits (HBM), 3600 nits (peak); 6.32 inches, 97.9 cm2 (~89.5% screen-to-body ratio); 1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density); Crystal Guard"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7750-AB Snapdragon 7 Gen 4 (4 nm); CPU Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520); GPU Adreno 722"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS 50 MP, f/2.8, 80mm (telephoto), 1/2.75\", 0.64µm, PDAF, OIS, 3.5x optical zoom 50 MP, f/2.0, 16mm, 116˚ (ultrawide), 1/2.88\", 0.61µm, AF; Color spectrum sensor, Multi-focus LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, HDR, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 18mm, 100˚ (ultrawide), 1/2.75\", 0.64µm, AF; Panorama, HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 6700 mAh (International) or 6000 mAh (Europe)"
+   ],
+   [
+    "Charging",
+    "80W wired, 55W PPS, 13.5W PD/QC, 100% in 59 min Reverse wired"
+   ],
+   [
+    "Colors",
+    "Pop White, Twilight Violet, Dream Purple"
+   ]
+  ],
+  "slug": "oppo-reno16-5g",
+  "source": "https://www.gsmarena.com/oppo_reno16_5g-14747.php",
+  "tag": "6.32\" display · Qualcomm SM7750-AB Snapdragon  · 8 GB RAM · 6700 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.32\" display",
+   "Mediatek Dimensity 8500 Super",
+   "12 GB RAM",
+   "6700 mAh"
+  ],
+  "name": "Oppo Reno16 (China)",
+  "price": 135999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, May 25, released 2026, May 29)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "151.2 x 72.4 x 8.2 mm or 8.4 mm; 188 g or 191 g (6.63 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 3840Hz PWM, 600 nits (typ), 1800 nits (HBM), 3600 nits (peak); 6.32 inches, 97.9 cm2 (~89.5% screen-to-body ratio); 1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 8500 Super (4 nm); CPU Octa-core (1x3.4 GHz Cortex-A725 & 3x3.2 GHz Cortex-A725 & 4x2.2 GHz Cortex-A725); GPU Mali-G720 MC8"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.8, 24mm (wide), PDAF, OIS 50 MP, f/2.8, 80mm (telephoto), PDAF, OIS, 3.5x optical zoom 50 MP, f/2.0, 16mm, 116˚ (ultrawide), AF; Color spectrum sensor, Multi-focus LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, HDR"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 18mm, 100˚ (ultrawide), AF; Panorama, HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "6700 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 55W PPS, 44W/80W UFCS, 13.5W PD Reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Purple, White"
+   ]
+  ],
+  "slug": "oppo-reno16-5g-(china)",
+  "source": "https://www.gsmarena.com/oppo_reno16_5g_(china)-14676.php",
+  "tag": "6.32\" display · Mediatek Dimensity 8500 Super · 12 GB RAM · 6700 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Tablets",
+  "hl": [
+   "13.2\" display",
+   "Qualcomm SM8850-AC Snapdragon ",
+   "8 GB RAM",
+   "13380 mAh"
+  ],
+  "name": "Oppo Pad 5 Pro",
+  "price": 166999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, April 21, released 2026, April 21)"
+   ],
+   [
+    "Network",
+    "No cellular connectivity"
+   ],
+   [
+    "Body",
+    "289.7 x 208.8 x 5.9 mm (11.41 x 8.22 x 0.23 in); 672 g (1.48 lb); Glass front, aluminum frame, aluminum back; No"
+   ],
+   [
+    "Display",
+    "IPS LCD, 144Hz, 700 nits (typ), 1000 nits (peak); 13.2 inches, 530.0 cm2 (~87.6% screen-to-body ratio); 3392 x 2400 pixels (~315 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "13 MP; Color spectrum sensor, LED flash; video 4K@30fps, 1080p@30ps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Accelerometer, proximity (accessories only), gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (8 speakers)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "Yes, aptX HD, Adaptive, LHDC 5.0"
+   ],
+   [
+    "GPS",
+    "No"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG"
+   ],
+   [
+    "Battery",
+    "13380 mAh"
+   ],
+   [
+    "Charging",
+    "67W wired, UFCS, 13.5W PD"
+   ],
+   [
+    "Colors",
+    "Gold, Brown, Purple"
+   ]
+  ],
+  "slug": "oppo-pad-5-pro",
+  "source": "https://www.gsmarena.com/oppo_pad_5_pro-14621.php",
+  "tag": "13.2\" display · Qualcomm SM8850-AC Snapdragon  · 8 GB RAM · 13380 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.75\" display",
+   "Unisoc T7250",
+   "4 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Oppo A6c",
+  "price": 43495,
+  "price_src": "https://priceoye.pk/mobiles/oppo/oppo-a6c",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, April, released 2026, April)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "166.5 x 78.5 x 8.9 mm (6.56 x 3.09 x 0.35 in); 215 g (7.58 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 700 nits (typ); 6.75 inches, 111.4 cm2 (~85.2% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, ColorOS 15"
+   ],
+   [
+    "Chipset",
+    "Unisoc T7250 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55); GPU Mali-G57 MP1"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "13 MP, f/2.2, (wide), AF; LED flash, HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP, f/2.2, (wide); video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.2, A2DP, LE, aptX"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "7000 mAh"
+   ],
+   [
+    "Charging",
+    "15W wired 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Stone Brown, Feather Purple, Feather White"
+   ]
+  ],
+  "slug": "oppo-a6c",
+  "source": "https://www.gsmarena.com/oppo_a6c-14418.php",
+  "tag": "6.75\" display · Unisoc T7250 · 4 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.75\" display",
+   "Mediatek Dimensity 6300",
+   "4 GB RAM",
+   "6500 mAh"
+  ],
+  "name": "Oppo K14x",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, February 10, released 2026, February 16)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in); 212 g (7.48 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 700 nits (typ), 1125 nits (peak); 6.75 inches, 111.4 cm2 (~85.2% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, ColorOS 15"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash, HDR, panorama; video 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP, f/2.2, (wide); Panorama; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "6500 mAh"
+   ],
+   [
+    "Charging",
+    "45 wired, 33W PPS, 13.5W PD 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Prism Violet, Icy Blue"
+   ]
+  ],
+  "slug": "oppo-k14x-5g",
+  "source": "https://www.gsmarena.com/oppo_k14x_5g-14458.php",
+  "tag": "6.75\" display · Mediatek Dimensity 6300 · 4 GB RAM · 6500 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.57\" display",
+   "Qualcomm SM6450 Snapdragon 6 G",
+   "8 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Oppo Reno15c (India)",
+  "price": 101999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, February 04, released 2026, February 05)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "158.2 x 74.9 x 8.1 mm (6.23 x 2.95 x 0.32 in); 195 g (6.88 oz); Glass front (Gorilla Glass+), glass back (AGC Dragontrail DT-Star D+); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 600 nits (typ), 1400 nits (HBM); 6.57 inches, 105.0 cm2 (~88.6% screen-to-body ratio); 1080 x 2372 pixels (~397 ppi density); Corning Gorilla Glass+"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm); CPU Octa-core (4x2.2 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55); GPU Adreno 710"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS 8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm 2 MP (macro); Color spectrum sensor, LED flash, HDR, panorama, Ring LED flash (Afterglow Pink model only); video 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 100˚, 18mm (ultrawide), AF; Panorama; video 4K@30fps, 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.1, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7000 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 55W PPS, 13.5W PD/QC, 100% in 64 min Reverse wired"
+   ],
+   [
+    "Colors",
+    "Afterglow Pink, Twilight Blue"
+   ]
+  ],
+  "slug": "oppo-reno15c-5g-(india)",
+  "source": "https://www.gsmarena.com/oppo_reno15c_5g_(india)-14513.php",
+  "tag": "6.57\" display · Qualcomm SM6450 Snapdragon 6 G · 8 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.75\" display",
+   "Qualcomm SM6225 Snapdragon 685",
+   "4 GB RAM",
+   "6500 mAh"
+  ],
+  "name": "Oppo A6t 4G",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, January 13, released 2026, January 13)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in); 210 g (7.41 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 1125 nits (peak); 6.75 inches, 111.4 cm2 (~85.2% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, ColorOS 15"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM6225 Snapdragon 685 (6 nm); CPU Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53); GPU Adreno 610"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB / 256 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "13 MP, f/2.2, (wide), AF; LED flash, HDR, panorama; video 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP, f/2.2, (wide); video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.0, A2DP, LE, aptX"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "6500 mAh"
+   ],
+   [
+    "Charging",
+    "Wired 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Crystal Violet, Crystal Blue"
+   ]
+  ],
+  "slug": "oppo-a6t",
+  "source": "https://www.gsmarena.com/oppo_a6t-14416.php",
+  "tag": "6.75\" display · Qualcomm SM6225 Snapdragon 685 · 4 GB RAM · 6500 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.75\" display",
+   "Mediatek Dimensity 6300",
+   "4 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Oppo A6",
+  "price": 69995,
+  "price_src": "https://priceoye.pk/mobiles/oppo/oppo-a6",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, January 13, released 2026, January 13)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in); 216 g (7.62 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 1125 nits (peak); 6.75 inches, 111.4 cm2 (~85.2% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, ColorOS 15"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB / 8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash, HDR, panorama; video 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, (wide); Panorama; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, 33W PPS, 13.5W PD, 37% in 30 min 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Sapphire Blue, Sakura Pink"
+   ]
+  ],
+  "slug": "oppo-a6-5g",
+  "source": "https://www.gsmarena.com/oppo_a6_5g-14412.php",
+  "tag": "6.75\" display · Mediatek Dimensity 6300 · 4 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.75\" display",
+   "Qualcomm SM6225 Snapdragon 685",
+   "8 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Oppo A6s 4G",
+  "price": 91995,
+  "price_src": "https://priceoye.pk/mobiles/oppo/oppo-a6s",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, January 09, released 2026, January 09)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in); 215 g (7.58 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 1125 nits (peak); 6.75 inches, 111.4 cm2 (~85.2% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, ColorOS 15"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM6225 Snapdragon 685 (6 nm); CPU Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53); GPU Adreno 610"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash, HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.4, (wide); Panorama; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.0, A2DP, LE, aptX"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7000 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 33W PPS, 13.5W PD, 56% in 30 min 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Cappuccino Brown, Ice White"
+   ]
+  ],
+  "slug": "oppo-a6s",
+  "source": "https://www.gsmarena.com/oppo_a6s-14411.php",
+  "tag": "6.75\" display · Qualcomm SM6225 Snapdragon 685 · 8 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.75\" display",
+   "Unisoc T7250",
+   "4 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "OnePlus N6 Lite",
+  "price": 49999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 22, released 2026, September 22)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "166.5 x 78.2 x 9 mm (6.56 x 3.08 x 0.35 in); 215 g (7.58 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 900 nits (HBM); 6.75 inches, 111.4 cm2 (~85.5% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, OxygenOS 16"
+   ],
+   [
+    "Chipset",
+    "Unisoc T7250 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55); GPU Mali-G57 MP1"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "13 MP, f/2.2, (wide), AF; LED flash, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP, f/2.2, (wide); Panorama; video 720p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.2, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "7000 mAh"
+   ],
+   [
+    "Charging",
+    "15W wired 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Midnight Hype, Neo Green"
+   ]
+  ],
+  "slug": "oneplus-n6-lite",
+  "source": "https://www.gsmarena.com/oneplus_n6_lite-14952.php",
+  "tag": "6.75\" display · Unisoc T7250 · 4 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Dimensity 7400 Super",
+   "8 GB RAM",
+   "8000 mAh"
+  ],
+  "name": "OnePlus Turbo 6X Pro",
+  "price": 80999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, June 10, released 2026, June 15)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.6 x 77.6 x 8.8 mm (6.40 x 3.06 x 0.35 in); 213 g (7.51 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 144Hz, HDR, 800 nits (typ), 1400 nits (HBM), 6500 nits (peak); 6.78 inches, 112.4 cm2 (~89.1% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7400 Super (4 nm); CPU Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali G615"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 27mm (wide), PDAF, OIS 8 MP, f/2.2, 16mm, 112˚ (ultrawide); Color spectrum sensor, LED flash, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.4, 23mm (wide); video 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 8000 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 80W/44W UFCS, 55W PPS, 13.5W PD, 50% in 31 min Bypass charging"
+   ],
+   [
+    "Colors",
+    "Gray, Orange"
+   ]
+  ],
+  "slug": "oneplus-turbo-6x-pro-5g",
+  "source": "https://www.gsmarena.com/oneplus_turbo_6x_pro_5g-14711.php",
+  "tag": "6.78\" display · Mediatek Dimensity 7400 Super · 8 GB RAM · 8000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.72\" display",
+   "Mediatek Dimensity 7360 Super",
+   "8 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "OnePlus Turbo 6X",
+  "price": 73999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, June 10, released 2026, June 15)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "165.9 x 76 x 9 mm (6.53 x 2.99 x 0.35 in); 208 g (7.34 oz); Glass front, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 144Hz, 800 nits (typ), 1000 nits (peak); 6.72 inches, 109.6 cm2 (~86.9% screen-to-body ratio); 1080 x 2400 pixels, 20:9 ratio (~391 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7360 Super (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 27mm (wide), 1/2.88\", 0.61µm, PDAF Auxiliary lens; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, 25mm (wide); video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, 45W UFCS, 45W PPS, 13.5W PD Reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Black, White, Green"
+   ]
+  ],
+  "slug": "oneplus-turbo-6x-5g",
+  "source": "https://www.gsmarena.com/oneplus_turbo_6x_5g-14712.php",
+  "tag": "6.72\" display · Mediatek Dimensity 7360 Super · 8 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Qualcomm SM7635-AC Snapdragon ",
+   "8 GB RAM",
+   "7500 mAh"
+  ],
+  "name": "OnePlus Nord CE6",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, May 07, released 2026, May 08)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.5 x 77.5 x 8.5 mm (6.40 x 3.05 x 0.33 in); 208 g or 215 g (7.34 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 144Hz, 3840Hz PWM, HDR, 800 nits (typ), 1800 nits (HBM), 3600 nits (peak); 6.78 inches, 112.4 cm2 (~89.3% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm); CPU Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520); GPU Adreno 810"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; Unspecified"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 27mm (wide), 1/2.88\", 0.61µm, PDAF, OIS Auxiliary lens; Color spectrum sensor, LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.0, 21mm (wide), 1/3.1\", 0.7µm; Panorama; video 4K@30fps, 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.2, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "7500 mAh - Global8000 mAh - India"
+   ],
+   [
+    "Charging",
+    "80W wired, 55W PPS, 13.5W PD 27W reverse wired (India) 6.5W reverse wired (Global) Bypass charging"
+   ],
+   [
+    "Colors",
+    "Pitch Black, Lunar Pearl, Blue"
+   ]
+  ],
+  "slug": "oneplus-nord-ce6-5g",
+  "source": "https://www.gsmarena.com/oneplus_nord_ce6_5g-14611.php",
+  "tag": "6.78\" display · Qualcomm SM7635-AC Snapdragon  · 8 GB RAM · 7500 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.72\" display",
+   "Mediatek Dimensity 7400 Apex",
+   "6 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "OnePlus Nord CE6 Lite",
+  "price": 58999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, May 07, released 2026, May 12)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "165.9 x 76 x 8.5 mm (6.53 x 2.99 x 0.33 in); 208 g (7.34 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 144Hz, 800 nits (typ), 1000 nits (HBM); 6.72 inches, 109.0 cm2 (~86.5% screen-to-body ratio); 1080 x 2400 pixels, 20:9 ratio (~392 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7400 Apex (4 nm); CPU Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali G615"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 27mm (wide), 1/2.88\", 0.61µm, PDAF Auxiliary lens; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, 25mm (wide), 1/4.0\", 1.12µm; Panorama; video 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "7000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, 45W PPS 10W reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Hyper Black, Vivid Mint"
+   ]
+  ],
+  "slug": "oneplus-nord-ce6-lite-5g",
+  "source": "https://www.gsmarena.com/oneplus_nord_ce6_lite_5g-14567.php",
+  "tag": "6.72\" display · Mediatek Dimensity 7400 Apex · 6 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Qualcomm SM8735 Snapdragon 8s ",
+   "12 GB RAM",
+   "9000 mAh"
+  ],
+  "name": "OnePlus Turbo 6",
+  "price": 86999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, January 08, released 2026, January 09)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.5 x 77.5 x 8.5 mm (6.40 x 3.05 x 0.33 in); 217 g (7.65 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 165Hz, 3840Hz PWM, HDR Vivid, 800 nits (typ), 1800 nits (peak); 6.78 inches, 112.4 cm2 (~89.3% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm); CPU Octa-core (1x3.21 GHz Cortex-X4 & 3x3.0 GHz Cortex-A720 & 2x2.8 GHz Cortex-A720 & 2x2.0 GHz Cortex-A720); GPU Adreno 825"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, 26mm (wide), PDAF, OIS Auxiliary lens; Color spectrum sensor, LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/240fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.4, 23mm (wide), 1/3\", 1.0µm; HDR, panorama; video 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 9000 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, UFCS, 55W PPS, 13.5W PD/QC 27W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, White, Mint"
+   ]
+  ],
+  "slug": "oneplus-turbo-6-5g",
+  "source": "https://www.gsmarena.com/oneplus_turbo_6_5g-14260.php",
+  "tag": "6.78\" display · Qualcomm SM8735 Snapdragon 8s  · 12 GB RAM · 9000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Qualcomm SM7635-AC Snapdragon ",
+   "8 GB RAM",
+   "9000 mAh"
+  ],
+  "name": "OnePlus Turbo 6V",
+  "price": 70999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, January 08, released 2026, January 09)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.5 x 77.5 x 8.5 mm (6.40 x 3.05 x 0.33 in); 215 g (7.58 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 144Hz, 3840Hz PWM, 800 nits (typ), 1800 nits (peak); 6.78 inches, 112.4 cm2 (~89.3% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, ColorOS 16"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm); CPU Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520); GPU Adreno 810"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, 27mm (wide), PDAF, OIS Auxiliary lens; Color spectrum sensor, LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.4, 23mm (wide), 1/3\", 1.0µm; HDR, panorama; video 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 9000 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, UFCS, 55W PPS, 13.5W PD/QC 27W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, White, Blue, Orange"
+   ]
+  ],
+  "slug": "oneplus-turbo-6v-5g",
+  "source": "https://www.gsmarena.com/oneplus_turbo_6v_5g-14404.php",
+  "tag": "6.78\" display · Qualcomm SM7635-AC Snapdragon  · 8 GB RAM · 9000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.77\" display",
+   "Mediatek Dimensity 8350 Apex",
+   "8 GB RAM",
+   "5200 mAh"
+  ],
+  "name": "OnePlus Nord CE5",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, July 08, released 2025, July 08)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.6 x 76 x 8.2 mm (6.44 x 2.99 x 0.32 in); 199 g (7.02 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Fluid AMOLED, 1B colors, 120Hz, HDR10+, 800 nits (typ), 1300 nits (HBM), 1430 nits (peak); 6.77 inches, 111.5 cm2 (~89.7% screen-to-body ratio); 1080 x 2392 pixels (~387 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, ColorOS 15"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 8350 Apex (4 nm); CPU Octa-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510); GPU Mali G615-MC6"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 26mm (wide), 1/1.95\", 0.8µm, PDAF, OIS 8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm; LED flash, Ultra HDR, panorama; video 4K@30/60fps (HDR), 1080p@30/60/120/480fps, 720p@960fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.4, 23mm (wide), 1/3.0\", 1.0µm; Panorama; video 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Market-dependent versions: 5200 mAh (Global) Si/C Li-Ion 7100 mAh (India)"
+   ],
+   [
+    "Charging",
+    "80W wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Marble Mist, Black Infinity, Nexus Blue"
+   ]
+  ],
+  "slug": "oneplus-nord-ce5-5g",
+  "source": "https://www.gsmarena.com/oneplus_nord_ce5_5g-13792.php",
+  "tag": "6.77\" display · Mediatek Dimensity 8350 Apex · 8 GB RAM · 5200 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.83\" display",
+   "Mediatek Dimensity 9400+",
+   "12 GB / 16 GB RAM",
+   "6700 mAh"
+  ],
+  "name": "OnePlus Ace 5 Ultra",
+  "price": 95999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, May 27, released 2025, May 27)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.4 x 77 x 8.1 mm (6.43 x 3.03 x 0.32 in); 206 g (7.27 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 144Hz, 3840Hz PWM, HDR10+, Dolby Vision, HDR Vivid, 800 nits (typ), 1400 nits (peak); 6.83 inches, 113.3 cm2 (~90.1% screen-to-body ratio); 1272 x 2800 pixels (~450 ppi density); Crystal Shield Glass"
+   ],
+   [
+    "OS",
+    "Android 15, ColorOS 15"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 9400+ (3 nm); CPU Octa-core (1x3.73 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720); GPU Immortalis-G925 MC12"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm; LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.4, 23mm (wide), 1/3\", 1.0µm; HDR, panorama; video 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, LHDC 5, BLE Audio"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 6700 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, PD, 100% in 39 min 7.5W reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Blue, Black, Titanium"
+   ]
+  ],
+  "slug": "oneplus-ace-5-ultra-5g",
+  "source": "https://www.gsmarena.com/oneplus_ace_5_ultra_5g-13891.php",
+  "tag": "6.83\" display · Mediatek Dimensity 9400+ · 12 GB / 16 GB RAM · 6700 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Tablets",
+  "hl": [
+   "13.2\" display",
+   "Qualcomm SM8750-AB Snapdragon ",
+   "8 GB RAM",
+   "12140 mAh"
+  ],
+  "name": "OnePlus Pad 2 Pro",
+  "price": 123999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, May 13, released 2025, May 20)"
+   ],
+   [
+    "Network",
+    "No cellular connectivity"
+   ],
+   [
+    "Body",
+    "289.6 x 209.7 x 6 mm (11.40 x 8.26 x 0.24 in); 675 g (1.49 lb); Glass front, aluminum frame, aluminum back; No"
+   ],
+   [
+    "Display",
+    "IPS LCD, 68B colors, Dolby Vision, 144Hz, 900 nits (HBM); 13.2 inches, 530.0 cm2 (~87.3% screen-to-body ratio); 2400 x 3392 pixels (~315 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, ColorOS 15"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm); CPU Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); GPU Adreno 830"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "13 MP; Color spectrum sensor, LED flash; video 4K@30fps, 1080p@30ps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Accelerometer, proximity (accessories only), gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (4 speakers)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "No"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG, accessory connector"
+   ],
+   [
+    "Battery",
+    "12140 mAh"
+   ],
+   [
+    "Charging",
+    "67W wired"
+   ],
+   [
+    "Colors",
+    "Blue, Silver"
+   ]
+  ],
+  "slug": "oneplus-pad-2-pro",
+  "source": "https://www.gsmarena.com/oneplus_pad_2_pro-13860.php",
+  "tag": "13.2\" display · Qualcomm SM8750-AB Snapdragon  · 8 GB RAM · 12140 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.32\" display",
+   "Qualcomm SM8750-AB Snapdragon ",
+   "12 GB RAM",
+   "6260 mAh"
+  ],
+  "name": "OnePlus 13T",
+  "price": 126999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, April 24, released 2025, April 30)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "150.8 x 71.7 x 8.2 mm (5.94 x 2.82 x 0.32 in); 185 g (6.53 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED, 1B colors, 120Hz, 2160Hz PWM, Dolby Vision, HDR10+, HDR Vivid, 1600 nits (HBM); 6.32 inches, 97.9 cm2 (~90.6% screen-to-body ratio); 1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density); Crystal Shield Glass"
+   ],
+   [
+    "OS",
+    "Android 15, OxygenOS 15 (International), ColorOS 15 (China)"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm); CPU Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); GPU Adreno 830"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS 50 MP, f/2.0, (telephoto), 1/2.76\", 0.64µm, 2x optical zoom, PDAF; Color spectrum sensor, LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/240fps, gyro-EIS, OIS, Dolby Vision HDR"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.4, 24mm (wide); HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual or tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 6260 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 33W PPS, 18W PD, 18W QC 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Gray, Pink"
+   ]
+  ],
+  "slug": "oneplus-13t-5g",
+  "source": "https://www.gsmarena.com/oneplus_13t_5g-13791.php",
+  "tag": "6.32\" display · Qualcomm SM8750-AB Snapdragon  · 12 GB RAM · 6260 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Qualcomm SM8650-AB Snapdragon ",
+   "12 GB RAM",
+   "6000 mAh"
+  ],
+  "name": "OnePlus 13R",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, January 07, released 2025, January 14)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "161.7 x 75.8 x 8 mm (6.37 x 2.98 x 0.31 in); 206 g (7.27 oz); Glass front (Gorilla Glass 7i), aluminum frame, glass back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "LTPO 4.1 AMOLED, 1B colors, 120Hz, 2160Hz PWM, HDR10+, Dolby Vision, HDR Vivid, 1600 nits (HBM), 4500 nits (peak); 6.78 inches, 111.7 cm2 (~91.2% screen-to-body ratio); 1264 x 2780 pixels (~450 ppi density); Corning Gorilla Glass 7i"
+   ],
+   [
+    "OS",
+    "Android 15, up to 4 major OS updates, OxygenOS 15"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm); CPU Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520); GPU Adreno 750"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS 50 MP, f/2.0, 47mm (telephoto), 1/2.75\", 0.64µm, PDAF, 2x optical zoom 8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm; Color spectrum sensor, LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.4, 26mm (wide), 1/3.1\", 1.0µm; HDR, panorama; video 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band (6e is market specific)"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Li-Ion 6000 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 50% in 20 min, 100% in 52/54 min"
+   ],
+   [
+    "Colors",
+    "Astral Trail, Nebula Noir"
+   ]
+  ],
+  "slug": "oneplus-13r",
+  "source": "https://www.gsmarena.com/oneplus_13r-13548.php",
+  "tag": "6.78\" display · Qualcomm SM8650-AB Snapdragon  · 12 GB RAM · 6000 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Qualcomm SM8650-AB Snapdragon ",
+   "12 GB RAM",
+   "6415 mAh"
+  ],
+  "name": "OnePlus Ace 5",
+  "price": 92999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 2024, December 26, released 2024, December 26)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "161.7 x 75.8 x 8.1 mm (6.37 x 2.98 x 0.32 in); 206 g or 223 g (7.27 oz); Glass front (Crystal Shield Glass), glass back (Crystal Shield Glass), aluminum frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED, 1B colors, 120Hz, HDR10+, Dolby Vision, 800 nits (typ), 1600 nits (HBM), 4500 nits (peak); 6.78 inches, 111.7 cm2 (~91.2% screen-to-body ratio); 1264 x 2780 pixels (~450 ppi density); Crystal Shield Glass"
+   ],
+   [
+    "OS",
+    "Android 15, ColorOS 15"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm); CPU Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520); GPU Adreno 750"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm 2 MP (macro); Color spectrum sensor, Dual-LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.4, 24mm (wide), 1/3\", 1.0µm; HDR, panorama; video 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 6415 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 18W PD, 55% in 15 min, 100% in 35 min"
+   ],
+   [
+    "Colors",
+    "Gray, White, Green"
+   ]
+  ],
+  "slug": "oneplus-ace-5",
+  "source": "https://www.gsmarena.com/oneplus_ace_5-13592.php",
+  "tag": "6.78\" display · Qualcomm SM8650-AB Snapdragon  · 12 GB RAM · 6415 mAh",
+  "year": 2024
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Qualcomm SM8650-AB Snapdragon 8 Gen 3",
+   "12 GB / 16 GB / 24 GB RAM",
+   "6100 mAh"
+  ],
+  "name": "OnePlus Ace 3 Pro",
+  "price": 126999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 2024, June 27, released 2024, July 03)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.3 x 75.3 x 8.7 / 8.9 / 9.0 mm; 207 g, 212 g, 225 g (7.30 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED, 1B colors, 120Hz, HDR10+, Dolby Vision, 800 nits (typ), 1600 nits (HBM), 4500 nits (peak); 6.78 inches, 111.7 cm2 (~90.9% screen-to-body ratio); 1264 x 2780 pixels (~450 ppi density); Corning Gorilla Glass Victus 2"
+   ],
+   [
+    "OS",
+    "Android 14, ColorOS 14"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm); CPU Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520); GPU Adreno 750"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB / 24 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 16mm, 112˚ (ultrawide), 1/4.0\", 1.12µm 2 MP (macro); Dual-LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.4, 26mm (wide), 1/3\", 1.0µm; HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE, aptX HD, LHDC"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "6100 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, PD2.0, QC2, 52% in 15 min, 100% in 36 min"
+   ],
+   [
+    "Colors",
+    "Gray, White, Green"
+   ]
+  ],
+  "slug": "oneplus-ace-3-pro",
+  "source": "https://www.gsmarena.com/oneplus_ace_3_pro-13179.php",
+  "tag": "6.78\" display · Qualcomm SM8650-AB Snapdragon 8 Gen 3 · 12 GB / 16 GB / 24 GB RAM · 6100 mAh",
+  "year": 2024
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Tablets",
+  "hl": [
+   "12.1\" display",
+   "Qualcomm SM8650-AB Snapdragon ",
+   "8 GB RAM",
+   "9510 mAh"
+  ],
+  "name": "OnePlus Pad Pro",
+  "price": 114999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 2024, June 27, released 2024, June 29)"
+   ],
+   [
+    "Network",
+    "No cellular connectivity"
+   ],
+   [
+    "Body",
+    "268.7 x 195.1 x 6.5 mm (10.58 x 7.68 x 0.26 in); 584 g (1.29 lb); Glass front, aluminum back, aluminum frame; No"
+   ],
+   [
+    "Display",
+    "IPS LCD, 68B colors, Dolby Vision, HDR10+, 144Hz, 600 nits (typ), 900 nits (peak); 12.1 inches, 445.2 cm2 (~84.9% screen-to-body ratio); 2120 x 3000 pixels (~304 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 14, OxygenOS 14.1"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm); CPU Octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520); GPU Adreno 750"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "13 MP, f/2.2, 23mm (wide); LED flash; video 4K@30fps, 1080p@30ps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.3, (wide), 1/4.0\", 1.12µm; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Accelerometer, gyro, proximity (accessories only), compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (4 speakers)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, LHDC"
+   ],
+   [
+    "GPS",
+    "No"
+   ],
+   [
+    "NFC",
+    "NFC (data sharing only)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG, accessory connector"
+   ],
+   [
+    "Battery",
+    "Li-Po 9510 mAh"
+   ],
+   [
+    "Charging",
+    "67W wired, PD, QC"
+   ],
+   [
+    "Colors",
+    "Gray, Green"
+   ]
+  ],
+  "slug": "oneplus-pad-pro",
+  "source": "https://www.gsmarena.com/oneplus_pad_pro-13180.php",
+  "tag": "12.1\" display · Qualcomm SM8650-AB Snapdragon  · 8 GB RAM · 9510 mAh",
+  "year": 2024
+ },
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.67\" display",
+   "Qualcomm SM6375 Snapdragon 695",
+   "8 GB RAM",
+   "5110 mAh"
+  ],
+  "name": "OnePlus Nord CE4 Lite",
+  "price": 33999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 2024, June 24, released 2024, July 02)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.9 x 75.6 x 8.1 mm (6.41 x 2.98 x 0.32 in); 191 g (6.74 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 120Hz, 600 nits (typ), 1200 nits (HBM), 2100 nits (peak); 6.67 inches, 107.4 cm2 (~87.2% screen-to-body ratio); 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 14, upgradable to Android 16, OxygenOS 16"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM6375 Snapdragon 695 5G (6 nm); CPU Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver); GPU Adreno 619"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 25mm (wide), 1/1.95\", 0.8µm, PDAF, OIS Auxiliary lens; Dual-LED flash, HDR, panorama; video 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.4, 24mm (wide); Panorama; video 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.1, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "5110 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 100% in 50 min 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Super Silver, Mega Blue"
+   ]
+  ],
+  "slug": "oneplus-nord-ce4-lite",
+  "source": "https://www.gsmarena.com/oneplus_nord_ce4_lite-13166.php",
+  "tag": "6.67\" display · Qualcomm SM6375 Snapdragon 695 · 8 GB RAM · 5110 mAh",
+  "year": 2024
+ },
+ {
+  "brand": "Google",
+  "cat": "Smartphones",
+  "hl": [
+   "6.8\" display",
+   "Google Tensor G6",
+   "12 GB RAM",
+   "5115 mAh"
+  ],
+  "name": "Google Pixel 11 Pro XL",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 12, released 2026, August 20)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.7 x 76.5 x 8.5 mm (6.41 x 3.01 x 0.33 in); 226 g (7.97 oz); Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM eSIM + eSIM (8 or more, max 2 at a time; USA)"
+   ],
+   [
+    "Display",
+    "LTPO OLED, 120Hz, HDR10+, 2400 nits (HBM), 3600 nits (peak); 6.8 inches, 111.5 cm2 (~89.6% screen-to-body ratio); 1344 x 2992 pixels, 20:9 ratio (~482 ppi density); Corning Gorilla Glass Victus 2"
+   ],
+   [
+    "OS",
+    "Android 17, up to 7 major OS updates"
+   ],
+   [
+    "Chipset",
+    "Google Tensor G6 (3 nm); CPU 7-core (1x4.1 GHz ARM C1-Ultra & 4x3.4 GHz ARM C1-Pro & 2x2.65 GHz ARM C1-Pro); GPU IMG CXTP-48-1536"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.7, 24mm (wide), 1/1.3\", 1.2µm, dual pixel PDAF, OIS 48 MP, f/2.8, 105mm (periscope telephoto), 1/1.95\", 0.8µm, multi-directional PDAF, OIS, 5x optical zoom 48 MP, f/1.7, 12mm, 123˚ (ultrawide), 1/2.51\", 0.7µm, multi-directional PDAF; Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance; video 8K@24/30fps, 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+   ],
+   [
+    "Selfie Camera",
+    "42 MP, f/2.2, 17mm, 103˚ (ultrawide), 0.7µm, dual pixel PDAF; HDR, panorama; video 4K@30/60fps, 1080p@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2"
+   ],
+   [
+    "Battery",
+    "Li-Ion 5115 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, PD3.0, PPS, 75% in 30 min 25W wireless (magnetic), Qi2.2 Reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Canyon, Olive, Fog, Obsidian"
+   ]
+  ],
+  "slug": "google-pixel-11-pro-xl-5g",
+  "source": "https://www.gsmarena.com/google_pixel_11_pro_xl_5g-14800.php",
+  "tag": "6.8\" display · Google Tensor G6 · 12 GB RAM · 5115 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Google",
+  "cat": "Smartphones",
+  "hl": [
+   "6.3\" display",
+   "Google Tensor G6",
+   "12 GB RAM",
+   "4850 mAh"
+  ],
+  "name": "Google Pixel 11 Pro",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 12, released 2026, August 20)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "152.7 x 71.9 x 8.4 mm (6.01 x 2.83 x 0.33 in); 204 g (7.20 oz); Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM eSIM + eSIM (8 or more, max 2 at a time; USA)"
+   ],
+   [
+    "Display",
+    "LTPO OLED, 120Hz, HDR10+, 2400 nits (HBM), 3600 nits (peak); 6.3 inches, 95.6 cm2 (~87.0% screen-to-body ratio); 1280 x 2856 pixels, 20:9 ratio (~497 ppi density); Corning Gorilla Glass Victus 2"
+   ],
+   [
+    "OS",
+    "Android 17, up to 7 major OS updates"
+   ],
+   [
+    "Chipset",
+    "Google Tensor G6 (3 nm); CPU 7-core (1x4.1 GHz ARM C1-Ultra & 4x3.4 GHz ARM C1-Pro & 2x2.65 GHz ARM C1-Pro); GPU IMG CXTP-48-1536"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.7, 24mm (wide), 1/1.3\", 1.2µm, dual pixel PDAF, OIS 48 MP, f/2.8, 105mm (periscope telephoto), 1/1.95\", 0.8µm, multi-directional PDAF, OIS, 5x optical zoom 48 MP, f/1.7, 12mm, 123˚ (ultrawide), 1/2.51\", 0.7µm, multi-directional PDAF; Multi-zone Laser AF, LED flash, Pixel Shift, Ultra-HDR, panorama, Best Take, Zoom Enhance; video 8K@24/30fps, 4K@24/30/60fps, 1080p@24/30/60/120/240fps; gyro-EIS, OIS, 10-bit HDR"
+   ],
+   [
+    "Selfie Camera",
+    "42 MP, f/2.2, 17mm, 103˚ (ultrawide), 0.7µm, dual pixel PDAF; HDR, panorama; video 4K@30/60fps, 1080p@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS, NavIC"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2"
+   ],
+   [
+    "Battery",
+    "Li-Ion 4850 mAh"
+   ],
+   [
+    "Charging",
+    "30W wired, PD3.0, PPS, 55% in 30 min 25W wireless (magnetic), Qi2.2 Reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Canyon, Olive, Fog, Obsidian"
+   ]
+  ],
+  "slug": "google-pixel-11-pro-5g",
+  "source": "https://www.gsmarena.com/google_pixel_11_pro_5g-14801.php",
+  "tag": "6.3\" display · Google Tensor G6 · 12 GB RAM · 4850 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Google",
+  "cat": "Smartphones",
+  "hl": [
+   "6.3\" display",
+   "Google Tensor G4",
+   "8 GB RAM",
+   "5100 mAh"
+  ],
+  "name": "Google Pixel 10a",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, February 18, released 2026, March 05)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "153.9 x 73 x 9 mm (6.06 x 2.87 x 0.35 in); 183 g (6.46 oz); Glass front (Gorilla Glass 7i), aluminum frame, plastic back; Nano-SIM + eSIM"
+   ],
+   [
+    "Display",
+    "P-OLED, HDR, 120Hz, 2000 nits (HBM), 3000 nits (peak); 6.3 inches, 94.7 cm2 (~84.3% screen-to-body ratio); 1080 x 2424 pixels, 20:9 ratio (~422 ppi density); Corning Gorilla Glass 7i"
+   ],
+   [
+    "OS",
+    "Android 16, up to 7 major OS updates"
+   ],
+   [
+    "Chipset",
+    "Google Tensor G4 (4 nm); CPU Octa-core (1x3.1 GHz Cortex-X4 & 3x2.6 GHz Cortex-A720 & 4x1.9 GHz Cortex-A520); GPU Mali-G715 MP7"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS 13 MP, f/2.2, 120˚ (ultrawide), 1/3.1\", 1.12µm; Dual-LED flash, Pixel Shift, Ultra HDR, panorama, Best Take; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP, f/2.2, 20mm (ultrawide), 1/3.1\", 1.12µm; HDR, panorama; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, dual/tri-band (market/region dependent)"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2"
+   ],
+   [
+    "Battery",
+    "Li-Po 5100 mAh"
+   ],
+   [
+    "Charging",
+    "30W wired, PD3.0, 50% in 30 min 10W wireless Bypass charging"
+   ],
+   [
+    "Colors",
+    "Obsidian, Fog, Berry, Lavender"
+   ]
+  ],
+  "slug": "google-pixel-10a-5g",
+  "source": "https://www.gsmarena.com/google_pixel_10a_5g-14474.php",
+  "tag": "6.3\" display · Google Tensor G4 · 8 GB RAM · 5100 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Google",
+  "cat": "Smartphones",
+  "hl": [
+   "7.6\" display",
+   "Google Tensor G2",
+   "12 GB RAM",
+   "4821 mAh"
+  ],
+  "name": "Google Pixel Fold",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2023 (announced 2023, May 10, released 2023, June 27)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "Unfolded: 139.7 x 158.7 x 5.8 mmFolded: 139.7 x 79.5 x 12.1 mm; 283 g (9.98 oz); Glass front (Gorilla Glass Victus) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus), aluminum frame; Nano-SIM + eSIM"
+   ],
+   [
+    "Display",
+    "Foldable OLED, 120Hz, HDR10+, 1000 nits (HBM), 1450 nits (peak); 7.6 inches, 183.3 cm2 (~82.7% screen-to-body ratio); 1840 x 2208 pixels (~378 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 13, upgradable to Android 15, up to 5 major OS updates"
+   ],
+   [
+    "Chipset",
+    "Google Tensor G2 (5 nm); CPU Octa-core (2x2.85 GHz Cortex-X1 & 2x2.35 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55); GPU Mali-G710 MP7"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "48 MP, f/1.7, 25mm (wide), 1/2.0\", 0.8µm, dual pixel PDAF, OIS 10.8 MP, f/3.1, 112mm (telephoto), 1/3.1\", 1.22µm, dual pixel PDAF, OIS, 5x optical zoom 10.8 MP, f/2.2, 121˚, (ultrawide), 1/3.0\", 1.25µm; Laser AF, Dual-LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, 24mm (wide), 1/4.0\", 1.12µm Cover camera: 9.5 MP, f/2.2, 24mm (wide), 1.22µm, dual pixel PDAF; HDR, panorama; video 4K@30/60fps, 1080p@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.2, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Po 4821 mAh"
+   ],
+   [
+    "Charging",
+    "Wired, PD3.0 Wireless"
+   ],
+   [
+    "Colors",
+    "Porcelain, Obsidian"
+   ]
+  ],
+  "slug": "google-pixel-fold",
+  "source": "https://www.gsmarena.com/google_pixel_fold-12265.php",
+  "tag": "7.6\" display · Google Tensor G2 · 12 GB RAM · 4821 mAh",
+  "year": 2023
+ },
+ {
+  "brand": "Google",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Google Tensor",
+   "12 GB RAM",
+   "5003 mAh"
+  ],
+  "name": "Google Pixel 6 Pro",
+  "price": 168000,
+  "price_src": "https://priceoye.pk/mobiles/google/google-pixel-6-pro",
+  "rows": [
+   [
+    "Launch Year",
+    "2021 (announced 2021, October 19, released 2021, October 28)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.9 x 75.9 x 8.9 mm (6.45 x 2.99 x 0.35 in); 210 g (7.41 oz); Glass front (Gorilla Glass Victus), glass back (Gorilla Glass Victus), aluminum frame; Nano-SIM + eSIM"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED, 120Hz, HDR10+; 6.7 inches, 110.6 cm2 (~88.9% screen-to-body ratio); 1440 x 3120 pixels, 19.5:9 ratio (~512 ppi density); Corning Gorilla Glass Victus"
+   ],
+   [
+    "OS",
+    "Android 12, upgradable to Android 16, up to 5 major OS updates"
+   ],
+   [
+    "Chipset",
+    "Google Tensor (5 nm); CPU Octa-core (2x2.80 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.80 GHz Cortex-A55); GPU Mali-G78 MP20"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS 48 MP, f/3.5, 104mm (periscope telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 4x optical zoom 12 MP, f/2.2, 17mm, 114˚ (ultrawide), 1.25µm; Laser AF, Dual-LED flash, Pixel Shift, Auto-HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps; gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "11.1 MP, f/2.2, 20mm (ultrawide), 1.22µm; HDR, panorama; video 4K@30fps, 1080p@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.2, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.1"
+   ],
+   [
+    "Battery",
+    "Li-Ion 5003 mAh"
+   ],
+   [
+    "Charging",
+    "23W wired, PD3.0, 50% in 30 min 23W wireless Reverse wireless"
+   ],
+   [
+    "Colors",
+    "Cloudy White, Sorta Sunny, Stormy Black"
+   ]
+  ],
+  "slug": "google-pixel-6-pro",
+  "source": "https://www.gsmarena.com/google_pixel_6_pro-10918.php",
+  "tag": "6.7\" display · Google Tensor · 12 GB RAM · 5003 mAh",
+  "year": 2021
+ }
 ]

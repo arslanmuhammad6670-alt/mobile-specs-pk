@@ -1,0 +1,107 @@
+{
+ "infinix-note-40-5g": {
+  "price_pkr": 61999,
+  "usd": 224,
+  "basis": "India launch price Rs 19,999 (8/256GB) reported by Bajaj Finserv and launch coverage; 19999 x 3.12 = 62,397 -> rounded to nearest 1000 minus 1 = 61,999. Not in PriceOye cache.",
+  "src": "https://www.bajajfinserv.in/infinix-note-40-vs-tecno-camon-30",
+  "launch_status": "launched"
+ },
+ "infinix-note-40x-5g": {
+  "price_pkr": 46999,
+  "usd": 170,
+  "basis": "India launch price Rs 14,999 (8/256GB, Flipkart, Aug 2024) reported by Gizbot and launch coverage; 14999 x 3.12 = 46,797 -> 46,999. Not in PriceOye cache.",
+  "src": "https://www.gizbot.com/mobile/news/infinix-note-40x-5g-with-mediatek-dimensity-6300-soc-120hz-display-launched-india-100165.html?ref_source=mobile&ref_medium=content&ref_campaign=Gadgetfinder",
+  "launch_status": "launched"
+ },
+ "infinix-note-50-4g": {
+  "price_pkr": 74999,
+  "usd": 271,
+  "basis": "Direct Pakistan retail price Rs 74,999 (8/256GB) listed as official Pakistan price by Mobileinto and corroborated by Hamariweb, WhatMobile and PhoneBolee; no conversion needed. Not in PriceOye cache.",
+  "src": "https://mobileinto.com/pk/Infinix-Note-50/",
+  "launch_status": "launched"
+ },
+ "infinix-note-edge-5g": {
+  "price_pkr": 68999,
+  "usd": 249,
+  "basis": "India official launch retail price Rs 21,999 (Feb 18, 2026) per Smartprix launch timeline and Beebom launch-price records; 21999 x 3.12 = 68,637 -> 68,999. Not in PriceOye cache.",
+  "src": "https://www.smartprix.com/mobiles/infinix-note-edge-ppd1kf4qybbv",
+  "launch_status": "launched"
+ },
+ "infinix-smart-10": {
+  "price_pkr": 18999,
+  "usd": 69,
+  "basis": "GSMArena price field about 60 EUR (corroborated by PhonesData first price 60 EUR); Pakistan retail listings conflict (23,999-33,999) so the GSMArena figure is used; 60 x 310 = 18,600 -> 18,999. Not in PriceOye cache.",
+  "src": "https://phonesdata.com/en/smartphones/infinix/smart-10-5465492/",
+  "launch_status": "launched"
+ },
+ "infinix-zero-flip": {
+  "price_pkr": 155999,
+  "usd": 564,
+  "basis": "India launch price Rs 49,999 (8/512GB, Oct 2024) per Beebom launch-price records and Carlcare (Infinix official service) launch review; 49999 x 3.12 = 155,997 -> 155,999. Not in PriceOye cache.",
+  "src": "https://www.carlcare.in/in/tips-detail/infinix-zero-flip-review/",
+  "launch_status": "launched"
+ },
+ "tecno-pop-9": {
+  "price_pkr": 29999,
+  "usd": 108,
+  "basis": "Tecno Pop 9 5G India launch price INR 9,499 (4/64GB) reported by Notebookcheck launch coverage; 9499 x 3.12 = 29,637 -> 29,999. (Beebom lists an 8,499 offer price; the 9,499 list launch price is used.) Not in PriceOye cache.",
+  "src": "https://www.notebookcheck.net/Tecno-launches-entry-level-Pop-9-5G-smartphone-to-take-on-Redmi-A4-5G.922435.0.html",
+  "launch_status": "launched"
+ },
+ "tecno-pop-x": {
+  "price_pkr": 26999,
+  "usd": 98,
+  "basis": "Tecno Pop X 4G India launch price Rs 8,499 per Beebom launch-price records (current retail 9,499); 8499 x 3.12 = 26,517 -> 26,999. Not in PriceOye cache.",
+  "src": "https://gadgets.beebom.com/mobile/tecno-pop-x",
+  "launch_status": "launched"
+ },
+ "tecno-pova-7-5g": {
+  "price_pkr": 46999,
+  "usd": 170,
+  "basis": "Tecno Pova 7 5G (LJ7, Dimensity 7300 Ultimate) India launch price Rs 14,999 (8/128GB, July 2025) per Bajaj Finserv, 91mobiles and Beebom launch-price records; 14999 x 3.12 = 46,797 -> 46,999. Not in PriceOye cache.",
+  "src": "https://www.bajajfinserv.in/tecno-pova-7-5g-price-in-india",
+  "launch_status": "launched"
+ },
+ "vivo-iqoo-z11-lite-5g": {
+  "price_pkr": 60999,
+  "usd": 220,
+  "basis": "India launch price Rs 19,499 (4/128GB, July 24, 2026) per Smartprix launch timeline and Digit official launch price table; 19499 x 3.12 = 60,837 -> 60,999. Not in PriceOye cache.",
+  "src": "https://www.digit.in/mobiles/iqoo-z11-lite.html",
+  "launch_status": "launched"
+ },
+ "vivo-s60-vitality-5g": {
+  "price_pkr": 111999,
+  "usd": 405,
+  "basis": "vivo S60e (Vitality Edition) China launch price CNY 2,899 (8/256GB) per FoneArena launch report and GSMArena coverage; 2899 x 38.5 = 111,612 -> 111,999. Not in PriceOye cache.",
+  "src": "https://www.fonearena.com/blog/483920/vivo-s60-price-specifications.html",
+  "launch_status": "launched"
+ },
+ "vivo-y500s-5g": {
+  "price_pkr": 68999,
+  "usd": 249,
+  "basis": "China launch price CNY 1,800 (8/256GB) per GSMArena launch report, corroborated by Notebookcheck and Gadgets 360; 1800 x 38.5 = 69,300 -> 68,999. Not in PriceOye cache.",
+  "src": "https://m.gsmarena.com/vivo_y500s_unveiled_with_7200mah_battery_y600_pro_teased_with_a_10200mah_battery-news-72560.php",
+  "launch_status": "launched"
+ },
+ "vivo-y600-5g": {
+  "price_pkr": 76999,
+  "usd": 278,
+  "basis": "China launch price CNY 1,999 (6/128GB, Oct 2026) per GSMArena launch report, corroborated by Notebookcheck and Gizmochina; 1999 x 38.5 = 76,962 -> 76,999. Not in PriceOye cache.",
+  "src": "https://www.gsmarena.com/vivo_y600_is_official_with_a_10000mah_battery_and_683inch_display-news-75202.php",
+  "launch_status": "launched"
+ },
+ "vivo-y600-pro-5g-(china)": {
+  "price_pkr": 80999,
+  "usd": 293,
+  "basis": "China launch price CNY 2,099 (8/128GB) per GSMArena launch report, corroborated by TheTechOutlook variant price list and Beebom launched-price field; 2099 x 38.5 = 80,812 -> 80,999. Not in PriceOye cache.",
+  "src": "https://www.gsmarena.com/vivo_y600_pro_arrives_with_10200mah_sic_battery_and_dimensity_7300e-news-72571.php",
+  "launch_status": "launched"
+ },
+ "vivo-y6t-5g": {
+  "price_pkr": 53999,
+  "usd": 195,
+  "basis": "China launch price CNY 1,400 (6/128GB) per GSMArena report on the Y500s launch (Y6t unveiled a week earlier at CNY 1,400 / $205); 1400 x 38.5 = 53,900 -> 53,999. Not in PriceOye cache.",
+  "src": "https://m.gsmarena.com/vivo_y500s_unveiled_with_7200mah_battery_y600_pro_teased_with_a_10200mah_battery-news-72560.php",
+  "launch_status": "launched"
+ }
+}

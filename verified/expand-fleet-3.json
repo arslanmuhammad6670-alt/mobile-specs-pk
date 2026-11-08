@@ -1,965 +1,965 @@
 [
-{
-"brand": "Infinix",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Dimensity 8400 Ultima",
-"12 GB RAM",
-"6150 mAh"
-],
-"name": "Infinix GT 50 Pro",
-"price": 163995,
-"price_src": "https://priceoye.pk/mobiles/infinix/infinix-gt-50-pro",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, April 24, released 2026, April 25)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.4 x 77.2 x 8.2 mm (6.39 x 3.04 x 0.32 in); 198 g (6.98 oz); Glass front (Gorilla Glass 7i), plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 144Hz, 2304Hz PWM, 700 nits (typ), 1600 nits (HBM), 4500 nits (peak); 6.78 inches, 106.6 cm2 (~85.0% screen-to-body ratio); 1208 x 2644 pixels, 19.5:9 ratio (~440 ppi density); Corning Gorilla Glass 7i"
-],
-[
-"OS",
-"Android 16, up to 3 major OS updates, XOS 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 8400 Ultimate (4 nm); CPU Octa-core (1x3.25 GHz Cortex-A725 & 3x3.0 GHz Cortex-A725 & 4x2.1 GHz Cortex-A725); GPU Mali-G720 MC7"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 27mm (wide), 1/1.95\", 0.8µm, PDAF, OIS 8 MP, f/2.2, 15mm, 111˚ (ultrawide), 1/4.0\", 1.12µm, PDAF; Dual-LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps"
-],
-[
-"Selfie Camera",
-"13 MP, f/2.2, 24mm (wide), 1/3.1\", 1.12µm; video 4K@30fps, 1080p@60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, proximity, compass, gyro"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"6150 mAh or 6500 mAh"
-],
-[
-"Charging",
-"45W wired 30W wireless 10W reverse wired 5W reverse wireless Bypass Charging 2 Wireless bypass charging (accessory required)"
-],
-[
-"Colors",
-"Black Abyss, Red Blaze, Silver Glacier"
-]
-],
-"slug": "infinix-gt-50-pro-5g",
-"source": "https://www.gsmarena.com/infinix_gt_50_pro_5g-14497.php",
-"tag": "6.78\" display · Mediatek Dimensity 8400 Ultima · 12 GB RAM · 6150 mAh",
-"year": 2026
-},
-{
-"brand": "Infinix",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Mediatek Helio G81 Ultimate",
-"4 GB RAM",
-"5160 mAh"
-],
-"name": "Infinix Hot 60i 4G",
-"price": 52495,
-"price_src": "https://priceoye.pk/mobiles/infinix/infinix-hot-60i",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, July 02, released 2025, July 02)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"166 x 76.6 x 7.7 mm (6.54 x 3.02 x 0.30 in); 188 g (6.63 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 700 nits (HBM); 6.7 inches, 108.4 cm2 (~85.2% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
-],
-[
-"OS",
-"Android 15, XOS 15.1"
-],
-[
-"Chipset",
-"Mediatek Helio G81 Ultimate (12 nm); CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MC2"
-],
-[
-"RAM",
-"4 GB / 6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"50 MP, (wide), AF Auxiliary lens; Dual-LED flash, HDR, panorama; video 1440p@30fps, 1080p@30fps"
-],
-[
-"Selfie Camera",
-"8 MP, (wide); video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"Yes (data transfer only; not for payments - market/region dependent)"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"5160 mAh"
-],
-[
-"Charging",
-"45W wired, 50% in 24 min 10W reverse wired Bypass charging"
-],
-[
-"Colors",
-"Sleek Black, Titanium Silver, Shadow Blue, Neon Red, Meadow Green, Soul Eye Purple"
-]
-],
-"slug": "infinix-hot-60i",
-"source": "https://www.gsmarena.com/infinix_hot_60i-13983.php",
-"tag": "6.7\" display · Mediatek Helio G81 Ultimate · 4 GB RAM · 5160 mAh",
-"year": 2025
-},
-{
-"brand": "Tecno",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Dimensity 7300e",
-"8 GB RAM",
-"6000 mAh"
-],
-"name": "Tecno Camon Slim",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 02, released 2026, September)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.6 x 77.3 x 6.4 mm (6.40 x 3.04 x 0.25 in); 171 g (6.03 oz); Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"AMOLED, 144Hz, 2160Hz PWM; 6.78 inches, 112.1 cm2 (~89.2% screen-to-body ratio); 1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density)"
-],
-[
-"OS",
-"Android 16, up to 3 major OS updates, HIOS 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7300e (6 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G610"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"256 GB; Unspecified"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 14mm, 112˚ (ultrawide), 1/4.0\", 1.12µm; LED flash, HDR, panorama; video 1440p@30fps, 1080p@60fps"
-],
-[
-"Selfie Camera",
-"32 MP, (wide); video Yes"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Yes"
-],
-[
-"Bluetooth",
-"Yes"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"6000 mAh"
-],
-[
-"Charging",
-"45W wired"
-],
-[
-"Colors",
-"Matisse Black, Van Gogh Blue, Burgundy Red"
-]
-],
-"slug": "tecno-camon-slim-5g",
-"source": "https://www.gsmarena.com/tecno_camon_slim_5g-14918.php",
-"tag": "6.78\" display · Mediatek Dimensity 7300e · 8 GB RAM · 6000 mAh",
-"year": 2026
-},
-{
-"brand": "Tecno",
-"cat": "Tablets",
-"hl": [
-"11.0\" display",
-"Mediatek Helio G99",
-"8 GB RAM",
-"8000 mAh"
-],
-"name": "Tecno Megapad 11",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2024 (announced 2024, December 02, released 2025, January 06)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"257.1 x 168.7 x 7.6 mm (10.12 x 6.64 x 0.30 in); 510 g (1.12 lb); Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 90Hz, 440 nits; 11.0 inches, 350.9 cm2 (~80.9% screen-to-body ratio); 1200 x 1920 pixels, 16:10 ratio (~206 ppi density)"
-],
-[
-"OS",
-"Android 14"
-],
-[
-"Chipset",
-"Mediatek Helio G99 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC"
-],
-[
-"Main Camera",
-"13 MP; LED flash; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"8 MP; video Yes"
-],
-[
-"Sensors",
-"Accelerometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (4 speakers)"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.2, A2DP, LE"
-],
-[
-"GPS",
-"Unspecified"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C"
-],
-[
-"Battery",
-"8000 mAh"
-],
-[
-"Charging",
-"18W wired"
-],
-[
-"Colors",
-"Vitality Green, Starfall Grey"
-]
-],
-"slug": "tecno-megapad-11",
-"source": "https://www.gsmarena.com/tecno_megapad_11-13546.php",
-"tag": "11.0\" display · Mediatek Helio G99 · 8 GB RAM · 8000 mAh",
-"year": 2024
-},
-{
-"brand": "Tecno",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Helio G200 Ultimate",
-"8 GB RAM",
-"6150 mAh"
-],
-"name": "Tecno Camon 50 Pro 4G",
-"price": 99995,
-"price_src": "https://priceoye.pk/mobiles/tecno/tecno-camon-50-pro",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, February 17, released 2026, March)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"162.4 x 77 x 7.4 mm (6.39 x 3.03 x 0.29 in); -; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 144Hz; 6.78 inches, 112.1 cm2 (~89.6% screen-to-body ratio); 1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density); Unspecified"
-],
-[
-"OS",
-"Android 16, up to 3 major OS updates, HIOS 16"
-],
-[
-"Chipset",
-"Mediatek Helio G200 Ultimate (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2 (1.1GHz)"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"256 GB; Unspecified"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 50 MP, f/2.4, 70mm (telephoto), AF, OIS, 3x optical zoom 8 MP, f/2.2, 14mm, 112˚ (ultrawide); Dual-LED flash, HDR, panorama; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.5, (wide); video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Yes"
-],
-[
-"Bluetooth",
-"Yes"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"6150 mAh"
-],
-[
-"Charging",
-"60W wired"
-],
-[
-"Colors",
-"Moonlight black, Malachite green, Nebula titanium, Fir green, Lavender mist, Ethereal blue"
-]
-],
-"slug": "tecno-camon-50-pro",
-"source": "https://www.gsmarena.com/tecno_camon_50_pro-14500.php",
-"tag": "6.78\" display · Mediatek Helio G200 Ultimate · 8 GB RAM · 6150 mAh",
-"year": 2026
-},
-{
-"brand": "Infinix",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Mediatek Helio",
-"3 GB RAM",
-"5000 mAh"
-],
-"name": "Infinix Smart 9 HD",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2024 (announced 2024, November, released 2024, December)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"165.7 x 77.1 x 8.4 mm (6.52 x 3.04 x 0.33 in); 188 g (6.63 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 90Hz, 500 nits (peak); 6.7 inches, 108.4 cm2 (~84.8% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
-],
-[
-"OS",
-"Android 14 (Go edition), XOS 14"
-],
-[
-"Chipset",
-"Mediatek Helio; CPU Octa-core 8x2.2 GHz Cortex-A53; GPU Mali-G57 MC1"
-],
-[
-"RAM",
-"3 GB / 4 GB"
-],
-[
-"Storage",
-"64 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"13 MP, f/1.9, 27mm (wide), AF Auxiliary lens; Dual-LED flash, HDR, panorama; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, (wide); LED flash; video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"Yes"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"10W wired Reverse wired"
-],
-[
-"Colors",
-"Metallic Black, Neo Titanium, Mint Green, Coral Gold"
-]
-],
-"slug": "infinix-smart-9-hd",
-"source": "https://www.gsmarena.com/infinix_smart_9_hd-13590.php",
-"tag": "6.7\" display · Mediatek Helio · 3 GB RAM · 5000 mAh",
-"year": 2024
-},
-{
-"brand": "Infinix",
-"cat": "Smartphones",
-"hl": [
-"6.6\" display",
-"Mediatek Helio G36",
-"4 GB RAM",
-"6000 mAh"
-],
-"name": "Infinix Smart 8 Plus",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2024 (announced 2024, January 30, released 2024, February)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"163.7 x 75.7 x 9 mm (6.44 x 2.98 x 0.35 in); 204 g (7.20 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 90Hz, 500 nits (peak); 6.6 inches, 104.6 cm2 (~84.4% screen-to-body ratio); 720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
-],
-[
-"OS",
-"Android 13 (Go edition), XOS 13"
-],
-[
-"Chipset",
-"Mediatek Helio G36 (12 nm); CPU Octa-core (4x2.2 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53); GPU PowerVR GE8320"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB / 128 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.9, (wide), AF Auxiliary lens; Ring-LED flash, HDR, panorama; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, (wide); video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.0, A2DP, LE"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"6000 mAh"
-],
-[
-"Charging",
-"18W wired Reverse wired"
-],
-[
-"Colors",
-"Galaxy White, Shiny Gold, Timber Black"
-]
-],
-"slug": "infinix-smart-8-plus",
-"source": "https://www.gsmarena.com/infinix_smart_8_plus-12817.php",
-"tag": "6.6\" display · Mediatek Helio G36 · 4 GB RAM · 6000 mAh",
-"year": 2024
-},
-{
-"brand": "Vivo",
-"cat": "Smartphones",
-"hl": [
-"6.83\" display",
-"Mediatek Dimensity 7300e",
-"8 GB RAM",
-"10200 mAh"
-],
-"name": "vivo Y600 Pro",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, April 27, released 2026, April 27)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"163.9 x 76.5 x 8.2 mm (6.45 x 3.01 x 0.32 in); 221 g or 223 g (7.80 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 120Hz, 4320 PWM; 6.83 inches, 112.6 cm2 (~89.8% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
-],
-[
-"OS",
-"Android 16, OriginOS 6"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7300e (6 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G610"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), PDAF; LED flash, panorama, HDR; video 1080p, gyro-EIS"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.5, (wide); Panorama; video 1080p"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 10200 mAh"
-],
-[
-"Charging",
-"90W wired Reverse wired"
-],
-[
-"Colors",
-"Black, Blue, Gold, Violet"
-]
-],
-"slug": "vivo-y600-pro-5g-(china)",
-"source": "https://www.gsmarena.com/vivo_y600_pro_5g_(china)-14634.php",
-"tag": "6.83\" display · Mediatek Dimensity 7300e · 8 GB RAM · 10200 mAh",
-"year": 2026
-},
-{
-"brand": "Tecno",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Dimensity 7300 Ultima",
-"8 GB RAM",
-"6000 mAh"
-],
-"name": "Tecno Pova 7",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, July 04, released 2025, July 10)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"167.3 x 75.6 x 8.9 mm (6.59 x 2.98 x 0.35 in); 207 g (7.30 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 144Hz; 6.78 inches, 109.2 cm2 (~86.3% screen-to-body ratio); 1080 x 2460 pixels (~396 ppi density)"
-],
-[
-"OS",
-"Android 15, HIOS 15"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7300 Ultimate (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (uses shared SIM slot) - India model only"
-],
-[
-"Main Camera",
-"50 MP, (wide), PDAF; Dual-LED flash; video 4K@30fps, 1080p@30fps"
-],
-[
-"Selfie Camera",
-"13 MP, (wide); video Yes"
-],
-[
-"Sensors",
-"Accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"Yes"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"FM radio, recording"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Li-Po 6000 mAh"
-],
-[
-"Charging",
-"45W wired, 50% in 29 min, 100% in 69 min 30W wireless (magnetic) 10W reverse wired"
-],
-[
-"Colors",
-"Geek Black, Magic Silver, Oasis Green"
-]
-],
-"slug": "tecno-pova-7-5g",
-"source": "https://www.gsmarena.com/tecno_pova_7_5g-13991.php",
-"tag": "6.78\" display · Mediatek Dimensity 7300 Ultima · 8 GB RAM · 6000 mAh",
-"year": 2025
-}
+ {
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Dimensity 8400 Ultima",
+   "12 GB RAM",
+   "6150 mAh"
+  ],
+  "name": "Infinix GT 50 Pro",
+  "price": 163995,
+  "price_src": "https://priceoye.pk/mobiles/infinix/infinix-gt-50-pro",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, April 24, released 2026, April 25)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.4 x 77.2 x 8.2 mm (6.39 x 3.04 x 0.32 in); 198 g (6.98 oz); Glass front (Gorilla Glass 7i), plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 144Hz, 2304Hz PWM, 700 nits (typ), 1600 nits (HBM), 4500 nits (peak); 6.78 inches, 106.6 cm2 (~85.0% screen-to-body ratio); 1208 x 2644 pixels, 19.5:9 ratio (~440 ppi density); Corning Gorilla Glass 7i"
+   ],
+   [
+    "OS",
+    "Android 16, up to 3 major OS updates, XOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 8400 Ultimate (4 nm); CPU Octa-core (1x3.25 GHz Cortex-A725 & 3x3.0 GHz Cortex-A725 & 4x2.1 GHz Cortex-A725); GPU Mali-G720 MC7"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 27mm (wide), 1/1.95\", 0.8µm, PDAF, OIS 8 MP, f/2.2, 15mm, 111˚ (ultrawide), 1/4.0\", 1.12µm, PDAF; Dual-LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP, f/2.2, 24mm (wide), 1/3.1\", 1.12µm; video 4K@30fps, 1080p@60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, proximity, compass, gyro"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "6150 mAh or 6500 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired 30W wireless 10W reverse wired 5W reverse wireless Bypass Charging 2 Wireless bypass charging (accessory required)"
+   ],
+   [
+    "Colors",
+    "Black Abyss, Red Blaze, Silver Glacier"
+   ]
+  ],
+  "slug": "infinix-gt-50-pro-5g",
+  "source": "https://www.gsmarena.com/infinix_gt_50_pro_5g-14497.php",
+  "tag": "6.78\" display · Mediatek Dimensity 8400 Ultima · 12 GB RAM · 6150 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Mediatek Helio G81 Ultimate",
+   "4 GB RAM",
+   "5160 mAh"
+  ],
+  "name": "Infinix Hot 60i 4G",
+  "price": 52495,
+  "price_src": "https://priceoye.pk/mobiles/infinix/infinix-hot-60i",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, July 02, released 2025, July 02)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "166 x 76.6 x 7.7 mm (6.54 x 3.02 x 0.30 in); 188 g (6.63 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 700 nits (HBM); 6.7 inches, 108.4 cm2 (~85.2% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, XOS 15.1"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G81 Ultimate (12 nm); CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, (wide), AF Auxiliary lens; Dual-LED flash, HDR, panorama; video 1440p@30fps, 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, (wide); video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "Yes (data transfer only; not for payments - market/region dependent)"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "5160 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, 50% in 24 min 10W reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Sleek Black, Titanium Silver, Shadow Blue, Neon Red, Meadow Green, Soul Eye Purple"
+   ]
+  ],
+  "slug": "infinix-hot-60i",
+  "source": "https://www.gsmarena.com/infinix_hot_60i-13983.php",
+  "tag": "6.7\" display · Mediatek Helio G81 Ultimate · 4 GB RAM · 5160 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Dimensity 7300e",
+   "8 GB RAM",
+   "6000 mAh"
+  ],
+  "name": "Tecno Camon Slim",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 02, released 2026, September)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.6 x 77.3 x 6.4 mm (6.40 x 3.04 x 0.25 in); 171 g (6.03 oz); Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "AMOLED, 144Hz, 2160Hz PWM; 6.78 inches, 112.1 cm2 (~89.2% screen-to-body ratio); 1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, up to 3 major OS updates, HIOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7300e (6 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G610"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "256 GB; Unspecified"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 14mm, 112˚ (ultrawide), 1/4.0\", 1.12µm; LED flash, HDR, panorama; video 1440p@30fps, 1080p@60fps"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, (wide); video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "6000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired"
+   ],
+   [
+    "Colors",
+    "Matisse Black, Van Gogh Blue, Burgundy Red"
+   ]
+  ],
+  "slug": "tecno-camon-slim-5g",
+  "source": "https://www.gsmarena.com/tecno_camon_slim_5g-14918.php",
+  "tag": "6.78\" display · Mediatek Dimensity 7300e · 8 GB RAM · 6000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Tecno",
+  "cat": "Tablets",
+  "hl": [
+   "11.0\" display",
+   "Mediatek Helio G99",
+   "8 GB RAM",
+   "8000 mAh"
+  ],
+  "name": "Tecno Megapad 11",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 2024, December 02, released 2025, January 06)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "257.1 x 168.7 x 7.6 mm (10.12 x 6.64 x 0.30 in); 510 g (1.12 lb); Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 90Hz, 440 nits; 11.0 inches, 350.9 cm2 (~80.9% screen-to-body ratio); 1200 x 1920 pixels, 16:10 ratio (~206 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 14"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G99 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "13 MP; LED flash; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP; video Yes"
+   ],
+   [
+    "Sensors",
+    "Accelerometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (4 speakers)"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.2, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "Unspecified"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C"
+   ],
+   [
+    "Battery",
+    "8000 mAh"
+   ],
+   [
+    "Charging",
+    "18W wired"
+   ],
+   [
+    "Colors",
+    "Vitality Green, Starfall Grey"
+   ]
+  ],
+  "slug": "tecno-megapad-11",
+  "source": "https://www.gsmarena.com/tecno_megapad_11-13546.php",
+  "tag": "11.0\" display · Mediatek Helio G99 · 8 GB RAM · 8000 mAh",
+  "year": 2024
+ },
+ {
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Helio G200 Ultimate",
+   "8 GB RAM",
+   "6150 mAh"
+  ],
+  "name": "Tecno Camon 50 Pro 4G",
+  "price": 99995,
+  "price_src": "https://priceoye.pk/mobiles/tecno/tecno-camon-50-pro",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, February 17, released 2026, March)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "162.4 x 77 x 7.4 mm (6.39 x 3.03 x 0.29 in); -; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 144Hz; 6.78 inches, 112.1 cm2 (~89.6% screen-to-body ratio); 1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density); Unspecified"
+   ],
+   [
+    "OS",
+    "Android 16, up to 3 major OS updates, HIOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G200 Ultimate (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2 (1.1GHz)"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "256 GB; Unspecified"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 50 MP, f/2.4, 70mm (telephoto), AF, OIS, 3x optical zoom 8 MP, f/2.2, 14mm, 112˚ (ultrawide); Dual-LED flash, HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.5, (wide); video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "6150 mAh"
+   ],
+   [
+    "Charging",
+    "60W wired"
+   ],
+   [
+    "Colors",
+    "Moonlight black, Malachite green, Nebula titanium, Fir green, Lavender mist, Ethereal blue"
+   ]
+  ],
+  "slug": "tecno-camon-50-pro",
+  "source": "https://www.gsmarena.com/tecno_camon_50_pro-14500.php",
+  "tag": "6.78\" display · Mediatek Helio G200 Ultimate · 8 GB RAM · 6150 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Mediatek Helio",
+   "3 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Infinix Smart 9 HD",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 2024, November, released 2024, December)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "165.7 x 77.1 x 8.4 mm (6.52 x 3.04 x 0.33 in); 188 g (6.63 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 90Hz, 500 nits (peak); 6.7 inches, 108.4 cm2 (~84.8% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 14 (Go edition), XOS 14"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio; CPU Octa-core 8x2.2 GHz Cortex-A53; GPU Mali-G57 MC1"
+   ],
+   [
+    "RAM",
+    "3 GB / 4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "13 MP, f/1.9, 27mm (wide), AF Auxiliary lens; Dual-LED flash, HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, (wide); LED flash; video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "10W wired Reverse wired"
+   ],
+   [
+    "Colors",
+    "Metallic Black, Neo Titanium, Mint Green, Coral Gold"
+   ]
+  ],
+  "slug": "infinix-smart-9-hd",
+  "source": "https://www.gsmarena.com/infinix_smart_9_hd-13590.php",
+  "tag": "6.7\" display · Mediatek Helio · 3 GB RAM · 5000 mAh",
+  "year": 2024
+ },
+ {
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "hl": [
+   "6.6\" display",
+   "Mediatek Helio G36",
+   "4 GB RAM",
+   "6000 mAh"
+  ],
+  "name": "Infinix Smart 8 Plus",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 2024, January 30, released 2024, February)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "163.7 x 75.7 x 9 mm (6.44 x 2.98 x 0.35 in); 204 g (7.20 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 90Hz, 500 nits (peak); 6.6 inches, 104.6 cm2 (~84.4% screen-to-body ratio); 720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 13 (Go edition), XOS 13"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G36 (12 nm); CPU Octa-core (4x2.2 GHz Cortex-A53 & 4x1.6 GHz Cortex-A53); GPU PowerVR GE8320"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, (wide), AF Auxiliary lens; Ring-LED flash, HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, (wide); video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.0, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "6000 mAh"
+   ],
+   [
+    "Charging",
+    "18W wired Reverse wired"
+   ],
+   [
+    "Colors",
+    "Galaxy White, Shiny Gold, Timber Black"
+   ]
+  ],
+  "slug": "infinix-smart-8-plus",
+  "source": "https://www.gsmarena.com/infinix_smart_8_plus-12817.php",
+  "tag": "6.6\" display · Mediatek Helio G36 · 4 GB RAM · 6000 mAh",
+  "year": 2024
+ },
+ {
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.83\" display",
+   "Mediatek Dimensity 7300e",
+   "8 GB RAM",
+   "10200 mAh"
+  ],
+  "name": "vivo Y600 Pro",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, April 27, released 2026, April 27)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.9 x 76.5 x 8.2 mm (6.45 x 3.01 x 0.32 in); 221 g or 223 g (7.80 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 4320 PWM; 6.83 inches, 112.6 cm2 (~89.8% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, OriginOS 6"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7300e (6 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G610"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF; LED flash, panorama, HDR; video 1080p, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.5, (wide); Panorama; video 1080p"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 10200 mAh"
+   ],
+   [
+    "Charging",
+    "90W wired Reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Blue, Gold, Violet"
+   ]
+  ],
+  "slug": "vivo-y600-pro-5g-(china)",
+  "source": "https://www.gsmarena.com/vivo_y600_pro_5g_(china)-14634.php",
+  "tag": "6.83\" display · Mediatek Dimensity 7300e · 8 GB RAM · 10200 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Dimensity 7300 Ultimate",
+   "8 GB RAM",
+   "6000 mAh"
+  ],
+  "name": "Tecno Pova 7",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, July 04, released 2025, July 10)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "167.3 x 75.6 x 8.9 mm (6.59 x 2.98 x 0.35 in); 207 g (7.30 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 144Hz; 6.78 inches, 109.2 cm2 (~86.3% screen-to-body ratio); 1080 x 2460 pixels (~396 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, HIOS 15"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7300 Ultimate (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (uses shared SIM slot) - India model only"
+   ],
+   [
+    "Main Camera",
+    "50 MP, (wide), PDAF; Dual-LED flash; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP, (wide); video Yes"
+   ],
+   [
+    "Sensors",
+    "Accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "FM radio, recording"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Po 6000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, 50% in 29 min, 100% in 69 min 30W wireless (magnetic) 10W reverse wired"
+   ],
+   [
+    "Colors",
+    "Geek Black, Magic Silver, Oasis Green"
+   ]
+  ],
+  "slug": "tecno-pova-7-5g",
+  "source": "https://www.gsmarena.com/tecno_pova_7_5g-13991.php",
+  "tag": "6.78\" display · Mediatek Dimensity 7300 Ultimate · 8 GB RAM · 6000 mAh",
+  "year": 2025
+ }
 ]

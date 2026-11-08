@@ -1,0 +1,366 @@
+{
+ "apple-iphone-14": {
+  "price_pkr": 199999,
+  "usd": 723,
+  "basis": "priceoye",
+  "src": "https://priceoye.pk/mobiles/compare/apple-iphone-14",
+  "launch_status": "Available. Released 2022, September 16"
+ },
+ "apple-iphone-16-pro-max": {
+  "price_pkr": 483500,
+  "usd": 1747,
+  "basis": "priceoye",
+  "src": "https://priceoye.pk/mobiles/compare/apple-iphone-16-pro-max",
+  "launch_status": "Available. Released 2024, September 20"
+ },
+ "apple-iphone-16e": {
+  "price_pkr": 291500,
+  "usd": 1053,
+  "basis": "priceoye",
+  "src": "https://priceoye.pk/mobiles/compare/apple-iphone-16e",
+  "launch_status": "Available. Released 2025, February 28"
+ },
+ "google-pixel-10-5g": {
+  "price_pkr": 220999,
+  "usd": 799,
+  "basis": "international",
+  "src": "https://www.androidauthority.com/google-pixel-10-specs-features-price-availability-3588502/",
+  "launch_status": "Available. Released 2025, August 28"
+ },
+ "google-pixel-10-pro-5g": {
+  "price_pkr": 275999,
+  "usd": 999,
+  "basis": "international",
+  "src": "https://www.androidauthority.com/google-pixel-10-specs-features-price-availability-3588502/",
+  "launch_status": "Available. Released 2025, August 28"
+ },
+ "google-pixel-10-pro-fold": {
+  "price_pkr": 497999,
+  "usd": 1799,
+  "basis": "international",
+  "src": "https://techcrunch.com/2025/08/20/google-unveils-its-1799-pixel-10-pro-fold/",
+  "launch_status": "Available. Released 2025, October 09"
+ },
+ "google-pixel-7-pro": {
+  "price_pkr": 248999,
+  "usd": 899,
+  "basis": "international",
+  "src": "https://www.pocket-lint.com/phones/news/google/160165-google-pixel-7-pro-rumours-specs-release-date-price-features",
+  "launch_status": "Available. Released 2022, October 13"
+ },
+ "google-pixel-7": {
+  "price_pkr": 165999,
+  "usd": 599,
+  "basis": "international",
+  "src": "https://www.pocket-lint.com/phones/news/google/160165-google-pixel-7-pro-rumours-specs-release-date-price-features",
+  "launch_status": "Available. Released 2022, October 13"
+ },
+ "google-pixel-7a": {
+  "price_pkr": 137999,
+  "usd": 499,
+  "basis": "international",
+  "src": "https://9to5google.com/2023/05/10/google-pixel-7a-announcement/",
+  "launch_status": "Available. Released 2023, May 10"
+ },
+ "google-pixel-9-pro-fold": {
+  "price_pkr": 497999,
+  "usd": 1799,
+  "basis": "international",
+  "src": "https://www.aivanet.com/2024/08/google-launches-new-pixel-9-smartphones-with-gemini-ai/",
+  "launch_status": "Available. Released 2024, September 04"
+ },
+ "infinix-gt-20-pro": {
+  "price_pkr": 77999,
+  "usd": 289,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/infinix_gt_20_pro-12962.php",
+  "launch_status": "Available. Released 2024, April 26"
+ },
+ "infinix-hot-50-4g": {
+  "price_pkr": 45999,
+  "usd": 165,
+  "basis": "international",
+  "src": "https://www.gizchina.com/news/infinix-hot-50-4g-unveiled-a-budget-smartphone-with-helio-g100-chipset",
+  "launch_status": "Available. Released 2024, October"
+ },
+ "infinix-hot-50-pro+-4g": {
+  "price_pkr": 58999,
+  "usd": 213,
+  "basis": "priceoye",
+  "src": "https://priceoye.pk/mobiles/infinix/infinix-hot-50-pro-plus",
+  "launch_status": "Available. Released 2024, November"
+ },
+ "infinix-hot-50-pro-4g": {
+  "price_pkr": 41999,
+  "usd": 152,
+  "basis": "priceoye",
+  "src": "https://priceoye.pk/mobiles/infinix/infinix-hot-50-pro",
+  "launch_status": "Available. Released 2024, November"
+ },
+ "infinix-hot-50": {
+  "price_pkr": 30999,
+  "usd": 113,
+  "basis": "international",
+  "src": "https://www.gadgets360.com/mobiles/news/infinix-hot-50-5g-price-india-launch-sale-date-availability-specifications-features-6495987",
+  "launch_status": "Available. Released 2024, October"
+ },
+ "infinix-note-40-pro-4g": {
+  "price_pkr": 79999,
+  "usd": 289,
+  "basis": "priceoye",
+  "src": "https://priceoye.pk/mobiles/infinix/infinix-note-40-pro",
+  "launch_status": "Available. Released 2024, March 19"
+ },
+ "infinix-note-50x": {
+  "price_pkr": 39999,
+  "usd": 150,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/infinix_note_50x-13747.php",
+  "launch_status": "Available. Released 2025, April"
+ },
+ "infinix-smart-8-(india)": {
+  "price_pkr": 24999,
+  "usd": 93,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/infinix_smart_8_(india)-12792.php",
+  "launch_status": "Available. Released 2024, January 17"
+ },
+ "infinix-smart-8-hd": {
+  "price_pkr": 21999,
+  "usd": 81,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/infinix_smart_8_hd-12736.php",
+  "launch_status": "Available. Released 2023, December 13"
+ },
+ "infinix-smart-8-plus": {
+  "price_pkr": 26999,
+  "usd": 98,
+  "basis": "priceoye",
+  "src": "https://priceoye.pk/mobiles/infinix/infinix-smart-8-plus",
+  "launch_status": "Available. Released 2024, February"
+ },
+ "infinix-smart-8-pro": {
+  "price_pkr": 30999,
+  "usd": 116,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/infinix_smart_8_pro-12812.php",
+  "launch_status": "Available. Released 2024, February"
+ },
+ "infinix-smart-9-hd": {
+  "price_pkr": 20999,
+  "usd": 76,
+  "basis": "international",
+  "src": "https://www3.gizbot.com/latest-mobiles/infinix-smart-9-hd-11185/",
+  "launch_status": "Available. Released 2024, December"
+ },
+ "infinix-zero-40": {
+  "price_pkr": 111999,
+  "usd": 417,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/infinix_zero_40-13290.php",
+  "launch_status": "Available. Released 2024, September 08"
+ },
+ "tecno-camon-30s": {
+  "price_pkr": 61999,
+  "usd": 231,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/tecno_camon_30s-13426.php",
+  "launch_status": "Available. Released 2024, October 10"
+ },
+ "tecno-camon-40-premier": {
+  "price_pkr": 119999,
+  "usd": 434,
+  "basis": "priceoye",
+  "src": "https://priceoye.pk/mobiles/compare/tecno-camon-40-premier-5g",
+  "launch_status": "Available. Released 2025, May"
+ },
+ "tecno-camon-40-pro-5g": {
+  "price_pkr": 80999,
+  "usd": 293,
+  "basis": "international",
+  "src": "https://www.smartprix.com/mobiles/tecno_spark_30_pro_vs_tecno_camon_40_pro_5g-cpd1m5lwz04q_pd142059cjz.php",
+  "launch_status": "Available. Released 2025, May"
+ },
+ "tecno-camon-40-pro": {
+  "price_pkr": 85999,
+  "usd": 311,
+  "basis": "priceoye",
+  "src": "https://priceoye.pk/mobiles/compare/tecno-camon-40-pro",
+  "launch_status": "Available. Released 2025, May"
+ },
+ "tecno-camon-slim-5g": {
+  "price_pkr": 129999,
+  "usd": 486,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/tecno_camon_slim_5g-14918.php",
+  "launch_status": "Available. Released 2026, September"
+ },
+ "tecno-phantom-v-fold2": {
+  "price_pkr": 126999,
+  "usd": 474,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/tecno_phantom_v_fold2-13334.php",
+  "launch_status": "Available. Released 2024, October"
+ },
+ "tecno-pova-8-5g": {
+  "price_pkr": 83999,
+  "usd": 312,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/tecno_pova_8_5g-14714.php",
+  "launch_status": "Available. Released 2026, July 01"
+ },
+ "tecno-pova-curve-5g": {
+  "price_pkr": 52999,
+  "usd": 197,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/tecno_pova_curve_5g-13915.php",
+  "launch_status": "Available. Released 2025, June 05"
+ },
+ "tecno-pova-slim-5g": {
+  "price_pkr": 58999,
+  "usd": 220,
+  "basis": "gsmarena",
+  "src": "https://m.gsmarena.com/tecno_pova_slim-ampp-14111.php",
+  "launch_status": "Available. Released 2025, October 08"
+ },
+ "tecno-spark-30": {
+  "price_pkr": 39999,
+  "usd": 145,
+  "basis": "priceoye",
+  "src": "https://priceoye.pk/mobiles/compare/tecno-spark-30",
+  "launch_status": "Available. Released 2024, October"
+ },
+ "tecno-spark-30c-5g": {
+  "price_pkr": 30999,
+  "usd": 113,
+  "basis": "international",
+  "src": "http://www.notebookcheck.net/Tecno-launches-entry-level-Spark-30C-5G-smartphone-with-MediaTek-Dimensity-6300-SoC.898776.0.html",
+  "launch_status": "Available. Released 2024, October"
+ },
+ "tecno-spark-40c": {
+  "price_pkr": 27999,
+  "usd": 104,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/tecno_spark_40c-14052.php",
+  "launch_status": "Available. Released 2025, August"
+ },
+ "tecno-spark-50c": {
+  "price_pkr": 49999,
+  "usd": 185,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/tecno_spark_50c-15016.php",
+  "launch_status": "Available. Released 2026, September"
+ },
+ "tecno-spark-50s-5g": {
+  "price_pkr": 58999,
+  "usd": 220,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/tecno_spark_50s_5g-15015.php",
+  "launch_status": "Available. Released 2026, October 20"
+ },
+ "vivo-iqoo-z11-5g-(india)": {
+  "price_pkr": 95999,
+  "usd": 359,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/vivo_iqoo_z11_5g_(india)-14886.php",
+  "launch_status": "Available. Released 2026, August 25"
+ },
+ "vivo-iqoo-z11i-5g": {
+  "price_pkr": 49999,
+  "usd": 185,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/vivo_iqoo_z11i_5g-14771.php",
+  "launch_status": "Available. Released 2026, April 06"
+ },
+ "vivo-iqoo-z11s-5g-(china)": {
+  "price_pkr": 70999,
+  "usd": 266,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/vivo_iqoo_z11s_5g_(china)-14880.php",
+  "launch_status": "Available. Released 2026, August 18"
+ },
+ "vivo-s2-fe-5g": {
+  "price_pkr": 111999,
+  "usd": 417,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/vivo_s2_fe_5g-14962.php",
+  "launch_status": "Available. Released 2026, October 20"
+ },
+ "vivo-t5-pro-5g": {
+  "price_pkr": 119999,
+  "usd": 435,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/vivo_t5_pro_5g-14599.php",
+  "launch_status": "Available. Released 2026, April 21"
+ },
+ "vivo-t5e": {
+  "price_pkr": 46999,
+  "usd": 169,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/vivo_t5e-14829.php",
+  "launch_status": "Available. Released 2026, July 28"
+ },
+ "vivo-v70-lite-5g": {
+  "price_pkr": 80999,
+  "usd": 301,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/vivo_v70_lite_5g-14710.php",
+  "launch_status": "Available. Released 2026, June 05"
+ },
+ "vivo-x300-e-5g": {
+  "price_pkr": 191999,
+  "usd": 717,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/vivo_x300_e_5g-14826.php",
+  "launch_status": "Available. Released 2026, July 31"
+ },
+ "vivo-y31t-5g": {
+  "price_pkr": 70999,
+  "usd": 266,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/vivo_y31t_5g-14884.php",
+  "launch_status": "Available. Released 2026, August 28"
+ },
+ "vivo-y6-5g": {
+  "price_pkr": 70999,
+  "usd": 266,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/vivo_y6_5g-14632.php",
+  "launch_status": "Available. Released 2026, April 23"
+ },
+ "infinix-xpad-30-pro": {
+  "price_pkr": 53999,
+  "usd": 196,
+  "basis": "international",
+  "src": "https://m.gsmarena.com/infinix_xpad_30_pro_launches_with_11inch_display_and_8200mah_battery-news-74507.php",
+  "launch_status": "Available. Released 2026, September 07"
+ },
+ "tecno-megapad-se": {
+  "price_pkr": 36999,
+  "usd": 139,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/tecno_megapad_se-14488.php",
+  "launch_status": "Available. Released 2026, February"
+ },
+ "tecno-megapad-11": {
+  "price_pkr": 61999,
+  "usd": 231,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/tecno_megapad_11-13546.php",
+  "launch_status": "Available. Released 2025, January 06"
+ },
+ "vivo-iqoo-pad6-pro": {
+  "price_pkr": 166999,
+  "usd": 625,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/vivo_iqoo_pad6_pro-14679.php",
+  "launch_status": "Available. Released 2026, May 20"
+ },
+ "vivo-pad6-pro": {
+  "price_pkr": 176999,
+  "usd": 659,
+  "basis": "gsmarena",
+  "src": "https://www.gsmarena.com/vivo_pad6_pro-14569.php",
+  "launch_status": "Available. Released 2026, April 03"
+ }
+}

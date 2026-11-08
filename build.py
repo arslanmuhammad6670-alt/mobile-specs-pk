@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 """MobileSpecs PK v2 — static generator.
-Categories: Smartphones, Keypad Phones, Tablets, Laptops.
+Categories: Smartphones, Keypad Phones, Tablets, Laptops, Smartwatches.
 Add a device = add one entry in PHONES (tuple) or DEVICES (dict), re-run build.py, redeploy.
 Prices are stored as approximate Pakistan market prices (PKR) and displayed in USD (RATE below); update here and rebuild.
 """
 import json, os, html
 
-BASE = "https://checkspecs.work.gd/"
+BASE = "https://checkspecs.dpdns.org/"
 SITE = "Check Specs"
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "docs")  # 2026-11-04: Pages serves /docs only — source stays unserved at repo root
-CATFOLDER = {"Smartphones": "phones", "Keypad Phones": "keypad", "Tablets": "tablets", "Laptops": "laptops"}
-CATPAGE = {"Smartphones": "smartphones.html", "Keypad Phones": "keypad-phones.html", "Tablets": "tablets.html", "Laptops": "laptops.html"}
+CATFOLDER = {"Smartphones": "phones", "Keypad Phones": "keypad", "Tablets": "tablets", "Laptops": "laptops", "Smartwatches": "smartwatches"}
+CATPAGE = {"Smartphones": "smartphones.html", "Keypad Phones": "keypad-phones.html", "Tablets": "tablets.html", "Laptops": "laptops.html", "Smartwatches": "smartwatches.html"}
 
 # slug,name,brand,price,year,network,display,chipset,ram,storage,maincam,selfie,battery,charging,os,weight,colors,tag
 P = [
@@ -175,11 +175,65 @@ if os.path.exists(_pf):
         if _d["slug"] in _fixes and _fixes[_d["slug"]] is not None:
             _d["price"] = _fixes[_d["slug"]]; _n += 1
     if _n: print(f"PRICE FIXES APPLIED: {_n}")
+# ---- Expected prices (owner rule 2026-11-06): models launched internationally
+# but NOT officially launched in Pakistan. Their PKR figure (set in
+# prices-fix.json) is the verified foreign price converted at RATE (USD,
+# or the China CNY price at the day's CNY/PKR rate — owner order 2026-11-06
+# for the Enjoy 100 series + OnePlus 15T: CNY x 41.48); display it
+# labelled "Expected" everywhere the PKR price appears. ----
+EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide-5g", "huawei-enjoy-100", "huawei-enjoy-100-pro", "huawei-enjoy-100-pro-max", "oneplus-15t-5g", "redmi-15-5g"}
+for _d in ALL:
+    _d["price_expected"] = _d["slug"] in EXPECTED_SLUGS
+
+# ---- Price labels (BCD fix, 2026-11-08): every price carries an honest label
+# derived deterministically from the record's own price_src. PriceOye-verified
+# original retail and manufacturer list prices are "Official price"; other
+# Pakistan retailer/market listings are "Market price"; converted international
+# approximations (price_src "approx") are "Estimated price"; EXPECTED_SLUGS are
+# "Expected price". No record carries a per-price verification date, so no
+# date is ever displayed. ----
+from urllib.parse import urlparse as _urlparse
+def _price_meta(d):
+    if d.get("price") is None: return None
+    if d.get("price_expected"): return ("Expected price", "Pakistan (expected)", None)
+    ps = str(d.get("price_src") or "").strip()
+    if ps.startswith("http"):
+        host = (_urlparse(ps).hostname or "").lower()
+        if "priceoye.pk" in host: return ("Official price", "Pakistan", "PriceOye")
+        if "samsung.com" in host: return ("Official price", "Pakistan", "Samsung")
+        if "hmd.com" in host: return ("Official price", "Pakistan", "HMD")
+        if "whatmobile" in host: return ("Market price", "Pakistan", "WhatMobile")
+        if "mobileinto" in host: return ("Market price", "Pakistan", "MobileInto")
+        if "qeemat" in host: return ("Market price", "Pakistan", "Qeemat")
+        if "urdupoint" in host: return ("Market price", "Pakistan", "UrduPoint")
+        if "parhlo" in host: return ("Market price", "Pakistan", "Parhlo")
+        return ("Market price", "Pakistan", host.replace("www.", "").replace("m.", ""))
+    if ps == "pk-retail": return ("Market price", "Pakistan", None)
+    if ps == "approx": return ("Estimated price", None, None)
+    if ps == "": return ("Market price", "Pakistan", None)
+    return ("Estimated price", None, None)
+def _plabel_html(d, compact=False):
+    m = _price_meta(d)
+    if not m: return ""
+    label, market, src = m
+    if compact: return f'<span class="plabel">{esc(label)}</span>'
+    t = label + (f" · {market}" if market else "") + (f" · Source: {src}" if src else "")
+    return f'<span class="plabel">{esc(t)}</span>'
+
+def _pfmt(d):
+    if d["price"] is None: return "Price not verified" if d.get("price_unverified") else "Price not announced"
+    s = f"Rs {d['price']:,} · ${usd(d['price']):,}"
+    m = _price_meta(d)
+    if m:
+        label, market, src = m
+        s += f" — {label}" + (f" · {market}" if market else "") + (f" · Source: {src}" if src else "")
+    return s
+
 for d in ALL:
     d["folder"] = CATFOLDER[d["cat"]]
     if not any(k == "Price in Pakistan" for k, _ in d["rows"]):
         d["rows"] = d["rows"] + [("Price in Pakistan", "")]
-    d["rows"] = [(("Price" if k == "Price in Pakistan" else k), (f"Rs {d['price']:,} · ${usd(d['price']):,}" if k == "Price in Pakistan" and d['price'] is not None else ("Price not announced" if k == "Price in Pakistan" else v))) for k, v in d["rows"]]
+    d["rows"] = [(("Price" if k == "Price in Pakistan" else k), (_pfmt(d) if k == "Price in Pakistan" and d['price'] is not None else ("Price not announced" if k == "Price in Pakistan" else v))) for k, v in d["rows"]]
 
 # ---- Verified specs override (GSMArena/official sources, verified 2026-11-02) ----
 import re as _re, glob as _glob
@@ -216,7 +270,7 @@ for d in ALL:
         if _m: d["year"] = int(_m.group(0))
     if d["cat"] in ("Smartphones", "Tablets"):
         d["hl"] = _hl_from_rows(d)
-    d["rows"] = d["rows"] + [("Price", f"Rs {d['price']:,} · ${usd(d['price']):,}" if d['price'] is not None else "Price not announced")]
+    d["rows"] = d["rows"] + [("Price", _pfmt(d) if d['price'] is not None else "Price not announced")]
 print(f"VERIFIED OVERRIDES APPLIED: {sum(1 for d in ALL if d.get('src'))}/{len(ALL)}")
 
 # ---- Comms/Sound enrichment (GSMArena detail rows fetched by enrich_comms.py; adds ONLY missing rows) ----
@@ -320,7 +374,7 @@ if os.path.exists(_gf):
 # one correct row per device. ----
 for _d in ALL:
     _d["rows"] = [(k, v) for k, v in _d["rows"] if k not in ("Price", "Price in Pakistan")]
-    _d["rows"] = _d["rows"] + [("Price", f"Rs {_d['price']:,} · ${usd(_d['price']):,}" if _d['price'] is not None else "Price not announced")]
+    _d["rows"] = _d["rows"] + [("Price", _pfmt(_d))]
 
 # ---- Brand name normalization (user order 2026-11-03): harvested records
 # carry GSMArena casing ("vivo") while base records use "Vivo" — merge them
@@ -449,14 +503,28 @@ _status_over = {}
 for _sp in sorted(_glob.glob(os.path.join(ROOT, "verified", "status*.json"))):
     with open(_sp, encoding="utf-8") as _f: _status_over.update(json.load(_f))
 for d in ALL:
-    d["status"] = _status_over.get(d["slug"], "Continued" if d["year"] >= 2024 else "Discontinued")
+    d["status"] = _status_over.get(d["slug"], ("Continued" if d["year"] >= 2024 else "Discontinued") if d.get("year") else None)
 
-def pkr(n): return "$" + f"{usd(n):,}" if n is not None else "Price not announced"
-def pkrtitle(n): return f"Rs {n:,} (${usd(n):,})" if n is not None else "Price not announced"
+def pkr(n, unv=False): return "$" + f"{usd(n):,}" if n is not None else ("Price not verified" if unv else "Price not announced")
+def pkrtitle(n, unv=False): return f"Rs {n:,} (${usd(n):,})" if n is not None else ("Price not verified" if unv else "Price not announced")
+_IMGSIZE = {}
+def _imgsize(src):
+    # Phase 2 CLS fix: real pixel dimensions of the local image file, cached.
+    if src in _IMGSIZE: return _IMGSIZE[src]
+    wh = None
+    try:
+        from PIL import Image as _Im
+        with _Im.open(os.path.join(OUT, src)) as _i: wh = _i.size
+    except Exception:
+        wh = None
+    _IMGSIZE[src] = wh
+    return wh
 def pic(src, webp, cls, alt, base="", lazy=True):
-    im = f'<img class="{cls}" src="{base}{src}" alt="{esc(alt)}"{" loading=\"lazy\"" if lazy else ""}>'
+    _wh = _imgsize(src)
+    _dim = f' width="{_wh[0]}" height="{_wh[1]}"' if _wh else ""
+    im = f'<img class="{cls}" src="{base}{src}" alt="{esc(alt)}"{_dim}{" loading=\"lazy\"" if lazy else ""}>'
     return f'<picture><source type="image/webp" srcset="{base}{webp}">{im}</picture>' if webp else im
-def dual(n): return f"<span class=\"prc\" data-pkr=\"{n}\"><b class=\"pkrv\">Rs {n:,}</b> <span class=\"usdv\">${usd(n):,}</span></span>" if n is not None else "<span class=\"usdv\">Price not announced</span>"
+def dual(n, exp=False, unv=False): return f"<span class=\"prc\" data-pkr=\"{n}\"><b class=\"pkrv\">Rs {n:,}</b>{' <span class=\"expw\">(Expected)</span>' if exp else ''} <span class=\"usdv\">${usd(n):,}</span></span>" if n is not None else ("<span class=\"usdv\">Price not verified</span>" if unv else "<span class=\"usdv\">Price not announced</span>")
 def esc(s): return html.escape(str(s))
 BRANDS = sorted({d["brand"] for d in ALL})
 CATS = list(CATFOLDER.keys())
@@ -480,13 +548,13 @@ header .wrap{padding:11px 16px}
 @media(max-width:700px){.menubtn{display:inline-block}.navbar{display:none}.navbar.open{display:block}.navbar .wrap{flex-direction:column;gap:0}.navbar a{padding:12px 2px;border-top:1px solid #cfdcd6}}
 .sec{text-transform:uppercase;letter-spacing:.03em;color:#0b1e3f;border-bottom:2px solid #0b1e3f;padding-bottom:6px}
 .glabel{font-weight:800;color:#0b1e3f;font-size:17px;margin:20px 0 6px}
-.pkrv{color:#d92d20}.usdv{color:#8a94a6;font-size:13px;font-weight:600}
+.pkrv{color:#d92d20}.usdv{color:#5d6878;font-size:13px;font-weight:600}
 .hero2{position:relative;overflow:hidden;background:radial-gradient(600px 300px at 85% 20%,#1d4ed8cc,transparent),radial-gradient(500px 260px at 70% 90%,#0ea5e955,transparent),linear-gradient(120deg,#081230,#0b1e3f 55%,#10315f);border-radius:16px;padding:34px 30px;color:#fff;margin-bottom:8px}
 .hero2 h1{margin:0 0 8px;font-size:38px;line-height:1.12;max-width:560px}.hero2 h1 span{color:#38bdf8}
 .hero2 p{margin:0 0 18px;color:#c7d6f2;max-width:520px}
 .hsearch{display:flex;gap:0;background:#fff;border-radius:999px;padding:5px;max-width:560px;box-shadow:0 8px 24px #0006}
 .hsearch input{flex:1;border:0;outline:0;font-size:16px;padding:10px 16px;border-radius:999px;min-width:0}
-.hsearch button{background:#1677ff;color:#fff;border:0;border-radius:999px;padding:11px 26px;font-size:15px;font-weight:800;cursor:pointer}
+.hsearch button{background:#0f62d8;color:#fff;border:0;border-radius:999px;padding:11px 26px;font-size:15px;font-weight:800;cursor:pointer}
 .pills{margin-top:16px;display:flex;gap:10px;flex-wrap:wrap}
 .pill{background:#ffffff14;border:1px solid #ffffff30;color:#fff;border-radius:999px;padding:7px 15px;font-size:13.5px;font-weight:700;text-decoration:none}
 .hero-phone{position:absolute;right:26px;top:50%;transform:translateY(-50%);height:250px;filter:drop-shadow(0 18px 28px #0009);z-index:0;pointer-events:none}
@@ -494,7 +562,7 @@ header .wrap{padding:11px 16px}
 @media(max-width:820px){.hero-phone{display:none}.hero2{padding:24px 18px}.hero2 h1{font-size:29px}}
 .brands{display:grid;grid-template-columns:repeat(auto-fill,minmax(118px,1fr));gap:12px;margin:12px 0 6px}
 .btile{background:#fff;border:1px solid #e4e9f2;border-radius:12px;padding:16px 8px;text-align:center;text-decoration:none;display:flex;flex-direction:column;gap:5px;align-items:center;justify-content:center;min-height:86px;box-shadow:0 1px 3px #0001}
-.btile b{font-size:17px}.btile span{font-size:11.5px;color:#8a94a6}
+.btile b{font-size:17px}.btile span{font-size:11.5px;color:#5d6878}
 .trend-wrap{display:grid;grid-template-columns:1fr 302px;gap:16px;align-items:start}
 @media(max-width:920px){.trend-wrap{grid-template-columns:1fr}}
 .tgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(198px,1fr));gap:14px}
@@ -539,21 +607,30 @@ main{padding:18px 14px 40px}
 .badge2.cont{background:#0b3d2e}.badge2.disc{background:#c62828}
 .gallery{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:10px 0 4px}
 .gallery figure{margin:0;background:#fff;border:1px solid #e3e8e3;border-radius:10px;padding:10px;text-align:center}
-.gallery img{max-width:100%;height:170px;object-fit:contain}
+.gallery img{width:100%;height:170px;object-fit:contain}
 .gallery figcaption{font-size:13px;color:#444;margin-top:6px;font-weight:600}
 .fcard{position:relative}
-.card h3{margin:0;font-size:17px}.card h3 a{color:#17202a;text-decoration:none}
+.card h2{margin:0;font-size:17px}.card h2 a{color:#17202a;text-decoration:none}
 .price{color:#17202a;font-weight:800;font-size:18px}.spec{font-size:13px;color:#555}
-.cat{font-size:11px;font-weight:700;color:#8a6d00;background:#fff3c4;align-self:flex-start;padding:2px 8px;border-radius:999px}
-.btn{margin-top:auto;display:inline-block;background:#1677ff;color:#fff;padding:9px 12px;border-radius:8px;text-decoration:none;font-size:14px;text-align:center}
+.cat{font-size:11px;font-weight:700;color:#7c6200;background:#fff3c4;align-self:flex-start;padding:2px 8px;border-radius:999px}
+.bestfor{font-size:12.5px;font-weight:700;color:#0b3d2e;background:#eafaf0;border:1px solid #bfe6cc;border-radius:8px;padding:5px 9px}
+.upflag{font-size:11px;font-weight:800;color:#fff;background:#b54d00;align-self:flex-start;padding:2px 8px;border-radius:999px;text-transform:uppercase;letter-spacing:.04em}.expw{font-weight:800;color:#b35400;font-size:.82em;text-transform:uppercase;letter-spacing:.03em}
+.plabel{display:block;font-size:11px;font-weight:600;color:#5d6878;margin-top:2px;letter-spacing:.02em}
+.hresults{position:relative;z-index:2;background:#fff;border-radius:12px;margin-top:10px;max-width:560px;overflow:hidden;box-shadow:0 10px 28px #0007;text-align:left}
+.hrow{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:10px 16px;color:#17202a;text-decoration:none;border-bottom:1px solid #eef0f2;font-size:14.5px}
+.hrow:hover,.hrow:focus{background:#eef3fb}
+.hrow .hb{color:#5d6878;font-size:12.5px;font-weight:600}
+.hrow .hp{color:#d92d20;font-weight:800;white-space:nowrap}
+.hnone{color:#444;display:block}
+.btn{margin-top:auto;display:inline-block;background:#0f62d8;color:#fff;padding:9px 12px;border-radius:8px;text-decoration:none;font-size:14px;text-align:center}
 .btn.alt{background:#e8f1ff;color:#0b55c4;font-weight:700}
 table{width:100%;border-collapse:collapse;background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 1px 4px #0001}
 th,td{padding:11px 13px;border-bottom:1px solid #eef0f2;text-align:left;font-size:14px;vertical-align:top}
 th{width:30%;background:#eef3fb;color:#0b1e3f}
 h2{margin:26px 0 10px}footer{background:#081230;color:#cfe3da;padding:22px 16px;font-size:13px}footer a{color:#ffd84d}
 select{padding:11px;border-radius:8px;border:1.5px solid #0b1e3f;font-size:15px;width:100%}
-.note{font-size:12.5px;color:#777}.diff{background:#fff7d6!important}
-.crumbs{font-size:13px;color:#667;margin:10px 0 2px}.crumbs a{color:#0b55c4;text-decoration:none}.crumbs a:hover{text-decoration:underline}
+.note{font-size:12.5px;color:#666}.diff{background:#fff7d6!important}
+.crumbs{font-size:13px;color:#667;margin:10px 0 2px}.crumbs a{color:#0b55c4;text-decoration:underline}.crumbs a:hover{text-decoration:underline}
 .filterbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;background:#fff;border-radius:12px;box-shadow:0 1px 4px #0001;padding:12px;margin:12px 0}
 .filterbar select{width:auto;flex:1;min-width:160px}.filterbar .fcount{font-size:13px;color:#667;font-weight:600}
 .cmptable th:first-child{position:sticky;left:0;z-index:1;box-shadow:2px 0 4px #00000010}
@@ -561,16 +638,42 @@ select{padding:11px;border-radius:8px;border:1.5px solid #0b1e3f;font-size:15px;
 .tile{background:linear-gradient(135deg,#0b1e3f,#1677ff);color:#fff;border-radius:14px;padding:18px;text-decoration:none;display:block}
 .tile b{font-size:19px;display:block}.tile span{opacity:.85;font-size:13px}
 """
+RATES_DICT = {"PKR": 1, "INR": 0.342947, "BDT": 0.450215, "AED": 0.013281, "SAR": 0.013561, "QAR": 0.013163, "KWD": 0.001125, "OMR": 0.00139, "BHD": 0.00136, "USD": 0.003616, "GBP": 0.002696, "EUR": 0.003231, "TRY": 0.180968, "CNY": 0.024171, "JPY": 0.572815, "KRW": 4.860022, "RUB": 0.294422, "CAD": 0.005061, "AUD": 0.005186, "SGD": 0.004633, "MYR": 0.014743, "IDR": 65.600092, "THB": 0.122076, "PHP": 0.229705, "ZAR": 0.060092, "NGN": 4.867756, "KES": 0.470028, "EGP": 0.200235, "LKR": 1.202212, "NPR": 0.548701, "AFN": 0.235373, "ILS": 0.011442, "CHF": 0.002965, "VND": 93.187981, "MMK": 7.593517, "KHR": 14.851749, "UZS": 43.072069, "KZT": 1.637089, "TZS": 9.547681, "GHS": 0.042234, "MAD": 0.035522, "IQD": 5.487476, "JOD": 0.002564, "AZN": 0.006151, "GEL": 0.009386}
+RATES_UPDATED = "2026-11-04"  # ExchangeRate-API (open.er-api.com) mid-market, fetched 2026-11-04
+# Step 4 (2026-11-08): client-side sort controls for every device-card listing.
+# "def" is the pre-selected option and restores the exact server-rendered order.
+SORT_OPTS = ('<option value="def">Sort: Default Order</option><option value="az">Name: A to Z</option>'
+             '<option value="za">Name: Z to A</option><option value="plo">Price: Low to High</option>'
+             '<option value="phi">Price: High to Low</option><option value="new">Newest First</option>'
+             '<option value="old">Oldest First</option>')
+_SORTBAR = '<div class="filterbar"><select class="fsort" aria-label="Sort models">' + SORT_OPTS + '</select></div>'
+_SORTBAR_COUNT = '<div class="filterbar"><select class="fsort" aria-label="Sort models">' + SORT_OPTS + '</select><span class="fcount"></span></div>'
 JS = """
-async function loadPhones(){const r=await fetch('phones.json');return r.json()}
-const RATES={PKR:1,INR:0.342859,BDT:0.449533,AED:0.01327,SAR:0.01355,QAR:0.013152,KWD:0.001119,OMR:0.001389,BHD:0.001359,USD:0.003614,GBP:0.002695,EUR:0.003229,TRY:0.180652,CNY:0.024058,JPY:0.570698,KRW:4.86269,RUB:0.292402,CAD:0.005054,AUD:0.005161,SGD:0.004623,MYR:0.014709,IDR:65.561311,THB:0.121968,PHP:0.228747,ZAR:0.060115,NGN:4.85541,KES:0.469038,EGP:0.200337,LKR:1.201172,NPR:0.548572,AFN:0.233409,ILS:0.011359,CHF:0.002962,VND:93.041694,MMK:7.584721,KHR:14.844538,UZS:43.104459,KZT:1.638417,TZS:9.557823,GHS:0.042218,MAD:0.035488,IQD:5.485564,JOD:0.002562,AZN:0.006144,GEL:0.009383};
+const _pfx='../'.repeat(Math.max(0,location.pathname.split('/').filter(Boolean).length-1));
+let _phonesCache=null;
+async function loadPhones(){if(_phonesCache)return _phonesCache;const r=await fetch(_pfx+'phones.json');_phonesCache=await r.json();return _phonesCache}
+fetch(_pfx+'rates.json').then(r=>r.ok?r.json():null).then(j=>{if(j&&j.rates){Object.assign(RATES,j.rates);applyCur()}}).catch(()=>{});
+const RATES=__RATES__;
 const SYM={PKR:'Rs ',INR:'₹',BDT:'৳',AED:'AED ',SAR:'SAR ',QAR:'QAR ',KWD:'KWD ',OMR:'OMR ',BHD:'BHD ',USD:'$',GBP:'£',EUR:'€',TRY:'₺',CNY:'¥',JPY:'¥',KRW:'₩',RUB:'₽',CAD:'CA$',AUD:'A$',SGD:'S$',MYR:'RM ',IDR:'Rp ',THB:'฿',PHP:'₱',ZAR:'R ',NGN:'₦',KES:'KSh ',EGP:'E£ ',LKR:'Rs ',NPR:'Rs ',AFN:'؋',ILS:'₪',CHF:'CHF ',VND:'₫',MMK:'Ks ',KHR:'៛',UZS:'UZS ',KZT:'₸',TZS:'TSh ',GHS:'GH₵',MAD:'MAD ',IQD:'IQD ',JOD:'JOD ',AZN:'₼',GEL:'₾'};
 function fmtCur(pkrAmt,cur){const v=pkrAmt*RATES[cur];const dec=v>=100?0:(v>=1?2:3);return SYM[cur]+v.toLocaleString('en-US',{minimumFractionDigits:dec,maximumFractionDigits:dec})}
 function curSel(){return localStorage.getItem('cur')||'PKR'}
 function applyCur(){const cur=curSel();const sel=document.getElementById('cursel');if(sel)sel.value=cur;if(cur==='PKR')return;document.querySelectorAll('[data-pkr]').forEach(el=>{const amt=parseFloat(el.getAttribute('data-pkr'));if(isNaN(amt))return;el.innerHTML='<b class="pkrv">'+fmtCur(amt,cur)+'</b> <span class="usdv">Rs '+amt.toLocaleString('en-US')+'</span>'})}
 document.addEventListener('DOMContentLoaded',()=>{applyCur();const sel=document.getElementById('cursel');if(sel)sel.addEventListener('change',()=>{localStorage.setItem('cur',sel.value);if(document.getElementById('cmp')){location.reload()}else{applyCur()}})});
-function pkr(p){if(p.price_pkr==null)return 'Price not announced';const cur=curSel();if(cur!=='PKR'&&RATES[cur])return fmtCur(p.price_pkr,cur)+' · Rs '+p.price_pkr.toLocaleString('en-PK');return 'Rs '+p.price_pkr.toLocaleString('en-PK')+' · $'+p.price.toLocaleString('en-US')}
-function doSearch(q){q=(q||'').toLowerCase();document.querySelectorAll('.card').forEach(c=>{c.style.display=c.dataset.name.includes(q)?'':'none'})}
+function pkr(p){if(p.price_pkr==null)return p.unv?'Price not verified':'Price not announced';const cur=curSel();const ex=p.exp?' (Expected)':'';const lb=p.pl?' · '+p.pl:'';if(cur!=='PKR'&&RATES[cur])return fmtCur(p.price_pkr,cur)+' · Rs '+p.price_pkr.toLocaleString('en-PK')+ex+lb;return 'Rs '+p.price_pkr.toLocaleString('en-PK')+ex+' · $'+p.price.toLocaleString('en-US')+lb}
+function doSearch(q){q=(q||'').toLowerCase();document.querySelectorAll('.card').forEach(c=>{c.style.display=c.dataset.name.includes(q)?'':'none'});heroLive(q)}
+async function heroLive(q){const box=document.getElementById('hresults');if(!box)return;q=(q||'').trim().toLowerCase();if(q.length<2){box.innerHTML='';box.style.display='none';return}
+ let phones;try{phones=await loadPhones()}catch(e){return}
+ const hits=phones.filter(p=>(p.name+' '+p.brand+' '+p.cat).toLowerCase().includes(q)).slice(0,10);
+ box.innerHTML='';
+ if(!hits.length){const d=document.createElement('div');d.className='hrow hnone';d.textContent='No models found — try a brand or model name.';box.appendChild(d);box.style.display='block';return}
+ hits.forEach(p=>{const a=document.createElement('a');a.className='hrow';a.href=_pfx+p.path;a.setAttribute('role','option');
+  const l=document.createElement('span');const nm=document.createElement('b');nm.textContent=p.name;const br=document.createElement('span');br.className='hb';br.textContent=' '+p.brand+' · '+p.cat;l.appendChild(nm);l.appendChild(br);
+  const pr=document.createElement('span');pr.className='hp';pr.textContent=(p.price_pkr==null)?(p.unv?'Price not verified':'Price not announced'):('Rs '+p.price_pkr.toLocaleString('en-PK')+(p.exp?' (Expected)':'')+(p.pl?' · '+p.pl:''));
+  a.appendChild(l);a.appendChild(pr);box.appendChild(a)});
+ box.style.display='block'}
+document.addEventListener('DOMContentLoaded',()=>{const h=document.getElementById('hq');if(!h)return;h.addEventListener('focus',()=>{loadPhones().catch(()=>{})});
+ document.addEventListener('click',e=>{const box=document.getElementById('hresults');if(box&&e.target!==h&&!box.contains(e.target)){box.style.display='none'}});
+ document.addEventListener('keydown',e=>{if(e.key==='Escape'){const box=document.getElementById('hresults');if(box)box.style.display='none'}})});
 document.addEventListener('click',e=>{const b=e.target.closest('.tabbtn');if(!b)return;document.querySelectorAll('.tabbtn').forEach(x=>x.classList.toggle('active',x===b));document.querySelectorAll('.tpanel').forEach(p=>p.classList.toggle('on',p.id===b.dataset.t))});
 function heroSearch(e){e.preventDefault();const q=document.getElementById('hq').value;doSearch(q);const t=document.getElementById('allmodels');if(t)t.scrollIntoView({behavior:'smooth'});return false}
 document.addEventListener('DOMContentLoaded',()=>{const q=new URLSearchParams(location.search).get('q');const h=document.getElementById('hq');if(q&&h){h.value=q;doSearch(q)}});
@@ -578,6 +681,7 @@ async function initCompare(){
  const selA=document.getElementById('selA'),selB=document.getElementById('selB');if(!selA)return;
  const brandA=document.getElementById('brandA'),brandB=document.getElementById('brandB');
  const phones=await loadPhones();
+ let SP=null;async function specsOf(p){if(!SP){const r=await fetch(_pfx+'specs.json');SP=await r.json()}return SP[p.slug]||{}}
  const brands=[...new Set(phones.map(p=>p.brand))].sort();
  const fillBrands=s=>{brands.forEach(b=>{const o=document.createElement('option');o.value=b;o.textContent=b;s.appendChild(o)})};
  const fillModels=(s,brand,val)=>{s.innerHTML='';phones.filter(p=>p.brand===brand).forEach(p=>{const o=document.createElement('option');o.value=p.slug;o.textContent=p.name+' ('+p.cat+')';s.appendChild(o)});if(val)s.value=val};
@@ -589,27 +693,41 @@ async function initCompare(){
  fillModels(selA,pa.brand,pa.slug);fillModels(selB,pb.brand,pb.slug);
  brandA.onchange=()=>{fillModels(selA,brandA.value);render()};
  brandB.onchange=()=>{fillModels(selB,brandB.value);render()};
- function render(){const a=phones.find(p=>p.slug===selA.value),b=phones.find(p=>p.slug===selB.value);if(!a||!b)return;
+ async function render(){const a=phones.find(p=>p.slug===selA.value),b=phones.find(p=>p.slug===selB.value);if(!a||!b)return;
+  const sa=await specsOf(a),sb=await specsOf(b);
   const keys=['Price','Brand','Category'];
-  [a,b].forEach(p=>Object.keys(p.specs).forEach(k=>{if(!keys.includes(k))keys.push(k)}));
-  const val=(p,k)=>k==='Price'?pkr(p):k==='Brand'?p.brand:k==='Category'?p.cat:(p.specs[k]||'-');
-  document.getElementById('cmp').innerHTML=keys.map(k=>{const va=val(a,k),vb=val(b,k);return `<tr class="${va!==vb?'diff':''}"><th>${k}</th><td>${va}</td><td>${vb}</td></tr>`}).join('');
+  [sa,sb].forEach(s=>Object.keys(s).forEach(k=>{if(!keys.includes(k))keys.push(k)}));
+  const val=(p,s,k)=>k==='Price'?pkr(p):k==='Brand'?p.brand:k==='Category'?p.cat:(s[k]||'-');
+  document.getElementById('cmp').innerHTML=keys.map(k=>{const va=val(a,sa,k),vb=val(b,sb,k);return `<tr class="${va!==vb?'diff':''}"><th>${k}</th><td>${va}</td><td>${vb}</td></tr>`}).join('');
   document.getElementById('cmpHead').innerHTML=`<tr><th></th><th>${a.name}</th><th>${b.name}</th></tr>`;}
  selA.onchange=render;selB.onchange=render;render();}
 document.addEventListener('DOMContentLoaded',initCompare);
-function initFilters(){const grid=document.getElementById('catgrid');if(!grid)return;const fb=document.getElementById('fbrand'),fs=document.getElementById('fsort'),fc=document.getElementById('fcount');const cards=[...grid.children];
- function apply(){const b=fb.value;let vis=cards.filter(c=>!b||c.dataset.brand===b);const s=fs.value;const pv=c=>parseFloat(c.dataset.price)||Infinity;const arr=[...grid.children];
-  arr.forEach(c=>c.style.display=vis.includes(c)?'':'none');
-  const sorted=[...vis].sort((x,y)=>s==='plo'?pv(x)-pv(y):s==='phi'?pv(y)-pv(x):s==='az'?x.dataset.name.localeCompare(y.dataset.name):(parseInt(y.dataset.year)||0)-(parseInt(x.dataset.year)||0));
-  sorted.forEach(c=>grid.appendChild(c));if(fc)fc.textContent=vis.length+' models';}
- fb.addEventListener('change',apply);fs.addEventListener('change',apply);apply();}
-document.addEventListener('DOMContentLoaded',initFilters);
+function _sortCmp(s){const pv=c=>{const v=parseFloat(c.dataset.price);return isNaN(v)?null:v};const yv=c=>parseInt(c.dataset.year)||0;const nm=c=>(c.dataset.name||'');
+ return function(x,y){if(s==='az')return nm(x).localeCompare(nm(y));if(s==='za')return nm(y).localeCompare(nm(x));
+  if(s==='plo'||s==='phi'){const a=pv(x),b=pv(y);if(a===null&&b===null)return 0;if(a===null)return 1;if(b===null)return -1;return s==='plo'?a-b:b-a}
+  if(s==='new'||s==='old'){const a=yv(x),b=yv(y);if(a===0&&b===0)return 0;if(a===0)return 1;if(b===0)return -1;return s==='new'?b-a:a-b}
+  return 0}}
+function initSortZones(){document.querySelectorAll('.sortzone').forEach(zone=>{const grid=zone.querySelector('.sortgrid');if(!grid)return;const fb=zone.querySelector('.fbrand'),fs=zone.querySelector('.fsort'),fc=zone.querySelector('.fcount');const cards=[...grid.children];
+ function apply(){const b=fb?fb.value:'';const vis=cards.filter(c=>!b||c.dataset.brand===b);const s=fs?fs.value:'def';
+  cards.forEach(c=>c.style.display=vis.includes(c)?'':'none');
+  const ordered=s==='def'?[...vis]:[...vis].sort(_sortCmp(s));
+  ordered.forEach(c=>grid.appendChild(c));if(fc)fc.textContent=vis.length+' models';}
+ if(fb)fb.addEventListener('change',apply);if(fs)fs.addEventListener('change',apply);apply();});}
+document.addEventListener('DOMContentLoaded',initSortZones);
+function initAzSort(){const sel=document.getElementById('azsort');if(!sel)return;const secs=[];document.querySelectorAll('.azlist').forEach(l=>{secs.push({list:l,head:l.previousElementSibling,rows:[...l.children]})});if(!secs.length)return;const chips=document.querySelector('.azchips');const host=secs[0].list;
+ function apply(){const s=sel.value;secs.forEach(sc=>{sc.rows.forEach(r=>sc.list.appendChild(r));sc.list.style.display='';if(sc.head)sc.head.style.display=''});if(chips)chips.style.display='';
+  if(s==='def'||s==='az')return;
+  const sorted=secs.flatMap(sc=>sc.rows).sort(_sortCmp(s));sorted.forEach(r=>host.appendChild(r));
+  secs.forEach(sc=>{if(sc.head)sc.head.style.display='none';if(sc.list!==host)sc.list.style.display='none'});if(chips)chips.style.display='none';}
+ sel.addEventListener('change',apply);}
+document.addEventListener('DOMContentLoaded',initAzSort);
 """
 
 def head(title, desc, path="", depth=0, image="", ld_extra=""):
     pre = "../" * depth
     ld = {"@context": "https://schema.org", "@type": "WebSite", "name": SITE, "url": BASE,
           "potentialAction": {"@type": "SearchAction", "target": BASE + "?q={query}", "query-input": "required name=query"}}
+    if not image: image = BASE + "img/iphone-17-pro-max/cosmic-orange.jpg"  # default social image (2026-11-04 SEO pack)
     ogimg = f'<meta property="og:image" content="{esc(image)}">' if image else ""
     twimg = f'<meta name="twitter:image" content="{esc(image)}">' if image else ""
     nav = "".join(f'<a href="{BASE}{CATPAGE[c]}">{c}</a>' for c in CATS)
@@ -620,44 +738,48 @@ def head(title, desc, path="", depth=0, image="", ld_extra=""):
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(title)}</title><meta name="description" content="{esc(desc)}">
 <link rel="canonical" href="{BASE}{path}">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E📱%3C/text%3E%3C/svg%3E">
 <meta property="og:title" content="{esc(title)}"><meta property="og:description" content="{esc(desc)}">
 <meta property="og:type" content="website"><meta property="og:url" content="{BASE}{path}">{ogimg}
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{esc(title)}"><meta name="twitter:description" content="{esc(desc)}">{twimg}
 <link rel="stylesheet" href="{pre}style.css">
 <script type="application/ld+json">{json.dumps(ld)}</script>{ld_extra}</head><body>
 <header><div class="wrap hwrap"><button class="menubtn" aria-label="Menu" onclick="document.querySelector('.navbar').classList.toggle('open')">&#9776;</button><a class="logo" href="{BASE}"><span class="logo-ic">📱</span>Check <span>Specs</span></a><span class="tagline">Explore • Compare • Choose</span><select id="cursel" class="cursel" aria-label="Currency"><option value="PKR">🇵🇰 Pakistan · PKR</option><option value="INR">🇮🇳 India · INR</option><option value="BDT">🇧🇩 Bangladesh · BDT</option><option value="AED">🇦🇪 UAE · AED</option><option value="SAR">🇸🇦 Saudi Arabia · SAR</option><option value="QAR">🇶🇦 Qatar · QAR</option><option value="KWD">🇰🇼 Kuwait · KWD</option><option value="OMR">🇴🇲 Oman · OMR</option><option value="BHD">🇧🇭 Bahrain · BHD</option><option value="USD">🇺🇸 USA · USD</option><option value="GBP">🇬🇧 UK · GBP</option><option value="EUR">🇪🇺 Europe · EUR</option><option value="TRY">🇹🇷 Türkiye · TRY</option><option value="CNY">🇨🇳 China · CNY</option><option value="JPY">🇯🇵 Japan · JPY</option><option value="KRW">🇰🇷 South Korea · KRW</option><option value="RUB">🇷🇺 Russia · RUB</option><option value="CAD">🇨🇦 Canada · CAD</option><option value="AUD">🇦🇺 Australia · AUD</option><option value="SGD">🇸🇬 Singapore · SGD</option><option value="MYR">🇲🇾 Malaysia · MYR</option><option value="IDR">🇮🇩 Indonesia · IDR</option><option value="THB">🇹🇭 Thailand · THB</option><option value="PHP">🇵🇭 Philippines · PHP</option><option value="ZAR">🇿🇦 South Africa · ZAR</option><option value="NGN">🇳🇬 Nigeria · NGN</option><option value="KES">🇰🇪 Kenya · KES</option><option value="EGP">🇪🇬 Egypt · EGP</option><option value="LKR">🇱🇰 Sri Lanka · LKR</option><option value="NPR">🇳🇵 Nepal · NPR</option><option value="AFN">🇦🇫 Afghanistan · AFN</option><option value="ILS">🇮🇱 Israel · ILS</option><option value="CHF">🇨🇭 Switzerland · CHF</option><option value="VND">🇻🇳 Vietnam · VND</option><option value="MMK">🇲🇲 Myanmar · MMK</option><option value="KHR">🇰🇭 Cambodia · KHR</option><option value="UZS">🇺🇿 Uzbekistan · UZS</option><option value="KZT">🇰🇿 Kazakhstan · KZT</option><option value="TZS">🇹🇿 Tanzania · TZS</option><option value="GHS">🇬🇭 Ghana · GHS</option><option value="MAD">🇲🇦 Morocco · MAD</option><option value="IQD">🇮🇶 Iraq · IQD</option><option value="JOD">🇯🇴 Jordan · JOD</option><option value="AZN">🇦🇿 Azerbaijan · AZN</option><option value="GEL">🇬🇪 Georgia · GEL</option></select></div>
-<div class="navbar"><div class="wrap"><a href="{BASE}">Home</a>{nav}<a href="{BASE}compare.html">Compare</a><a href="{BASE}az.html">A–Z Models</a><a href="{BASE}best-under-200.html">Under $200</a><a href="{BASE}best-under-400.html">Under $400</a></div></div></header><main>"""
+<div class="navbar"><div class="wrap"><a href="{BASE}">Home</a>{nav}<a href="{BASE}compare.html">Compare</a><a href="{BASE}az.html">A–Z Models</a><a href="{BASE}mobile-analyser.html">Mobile Analyser</a><a href="{BASE}best-under-200.html">Under $200</a><a href="{BASE}best-under-400.html">Under $400</a></div></div></header><main>"""
 
 def foot(depth=0):
     pre = "../" * depth
     return f"""</main><footer><div style="max-width:1100px;margin:0 auto">
-Check Specs — Mobile phones, keypad phones, tablets and laptops: full specifications, latest prices in Pakistan (PKR &amp; USD) and comparisons.
-Prices are approximate market prices; currency figures are converted from PKR at mid-market rates checked 3 Nov 2026 (Rs 276.7 = $1) — use the currency selector at the top of the page to see prices in your own country's currency. Prices can change; always confirm from your local shop before buying.<br>
-<a href="{pre}about.html">About Us</a> · <a href="{pre}contact.html">Contact Us</a> · <a href="{pre}privacy-policy.html">Privacy Policy</a> · <a href="{pre}terms.html">Terms</a> · <a href="{pre}editorial-policy.html">Editorial Policy</a> · <a href="{pre}sources.html">Data Sources</a> · <a href="{pre}sitemap.xml">Sitemap</a></div></footer><script src="{pre}app.js"></script></body></html>"""
+Check Specs — Mobile phones, keypad phones, tablets, laptops and smartwatches: full specifications, latest prices in Pakistan (PKR &amp; USD) and comparisons.
+Prices are approximate market prices; currency figures are converted from PKR at mid-market rates last checked 4 November 2026 (Rs 276.7 = $1); converted figures are estimates, not local shop prices — use the currency selector at the top of the page to see prices in your own country's currency. Prices can change; always confirm from your local shop before buying.<br>
+<a href="{pre}best-phones-under-30000.html">Best Under Rs 30,000</a> · <a href="{pre}best-phones-under-50000.html">Best Under Rs 50,000</a> · <a href="{pre}best-phones-under-100000.html">Best Under Rs 100,000</a> · <a href="{pre}best-camera-phones.html">Best Camera Phones</a> · <a href="{pre}best-battery-phones.html">Best Battery Phones</a> · <a href="{pre}best-gaming-phones.html">Best Gaming Phones</a><br>
+<a href="{pre}mobile-analyser.html">Mobile Analyser</a> · <a href="{pre}about.html">About Us</a> · <a href="{pre}contact.html">Contact Us</a> · <a href="{pre}privacy-policy.html">Privacy Policy</a> · <a href="{pre}terms.html">Terms</a> · <a href="{pre}editorial-policy.html">Editorial Policy</a> · <a href="{pre}sources.html">Data Sources</a> · <a href="{pre}sitemap.xml">Sitemap</a></div></footer><script src="{pre}app.js"></script></body></html>"""
 
-BRANDWM = {"Apple": "#111111", "Samsung": "#1428a0", "Google": "#4285f4", "Vivo": "#415fff",
-           "Oppo": "#0a8f5a", "Xiaomi": "#ff6900", "Realme": "#b8860b", "Infinix": "#17202a",
+BRANDWM = {"Apple": "#111111", "Samsung": "#1428a0", "Google": "#3367d6", "Vivo": "#415fff",
+           "Oppo": "#087a4d", "Xiaomi": "#b54d00", "Realme": "#8a6500", "Infinix": "#17202a",
            "Tecno": "#1a4f9c", "OnePlus": "#eb0028", "Honor": "#0b1e3f", "Nokia": "#124191",
-           "Redmi": "#ff6900", "Poco": "#8a6d00"}
+           "Redmi": "#b54d00", "Poco": "#8a6d00"}
 def tcard(d):
     img = pic(d["hero"], d.get("hero_webp", ""), "", d["name"]) if d.get("hero") else "📱"
-    badge = f'<span class="badge {"disc" if d["status"] == "Discontinued" else "cont"}">{d["status"]}</span>'
-    return f"""<div class="tcard">{badge}<div class="fthumb">{img}</div><div class="tbody"><b>{esc(d['name'])}</b>
-<div class="price">{dual(d['price'])}</div><div class="spec">{esc(d['tag'])}</div>
+    badge = f'<span class="badge {"disc" if d["status"] == "Discontinued" else "cont"}">{d["status"]}</span>' if d.get("status") else ''
+    return f"""<div class="tcard" data-name="{esc(d['name'].lower())}" data-brand="{esc(d['brand'])}" data-price="{d['price'] if d['price'] is not None else ''}" data-year="{d['year'] or 0}">{badge}<div class="fthumb">{img}</div><div class="tbody"><b>{esc(d['name'])}</b>
+<div class="price">{dual(d['price'], d.get("price_expected"), d.get("price_unverified"))}{_plabel_html(d)}</div><div class="spec">{esc(d['tag'])}</div>
 <a class="btn alt" style="margin-top:auto;text-align:center" href="{d['folder']}/{d['slug']}.html">View Details →</a></div></div>"""
 
-def card(d, base=""):
+def card(d, base="", bestfor="", upcoming=False):
     hl = "".join(f'<div class="spec">{esc(x)}</div>' for x in d["hl"])
-    badge = f'<span class="badge {"disc" if d["status"] == "Discontinued" else "cont"}">{d["status"]}</span>'
+    badge = f'<span class="badge {"disc" if d["status"] == "Discontinued" else "cont"}">{d["status"]}</span>' if d.get("status") else ''
     img = pic(d["hero"], d.get("hero_webp", ""), "cardimg", d["name"], base=base) if d.get("hero") else '<div class="cardph">📱</div>'
+    upflag = '<span class="upflag">Upcoming</span>' if upcoming else ""
+    bfor = f'<div class="bestfor">🏆 {esc(bestfor)}</div>' if bestfor else ""
     return f"""<div class="card" data-name="{esc(d['name'].lower())} {esc(d['brand'].lower())} {esc(d['cat'].lower())}" data-brand="{esc(d['brand'])}" data-price="{d['price'] if d['price'] is not None else ''}" data-year="{d['year'] or 0}">
 {badge}
 {img}
 <div class="cbody">
-<span class="cat">{esc(d['cat'])}</span>
-<h3><a href="{base}{d['folder']}/{d['slug']}.html">{esc(d['name'])}</a></h3>
-<div class="price">{dual(d['price'])}</div>{hl}
-<div class="spec">{esc(d['tag'])}</div>
+<span class="cat">{esc(d['cat'])}</span>{upflag}
+<h2><a href="{base}{d['folder']}/{d['slug']}.html">{esc(d['name'])}</a></h2>
+<div class="price">{dual(d['price'], d.get("price_expected"), d.get("price_unverified"))}{_plabel_html(d)}</div>{hl}
+<div class="spec">{esc(d['tag'])}</div>{bfor}
 <div class="btnrow"><a class="btn" href="{base}{d['folder']}/{d['slug']}.html">Full Specs</a>
 <a class="btn alt" href="{base}compare.html?a={d['slug']}">Compare</a></div>
 </div></div>"""
@@ -674,15 +796,19 @@ def write(rel, content):
     print("wrote", rel)
 
 def main():
-    write("style.css", CSS); write("app.js", JS)
+    write("style.css", CSS); write("app.js", JS.replace("__RATES__", json.dumps(RATES_DICT)))
     export = [{"slug": d["slug"], "name": d["name"], "brand": d["brand"], "cat": d["cat"],
-               "price": usd(d["price"]) if d["price"] is not None else None, "price_pkr": d["price"], "path": f"{d['folder']}/{d['slug']}.html",
-               "specs": {k: str(v) for k, v in d["rows"] if k != "Price"}} for d in ALL]
+               "price": usd(d["price"]) if d["price"] is not None else None, "price_pkr": d["price"], "path": f"{d['folder']}/{d['slug']}.html", **({"exp": 1} if d.get("price_expected") else {}), **({"unv": 1} if d.get("price_unverified") else {}), **({"pl": _price_meta(d)[0]} if d["price"] is not None else {})} for d in ALL]
     write("phones.json", json.dumps(export, ensure_ascii=False, indent=1))
+    write("specs.json", json.dumps({d["slug"]: {k: str(v) for k, v in d["rows"] if k != "Price"} for d in ALL}, ensure_ascii=False, indent=1))
+    write("rates.json", json.dumps({"base": "PKR", "updated": RATES_UPDATED,
+        "source": "ExchangeRate-API (open.er-api.com) mid-market rates",
+        "note": "Prices are stored in PKR. Converted figures are estimates, not local shop prices.",
+        "rates": RATES_DICT}, indent=1))
     chips = "".join(f'<a class="chip" href="brands/{bslug(b)}.html">{esc(b)}</a>' for b in BRANDS)
     tiles = "".join(f'<a class="tile" href="{CATPAGE[c]}"><b>{c}</b><span>{sum(1 for d in ALL if d["cat"]==c)} models — specs &amp; prices</span></a>' for c in CATS)
     latest = sorted(ALL, key=lambda d: (-(d["year"] or 0), d["name"]))
-    feat = sorted([d for d in ALL if d["cat"] == "Smartphones"], key=lambda d: (-d["year"], -(d["price"] or 0)))[:10]
+    feat = sorted([d for d in ALL if d["cat"] == "Smartphones"], key=lambda d: (-(d["year"] or 0), -(d["price"] or 0)))[:10]
     tcards = "".join(tcard(d) for d in feat[:8])
     topbrands = sorted(BRANDS, key=lambda b: -sum(1 for d in ALL if d["brand"] == b))[:10]
     btiles = "".join(f'<a class="btile" href="brands/{bslug(b)}.html"><b style="color:{BRANDWM.get(b, "#0b1e3f")}">{esc(b)}</b><span>{sum(1 for d in ALL if d["brand"] == b)} devices</span></a>' for b in topbrands)
@@ -692,20 +818,21 @@ def main():
     home = head(f"{SITE} — Mobile, Tablet & Laptop Prices in Pakistan, Full Specs & Compare",
                 "Latest mobile phone, keypad phone, tablet and laptop prices in Pakistan in PKR & USD, full specifications and side-by-side comparisons. Samsung, Apple, Xiaomi, Infinix, Tecno, Vivo, Oppo, Nokia, HP, Dell, Lenovo and more.")
     home += f"""<section class="hero2"><h1>Find Your <span>Perfect Phone</span></h1>
-<p>Explore specifications, compare devices and discover prices worldwide.</p>
-<form class="hsearch" onsubmit="return heroSearch(event)"><input id="hq" placeholder="Search phones, brands or models..." oninput="doSearch(this.value)"><button type="submit">Search</button></form>
+<p>Explore specifications, compare devices and discover prices for {len(ALL)} devices worldwide.</p>
+<form class="hsearch" onsubmit="return heroSearch(event)"><input id="hq" placeholder="Search phones, brands or models..." aria-label="Search all models" autocomplete="off" oninput="doSearch(this.value)"><button type="submit">Search</button></form>
+<div id="hresults" class="hresults" role="listbox" aria-label="Search results — all models" style="display:none"></div>
 <div class="pills"><a class="pill" href="smartphones.html">🇵🇰 Pakistan</a><a class="pill" href="#brands">🌐 Worldwide</a><a class="pill" href="compare.html">⚖️ Compare</a><a class="pill" href="az.html">🔤 A–Z Models</a></div>
 <img class="hero-phone" src="img/iphone-17-pro-max/cosmic-orange.jpg" alt="iPhone 17 Pro Max"></section>
 <h2 class="sec" id="brands">🔥 Popular Brands</h2><div class="brands">{btiles}</div>
 <div class="chips">{chips}</div>
 <h2 class="sec">⭐ Trending Smartphones</h2>
-<div class="trend-wrap"><div class="tgrid">{tcards}</div>
+<div class="sortzone">{_SORTBAR}<div class="trend-wrap"><div class="tgrid sortgrid">{tcards}</div>
 <aside class="rail"><div class="cmp-panel"><h3>⚖️ Compare Phones</h3><p>Side-by-side comparison of any two devices</p><div class="vs">📱 VS 📱</div><a class="btn" style="background:#fff;color:#0b1e3f;display:block;text-align:center" href="compare.html">Start Compare →</a></div>
-<div class="budget-panel"><h3>🏷️ Budget Picks</h3><p>Best phones under your budget</p><a class="btn alt" href="best-under-200.html">Under $200</a> <a class="btn alt" href="best-under-400.html">Under $400</a></div></aside></div>
-<h2 class="sec" id="allmodels">Latest Models — Full Specs &amp; Prices in Pakistan</h2><div class="grid">{''.join(card(d) for d in latest[:120])}</div>
+<div class="budget-panel"><h3>🏷️ Budget Picks</h3><p>Best phones under your budget</p><a class="btn alt" href="best-under-200.html">Under $200</a> <a class="btn alt" href="best-under-400.html">Under $400</a></div></aside></div></div>
+<h2 class="sec" id="allmodels">Latest Models — Full Specs &amp; Prices in Pakistan</h2><div class="sortzone">{_SORTBAR_COUNT}<div class="grid sortgrid">{''.join(card(d) for d in latest[:40])}</div></div>
 <p style="text-align:center;margin:16px 0"><a class="btn" href="az.html">Browse All {len(ALL)} Models A–Z →</a></p>
 <h2 class="sec">Popular Comparisons</h2><div class="grid">{ctiles}</div>
-<div class="highlights"><div>🛡️ <b>Verified Specifications</b>Trusted &amp; Accurate</div><div>🌐 <b>Global Coverage</b>{len(ALL)}+ Devices</div><div>🔄 <b>Updated Daily</b>Latest Prices</div><div>⚡ <b>Fast &amp; Responsive</b>On All Devices</div></div>"""
+<div class="highlights"><div>🛡️ <b>Verified Specifications</b>Trusted &amp; Accurate</div><div>🌐 <b>{len(ALL)} Devices</b>Listed with full specs &amp; prices</div><div>🔄 <b>Updated Daily</b>Latest Prices</div><div>⚡ <b>Fast &amp; Responsive</b>On All Devices</div></div>"""
     home += foot(); write("index.html", home)
     # Category pages
     for c in CATS:
@@ -714,11 +841,11 @@ def main():
                   f"All {c.lower()} with prices in Pakistan (PKR & USD), full specifications and comparisons.", CATPAGE[c])
         _fbrands = sorted({d["brand"] for d in items})
         _fopts = "".join(f'<option value="{esc(b)}">{esc(b)}</option>' for b in _fbrands)
-        pg += f"""<h1>{esc(c)} — Prices in Pakistan &amp; Full Specs</h1><p>{len(items)} models. Har model ke full specs aur Pakistan price ke liye model kholen.</p>
-<div class="filterbar"><select id="fbrand" aria-label="Filter by brand"><option value="">All Brands</option>{_fopts}</select>
-<select id="fsort" aria-label="Sort models"><option value="new">Newest First</option><option value="plo">Price: Low to High</option><option value="phi">Price: High to Low</option><option value="az">Name: A to Z</option></select>
+        pg += f"""<h1>{esc(c)} — Prices in Pakistan &amp; Full Specs</h1><p>{len(items)} models in {esc(c)}. Har model ke full specs aur Pakistan price ke liye model kholen.</p>
+<div class="sortzone"><div class="filterbar"><select id="fbrand" class="fbrand" aria-label="Filter by brand"><option value="">All Brands</option>{_fopts}</select>
+<select id="fsort" class="fsort" aria-label="Sort models">{SORT_OPTS}</select>
 <span class="fcount" id="fcount"></span></div>
-<div class='grid' id='catgrid'>{''.join(card(d) for d in items)}</div>"""
+<div class='grid sortgrid' id='catgrid'>{''.join(card(d) for d in items)}</div></div>"""
         pg += foot(); write(CATPAGE[c], pg)
     # Device pages
     for d in ALL:
@@ -732,7 +859,7 @@ def main():
             _rel += [x for x in others if x not in _rel][:4 - len(_rel)]
         rel_html = f'<h2>Related Devices</h2><div class="grid">{"".join(card(x, base="../") for x in _rel)}</div>' if _rel else ""
         clinks = "".join(f'<a class="chip" href="../compare.html?a={d["slug"]}&b={x["slug"]}">{esc(d["name"])} vs {esc(x["name"])}</a>' for x in cmp)
-        label = {"Smartphones": "Mobile", "Keypad Phones": "Keypad Phone", "Tablets": "Tablet", "Laptops": "Laptop"}[d["cat"]]
+        label = {"Smartphones": "Mobile", "Keypad Phones": "Keypad Phone", "Tablets": "Tablet", "Laptops": "Laptop", "Smartwatches": "Smartwatch"}[d["cat"]]
         gal = ""
         if d.get("images"):
             figs = "".join(f'<figure>{pic(im["file"], im.get("webp", ""), "", d["name"] + " — " + im["color"], base=BASE)}<figcaption>{esc(im["color"])}</figcaption></figure>' for im in d["images"])
@@ -757,13 +884,14 @@ def main():
         _ldx = f'<script type="application/ld+json">{json.dumps(_prod)}</script><script type="application/ld+json">{json.dumps(_crumbs)}</script>'
         _crumb_html = (f'<nav class="crumbs"><a href="{BASE}">Home</a> › <a href="{BASE}{CATPAGE[d["cat"]]}">{esc(d["cat"])}</a>'
                        f' › <a href="{BASE}brands/{bslug(d["brand"])}.html">{esc(d["brand"])}</a> › {esc(d["name"])}</nav>')
-        pg = head(f"{d['name']} Price in Pakistan {pkrtitle(d['price'])} — Full Specifications | {SITE}",
-                  f"{d['name']} full specifications and price in Pakistan {pkrtitle(d['price'])}. {'; '.join(d['hl'])}. Compare {d['name']} with other devices.",
+        pg = head(f"{d['name']} Price in Pakistan {pkrtitle(d['price'], d.get('price_unverified'))} — Full Specifications | {SITE}",
+                  f"{d['name']} full specifications and price in Pakistan {pkrtitle(d['price'], d.get('price_unverified'))}. {'; '.join(d['hl'])}. Compare {d['name']} with other devices.",
                   f"{d['folder']}/{d['slug']}.html", depth=1, image=_img, ld_extra=_ldx)
         pg += _crumb_html
+        badge2_html = f"""<p><span class="badge2 {"disc" if d["status"] == "Discontinued" else "cont"}">{d["status"]}</span> <span class="note">{"This model is still in production and available in shops." if d["status"] == "Continued" else "This model has been discontinued by the company. It may still be found as old stock in some shops."}</span></p>""" if d.get("status") else ""
         pg += f"""<h1>{esc(d['name'])} — Full Specifications</h1>
-<p><span class="badge2 {"disc" if d["status"] == "Discontinued" else "cont"}">{d["status"]}</span> <span class="note">{"This model is still in production and available in shops." if d["status"] == "Continued" else "This model has been discontinued by the company. It may still be found as old stock in some shops."}</span></p>
-<p class="price">{dual(d['price'])}</p>
+{badge2_html}
+<p class="price">{dual(d['price'], d.get("price_expected"), d.get("price_unverified"))}{_plabel_html(d)}</p>
 <p>{esc(d['tag'])}. {esc(d['name'])} ke mukammal specs, Pakistan price aur comparison neeche hai.</p>
 {hero_html}
 {gal}
@@ -777,9 +905,14 @@ def main():
     for b in BRANDS:
         items = [d for d in ALL if d["brand"] == b]
         cards = "".join(card(d, base="../") for d in items)
+        _ild = {"@context": "https://schema.org", "@type": "ItemList",
+                "name": f"{b} devices — prices in Pakistan and full specifications",
+                "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": d["name"],
+                                     "url": f"{BASE}{d['folder']}/{d['slug']}.html"} for i, d in enumerate(items)]}
+        _ldx = f'<script type="application/ld+json">{json.dumps(_ild)}</script>'
         pg = head(f"{b} Prices in Pakistan — Mobiles, Tablets & Laptops Full Specs | {SITE}",
-                  f"All {b} devices with prices in Pakistan (PKR & USD) and full specifications.", f"brands/{bslug(b)}.html", depth=1)
-        pg += f"<h1>{esc(b)} — Prices in Pakistan &amp; Full Specs</h1><div class='grid'>{cards}</div>"
+                  f"All {b} devices with prices in Pakistan (PKR & USD) and full specifications.", f"brands/{bslug(b)}.html", depth=1, ld_extra=_ldx)
+        pg += f"<h1>{esc(b)} — Prices in Pakistan &amp; Full Specs</h1><div class='sortzone'>{_SORTBAR_COUNT}<div class='grid sortgrid'>{cards}</div></div>"
         pg += foot(depth=1); write(f"brands/{bslug(b)}.html", pg)
     # A-Z page — every model, alphabetical (user order 2026-11-03)
     from collections import defaultdict as _dd
@@ -792,17 +925,18 @@ def main():
     _azsecs = ""
     for c in _letters:
         _links = "".join(
-            f'<a class="azrow" href="{d["folder"]}/{d["slug"]}.html"><b>{esc(d["name"])}</b>'
-            f'<span>{esc(d["cat"])} · {dual(d["price"])}</span></a>'
+            f'<a class="azrow" data-name="{esc(d["name"].lower())}" data-price="{d["price"] if d["price"] is not None else ""}" data-year="{d["year"] or 0}" href="{d["folder"]}/{d["slug"]}.html"><b>{esc(d["name"])}</b>'
+            f'<span>{esc(d["cat"])} · {dual(d["price"], d.get("price_expected"), d.get("price_unverified"))}{_plabel_html(d, compact=True)}</span></a>'
             for d in sorted(_az[c], key=lambda x: x["name"].lower()))
         _azsecs += f'<h2 class="sec" id="az-{c}">{c}</h2><div class="azlist">{_links}</div>'
     pg = head(f"All Models A–Z — Full List | {SITE}",
               "Every mobile phone, keypad phone, tablet and laptop on Check Specs in one A to Z list with prices in Pakistan.", "az.html")
     pg += f"""<style>.azlist{{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:8px}}
 .azrow{{display:flex;justify-content:space-between;gap:10px;align-items:center;background:#0e2150;border:1px solid #ffffff1f;border-radius:10px;padding:9px 12px;color:#dbe7ff;text-decoration:none}}
-.azrow b{{font-size:14px}}.azrow span{{font-size:12.5px;color:#9fb6dd;white-space:nowrap}}</style>
+.azrow b{{font-size:14px}}.azrow span{{font-size:12.5px;color:#9fb6dd;white-space:nowrap}}.azrow .plabel{{display:inline;margin:0 0 0 4px;font-size:11px;color:#9fb6dd}}</style>
 <h1>All Models — A to Z</h1><p>{len(ALL)} models, saari list ek hi page par — harf chuno ya neeche scroll karo.</p>
-<div class="chips">{_azbar}</div>{_azsecs}"""
+<div class="filterbar"><select id="azsort" aria-label="Sort models">{SORT_OPTS}</select></div>
+<div class="chips azchips">{_azbar}</div>{_azsecs}"""
     pg += foot(); write("az.html", pg)
     # Compare page
     pg = head(f"Compare Phones, Tablets & Laptops — Side by Side Specs | {SITE}",
@@ -817,7 +951,7 @@ def main():
         items = sorted([d for d in ALL if d["cat"] == "Smartphones" and d["price"] is not None and usd(d["price"]) <= limit], key=lambda d: d["price"])
         pg = head(f"Best Mobile Phones {label} in Pakistan 2026 | {SITE}",
                   f"Best mobile phones {label.lower()} in Pakistan with full specs and USD prices.", fname)
-        pg += f"<h1>Best Phones {label} in Pakistan</h1><p>Is budget mein sabse behtar phones — specs aur qeemat ke sath.</p><div class='grid'>{''.join(card(d) for d in items)}</div>"
+        pg += f"<h1>Best Phones {label} in Pakistan</h1><p>Is budget mein sabse behtar phones — specs aur qeemat ke sath.</p><div class='sortzone'>{_SORTBAR}<div class='grid sortgrid'>{''.join(card(d) for d in items)}</div></div>"
         pg += foot(); write(fname, pg)
     # Trust & policy pages (Phase 5, 2026-11-03)
     TRUST = [
@@ -896,9 +1030,156 @@ def main():
         pg = head(f"{_t} | {SITE}", _desc, _f)
         pg += _body
         pg += foot(); write(_f, pg)
+
+    # Buying guides (2026-11-04; Phase 3 P3 upgrade 2026-11-04): verified data only,
+    # Pakistan-buyable-first ranking, data-derived best-for tags, sibling-guide links,
+    # ItemList schema. No invented benchmarks, ratings or reviews.
+    import re as _re2
+    def _rowval(d, label):
+        for k, v in d["rows"]:
+            if str(k).strip().lower() == label.lower(): return str(v)
+        return ""
+    def _batt(d):
+        m = _re2.search(r"([\d,]+)\s*mAh", _rowval(d, "Battery"))
+        return int(m.group(1).replace(",", "")) if m else 0
+    def _camp(d):
+        m = _re2.search(r"(\d+)\s*MP", _rowval(d, "Main Camera"))
+        return int(m.group(1)) if m else 0
+    def _selfie(d):
+        m = _re2.search(r"([\d.]+)\s*MP", _rowval(d, "Selfie Camera"))
+        return float(m.group(1)) if m else 0
+    def _hz(d):
+        hs = [int(x) for x in _re2.findall(r"(\d+)\s*Hz", _rowval(d, "Display"))]
+        return max(hs) if hs else 0
+    def _din(d):
+        m = _re2.search(r"([\d.]+)\s*inches", _rowval(d, "Display"))
+        return float(m.group(1)) if m else 0
+    def _chg(d):
+        ws = [int(x) for x in _re2.findall(r"(\d+)\s*W\b", _rowval(d, "Charging"))]
+        return max(ws) if ws else 0
+    def _ramx(d):
+        rs = [int(x) for x in _re2.findall(r"(\d+)\s*GB", _rowval(d, "RAM"))]
+        return max(rs) if rs else 0
+    def _storx(d):
+        out = 0
+        for n, u in _re2.findall(r"(\d+)\s*(GB|TB)", _rowval(d, "Storage")):
+            out = max(out, int(n) * (1024 if u == "TB" else 1))
+        return out
+    def _wt(d):
+        w = _rowval(d, "Weight") or _rowval(d, "Body")
+        m = _re2.search(r"([\d.]+)\s*g\b", w)
+        return float(m.group(1)) if m else 0
+    _PK_SRC_KEYS = ("priceoye", "whatmobile", "mobileinto", "qeemat", "pk-retail", "urdupoint", "parhlo")
+    def _tier(d):
+        # 0 = Pakistan-buyable (Continued + Pakistan retail price source, or a base-list
+        # Pakistan price), 1 = Continued with a converted international estimate price,
+        # 2 = Discontinued / other. Lower ranks first in every guide.
+        if d["status"] != "Continued": return 2
+        ps = str(d.get("price_src") or "")
+        if ps == "" or any(k in ps for k in _PK_SRC_KEYS): return 0
+        return 1
+    def _upcoming(d):
+        ly = _rowval(d, "Launch Year").lower()
+        return ("upcoming" in str(d.get("tag", "")).lower() or "coming soon" in ly
+                or "expected release" in ly or "not announced" in ly
+                or "rumoured" in ly or "rumored" in ly)
+    def _bestfors(items):
+        # Superlative tags computed from the picks' own verified records; the true
+        # holder (first in list order on ties) gets the tag. Remaining picks get an
+        # attribute tag taken from their own verified specs. Nothing hand-invented.
+        tags = {}
+        def _fmt_gb(v): return f"{v // 1024} TB" if v >= 1024 else f"{v} GB"
+        _sup = [
+            ("Biggest battery in this list", _batt, "max", lambda v: f"{v:,} mAh"),
+            ("Highest main camera in this list", _camp, "max", lambda v: f"{v} MP"),
+            ("Highest selfie camera in this list", _selfie, "max", lambda v: f"{('%g' % v)} MP"),
+            ("Fastest charging in this list", _chg, "max", lambda v: f"{v}W"),
+            ("Highest refresh rate in this list", _hz, "max", lambda v: f"{v}Hz"),
+            ("Largest display in this list", _din, "max", lambda v: f"{('%g' % v)} inches"),
+            ("Most RAM in this list", _ramx, "max", lambda v: f"{v} GB"),
+            ("Most storage in this list", _storx, "max", _fmt_gb),
+            ("Lightest in this list", _wt, "min", lambda v: f"{('%g' % v)} g"),
+            ("Lowest price in this list", lambda d: d["price"] or 0, "min", lambda v: f"Rs {v:,}"),
+            ("Newest model in this list", lambda d: d["year"] or 0, "max", lambda v: f"{v}"),
+        ]
+        for label, fn, mode, fmt in _sup:
+            cand = [(fn(d), i, d) for i, d in enumerate(items) if fn(d)]
+            if not cand: continue
+            best = (max if mode == "max" else min)(c[0] for c in cand)
+            holder = next(d for v, i, d in sorted(cand, key=lambda c: c[1]) if v == best)
+            if holder["slug"] not in tags:
+                tags[holder["slug"]] = f"{label} — {fmt(best)}"
+        for d in items:
+            if d["slug"] in tags: continue
+            hz, bt, cm, ch = _hz(d), _batt(d), _camp(d), _chg(d)
+            if hz >= 120: tags[d["slug"]] = f"Best for a smooth display — {hz}Hz refresh rate"
+            elif bt >= 5500: tags[d["slug"]] = f"Best for long battery days — {bt:,} mAh battery"
+            elif cm >= 64: tags[d["slug"]] = f"Best for detailed photos — {cm} MP main camera"
+            elif ch >= 45: tags[d["slug"]] = f"Best for fast top-ups — {ch}W charging"
+            elif _wt(d) and _wt(d) <= 185: tags[d["slug"]] = f"Best for one-hand use — light at {('%g' % _wt(d))} g"
+            else:
+                chip = _rowval(d, "Chipset").split(";")[0].split("(")[0].strip()
+                tags[d["slug"]] = f"Best for everyday use — {chip} · {_ramx(d)} GB RAM" if chip else f"Best for everyday use — {d['year']} model, verified full specs"
+        return tags
+    _GUIDE_DATE = "4 November 2026"
+    _GUIDES_ALL = [("best-phones-under-30000.html", "Best Under Rs 30,000"),
+                   ("best-phones-under-50000.html", "Best Under Rs 50,000"),
+                   ("best-phones-under-100000.html", "Best Under Rs 100,000"),
+                   ("best-camera-phones.html", "Best Camera Phones"),
+                   ("best-battery-phones.html", "Best Battery Phones"),
+                   ("best-gaming-phones.html", "Best Gaming Phones")]
+    _AVAIL = " Models sold in Pakistan (Continued, with a Pakistan retail price) are ranked first; any pick that has not launched yet is labelled Upcoming."
+    def _guide(fname, title, desc, h1, intro, items):
+        _tags = _bestfors(items)
+        _ild = {"@context": "https://schema.org", "@type": "ItemList", "name": h1,
+                "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": d["name"],
+                                     "url": f"{BASE}{d['folder']}/{d['slug']}.html"} for i, d in enumerate(items)]}
+        _ldx = f'<script type="application/ld+json">{json.dumps(_ild)}</script>'
+        pg = head(title, desc, fname, ld_extra=_ldx)
+        _sib = "".join(f'<a class="chip" href="{f2}">{esc(t2)}</a>' for f2, t2 in _GUIDES_ALL if f2 != fname)
+        pg += f"""<h1>{h1}</h1><p>{intro}</p><p class="note">Last updated: {_GUIDE_DATE}. Prices are the verified Pakistan prices shown on each device page and can change; confirm with your local shop before buying.</p><div class='sortzone'>{_SORTBAR}<div class='grid sortgrid'>{''.join(card(d, bestfor=_tags.get(d["slug"], ""), upcoming=_upcoming(d)) for d in items)}</div></div><h2>Other Guides &amp; Budgets</h2><div class="chips">{_sib}</div>"""
+        pg += foot(); write(fname, pg)
+    _sm = [d for d in ALL if d["cat"] == "Smartphones" and d["price"] is not None]
+    for _lim, _fn in [(30000, "best-phones-under-30000.html"), (50000, "best-phones-under-50000.html"), (100000, "best-phones-under-100000.html")]:
+        _items = sorted([d for d in _sm if d["price"] <= _lim], key=lambda d: (_tier(d), -(d["year"] or 0), -(d["price"] or 0)))[:12]
+        _guide(_fn, f"Best Phones Under Rs {_lim:,} in Pakistan (2026) | {SITE}",
+               f"Best mobile phones under Rs {_lim:,} in Pakistan — verified full specifications and current Pakistan prices.",
+               f"Best Phones Under Rs {_lim:,} in Pakistan",
+               f"The strongest smartphones currently listed at or under Rs {_lim:,} in Pakistan, Pakistan-buyable models first, then newest models first. Every phone below links to its verified full specification page." + _AVAIL,
+               _items)
+    _cam = sorted(_sm, key=lambda d: (_tier(d), -_camp(d), -(d["year"] or 0)))[:12]
+    _guide("best-camera-phones.html", f"Best Camera Phones in Pakistan (2026) | {SITE}",
+           "Best camera phones in Pakistan ranked by Pakistan availability, then verified main-camera resolution, with full specifications and Pakistan prices.",
+           "Best Camera Phones in Pakistan",
+           "Ranked first by Pakistan availability (Continued models with a Pakistan retail price), then by the verified main-camera resolution on each phone's specification page (megapixels), newest first on ties. A higher megapixel count is only one part of camera quality — open a phone's page for its full camera setup, including ultrawide and telephoto lenses, before deciding." + _AVAIL,
+           _cam)
+    _bat = sorted(_sm, key=lambda d: (_tier(d), -_batt(d), -(d["year"] or 0)))[:12]
+    _guide("best-battery-phones.html", f"Best Battery Phones in Pakistan (2026) | {SITE}",
+           "Best battery phones in Pakistan ranked by Pakistan availability, then verified battery capacity, with full specifications and Pakistan prices.",
+           "Best Battery Phones in Pakistan",
+           "Ranked first by Pakistan availability (Continued models with a Pakistan retail price), then by the verified battery capacity (mAh) on each phone's specification page, newest first on ties. Actual battery life also depends on the display, processor and software — check the full specifications on each phone's page." + _AVAIL,
+           _bat)
+    _GAME_CHIPS = ("snapdragon 8", "dimensity 9", "dimensity 8400", "dimensity 8300", "apple a17", "apple a18", "apple a19", "apple a20", "exynos 2400")
+    _gam = sorted([d for d in _sm if any(g in _rowval(d, "Chipset").lower() for g in _GAME_CHIPS)],
+                  key=lambda d: (_tier(d), -(d["year"] or 0), -(d["price"] or 0)))[:12]
+    _guide("best-gaming-phones.html", f"Best Gaming Phones in Pakistan (2026) | {SITE}",
+           "Best gaming phones in Pakistan with flagship-grade processors, Pakistan-buyable models first, verified full specifications and Pakistan prices.",
+           "Best Gaming Phones in Pakistan",
+           "These phones use flagship-grade processors (Snapdragon 8 series, Dimensity 9 series, Apple A17 or newer, Exynos 2400) that handle demanding games at high settings; Pakistan-buyable models are ranked first. We do not publish benchmark scores we have not measured ourselves — open each phone's page for its verified chipset, display refresh rate, RAM and battery details." + _AVAIL,
+           _gam)
+    # Custom 404 page (GitHub Pages serves 404.html for missing paths)
+    pg = head(f"Page Not Found | {SITE}", f"The page you are looking for could not be found on Check Specs. Search {len(ALL)} mobile, keypad phone, tablet, laptop and smartwatch specifications and prices in Pakistan.", "404.html")
+    pg += f"""<h1>404 — Page Not Found</h1>
+<p>The page you are looking for does not exist or has moved. Search for a device below, or browse by brand and category.</p>
+<form class="hsearch" style="background:#eef3fb;box-shadow:none" action="{BASE}" method="get"><input name="q" placeholder="Search phones, brands or models..."><button type="submit">Search</button></form>
+<h2 class="sec">Popular Brands</h2><div class="chips">{chips}</div>
+<h2 class="sec">Browse</h2><div class="chips"><a class="chip" href="{BASE}smartphones.html">Smartphones</a><a class="chip" href="{BASE}keypad-phones.html">Keypad Phones</a><a class="chip" href="{BASE}tablets.html">Tablets</a><a class="chip" href="{BASE}laptops.html">Laptops</a><a class="chip" href="{BASE}smartwatches.html">Smartwatches</a><a class="chip" href="{BASE}compare.html">Compare</a><a class="chip" href="{BASE}az.html">A–Z Models</a></div>"""
+    pg += foot(); write("404.html", pg)
     # SEO files
     urls = ["", "compare.html", "az.html", "best-under-200.html", "best-under-400.html",
-            "about.html", "contact.html", "privacy-policy.html", "terms.html",
+            "best-phones-under-30000.html", "best-phones-under-50000.html", "best-phones-under-100000.html",
+            "best-camera-phones.html", "best-battery-phones.html", "best-gaming-phones.html",
+            "about.html", "contact.html", "privacy-policy.html", "terms.html", "mobile-analyser.html",
             "editorial-policy.html", "sources.html"] + [CATPAGE[c] for c in CATS]
     urls += [f"{d['folder']}/{d['slug']}.html" for d in ALL]
     urls += [f"brands/{bslug(b)}.html" for b in BRANDS]

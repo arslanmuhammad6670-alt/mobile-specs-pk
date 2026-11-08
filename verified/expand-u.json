@@ -1,2883 +1,2883 @@
 [
-{
-"brand": "Google",
-"cat": "Smartphones",
-"hl": [
-"6.4\" display",
-"Google Tensor",
-"8 GB RAM",
-"4614 mAh"
-],
-"name": "Google Pixel 6",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2021 (announced 2021, October 19, released 2021, October 28)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"158.6 x 74.8 x 8.9 mm (6.24 x 2.94 x 0.35 in); 207 g (7.30 oz); Glass front (Gorilla Glass Victus), glass back (Gorilla Glass 6), aluminum frame; Nano-SIM + eSIM"
-],
-[
-"Display",
-"AMOLED, 90Hz, HDR10+; 6.4 inches, 98.9 cm2 (~83.4% screen-to-body ratio); 1080 x 2400 pixels, 20:9 ratio (~411 ppi density); Corning Gorilla Glass Victus"
-],
-[
-"OS",
-"Android 12, upgradable to Android 16, up to 5 major OS updates"
-],
-[
-"Chipset",
-"Google Tensor (5 nm); CPU Octa-core (2x2.80 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.80 GHz Cortex-A55); GPU Mali-G78 MP20"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.9, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS 12 MP, f/2.2, 17mm, 114˚ (ultrawide), 1.25µm; Laser AF, Dual-LED flash, Pixel Shift, Auto-HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps; gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, 24mm (wide), 1.12µm; HDR, panorama; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.2, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.1"
-],
-[
-"Battery",
-"Li-Ion 4614 mAh"
-],
-[
-"Charging",
-"Wired (based on 30W charger), PD3.0, 50% in 30 min 21W wireless Reverse wireless"
-],
-[
-"Colors",
-"Sorta Seafoam, Kinda Coral, Stormy Black"
-]
-],
-"slug": "google-pixel-6",
-"source": "https://www.gsmarena.com/google_pixel_6-11037.php",
-"tag": "6.4\" display · Google Tensor · 8 GB RAM · 4614 mAh",
-"year": 2021
-},
-{
-"brand": "Google",
-"cat": "Smartphones",
-"hl": [
-"6.2\" display",
-"Qualcomm SM7250 Snapdragon 765",
-"6 GB RAM",
-"3885 mAh"
-],
-"name": "Google Pixel 4a 5G",
-"price": 60000,
-"price_src": "https://priceoye.pk/mobiles/google/google-pixel-4a",
-"rows": [
-[
-"Launch Year",
-"2020 (announced 2020, September 30, released 2020, November 05)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"153.9 x 74 x 8.2 mm (Sub-6) or 8.5 mm (Sub-6 and mmWave); 168 g (5G Sub-6); 171 g ( 5G Sub-6 and mmWave) (5.93 oz); Glass front (Gorilla Glass 3), plastic back, plastic frame; Nano-SIM + eSIM"
-],
-[
-"Display",
-"OLED, HDR; 6.2 inches, 95.7 cm2 (~84.1% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~413 ppi density); Corning Gorilla Glass 3"
-],
-[
-"OS",
-"Android 11, upgradable to Android 14"
-],
-[
-"Chipset",
-"Qualcomm SM7250 Snapdragon 765G 5G (7 nm); CPU Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver); GPU Adreno 620"
-],
-[
-"RAM",
-"6 GB"
-],
-[
-"Storage",
-"128 GB; No"
-],
-[
-"Main Camera",
-"12.2 MP, f/1.7, 27mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS 16 MP, f/2.2, 107˚ (ultrawide), 1.0µm; LED flash, Pixel Shift, Auto-HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps; gyro-EIS"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, 24mm (wide), 1/4.0\", 1.12µm; HDR; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.0, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, QZSS, BDS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.1"
-],
-[
-"Battery",
-"Li-Po 3885 mAh"
-],
-[
-"Charging",
-"18W wired, PD2.0"
-],
-[
-"Colors",
-"Just Black, Clearly White"
-]
-],
-"slug": "google-pixel-4a-5g",
-"source": "https://www.gsmarena.com/google_pixel_4a_5g-10385.php",
-"tag": "6.2\" display · Qualcomm SM7250 Snapdragon 765 · 6 GB RAM · 3885 mAh",
-"year": 2020
-},
-{
-"brand": "Google",
-"cat": "Smartphones",
-"hl": [
-"6.3\" display",
-"Qualcomm SM8150 Snapdragon 855",
-"6 GB RAM",
-"3700 mAh"
-],
-"name": "Google Pixel 4 XL",
-"price": 124999,
-"price_src": "https://priceoye.pk/mobiles/google/google-pixel-4-xl",
-"rows": [
-[
-"Launch Year",
-"2019 (announced 2019, October 15, released 2019, October 22)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE"
-],
-[
-"Body",
-"160.4 x 75.1 x 8.2 mm (6.31 x 2.96 x 0.32 in); 193 g (6.81 oz); Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame; Nano-SIM + eSIM"
-],
-[
-"Display",
-"P-OLED, 90Hz, HDR; 6.3 inches, 98.0 cm2 (~81.3% screen-to-body ratio); 1440 x 3040 pixels, 19:9 ratio (~537 ppi density); Corning Gorilla Glass 5"
-],
-[
-"OS",
-"Android 10, upgradable to Android 13"
-],
-[
-"Chipset",
-"Qualcomm SM8150 Snapdragon 855 (7 nm); CPU Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485); GPU Adreno 640"
-],
-[
-"RAM",
-"6 GB"
-],
-[
-"Storage",
-"64 GB / 128 GB; No"
-],
-[
-"Main Camera",
-"12.2 MP, f/1.7, 27mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS 16 MP, f/2.4, 50mm (telephoto), 1/3.6\", 1.0µm, PDAF, OIS, 2x optical zoom; Dual-LED flash, Pixel Shift, Auto-HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, 1080p@30fps (gyro-EIS)"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, 22mm (wide), 1.22µm, no AF TOF 3D, (depth/biometrics sensor); HDR; video 1080p@30fps"
-],
-[
-"Sensors",
-"Face ID, accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA"
-],
-[
-"Bluetooth",
-"5.0, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GLONASS, BDS, GALILEO"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.1"
-],
-[
-"Battery",
-"Li-Po 3700 mAh, non-removable"
-],
-[
-"Charging",
-"18W wired, PD2.0 Wireless"
-],
-[
-"Colors",
-"Clearly White, Just Black, Oh So Orange"
-]
-],
-"slug": "google-pixel-4-xl",
-"source": "https://www.gsmarena.com/google_pixel_4_xl-9895.php",
-"tag": "6.3\" display · Qualcomm SM8150 Snapdragon 855 · 6 GB RAM · 3700 mAh",
-"year": 2019
-},
-{
-"brand": "Google",
-"cat": "Smartphones",
-"hl": [
-"5.6\" display",
-"Qualcomm SDM670 Snapdragon 670",
-"4 GB RAM",
-"3000 mAh"
-],
-"name": "Google Pixel 3a",
-"price": 60000,
-"price_src": "https://priceoye.pk/mobiles/google/google-pixel-3a",
-"rows": [
-[
-"Launch Year",
-"2019 (announced 2019, May 07. Released 2019, May 15)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE"
-],
-[
-"Body",
-"151.3 x 70.1 x 8.2 mm (5.96 x 2.76 x 0.32 in); 147 g (5.19 oz); Glass front (Asahi Dragontrail), plastic back, plastic frame; Nano-SIM + eSIM"
-],
-[
-"Display",
-"OLED; 5.6 inches, 79.6 cm2 (~75.0% screen-to-body ratio); 1080 x 2220 pixels, 18.5:9 ratio (~441 ppi density); Asahi Dragontrail Glass"
-],
-[
-"OS",
-"Android 9.0 (Pie), upgradable to Android 12"
-],
-[
-"Chipset",
-"Qualcomm SDM670 Snapdragon 670 (10 nm); CPU Octa-core (2x2.0 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver); GPU Adreno 615"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB; No"
-],
-[
-"Main Camera",
-"12.2 MP, f/1.8, 28mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS; Dual-LED flash, Pixel Shift, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, 24mm (wide), 1/4.0\", 1.12µm; HDR; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.0, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Li-Po 3000 mAh, non-removable"
-],
-[
-"Charging",
-"18W wired, PD2.0"
-],
-[
-"Colors",
-"Just Black, Clearly White, Purple-ish"
-]
-],
-"slug": "google-pixel-3a",
-"source": "https://www.gsmarena.com/google_pixel_3a-9408.php",
-"tag": "5.6\" display · Qualcomm SDM670 Snapdragon 670 · 4 GB RAM · 3000 mAh",
-"year": 2019
-},
-{
-"brand": "Google",
-"cat": "Smartphones",
-"hl": [
-"5.0\" display",
-"Qualcomm MSM8998 Snapdragon 83",
-"4 GB RAM",
-"2700 mAh"
-],
-"name": "Google Pixel 2",
-"price": 84999,
-"price_src": "https://priceoye.pk/mobiles/google/google-pixel-2",
-"rows": [
-[
-"Launch Year",
-"2017 (announced 2017, October 04. Released 2017, October 17)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE"
-],
-[
-"Body",
-"145.7 x 69.7 x 7.8 mm (5.74 x 2.74 x 0.31 in); 143 g (5.04 oz); Glass front (Gorilla Glass 5), aluminum/glass back, aluminum frame; Nano-SIM + eSIM"
-],
-[
-"Display",
-"AMOLED; 5.0 inches, 68.9 cm2 (~67.9% screen-to-body ratio); 1080 x 1920 pixels, 16:9 ratio (~441 ppi density); Corning Gorilla Glass 5"
-],
-[
-"OS",
-"Android 8.0 (Oreo), upgradable to Android 11"
-],
-[
-"Chipset",
-"Qualcomm MSM8998 Snapdragon 835 (10 nm); CPU Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo); GPU Adreno 540"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB / 128 GB; No"
-],
-[
-"Main Camera",
-"12.2 MP, f/1.8, 27mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS; Laser AF, Dual-LED flash, HDR, panorama; video 4K@30fps (gyro-EIS), 1080p@30/60/120fps (gyro-EIS), 720p@240fps (gyro-EIS)"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.4, 27mm (wide), 1/3.2\", 1.4µm; HDR; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA"
-],
-[
-"Bluetooth",
-"5.0, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GLONASS, BDS, GALILEO"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.1"
-],
-[
-"Battery",
-"Li-Ion 2700 mAh, non-removable"
-],
-[
-"Charging",
-"10.5W wired (capped), PD2.0"
-],
-[
-"Colors",
-"Kinda Blue, Just Black, Clearly White"
-]
-],
-"slug": "google-pixel-2",
-"source": "https://www.gsmarena.com/google_pixel_2-8733.php",
-"tag": "5.0\" display · Qualcomm MSM8998 Snapdragon 83 · 4 GB RAM · 2700 mAh",
-"year": 2017
-},
-{
-"brand": "Google",
-"cat": "Smartphones",
-"hl": [
-"5.5\" display",
-"Qualcomm MSM8996 Snapdragon 82",
-"4 GB RAM",
-"3450 mAh"
-],
-"name": "Google Pixel XL",
-"price": 49999,
-"price_src": "https://priceoye.pk/mobiles/google/google-pixel-xl",
-"rows": [
-[
-"Launch Year",
-"2016 (announced 2016, October 04. Released 2016, October 20)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"154.7 x 75.7 x 8.5 mm (6.09 x 2.98 x 0.33 in); 168 g (5.93 oz); Glass front (Gorilla Glass 4), aluminum/glass back, aluminum frame; Nano-SIM"
-],
-[
-"Display",
-"AMOLED; 5.5 inches, 83.4 cm2 (~71.2% screen-to-body ratio); 1440 x 2560 pixels, 16:9 ratio (~534 ppi density); Corning Gorilla Glass 4"
-],
-[
-"OS",
-"Android 7.1 (Nougat), upgradable to Android 10"
-],
-[
-"Chipset",
-"Qualcomm MSM8996 Snapdragon 821 (14 nm); CPU Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo); GPU Adreno 530"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"32 GB / 128 GB; No"
-],
-[
-"Main Camera",
-"12.3 MP, f/2.0, 1/2.3\", 1.55µm, PDAF; Laser AF, Dual-LED flash, HDR, panorama; video 4K@30fps, 1080p@60/120fps, 1080p@30fps (gyro-EIS), 720p@240fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.4, 1/3.2\", 1.4µm; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA"
-],
-[
-"Bluetooth",
-"4.2, A2DP, LE, aptX"
-],
-[
-"GPS",
-"GPS, GLONASS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.0"
-],
-[
-"Battery",
-"Li-Ion 3450 mAh, non-removable"
-],
-[
-"Charging",
-"18W wired, PD"
-],
-[
-"Colors",
-"Quite Black, Very Silver, Really Blue"
-]
-],
-"slug": "google-pixel-xl",
-"source": "https://www.gsmarena.com/google_pixel_xl-8345.php",
-"tag": "5.5\" display · Qualcomm MSM8996 Snapdragon 82 · 4 GB RAM · 3450 mAh",
-"year": 2016
-},
-{
-"brand": "Google",
-"cat": "Smartphones",
-"hl": [
-"10.2\" display",
-"Nvidia Tegra X1",
-"3 GB RAM",
-"9240 mAh"
-],
-"name": "Google Pixel C",
-"price": 104999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2015 (announced 2015, September 29. Released 2015, December 08)"
-],
-[
-"Network",
-"No cellular connectivity"
-],
-[
-"Body",
-"242 x 179 x 7 mm (9.53 x 7.05 x 0.28 in); 517 g (1.14 lb); No"
-],
-[
-"Display",
-"IPS LCD; 10.2 inches, 313.8 cm2 (~72.4% screen-to-body ratio); 2560 x 1800 pixels (~308 ppi density)"
-],
-[
-"OS",
-"Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)"
-],
-[
-"Chipset",
-"Nvidia Tegra X1; CPU Quad-core 1.9 GHz; GPU Nvidia Maxwell"
-],
-[
-"RAM",
-"3 GB"
-],
-[
-"Storage",
-"32 GB / 64 GB; No"
-],
-[
-"Main Camera",
-"8 MP, f/2.4; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"2 MP; video "
-],
-[
-"Sensors",
-"Accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"4.1, A2DP"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.0"
-],
-[
-"Battery",
-"Li-Po 9240 mAh, non-removable (34.2 Wh)"
-],
-[
-"Colors",
-"Silver Aluminum"
-]
-],
-"slug": "google-pixel-c",
-"source": "https://www.gsmarena.com/google_pixel_c-7826.php",
-"tag": "10.2\" display · Nvidia Tegra X1 · 3 GB RAM · 9240 mAh",
-"year": 2015
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.83\" display",
-"Qualcomm SM8850-AC Snapdragon ",
-"12 GB RAM",
-"9000 mAh"
-],
-"name": "vivo iQOO Neo12",
-"price": 176999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, October 28, released 2026, October 28)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"163.4 x 75.9 x 8.5 mm (6.43 x 2.99 x 0.33 in); 225 g or 229 g (7.94 oz); Glass front, aluminum frame, glass-fiber reinforced plastic back or glass back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 185Hz, HDR, 1000 nits (typ), 2200 nits (HBM); 6.83 inches, 112.6 cm2 (~90.8% screen-to-body ratio); 1440 x 3200 pixels, 20:9 ratio (~514 ppi density)"
-],
-[
-"OS",
-"Android 17, OriginOS 7"
-],
-[
-"Chipset",
-"Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.9, 23mm (wide), 1/1.56\", PDAF, OIS 8 MP, f/2.2, (ultrawide); LED flash, panorama, HDR; video 8K, 4K, 1080p, gyro-EIS"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.5, (wide); video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 9000 mAh"
-],
-[
-"Charging",
-"100W wired, 44W UFCS, 55W PPS Reverse wired"
-],
-[
-"Colors",
-"Black, Blue, Gray"
-]
-],
-"slug": "vivo-iqoo-neo12-5g-(china)",
-"source": "https://www.gsmarena.com/vivo_iqoo_neo12_5g_(china)-15041.php",
-"tag": "6.83\" display · Qualcomm SM8850-AC Snapdragon  · 12 GB RAM · 9000 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.87\" display",
-"Unisoc T7300",
-"4 GB RAM",
-"8000 mAh"
-],
-"name": "vivo Y32",
-"price": 75999,
-"price_src": "https://priceoye.pk/mobiles/vivo/vivo-y32",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, October 06, released 2026, October 06)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"169.6 x 79.2 x 8.7 mm (6.68 x 3.12 x 0.34 in); 229 g (8.08 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 1000 nits (HBM), 1300 nits (peak); 6.87 inches, 114.3 cm2 (~85.1% screen-to-body ratio); 720 x 1592 pixels (~254 ppi density); Schott Xensation Up"
-],
-[
-"OS",
-"Android 16, OriginOS 6"
-],
-[
-"Chipset",
-"Unisoc T7300 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MP2"
-],
-[
-"RAM",
-"4 GB / 6 GB"
-],
-[
-"Storage",
-"128 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash, HDR, panorama; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.1, (wide); video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Yes"
-],
-[
-"Bluetooth",
-"5.4, A2DP"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 8000 mAh"
-],
-[
-"Charging",
-"44W wired Reverse wired"
-],
-[
-"Colors",
-"Twilight Red, Sunset Orange"
-]
-],
-"slug": "vivo-y32-(2026)",
-"source": "https://www.gsmarena.com/vivo_y32_(2026)-14992.php",
-"tag": "6.87\" display · Unisoc T7300 · 4 GB RAM · 8000 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.59\" display",
-"Qualcomm SM7750-AB Snapdragon ",
-"8 GB RAM",
-"7200 mAh"
-],
-"name": "vivo V80",
-"price": 179999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, October 06, released 2026, October 13)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"157.5 x 74.3 x 7.7 mm (6.20 x 2.93 x 0.30 in); 203 g (7.16 oz); Glass front, aluminum frame, glass back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"AMOLED, 1B colors, 144Hz, HDR10+, 4320Hz PWM, 1800 nits (HBM), 5000 nits (peak); 6.59 inches, 106.1 cm2 (~90.7% screen-to-body ratio); 1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density); Schott Xensation Core"
-],
-[
-"OS",
-"Android 17, up to 4 major OS updates, OriginOS 7"
-],
-[
-"Chipset",
-"Qualcomm SM7750-AB Snapdragon 7 Gen 4 (4 nm); CPU Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520); GPU Adreno 722"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 50 MP, f/2.7, 73mm (periscope telephoto), 1/1.95\", 0.8µm, PDAF, OIS, 3x optical zoom 8 MP, f/2.2, 15mm, 115˚ (ultrawide); Zeiss optics, Ring-LED flash, panorama, HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, OIS, HDR, LUT"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.0, 21mm (wide), 1/2.76\", 0.64µm, AF; Zeiss optics, HDR; video 4K@30fps, 1080p@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Yes"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS, QZSS, NavIC"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7200 mAh"
-],
-[
-"Charging",
-"90W wired, PD, 50% in 30 min Reverse wired Bypass charging"
-],
-[
-"Colors",
-"Starwish Purple, Sunrise Anthem, Horizon Blue (Wander Green), Stellar Black (Vast Gray)"
-]
-],
-"slug": "vivo-v80-5g",
-"source": "https://www.gsmarena.com/vivo_v80_5g-14989.php",
-"tag": "6.59\" display · Qualcomm SM7750-AB Snapdragon  · 8 GB RAM · 7200 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Tablets",
-"hl": [
-"8.8\" display",
-"Qualcomm SM8975 Snapdragon 8 E",
-"12 GB RAM",
-"9020 mAh"
-],
-"name": "vivo iQOO Pad Ultra",
-"price": 266999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 29, released 2026, October 05)"
-],
-[
-"Network",
-"No cellular connectivity"
-],
-[
-"Body",
-"197.4 x 126.3 x 5.7 mm (7.77 x 4.97 x 0.22 in); 298 g (10.51 oz); Glass front, aluminum back, aluminum frame; No"
-],
-[
-"Display",
-"AMOLED, 1B colors, 165Hz, HDR10+, 1600 nits (HBM), 4500 nits (peak); 8.8 inches, 224.5 cm2 (~90.1% screen-to-body ratio); 1440 x 2304 pixels, 16:10 ratio (~309 ppi density)"
-],
-[
-"OS",
-"Android 17, OriginOS 7 HD"
-],
-[
-"Chipset",
-"Qualcomm SM8975 Snapdragon 8 Elite Extreme Gen 6 (2 nm); CPU Octa-core (2x5.01 GHz Prime + 3x4.03 GHz Performance + 3x3.74 GHz Performance); GPU Adreno 850"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"13 MP; video 4K, 1080p"
-],
-[
-"Selfie Camera",
-"8 MP; video 1080p@30fps"
-],
-[
-"Sensors",
-"Accelerometer, gyro, proximity (accessories only)"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"No"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2 Gen2, OTG, video output"
-],
-[
-"Battery",
-"Si/C Li-Ion 9020 mAh"
-],
-[
-"Charging",
-"66W wired, PD 5W reverse wired"
-],
-[
-"Colors",
-"Black, Silver"
-]
-],
-"slug": "vivo-iqoo-pad-ultra",
-"source": "https://www.gsmarena.com/vivo_iqoo_pad_ultra-14978.php",
-"tag": "8.8\" display · Qualcomm SM8975 Snapdragon 8 E · 12 GB RAM · 9020 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.87\" display",
-"Qualcomm SM4450 Snapdragon 4 G",
-"6 GB RAM",
-"8000 mAh"
-],
-"name": "vivo Y600i",
-"price": 80999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 25, released 2026, September 30)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"169.6 x 79.2 x 8.7 mm (6.68 x 3.12 x 0.34 in); 229 g (8.08 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 1000 nits (HBM), 1300 nits (peak); 6.87 inches, 114.3 cm2 (~85.1% screen-to-body ratio); 720 x 1592 pixels (~254 ppi density); Diamond Shield Glass"
-],
-[
-"OS",
-"Android 16, OriginOS 6"
-],
-[
-"Chipset",
-"Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm); CPU Octa-core (2x2.2 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55); GPU Adreno 613"
-],
-[
-"RAM",
-"6 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), PDAF; LED flash, HDR, panorama; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.1, (wide); video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.1, A2DP, aptX Adaptive"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 8000 mAh"
-],
-[
-"Charging",
-"44W wired Reverse wired"
-],
-[
-"Colors",
-"Black, Blue, White"
-]
-],
-"slug": "vivo-y600i-5g",
-"source": "https://www.gsmarena.com/vivo_y600i_5g-14964.php",
-"tag": "6.87\" display · Qualcomm SM4450 Snapdragon 4 G · 6 GB RAM · 8000 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.85\" display",
-"Mediatek Dimensity 9600 Pro",
-"12 GB RAM",
-"6750 mAh"
-],
-"name": "vivo X500 Pro Max",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 21, released 2026, September 24)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"163.3 x 76.8 x 8.1 mm (6.43 x 3.02 x 0.32 in); 225 g or 229 g (7.94 oz); Glass front (Armor Glass), aluminum frame, glass back or glass-fiber reinforced plastic back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International Nano-SIM + Nano-SIM - China"
-],
-[
-"Display",
-"LTPO AMOLED, 1B colors, 144Hz, HDR10+, Dolby Vision, 2000 nits (HBM), 4400 nits (peak); 6.85 inches, 114.5 cm2 (~91.3% screen-to-body ratio); 1440 x 3168 pixels (~507 ppi density); Armor Glass"
-],
-[
-"OS",
-"Android 17, up to 5 major OS updates, OriginOS 7"
-],
-[
-"Chipset",
-"Mediatek Dimensity 9600 Pro (2 nm); CPU Octa-core (2x4.55 GHz & 3x4.35 GHz & 3x3.1 GHz); GPU Mali-G2-Ultra-NX"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.6, 24mm (wide), 1/1.28\", 1.22µm, PDAF, OIS 200 MP, f/2.7, 85mm (periscope telephoto), 1/1.4\", 0.56µm, multi-directional PDAF, OIS, 3.5x optical zoom 50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.75\", 0.64µm, AF; Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import; video 8K@30fps, 4K@30/60/120/240fps, 1080p@30/60/120/240fps, 17 EV TrueDynamic Log, Dolby Vision HDR, 4K@120fps 10-bit Log, 10-bit 422 APV"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.0, 20mm (wide), 1/2.76\", 0.64µm, AF; HDR; video 4K@30/60fps, 1080p@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"5.4/6.0, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 6750 mAh (EU) Si/C Li-Ion 7800 mAh (Global) Si/C Li-Ion 8000 mAh (China)"
-],
-[
-"Charging",
-"90W wired 40W wireless Reverse wireless Reverse wired"
-],
-[
-"Colors",
-"Black, Gray, White, Orange"
-]
-],
-"slug": "vivo-x500-pro-max-5g",
-"source": "https://www.gsmarena.com/vivo_x500_pro_max_5g-14782.php",
-"tag": "6.85\" display · Mediatek Dimensity 9600 Pro · 12 GB RAM · 6750 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.36\" display",
-"Mediatek Dimensity 9600 Pro",
-"12 GB RAM",
-"6510 mAh"
-],
-"name": "vivo X500 Pro",
-"price": 390999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 21, released 2026, September 29)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"151.8 x 71.9 x 8.1 mm (5.98 x 2.83 x 0.32 in); 192 g or 197 g (6.77 oz); Glass front, aluminum frame, glass back or glass-fiber reinforced plastic back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International Nano-SIM + Nano-SIM - China"
-],
-[
-"Display",
-"LTPO AMOLED, 1B colors, 144Hz, HDR10+, Dolby Vision, 2000 nits (HBM), 4500 nits (peak); 6.36 inches, 99.1 cm2 (~90.8% screen-to-body ratio); 1216 x 2660 pixels, 19.5:9 ratio (~459 ppi density)"
-],
-[
-"OS",
-"Android 17, up to 5 major OS updates, OriginOS 7"
-],
-[
-"Chipset",
-"Mediatek Dimensity 9600 Pro (2 nm); CPU Octa-core (2x4.55 GHz & 3x4.35 GHz & 3x3.1 GHz); GPU Mali-G2-Ultra-NX"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.6, 24mm (wide), 1/1.28\", 1.22µm, PDAF, OIS 64 MP, f/2.5, 85mm (periscope telephoto), 1/2.0\", 0.7µm, PDAF (18cm - ∞), OIS, 3.5x optical zoom 50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.75\", 0.64µm, AF; Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import; video 8K@30fps, 4K@30/60/120/240fps, 1080p@30/60/120/240fps, 17 EV TrueDynamic Log, Dolby Vision HDR, 4K@120fps 10-bit Log, 10-bit 422 APV"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.0, 20mm (wide), 1/2.76\", 0.64µm, AF; HDR; video 4K@30/60fps, 1080p@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"5.4/6.0, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 6510 mAh"
-],
-[
-"Charging",
-"90W wired 40W wireless Reverse wireless Reverse wired"
-],
-[
-"Colors",
-"Black, Gray, White, Orange"
-]
-],
-"slug": "vivo-x500-pro-5g",
-"source": "https://www.gsmarena.com/vivo_x500_pro_5g-14950.php",
-"tag": "6.36\" display · Mediatek Dimensity 9600 Pro · 12 GB RAM · 6510 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.59\" display",
-"Mediatek Dimensity 9600M",
-"12 GB RAM",
-"7500 mAh"
-],
-"name": "vivo X500",
-"price": 318999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 21, released 2026, September 24)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"157 x 75 x 8.2 mm (6.18 x 2.95 x 0.32 in); 211 g or 213 g (7.44 oz); Glass front, aluminum frame, glass back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International Nano-SIM + Nano-SIM - China"
-],
-[
-"Display",
-"AMOLED, 1B colors, 144Hz, HDR10+, 2000 nits (HBM), 4000 nits (peak); 6.59 inches, 106.1 cm2 (~90.1% screen-to-body ratio); 1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)"
-],
-[
-"OS",
-"Android 17, up to 5 major OS updates, OriginOS 7"
-],
-[
-"Chipset",
-"Mediatek Dimensity 9600M (3 nm); CPU Octa-core (1x4.21 GHz & 3x3.5 GHz & 4x2.7 GHz); GPU ARM Mali-G1 Ultra MC12"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.7, 23mm (wide), 1/1.28\", 1.22µm, PDAF, OIS 64 MP, f/2.6, 72mm (periscope telephoto), 1/2.0\", 0.7µm, PDAF (15cm - ∞), OIS, 3x optical zoom 50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.76\", 0.64µm, AF; Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import; video 8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, HDR, gyro-EIS, 4K@120fps 10-bit Log"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.0, 20mm (wide), 1/2.76\", 0.64µm, AF; HDR; video 4K@30/60fps, 1080p@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"5.4/6.0, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7500 mAh"
-],
-[
-"Charging",
-"90W wired 40W wireless Reverse wired"
-],
-[
-"Colors",
-"Black, Gray, White, Pink"
-]
-],
-"slug": "vivo-x500-5g",
-"source": "https://www.gsmarena.com/vivo_x500_5g-14951.php",
-"tag": "6.59\" display · Mediatek Dimensity 9600M · 12 GB RAM · 7500 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.83\" display",
-"Mediatek Dimensity 7500 Turbo",
-"6 GB RAM",
-"7050 mAh"
-],
-"name": "vivo T5",
-"price": 89999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 02, released 2026, September 11)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"164.4 x 75.3 x 8 mm (6.47 x 2.96 x 0.31 in); 199 g (7.02 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 144Hz, HDR, 2000 nits (HBM), 3000 nits (peak); 6.83 inches, 112.6 cm2 (~91.0% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
-],
-[
-"OS",
-"Android 16, up to 3 major OS updates, OriginOS 6"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7500 Turbo (4 nm); CPU Octa-core (4x2.6 GHz Arm C1 Pro & 4x2.0 GHz Arm C1 Nano); GPU Mali-G625 MC"
-],
-[
-"RAM",
-"6 GB / 8 GB / 12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 26mm (wide), 1/1.95\", PDAF, OIS 8 MP, f/2.2, 15mm (ultrawide), 1/4.0\"; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.0, 24mm (wide); video 4K@30fps, 1080p@30/60fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS, QZSS, NavIC"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Li-Ion 7050 mAh"
-],
-[
-"Charging",
-"44W wired, PPS, 44% in 30 min Reverse wired Bypass charging"
-],
-[
-"Colors",
-"Royal Bronze, Silver Green"
-]
-],
-"slug": "vivo-t5-5g",
-"source": "https://www.gsmarena.com/vivo_t5_5g-14899.php",
-"tag": "6.83\" display · Mediatek Dimensity 7500 Turbo · 6 GB RAM · 7050 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.83\" display",
-"Mediatek Dimensity 7360 Turbo",
-"8 GB RAM",
-"7050 mAh"
-],
-"name": "vivo V80 Lite (IN/PK)",
-"price": 120999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, August 26, released 2026, August 26)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"164.4 x 75.3 x 8 mm (6.47 x 2.96 x 0.31 in); 197 g or 199 g (6.95 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 120Hz, HDR10+, 2000 nits (HBM), 3000 nits (peak); 6.83 inches, 112.6 cm2 (~91.0% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
-],
-[
-"OS",
-"Android 16, up to 3 major OS updates, OriginOS 6"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7360 Turbo (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.93\", PDAF Auxiliary lens; LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.0, (wide); video 4K@30fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Li-Ion 7050 mAh"
-],
-[
-"Charging",
-"44W wired Reverse wired Bypass charging"
-],
-[
-"Colors",
-"Sapphire Blue, Regal Bronze, Silk White"
-]
-],
-"slug": "vivo-v80-lite-5g-(india)",
-"source": "https://www.gsmarena.com/vivo_v80_lite_5g_(india)-14863.php",
-"tag": "6.83\" display · Mediatek Dimensity 7360 Turbo · 8 GB RAM · 7050 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.83\" display",
-"Unisoc T7300",
-"8 GB RAM",
-"8100 mAh"
-],
-"name": "vivo V70 Lite 4G",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, August 22, released 2026, August)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"163.7 x 76.2 x 8.2 mm (6.44 x 3.00 x 0.32 in); 210 g (7.41 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, HDR, 120Hz, 2000 nits (HBM), 5000 nits (peak); 6.83 inches, 112.6 cm2 (~90.3% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
-],
-[
-"OS",
-"Android 16, OriginOS 6"
-],
-[
-"Chipset",
-"Unisoc T7300 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MP2"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.93\" Auxiliary lens; LED flash, HDR, panorama; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.0, (wide); video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, QZSS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 8100 mAh"
-],
-[
-"Charging",
-"44W wired Reverse wired Bypass charging"
-],
-[
-"Colors",
-"Midnight Blue, Pearl White"
-]
-],
-"slug": "vivo-v70-lite",
-"source": "https://www.gsmarena.com/vivo_v70_lite-14898.php",
-"tag": "6.83\" display · Unisoc T7300 · 8 GB RAM · 8100 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.83\" display",
-"MediaTek Dimensity 9500M",
-"12 GB RAM",
-"9100 mAh"
-],
-"name": "vivo iQOO Neo11 Ultra",
-"price": 132999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, August 18, released 2026, August 18)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"163.4 x 75.9 x 8.6 mm (6.43 x 2.99 x 0.34 in); 225 g or 230 g (7.94 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 144Hz, 2160Hz PWM, 1100 nits (typ), 2000 nits (HBM), 4500 nits (peak); 6.83 inches, 112.6 cm2 (~90.8% screen-to-body ratio); 1440 x 3200 pixels, 20:9 ratio (~514 ppi density)"
-],
-[
-"OS",
-"Android 16, Origin OS 6.0"
-],
-[
-"Chipset",
-"MediaTek Dimensity 9500M (3 nm); CPU Octa-core (1x4.21 GHz & 3x3.5 GHz & 4x2.7 GHz); GPU ARM G1-Ultra"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, (ultrawide); Color spectrum sensor, LED flash, panorama, HDR; video 8K, 4K, 1080p; gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"16 MP, f/2.5, (wide); video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), GALILEO (E1+E5a+E5b), QZSS (L1+L5), BDS (B1l+B1C+ B2a+B2b), GLONASS, NavIC (L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 9100 mAh"
-],
-[
-"Charging",
-"100W wired Reverse wired"
-],
-[
-"Colors",
-"Black, White, Blue"
-]
-],
-"slug": "vivo-iqoo-neo11-ultra-5g",
-"source": "https://www.gsmarena.com/vivo_iqoo_neo11_ultra_5g-14878.php",
-"tag": "6.83\" display · MediaTek Dimensity 9500M · 12 GB RAM · 9100 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.83\" display",
-"Mediatek Dimensity 7360 Turbo",
-"8 GB RAM",
-"7050 mAh"
-],
-"name": "vivo S2",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, August 06, released 2026, August 11)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"164.4 x 75.3 x 8 mm (6.47 x 2.96 x 0.31 in); 197 g or 199 g (6.95 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 120Hz, 3000 nits (peak); 6.83 inches, 113.1 cm2 (~91.4% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~449 ppi density)"
-],
-[
-"OS",
-"Android 16, up to 3 major OS updates, OriginOS 6"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7360 Turbo (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.93\", PDAF Auxiliary lens; LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.0, (wide); video 4K@30fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Li-Ion 7050 mAh"
-],
-[
-"Charging",
-"44W wired Reverse wired Bypass charging"
-],
-[
-"Colors",
-"Sapphire Blue, Regal Bronze, Silk White"
-]
-],
-"slug": "vivo-s2-5g",
-"source": "https://www.gsmarena.com/vivo_s2_5g-14839.php",
-"tag": "6.83\" display · Mediatek Dimensity 7360 Turbo · 8 GB RAM · 7050 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.74\" display",
-"Unisoc T7225",
-"4 GB RAM",
-"5150 mAh"
-],
-"name": "vivo Y05e",
-"price": 36999,
-"price_src": "https://priceoye.pk/mobiles/vivo/vivo-y05e",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, July, released 2026, July)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"167.3 x 77 x 8.2 mm (6.59 x 3.03 x 0.32 in); 199 g (7.02 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 90Hz, 570 nits (HBM); 6.74 inches, 109.7 cm2 (~85.1% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
-],
-[
-"OS",
-"Android 16, OriginOS 6"
-],
-[
-"Chipset",
-"Unisoc T7225 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MP1"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"8 MP, f/2.0 (wide); LED flash, panorama; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"5 MP, f/2.2, (wide); video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.2, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, QZSS, BDS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Li-Ion 5150 mAh"
-],
-[
-"Charging",
-"15W wired Reverse wired"
-],
-[
-"Colors",
-"Teal, Black"
-]
-],
-"slug": "vivo-y05e",
-"source": "https://www.gsmarena.com/vivo_y05e-15004.php",
-"tag": "6.74\" display · Unisoc T7225 · 4 GB RAM · 5150 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.74\" display",
-"Unisoc T7225",
-"4 GB RAM",
-"6500 mAh"
-],
-"name": "vivo Y11d",
-"price": 51499,
-"price_src": "https://priceoye.pk/mobiles/vivo/vivo-y11d",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, June, released 2026, June)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"167.4 x 77.1 x 8.4 mm (6.59 x 3.04 x 0.33 in); 209 g (7.37 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 1200 nits (HBM); 6.74 inches, 109.7 cm2 (~85.0% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
-],
-[
-"OS",
-"Android 16, OriginOS 6"
-],
-[
-"Chipset",
-"Unisoc T7225 (12 nm); CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MP1"
-],
-[
-"RAM",
-"4 GB / 6 GB"
-],
-[
-"Storage",
-"64 GB / 128 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide) Auxiliary lens; LED flash; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"5 MP, f/2.2, (wide); video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.2, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"6500 mAh"
-],
-[
-"Charging",
-"44W wired, 50% in 40 min Reverse wired"
-],
-[
-"Colors",
-"Horizon White, Pearl Black"
-]
-],
-"slug": "vivo-y11d",
-"source": "https://www.gsmarena.com/vivo_y11d-14945.php",
-"tag": "6.74\" display · Unisoc T7225 · 4 GB RAM · 6500 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"8.02\" display",
-"Mediatek Dimensity 9500 Super",
-"12 GB RAM",
-"6900 mAh"
-],
-"name": "vivo X Fold6",
-"price": 641999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, June 26, released 2026, July 01)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"Unfolded: 157.2 x 145.7 x 4.4 mm or 4.8 mmFolded: 157.2 x 74.3 x 9.4 mm or 9.9 mm; 228 g or 235 g (8.04 oz); Glass front (closed), aluminum frame, glass-fiber reinforced plastic back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Foldable LTPO AMOLED, 1B colors, 120Hz, HDR10+, HDR Vivid, Dolby Vision; 8.02 inches, 207.8 cm2 (~90.7% screen-to-body ratio); 2312 x 2504 pixels (~424 ppi density)"
-],
-[
-"OS",
-"Android 17, OriginOS 7 Fold (INT)Android 16, OriginOS 6 Fold (CN)"
-],
-[
-"Chipset",
-"Mediatek Dimensity 9500 Super (3 nm); CPU Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro); GPU Mali G1-Ultra MC12"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.7, 23mm (wide), 1/1.4\", 0.56µm, multi-directional PDAF, OIS 50 MP, f/2.6, 70mm (periscope telephoto), 1/1.95\", 0.8µm, multi-directional PDAF, OIS, 3x optical zoom 50 MP, f/2.1, 15mm, 119˚ (ultrawide), 1/2.76\", 0.64µm, PDAF; Color spectrum sensor, Laser AF, Zeiss optics, Zeiss T* lens coating, Dual-LED flash, panorama; video 8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"20 MP, f/2.4, 21mm (wide), 1/3.6\", 0.61µm Cover camera: 20 MP, f/2.4, 21mm (wide), 1/3.6\", 0.61µm; HDR; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band or tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4/6.0, A2DP, LE, aptX HD, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5), GLONASS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2 Gen2, OTG, Display Port"
-],
-[
-"Battery",
-"Si/C Li-Ion 6900 mAh or 7000 mAh"
-],
-[
-"Charging",
-"80W wired, 55W PPS 40W wireless Reverse wired 5W reverse wireless"
-],
-[
-"Colors",
-"Nebula Teal, Prism Black, White"
-]
-],
-"slug": "vivo-x-fold6-5g",
-"source": "https://www.gsmarena.com/vivo_x_fold6_5g-14748.php",
-"tag": "8.02\" display · Mediatek Dimensity 9500 Super · 12 GB RAM · 6900 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.75\" display",
-"Qualcomm Snapdragon 6s 4G Gen ",
-"6 GB RAM",
-"7200 mAh"
-],
-"name": "vivo T5 4G",
-"price": 89999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, May 29, released 2026, May 29)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"166.6 x 78.4 x 8.4 mm (6.56 x 3.09 x 0.33 in); 219 g (7.72 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 1250 nits (HBM); 6.75 inches, 111.4 cm2 (~85.3% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
-],
-[
-"OS",
-"Android 16, OriginOS 6"
-],
-[
-"Chipset",
-"Qualcomm Snapdragon 6s 4G Gen 2 (6 nm); CPU Octa-core (4x2.9 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53); GPU Adreno 610"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/2.0, (wide) Auxiliary lens; LED flash, HDR, panorama; video Yes"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.5, (wide); video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.1, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7200 mAh"
-],
-[
-"Charging",
-"44W wired, 50% in 43 min Reverse wired"
-],
-[
-"Colors",
-"Gold, Black"
-]
-],
-"slug": "vivo-t5",
-"source": "https://www.gsmarena.com/vivo_t5-14697.php",
-"tag": "6.75\" display · Qualcomm Snapdragon 6s 4G Gen  · 6 GB RAM · 7200 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.83\" display",
-"Qualcomm SM7635-AC Snapdragon ",
-"8 GB RAM",
-"9020 mAh"
-],
-"name": "vivo Y600 Turbo",
-"price": 89999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, May 25, released 2026, May 27)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"163.7 x 76.2 x 8.3 mm (6.44 x 3.00 x 0.33 in); 215 g (7.58 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 120Hz, 4320Hz PWM, HDR, 1000 nits, 2000 nits (HBM), 5000 nits (peak); 6.83 inches, 112.6 cm2 (~90.3% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
-],
-[
-"OS",
-"Android 16, OriginOS 6"
-],
-[
-"Chipset",
-"Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm); CPU Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520); GPU Adreno 810"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash, HDR, panorama; video 4K, 1080p, gyro-EIS"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.1, (wide); video 1080p@30fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.2, A2DP, LE, aptX HD, aptX Adaptive"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1C+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 9020 mAh"
-],
-[
-"Charging",
-"90W wired, 44W UFCS, 55W PD/PPS Reverse wired"
-],
-[
-"Colors",
-"Gold, White, Blue"
-]
-],
-"slug": "vivo-y600-turbo-5g",
-"source": "https://www.gsmarena.com/vivo_y600_turbo_5g-14687.php",
-"tag": "6.83\" display · Qualcomm SM7635-AC Snapdragon  · 8 GB RAM · 9020 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.83\" display",
-"Qualcomm Snapdragon 7s Gen 4",
-"8 GB RAM",
-"9020 mAh"
-],
-"name": "vivo iQOO Z11",
-"price": 114999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, May 05, released 2026, May 05)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"163.7 x 76.2 x 8.3 mm (6.44 x 3.00 x 0.33 in); 213 g (7.51 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 144Hz, 2160Hz PWM, HDR, 800 nits (typ), 2000 nits (HBM), 5000 nits (peak); 6.83 inches, 112.6 cm2 (~90.3% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
-],
-[
-"OS",
-"Android 16, Origin OS 6.0"
-],
-[
-"Chipset",
-"Qualcomm Snapdragon 7s Gen 4; CPU Octa-core (1x2.7 GHz Kryo Prime + 3x2.4 GHz Kryo Gold + 4x1.8 GHz Kryo Silver); GPU Adreno 810"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/1.95\", PDAF, OIS Auxiliary lens; LED flash, panorama, HDR; video 4K@30fps, 1080p@30fps"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.0, (wide); video 4K@30fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.2, A2DP, LE"
-],
-[
-"GPS",
-"GPS (L1+L5), GLONASS, GALILEO, BDS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 9020 mAh"
-],
-[
-"Charging",
-"90W wired, 50% in 37 min 7.5W reverse wired Bypass charging"
-],
-[
-"Colors",
-"Cosmic Black, Glacier Blue"
-]
-],
-"slug": "vivo-iqoo-z11-5g",
-"source": "https://www.gsmarena.com/vivo_iqoo_z11_5g-14654.php",
-"tag": "6.83\" display · Qualcomm Snapdragon 7s Gen 4 · 8 GB RAM · 9020 mAh",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartphones",
-"hl": [
-"6.82\" display",
-"Qualcomm SM8850-AC Snapdragon ",
-"12 GB RAM",
-"6600 mAh"
-],
-"name": "vivo X300 Ultra",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, March 30, released 2026, April 03)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"163 x 76.8 x 8.2 mm or 8.5 mm; 232 g or 237 g (8.18 oz); Glass front, glass back, aluminum frame; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"LTPO AMOLED, 1B colors, 144Hz, 2160Hz PWM, Dolby Vision, HDR10+, HDR Vivid; 6.82 inches, 113.0 cm2 (~90.3% screen-to-body ratio); 1440 x 3168 pixels (~510 ppi density); Armor glass"
-],
-[
-"OS",
-"Android 16, OriginOS 6"
-],
-[
-"Chipset",
-"Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.9, 35mm (wide), 1/1.12\", 0.7µm, PDAF, gimbal OIS 200 MP, f/2.7, 85mm (periscope telephoto), 1/1.4\", 0.56µm, multi-directional PDAF, OIS, 3.7x optical zoom, macro 3.4:1 50 MP, f/2.0, 14mm, 116˚ (ultrawide), 1/1.28\", 1.22µm, dual pixel PDAF, OIS Optional add-on zoom lenses: 200mm, 2.35x optical zoom, OIS, Zeiss optics 400mm, 4.7x optical zoom, OIS, Zeiss optics; Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import; video 8K@30fps, 4K@24/30/60/120fps (10-bit Log, Dolby Vision HDR), 1080p@30/60/120/240fps, gyro-EIS, HDR10+"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.5, 24mm (wide), 1/2.76\", 0.64µm, AF; HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG, DisplayPort"
-],
-[
-"Battery",
-"Si/C Li-Ion 6600 mAh (International) or 6400 mAh (Europe)"
-],
-[
-"Charging",
-"100W wired, PD, PPS, QC, UFCS 40W wireless Reverse wired Reverse wireless"
-],
-[
-"Colors",
-"Eclipse Black, Victory Green, Silver"
-]
-],
-"slug": "vivo-x300-ultra-5g",
-"source": "https://www.gsmarena.com/vivo_x300_ultra_5g-14388.php",
-"tag": "6.82\" display · Qualcomm SM8850-AC Snapdragon  · 12 GB RAM · 6600 mAh",
-"year": 2026
-}
+ {
+  "brand": "Google",
+  "cat": "Smartphones",
+  "hl": [
+   "6.4\" display",
+   "Google Tensor",
+   "8 GB RAM",
+   "4614 mAh"
+  ],
+  "name": "Google Pixel 6",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2021 (announced 2021, October 19, released 2021, October 28)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "158.6 x 74.8 x 8.9 mm (6.24 x 2.94 x 0.35 in); 207 g (7.30 oz); Glass front (Gorilla Glass Victus), glass back (Gorilla Glass 6), aluminum frame; Nano-SIM + eSIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 90Hz, HDR10+; 6.4 inches, 98.9 cm2 (~83.4% screen-to-body ratio); 1080 x 2400 pixels, 20:9 ratio (~411 ppi density); Corning Gorilla Glass Victus"
+   ],
+   [
+    "OS",
+    "Android 12, upgradable to Android 16, up to 5 major OS updates"
+   ],
+   [
+    "Chipset",
+    "Google Tensor (5 nm); CPU Octa-core (2x2.80 GHz Cortex-X1 & 2x2.25 GHz Cortex-A76 & 4x1.80 GHz Cortex-A55); GPU Mali-G78 MP20"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, 25mm (wide), 1/1.31\", 1.2µm, dual pixel PDAF, OIS 12 MP, f/2.2, 17mm, 114˚ (ultrawide), 1.25µm; Laser AF, Dual-LED flash, Pixel Shift, Auto-HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps; gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, 24mm (wide), 1.12µm; HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.2, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.1"
+   ],
+   [
+    "Battery",
+    "Li-Ion 4614 mAh"
+   ],
+   [
+    "Charging",
+    "Wired (based on 30W charger), PD3.0, 50% in 30 min 21W wireless Reverse wireless"
+   ],
+   [
+    "Colors",
+    "Sorta Seafoam, Kinda Coral, Stormy Black"
+   ]
+  ],
+  "slug": "google-pixel-6",
+  "source": "https://www.gsmarena.com/google_pixel_6-11037.php",
+  "tag": "6.4\" display · Google Tensor · 8 GB RAM · 4614 mAh",
+  "year": 2021
+ },
+ {
+  "brand": "Google",
+  "cat": "Smartphones",
+  "hl": [
+   "6.2\" display",
+   "Qualcomm SM7250 Snapdragon 765G 5G",
+   "6 GB RAM",
+   "3885 mAh"
+  ],
+  "name": "Google Pixel 4a 5G",
+  "price": 60000,
+  "price_src": "https://priceoye.pk/mobiles/google/google-pixel-4a",
+  "rows": [
+   [
+    "Launch Year",
+    "2020 (announced 2020, September 30, released 2020, November 05)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "153.9 x 74 x 8.2 mm (Sub-6) or 8.5 mm (Sub-6 and mmWave); 168 g (5G Sub-6); 171 g ( 5G Sub-6 and mmWave) (5.93 oz); Glass front (Gorilla Glass 3), plastic back, plastic frame; Nano-SIM + eSIM"
+   ],
+   [
+    "Display",
+    "OLED, HDR; 6.2 inches, 95.7 cm2 (~84.1% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~413 ppi density); Corning Gorilla Glass 3"
+   ],
+   [
+    "OS",
+    "Android 11, upgradable to Android 14"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7250 Snapdragon 765G 5G (7 nm); CPU Octa-core (1x2.4 GHz Kryo 475 Prime & 1x2.2 GHz Kryo 475 Gold & 6x1.8 GHz Kryo 475 Silver); GPU Adreno 620"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Storage",
+    "128 GB; No"
+   ],
+   [
+    "Main Camera",
+    "12.2 MP, f/1.7, 27mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS 16 MP, f/2.2, 107˚ (ultrawide), 1.0µm; LED flash, Pixel Shift, Auto-HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps; gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, 24mm (wide), 1/4.0\", 1.12µm; HDR; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.0, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, QZSS, BDS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.1"
+   ],
+   [
+    "Battery",
+    "Li-Po 3885 mAh"
+   ],
+   [
+    "Charging",
+    "18W wired, PD2.0"
+   ],
+   [
+    "Colors",
+    "Just Black, Clearly White"
+   ]
+  ],
+  "slug": "google-pixel-4a-5g",
+  "source": "https://www.gsmarena.com/google_pixel_4a_5g-10385.php",
+  "tag": "6.2\" display · Qualcomm SM7250 Snapdragon 765G 5G · 6 GB RAM · 3885 mAh",
+  "year": 2020
+ },
+ {
+  "brand": "Google",
+  "cat": "Smartphones",
+  "hl": [
+   "6.3\" display",
+   "Qualcomm SM8150 Snapdragon 855",
+   "6 GB RAM",
+   "3700 mAh"
+  ],
+  "name": "Google Pixel 4 XL",
+  "price": 124999,
+  "price_src": "https://priceoye.pk/mobiles/google/google-pixel-4-xl",
+  "rows": [
+   [
+    "Launch Year",
+    "2019 (announced 2019, October 15, released 2019, October 22)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE"
+   ],
+   [
+    "Body",
+    "160.4 x 75.1 x 8.2 mm (6.31 x 2.96 x 0.32 in); 193 g (6.81 oz); Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame; Nano-SIM + eSIM"
+   ],
+   [
+    "Display",
+    "P-OLED, 90Hz, HDR; 6.3 inches, 98.0 cm2 (~81.3% screen-to-body ratio); 1440 x 3040 pixels, 19:9 ratio (~537 ppi density); Corning Gorilla Glass 5"
+   ],
+   [
+    "OS",
+    "Android 10, upgradable to Android 13"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8150 Snapdragon 855 (7 nm); CPU Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485); GPU Adreno 640"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB; No"
+   ],
+   [
+    "Main Camera",
+    "12.2 MP, f/1.7, 27mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS 16 MP, f/2.4, 50mm (telephoto), 1/3.6\", 1.0µm, PDAF, OIS, 2x optical zoom; Dual-LED flash, Pixel Shift, Auto-HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, 1080p@30fps (gyro-EIS)"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, 22mm (wide), 1.22µm, no AF TOF 3D, (depth/biometrics sensor); HDR; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Face ID, accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA"
+   ],
+   [
+    "Bluetooth",
+    "5.0, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, BDS, GALILEO"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.1"
+   ],
+   [
+    "Battery",
+    "Li-Po 3700 mAh, non-removable"
+   ],
+   [
+    "Charging",
+    "18W wired, PD2.0 Wireless"
+   ],
+   [
+    "Colors",
+    "Clearly White, Just Black, Oh So Orange"
+   ]
+  ],
+  "slug": "google-pixel-4-xl",
+  "source": "https://www.gsmarena.com/google_pixel_4_xl-9895.php",
+  "tag": "6.3\" display · Qualcomm SM8150 Snapdragon 855 · 6 GB RAM · 3700 mAh",
+  "year": 2019
+ },
+ {
+  "brand": "Google",
+  "cat": "Smartphones",
+  "hl": [
+   "5.6\" display",
+   "Qualcomm SDM670 Snapdragon 670",
+   "4 GB RAM",
+   "3000 mAh"
+  ],
+  "name": "Google Pixel 3a",
+  "price": 60000,
+  "price_src": "https://priceoye.pk/mobiles/google/google-pixel-3a",
+  "rows": [
+   [
+    "Launch Year",
+    "2019 (announced 2019, May 07. Released 2019, May 15)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE"
+   ],
+   [
+    "Body",
+    "151.3 x 70.1 x 8.2 mm (5.96 x 2.76 x 0.32 in); 147 g (5.19 oz); Glass front (Asahi Dragontrail), plastic back, plastic frame; Nano-SIM + eSIM"
+   ],
+   [
+    "Display",
+    "OLED; 5.6 inches, 79.6 cm2 (~75.0% screen-to-body ratio); 1080 x 2220 pixels, 18.5:9 ratio (~441 ppi density); Asahi Dragontrail Glass"
+   ],
+   [
+    "OS",
+    "Android 9.0 (Pie), upgradable to Android 12"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SDM670 Snapdragon 670 (10 nm); CPU Octa-core (2x2.0 GHz 360 Gold & 6x1.7 GHz Kryo 360 Silver); GPU Adreno 615"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB; No"
+   ],
+   [
+    "Main Camera",
+    "12.2 MP, f/1.8, 28mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS; Dual-LED flash, Pixel Shift, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, 24mm (wide), 1/4.0\", 1.12µm; HDR; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.0, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Li-Po 3000 mAh, non-removable"
+   ],
+   [
+    "Charging",
+    "18W wired, PD2.0"
+   ],
+   [
+    "Colors",
+    "Just Black, Clearly White, Purple-ish"
+   ]
+  ],
+  "slug": "google-pixel-3a",
+  "source": "https://www.gsmarena.com/google_pixel_3a-9408.php",
+  "tag": "5.6\" display · Qualcomm SDM670 Snapdragon 670 · 4 GB RAM · 3000 mAh",
+  "year": 2019
+ },
+ {
+  "brand": "Google",
+  "cat": "Smartphones",
+  "hl": [
+   "5.0\" display",
+   "Qualcomm MSM8998 Snapdragon 83",
+   "4 GB RAM",
+   "2700 mAh"
+  ],
+  "name": "Google Pixel 2",
+  "price": 84999,
+  "price_src": "https://priceoye.pk/mobiles/google/google-pixel-2",
+  "rows": [
+   [
+    "Launch Year",
+    "2017 (announced 2017, October 04. Released 2017, October 17)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE"
+   ],
+   [
+    "Body",
+    "145.7 x 69.7 x 7.8 mm (5.74 x 2.74 x 0.31 in); 143 g (5.04 oz); Glass front (Gorilla Glass 5), aluminum/glass back, aluminum frame; Nano-SIM + eSIM"
+   ],
+   [
+    "Display",
+    "AMOLED; 5.0 inches, 68.9 cm2 (~67.9% screen-to-body ratio); 1080 x 1920 pixels, 16:9 ratio (~441 ppi density); Corning Gorilla Glass 5"
+   ],
+   [
+    "OS",
+    "Android 8.0 (Oreo), upgradable to Android 11"
+   ],
+   [
+    "Chipset",
+    "Qualcomm MSM8998 Snapdragon 835 (10 nm); CPU Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo); GPU Adreno 540"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB; No"
+   ],
+   [
+    "Main Camera",
+    "12.2 MP, f/1.8, 27mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS; Laser AF, Dual-LED flash, HDR, panorama; video 4K@30fps (gyro-EIS), 1080p@30/60/120fps (gyro-EIS), 720p@240fps (gyro-EIS)"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.4, 27mm (wide), 1/3.2\", 1.4µm; HDR; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA"
+   ],
+   [
+    "Bluetooth",
+    "5.0, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, BDS, GALILEO"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.1"
+   ],
+   [
+    "Battery",
+    "Li-Ion 2700 mAh, non-removable"
+   ],
+   [
+    "Charging",
+    "10.5W wired (capped), PD2.0"
+   ],
+   [
+    "Colors",
+    "Kinda Blue, Just Black, Clearly White"
+   ]
+  ],
+  "slug": "google-pixel-2",
+  "source": "https://www.gsmarena.com/google_pixel_2-8733.php",
+  "tag": "5.0\" display · Qualcomm MSM8998 Snapdragon 83 · 4 GB RAM · 2700 mAh",
+  "year": 2017
+ },
+ {
+  "brand": "Google",
+  "cat": "Smartphones",
+  "hl": [
+   "5.5\" display",
+   "Qualcomm MSM8996 Snapdragon 82",
+   "4 GB RAM",
+   "3450 mAh"
+  ],
+  "name": "Google Pixel XL",
+  "price": 49999,
+  "price_src": "https://priceoye.pk/mobiles/google/google-pixel-xl",
+  "rows": [
+   [
+    "Launch Year",
+    "2016 (announced 2016, October 04. Released 2016, October 20)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "154.7 x 75.7 x 8.5 mm (6.09 x 2.98 x 0.33 in); 168 g (5.93 oz); Glass front (Gorilla Glass 4), aluminum/glass back, aluminum frame; Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED; 5.5 inches, 83.4 cm2 (~71.2% screen-to-body ratio); 1440 x 2560 pixels, 16:9 ratio (~534 ppi density); Corning Gorilla Glass 4"
+   ],
+   [
+    "OS",
+    "Android 7.1 (Nougat), upgradable to Android 10"
+   ],
+   [
+    "Chipset",
+    "Qualcomm MSM8996 Snapdragon 821 (14 nm); CPU Quad-core (2x2.15 GHz Kryo & 2x1.6 GHz Kryo); GPU Adreno 530"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "32 GB / 128 GB; No"
+   ],
+   [
+    "Main Camera",
+    "12.3 MP, f/2.0, 1/2.3\", 1.55µm, PDAF; Laser AF, Dual-LED flash, HDR, panorama; video 4K@30fps, 1080p@60/120fps, 1080p@30fps (gyro-EIS), 720p@240fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.4, 1/3.2\", 1.4µm; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA"
+   ],
+   [
+    "Bluetooth",
+    "4.2, A2DP, LE, aptX"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.0"
+   ],
+   [
+    "Battery",
+    "Li-Ion 3450 mAh, non-removable"
+   ],
+   [
+    "Charging",
+    "18W wired, PD"
+   ],
+   [
+    "Colors",
+    "Quite Black, Very Silver, Really Blue"
+   ]
+  ],
+  "slug": "google-pixel-xl",
+  "source": "https://www.gsmarena.com/google_pixel_xl-8345.php",
+  "tag": "5.5\" display · Qualcomm MSM8996 Snapdragon 82 · 4 GB RAM · 3450 mAh",
+  "year": 2016
+ },
+ {
+  "brand": "Google",
+  "cat": "Tablets",
+  "hl": [
+   "10.2\" display",
+   "Nvidia Tegra X1",
+   "3 GB RAM",
+   "9240 mAh"
+  ],
+  "name": "Google Pixel C",
+  "price": 104999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2015 (announced 2015, September 29. Released 2015, December 08)"
+   ],
+   [
+    "Network",
+    "No cellular connectivity"
+   ],
+   [
+    "Body",
+    "242 x 179 x 7 mm (9.53 x 7.05 x 0.28 in); 517 g (1.14 lb); No"
+   ],
+   [
+    "Display",
+    "IPS LCD; 10.2 inches, 313.8 cm2 (~72.4% screen-to-body ratio); 2560 x 1800 pixels (~308 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 6.0.1 (Marshmallow), upgradable to Android 8.0 (Oreo)"
+   ],
+   [
+    "Chipset",
+    "Nvidia Tegra X1; CPU Quad-core 1.9 GHz; GPU Nvidia Maxwell"
+   ],
+   [
+    "RAM",
+    "3 GB"
+   ],
+   [
+    "Storage",
+    "32 GB / 64 GB; No"
+   ],
+   [
+    "Main Camera",
+    "8 MP, f/2.4; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "2 MP; video"
+   ],
+   [
+    "Sensors",
+    "Accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "4.1, A2DP"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.0"
+   ],
+   [
+    "Battery",
+    "Li-Po 9240 mAh, non-removable (34.2 Wh)"
+   ],
+   [
+    "Colors",
+    "Silver Aluminum"
+   ]
+  ],
+  "slug": "google-pixel-c",
+  "source": "https://www.gsmarena.com/google_pixel_c-7826.php",
+  "tag": "10.2\" display · Nvidia Tegra X1 · 3 GB RAM · 9240 mAh",
+  "year": 2015
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.83\" display",
+   "Qualcomm SM8850-AC Snapdragon ",
+   "12 GB RAM",
+   "9000 mAh"
+  ],
+  "name": "vivo iQOO Neo12",
+  "price": 176999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, October 28, released 2026, October 28)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.4 x 75.9 x 8.5 mm (6.43 x 2.99 x 0.33 in); 225 g or 229 g (7.94 oz); Glass front, aluminum frame, glass-fiber reinforced plastic back or glass back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 185Hz, HDR, 1000 nits (typ), 2200 nits (HBM); 6.83 inches, 112.6 cm2 (~90.8% screen-to-body ratio); 1440 x 3200 pixels, 20:9 ratio (~514 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, OriginOS 7"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, 23mm (wide), 1/1.56\", PDAF, OIS 8 MP, f/2.2, (ultrawide); LED flash, panorama, HDR; video 8K, 4K, 1080p, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.5, (wide); video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 9000 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, 44W UFCS, 55W PPS Reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Blue, Gray"
+   ]
+  ],
+  "slug": "vivo-iqoo-neo12-5g-(china)",
+  "source": "https://www.gsmarena.com/vivo_iqoo_neo12_5g_(china)-15041.php",
+  "tag": "6.83\" display · Qualcomm SM8850-AC Snapdragon  · 12 GB RAM · 9000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.87\" display",
+   "Unisoc T7300",
+   "4 GB RAM",
+   "8000 mAh"
+  ],
+  "name": "vivo Y32",
+  "price": 75999,
+  "price_src": "https://priceoye.pk/mobiles/vivo/vivo-y32",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, October 06, released 2026, October 06)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "169.6 x 79.2 x 8.7 mm (6.68 x 3.12 x 0.34 in); 229 g (8.08 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 1000 nits (HBM), 1300 nits (peak); 6.87 inches, 114.3 cm2 (~85.1% screen-to-body ratio); 720 x 1592 pixels (~254 ppi density); Schott Xensation Up"
+   ],
+   [
+    "OS",
+    "Android 16, OriginOS 6"
+   ],
+   [
+    "Chipset",
+    "Unisoc T7300 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MP2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB"
+   ],
+   [
+    "Storage",
+    "128 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash, HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.1, (wide); video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 8000 mAh"
+   ],
+   [
+    "Charging",
+    "44W wired Reverse wired"
+   ],
+   [
+    "Colors",
+    "Twilight Red, Sunset Orange"
+   ]
+  ],
+  "slug": "vivo-y32-(2026)",
+  "source": "https://www.gsmarena.com/vivo_y32_(2026)-14992.php",
+  "tag": "6.87\" display · Unisoc T7300 · 4 GB RAM · 8000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.59\" display",
+   "Qualcomm SM7750-AB Snapdragon ",
+   "8 GB RAM",
+   "7200 mAh"
+  ],
+  "name": "vivo V80",
+  "price": 179999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, October 06, released 2026, October 13)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "157.5 x 74.3 x 7.7 mm (6.20 x 2.93 x 0.30 in); 203 g (7.16 oz); Glass front, aluminum frame, glass back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 144Hz, HDR10+, 4320Hz PWM, 1800 nits (HBM), 5000 nits (peak); 6.59 inches, 106.1 cm2 (~90.7% screen-to-body ratio); 1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density); Schott Xensation Core"
+   ],
+   [
+    "OS",
+    "Android 17, up to 4 major OS updates, OriginOS 7"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7750-AB Snapdragon 7 Gen 4 (4 nm); CPU Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520); GPU Adreno 722"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 50 MP, f/2.7, 73mm (periscope telephoto), 1/1.95\", 0.8µm, PDAF, OIS, 3x optical zoom 8 MP, f/2.2, 15mm, 115˚ (ultrawide); Zeiss optics, Ring-LED flash, panorama, HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, OIS, HDR, LUT"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 21mm (wide), 1/2.76\", 0.64µm, AF; Zeiss optics, HDR; video 4K@30fps, 1080p@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, compass, proximity"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7200 mAh"
+   ],
+   [
+    "Charging",
+    "90W wired, PD, 50% in 30 min Reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Starwish Purple, Sunrise Anthem, Horizon Blue (Wander Green), Stellar Black (Vast Gray)"
+   ]
+  ],
+  "slug": "vivo-v80-5g",
+  "source": "https://www.gsmarena.com/vivo_v80_5g-14989.php",
+  "tag": "6.59\" display · Qualcomm SM7750-AB Snapdragon  · 8 GB RAM · 7200 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Tablets",
+  "hl": [
+   "8.8\" display",
+   "Qualcomm SM8975 Snapdragon 8 E",
+   "12 GB RAM",
+   "9020 mAh"
+  ],
+  "name": "vivo iQOO Pad Ultra",
+  "price": 266999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 29, released 2026, October 05)"
+   ],
+   [
+    "Network",
+    "No cellular connectivity"
+   ],
+   [
+    "Body",
+    "197.4 x 126.3 x 5.7 mm (7.77 x 4.97 x 0.22 in); 298 g (10.51 oz); Glass front, aluminum back, aluminum frame; No"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 165Hz, HDR10+, 1600 nits (HBM), 4500 nits (peak); 8.8 inches, 224.5 cm2 (~90.1% screen-to-body ratio); 1440 x 2304 pixels, 16:10 ratio (~309 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, OriginOS 7 HD"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8975 Snapdragon 8 Elite Extreme Gen 6 (2 nm); CPU Octa-core (2x5.01 GHz Prime + 3x4.03 GHz Performance + 3x3.74 GHz Performance); GPU Adreno 850"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "13 MP; video 4K, 1080p"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Accelerometer, gyro, proximity (accessories only)"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "No"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2 Gen2, OTG, video output"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 9020 mAh"
+   ],
+   [
+    "Charging",
+    "66W wired, PD 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Silver"
+   ]
+  ],
+  "slug": "vivo-iqoo-pad-ultra",
+  "source": "https://www.gsmarena.com/vivo_iqoo_pad_ultra-14978.php",
+  "tag": "8.8\" display · Qualcomm SM8975 Snapdragon 8 E · 12 GB RAM · 9020 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.87\" display",
+   "Qualcomm SM4450 Snapdragon 4 G",
+   "6 GB RAM",
+   "8000 mAh"
+  ],
+  "name": "vivo Y600i",
+  "price": 80999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 25, released 2026, September 30)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "169.6 x 79.2 x 8.7 mm (6.68 x 3.12 x 0.34 in); 229 g (8.08 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 1000 nits (HBM), 1300 nits (peak); 6.87 inches, 114.3 cm2 (~85.1% screen-to-body ratio); 720 x 1592 pixels (~254 ppi density); Diamond Shield Glass"
+   ],
+   [
+    "OS",
+    "Android 16, OriginOS 6"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm); CPU Octa-core (2x2.2 GHz Cortex-A78 & 6x1.95 GHz Cortex-A55); GPU Adreno 613"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF; LED flash, HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.1, (wide); video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.1, A2DP, aptX Adaptive"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 8000 mAh"
+   ],
+   [
+    "Charging",
+    "44W wired Reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Blue, White"
+   ]
+  ],
+  "slug": "vivo-y600i-5g",
+  "source": "https://www.gsmarena.com/vivo_y600i_5g-14964.php",
+  "tag": "6.87\" display · Qualcomm SM4450 Snapdragon 4 G · 6 GB RAM · 8000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.85\" display",
+   "Mediatek Dimensity 9600 Pro",
+   "12 GB RAM",
+   "6750 mAh"
+  ],
+  "name": "vivo X500 Pro Max",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 21, released 2026, September 24)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.3 x 76.8 x 8.1 mm (6.43 x 3.02 x 0.32 in); 225 g or 229 g (7.94 oz); Glass front (Armor Glass), aluminum frame, glass back or glass-fiber reinforced plastic back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International Nano-SIM + Nano-SIM - China"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED, 1B colors, 144Hz, HDR10+, Dolby Vision, 2000 nits (HBM), 4400 nits (peak); 6.85 inches, 114.5 cm2 (~91.3% screen-to-body ratio); 1440 x 3168 pixels (~507 ppi density); Armor Glass"
+   ],
+   [
+    "OS",
+    "Android 17, up to 5 major OS updates, OriginOS 7"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 9600 Pro (2 nm); CPU Octa-core (2x4.55 GHz & 3x4.35 GHz & 3x3.1 GHz); GPU Mali-G2-Ultra-NX"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.6, 24mm (wide), 1/1.28\", 1.22µm, PDAF, OIS 200 MP, f/2.7, 85mm (periscope telephoto), 1/1.4\", 0.56µm, multi-directional PDAF, OIS, 3.5x optical zoom 50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.75\", 0.64µm, AF; Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import; video 8K@30fps, 4K@30/60/120/240fps, 1080p@30/60/120/240fps, 17 EV TrueDynamic Log, Dolby Vision HDR, 4K@120fps 10-bit Log, 10-bit 422 APV"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 20mm (wide), 1/2.76\", 0.64µm, AF; HDR; video 4K@30/60fps, 1080p@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4/6.0, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 6750 mAh (EU) Si/C Li-Ion 7800 mAh (Global) Si/C Li-Ion 8000 mAh (China)"
+   ],
+   [
+    "Charging",
+    "90W wired 40W wireless Reverse wireless Reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Gray, White, Orange"
+   ]
+  ],
+  "slug": "vivo-x500-pro-max-5g",
+  "source": "https://www.gsmarena.com/vivo_x500_pro_max_5g-14782.php",
+  "tag": "6.85\" display · Mediatek Dimensity 9600 Pro · 12 GB RAM · 6750 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.36\" display",
+   "Mediatek Dimensity 9600 Pro",
+   "12 GB RAM",
+   "6510 mAh"
+  ],
+  "name": "vivo X500 Pro",
+  "price": 390999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 21, released 2026, September 29)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "151.8 x 71.9 x 8.1 mm (5.98 x 2.83 x 0.32 in); 192 g or 197 g (6.77 oz); Glass front, aluminum frame, glass back or glass-fiber reinforced plastic back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International Nano-SIM + Nano-SIM - China"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED, 1B colors, 144Hz, HDR10+, Dolby Vision, 2000 nits (HBM), 4500 nits (peak); 6.36 inches, 99.1 cm2 (~90.8% screen-to-body ratio); 1216 x 2660 pixels, 19.5:9 ratio (~459 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, up to 5 major OS updates, OriginOS 7"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 9600 Pro (2 nm); CPU Octa-core (2x4.55 GHz & 3x4.35 GHz & 3x3.1 GHz); GPU Mali-G2-Ultra-NX"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.6, 24mm (wide), 1/1.28\", 1.22µm, PDAF, OIS 64 MP, f/2.5, 85mm (periscope telephoto), 1/2.0\", 0.7µm, PDAF (18cm - ∞), OIS, 3.5x optical zoom 50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.75\", 0.64µm, AF; Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import; video 8K@30fps, 4K@30/60/120/240fps, 1080p@30/60/120/240fps, 17 EV TrueDynamic Log, Dolby Vision HDR, 4K@120fps 10-bit Log, 10-bit 422 APV"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 20mm (wide), 1/2.76\", 0.64µm, AF; HDR; video 4K@30/60fps, 1080p@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4/6.0, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 6510 mAh"
+   ],
+   [
+    "Charging",
+    "90W wired 40W wireless Reverse wireless Reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Gray, White, Orange"
+   ]
+  ],
+  "slug": "vivo-x500-pro-5g",
+  "source": "https://www.gsmarena.com/vivo_x500_pro_5g-14950.php",
+  "tag": "6.36\" display · Mediatek Dimensity 9600 Pro · 12 GB RAM · 6510 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.59\" display",
+   "Mediatek Dimensity 9600M",
+   "12 GB RAM",
+   "7500 mAh"
+  ],
+  "name": "vivo X500",
+  "price": 318999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 21, released 2026, September 24)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "157 x 75 x 8.2 mm (6.18 x 2.95 x 0.32 in); 211 g or 213 g (7.44 oz); Glass front, aluminum frame, glass back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International Nano-SIM + Nano-SIM - China"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 144Hz, HDR10+, 2000 nits (HBM), 4000 nits (peak); 6.59 inches, 106.1 cm2 (~90.1% screen-to-body ratio); 1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, up to 5 major OS updates, OriginOS 7"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 9600M (3 nm); CPU Octa-core (1x4.21 GHz & 3x3.5 GHz & 4x2.7 GHz); GPU ARM Mali-G1 Ultra MC12"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.7, 23mm (wide), 1/1.28\", 1.22µm, PDAF, OIS 64 MP, f/2.6, 72mm (periscope telephoto), 1/2.0\", 0.7µm, PDAF (15cm - ∞), OIS, 3x optical zoom 50 MP, f/2.0, 15mm, 119˚ (ultrawide), 1/2.76\", 0.64µm, AF; Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import; video 8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, HDR, gyro-EIS, 4K@120fps 10-bit Log"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 20mm (wide), 1/2.76\", 0.64µm, AF; HDR; video 4K@30/60fps, 1080p@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4/6.0, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7500 mAh"
+   ],
+   [
+    "Charging",
+    "90W wired 40W wireless Reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Gray, White, Pink"
+   ]
+  ],
+  "slug": "vivo-x500-5g",
+  "source": "https://www.gsmarena.com/vivo_x500_5g-14951.php",
+  "tag": "6.59\" display · Mediatek Dimensity 9600M · 12 GB RAM · 7500 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.83\" display",
+   "Mediatek Dimensity 7500 Turbo",
+   "6 GB RAM",
+   "7050 mAh"
+  ],
+  "name": "vivo T5",
+  "price": 89999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 02, released 2026, September 11)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "164.4 x 75.3 x 8 mm (6.47 x 2.96 x 0.31 in); 199 g (7.02 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 144Hz, HDR, 2000 nits (HBM), 3000 nits (peak); 6.83 inches, 112.6 cm2 (~91.0% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, up to 3 major OS updates, OriginOS 6"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7500 Turbo (4 nm); CPU Octa-core (4x2.6 GHz Arm C1 Pro & 4x2.0 GHz Arm C1 Nano); GPU Mali-G625 MC"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 26mm (wide), 1/1.95\", PDAF, OIS 8 MP, f/2.2, 15mm (ultrawide), 1/4.0\"; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.0, 24mm (wide); video 4K@30fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Ion 7050 mAh"
+   ],
+   [
+    "Charging",
+    "44W wired, PPS, 44% in 30 min Reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Royal Bronze, Silver Green"
+   ]
+  ],
+  "slug": "vivo-t5-5g",
+  "source": "https://www.gsmarena.com/vivo_t5_5g-14899.php",
+  "tag": "6.83\" display · Mediatek Dimensity 7500 Turbo · 6 GB RAM · 7050 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.83\" display",
+   "Mediatek Dimensity 7360 Turbo",
+   "8 GB RAM",
+   "7050 mAh"
+  ],
+  "name": "vivo V80 Lite (IN/PK)",
+  "price": 120999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 26, released 2026, August 26)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "164.4 x 75.3 x 8 mm (6.47 x 2.96 x 0.31 in); 197 g or 199 g (6.95 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 120Hz, HDR10+, 2000 nits (HBM), 3000 nits (peak); 6.83 inches, 112.6 cm2 (~91.0% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, up to 3 major OS updates, OriginOS 6"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7360 Turbo (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.93\", PDAF Auxiliary lens; LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.0, (wide); video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Ion 7050 mAh"
+   ],
+   [
+    "Charging",
+    "44W wired Reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Sapphire Blue, Regal Bronze, Silk White"
+   ]
+  ],
+  "slug": "vivo-v80-lite-5g-(india)",
+  "source": "https://www.gsmarena.com/vivo_v80_lite_5g_(india)-14863.php",
+  "tag": "6.83\" display · Mediatek Dimensity 7360 Turbo · 8 GB RAM · 7050 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.83\" display",
+   "Unisoc T7300",
+   "8 GB RAM",
+   "8100 mAh"
+  ],
+  "name": "vivo V70 Lite 4G",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 22, released 2026, August)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "163.7 x 76.2 x 8.2 mm (6.44 x 3.00 x 0.32 in); 210 g (7.41 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, HDR, 120Hz, 2000 nits (HBM), 5000 nits (peak); 6.83 inches, 112.6 cm2 (~90.3% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, OriginOS 6"
+   ],
+   [
+    "Chipset",
+    "Unisoc T7300 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MP2"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.93\" Auxiliary lens; LED flash, HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.0, (wide); video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 8100 mAh"
+   ],
+   [
+    "Charging",
+    "44W wired Reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Midnight Blue, Pearl White"
+   ]
+  ],
+  "slug": "vivo-v70-lite",
+  "source": "https://www.gsmarena.com/vivo_v70_lite-14898.php",
+  "tag": "6.83\" display · Unisoc T7300 · 8 GB RAM · 8100 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.83\" display",
+   "MediaTek Dimensity 9500M",
+   "12 GB RAM",
+   "9100 mAh"
+  ],
+  "name": "vivo iQOO Neo11 Ultra",
+  "price": 132999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 18, released 2026, August 18)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.4 x 75.9 x 8.6 mm (6.43 x 2.99 x 0.34 in); 225 g or 230 g (7.94 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 144Hz, 2160Hz PWM, 1100 nits (typ), 2000 nits (HBM), 4500 nits (peak); 6.83 inches, 112.6 cm2 (~90.8% screen-to-body ratio); 1440 x 3200 pixels, 20:9 ratio (~514 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, Origin OS 6.0"
+   ],
+   [
+    "Chipset",
+    "MediaTek Dimensity 9500M (3 nm); CPU Octa-core (1x4.21 GHz & 3x3.5 GHz & 4x2.7 GHz); GPU ARM G1-Ultra"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, (ultrawide); Color spectrum sensor, LED flash, panorama, HDR; video 8K, 4K, 1080p; gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.5, (wide); video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GALILEO (E1+E5a+E5b), QZSS (L1+L5), BDS (B1l+B1C+ B2a+B2b), GLONASS, NavIC (L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 9100 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired Reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, White, Blue"
+   ]
+  ],
+  "slug": "vivo-iqoo-neo11-ultra-5g",
+  "source": "https://www.gsmarena.com/vivo_iqoo_neo11_ultra_5g-14878.php",
+  "tag": "6.83\" display · MediaTek Dimensity 9500M · 12 GB RAM · 9100 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.83\" display",
+   "Mediatek Dimensity 7360 Turbo",
+   "8 GB RAM",
+   "7050 mAh"
+  ],
+  "name": "vivo S2",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 06, released 2026, August 11)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "164.4 x 75.3 x 8 mm (6.47 x 2.96 x 0.31 in); 197 g or 199 g (6.95 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 120Hz, 3000 nits (peak); 6.83 inches, 113.1 cm2 (~91.4% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~449 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, up to 3 major OS updates, OriginOS 6"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7360 Turbo (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.93\", PDAF Auxiliary lens; LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.0, (wide); video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Ion 7050 mAh"
+   ],
+   [
+    "Charging",
+    "44W wired Reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Sapphire Blue, Regal Bronze, Silk White"
+   ]
+  ],
+  "slug": "vivo-s2-5g",
+  "source": "https://www.gsmarena.com/vivo_s2_5g-14839.php",
+  "tag": "6.83\" display · Mediatek Dimensity 7360 Turbo · 8 GB RAM · 7050 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.74\" display",
+   "Unisoc T7225",
+   "4 GB RAM",
+   "5150 mAh"
+  ],
+  "name": "vivo Y05e",
+  "price": 36999,
+  "price_src": "https://priceoye.pk/mobiles/vivo/vivo-y05e",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, July, released 2026, July)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "167.3 x 77 x 8.2 mm (6.59 x 3.03 x 0.32 in); 199 g (7.02 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 90Hz, 570 nits (HBM); 6.74 inches, 109.7 cm2 (~85.1% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, OriginOS 6"
+   ],
+   [
+    "Chipset",
+    "Unisoc T7225 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MP1"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "8 MP, f/2.0 (wide); LED flash, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP, f/2.2, (wide); video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.2, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, QZSS, BDS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Ion 5150 mAh"
+   ],
+   [
+    "Charging",
+    "15W wired Reverse wired"
+   ],
+   [
+    "Colors",
+    "Teal, Black"
+   ]
+  ],
+  "slug": "vivo-y05e",
+  "source": "https://www.gsmarena.com/vivo_y05e-15004.php",
+  "tag": "6.74\" display · Unisoc T7225 · 4 GB RAM · 5150 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.74\" display",
+   "Unisoc T7225",
+   "4 GB RAM",
+   "6500 mAh"
+  ],
+  "name": "vivo Y11d",
+  "price": 51499,
+  "price_src": "https://priceoye.pk/mobiles/vivo/vivo-y11d",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, June, released 2026, June)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "167.4 x 77.1 x 8.4 mm (6.59 x 3.04 x 0.33 in); 209 g (7.37 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 1200 nits (HBM); 6.74 inches, 109.7 cm2 (~85.0% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, OriginOS 6"
+   ],
+   [
+    "Chipset",
+    "Unisoc T7225 (12 nm); CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MP1"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide) Auxiliary lens; LED flash; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP, f/2.2, (wide); video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.2, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "6500 mAh"
+   ],
+   [
+    "Charging",
+    "44W wired, 50% in 40 min Reverse wired"
+   ],
+   [
+    "Colors",
+    "Horizon White, Pearl Black"
+   ]
+  ],
+  "slug": "vivo-y11d",
+  "source": "https://www.gsmarena.com/vivo_y11d-14945.php",
+  "tag": "6.74\" display · Unisoc T7225 · 4 GB RAM · 6500 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "8.02\" display",
+   "Mediatek Dimensity 9500 Super",
+   "12 GB RAM",
+   "6900 mAh"
+  ],
+  "name": "vivo X Fold6",
+  "price": 641999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, June 26, released 2026, July 01)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "Unfolded: 157.2 x 145.7 x 4.4 mm or 4.8 mmFolded: 157.2 x 74.3 x 9.4 mm or 9.9 mm; 228 g or 235 g (8.04 oz); Glass front (closed), aluminum frame, glass-fiber reinforced plastic back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Foldable LTPO AMOLED, 1B colors, 120Hz, HDR10+, HDR Vivid, Dolby Vision; 8.02 inches, 207.8 cm2 (~90.7% screen-to-body ratio); 2312 x 2504 pixels (~424 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, OriginOS 7 Fold (INT)Android 16, OriginOS 6 Fold (CN)"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 9500 Super (3 nm); CPU Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro); GPU Mali G1-Ultra MC12"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.7, 23mm (wide), 1/1.4\", 0.56µm, multi-directional PDAF, OIS 50 MP, f/2.6, 70mm (periscope telephoto), 1/1.95\", 0.8µm, multi-directional PDAF, OIS, 3x optical zoom 50 MP, f/2.1, 15mm, 119˚ (ultrawide), 1/2.76\", 0.64µm, PDAF; Color spectrum sensor, Laser AF, Zeiss optics, Zeiss T* lens coating, Dual-LED flash, panorama; video 8K@30fps, 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "20 MP, f/2.4, 21mm (wide), 1/3.6\", 0.61µm Cover camera: 20 MP, f/2.4, 21mm (wide), 1/3.6\", 0.61µm; HDR; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band or tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4/6.0, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L1+L5), GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2 Gen2, OTG, Display Port"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 6900 mAh or 7000 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 55W PPS 40W wireless Reverse wired 5W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Nebula Teal, Prism Black, White"
+   ]
+  ],
+  "slug": "vivo-x-fold6-5g",
+  "source": "https://www.gsmarena.com/vivo_x_fold6_5g-14748.php",
+  "tag": "8.02\" display · Mediatek Dimensity 9500 Super · 12 GB RAM · 6900 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.75\" display",
+   "Qualcomm Snapdragon 6s 4G Gen ",
+   "6 GB RAM",
+   "7200 mAh"
+  ],
+  "name": "vivo T5 4G",
+  "price": 89999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, May 29, released 2026, May 29)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "166.6 x 78.4 x 8.4 mm (6.56 x 3.09 x 0.33 in); 219 g (7.72 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 1250 nits (HBM); 6.75 inches, 111.4 cm2 (~85.3% screen-to-body ratio); 720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, OriginOS 6"
+   ],
+   [
+    "Chipset",
+    "Qualcomm Snapdragon 6s 4G Gen 2 (6 nm); CPU Octa-core (4x2.9 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53); GPU Adreno 610"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/2.0, (wide) Auxiliary lens; LED flash, HDR, panorama; video Yes"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.5, (wide); video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.1, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7200 mAh"
+   ],
+   [
+    "Charging",
+    "44W wired, 50% in 43 min Reverse wired"
+   ],
+   [
+    "Colors",
+    "Gold, Black"
+   ]
+  ],
+  "slug": "vivo-t5",
+  "source": "https://www.gsmarena.com/vivo_t5-14697.php",
+  "tag": "6.75\" display · Qualcomm Snapdragon 6s 4G Gen  · 6 GB RAM · 7200 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.83\" display",
+   "Qualcomm SM7635-AC Snapdragon ",
+   "8 GB RAM",
+   "9020 mAh"
+  ],
+  "name": "vivo Y600 Turbo",
+  "price": 89999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, May 25, released 2026, May 27)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.7 x 76.2 x 8.3 mm (6.44 x 3.00 x 0.33 in); 215 g (7.58 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 4320Hz PWM, HDR, 1000 nits, 2000 nits (HBM), 5000 nits (peak); 6.83 inches, 112.6 cm2 (~90.3% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, OriginOS 6"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7635-AC Snapdragon 7s Gen 4 (4 nm); CPU Octa-core (1x2.7 GHz Cortex-A720 & 3x2.4 GHz Cortex-A720 & 4x1.8 GHz Cortex-A520); GPU Adreno 810"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash, HDR, panorama; video 4K, 1080p, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.1, (wide); video 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.2, A2DP, LE, aptX HD, aptX Adaptive"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1C+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 9020 mAh"
+   ],
+   [
+    "Charging",
+    "90W wired, 44W UFCS, 55W PD/PPS Reverse wired"
+   ],
+   [
+    "Colors",
+    "Gold, White, Blue"
+   ]
+  ],
+  "slug": "vivo-y600-turbo-5g",
+  "source": "https://www.gsmarena.com/vivo_y600_turbo_5g-14687.php",
+  "tag": "6.83\" display · Qualcomm SM7635-AC Snapdragon  · 8 GB RAM · 9020 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.83\" display",
+   "Qualcomm Snapdragon 7s Gen 4",
+   "8 GB RAM",
+   "9020 mAh"
+  ],
+  "name": "vivo iQOO Z11",
+  "price": 114999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, May 05, released 2026, May 05)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.7 x 76.2 x 8.3 mm (6.44 x 3.00 x 0.33 in); 213 g (7.51 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 144Hz, 2160Hz PWM, HDR, 800 nits (typ), 2000 nits (HBM), 5000 nits (peak); 6.83 inches, 112.6 cm2 (~90.3% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~450 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, Origin OS 6.0"
+   ],
+   [
+    "Chipset",
+    "Qualcomm Snapdragon 7s Gen 4; CPU Octa-core (1x2.7 GHz Kryo Prime + 3x2.4 GHz Kryo Gold + 4x1.8 GHz Kryo Silver); GPU Adreno 810"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/1.95\", PDAF, OIS Auxiliary lens; LED flash, panorama, HDR; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.0, (wide); video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.2, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS, GALILEO, BDS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 9020 mAh"
+   ],
+   [
+    "Charging",
+    "90W wired, 50% in 37 min 7.5W reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Cosmic Black, Glacier Blue"
+   ]
+  ],
+  "slug": "vivo-iqoo-z11-5g",
+  "source": "https://www.gsmarena.com/vivo_iqoo_z11_5g-14654.php",
+  "tag": "6.83\" display · Qualcomm Snapdragon 7s Gen 4 · 8 GB RAM · 9020 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.82\" display",
+   "Qualcomm SM8850-AC Snapdragon ",
+   "12 GB RAM",
+   "6600 mAh"
+  ],
+  "name": "vivo X300 Ultra",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, March 30, released 2026, April 03)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163 x 76.8 x 8.2 mm or 8.5 mm; 232 g or 237 g (8.18 oz); Glass front, glass back, aluminum frame; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED, 1B colors, 144Hz, 2160Hz PWM, Dolby Vision, HDR10+, HDR Vivid; 6.82 inches, 113.0 cm2 (~90.3% screen-to-body ratio); 1440 x 3168 pixels (~510 ppi density); Armor glass"
+   ],
+   [
+    "OS",
+    "Android 16, OriginOS 6"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.9, 35mm (wide), 1/1.12\", 0.7µm, PDAF, gimbal OIS 200 MP, f/2.7, 85mm (periscope telephoto), 1/1.4\", 0.56µm, multi-directional PDAF, OIS, 3.7x optical zoom, macro 3.4:1 50 MP, f/2.0, 14mm, 116˚ (ultrawide), 1/1.28\", 1.22µm, dual pixel PDAF, OIS Optional add-on zoom lenses: 200mm, 2.35x optical zoom, OIS, Zeiss optics 400mm, 4.7x optical zoom, OIS, Zeiss optics; Laser AF, color spectrum sensor, Zeiss optics, Zeiss T* lens coating, LED flash, panorama, HDR, 3D LUT import; video 8K@30fps, 4K@24/30/60/120fps (10-bit Log, Dolby Vision HDR), 1080p@30/60/120/240fps, gyro-EIS, HDR10+"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.5, 24mm (wide), 1/2.76\", 0.64µm, AF; HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG, DisplayPort"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 6600 mAh (International) or 6400 mAh (Europe)"
+   ],
+   [
+    "Charging",
+    "100W wired, PD, PPS, QC, UFCS 40W wireless Reverse wired Reverse wireless"
+   ],
+   [
+    "Colors",
+    "Eclipse Black, Victory Green, Silver"
+   ]
+  ],
+  "slug": "vivo-x300-ultra-5g",
+  "source": "https://www.gsmarena.com/vivo_x300_ultra_5g-14388.php",
+  "tag": "6.82\" display · Qualcomm SM8850-AC Snapdragon  · 12 GB RAM · 6600 mAh",
+  "year": 2026
+ }
 ]

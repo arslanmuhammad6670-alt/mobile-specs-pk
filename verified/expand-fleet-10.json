@@ -1,751 +1,751 @@
 [
-{
-"brand": "Infinix",
-"cat": "Smartphones",
-"hl": [
-"6.75\" display",
-"Mediatek Dimensity 6400",
-"4 GB RAM",
-"6000 mAh"
-],
-"name": "Infinix Hot 60i",
-"price": 52495,
-"price_src": "https://priceoye.pk/mobiles/infinix/infinix-hot-60i",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, August 16, released 2025, August 21)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"167.4 x 77.7 x 8.1 mm (6.59 x 3.06 x 0.32 in); 199 g (7.02 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 560 nits (typ), 670 nits (HBM); 6.75 inches, 110.0 cm2 (~84.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
-],
-[
-"OS",
-"Android 15, XOS 15.1"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6400 (6 nm); CPU Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"128 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.6, (wide), AF Auxiliary lens; Dual-LED flash, HDR, panorama; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"5 MP, f/2.0, (wide); video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"Yes"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"6000 mAh"
-],
-[
-"Charging",
-"18W wired 10W reverse wired Bypass charging"
-],
-[
-"Colors",
-"Shadow Blue, Sleek Black, Monsoon Green, Plum Red"
-]
-],
-"slug": "infinix-hot-60i-5g",
-"source": "https://www.gsmarena.com/infinix_hot_60i_5g-14072.php",
-"tag": "6.75\" display · Mediatek Dimensity 6400 · 4 GB RAM · 6000 mAh",
-"year": 2025
-},
-{
-"brand": "Tecno",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Dimensity 7300 Ultima",
-"6 GB RAM",
-"5500 mAh"
-],
-"name": "Tecno Pova Curve",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, May 29, released 2025, June 05)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"164.3 x 74.6 x 7.5 mm (6.47 x 2.94 x 0.30 in); 188.5 g (6.67 oz); Glass front (Gorilla Glass 7i), plastic frame, plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 144Hz, 2304Hz PWM, 1300 nits (peak); 6.78 inches, 109.9 cm2 (~89.7% screen-to-body ratio); 1080 x 2436 pixels (~393 ppi density); Corning Gorilla Glass 7i"
-],
-[
-"OS",
-"Android 15, planned upgrade to Android 16, HIOS 15"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7300 Ultimate (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"64 MP, f/1.8, (wide), 1/1.73\", 0.8µm, PDAF Auxiliary lens; LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps"
-],
-[
-"Selfie Camera",
-"13 MP; video 4K@30fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Li-Po 5500 mAh"
-],
-[
-"Charging",
-"45W wired, 50% in 15 min, 100% in 45 min"
-],
-[
-"Colors",
-"Neon Cyan, Magic Silver, Geek Black"
-]
-],
-"slug": "tecno-pova-curve-5g",
-"source": "https://www.gsmarena.com/tecno_pova_curve_5g-13915.php",
-"tag": "6.78\" display · Mediatek Dimensity 7300 Ultima · 6 GB RAM · 5500 mAh",
-"year": 2025
-},
-{
-"brand": "Tecno",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Helio G91",
-"8 GB RAM",
-"5000 mAh"
-],
-"name": "Tecno Spark 30",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2024 (announced 2024, September 21, released 2024, October)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"168 x 76.4 x 7.7 mm or 7.9 mm; -; Glass front, plastic frame, plastic back or silicone polymer (eco leather) back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 90Hz, 800 nits; 6.78 inches, 109.2 cm2 (~85.0% screen-to-body ratio); 1080 x 2460 pixels (~396 ppi density)"
-],
-[
-"OS",
-"Android 14, HIOS 14"
-],
-[
-"Chipset",
-"Mediatek Helio G91 (12 nm); CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MC2"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC"
-],
-[
-"Main Camera",
-"64 MP, (wide), 1/1.73\", 0.8µm, PDAF Auxiliary lens; Quad-LED flash, HDR; video 1440p@30fps, 1080p@30fps"
-],
-[
-"Selfie Camera",
-"13 MP, (wide); Dual-LED dual-tone flash; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted); unspecified sensors"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Yes"
-],
-[
-"Bluetooth",
-"Yes"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"18W wired"
-],
-[
-"Colors",
-"Stellar Shadow, Astral Ice, Magic Skin 3.0, Bumblebee Edition"
-]
-],
-"slug": "tecno-spark-30",
-"source": "https://www.gsmarena.com/tecno_spark_30-13356.php",
-"tag": "6.78\" display · Mediatek Helio G91 · 8 GB RAM · 5000 mAh",
-"year": 2024
-},
-{
-"brand": "Tecno",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Helio G200",
-"8 GB RAM",
-"5160 mAh"
-],
-"name": "Tecno Spark Slim",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, September 02, released 2025, October 10)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"164.2 x 75.9 x 5.9 mm (6.46 x 2.99 x 0.23 in); 156 g (5.50 oz); Glass front (Gorilla Glass 7i), glass-fiber reinforced plastic back; Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 144Hz, 1600 nits (HBM), 4500 nits (peak); 6.78 inches, 111.0 cm2 (~89.1% screen-to-body ratio); 1224 x 2720 pixels, 20:9 ratio (~440 ppi density); Corning Gorilla Glass 7i"
-],
-[
-"OS",
-"Android 15, HIOS 15"
-],
-[
-"Chipset",
-"Mediatek Helio G200 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2 (1.1GHz)"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, (wide), PDAF; Dual-LED flash; video 1440p@30fps, 1080p@30fps"
-],
-[
-"Selfie Camera",
-"13 MP, (wide); video Yes"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro"
-],
-[
-"Loudspeaker",
-"Yes, with dual speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Yes"
-],
-[
-"Bluetooth",
-"Yes"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C, OTG"
-],
-[
-"Battery",
-"5160 mAh"
-],
-[
-"Charging",
-"45W wired, 100% in 57 min 10W reverse wired Bypass charging"
-],
-[
-"Colors",
-"Slim White, Cool Black"
-]
-],
-"slug": "tecno-spark-slim",
-"source": "https://www.gsmarena.com/tecno_spark_slim-14112.php",
-"tag": "6.78\" display · Mediatek Helio G200 · 8 GB RAM · 5160 mAh",
-"year": 2025
-},
-{
-"brand": "Infinix",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Dimensity 7300 Ultima",
-"6 GB RAM",
-"5500 mAh"
-],
-"name": "Infinix Note 50s",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, April 18, released 2025, April 24)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"164.3 x 74.5 x 7.6 mm (6.47 x 2.93 x 0.30 in); 180 g (6.35 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 144Hz, 2304Hz PWM, 1300 nits (peak); 6.78 inches, 109.9 cm2 (~89.8% screen-to-body ratio); 1080 x 2436 pixels (~393 ppi density); Corning Gorilla Glass 5"
-],
-[
-"OS",
-"Android 15, up to 2 major OS updates, XOS 15"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7300 Ultimate (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"64 MP, f/1.8, (wide), 1/1.73\", 0.8µm, PDAF 2 MP; Dual-LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps"
-],
-[
-"Selfie Camera",
-"13 MP, f/2.2, (wide); video 4K@30fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"5500 mAh"
-],
-[
-"Charging",
-"45W wired, 100% in 60 min 10W reverse wired Bypass Charging"
-],
-[
-"Colors",
-"Marine Blue, Titanium Grey, Ruby Red"
-]
-],
-"slug": "infinix-note-50s-5g",
-"source": "https://www.gsmarena.com/infinix_note_50s_5g-13793.php",
-"tag": "6.78\" display · Mediatek Dimensity 7300 Ultima · 6 GB RAM · 5500 mAh",
-"year": 2025
-},
-{
-"brand": "Tecno",
-"cat": "Smartphones",
-"hl": [
-"6.74\" display",
-"Unisoc T7250",
-"4 GB RAM",
-"5000 mAh"
-],
-"name": "Tecno Pop X 4G",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, March 04, released 2026, March 06)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"167.7 x 77.8 x 8.1 mm (6.60 x 3.06 x 0.32 in); -; Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz; 6.74 inches, 109.7 cm2 (~84.1% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
-],
-[
-"OS",
-"Android 15, HIOS 15"
-],
-[
-"Chipset",
-"Unisoc T7250 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55); GPU Mali-G57 MP1"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"13 MP, f/1.9, (wide); Dual-LED; video Yes"
-],
-[
-"Selfie Camera",
-"8 MP; video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.2, A2DP, LE"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C, OTG"
-],
-[
-"Battery",
-"Li-Po 5000 mAh"
-],
-[
-"Charging",
-"15W wired"
-],
-[
-"Colors",
-"Flare White, Chilly Green"
-]
-],
-"slug": "tecno-pop-x",
-"source": "https://www.gsmarena.com/tecno_pop_x-14665.php",
-"tag": "6.74\" display · Unisoc T7250 · 4 GB RAM · 5000 mAh",
-"year": 2026
-},
-{
-"brand": "Infinix",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Dimensity 6300",
-"8 GB RAM",
-"5000 mAh"
-],
-"name": "Infinix Note 40X 5G",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2024 (announced 2024, August 05, released 2024, August 09)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"168.9 x 76.5 x 8.3 mm (6.65 x 3.01 x 0.33 in); 201 g (7.09 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 500; 6.78 inches, 109.2 cm2 (~84.5% screen-to-body ratio); 1080 x 2460 pixels (~396 ppi density)"
-],
-[
-"OS",
-"Android 14, XOS 14"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"256 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"108 MP, f/1.8, (wide), PDAF 2 MP (macro) Auxiliary lens; Quad-LED flash, HDR, panorama; video 1440p@30fps, 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"8 MP, (wide); Dual-LED flash; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with dual speakers"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"18W wired, 50% in 31 min Reverse wired"
-],
-[
-"Colors",
-"Palm Blue, Lime Green, Starlit Black"
-]
-],
-"slug": "infinix-note-40x-5g",
-"source": "https://www.gsmarena.com/infinix_note_40x_5g-13246.php",
-"tag": "6.78\" display · Mediatek Dimensity 6300 · 8 GB RAM · 5000 mAh",
-"year": 2024
-}
+ {
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "hl": [
+   "6.75\" display",
+   "Mediatek Dimensity 6400",
+   "4 GB RAM",
+   "6000 mAh"
+  ],
+  "name": "Infinix Hot 60i",
+  "price": 52495,
+  "price_src": "https://priceoye.pk/mobiles/infinix/infinix-hot-60i",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, August 16, released 2025, August 21)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "167.4 x 77.7 x 8.1 mm (6.59 x 3.06 x 0.32 in); 199 g (7.02 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 560 nits (typ), 670 nits (HBM); 6.75 inches, 110.0 cm2 (~84.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, XOS 15.1"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6400 (6 nm); CPU Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "128 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.6, (wide), AF Auxiliary lens; Dual-LED flash, HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP, f/2.0, (wide); video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "Yes"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "6000 mAh"
+   ],
+   [
+    "Charging",
+    "18W wired 10W reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Shadow Blue, Sleek Black, Monsoon Green, Plum Red"
+   ]
+  ],
+  "slug": "infinix-hot-60i-5g",
+  "source": "https://www.gsmarena.com/infinix_hot_60i_5g-14072.php",
+  "tag": "6.75\" display · Mediatek Dimensity 6400 · 4 GB RAM · 6000 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Dimensity 7300 Ultima",
+   "6 GB RAM",
+   "5500 mAh"
+  ],
+  "name": "Tecno Pova Curve",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, May 29, released 2025, June 05)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "164.3 x 74.6 x 7.5 mm (6.47 x 2.94 x 0.30 in); 188.5 g (6.67 oz); Glass front (Gorilla Glass 7i), plastic frame, plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 144Hz, 2304Hz PWM, 1300 nits (peak); 6.78 inches, 109.9 cm2 (~89.7% screen-to-body ratio); 1080 x 2436 pixels (~393 ppi density); Corning Gorilla Glass 7i"
+   ],
+   [
+    "OS",
+    "Android 15, planned upgrade to Android 16, HIOS 15"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7300 Ultimate (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "64 MP, f/1.8, (wide), 1/1.73\", 0.8µm, PDAF Auxiliary lens; LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Po 5500 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, 50% in 15 min, 100% in 45 min"
+   ],
+   [
+    "Colors",
+    "Neon Cyan, Magic Silver, Geek Black"
+   ]
+  ],
+  "slug": "tecno-pova-curve-5g",
+  "source": "https://www.gsmarena.com/tecno_pova_curve_5g-13915.php",
+  "tag": "6.78\" display · Mediatek Dimensity 7300 Ultima · 6 GB RAM · 5500 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Helio G91",
+   "8 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Tecno Spark 30",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 2024, September 21, released 2024, October)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "168 x 76.4 x 7.7 mm or 7.9 mm; -; Glass front, plastic frame, plastic back or silicone polymer (eco leather) back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 90Hz, 800 nits; 6.78 inches, 109.2 cm2 (~85.0% screen-to-body ratio); 1080 x 2460 pixels (~396 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 14, HIOS 14"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G91 (12 nm); CPU Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "64 MP, (wide), 1/1.73\", 0.8µm, PDAF Auxiliary lens; Quad-LED flash, HDR; video 1440p@30fps, 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP, (wide); Dual-LED dual-tone flash; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted); unspecified sensors"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "18W wired"
+   ],
+   [
+    "Colors",
+    "Stellar Shadow, Astral Ice, Magic Skin 3.0, Bumblebee Edition"
+   ]
+  ],
+  "slug": "tecno-spark-30",
+  "source": "https://www.gsmarena.com/tecno_spark_30-13356.php",
+  "tag": "6.78\" display · Mediatek Helio G91 · 8 GB RAM · 5000 mAh",
+  "year": 2024
+ },
+ {
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Helio G200",
+   "8 GB RAM",
+   "5160 mAh"
+  ],
+  "name": "Tecno Spark Slim",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, September 02, released 2025, October 10)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "164.2 x 75.9 x 5.9 mm (6.46 x 2.99 x 0.23 in); 156 g (5.50 oz); Glass front (Gorilla Glass 7i), glass-fiber reinforced plastic back; Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 144Hz, 1600 nits (HBM), 4500 nits (peak); 6.78 inches, 111.0 cm2 (~89.1% screen-to-body ratio); 1224 x 2720 pixels, 20:9 ratio (~440 ppi density); Corning Gorilla Glass 7i"
+   ],
+   [
+    "OS",
+    "Android 15, HIOS 15"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G200 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2 (1.1GHz)"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, (wide), PDAF; Dual-LED flash; video 1440p@30fps, 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP, (wide); video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with dual speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C, OTG"
+   ],
+   [
+    "Battery",
+    "5160 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, 100% in 57 min 10W reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Slim White, Cool Black"
+   ]
+  ],
+  "slug": "tecno-spark-slim",
+  "source": "https://www.gsmarena.com/tecno_spark_slim-14112.php",
+  "tag": "6.78\" display · Mediatek Helio G200 · 8 GB RAM · 5160 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Dimensity 7300 Ultima",
+   "6 GB RAM",
+   "5500 mAh"
+  ],
+  "name": "Infinix Note 50s",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, April 18, released 2025, April 24)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "164.3 x 74.5 x 7.6 mm (6.47 x 2.93 x 0.30 in); 180 g (6.35 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 144Hz, 2304Hz PWM, 1300 nits (peak); 6.78 inches, 109.9 cm2 (~89.8% screen-to-body ratio); 1080 x 2436 pixels (~393 ppi density); Corning Gorilla Glass 5"
+   ],
+   [
+    "OS",
+    "Android 15, up to 2 major OS updates, XOS 15"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7300 Ultimate (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "64 MP, f/1.8, (wide), 1/1.73\", 0.8µm, PDAF 2 MP; Dual-LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP, f/2.2, (wide); video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "5500 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, 100% in 60 min 10W reverse wired Bypass Charging"
+   ],
+   [
+    "Colors",
+    "Marine Blue, Titanium Grey, Ruby Red"
+   ]
+  ],
+  "slug": "infinix-note-50s-5g",
+  "source": "https://www.gsmarena.com/infinix_note_50s_5g-13793.php",
+  "tag": "6.78\" display · Mediatek Dimensity 7300 Ultima · 6 GB RAM · 5500 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "hl": [
+   "6.74\" display",
+   "Unisoc T7250",
+   "4 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Tecno Pop X 4G",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, March 04, released 2026, March 06)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "167.7 x 77.8 x 8.1 mm (6.60 x 3.06 x 0.32 in); -; Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz; 6.74 inches, 109.7 cm2 (~84.1% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, HIOS 15"
+   ],
+   [
+    "Chipset",
+    "Unisoc T7250 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55); GPU Mali-G57 MP1"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "13 MP, f/1.9, (wide); Dual-LED; video Yes"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP; video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.2, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Po 5000 mAh"
+   ],
+   [
+    "Charging",
+    "15W wired"
+   ],
+   [
+    "Colors",
+    "Flare White, Chilly Green"
+   ]
+  ],
+  "slug": "tecno-pop-x",
+  "source": "https://www.gsmarena.com/tecno_pop_x-14665.php",
+  "tag": "6.74\" display · Unisoc T7250 · 4 GB RAM · 5000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Dimensity 6300",
+   "8 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Infinix Note 40X 5G",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 2024, August 05, released 2024, August 09)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "168.9 x 76.5 x 8.3 mm (6.65 x 3.01 x 0.33 in); 201 g (7.09 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 500; 6.78 inches, 109.2 cm2 (~84.5% screen-to-body ratio); 1080 x 2460 pixels (~396 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 14, XOS 14"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "108 MP, f/1.8, (wide), PDAF 2 MP (macro) Auxiliary lens; Quad-LED flash, HDR, panorama; video 1440p@30fps, 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, (wide); Dual-LED flash; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with dual speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "18W wired, 50% in 31 min Reverse wired"
+   ],
+   [
+    "Colors",
+    "Palm Blue, Lime Green, Starlit Black"
+   ]
+  ],
+  "slug": "infinix-note-40x-5g",
+  "source": "https://www.gsmarena.com/infinix_note_40x_5g-13246.php",
+  "tag": "6.78\" display · Mediatek Dimensity 6300 · 8 GB RAM · 5000 mAh",
+  "year": 2024
+ }
 ]

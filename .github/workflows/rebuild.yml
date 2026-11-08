@@ -49,6 +49,9 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Install Pillow (image sizes in generated pages)
+        run: pip install Pillow
+
       - name: Build the site
         run: python3 build.py
 

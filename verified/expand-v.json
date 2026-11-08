@@ -1,0 +1,216 @@
+[
+ {
+  "brand": "OnePlus",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" LTPO AMOLED 165Hz",
+   "Snapdragon 8 Elite Gen 5",
+   "12 GB RAM",
+   "7300 mAh"
+  ],
+  "name": "OnePlus 15",
+  "price": 247999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, October 27, released 2025, October 28)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "161.4 x 76.7 x 8.1 mm (6.35 x 3.02 x 0.32 in); 211 g or 215 g (7.44 oz); Glass front (Gorilla Glass Victus 2), aluminum frame, glass back (Gorilla Glass 7i or Crystal Shield Glass) or glass-fiber reinforced plastic back; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED, 1B colors, 165Hz, PWM, Dolby Vision, HDR10+, HDR Vivid, 800 nits (typ), 1800 nits (HBM); 6.78 inches, 112.4 cm2 (~90.8% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density); Corning Gorilla Glass Victus 2"
+   ],
+   [
+    "OS",
+    "Android 16, upgradable to Android 17, OxygenOS 17 (Global), ColorOS (China)"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8850-AC Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.6 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS 50 MP, f/2.8, 80mm (periscope telephoto), 1/2.76\", 0.64µm, 3.5x optical zoom, PDAF, OIS 50 MP, f/2.0, 16mm, 116˚ (ultrawide), 1/2.88\", 0.61µm, PDAF; Laser focus, color spectrum sensor, LED flash, HDR, panorama, LUT preview; video 8K@30fps, 4K@30/60/120fps, 1080p@30/60/240fps, HDR, gyro-EIS, Dolby Vision, LUT"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.4, 21mm (wide), 1/2.74\", 0.64µm, AF; HDR, panorama; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, proximity, gyro (UAV-grade), compass, barometer (exc. China)"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual or tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7300 mAh"
+   ],
+   [
+    "Charging",
+    "120W wired, 120W UFCS, 55W PPS, 36W PD, 36W QC, 50% in 15 min, 100% in 40 min 50W wireless 10W reverse wireless 5W reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Infinite Black, Ultra Violet, Sand Storm"
+   ]
+  ],
+  "slug": "oneplus-15-5g",
+  "source": "https://www.gsmarena.com/oneplus_15_5g-14206.php",
+  "tag": "Upcoming — expected 13 Nov 2026: OnePlus ka naya flagship, 165Hz display aur 7300 mAh battery ke sath",
+  "year": 2025
+ },
+ {
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "hl": [
+   "6.56\" IPS LCD 90Hz",
+   "Kirin 8000S",
+   "6 GB RAM",
+   "6100 mAh"
+  ],
+  "name": "Huawei Enjoy 100",
+  "price": 60999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, October 28)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "163.8 x 75.2 x 9 mm (6.45 x 2.96 x 0.35 in); 204 g (7.20 oz); Glass front, aluminum back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 90Hz, 1150 nits (HBM); 6.56 inches, 103.4 cm2 (~83.9% screen-to-body ratio); 720 x 1612 pixels, 20:9 ratio (~269 ppi density); Aluminosilicate glass"
+   ],
+   [
+    "OS",
+    "HarmonyOS 7.0"
+   ],
+   [
+    "Chipset",
+    "Kirin 8000S"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "13 MP, f/1.8, (wide), AF; LED flash, panorama; video 1080p"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, (wide); video 1080p"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, L2HC"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "6100 mAh"
+   ],
+   [
+    "Charging",
+    "40W wired 6W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, White, Orange, Blue"
+   ]
+  ],
+  "slug": "huawei-enjoy-100",
+  "source": "https://www.gsmarena.com/huawei_enjoy_100-15037.php",
+  "tag": "Bari 6100 mAh battery aur 6.56 inch display wala Huawei ka budget phone",
+  "year": 2026
+ }
+]

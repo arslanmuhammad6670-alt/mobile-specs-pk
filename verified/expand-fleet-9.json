@@ -1,644 +1,644 @@
 [
-{
-"brand": "Infinix",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Dimensity 8200 Ultima",
-"12 GB RAM",
-"5000 mAh"
-],
-"name": "Infinix Zero 40",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2024 (announced 2024, August 29, released 2024, September 08)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"164.3 x 74.8 x 7.9 mm (6.47 x 2.94 x 0.31 in); 195 g (6.88 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, HDR, 144Hz, 1300 nits (HBM); 6.78 inches, 109.9 cm2 (~89.4% screen-to-body ratio); 1080 x 2436 pixels (~393 ppi density); Corning Gorilla Glass 5"
-],
-[
-"OS",
-"Android 14, up to 2 major OS updates, XOS 14.5"
-],
-[
-"Chipset",
-"Mediatek Dimensity 8200 Ultimate (4 nm); CPU Octa-core (1x3.1 GHz Cortex-A78 & 3x3.0 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G610 MC6"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"108 MP, f/1.8, (wide), 1/1.67\", PDAF, OIS 50 MP, f/2.0, 120˚, (ultrawide), 1/2.76\", PDAF Auxiliary lens; Triple-LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.5, 21mm (wide), 1/2.76\", PDAF; Dual-LED flash; video 4K@30/60fps, 1080p@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with dual speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band"
-],
-[
-"Bluetooth",
-"Yes"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"45W wired, 60% in 25 min 20W wireless 10W reverse wired Bypass Charging 2.0"
-],
-[
-"Colors",
-"Rock Black, Violet Garden, Moving Titanium"
-]
-],
-"slug": "infinix-zero-40",
-"source": "https://www.gsmarena.com/infinix_zero_40-13290.php",
-"tag": "6.78\" display · Mediatek Dimensity 8200 Ultima · 12 GB RAM · 5000 mAh",
-"year": 2024
-},
-{
-"brand": "Tecno",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Dimensity 6400",
-"4 GB RAM",
-"6500 mAh"
-],
-"name": "Tecno Pop X",
-"price": 47999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, April 20, released 2026, April 24)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"167.9 x 79.3 x 8.2 mm (6.61 x 3.12 x 0.32 in); 210 g (7.41 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz; 6.78 inches, 112.1 cm2 (~84.2% screen-to-body ratio); 720 x 1576 pixels, 19.5:9 ratio (~256 ppi density)"
-],
-[
-"OS",
-"Android 16, HIOS 16"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6400 (6 nm); CPU Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB / 6 GB"
-],
-[
-"Storage",
-"128 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"50 MP, (wide), AF; LED flash; video Yes"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, (wide); video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted); unspecified sensors"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C"
-],
-[
-"Battery",
-"6500 mAh"
-],
-[
-"Charging",
-"45W wired"
-],
-[
-"Colors",
-"Midnight Blue, Ripple Green"
-]
-],
-"slug": "tecno-pop-x-5g",
-"source": "https://www.gsmarena.com/tecno_pop_x_5g-14608.php",
-"tag": "6.78\" display · Mediatek Dimensity 6400 · 4 GB RAM · 6500 mAh",
-"year": 2026
-},
-{
-"brand": "Tecno",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Dimensity 6400",
-"8 GB RAM",
-"5160 mAh"
-],
-"name": "Tecno Pova Slim",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, September 02, released 2025, October 08)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"164.2 x 75.9 x 6 mm (6.46 x 2.99 x 0.24 in); 156 g (5.50 oz); Glass front (Gorilla Glass 7i), glass-fiber reinforced plastic back; Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 144Hz, 1600 nits (HBM), 4500 nits (peak); 6.78 inches, 111.0 cm2 (~89.1% screen-to-body ratio); 1224 x 2720 pixels, 20:9 ratio (~440 ppi density); Corning Gorilla Glass 7i"
-],
-[
-"OS",
-"Android 15, HIOS 15"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6400 (6 nm); CPU Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, (wide), PDAF 2 MP; LED flash; video 1440p@30fps, 1080p@30fps"
-],
-[
-"Selfie Camera",
-"13 MP, (wide); video Yes"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C"
-],
-[
-"Battery",
-"5160 mAh"
-],
-[
-"Charging",
-"45W wired, 100% in 57 min 10W reverse wired Bypass charging"
-],
-[
-"Colors",
-"Sky Blue, Slim White, Cool Black"
-]
-],
-"slug": "tecno-pova-slim-5g",
-"source": "https://www.gsmarena.com/tecno_pova_slim_5g-14111.php",
-"tag": "6.78\" display · Mediatek Dimensity 6400 · 8 GB RAM · 5160 mAh",
-"year": 2025
-},
-{
-"brand": "Vivo",
-"cat": "Smartphones",
-"hl": [
-"6.59\" display",
-"Mediatek Dimensity 7500",
-"8 GB RAM",
-"7200 mAh"
-],
-"name": "vivo S60e",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, May 29, released 2026, June 03)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"157.5 x 74.3 x 7.8 mm (6.20 x 2.93 x 0.31 in); 196 g or 199 g (6.91 oz); Glass front, aluminum frame, glass back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 144Hz, HDR, 4320Hz PWM; 6.59 inches, 106.1 cm2 (~90.7% screen-to-body ratio); 1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)"
-],
-[
-"OS",
-"Android 16, OriginOS 6"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7500 (4 nm); CPU Octa-core (4x2.6 GHz Arm C1 Pro & 4x2.0 GHz Arm C1 Nano); GPU Mali-G625 MC"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.9, (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 110˚ (ultrawide); Ring-LED flash, panorama, HDR; video 4K, 1080p, OIS"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.0, 21mm (wide), 1/2.76\", 0.64µm, AF; HDR; video 4K, 1080p"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, compass, proximity"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7200 mAh"
-],
-[
-"Charging",
-"90W wired, PD Reverse wired"
-],
-[
-"Colors",
-"Black, White, Green"
-]
-],
-"slug": "vivo-s60-vitality-5g",
-"source": "https://www.gsmarena.com/vivo_s60_vitality_5g-14693.php",
-"tag": "6.59\" display · Mediatek Dimensity 7500 · 8 GB RAM · 7200 mAh",
-"year": 2026
-},
-{
-"brand": "Tecno",
-"cat": "Smartphones",
-"hl": [
-"6.6\" display",
-"Mediatek Dimensity 6300",
-"4 GB RAM",
-"5000 mAh"
-],
-"name": "Tecno Pop 9",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2024 (announced 2024, September 24, released 2024, October 08)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"165 x 77 x 8 mm (6.50 x 3.03 x 0.31 in); 189 g (6.67 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz; 6.6 inches, 104.6 cm2 (~82.4% screen-to-body ratio); 720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
-],
-[
-"OS",
-"Android 14"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB / 128 GB; microSDXC"
-],
-[
-"Main Camera",
-"48 MP, (wide), 1/2.0\", 0.8µm, AF Auxiliary lens; Dual-LED flash, HDR; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"8 MP; Dual-LED flash; video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted); unspecified sensors"
-],
-[
-"Loudspeaker",
-"Yes, with dual speakers"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Yes"
-],
-[
-"Bluetooth",
-"Yes"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"18W wired"
-],
-[
-"Colors",
-"Aurora Cloud, Azure Sky, Midnight Shadow"
-]
-],
-"slug": "tecno-pop-9",
-"source": "https://www.gsmarena.com/tecno_pop_9-13358.php",
-"tag": "6.6\" display · Mediatek Dimensity 6300 · 4 GB RAM · 5000 mAh",
-"year": 2024
-},
-{
-"brand": "Tecno",
-"cat": "Smartphones",
-"hl": [
-"6.67\" display",
-"Unisoc T7250",
-"3 GB RAM",
-"5000 mAh"
-],
-"name": "Tecno Spark Go 2",
-"price": 36999,
-"price_src": "https://priceoye.pk/mobiles/tecno/tecno-spark-go-2",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, June 24, released 2025, June)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"165.6 x 77 x 8.3 mm (6.52 x 3.03 x 0.33 in); -; Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz; 6.67 inches, 107.4 cm2 (~84.2% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
-],
-[
-"OS",
-"Android 15, HIOS 15"
-],
-[
-"Chipset",
-"Unisoc T7250 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55); GPU Mali-G57 MP1"
-],
-[
-"RAM",
-"3 GB / 4 GB"
-],
-[
-"Storage",
-"64 GB / 128 GB / 256 GB; microSDXC"
-],
-[
-"Main Camera",
-"13 MP, f/1.8, 27mm (wide), PDAF; Dual-LED flash, HDR; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"8 MP; Dual-LED flash; video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted); unspecified sensors"
-],
-[
-"Loudspeaker",
-"Yes, with dual speakers"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Yes"
-],
-[
-"Bluetooth",
-"Yes"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C, OTG"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"15W wired"
-],
-[
-"Colors",
-"Ink Black, Titanium Grey, Veil White, Turquoise Green"
-]
-],
-"slug": "tecno-spark-go-2",
-"source": "https://www.gsmarena.com/tecno_spark_go_2-13975.php",
-"tag": "6.67\" display · Unisoc T7250 · 3 GB RAM · 5000 mAh",
-"year": 2025
-}
+ {
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Dimensity 8200 Ultima",
+   "12 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Infinix Zero 40",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 2024, August 29, released 2024, September 08)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "164.3 x 74.8 x 7.9 mm (6.47 x 2.94 x 0.31 in); 195 g (6.88 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, HDR, 144Hz, 1300 nits (HBM); 6.78 inches, 109.9 cm2 (~89.4% screen-to-body ratio); 1080 x 2436 pixels (~393 ppi density); Corning Gorilla Glass 5"
+   ],
+   [
+    "OS",
+    "Android 14, up to 2 major OS updates, XOS 14.5"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 8200 Ultimate (4 nm); CPU Octa-core (1x3.1 GHz Cortex-A78 & 3x3.0 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G610 MC6"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "108 MP, f/1.8, (wide), 1/1.67\", PDAF, OIS 50 MP, f/2.0, 120˚, (ultrawide), 1/2.76\", PDAF Auxiliary lens; Triple-LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.5, 21mm (wide), 1/2.76\", PDAF; Dual-LED flash; video 4K@30/60fps, 1080p@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with dual speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, 60% in 25 min 20W wireless 10W reverse wired Bypass Charging 2.0"
+   ],
+   [
+    "Colors",
+    "Rock Black, Violet Garden, Moving Titanium"
+   ]
+  ],
+  "slug": "infinix-zero-40",
+  "source": "https://www.gsmarena.com/infinix_zero_40-13290.php",
+  "tag": "6.78\" display · Mediatek Dimensity 8200 Ultima · 12 GB RAM · 5000 mAh",
+  "year": 2024
+ },
+ {
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Dimensity 6400",
+   "4 GB RAM",
+   "6500 mAh"
+  ],
+  "name": "Tecno Pop X",
+  "price": 47999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, April 20, released 2026, April 24)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "167.9 x 79.3 x 8.2 mm (6.61 x 3.12 x 0.32 in); 210 g (7.41 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz; 6.78 inches, 112.1 cm2 (~84.2% screen-to-body ratio); 720 x 1576 pixels, 19.5:9 ratio (~256 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, HIOS 16"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6400 (6 nm); CPU Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB"
+   ],
+   [
+    "Storage",
+    "128 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, (wide), AF; LED flash; video Yes"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, (wide); video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted); unspecified sensors"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C"
+   ],
+   [
+    "Battery",
+    "6500 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired"
+   ],
+   [
+    "Colors",
+    "Midnight Blue, Ripple Green"
+   ]
+  ],
+  "slug": "tecno-pop-x-5g",
+  "source": "https://www.gsmarena.com/tecno_pop_x_5g-14608.php",
+  "tag": "6.78\" display · Mediatek Dimensity 6400 · 4 GB RAM · 6500 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Dimensity 6400",
+   "8 GB RAM",
+   "5160 mAh"
+  ],
+  "name": "Tecno Pova Slim",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, September 02, released 2025, October 08)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "164.2 x 75.9 x 6 mm (6.46 x 2.99 x 0.24 in); 156 g (5.50 oz); Glass front (Gorilla Glass 7i), glass-fiber reinforced plastic back; Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 144Hz, 1600 nits (HBM), 4500 nits (peak); 6.78 inches, 111.0 cm2 (~89.1% screen-to-body ratio); 1224 x 2720 pixels, 20:9 ratio (~440 ppi density); Corning Gorilla Glass 7i"
+   ],
+   [
+    "OS",
+    "Android 15, HIOS 15"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6400 (6 nm); CPU Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, (wide), PDAF 2 MP; LED flash; video 1440p@30fps, 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP, (wide); video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C"
+   ],
+   [
+    "Battery",
+    "5160 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, 100% in 57 min 10W reverse wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Sky Blue, Slim White, Cool Black"
+   ]
+  ],
+  "slug": "tecno-pova-slim-5g",
+  "source": "https://www.gsmarena.com/tecno_pova_slim_5g-14111.php",
+  "tag": "6.78\" display · Mediatek Dimensity 6400 · 8 GB RAM · 5160 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.59\" display",
+   "Mediatek Dimensity 7500",
+   "8 GB RAM",
+   "7200 mAh"
+  ],
+  "name": "vivo S60e",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, May 29, released 2026, June 03)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "157.5 x 74.3 x 7.8 mm (6.20 x 2.93 x 0.31 in); 196 g or 199 g (6.91 oz); Glass front, aluminum frame, glass back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 144Hz, HDR, 4320Hz PWM; 6.59 inches, 106.1 cm2 (~90.7% screen-to-body ratio); 1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, OriginOS 6"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7500 (4 nm); CPU Octa-core (4x2.6 GHz Arm C1 Pro & 4x2.0 GHz Arm C1 Nano); GPU Mali-G625 MC"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 110˚ (ultrawide); Ring-LED flash, panorama, HDR; video 4K, 1080p, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 21mm (wide), 1/2.76\", 0.64µm, AF; HDR; video 4K, 1080p"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, compass, proximity"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7200 mAh"
+   ],
+   [
+    "Charging",
+    "90W wired, PD Reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, White, Green"
+   ]
+  ],
+  "slug": "vivo-s60-vitality-5g",
+  "source": "https://www.gsmarena.com/vivo_s60_vitality_5g-14693.php",
+  "tag": "6.59\" display · Mediatek Dimensity 7500 · 8 GB RAM · 7200 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "hl": [
+   "6.6\" display",
+   "Mediatek Dimensity 6300",
+   "4 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Tecno Pop 9",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 2024, September 24, released 2024, October 08)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "165 x 77 x 8 mm (6.50 x 3.03 x 0.31 in); 189 g (6.67 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz; 6.6 inches, 104.6 cm2 (~82.4% screen-to-body ratio); 720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 14"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "48 MP, (wide), 1/2.0\", 0.8µm, AF Auxiliary lens; Dual-LED flash, HDR; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP; Dual-LED flash; video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted); unspecified sensors"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with dual speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "18W wired"
+   ],
+   [
+    "Colors",
+    "Aurora Cloud, Azure Sky, Midnight Shadow"
+   ]
+  ],
+  "slug": "tecno-pop-9",
+  "source": "https://www.gsmarena.com/tecno_pop_9-13358.php",
+  "tag": "6.6\" display · Mediatek Dimensity 6300 · 4 GB RAM · 5000 mAh",
+  "year": 2024
+ },
+ {
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "hl": [
+   "6.67\" display",
+   "Unisoc T7250",
+   "3 GB / 4 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Tecno Spark Go 2",
+  "price": 36999,
+  "price_src": "https://priceoye.pk/mobiles/tecno/tecno-spark-go-2",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, June 24, released 2025, June)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "165.6 x 77 x 8.3 mm (6.52 x 3.03 x 0.33 in); -; Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz; 6.67 inches, 107.4 cm2 (~84.2% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, HIOS 15"
+   ],
+   [
+    "Chipset",
+    "Unisoc T7250 (12 nm); CPU Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55); GPU Mali-G57 MP1"
+   ],
+   [
+    "RAM",
+    "3 GB / 4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB / 256 GB; microSDXC"
+   ],
+   [
+    "Main Camera",
+    "13 MP, f/1.8, 27mm (wide), PDAF; Dual-LED flash, HDR; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP; Dual-LED flash; video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted); unspecified sensors"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with dual speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C, OTG"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "15W wired"
+   ],
+   [
+    "Colors",
+    "Ink Black, Titanium Grey, Veil White, Turquoise Green"
+   ]
+  ],
+  "slug": "tecno-spark-go-2",
+  "source": "https://www.gsmarena.com/tecno_spark_go_2-13975.php",
+  "tag": "6.67\" display · Unisoc T7250 · 3 GB / 4 GB RAM · 5000 mAh",
+  "year": 2025
+ }
 ]

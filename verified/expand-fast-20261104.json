@@ -1,0 +1,109 @@
+[
+{
+"brand": "Realme",
+"cat": "Smartphones",
+"hl": [
+"6.78\" display",
+"Mediatek Dimensity 7300 Max",
+"8 GB RAM",
+"7000 mAh"
+],
+"name": "Realme 16 Pro",
+"price": 98999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (announced 2026, January 06, released 2026, January 08)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"162.6 x 77.6 x 7.8 mm (6.40 x 3.06 x 0.31 in); 192 g (6.77 oz); Glass front, plastic frame, plastic back or silicone polymer back (eco leather); Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"AMOLED, 1B colors, 144Hz, HDR10+, PWM, 1000 nits (typ), 1400 nits (HBM), 6500 nits (peak); 6.78 inches, 112.4 cm2 (~89.1% screen-to-body ratio); 1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density); AGC DT star D+"
+],
+[
+"OS",
+"Android 16, up to 5 (EU) / 3 (IN) major OS updates, Realme UI 7.0"
+],
+[
+"Chipset",
+"Mediatek Dimensity 7300 Max (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
+],
+[
+"RAM",
+"8 GB / 12 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB / 512 GB; No"
+],
+[
+"Main Camera",
+"200 MP, f/1.9, 23mm (wide), 1/1.56\", 0.5µm, dual-pixel PDAF, OIS 8 MP, 112˚, (ultrawide), 1/4.0\", 1.12µm; LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60/120fps, HDR, gyro-EIS, OIS"
+],
+[
+"Selfie Camera",
+"50 MP, f/2.4, 23mm (wide), 1/2.88\", 0.61µm; Panorama; video 4K@30fps, 1080p@30/60fps, HDR"
+],
+[
+"Sensors",
+"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes, with stereo speakers"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+],
+[
+"Bluetooth",
+"5.4, A2DP, LE, aptX HD, LHDC 5"
+],
+[
+"GPS",
+"GPS, GLONASS, GALILEO, BDS"
+],
+[
+"NFC",
+"Yes (market/region dependent)"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C 2.0, OTG"
+],
+[
+"Battery",
+"Si/C Li-Ion 7000 mAh (version 1) / 6500 mAh (version 2)"
+],
+[
+"Charging",
+"80W wired, 55W PPS, 13.5W PD2.0 (version 1) / 45W wired, 45W PPS, 13.5W PD2.0 (version 2); Reverse wired Bypass Charging"
+],
+[
+"Colors",
+"Gold, Pebble Grey, Orchid Purple, Harry Potter Edition"
+]
+],
+"slug": "realme-16-pro-5g",
+"source": "https://www.gsmarena.com/realme_16_pro_5g-14400.php",
+"tag": "6.78\" display · Mediatek Dimensity 7300 Max · 8 GB RAM · 7000 mAh",
+"year": 2026
+}
+]

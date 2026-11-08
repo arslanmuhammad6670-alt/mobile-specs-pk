@@ -9,7 +9,7 @@ function fmtCur(pkrAmt,cur){const v=pkrAmt*RATES[cur];const dec=v>=100?0:(v>=1?2
 function curSel(){return localStorage.getItem('cur')||'PKR'}
 function applyCur(){const cur=curSel();const sel=document.getElementById('cursel');if(sel)sel.value=cur;if(cur==='PKR')return;document.querySelectorAll('[data-pkr]').forEach(el=>{const amt=parseFloat(el.getAttribute('data-pkr'));if(isNaN(amt))return;el.innerHTML='<b class="pkrv">'+fmtCur(amt,cur)+'</b> <span class="usdv">Rs '+amt.toLocaleString('en-US')+'</span>'})}
 document.addEventListener('DOMContentLoaded',()=>{applyCur();const sel=document.getElementById('cursel');if(sel)sel.addEventListener('change',()=>{localStorage.setItem('cur',sel.value);if(document.getElementById('cmp')){location.reload()}else{applyCur()}})});
-function pkr(p){if(p.price_pkr==null)return p.unv?'Price not verified':'Price not announced';const cur=curSel();const ex=p.exp?' (Expected)':'';if(cur!=='PKR'&&RATES[cur])return fmtCur(p.price_pkr,cur)+' · Rs '+p.price_pkr.toLocaleString('en-PK')+ex;return 'Rs '+p.price_pkr.toLocaleString('en-PK')+ex+' · $'+p.price.toLocaleString('en-US')}
+function pkr(p){if(p.price_pkr==null)return p.unv?'Price not verified':'Price not announced';const cur=curSel();const ex=p.exp?' (Expected)':'';const lb=p.pl?' · '+p.pl:'';if(cur!=='PKR'&&RATES[cur])return fmtCur(p.price_pkr,cur)+' · Rs '+p.price_pkr.toLocaleString('en-PK')+ex+lb;return 'Rs '+p.price_pkr.toLocaleString('en-PK')+ex+' · $'+p.price.toLocaleString('en-US')+lb}
 function doSearch(q){q=(q||'').toLowerCase();document.querySelectorAll('.card').forEach(c=>{c.style.display=c.dataset.name.includes(q)?'':'none'});heroLive(q)}
 async function heroLive(q){const box=document.getElementById('hresults');if(!box)return;q=(q||'').trim().toLowerCase();if(q.length<2){box.innerHTML='';box.style.display='none';return}
  let phones;try{phones=await loadPhones()}catch(e){return}
@@ -18,7 +18,7 @@ async function heroLive(q){const box=document.getElementById('hresults');if(!box
  if(!hits.length){const d=document.createElement('div');d.className='hrow hnone';d.textContent='No models found — try a brand or model name.';box.appendChild(d);box.style.display='block';return}
  hits.forEach(p=>{const a=document.createElement('a');a.className='hrow';a.href=_pfx+p.path;a.setAttribute('role','option');
   const l=document.createElement('span');const nm=document.createElement('b');nm.textContent=p.name;const br=document.createElement('span');br.className='hb';br.textContent=' '+p.brand+' · '+p.cat;l.appendChild(nm);l.appendChild(br);
-  const pr=document.createElement('span');pr.className='hp';pr.textContent=(p.price_pkr==null)?(p.unv?'Price not verified':'Price not announced'):'Rs '+p.price_pkr.toLocaleString('en-PK')+(p.exp?' (Expected)':'');
+  const pr=document.createElement('span');pr.className='hp';pr.textContent=(p.price_pkr==null)?(p.unv?'Price not verified':'Price not announced'):('Rs '+p.price_pkr.toLocaleString('en-PK')+(p.exp?' (Expected)':'')+(p.pl?' · '+p.pl:''));
   a.appendChild(l);a.appendChild(pr);box.appendChild(a)});
  box.style.display='block'}
 document.addEventListener('DOMContentLoaded',()=>{const h=document.getElementById('hq');if(!h)return;h.addEventListener('focus',()=>{loadPhones().catch(()=>{})});

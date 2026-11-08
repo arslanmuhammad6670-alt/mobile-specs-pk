@@ -9543,8 +9543,8 @@
  },
  {
   "slug": "huawei-20s",
-  "name": "Huawei 20s",
-  "brand": "Huawei",
+  "name": "Honor 20S",
+  "brand": "Honor",
   "cat": "Smartphones",
   "price": null,
   "price_pkr": null,
@@ -10653,8 +10653,8 @@
  },
  {
   "slug": "huawei-60-pro",
-  "name": "Huawei 60 Pro",
-  "brand": "Huawei",
+  "name": "Honor 60 Pro",
+  "brand": "Honor",
   "cat": "Smartphones",
   "price": null,
   "price_pkr": null,
@@ -22363,7 +22363,7 @@
  },
  {
   "slug": "nothing-(3a)",
-  "name": "Nothing (3A)",
+  "name": "Nothing Phone (3a)",
   "brand": "Nothing",
   "cat": "Tablets",
   "price": null,

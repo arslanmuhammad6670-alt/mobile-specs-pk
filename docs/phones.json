@@ -39875,6 +39875,27 @@
   "pl": "Estimated price"
  },
  {
+  "slug": "redmi-15-4g",
+  "name": "Redmi 15 4G",
+  "brand": "Redmi",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/redmi-15-4g.html",
+  "pl": "Official price"
+ },
+ {
+  "slug": "redmi-15-5g",
+  "name": "Redmi 15 5G",
+  "brand": "Redmi",
+  "cat": "Smartphones",
+  "price": 220,
+  "price_pkr": 60999,
+  "path": "phones/redmi-15-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
   "slug": "samsung-galaxy-s25-edge",
   "name": "Samsung Galaxy S25 Edge",
   "brand": "Samsung",

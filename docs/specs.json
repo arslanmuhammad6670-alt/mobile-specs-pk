@@ -73942,22 +73942,6 @@
   "USB": "USB Type-C 3.2, OTG",
   "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
  },
- "apple-ipad-mini-7": {
-  "Launch Year": "2024 (announced 15 October 2024, released 23 October 2024)",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "195.4 x 134.8 x 6.3 mm, 293 g (Wi-Fi) / 297 g (Wi-Fi + Cellular); glass front, aluminum back, aluminum frame; eSIM (cellular model only); stylus support",
-  "Display": "Liquid Retina IPS LCD, 500 nits (typ); 8.3 inches; 1488 x 2266 pixels (~327 ppi)",
-  "Chipset": "Apple A17 Pro (3 nm); CPU hexa-core (2x3.78 GHz performance cores + 4 efficiency cores); GPU Apple 5-core graphics",
-  "RAM": "8 GB",
-  "Storage": "128 GB / 256 GB / 512 GB; no card slot",
-  "Main Camera": "12 MP f/1.8 wide (AF); Quad-LED dual-tone flash, HDR, panorama; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, gyro-EIS",
-  "Selfie Camera": "12 MP f/2.4 122° ultrawide; HDR; video 1080p@25/30/60fps, gyro-EIS",
-  "Battery": "Li-Ion 5078 mAh (19.3 Wh)",
-  "Charging": "Wired charging via USB Type-C",
-  "Operating System": "iPadOS 18, upgradable to iPadOS 27.2",
-  "Sensors/Features": "Fingerprint (top-mounted), accelerometer, gyro, compass, barometer; stereo speakers; Wi-Fi 6e; Bluetooth 5.3; USB Type-C 3.1 Gen2, DisplayPort",
-  "Colors": "Space Gray, Blue, Purple, Starlight"
- },
  "samsung-galaxy-tab-s10-fe": {
   "Launch Year": "2025 (announced 2 April 2025, released 3 April 2025)",
   "Network": "GSM / HSPA / LTE / 5G",

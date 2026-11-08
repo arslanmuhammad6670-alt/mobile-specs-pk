@@ -35243,15 +35243,6 @@
   "path": "phones/oneplus-13.html"
  },
  {
-  "slug": "apple-ipad-mini-7",
-  "name": "Apple iPad mini (2024)",
-  "brand": "Apple",
-  "cat": "Tablets",
-  "price": 596,
-  "price_pkr": 164999,
-  "path": "tablets/apple-ipad-mini-7.html"
- },
- {
   "slug": "samsung-galaxy-tab-s10-fe",
   "name": "Samsung Galaxy Tab S10 FE",
   "brand": "Samsung",
@@ -36014,8 +36005,8 @@
   "name": "Apple iPad mini (2024)",
   "brand": "Apple",
   "cat": "Tablets",
-  "price": 672,
-  "price_pkr": 185999,
+  "price": 723,
+  "price_pkr": 200000,
   "path": "tablets/apple-ipad-mini-(2024).html"
  },
  {

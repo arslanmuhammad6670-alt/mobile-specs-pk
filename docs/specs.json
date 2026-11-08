@@ -8111,24 +8111,6 @@
   "USB": "USB Type-C 2.0",
   "Colors": "Black, Blue, White"
  },
- "samsung-galaxy-s26-edge": {
-  "Launch Year": "2026 (announced 15 May 2026)",
-  "Region": "India",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "Dual Sim, GSM+GSM",
-  "Display": "(16M Colors)",
-  "Operating System": "Android 15",
-  "Chipset": "Octa Core Processor",
-  "RAM": "12 GB",
-  "Storage": "256GB",
-  "Main Camera": "200 MP (Wide Angle) 18 MP (Ultra Wide)",
-  "Selfie Camera": "20 MP (Wide Angle) Punch Hole",
-  "Battery": "4000 mAh, Li-ion Battery",
-  "Charging": "25W Fast Charging",
-  "Sensors": "Accelerometer, Barometer, Fingerprint Sensor, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Light Sensor, Proximity Sensor",
-  "Bluetooth": "5.4, A2DP, LE",
-  "USB": "USB-C"
- },
  "samsung-galaxy-note-8": {
   "Region": "India",
   "Network": "GSM / HSPA / LTE",
@@ -9463,7 +9445,6 @@
   "Main Camera": "5 MP",
   "Battery": "1500 mAh"
  },
- "xiaomi-7a": {},
  "realme-c21y": {
   "Launch Year": "2021 (announced 2021, June 21)",
   "Region": "Global",
@@ -11641,23 +11622,6 @@
   "Radio": "Stereo FM radio",
   "USB": "miniUSB 2.0",
   "Colors": "Black, Pink, Blue"
- },
- "samsung-galaxy-s26-pro": {
-  "Region": "India",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "Dual Sim, GSM+GSM",
-  "Display": "Dynamic AMOLED 2X (1B Colors)",
-  "Operating System": "Android 16",
-  "Chipset": "Octa Core Processor",
-  "RAM": "12 GB",
-  "Storage": "256GB",
-  "Main Camera": "50 MP ƒ/1.8 (Wide Angle) 50 MP ƒ/2.4 (Telephoto) 50 MP ƒ/2.2 (Ultra Wide)",
-  "Selfie Camera": "50 MP ƒ/2.2 (Wide Angle) Punch Hole",
-  "Battery": "5500 mAh, Li-ion Battery",
-  "Charging": "Fast charging",
-  "Sensors": "Accelerometer, Barometer, Gyro Sensor, Geomagnetic Sensor, Hall Sensor, Light Sensor, Proximity Sensor",
-  "Bluetooth": "6.0, A2DP, LE",
-  "USB": "USB-C v3.2"
  },
  "tecno-spark-8c": {
   "Launch Year": "2022 (announced 2022, January 31)",
@@ -23301,7 +23265,6 @@
   "USB": "USB Type-C 2.0, OTG",
   "Colors": "Phoenix Red, Peacock Green"
  },
- "zte-k12": {},
  "honor-play-60+": {
   "Launch Year": "2024 (announced 2024, June 24)",
   "Region": "Global",

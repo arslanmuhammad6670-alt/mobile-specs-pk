@@ -3772,16 +3772,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "samsung-galaxy-s26-edge",
-  "name": "Samsung Galaxy S26 Edge",
-  "brand": "Samsung",
-  "cat": "Smartphones",
-  "price": 1352,
-  "price_pkr": 373999,
-  "path": "phones/samsung-galaxy-s26-edge.html",
-  "pl": "Estimated price"
- },
- {
   "slug": "samsung-galaxy-note-8",
   "name": "Samsung Galaxy Note 8",
   "brand": "Samsung",
@@ -4459,16 +4449,6 @@
   "price": null,
   "price_pkr": null,
   "path": "phones/samsung-galaxy-s3-mini.html",
-  "unv": 1
- },
- {
-  "slug": "xiaomi-7a",
-  "name": "Xiaomi 7a",
-  "brand": "Xiaomi",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/xiaomi-7a.html",
   "unv": 1
  },
  {
@@ -5599,16 +5579,6 @@
   "price": 112,
   "price_pkr": 30999,
   "path": "keypad/nokia-3110-classic.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "samsung-galaxy-s26-pro",
-  "name": "Samsung Galaxy S26 Pro",
-  "brand": "Samsung",
-  "cat": "Smartphones",
-  "price": 1128,
-  "price_pkr": 311999,
-  "path": "phones/samsung-galaxy-s26-pro.html",
   "pl": "Estimated price"
  },
  {
@@ -11650,16 +11620,6 @@
   "price_pkr": 52999,
   "path": "phones/sony-ericsson-p1.html",
   "pl": "Estimated price"
- },
- {
-  "slug": "zte-k12",
-  "name": "ZTE K12",
-  "brand": "ZTE",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/zte-k12.html",
-  "unv": 1
  },
  {
   "slug": "honor-play-60+",

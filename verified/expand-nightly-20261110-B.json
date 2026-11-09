@@ -1,0 +1,1112 @@
+[
+ {
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "hl": [
+   "6.68\" display",
+   "Kirin 9010S",
+   "12 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Huawei nova 16",
+  "price": 140999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, June 01)"
+   ],
+   [
+    "Region",
+    "China"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "159.6 x 75.5 x 7.3 mm (6.28 x 2.97 x 0.29 in); 199 g (7.02 oz); Glass front, plastic frame, aluminum back; Nano-SIM + Nano-SIM; IP65 dust tight and water resistant (low pressure water jets)"
+   ],
+   [
+    "Display",
+    "OLED, 1B colors, HDR Vivid, 120Hz, 2160Hz PWM; 6.68 inches, 108.9 cm2 (~90.3% screen-to-body ratio); 1280 x 2800 pixels, 19.5:9 ratio (~461 ppi density); Aluminosilicate glass"
+   ],
+   [
+    "OS",
+    "HarmonyOS 6.1"
+   ],
+   [
+    "Chipset",
+    "Kirin 9010S"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, 23mm (wide), 1/1.56\", Dual Pixel PDAF + 50 MP, f/2.6, 88mm (periscope telephoto), PDAF, OIS, 3.7x optical zoom; Color spectrum sensor, LED flash, panorama, HDR; video 4K, 1080p, gyro-EIS, HDR Vivid"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.4, (ultrawide), 1/2.5\"; HDR, panorama; video 4K, 1080p, gyro-EIS, HDR Vivid"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, compass; Virtual proximity sensing; BDS Satellite Calling and Messaging - China only"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, L2HC (320-960 kbps HD audio)"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "7000 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, SCP, UFCS, PD, PPS, QC; 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, White, Blue/Pink, Blue"
+   ]
+  ],
+  "slug": "huawei-nova-16-5g",
+  "source": "https://www.gsmarena.com/huawei_nova_16_5g-14700.php",
+  "tag": "6.68\" display · Kirin 9010S · 12 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "hl": [
+   "6.84\" display",
+   "Kirin 9010S",
+   "12 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Huawei nova 16 Pro",
+  "price": 177999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, June 01)"
+   ],
+   [
+    "Region",
+    "China"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163 x 78 x 7.1 mm (6.42 x 3.07 x 0.28 in); 218 g (7.69 oz); Glass front, aluminum frame, glass back; Nano-SIM + Nano-SIM; IP65 dust tight and water resistant (low pressure water jets)"
+   ],
+   [
+    "Display",
+    "LTPO OLED, 1B colors, HDR Vivid, 120Hz, 2160Hz PWM, 6000 nits (peak); 6.84 inches, 115.0 cm2 (~90.4% screen-to-body ratio); 1320 x 2856 pixels, 19.5:9 ratio (~460 ppi density); Kunlun Glass"
+   ],
+   [
+    "OS",
+    "HarmonyOS 6.0"
+   ],
+   [
+    "Chipset",
+    "Kirin 9010S"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.8, 23mm (wide), 1/1.28\", PDAF, OIS + 50 MP, f/2.6, 88mm (periscope telephoto), PDAF, OIS, 3.7x optical zoom + 50 MP, f/2.2, 13mm, 118˚ (ultrawide), AF; Laser AF, color spectrum sensor, LED flash, panorama, HDR; video 4K, 1080p, gyro-EIS, HDR Vivid"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.4, (ultrawide), 1/2.5\", Dual Pixel PDAF; HDR, panorama; video 4K, 1080p, gyro-EIS, HDR Vivid"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass; Virtual proximity sensing; BDS Satellite Calling and Messaging - China only"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, L2HC (320-960 kbps HD audio)"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "7000 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, SCP, UFCS, PD, PPS, QC; 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, White, Blue/Pink, Blue"
+   ]
+  ],
+  "slug": "huawei-nova-16-pro-5g",
+  "source": "https://www.gsmarena.com/huawei_nova_16_pro_5g-14699.php",
+  "tag": "6.84\" display · Kirin 9010S · 12 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "hl": [
+   "6.84\" display",
+   "Kirin 9010S",
+   "12 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Huawei nova 16 Ultra",
+  "price": 194999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, June 01)"
+   ],
+   [
+    "Region",
+    "China"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163 x 78 x 7.1 mm (6.42 x 3.07 x 0.28 in); 220 g (7.76 oz); Glass front (Kunlun Glass), aluminum frame, glass back + silicone polymer back (eco leather); Nano-SIM + Nano-SIM; IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+   ],
+   [
+    "Display",
+    "LTPO OLED, 1B colors, HDR Vivid, 120Hz, 2160Hz PWM, 6000 nits (peak); 6.84 inches, 115.0 cm2 (~90.4% screen-to-body ratio); 1320 x 2856 pixels, 19.5:9 ratio (~460 ppi density); Kunlun Glass"
+   ],
+   [
+    "OS",
+    "HarmonyOS 6.1"
+   ],
+   [
+    "Chipset",
+    "Kirin 9010S"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.8, 23mm (wide), 1/1.28\", PDAF, OIS + 50 MP, f/2.2, 88mm (periscope telephoto), PDAF, OIS, 3.7x optical zoom + 50 MP, f/2.2, 13mm, 118˚ (ultrawide), AF; Laser AF, color spectrum sensor, LED flash, panorama, HDR; video 4K, 1080p, gyro-EIS, HDR Vivid"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, (ultrawide), 1/2.5\", Dual Pixel PDAF; HDR, panorama; video 4K, 1080p, gyro-EIS, HDR Vivid"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass; Virtual proximity sensing; BDS Satellite Calling and Messaging - China only"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, L2HC (320-960 kbps HD audio)"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "7000 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, SCP, UFCS, PD, PPS, QC; 50W wireless; 7.5W reverse wireless; 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, White, Blue"
+   ]
+  ],
+  "slug": "huawei-nova-16-ultra-5g",
+  "source": "https://www.gsmarena.com/huawei_nova_16_ultra_5g-14698.php",
+  "tag": "6.84\" display · Kirin 9010S · 12 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "hl": [
+   "6.68\" display",
+   "Kirin 8020",
+   "12 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Huawei nova 16s",
+  "price": 185999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 03)"
+   ],
+   [
+    "Region",
+    "Global"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "159.6 x 75.5 x 7.3 mm (6.28 x 2.97 x 0.29 in); 199 g (7.02 oz); Glass front, plastic frame, aluminum back; Nano-SIM + Nano-SIM; IP65 dust tight and water resistant (low pressure water jets)"
+   ],
+   [
+    "Display",
+    "OLED, 1B colors, HDR Vivid, 120Hz, 2160Hz PWM; 6.68 inches, 108.9 cm2 (~90.3% screen-to-body ratio); 1280 x 2800 pixels, 19.5:9 ratio (~461 ppi density); Aluminosilicate glass"
+   ],
+   [
+    "OS",
+    "EMUI 16, Android-based"
+   ],
+   [
+    "Chipset",
+    "Kirin 8020"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, 23mm (wide), 1/1.56\", Dual Pixel PDAF + 50 MP, f/2.6, 88mm (periscope telephoto), PDAF, OIS, 3.3x optical zoom; Color spectrum sensor, LED flash, panorama, HDR; video 4K, 1080p, gyro-EIS, HDR Vivid"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.4, (ultrawide), 1/2.5\"; HDR, panorama; video 4K, 1080p, gyro-EIS, HDR Vivid"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, compass; Virtual proximity sensing"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, L2HC (320-960 kbps HD audio)"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "7000 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, SCP, UFCS, PD, PPS, QC; 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, White, Blue/Pink, Blue"
+   ]
+  ],
+  "slug": "huawei-nova-16s-5g",
+  "source": "https://www.gsmarena.com/huawei_nova_16s_5g-14923.php",
+  "tag": "6.68\" display · Kirin 8020 · 12 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "hl": [
+   "6.84\" display",
+   "Kirin 9010S",
+   "12 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Huawei nova 16s Pro",
+  "price": 231999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 03)"
+   ],
+   [
+    "Region",
+    "Global"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163 x 78 x 7.1 mm (6.42 x 3.07 x 0.28 in); 218 g (7.69 oz); Glass front, aluminum frame, glass back; Nano-SIM + Nano-SIM; IP65 dust tight and water resistant (low pressure water jets)"
+   ],
+   [
+    "Display",
+    "LTPO OLED, 1B colors, HDR Vivid, 120Hz, 2160Hz PWM, 6000 nits (peak); 6.84 inches, 115.0 cm2 (~90.4% screen-to-body ratio); 1320 x 2856 pixels, 19.5:9 ratio (~460 ppi density); Kunlun Glass"
+   ],
+   [
+    "OS",
+    "EMUI 16, Android-based"
+   ],
+   [
+    "Chipset",
+    "Kirin 9010S"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.8, 23mm (wide), 1/1.28\", PDAF, OIS + 50 MP, f/2.6, 88mm (periscope telephoto), PDAF, OIS, 3.7x optical zoom + 50 MP, f/2.2, 13mm, 118˚ (ultrawide), AF; Laser AF, color spectrum sensor, LED flash, panorama, HDR; video 4K, 1080p, gyro-EIS, HDR Vivid"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.4, (ultrawide), 1/2.5\", Dual Pixel PDAF; HDR, panorama, color spectrum sensor; video 4K, 1080p, gyro-EIS, HDR Vivid"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass; Virtual proximity sensing"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, L2HC (320-960 kbps HD audio)"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "7000 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, SCP, UFCS, PD, PPS, QC; 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Blue/Pink, Blue"
+   ]
+  ],
+  "slug": "huawei-nova-16s-pro-5g",
+  "source": "https://www.gsmarena.com/huawei_nova_16s_pro_5g-14922.php",
+  "tag": "6.84\" display · Kirin 9010S · 12 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Kirin 8020",
+   "12 GB RAM",
+   "6000 mAh"
+  ],
+  "name": "Huawei nova 16z",
+  "price": 111999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, June 01)"
+   ],
+   [
+    "Region",
+    "China"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "161.8 x 75.5 x 7.2 mm (6.37 x 2.97 x 0.28 in); 196.5 g (6.95 oz); Glass front, plastic frame; Nano-SIM + Nano-SIM; IP65 dust tight and water resistant (low pressure water jets)"
+   ],
+   [
+    "Display",
+    "OLED, 1B colors, HDR Vivid, 120Hz, 2160Hz PWM; 6.7 inches, 108.3 cm2 (~88.6% screen-to-body ratio); 1084 x 2412 pixels, 20:9 ratio (~395 ppi density); Aluminosilicate glass"
+   ],
+   [
+    "OS",
+    "HarmonyOS 6.1"
+   ],
+   [
+    "Chipset",
+    "Kirin 8020"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, 23mm (wide), 1/1.56\", Dual Pixel PDAF + 12 MP, f/2.4, 69mm (telephoto), PDAF, OIS, 3x optical zoom; Color spectrum sensor, LED flash, panorama, HDR; video 4K, 1080p, gyro-EIS, HDR Vivid"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.4, (ultrawide), 1/2.5\"; HDR, panorama; video 4K, 1080p, gyro-EIS, HDR Vivid"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, compass; Virtual proximity sensing; BDS Satellite Calling and Messaging - China only"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, L2HC (320-960 kbps HD audio)"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS, NavIC"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 6000 mAh"
+   ],
+   [
+    "Charging",
+    "100W wired, SCP, UFCS, PD, PPS, QC; 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, White, Blue/Pink"
+   ]
+  ],
+  "slug": "huawei-nova-16z-5g",
+  "source": "https://www.gsmarena.com/huawei_nova_16z_5g-14701.php",
+  "tag": "6.7\" display · Kirin 8020 · 12 GB RAM · 6000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "hl": [
+   "6.84\" display",
+   "Kirin 8020",
+   "8 GB RAM",
+   "8500 mAh"
+  ],
+  "name": "Huawei nova 16 SE",
+  "price": 111999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 05)"
+   ],
+   [
+    "Region",
+    "China"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "163.3 x 78 x 8 mm (6.43 x 3.07 x 0.31 in); 229 g (8.08 oz); Glass front, plastic frame, aluminum back; Nano-SIM + Nano-SIM; IP65 dust tight and water resistant (low pressure water jets)"
+   ],
+   [
+    "Display",
+    "OLED, 1B colors, 120Hz, 2160Hz PWM, 8000 nits (peak); 6.84 inches, 114.8 cm2 (~90.2% screen-to-body ratio); 1272 x 2756 pixels, 19.5:9 ratio (~444 ppi density); Aluminosilicate glass"
+   ],
+   [
+    "OS",
+    "HarmonyOS 6.1"
+   ],
+   [
+    "Chipset",
+    "Kirin 8020"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, (wide), 1/1.56\", dual-pixel PDAF + Auxiliary lens; LED flash, panorama, HDR; video 4K@30fps, 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.2, (wide); video 4K@30fps, 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, compass; Virtual proximity sensing"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, L2HC (320-960 kbps HD audio)"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC, GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "8500 mAh"
+   ],
+   [
+    "Charging",
+    "66W wired; 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, White, Orange, Blue"
+   ]
+  ],
+  "slug": "huawei-nova-16-se",
+  "source": "https://www.gsmarena.com/huawei_nova_16_se-14861.php",
+  "tag": "6.84\" display · Kirin 8020 · 8 GB RAM · 8500 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "hl": [
+   "6.67\" display",
+   "Kirin 8000",
+   "8 GB RAM",
+   "6620 mAh"
+  ],
+  "name": "Huawei nova Y74",
+  "price": 61999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, May)"
+   ],
+   [
+    "Region",
+    "Global"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "166.1 x 76.6 x 8.3 mm (6.54 x 3.02 x 0.33 in); 210 g (7.41 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM; Drop resistant up to 1.8m"
+   ],
+   [
+    "Display",
+    "IPS LCD, 90Hz, 850 nits (peak); 6.67 inches, 107.2 cm2 (~84.3% screen-to-body ratio); 720 x 1604 pixels, 20:9 ratio (~264 ppi density)"
+   ],
+   [
+    "OS",
+    "EMUI 12"
+   ],
+   [
+    "Chipset",
+    "Not listed by GSMArena"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF; LED flash, HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, (wide); video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 b/g/n"
+   ],
+   [
+    "Bluetooth",
+    "5.1, A2DP"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 6620 mAh"
+   ],
+   [
+    "Charging",
+    "40W wired, 53% in 30 min; 5W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Blue"
+   ]
+  ],
+  "slug": "huawei-nova-y74",
+  "source": "https://www.gsmarena.com/huawei_nova_y74-14703.php",
+  "tag": "6.67\" display · Kirin 8000 · 8 GB RAM · 6620 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Huawei",
+  "cat": "Tablets",
+  "hl": [
+   "12.2\" display",
+   "Kirin T93",
+   "12 GB RAM",
+   "10400 mAh"
+  ],
+  "name": "Huawei MatePad Pro 12 (2026)",
+  "price": 248999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 05)"
+   ],
+   [
+    "Region",
+    "Global / China"
+   ],
+   [
+    "Network",
+    "No cellular connectivity"
+   ],
+   [
+    "Body",
+    "264.2 x 172.9 x 4.7 mm (10.40 x 6.81 x 0.19 in); 439 g (15.49 oz); Glass front, aluminum frame, aluminum back; No SIM; Stylus support"
+   ],
+   [
+    "Display",
+    "OLED, 1B colors, 144Hz, HDR, 1600 nits (peak); 12.2 inches, 436.8 cm2 (~95.6% screen-to-body ratio); 3036 x 1952 pixels (~296 ppi density); PaperMatte display"
+   ],
+   [
+    "OS",
+    "HarmonyOS 6.1"
+   ],
+   [
+    "Chipset",
+    "Kirin T93 / Kirin T93A"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF; LED flash, HDR, panorama; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.4; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity (accessories only), compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (4 speakers)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, L2HC"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, BDS, GALILEO, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.1, OTG, Display Port 1.2"
+   ],
+   [
+    "Battery",
+    "Li-Po 10400 mAh"
+   ],
+   [
+    "Charging",
+    "66W wired, 100% in 53 min; 40W reverse wired"
+   ],
+   [
+    "Colors",
+    "Black, Silver, White, Blue, Gold"
+   ]
+  ],
+  "slug": "huawei-matepad-pro-12-(2026)",
+  "source": "https://www.gsmarena.com/huawei_matepad_pro_12_(2026)-14864.php",
+  "tag": "12.2\" display · Kirin T93 · 12 GB RAM · 10400 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Huawei",
+  "cat": "Tablets",
+  "hl": [
+   "12.0\" display",
+   "Kirin T93B",
+   "12 GB RAM",
+   "10100 mAh"
+  ],
+  "name": "Huawei MatePad Air (2026)",
+  "price": 186999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, July 14)"
+   ],
+   [
+    "Region",
+    "Global / China"
+   ],
+   [
+    "Network",
+    "No cellular connectivity"
+   ],
+   [
+    "Body",
+    "270 x 183 x 5.3 mm (10.63 x 7.20 x 0.21 in); 509 g (1.12 lb); Glass front, aluminum frame, aluminum back; No SIM; Stylus support (magnetic)"
+   ],
+   [
+    "Display",
+    "OLED, 144Hz, 1200 nits (peak), HDR; 12.0 inches, 426.4 cm2 (~86.3% screen-to-body ratio); 2800 x 1840 pixels, 3:2 ratio (~279 ppi density); PaperMatte Display (optional) with 2000 nits peak brightness"
+   ],
+   [
+    "OS",
+    "HarmonyOS 4.3 (International); HarmonyOS 6.1 (China)"
+   ],
+   [
+    "Chipset",
+    "Kirin T93B or Kirin T93C"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF; LED flash; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.4; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Accelerometer, gyro, proximity (accessories only)"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (6 speakers)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, L2HC"
+   ],
+   [
+    "GPS",
+    "No"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.1, OTG, magnetic accessory connector"
+   ],
+   [
+    "Battery",
+    "Li-Po 10100 mAh"
+   ],
+   [
+    "Charging",
+    "66W wired, UFCS, 100% in 85 min"
+   ],
+   [
+    "Colors",
+    "Sakura Pink, Airy Blue, White, Gray, Yellow"
+   ]
+  ],
+  "slug": "huawei-matepad-air-(2026)",
+  "source": "https://www.gsmarena.com/huawei_matepad_air_(2026)-14796.php",
+  "tag": "12.0\" display · Kirin T93B · 12 GB RAM · 10100 mAh",
+  "year": 2026
+ }
+]

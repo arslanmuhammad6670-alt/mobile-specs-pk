@@ -1,752 +1,752 @@
 [
- {
-  "slug": "samsung-galaxy-a35",
-  "name": "Samsung Galaxy A35",
-  "brand": "Samsung",
-  "price": 119999,
-  "price_src": "https://www.whatmobile.com.pk/Samsung_Galaxy-A35",
-  "year": 2024,
-  "cat": "Smartphones",
-  "tag": "120Hz AMOLED, IP67 aur OIS camera mid-range mein",
-  "hl": [
-   "6.6 inches",
-   "Exynos 1380",
-   "8 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/samsung_galaxy_a35-12705.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2024 (announced 11 Mar 2024, released 15 Mar 2024)"
-   ],
-   [
-    "Network",
-    "GSM / HSPA / LTE / 5G"
-   ],
-   [
-    "Body",
-    "161.7 x 78 x 8.2 mm, 209 g; glass front (Gorilla Glass Victus+), plastic frame, glass back; Nano-SIM + eSIM / dual Nano-SIM variants; IP67 (1 m for 30 min)"
-   ],
-   [
-    "Display",
-    "Super AMOLED, 120Hz, 1000 nits (HBM); 6.6 inches, 1080 x 2340 pixels (~390 ppi); Gorilla Glass Victus+"
-   ],
-   [
-    "Chipset",
-    "Exynos 1380 (5 nm); Octa-core CPU (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); Mali-G68 MP5 GPU"
-   ],
-   [
-    "RAM",
-    "6 GB / 8 GB / 12 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB (microSDXC via shared SIM slot)"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.8 wide (PDAF, OIS) + 8 MP f/2.2 123-degree ultrawide + 5 MP macro; LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, gyro-EIS"
-   ],
-   [
-    "Selfie Camera",
-    "13 MP f/2.2 wide; video 4K@30fps, 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "Li-Ion 5000 mAh"
-   ],
-   [
-    "Charging",
-    "25W wired"
-   ],
-   [
-    "Operating System",
-    "Android 14, One UI (up to 4 major OS updates)"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC (region dependent); USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Iceblue, Lilac, Navy, Lemon"
-   ]
-  ]
- },
- {
-  "slug": "samsung-galaxy-a25",
-  "name": "Samsung Galaxy A25",
-  "brand": "Samsung",
-  "price": 63499,
-  "price_src": "https://qeemat.com.pk/dp/104806/samsung-galaxy-a25-256gb-yellow-price-in-pakistan",
-  "year": 2023,
-  "cat": "Smartphones",
-  "tag": "Sasta 5G Samsung — 120Hz AMOLED aur OIS ke sath",
-  "hl": [
-   "6.5 inches",
-   "Exynos 1280",
-   "8 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://m.gsmarena.com/samsung_galaxy_a25-12555.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2023 (announced 11 Dec 2023, released 16 Dec 2023)"
-   ],
-   [
-    "Network",
-    "GSM / HSPA / LTE / 5G"
-   ],
-   [
-    "Body",
-    "161 x 76.5 x 8.3 mm, 197 g; glass front, plastic frame, plastic back; Nano-SIM / dual Nano-SIM variants"
-   ],
-   [
-    "Display",
-    "Super AMOLED, 120Hz, 1000 nits (HBM); 6.5 inches, 1080 x 2340 pixels (~396 ppi)"
-   ],
-   [
-    "Chipset",
-    "Exynos 1280 (5 nm); Octa-core CPU (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); Mali-G68 GPU"
-   ],
-   [
-    "RAM",
-    "4 GB / 6 GB / 8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB (microSDXC via shared SIM slot)"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.8 wide (PDAF, OIS) + 8 MP f/2.2 120-degree ultrawide + 2 MP macro; LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, gyro-EIS"
-   ],
-   [
-    "Selfie Camera",
-    "13 MP f/2.2 wide; video 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "5000 mAh"
-   ],
-   [
-    "Charging",
-    "25W wired"
-   ],
-   [
-    "Operating System",
-    "Android 14, One UI (up to 4 major OS updates)"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (side-mounted), accelerometer, gyro, compass; stereo speakers; 3.5mm jack; NFC (region dependent); USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Brave Black, Personality Yellow, Fantasy Blue, Optimistic Blue"
-   ]
-  ]
- },
- {
-  "slug": "samsung-galaxy-a05s",
-  "name": "Samsung Galaxy A05s",
-  "brand": "Samsung",
-  "price": 32999,
-  "price_src": "https://mobileinto.com/pk/Samsung-Galaxy-A05s/",
-  "year": 2023,
-  "cat": "Smartphones",
-  "tag": "Full HD+ 90Hz display Samsung ki sabse kam qeemat mein",
-  "hl": [
-   "6.7 inches",
-   "Snapdragon 680",
-   "4 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://m.gsmarena.com/samsung_galaxy_a05s-12584.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2023 (announced 25 Sep 2023, released 18 Oct 2023)"
-   ],
-   [
-    "Network",
-    "GSM / HSPA / LTE (4G)"
-   ],
-   [
-    "Body",
-    "168 x 77.8 x 8.8 mm, 194 g; glass front, plastic back, plastic frame; Nano-SIM / dual Nano-SIM variants"
-   ],
-   [
-    "Display",
-    "PLS LCD, 90Hz; 6.7 inches, 1080 x 2400 pixels (~393 ppi)"
-   ],
-   [
-    "Chipset",
-    "Qualcomm Snapdragon 680 4G (6 nm); Octa-core CPU (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver); Adreno 610 GPU"
-   ],
-   [
-    "RAM",
-    "4 GB / 6 GB"
-   ],
-   [
-    "Storage",
-    "64 GB / 128 GB eMMC 5.1 (microSDXC, dedicated slot)"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.8 wide (AF) + 2 MP macro + auxiliary lens; LED flash; video 1080p@30/60fps"
-   ],
-   [
-    "Selfie Camera",
-    "13 MP f/2.0 wide; video 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "Li-Po 5000 mAh"
-   ],
-   [
-    "Charging",
-    "25W wired"
-   ],
-   [
-    "Operating System",
-    "Android 13, One UI (up to 2 major OS updates)"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (side-mounted), accelerometer, proximity; 3.5mm jack; NFC (region dependent); USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Black, Silver, Light Green, Violet"
-   ]
-  ]
- },
- {
-  "slug": "samsung-galaxy-s24-fe",
-  "name": "Samsung Galaxy S24 FE",
-  "brand": "Samsung",
-  "price": 219999,
-  "price_src": "https://www.whatmobile.com.pk/Samsung_Galaxy-S24-FE",
-  "year": 2024,
-  "cat": "Smartphones",
-  "tag": "Galaxy AI aur 7 saal updates — flagship maza kam rate mein",
-  "hl": [
-   "6.7 inches",
-   "Exynos 2400e",
-   "8 GB RAM",
-   "4700 mAh"
-  ],
-  "source": "https://fo.gsmarena.com/samsung_galaxy_s24_fe-13262.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2024 (announced 26 Sep 2024, released 3 Oct 2024)"
-   ],
-   [
-    "Network",
-    "GSM / HSPA / LTE / 5G"
-   ],
-   [
-    "Body",
-    "162 x 77.3 x 8 mm, 213 g; glass front (Gorilla Glass Victus+), glass back (Gorilla Glass Victus+), aluminum frame; Nano-SIM / eSIM variants; IP68 (1.5 m for 30 min)"
-   ],
-   [
-    "Display",
-    "Dynamic AMOLED 2X, 120Hz, HDR10+, 1900 nits (peak); 6.7 inches, 1080 x 2340 pixels (~385 ppi); Gorilla Glass Victus+"
-   ],
-   [
-    "Chipset",
-    "Exynos 2400e (4 nm); 10-core CPU (1x3.1 GHz + 2x2.9 GHz + 3x2.6 GHz + 4x1.95 GHz); Xclipse 940 GPU"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB / 512 GB (no card slot)"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.8 wide (dual pixel PDAF, OIS) + 8 MP f/2.4 75mm telephoto (PDAF, OIS, 3x optical zoom) + 12 MP f/2.2 123-degree ultrawide; LED flash, HDR, panorama; video 8K@30fps, 4K@30/60/120fps"
-   ],
-   [
-    "Selfie Camera",
-    "10 MP f/2.4 wide; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
-   ],
-   [
-    "Battery",
-    "4700 mAh"
-   ],
-   [
-    "Charging",
-    "25W wired (PD, QC2, 50% in 30 min); 15W wireless; reverse wireless"
-   ],
-   [
-    "Operating System",
-    "Android 14, One UI (up to 7 major OS updates)"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC; Samsung DeX; USB Type-C 3.2"
-   ],
-   [
-    "Colors",
-    "Blue, Graphite, Gray, Mint, Yellow"
-   ]
-  ]
- },
- {
-  "slug": "samsung-galaxy-s23-fe",
-  "name": "Samsung Galaxy S23 FE",
-  "brand": "Samsung",
-  "price": 204999,
-  "price_src": "https://www.WhatMobile.com.pk/Samsung_Galaxy-S23-FE",
-  "year": 2023,
-  "cat": "Smartphones",
-  "tag": "Flagship features, IP68 aur wireless charging ke sath",
-  "hl": [
-   "6.4 inches",
-   "Exynos 2200",
-   "8 GB RAM",
-   "4500 mAh"
-  ],
-  "source": "http://m.gsmarena.com/samsung_galaxy_s23_fe-ampp-12520.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2023 (announced 4 Oct 2023, released 5 Oct 2023)"
-   ],
-   [
-    "Network",
-    "GSM / HSPA / LTE / 5G"
-   ],
-   [
-    "Body",
-    "158 x 76.5 x 8.2 mm, 209 g; glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame; Nano-SIM / eSIM variants; IP68 (1.5 m for 30 min)"
-   ],
-   [
-    "Display",
-    "Dynamic AMOLED 2X, 120Hz, HDR10+, 1450 nits (peak); 6.4 inches, 1080 x 2340 pixels (~403 ppi); Gorilla Glass 5"
-   ],
-   [
-    "Chipset",
-    "Exynos 2200 (4 nm) - International; Snapdragon 8 Gen 1 (4 nm) - USA; Octa-core CPU (1x2.8 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510); Xclipse 920 GPU"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB (no card slot)"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.8 wide (dual pixel PDAF, OIS) + 8 MP f/2.4 76mm telephoto (PDAF, OIS, 3x optical zoom) + 12 MP f/2.2 123-degree ultrawide; LED flash, HDR, panorama; video 8K@24fps, 4K@30/60fps"
-   ],
-   [
-    "Selfie Camera",
-    "10 MP f/2.4 wide; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
-   ],
-   [
-    "Battery",
-    "Li-Ion 4500 mAh"
-   ],
-   [
-    "Charging",
-    "25W wired (PD3.0, 50% in 30 min); 15W wireless; reverse wireless"
-   ],
-   [
-    "Operating System",
-    "Android 13, One UI (up to 4 major OS updates)"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC; Samsung DeX; USB Type-C 3.2"
-   ],
-   [
-    "Colors",
-    "Mint, Cream, Graphite, Purple, Indigo, Tangerine"
-   ]
-  ]
- },
- {
-  "slug": "apple-iphone-16-pro",
-  "name": "Apple iPhone 16 Pro",
-  "brand": "Apple",
-  "price": 396999,
-  "price_src": "https://mobileinto.com/pk/Apple-iPhone-16-Pro/",
-  "year": 2024,
-  "cat": "Smartphones",
-  "tag": "Titanium body, 5x zoom aur A18 Pro ki taqat",
-  "hl": [
-   "6.3 inches",
-   "Apple A18 Pro",
-   "8 GB RAM",
-   "3582 mAh"
-  ],
-  "source": "https://m.gsmarena.com/apple_iphone_16_pro-13315.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2024 (announced 9 Sep 2024, released 20 Sep 2024)"
-   ],
-   [
-    "Network",
-    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
-   ],
-   [
-    "Body",
-    "149.6 x 71.5 x 8.3 mm, 199 g; glass front (Ceramic Shield), glass back, titanium frame (grade 5); Nano-SIM + eSIM variants; IP68 (6 m for 30 min)"
-   ],
-   [
-    "Display",
-    "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ) / 2000 nits (HBM), Always-On; 6.3 inches, 1206 x 2622 pixels (~460 ppi); Ceramic Shield glass (2024 gen)"
-   ],
-   [
-    "Chipset",
-    "Apple A18 Pro (3 nm); Hexa-core CPU (2x4.05 GHz + 4x2.42 GHz); Apple GPU (6-core)"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB / 512 GB / 1 TB (NVMe, no card slot)"
-   ],
-   [
-    "Main Camera",
-    "48 MP f/1.8 wide (dual pixel PDAF, sensor-shift OIS) + 12 MP f/2.8 120mm periscope telephoto (dual pixel PDAF, 3D sensor-shift OIS, 5x optical zoom) + 48 MP f/2.2 13mm ultrawide (PDAF) + TOF 3D LiDAR scanner; video 4K@24/25/30/60/100/120fps, 1080p up to 240fps, Dolby Vision HDR, ProRes"
-   ],
-   [
-    "Selfie Camera",
-    "12 MP f/1.9 wide (PDAF, OIS) + SL 3D (depth/biometrics); video 4K@24/25/30/60fps"
-   ],
-   [
-    "Battery",
-    "Li-Ion 3582 mAh"
-   ],
-   [
-    "Charging",
-    "Wired PD2.0, 50% in 30 min; 25W wireless (MagSafe/Qi2); 4.5W reverse wired"
-   ],
-   [
-    "Operating System",
-    "iOS 18"
-   ],
-   [
-    "Sensors/Features",
-    "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen2); Emergency SOS via satellite; USB Type-C 3.2 Gen 2"
-   ],
-   [
-    "Colors",
-    "Black Titanium, White Titanium, Natural Titanium, Desert Titanium"
-   ]
-  ]
- },
- {
-  "slug": "apple-iphone-16-plus",
-  "name": "Apple iPhone 16 Plus",
-  "brand": "Apple",
-  "price": 327999,
-  "price_src": "https://priceoye.pk/mobiles/pricelist/best-selfie-camera-phones",
-  "year": 2024,
-  "cat": "Smartphones",
-  "tag": "Bari screen, A18 chip aur sabse lambi iPhone battery",
-  "hl": [
-   "6.7 inches",
-   "Apple A18",
-   "8 GB RAM",
-   "4674 mAh"
-  ],
-  "source": "https://m.gsmarena.com/apple_iphone_16_plus-13316.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2024 (announced 9 Sep 2024, released 20 Sep 2024)"
-   ],
-   [
-    "Network",
-    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
-   ],
-   [
-    "Body",
-    "160.9 x 77.8 x 7.8 mm, 199 g; glass front (Ceramic Shield), glass back, aluminum frame; Nano-SIM + eSIM variants; IP68 (6 m for 30 min)"
-   ],
-   [
-    "Display",
-    "Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ) / 2000 nits (HBM); 6.7 inches, 1290 x 2796 pixels (~460 ppi); Ceramic Shield glass (2024 gen)"
-   ],
-   [
-    "Chipset",
-    "Apple A18 (3 nm); Hexa-core CPU (2x4.04 GHz + 4x2.20 GHz); Apple GPU (5-core)"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB / 512 GB (NVMe, no card slot)"
-   ],
-   [
-    "Main Camera",
-    "48 MP f/1.6 wide (dual pixel PDAF, sensor-shift OIS) + 12 MP f/2.2 13mm 120-degree ultrawide (dual pixel PDAF); Dual-LED dual-tone flash, HDR; video 4K@24/25/30/60fps, 1080p up to 240fps, Dolby Vision HDR"
-   ],
-   [
-    "Selfie Camera",
-    "12 MP f/1.9 wide (PDAF) + SL 3D (depth/biometrics); video 4K@24/25/30/60fps"
-   ],
-   [
-    "Battery",
-    "Li-Ion 4674 mAh"
-   ],
-   [
-    "Charging",
-    "Wired PD2.0, 50% in 30 min; 25W wireless (MagSafe/Qi2); 4.5W reverse wired"
-   ],
-   [
-    "Operating System",
-    "iOS 18"
-   ],
-   [
-    "Sensors/Features",
-    "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen2); Emergency SOS via satellite; USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Black, White, Pink, Teal, Ultramarine"
-   ]
-  ]
- },
- {
-  "slug": "apple-iphone-15-pro-max",
-  "name": "Apple iPhone 15 Pro Max",
-  "brand": "Apple",
-  "price": 474999,
-  "price_src": "https://www.whatmobile.com.pk/Apple_iPhone-15-Pro-Max",
-  "year": 2023,
-  "cat": "Smartphones",
-  "tag": "5x periscope zoom, titanium body aur A17 Pro",
-  "hl": [
-   "6.7 inches",
-   "Apple A17 Pro",
-   "8 GB RAM",
-   "4441 mAh"
-  ],
-  "source": "https://m.gsmarena.com/apple_iphone_15_pro_max-12548.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2023 (announced 12 Sep 2023, released 22 Sep 2023)"
-   ],
-   [
-    "Network",
-    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
-   ],
-   [
-    "Body",
-    "159.9 x 76.7 x 8.3 mm, 221 g; glass front, glass back, titanium frame (grade 5); Nano-SIM + eSIM variants; IP68 (6 m for 30 min)"
-   ],
-   [
-    "Display",
-    "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ) / 2000 nits (HBM), Always-On; 6.7 inches, 1290 x 2796 pixels (~460 ppi); Ceramic Shield glass"
-   ],
-   [
-    "Chipset",
-    "Apple A17 Pro (3 nm); Hexa-core CPU (2x3.78 GHz + 4x2.11 GHz); Apple GPU (6-core)"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Storage",
-    "256 GB / 512 GB / 1 TB (NVMe, no card slot)"
-   ],
-   [
-    "Main Camera",
-    "48 MP f/1.8 wide (dual pixel PDAF, sensor-shift OIS) + 12 MP f/2.8 120mm periscope telephoto (dual pixel PDAF, 3D sensor-shift OIS, 5x optical zoom) + 12 MP f/2.2 13mm 120-degree ultrawide (dual pixel PDAF) + TOF 3D LiDAR scanner; video 4K@24/25/30/60fps, 1080p up to 240fps, Dolby Vision HDR, ProRes"
-   ],
-   [
-    "Selfie Camera",
-    "12 MP f/1.9 wide (PDAF, OIS) + SL 3D (depth/biometrics); video 4K@24/25/30/60fps"
-   ],
-   [
-    "Battery",
-    "Li-Ion 4441 mAh"
-   ],
-   [
-    "Charging",
-    "Wired PD2.0, 50% in 30 min; 15W wireless (MagSafe); 15W wireless (Qi2, iOS 17.2+); 4.5W reverse wired"
-   ],
-   [
-    "Operating System",
-    "iOS 17"
-   ],
-   [
-    "Sensors/Features",
-    "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen2); Emergency SOS via satellite; USB Type-C 3.2 Gen 2"
-   ],
-   [
-    "Colors",
-    "Black Titanium, White Titanium, Blue Titanium, Natural Titanium"
-   ]
-  ]
- },
- {
-  "slug": "apple-iphone-15-plus",
-  "name": "Apple iPhone 15 Plus",
-  "brand": "Apple",
-  "price": 384999,
-  "price_src": "https://www.urdupoint.com/mobile/apple/iphone-15-plus-price-in-pakistan.html",
-  "year": 2023,
-  "cat": "Smartphones",
-  "tag": "Dynamic Island, 48MP camera aur USB-C ke sath bara iPhone",
-  "hl": [
-   "6.7 inches",
-   "Apple A16 Bionic",
-   "6 GB RAM",
-   "4383 mAh"
-  ],
-  "source": "https://m.gsmarena.com/apple_iphone_15_plus-12558.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2023 (announced 12 Sep 2023, released 22 Sep 2023)"
-   ],
-   [
-    "Network",
-    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
-   ],
-   [
-    "Body",
-    "160.9 x 77.8 x 7.8 mm, 201 g; glass front, glass back, aluminum frame; Nano-SIM + eSIM variants; IP68 (6 m for 30 min)"
-   ],
-   [
-    "Display",
-    "Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (HBM) / 2000 nits (peak); 6.7 inches, 1290 x 2796 pixels (~460 ppi); Ceramic Shield glass"
-   ],
-   [
-    "Chipset",
-    "Apple A16 Bionic (4 nm); Hexa-core CPU (2x3.46 GHz Everest + 4x2.02 GHz Sawtooth); Apple GPU (5-core)"
-   ],
-   [
-    "RAM",
-    "6 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB / 512 GB (NVMe, no card slot)"
-   ],
-   [
-    "Main Camera",
-    "48 MP f/1.6 wide (dual pixel PDAF, sensor-shift OIS) + 12 MP f/2.4 13mm 120-degree ultrawide; Dual-LED dual-tone flash, HDR; video 4K@24/25/30/60fps, 1080p up to 240fps, Dolby Vision HDR"
-   ],
-   [
-    "Selfie Camera",
-    "12 MP f/1.9 wide (PDAF) + SL 3D (depth/biometrics); video 4K@24/25/30/60fps"
-   ],
-   [
-    "Battery",
-    "Li-Ion 4383 mAh"
-   ],
-   [
-    "Charging",
-    "Wired PD2.0, 50% in 30 min; 15W wireless (MagSafe); 15W wireless (Qi2, iOS 17.2+); 4.5W reverse wired"
-   ],
-   [
-    "Operating System",
-    "iOS 17"
-   ],
-   [
-    "Sensors/Features",
-    "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen2); Emergency SOS via satellite; USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Black, Blue, Green, Yellow, Pink"
-   ]
-  ]
- },
- {
-  "slug": "apple-iphone-13-mini",
-  "name": "Apple iPhone 13 mini",
-  "brand": "Apple",
-  "price": 223399,
-  "price_src": "https://www.whatmobile.com.pk/Apple_iPhone-13-Mini",
-  "year": 2021,
-  "cat": "Smartphones",
-  "tag": "Chota size, poori iPhone taqat — mini lovers ke liye",
-  "hl": [
-   "5.4 inches",
-   "Apple A15 Bionic",
-   "4 GB RAM",
-   "2438 mAh"
-  ],
-  "source": "https://m.gsmarena.com/apple_iphone_13_mini-11104.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2021 (announced 14 Sep 2021, released 24 Sep 2021)"
-   ],
-   [
-    "Network",
-    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
-   ],
-   [
-    "Body",
-    "131.5 x 64.2 x 7.7 mm, 141 g; glass front, glass back, aluminum frame; Nano-SIM + eSIM / dual Nano-SIM variants; IP68 (6 m for 30 min)"
-   ],
-   [
-    "Display",
-    "Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM) / 1200 nits (peak); 5.4 inches, 1080 x 2340 pixels (~476 ppi); Ceramic Shield glass"
-   ],
-   [
-    "Chipset",
-    "Apple A15 Bionic (5 nm); Hexa-core CPU (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard); Apple GPU (4-core)"
-   ],
-   [
-    "RAM",
-    "4 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB / 512 GB (NVMe, no card slot)"
-   ],
-   [
-    "Main Camera",
-    "12 MP f/1.6 wide (dual pixel PDAF, sensor-shift OIS) + 12 MP f/2.4 120-degree 13mm ultrawide; Dual-LED dual-tone flash, HDR; video 4K@24/25/30/60fps, 1080p up to 240fps, Dolby Vision HDR"
-   ],
-   [
-    "Selfie Camera",
-    "12 MP f/2.2 wide + SL 3D (depth/biometrics); video 4K@24/25/30/60fps"
-   ],
-   [
-    "Battery",
-    "Li-Ion 2438 mAh (9.34 Wh)"
-   ],
-   [
-    "Charging",
-    "Wired PD2.0, 50% in 30 min; 15W wireless (MagSafe); 15W wireless (Qi2, iOS 17.2+)"
-   ],
-   [
-    "Operating System",
-    "iOS 15"
-   ],
-   [
-    "Sensors/Features",
-    "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (UWB); NFC; Lightning, USB 2.0"
-   ],
-   [
-    "Colors",
-    "Starlight, Midnight, Blue, Pink, Red, Green"
-   ]
-  ]
- }
+                                {
+                                                                "slug": "samsung-galaxy-a35",
+                                                                "name": "Samsung Galaxy A35",
+                                                                "brand": "Samsung",
+                                                                "price": 119999,
+                                                                "price_src": "https://www.whatmobile.com.pk/Samsung_Galaxy-A35",
+                                                                "year": 2024,
+                                                                "cat": "Smartphones",
+                                                                "tag": "120Hz AMOLED, IP67 aur OIS camera mid-range mein",
+                                                                "hl": [
+                                                                                                "6.6 inches",
+                                                                                                "Exynos 1380",
+                                                                                                "8 GB RAM",
+                                                                                                "5000 mAh"
+                                                                ],
+                                                                "source": "https://www.gsmarena.com/samsung_galaxy_a35-12705.php",
+                                                                "rows": [
+                                                                                                [
+                                                                                                                                "Launch Year",
+                                                                                                                                "2024 (announced 11 Mar 2024, released 15 Mar 2024)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Network",
+                                                                                                                                "GSM / HSPA / LTE / 5G"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Body",
+                                                                                                                                "161.7 x 78 x 8.2 mm, 209 g; glass front (Gorilla Glass Victus+), plastic frame, glass back; Nano-SIM + eSIM / dual Nano-SIM variants; IP67 (1 m for 30 min)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Display",
+                                                                                                                                "Super AMOLED, 120Hz, 1000 nits (HBM); 6.6 inches, 1080 x 2340 pixels (~390 ppi); Gorilla Glass Victus+"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Chipset",
+                                                                                                                                "Exynos 1380 (5 nm); Octa-core CPU (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); Mali-G68 MP5 GPU"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "RAM",
+                                                                                                                                "6 GB / 8 GB / 12 GB"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Storage",
+                                                                                                                                "128 GB / 256 GB (microSDXC via shared SIM slot)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Main Camera",
+                                                                                                                                "50 MP f/1.8 wide (PDAF, OIS) + 8 MP f/2.2 123-degree ultrawide + 5 MP macro; LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, gyro-EIS"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Selfie Camera",
+                                                                                                                                "13 MP f/2.2 wide; video 4K@30fps, 1080p@30fps"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Battery",
+                                                                                                                                "Li-Ion 5000 mAh"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Charging",
+                                                                                                                                "25W wired"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Operating System",
+                                                                                                                                "Android 14, One UI (up to 4 major OS updates)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Sensors/Features",
+                                                                                                                                "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC (region dependent); USB Type-C 2.0"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Colors",
+                                                                                                                                "Iceblue, Lilac, Navy, Lemon"
+                                                                                                ]
+                                                                ]
+                                },
+                                {
+                                                                "slug": "samsung-galaxy-a25",
+                                                                "name": "Samsung Galaxy A25",
+                                                                "brand": "Samsung",
+                                                                "price": 63499,
+                                                                "price_src": "https://qeemat.com.pk/dp/104806/samsung-galaxy-a25-256gb-yellow-price-in-pakistan",
+                                                                "year": 2023,
+                                                                "cat": "Smartphones",
+                                                                "tag": "Sasta 5G Samsung — 120Hz AMOLED aur OIS ke sath",
+                                                                "hl": [
+                                                                                                "6.5 inches",
+                                                                                                "Exynos 1280",
+                                                                                                "8 GB RAM",
+                                                                                                "5000 mAh"
+                                                                ],
+                                                                "source": "https://m.gsmarena.com/samsung_galaxy_a25-12555.php",
+                                                                "rows": [
+                                                                                                [
+                                                                                                                                "Launch Year",
+                                                                                                                                "2023 (announced 11 Dec 2023, released 16 Dec 2023)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Network",
+                                                                                                                                "GSM / HSPA / LTE / 5G"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Body",
+                                                                                                                                "161 x 76.5 x 8.3 mm, 197 g; glass front, plastic frame, plastic back; Nano-SIM / dual Nano-SIM variants"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Display",
+                                                                                                                                "Super AMOLED, 120Hz, 1000 nits (HBM); 6.5 inches, 1080 x 2340 pixels (~396 ppi)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Chipset",
+                                                                                                                                "Exynos 1280 (5 nm); Octa-core CPU (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); Mali-G68 GPU"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "RAM",
+                                                                                                                                "4 GB / 6 GB / 8 GB"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Storage",
+                                                                                                                                "128 GB / 256 GB (microSDXC via shared SIM slot)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Main Camera",
+                                                                                                                                "50 MP f/1.8 wide (PDAF, OIS) + 8 MP f/2.2 120-degree ultrawide + 2 MP macro; LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, gyro-EIS"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Selfie Camera",
+                                                                                                                                "13 MP f/2.2 wide; video 1080p@30fps"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Battery",
+                                                                                                                                "5000 mAh"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Charging",
+                                                                                                                                "25W wired"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Operating System",
+                                                                                                                                "Android 14, One UI (up to 4 major OS updates)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Sensors/Features",
+                                                                                                                                "Fingerprint (side-mounted), accelerometer, gyro, compass; stereo speakers; 3.5mm jack; NFC (region dependent); USB Type-C 2.0"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Colors",
+                                                                                                                                "Brave Black, Personality Yellow, Fantasy Blue, Optimistic Blue"
+                                                                                                ]
+                                                                ]
+                                },
+                                {
+                                                                "slug": "samsung-galaxy-a05s",
+                                                                "name": "Samsung Galaxy A05s",
+                                                                "brand": "Samsung",
+                                                                "price": 32999,
+                                                                "price_src": "https://mobileinto.com/pk/Samsung-Galaxy-A05s/",
+                                                                "year": 2023,
+                                                                "cat": "Smartphones",
+                                                                "tag": "Full HD+ 90Hz display Samsung ki sabse kam qeemat mein",
+                                                                "hl": [
+                                                                                                "6.7 inches",
+                                                                                                "Snapdragon 680",
+                                                                                                "4 GB RAM",
+                                                                                                "5000 mAh"
+                                                                ],
+                                                                "source": "https://m.gsmarena.com/samsung_galaxy_a05s-12584.php",
+                                                                "rows": [
+                                                                                                [
+                                                                                                                                "Launch Year",
+                                                                                                                                "2023 (announced 25 Sep 2023, released 18 Oct 2023)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Network",
+                                                                                                                                "GSM / HSPA / LTE (4G)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Body",
+                                                                                                                                "168 x 77.8 x 8.8 mm, 194 g; glass front, plastic back, plastic frame; Nano-SIM / dual Nano-SIM variants"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Display",
+                                                                                                                                "PLS LCD, 90Hz; 6.7 inches, 1080 x 2400 pixels (~393 ppi)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Chipset",
+                                                                                                                                "Qualcomm Snapdragon 680 4G (6 nm); Octa-core CPU (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver); Adreno 610 GPU"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "RAM",
+                                                                                                                                "4 GB / 6 GB"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Storage",
+                                                                                                                                "64 GB / 128 GB eMMC 5.1 (microSDXC, dedicated slot)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Main Camera",
+                                                                                                                                "50 MP f/1.8 wide (AF) + 2 MP macro + auxiliary lens; LED flash; video 1080p@30/60fps"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Selfie Camera",
+                                                                                                                                "13 MP f/2.0 wide; video 1080p@30fps"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Battery",
+                                                                                                                                "Li-Po 5000 mAh"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Charging",
+                                                                                                                                "25W wired"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Operating System",
+                                                                                                                                "Android 13, One UI (up to 2 major OS updates)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Sensors/Features",
+                                                                                                                                "Fingerprint (side-mounted), accelerometer, proximity; 3.5mm jack; NFC (region dependent); USB Type-C 2.0"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Colors",
+                                                                                                                                "Black, Silver, Light Green, Violet"
+                                                                                                ]
+                                                                ]
+                                },
+                                {
+                                                                "slug": "samsung-galaxy-s24-fe",
+                                                                "name": "Samsung Galaxy S24 FE",
+                                                                "brand": "Samsung",
+                                                                "price": 219999,
+                                                                "price_src": "https://www.whatmobile.com.pk/Samsung_Galaxy-S24-FE",
+                                                                "year": 2024,
+                                                                "cat": "Smartphones",
+                                                                "tag": "Galaxy AI aur 7 saal updates — flagship maza kam rate mein",
+                                                                "hl": [
+                                                                                                "6.7 inches",
+                                                                                                "Exynos 2400e",
+                                                                                                "8 GB RAM",
+                                                                                                "4700 mAh"
+                                                                ],
+                                                                "source": "https://fo.gsmarena.com/samsung_galaxy_s24_fe-13262.php",
+                                                                "rows": [
+                                                                                                [
+                                                                                                                                "Launch Year",
+                                                                                                                                "2024 (announced 26 Sep 2024, released 3 Oct 2024)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Network",
+                                                                                                                                "GSM / HSPA / LTE / 5G"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Body",
+                                                                                                                                "162 x 77.3 x 8 mm, 213 g; glass front (Gorilla Glass Victus+), glass back (Gorilla Glass Victus+), aluminum frame; Nano-SIM / eSIM variants; IP68 (1.5 m for 30 min)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Display",
+                                                                                                                                "Dynamic AMOLED 2X, 120Hz, HDR10+, 1900 nits (peak); 6.7 inches, 1080 x 2340 pixels (~385 ppi); Gorilla Glass Victus+"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Chipset",
+                                                                                                                                "Exynos 2400e (4 nm); 10-core CPU (1x3.1 GHz + 2x2.9 GHz + 3x2.6 GHz + 4x1.95 GHz); Xclipse 940 GPU"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "RAM",
+                                                                                                                                "8 GB"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Storage",
+                                                                                                                                "128 GB / 256 GB / 512 GB (no card slot)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Main Camera",
+                                                                                                                                "50 MP f/1.8 wide (dual pixel PDAF, OIS) + 8 MP f/2.4 75mm telephoto (PDAF, OIS, 3x optical zoom) + 12 MP f/2.2 123-degree ultrawide; LED flash, HDR, panorama; video 8K@30fps, 4K@30/60/120fps"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Selfie Camera",
+                                                                                                                                "10 MP f/2.4 wide; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Battery",
+                                                                                                                                "4700 mAh"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Charging",
+                                                                                                                                "25W wired (PD, QC2, 50% in 30 min); 15W wireless; reverse wireless"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Operating System",
+                                                                                                                                "Android 14, One UI (up to 7 major OS updates)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Sensors/Features",
+                                                                                                                                "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC; Samsung DeX; USB Type-C 3.2"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Colors",
+                                                                                                                                "Blue, Graphite, Gray, Mint, Yellow"
+                                                                                                ]
+                                                                ]
+                                },
+                                {
+                                                                "slug": "samsung-galaxy-s23-fe",
+                                                                "name": "Samsung Galaxy S23 FE",
+                                                                "brand": "Samsung",
+                                                                "price": 204999,
+                                                                "price_src": "https://www.WhatMobile.com.pk/Samsung_Galaxy-S23-FE",
+                                                                "year": 2023,
+                                                                "cat": "Smartphones",
+                                                                "tag": "Flagship features, IP68 aur wireless charging ke sath",
+                                                                "hl": [
+                                                                                                "6.4 inches",
+                                                                                                "Exynos 2200",
+                                                                                                "8 GB RAM",
+                                                                                                "4500 mAh"
+                                                                ],
+                                                                "source": "http://m.gsmarena.com/samsung_galaxy_s23_fe-ampp-12520.php",
+                                                                "rows": [
+                                                                                                [
+                                                                                                                                "Launch Year",
+                                                                                                                                "2023 (announced 4 Oct 2023, released 5 Oct 2023)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Network",
+                                                                                                                                "GSM / HSPA / LTE / 5G"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Body",
+                                                                                                                                "158 x 76.5 x 8.2 mm, 209 g; glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), aluminum frame; Nano-SIM / eSIM variants; IP68 (1.5 m for 30 min)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Display",
+                                                                                                                                "Dynamic AMOLED 2X, 120Hz, HDR10+, 1450 nits (peak); 6.4 inches, 1080 x 2340 pixels (~403 ppi); Gorilla Glass 5"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Chipset",
+                                                                                                                                "Exynos 2200 (4 nm) - International; Snapdragon 8 Gen 1 (4 nm) - USA; Octa-core CPU (1x2.8 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.8 GHz Cortex-A510); Xclipse 920 GPU"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "RAM",
+                                                                                                                                "8 GB"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Storage",
+                                                                                                                                "128 GB / 256 GB (no card slot)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Main Camera",
+                                                                                                                                "50 MP f/1.8 wide (dual pixel PDAF, OIS) + 8 MP f/2.4 76mm telephoto (PDAF, OIS, 3x optical zoom) + 12 MP f/2.2 123-degree ultrawide; LED flash, HDR, panorama; video 8K@24fps, 4K@30/60fps"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Selfie Camera",
+                                                                                                                                "10 MP f/2.4 wide; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Battery",
+                                                                                                                                "Li-Ion 4500 mAh"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Charging",
+                                                                                                                                "25W wired (PD3.0, 50% in 30 min); 15W wireless; reverse wireless"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Operating System",
+                                                                                                                                "Android 13, One UI (up to 4 major OS updates)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Sensors/Features",
+                                                                                                                                "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC; Samsung DeX; USB Type-C 3.2"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Colors",
+                                                                                                                                "Mint, Cream, Graphite, Purple, Indigo, Tangerine"
+                                                                                                ]
+                                                                ]
+                                },
+                                {
+                                                                "slug": "apple-iphone-16-pro",
+                                                                "name": "Apple iPhone 16 Pro",
+                                                                "brand": "Apple",
+                                                                "price": 405500,
+                                                                "price_src": "https://priceoye.pk/mobiles/apple/apple-iphone-16-pro",
+                                                                "year": 2024,
+                                                                "cat": "Smartphones",
+                                                                "tag": "Titanium body, 5x zoom aur A18 Pro ki taqat",
+                                                                "hl": [
+                                                                                                "6.3 inches",
+                                                                                                "Apple A18 Pro",
+                                                                                                "8 GB RAM",
+                                                                                                "3582 mAh"
+                                                                ],
+                                                                "source": "https://m.gsmarena.com/apple_iphone_16_pro-13315.php",
+                                                                "rows": [
+                                                                                                [
+                                                                                                                                "Launch Year",
+                                                                                                                                "2024 (announced 9 Sep 2024, released 20 Sep 2024)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Network",
+                                                                                                                                "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Body",
+                                                                                                                                "149.6 x 71.5 x 8.3 mm, 199 g; glass front (Ceramic Shield), glass back, titanium frame (grade 5); Nano-SIM + eSIM variants; IP68 (6 m for 30 min)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Display",
+                                                                                                                                "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ) / 2000 nits (HBM), Always-On; 6.3 inches, 1206 x 2622 pixels (~460 ppi); Ceramic Shield glass (2024 gen)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Chipset",
+                                                                                                                                "Apple A18 Pro (3 nm); Hexa-core CPU (2x4.05 GHz + 4x2.42 GHz); Apple GPU (6-core)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "RAM",
+                                                                                                                                "8 GB"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Storage",
+                                                                                                                                "128 GB / 256 GB / 512 GB / 1 TB (NVMe, no card slot)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Main Camera",
+                                                                                                                                "48 MP f/1.8 wide (dual pixel PDAF, sensor-shift OIS) + 12 MP f/2.8 120mm periscope telephoto (dual pixel PDAF, 3D sensor-shift OIS, 5x optical zoom) + 48 MP f/2.2 13mm ultrawide (PDAF) + TOF 3D LiDAR scanner; video 4K@24/25/30/60/100/120fps, 1080p up to 240fps, Dolby Vision HDR, ProRes"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Selfie Camera",
+                                                                                                                                "12 MP f/1.9 wide (PDAF, OIS) + SL 3D (depth/biometrics); video 4K@24/25/30/60fps"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Battery",
+                                                                                                                                "Li-Ion 3582 mAh"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Charging",
+                                                                                                                                "Wired PD2.0, 50% in 30 min; 25W wireless (MagSafe/Qi2); 4.5W reverse wired"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Operating System",
+                                                                                                                                "iOS 18"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Sensors/Features",
+                                                                                                                                "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen2); Emergency SOS via satellite; USB Type-C 3.2 Gen 2"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Colors",
+                                                                                                                                "Black Titanium, White Titanium, Natural Titanium, Desert Titanium"
+                                                                                                ]
+                                                                ]
+                                },
+                                {
+                                                                "slug": "apple-iphone-16-plus",
+                                                                "name": "Apple iPhone 16 Plus",
+                                                                "brand": "Apple",
+                                                                "price": 361500,
+                                                                "price_src": "https://priceoye.pk/mobiles/apple/apple-iphone-16-plus",
+                                                                "year": 2024,
+                                                                "cat": "Smartphones",
+                                                                "tag": "Bari screen, A18 chip aur sabse lambi iPhone battery",
+                                                                "hl": [
+                                                                                                "6.7 inches",
+                                                                                                "Apple A18",
+                                                                                                "8 GB RAM",
+                                                                                                "4674 mAh"
+                                                                ],
+                                                                "source": "https://m.gsmarena.com/apple_iphone_16_plus-13316.php",
+                                                                "rows": [
+                                                                                                [
+                                                                                                                                "Launch Year",
+                                                                                                                                "2024 (announced 9 Sep 2024, released 20 Sep 2024)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Network",
+                                                                                                                                "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Body",
+                                                                                                                                "160.9 x 77.8 x 7.8 mm, 199 g; glass front (Ceramic Shield), glass back, aluminum frame; Nano-SIM + eSIM variants; IP68 (6 m for 30 min)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Display",
+                                                                                                                                "Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (typ) / 2000 nits (HBM); 6.7 inches, 1290 x 2796 pixels (~460 ppi); Ceramic Shield glass (2024 gen)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Chipset",
+                                                                                                                                "Apple A18 (3 nm); Hexa-core CPU (2x4.04 GHz + 4x2.20 GHz); Apple GPU (5-core)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "RAM",
+                                                                                                                                "8 GB"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Storage",
+                                                                                                                                "128 GB / 256 GB / 512 GB (NVMe, no card slot)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Main Camera",
+                                                                                                                                "48 MP f/1.6 wide (dual pixel PDAF, sensor-shift OIS) + 12 MP f/2.2 13mm 120-degree ultrawide (dual pixel PDAF); Dual-LED dual-tone flash, HDR; video 4K@24/25/30/60fps, 1080p up to 240fps, Dolby Vision HDR"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Selfie Camera",
+                                                                                                                                "12 MP f/1.9 wide (PDAF) + SL 3D (depth/biometrics); video 4K@24/25/30/60fps"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Battery",
+                                                                                                                                "Li-Ion 4674 mAh"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Charging",
+                                                                                                                                "Wired PD2.0, 50% in 30 min; 25W wireless (MagSafe/Qi2); 4.5W reverse wired"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Operating System",
+                                                                                                                                "iOS 18"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Sensors/Features",
+                                                                                                                                "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen2); Emergency SOS via satellite; USB Type-C 2.0"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Colors",
+                                                                                                                                "Black, White, Pink, Teal, Ultramarine"
+                                                                                                ]
+                                                                ]
+                                },
+                                {
+                                                                "slug": "apple-iphone-15-pro-max",
+                                                                "name": "Apple iPhone 15 Pro Max",
+                                                                "brand": "Apple",
+                                                                "price": 481500,
+                                                                "price_src": "https://priceoye.pk/mobiles/apple/apple-iphone-15-pro-max",
+                                                                "year": 2023,
+                                                                "cat": "Smartphones",
+                                                                "tag": "5x periscope zoom, titanium body aur A17 Pro",
+                                                                "hl": [
+                                                                                                "6.7 inches",
+                                                                                                "Apple A17 Pro",
+                                                                                                "8 GB RAM",
+                                                                                                "4441 mAh"
+                                                                ],
+                                                                "source": "https://m.gsmarena.com/apple_iphone_15_pro_max-12548.php",
+                                                                "rows": [
+                                                                                                [
+                                                                                                                                "Launch Year",
+                                                                                                                                "2023 (announced 12 Sep 2023, released 22 Sep 2023)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Network",
+                                                                                                                                "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Body",
+                                                                                                                                "159.9 x 76.7 x 8.3 mm, 221 g; glass front, glass back, titanium frame (grade 5); Nano-SIM + eSIM variants; IP68 (6 m for 30 min)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Display",
+                                                                                                                                "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ) / 2000 nits (HBM), Always-On; 6.7 inches, 1290 x 2796 pixels (~460 ppi); Ceramic Shield glass"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Chipset",
+                                                                                                                                "Apple A17 Pro (3 nm); Hexa-core CPU (2x3.78 GHz + 4x2.11 GHz); Apple GPU (6-core)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "RAM",
+                                                                                                                                "8 GB"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Storage",
+                                                                                                                                "256 GB / 512 GB / 1 TB (NVMe, no card slot)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Main Camera",
+                                                                                                                                "48 MP f/1.8 wide (dual pixel PDAF, sensor-shift OIS) + 12 MP f/2.8 120mm periscope telephoto (dual pixel PDAF, 3D sensor-shift OIS, 5x optical zoom) + 12 MP f/2.2 13mm 120-degree ultrawide (dual pixel PDAF) + TOF 3D LiDAR scanner; video 4K@24/25/30/60fps, 1080p up to 240fps, Dolby Vision HDR, ProRes"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Selfie Camera",
+                                                                                                                                "12 MP f/1.9 wide (PDAF, OIS) + SL 3D (depth/biometrics); video 4K@24/25/30/60fps"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Battery",
+                                                                                                                                "Li-Ion 4441 mAh"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Charging",
+                                                                                                                                "Wired PD2.0, 50% in 30 min; 15W wireless (MagSafe); 15W wireless (Qi2, iOS 17.2+); 4.5W reverse wired"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Operating System",
+                                                                                                                                "iOS 17"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Sensors/Features",
+                                                                                                                                "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen2); Emergency SOS via satellite; USB Type-C 3.2 Gen 2"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Colors",
+                                                                                                                                "Black Titanium, White Titanium, Blue Titanium, Natural Titanium"
+                                                                                                ]
+                                                                ]
+                                },
+                                {
+                                                                "slug": "apple-iphone-15-plus",
+                                                                "name": "Apple iPhone 15 Plus",
+                                                                "brand": "Apple",
+                                                                "price": 382000,
+                                                                "price_src": "https://priceoye.pk/mobiles/apple/apple-iphone-15-plus",
+                                                                "year": 2023,
+                                                                "cat": "Smartphones",
+                                                                "tag": "Dynamic Island, 48MP camera aur USB-C ke sath bara iPhone",
+                                                                "hl": [
+                                                                                                "6.7 inches",
+                                                                                                "Apple A16 Bionic",
+                                                                                                "6 GB RAM",
+                                                                                                "4383 mAh"
+                                                                ],
+                                                                "source": "https://m.gsmarena.com/apple_iphone_15_plus-12558.php",
+                                                                "rows": [
+                                                                                                [
+                                                                                                                                "Launch Year",
+                                                                                                                                "2023 (announced 12 Sep 2023, released 22 Sep 2023)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Network",
+                                                                                                                                "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Body",
+                                                                                                                                "160.9 x 77.8 x 7.8 mm, 201 g; glass front, glass back, aluminum frame; Nano-SIM + eSIM variants; IP68 (6 m for 30 min)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Display",
+                                                                                                                                "Super Retina XDR OLED, HDR10, Dolby Vision, 1000 nits (HBM) / 2000 nits (peak); 6.7 inches, 1290 x 2796 pixels (~460 ppi); Ceramic Shield glass"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Chipset",
+                                                                                                                                "Apple A16 Bionic (4 nm); Hexa-core CPU (2x3.46 GHz Everest + 4x2.02 GHz Sawtooth); Apple GPU (5-core)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "RAM",
+                                                                                                                                "6 GB"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Storage",
+                                                                                                                                "128 GB / 256 GB / 512 GB (NVMe, no card slot)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Main Camera",
+                                                                                                                                "48 MP f/1.6 wide (dual pixel PDAF, sensor-shift OIS) + 12 MP f/2.4 13mm 120-degree ultrawide; Dual-LED dual-tone flash, HDR; video 4K@24/25/30/60fps, 1080p up to 240fps, Dolby Vision HDR"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Selfie Camera",
+                                                                                                                                "12 MP f/1.9 wide (PDAF) + SL 3D (depth/biometrics); video 4K@24/25/30/60fps"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Battery",
+                                                                                                                                "Li-Ion 4383 mAh"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Charging",
+                                                                                                                                "Wired PD2.0, 50% in 30 min; 15W wireless (MagSafe); 15W wireless (Qi2, iOS 17.2+); 4.5W reverse wired"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Operating System",
+                                                                                                                                "iOS 17"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Sensors/Features",
+                                                                                                                                "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (gen2); Emergency SOS via satellite; USB Type-C 2.0"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Colors",
+                                                                                                                                "Black, Blue, Green, Yellow, Pink"
+                                                                                                ]
+                                                                ]
+                                },
+                                {
+                                                                "slug": "apple-iphone-13-mini",
+                                                                "name": "Apple iPhone 13 mini",
+                                                                "brand": "Apple",
+                                                                "price": 223400,
+                                                                "price_src": "https://priceoye.pk/mobiles/apple/apple-iphone-13-mini",
+                                                                "year": 2021,
+                                                                "cat": "Smartphones",
+                                                                "tag": "Chota size, poori iPhone taqat — mini lovers ke liye",
+                                                                "hl": [
+                                                                                                "5.4 inches",
+                                                                                                "Apple A15 Bionic",
+                                                                                                "4 GB RAM",
+                                                                                                "2438 mAh"
+                                                                ],
+                                                                "source": "https://m.gsmarena.com/apple_iphone_13_mini-11104.php",
+                                                                "rows": [
+                                                                                                [
+                                                                                                                                "Launch Year",
+                                                                                                                                "2021 (announced 14 Sep 2021, released 24 Sep 2021)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Network",
+                                                                                                                                "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Body",
+                                                                                                                                "131.5 x 64.2 x 7.7 mm, 141 g; glass front, glass back, aluminum frame; Nano-SIM + eSIM / dual Nano-SIM variants; IP68 (6 m for 30 min)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Display",
+                                                                                                                                "Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM) / 1200 nits (peak); 5.4 inches, 1080 x 2340 pixels (~476 ppi); Ceramic Shield glass"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Chipset",
+                                                                                                                                "Apple A15 Bionic (5 nm); Hexa-core CPU (2x3.23 GHz Avalanche + 4x1.82 GHz Blizzard); Apple GPU (4-core)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "RAM",
+                                                                                                                                "4 GB"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Storage",
+                                                                                                                                "128 GB / 256 GB / 512 GB (NVMe, no card slot)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Main Camera",
+                                                                                                                                "12 MP f/1.6 wide (dual pixel PDAF, sensor-shift OIS) + 12 MP f/2.4 120-degree 13mm ultrawide; Dual-LED dual-tone flash, HDR; video 4K@24/25/30/60fps, 1080p up to 240fps, Dolby Vision HDR"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Selfie Camera",
+                                                                                                                                "12 MP f/2.2 wide + SL 3D (depth/biometrics); video 4K@24/25/30/60fps"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Battery",
+                                                                                                                                "Li-Ion 2438 mAh (9.34 Wh)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Charging",
+                                                                                                                                "Wired PD2.0, 50% in 30 min; 15W wireless (MagSafe); 15W wireless (Qi2, iOS 17.2+)"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Operating System",
+                                                                                                                                "iOS 15"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Sensors/Features",
+                                                                                                                                "Face ID, accelerometer, gyro, proximity, compass, barometer; Ultra Wideband (UWB); NFC; Lightning, USB 2.0"
+                                                                                                ],
+                                                                                                [
+                                                                                                                                "Colors",
+                                                                                                                                "Starlight, Midnight, Blue, Pink, Red, Green"
+                                                                                                ]
+                                                                ]
+                                }
 ]

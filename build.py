@@ -197,7 +197,9 @@ EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide
     # batch C 2026-11-09: RedMagic 12 Pro — global launch 3 Nov 2026 at the
     # verified official $899 (REDMAGIC global store); not officially sold in
     # Pakistan, so its converted PKR figure is an Expected price.
-    "zte-nubia-redmagic-12-pro-5g"}
+    "zte-nubia-redmagic-12-pro-5g",
+    # nightly 2026-11-10 (41 new models, not officially sold in Pakistan)
+    "honor-magic9-5g", "honor-magic9-super-5g", "honor-magic9-pro-max-5g", "huawei-mate-90-5g", "huawei-mate-90-pro-5g", "huawei-mate-90-pro-max-5g", "huawei-mate-90-rs-ultimate-5g", "huawei-pura-90-5g", "huawei-pura-90-pro-5g", "huawei-pura-90-pro-max-5g", "huawei-nova-16-5g", "huawei-nova-16-pro-5g", "huawei-nova-16-ultra-5g", "huawei-nova-16s-5g", "huawei-nova-16s-pro-5g", "huawei-nova-16z-5g", "huawei-nova-16-se", "huawei-nova-y74", "huawei-matepad-pro-12-(2026)", "huawei-matepad-air-(2026)", "motorola-edge-70-plus-5g", "motorola-edge-70-max-5g", "motorola-edge-70-pro-plus-5g", "motorola-moto-g77-power-5g", "motorola-moto-g87-5g", "motorola-moto-g57-5g", "motorola-moto-g57-power-5g", "motorola-moto-g67-5g", "motorola-moto-g67-power-5g", "motorola-razr-70", "realme-gt-8-5g-(china)", "realme-16t-5g", "realme-16x-5g", "realme-neo8-5g", "realme-p4-pro-5g", "realme-p4-5g", "realme-narzo-90-5g", "realme-narzo-90x-5g", "vivo-t5-lite-5g", "vivo-iqoo-z11-5g-(china)", "oppo-reno15-fs-5g"}
 for _d in ALL:
     _d["price_expected"] = _d["slug"] in EXPECTED_SLUGS
 

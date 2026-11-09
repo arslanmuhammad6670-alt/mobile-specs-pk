@@ -1,644 +1,644 @@
 [
-{
-"brand": "Infinix",
-"cat": "Smartphones",
-"hl": [
-"6.67\" display",
-"Mediatek Dimensity 7300 Ultima",
-"6 GB RAM",
-"5500 mAh"
-],
-"name": "Infinix Note 50x",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, March 27, released 2025, April)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"165.4 x 76.4 x 8.0 mm or 8.2 mm; 195.4 g or 198.9 g (6.88 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz, 560 nits (typ); 6.67 inches, 107.4 cm2 (~85.0% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
-],
-[
-"OS",
-"Android 15, up to 2 major OS updates, XOS 15"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7300 Ultimate (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.6, (wide), PDAF; Dual-LED flash, HDR, panorama; video 4K@30fps, 1080p@30/120/240fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, (wide); video 1440p@30fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"5500 mAh"
-],
-[
-"Charging",
-"45W wired 10W reverse wired Bypass Charging"
-],
-[
-"Colors",
-"Titanium Gray, Enchanted Purple, Sea Breeze Green, Sunset Spice Pink"
-]
-],
-"slug": "infinix-note-50x",
-"source": "https://www.gsmarena.com/infinix_note_50x-13747.php",
-"tag": "6.67\" display · Mediatek Dimensity 7300 Ultima · 6 GB RAM · 5500 mAh",
-"year": 2025
-},
-{
-"brand": "Tecno",
-"cat": "Smartphones",
-"hl": [
-"6.75\" display",
-"Mediatek Dimensity 6400",
-"4 GB RAM",
-"6000 mAh"
-],
-"name": "Tecno Spark 40",
-"price": 49999,
-"price_src": "https://priceoye.pk/mobiles/tecno/tecno-spark-40",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, August, released 2025, August)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"167.7 x 77.9 x 8 mm (6.60 x 3.07 x 0.31 in); 194 g (6.84 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"IPS LCD, 120Hz; 6.75 inches, 110.0 cm2 (~84.2% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
-],
-[
-"OS",
-"Android 15, HIOS 15"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6400 (6 nm); CPU Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"50 MP; Dual-LED flash; video 1440p@30fps, 1080p@30fps"
-],
-[
-"Selfie Camera",
-"5 MP; video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C, OTG"
-],
-[
-"Battery",
-"Li-Po 6000 mAh"
-],
-[
-"Charging",
-"18W wired"
-],
-[
-"Colors",
-"Sky Blue, Ink Black, Turquoise Green, Bikaner Red"
-]
-],
-"slug": "tecno-spark-40-5g",
-"source": "https://www.gsmarena.com/tecno_spark_40_5g-14568.php",
-"tag": "6.75\" display · Mediatek Dimensity 6400 · 4 GB RAM · 6000 mAh",
-"year": 2025
-},
-{
-"brand": "Tecno",
-"cat": "Smartphones",
-"hl": [
-"6.67\" display",
-"Mediatek Dimensity 8350",
-"12 GB RAM",
-"5100 mAh"
-],
-"name": "Tecno Camon 40 Premier",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, March 03, released 2025, May)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"161 x 75 x 7.7 mm (6.34 x 2.95 x 0.30 in); 193 g (6.81 oz); Glass front (Gorilla Glass 7i), plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"LTPO AMOLED, 1B colors, 144Hz, 2160Hz PWM, HDR, 1600 nits (HBM); 6.67 inches, 107.4 cm2 (~89.0% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~460 ppi density); Corning Gorilla Glass 7i"
-],
-[
-"OS",
-"Android 15, up to 3 major OS updates, HIOS 15"
-],
-[
-"Chipset",
-"Mediatek Dimensity 8350 (4 nm); CPU Octa-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510); GPU Mali G615-MC6"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 50 MP, f/2.2, 70mm (periscope telephoto), 1/2.76\", 0.64µm, PDAF (15cm - ∞), 3x optical zoom 50 MP, f/2.2, 14mm, 114˚ (ultrawide), 1/2.76\", 0.64µm, PDAF; Dual-LED flash, HDR, panorama; video 4K@30/60fps (HDR), 1080p@30fps"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.5, 24mm (wide), 1/2.8\", 0.64µm, PDAF; video 4K@30fps, 1080p"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Yes"
-],
-[
-"Bluetooth",
-"Yes"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 5100 mAh"
-],
-[
-"Charging",
-"70W wired"
-],
-[
-"Colors",
-"Emerald Lake Green, Galaxy Black"
-]
-],
-"slug": "tecno-camon-40-premier",
-"source": "https://www.gsmarena.com/tecno_camon_40_premier-13694.php",
-"tag": "6.67\" display · Mediatek Dimensity 8350 · 12 GB RAM · 5100 mAh",
-"year": 2025
-},
-{
-"brand": "Vivo",
-"cat": "Smartphones",
-"hl": [
-"6.59\" display",
-"Qualcomm SM8845 Snapdragon 8 G",
-"12 GB RAM",
-"7200 mAh"
-],
-"name": "vivo X300 E",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, July 27, released 2026, July 31)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"157.5 x 74.3 x 7.8 mm (6.20 x 2.93 x 0.31 in); 200 g or 203 g (7.05 oz); Glass front, aluminum frame, glass back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 144Hz, HDR, 1800 nits (HBM), 5000 nits (peak); 6.59 inches, 106.1 cm2 (~90.7% screen-to-body ratio); 1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)"
-],
-[
-"OS",
-"Android 16, OriginOS 6"
-],
-[
-"Chipset",
-"Qualcomm SM8845 Snapdragon 8 Gen 5 (3 nm); CPU Octa-core (2x3.8 GHz Oryon V3 Phoenix L + 6x3.32 GHz Oryon V3 Phoenix M); GPU Adreno 829"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 50 MP, f/2.7, 73mm (periscope telephoto), 1/1.95\", 0.8µm, PDAF, OIS, 3x optical zoom 8 MP, f/2.2, 15mm, 115˚ (ultrawide), 1/4.0\", 1.12µm, AF; Zeiss optics, LED flash, panorama, HDR; video 4K, 1080p; gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.0, 20mm (wide), 1/2.76\", 0.64µm, AF; HDR; video 4K, 1080p"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5"
-],
-[
-"GPS",
-"GPS (L1+L5), BDS (B1I+B1C+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS, NavIC (L5)"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 7200 mAh"
-],
-[
-"Charging",
-"90W wired Reverse wired"
-],
-[
-"Colors",
-"White, Gray, Orange"
-]
-],
-"slug": "vivo-x300-e-5g",
-"source": "https://www.gsmarena.com/vivo_x300_e_5g-14826.php",
-"tag": "6.59\" display · Qualcomm SM8845 Snapdragon 8 G · 12 GB RAM · 7200 mAh",
-"year": 2026
-},
-{
-"brand": "Tecno",
-"cat": "Smartphones",
-"hl": [
-"7.85\" display",
-"Mediatek Dimensity 9000+",
-"12 GB RAM",
-"5750 mAh"
-],
-"name": "Tecno Phantom V Fold2",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2024 (announced 2024, September 13, released 2024, October)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"Unfolded: 159 x 140.4 x 6.1 mmFolded: 159 x 72.2 x 11.8-12 mm; 249 g (8.78 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Foldable LTPO AMOLED, 1B colors, 120Hz; 7.85 inches, 196.9 cm2 (~88.2% screen-to-body ratio); 2000 x 2296 pixels (~388 ppi density)"
-],
-[
-"OS",
-"Android 14, up to 2 major OS updates, HiOS 14 Fold"
-],
-[
-"Chipset",
-"Mediatek Dimensity 9000+ (4 nm); CPU Octa-core (1x3.20 GHz Cortex-X2 & 3x2.85 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510); GPU Mali-G710 MC10"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.9, 23mm (wide), 1/1.3\", 1.2µm, PDAF, OIS 50 MP, f/2.0, 50mm (telephoto), 1/2.8\", 0.64µm, PDAF, 2x optical zoom 50 MP, f/2.2, 115˚ (ultrawide), PDAF; Dual-LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.5, (wide), 1/2.8\", 0.8µm Cover camera: 32 MP, f/2.5, (wide), 1/2.8\", 0.8µm; video 1080p@60fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"FM radio, recording"
-],
-[
-"USB",
-"USB Type-C, OTG"
-],
-[
-"Battery",
-"5750 mAh"
-],
-[
-"Charging",
-"70W wired, 50% in 20 min, 100% in 49 min 15W wireless"
-],
-[
-"Colors",
-"Karst Green, Rippling Blue"
-]
-],
-"slug": "tecno-phantom-v-fold2",
-"source": "https://www.gsmarena.com/tecno_phantom_v_fold2-13334.php",
-"tag": "7.85\" display · Mediatek Dimensity 9000+ · 12 GB RAM · 5750 mAh",
-"year": 2024
-},
-{
-"brand": "Infinix",
-"cat": "Smartphones",
-"hl": [
-"6.78\" display",
-"Mediatek Dimensity 7020",
-"8 GB RAM",
-"5000 mAh"
-],
-"name": "Infinix Note 40 5G",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2024 (announced 2024, May 22, released 2024, May 22)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"165.5 x 75.9 x 7.9 mm (6.52 x 2.99 x 0.31 in); 185 g (6.53 oz); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"AMOLED, 1B colors, 120Hz, 1300 nits (peak); 6.78 inches, 109.9 cm2 (~87.5% screen-to-body ratio); 1080 x 2436 pixels (~393 ppi density)"
-],
-[
-"OS",
-"Android 14, XOS 14"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7020 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU IMG BXM-8-256"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"108 MP, f/1.8, 24mm (wide), PDAF 2 MP, f/2.4 2 MP, f/2.4; Quad-LED flash, HDR, panorama; video 1440p@30fps, 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"32 MP, f/2.2, (wide); Dual-LED flash; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac"
-],
-[
-"Bluetooth",
-"Yes"
-],
-[
-"GPS",
-"GPS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"33W wired, 50% in 31 min 15W wireless MagCharge Reverse wired Reverse wireless"
-],
-[
-"Colors",
-"Obsidian Black, Titan Gold, Racing Edition"
-]
-],
-"slug": "infinix-note-40-5g",
-"source": "https://www.gsmarena.com/infinix_note_40_5g-13035.php",
-"tag": "6.78\" display · Mediatek Dimensity 7020 · 8 GB RAM · 5000 mAh",
-"year": 2024
-}
+ {
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "hl": [
+   "6.67\" display",
+   "Mediatek Dimensity 7300 Ultima",
+   "6 GB RAM",
+   "5500 mAh"
+  ],
+  "name": "Infinix Note 50x",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, March 27, released 2025, April)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "165.4 x 76.4 x 8.0 mm or 8.2 mm; 195.4 g or 198.9 g (6.88 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz, 560 nits (typ); 6.67 inches, 107.4 cm2 (~85.0% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, up to 2 major OS updates, XOS 15"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7300 Ultimate (4 nm); CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.6, (wide), PDAF; Dual-LED flash, HDR, panorama; video 4K@30fps, 1080p@30/120/240fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, (wide); video 1440p@30fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "5500 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired 10W reverse wired Bypass Charging"
+   ],
+   [
+    "Colors",
+    "Titanium Gray, Enchanted Purple, Sea Breeze Green, Sunset Spice Pink"
+   ]
+  ],
+  "slug": "infinix-note-50x",
+  "source": "https://www.gsmarena.com/infinix_note_50x-13747.php",
+  "tag": "6.67\" display · Mediatek Dimensity 7300 Ultima · 6 GB RAM · 5500 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "hl": [
+   "6.75\" display",
+   "Mediatek Dimensity 6400",
+   "4 GB RAM",
+   "6000 mAh"
+  ],
+  "name": "Tecno Spark 40",
+  "price": 49999,
+  "price_src": "https://priceoye.pk/mobiles/tecno/tecno-spark-40",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, August, released 2025, August)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "167.7 x 77.9 x 8 mm (6.60 x 3.07 x 0.31 in); 194 g (6.84 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "IPS LCD, 120Hz; 6.75 inches, 110.0 cm2 (~84.2% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, HIOS 15"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6400 (6 nm); CPU Octa-core (2x2.5 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP; Dual-LED flash; video 1440p@30fps, 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP; video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Po 6000 mAh"
+   ],
+   [
+    "Charging",
+    "18W wired"
+   ],
+   [
+    "Colors",
+    "Sky Blue, Ink Black, Turquoise Green, Bikaner Red"
+   ]
+  ],
+  "slug": "tecno-spark-40-5g",
+  "source": "https://www.gsmarena.com/tecno_spark_40_5g-14568.php",
+  "tag": "6.75\" display · Mediatek Dimensity 6400 · 4 GB RAM · 6000 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "hl": [
+   "6.67\" display",
+   "Mediatek Dimensity 8350",
+   "12 GB RAM",
+   "5100 mAh"
+  ],
+  "name": "Tecno Camon 40 Premier",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, March 03, released 2025, May)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "161 x 75 x 7.7 mm (6.34 x 2.95 x 0.30 in); 193 g (6.81 oz); Glass front (Gorilla Glass 7i), plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "LTPO AMOLED, 1B colors, 144Hz, 2160Hz PWM, HDR, 1600 nits (HBM); 6.67 inches, 107.4 cm2 (~89.0% screen-to-body ratio); 1260 x 2800 pixels, 20:9 ratio (~460 ppi density); Corning Gorilla Glass 7i"
+   ],
+   [
+    "OS",
+    "Android 15, up to 3 major OS updates, HIOS 15"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 8350 (4 nm); CPU Octa-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510); GPU Mali G615-MC6"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 50 MP, f/2.2, 70mm (periscope telephoto), 1/2.76\", 0.64µm, PDAF (15cm - ∞), 3x optical zoom 50 MP, f/2.2, 14mm, 114˚ (ultrawide), 1/2.76\", 0.64µm, PDAF; Dual-LED flash, HDR, panorama; video 4K@30/60fps (HDR), 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.5, 24mm (wide), 1/2.8\", 0.64µm, PDAF; video 4K@30fps, 1080p"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Yes"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 5100 mAh"
+   ],
+   [
+    "Charging",
+    "70W wired"
+   ],
+   [
+    "Colors",
+    "Emerald Lake Green, Galaxy Black"
+   ]
+  ],
+  "slug": "tecno-camon-40-premier",
+  "source": "https://www.gsmarena.com/tecno_camon_40_premier-13694.php",
+  "tag": "6.67\" display · Mediatek Dimensity 8350 · 12 GB RAM · 5100 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.59\" display",
+   "Qualcomm SM8845 Snapdragon 8 G",
+   "12 GB RAM",
+   "7200 mAh"
+  ],
+  "name": "vivo X300 E",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, July 27, released 2026, July 31)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "157.5 x 74.3 x 7.8 mm (6.20 x 2.93 x 0.31 in); 200 g or 203 g (7.05 oz); Glass front, aluminum frame, glass back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 144Hz, HDR, 1800 nits (HBM), 5000 nits (peak); 6.59 inches, 106.1 cm2 (~90.7% screen-to-body ratio); 1260 x 2750 pixels, 19.5:9 ratio (~459 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, OriginOS 6"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8845 Snapdragon 8 Gen 5 (3 nm); CPU Octa-core (2x3.8 GHz Oryon V3 Phoenix L + 6x3.32 GHz Oryon V3 Phoenix M); GPU Adreno 829"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 50 MP, f/2.7, 73mm (periscope telephoto), 1/1.95\", 0.8µm, PDAF, OIS, 3x optical zoom 8 MP, f/2.2, 15mm, 115˚ (ultrawide), 1/4.0\", 1.12µm, AF; Zeiss optics, LED flash, panorama, HDR; video 4K, 1080p; gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 20mm (wide), 1/2.76\", 0.64µm, AF; HDR; video 4K, 1080p"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, aptX Adaptive, aptX Lossless, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1C+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS, NavIC (L5)"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 7200 mAh"
+   ],
+   [
+    "Charging",
+    "90W wired Reverse wired"
+   ],
+   [
+    "Colors",
+    "White, Gray, Orange"
+   ]
+  ],
+  "slug": "vivo-x300-e-5g",
+  "source": "https://www.gsmarena.com/vivo_x300_e_5g-14826.php",
+  "tag": "6.59\" display · Qualcomm SM8845 Snapdragon 8 G · 12 GB RAM · 7200 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "hl": [
+   "7.85\" display",
+   "Mediatek Dimensity 9000+",
+   "12 GB RAM",
+   "5750 mAh"
+  ],
+  "name": "Tecno Phantom V Fold2",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 2024, September 13, released 2024, October)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "Unfolded: 159 x 140.4 x 6.1 mmFolded: 159 x 72.2 x 11.8-12 mm; 249 g (8.78 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Foldable LTPO AMOLED, 1B colors, 120Hz; 7.85 inches, 196.9 cm2 (~88.2% screen-to-body ratio); 2000 x 2296 pixels (~388 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 14, up to 2 major OS updates, HiOS 14 Fold"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 9000+ (4 nm); CPU Octa-core (1x3.20 GHz Cortex-X2 & 3x2.85 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510); GPU Mali-G710 MC10"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.9, 23mm (wide), 1/1.3\", 1.2µm, PDAF, OIS 50 MP, f/2.0, 50mm (telephoto), 1/2.8\", 0.64µm, PDAF, 2x optical zoom 50 MP, f/2.2, 115˚ (ultrawide), PDAF; Dual-LED flash, HDR, panorama; video 4K@30fps, 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.5, (wide), 1/2.8\", 0.8µm Cover camera: 32 MP, f/2.5, (wide), 1/2.8\", 0.8µm; video 1080p@60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "FM radio, recording"
+   ],
+   [
+    "USB",
+    "USB Type-C, OTG"
+   ],
+   [
+    "Battery",
+    "5750 mAh"
+   ],
+   [
+    "Charging",
+    "70W wired, 50% in 20 min, 100% in 49 min 15W wireless"
+   ],
+   [
+    "Colors",
+    "Karst Green, Rippling Blue"
+   ]
+  ],
+  "slug": "tecno-phantom-v-fold2",
+  "source": "https://www.gsmarena.com/tecno_phantom_v_fold2-13334.php",
+  "tag": "7.85\" display · Mediatek Dimensity 9000+ · 12 GB RAM · 5750 mAh",
+  "year": 2024
+ },
+ {
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "hl": [
+   "6.78\" display",
+   "Mediatek Dimensity 7020",
+   "8 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Infinix Note 40 5G",
+  "price": 64999,
+  "price_src": "https://priceoye.pk/mobiles/infinix/infinix-note-40-5g",
+  "rows": [
+   [
+    "Launch Year",
+    "2024 (announced 2024, May 22, released 2024, May 22)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "165.5 x 75.9 x 7.9 mm (6.52 x 2.99 x 0.31 in); 185 g (6.53 oz); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 1300 nits (peak); 6.78 inches, 109.9 cm2 (~87.5% screen-to-body ratio); 1080 x 2436 pixels (~393 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 14, XOS 14"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7020 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU IMG BXM-8-256"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "108 MP, f/1.8, 24mm (wide), PDAF 2 MP, f/2.4 2 MP, f/2.4; Quad-LED flash, HDR, panorama; video 1440p@30fps, 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.2, (wide); Dual-LED flash; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac"
+   ],
+   [
+    "Bluetooth",
+    "Yes"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "33W wired, 50% in 31 min 15W wireless MagCharge Reverse wired Reverse wireless"
+   ],
+   [
+    "Colors",
+    "Obsidian Black, Titan Gold, Racing Edition"
+   ]
+  ],
+  "slug": "infinix-note-40-5g",
+  "source": "https://www.gsmarena.com/infinix_note_40_5g-13035.php",
+  "tag": "6.78\" display · Mediatek Dimensity 7020 · 8 GB RAM · 5000 mAh",
+  "year": 2024
+ }
 ]

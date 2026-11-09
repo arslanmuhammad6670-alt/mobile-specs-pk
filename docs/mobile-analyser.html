@@ -49,7 +49,7 @@
 <div class="pta-box"><b>Pakistan — PTA approval / blocked status:</b> whether a phone is PTA-approved, tax-paid or blocked is maintained only by the Pakistan Telecommunication Authority. To check, SMS your IMEI to <b>8484</b>, or use the official PTA DIRBS portal (dirbs.pta.gov.pk) or the DIRBS mobile app. No website can read PTA's register — always confirm there before buying a used phone.</div>
 
 <h2 class="sec">How the Mobile Analyser works</h2>
-<p>Every IMEI is 15 digits. The first 8 digits (the TAC) are allotted to one exact phone model, the next 6 are the device's own serial number, and the last digit is a check digit that proves the number is genuine. Our analyser verifies the check digit, reads the TAC against a database of more than 269,000 allotted codes covering 31,000+ models, and shows the phone's full specifications — plus its photo and current Pakistan price for models in our catalogue.</p>
+<p>Every IMEI is 15 digits. The first 8 digits (the TAC) are allotted to one exact phone model, the next 6 are the device's own serial number, and the last digit is a check digit calculated from the other digits, which confirms the number is correctly formed. Our analyser verifies the check digit, reads the TAC against a database of more than 269,000 allotted codes covering 31,000+ models, and shows the phone's full specifications — plus its photo and current Pakistan price for models in our catalogue. Please note: a correct check digit proves only that the IMEI format is valid — it cannot prove that a phone is genuine or original, because a copied or reprogrammed IMEI passes the same check.</p>
 </main>
 <footer><div style="max-width:1100px;margin:0 auto">
 Check Specs — Mobile phones, keypad phones, tablets and laptops: full specifications, latest prices in Pakistan (PKR &amp; USD) and comparisons.<br>
@@ -106,7 +106,7 @@ async function analyse(){
   if(v.length===15){
     const valid=luhn(v);
     html+= valid
-      ? '<div class="verdict ok"><b>✔ Genuine IMEI.</b> The check digit matches — this is a correctly formed IMEI number.</div>'
+      ? '<div class="verdict ok"><b>✔ Valid IMEI format — check digit correct.</b> This is a correctly formed IMEI number. A valid format does not by itself prove the phone is genuine or original.</div>'
       : '<div class="verdict bad"><b>✘ Check digit failed.</b> One digit may be mistyped — but we still identified the model from its TAC below. Dial *#06# and copy the number exactly to be sure.</div>';
   } else if(v.length===14){
     html+='<div class="verdict ok"><b>✔ 14-digit IMEI accepted.</b> This is the older form without a check digit — the model is identified from its TAC below.</div>';
@@ -147,7 +147,7 @@ async function analyse(){
   } else {
     const xs=DB.ext ? DB.ext[e[2]] : null;
     html+='<div class="dev-head"><div><div class="cat">Identified Model</div><h2>'+esc(dispName)+'</h2>'
-        + '<p class="note">Identified from TAC '+tac+' · Full specifications below, checked by Check Specs.</p></div></div>';
+        + '<p class="note">Identified from TAC '+tac+' · Full specifications below, sourced for Check Specs.</p></div></div>';
     if(xs){
       html+='<h2 class="sec">Full Specifications</h2><table>';
       for(const [k,val] of Object.entries(xs)) html+='<tr><th>'+esc(k)+'</th><td>'+esc(val)+'</td></tr>';

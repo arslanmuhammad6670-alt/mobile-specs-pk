@@ -80,16 +80,6 @@
   "pl": "Market price"
  },
  {
-  "slug": "samsung-galaxy-z-flip-6",
-  "name": "Samsung Galaxy Z Flip 6",
-  "brand": "Samsung",
-  "cat": "Smartphones",
-  "price": 1391,
-  "price_pkr": 384999,
-  "path": "phones/samsung-galaxy-z-flip-6.html",
-  "pl": "Market price"
- },
- {
   "slug": "samsung-galaxy-a55",
   "name": "Samsung Galaxy A55",
   "brand": "Samsung",
@@ -487,26 +477,6 @@
   "price": 16,
   "price_pkr": 4299,
   "path": "keypad/hmd-105.html",
-  "pl": "Market price"
- },
- {
-  "slug": "apple-ipad-10",
-  "name": "Apple iPad (10th Generation)",
-  "brand": "Apple",
-  "cat": "Tablets",
-  "price": 434,
-  "price_pkr": 119999,
-  "path": "tablets/apple-ipad-10.html",
-  "pl": "Market price"
- },
- {
-  "slug": "apple-ipad-air-m2",
-  "name": "Apple iPad Air 11 (M2)",
-  "brand": "Apple",
-  "cat": "Tablets",
-  "price": 795,
-  "price_pkr": 219999,
-  "path": "tablets/apple-ipad-air-m2.html",
   "pl": "Market price"
  },
  {
@@ -1840,16 +1810,6 @@
   "pl": "Market price"
  },
  {
-  "slug": "apple-ipad-pro-m4-11",
-  "name": "Apple iPad Pro 11 (M4)",
-  "brand": "Apple",
-  "cat": "Tablets",
-  "price": 1048,
-  "price_pkr": 289999,
-  "path": "tablets/apple-ipad-pro-m4-11.html",
-  "pl": "Market price"
- },
- {
   "slug": "nokia-3210-2024",
   "name": "Nokia 3210 (2024)",
   "brand": "Nokia",
@@ -2160,26 +2120,6 @@
   "pl": "Official price"
  },
  {
-  "slug": "samsung-galaxy-z-fold-6",
-  "name": "Samsung Galaxy Z Fold 6",
-  "brand": "Samsung",
-  "cat": "Smartphones",
-  "price": 2186,
-  "price_pkr": 604999,
-  "path": "phones/samsung-galaxy-z-fold-6.html",
-  "pl": "Market price"
- },
- {
-  "slug": "samsung-galaxy-z-fold-5",
-  "name": "Samsung Galaxy Z Fold 5",
-  "brand": "Samsung",
-  "cat": "Smartphones",
-  "price": 2374,
-  "price_pkr": 656999,
-  "path": "phones/samsung-galaxy-z-fold-5.html",
-  "pl": "Market price"
- },
- {
   "slug": "samsung-galaxy-s24",
   "name": "Samsung Galaxy S24",
   "brand": "Samsung",
@@ -2228,16 +2168,6 @@
   "price_pkr": 149999,
   "path": "phones/realme-gt-6.html",
   "pl": "Market price"
- },
- {
-  "slug": "honor-magic-6-pro",
-  "name": "Honor Magic 6 Pro",
-  "brand": "Honor",
-  "cat": "Smartphones",
-  "price": 679,
-  "price_pkr": 187999,
-  "path": "phones/honor-magic-6-pro.html",
-  "pl": "Estimated price"
  },
  {
   "slug": "nothing-phone-2a-plus",
@@ -2479,16 +2409,6 @@
   "price": 278,
   "price_pkr": 76999,
   "path": "phones/vivo-y600.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "apple-macbook-air-m3-13",
-  "name": "Apple MacBook Air 13 (M3, 2024)",
-  "brand": "Apple",
-  "cat": "Laptops",
-  "price": 1099,
-  "price_pkr": 303999,
-  "path": "laptops/apple-macbook-air-m3-13.html",
   "pl": "Estimated price"
  },
  {
@@ -3220,17 +3140,6 @@
   "pl": "Expected price"
  },
  {
-  "slug": "huawei-mate-x7-5g",
-  "name": "Huawei Mate X7",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": 1840,
-  "price_pkr": 508999,
-  "path": "phones/huawei-mate-x7-5g.html",
-  "exp": 1,
-  "pl": "Expected price"
- },
- {
   "slug": "google-pixel-10-pro-xl-5g",
   "name": "Google Pixel 10 Pro XL",
   "brand": "Google",
@@ -3743,10 +3652,10 @@
   "name": "Samsung Galaxy Z Fold6",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 1323,
-  "price_pkr": 365999,
+  "price": 2186,
+  "price_pkr": 604999,
   "path": "phones/samsung-galaxy-z-fold6.html",
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "samsung-galaxy-s25+",
@@ -3783,10 +3692,10 @@
   "name": "Samsung Galaxy Z Fold5",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 1008,
-  "price_pkr": 278999,
+  "price": 1446,
+  "price_pkr": 399999,
   "path": "phones/samsung-galaxy-z-fold5.html",
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "samsung-galaxy-s21-ultra-5g",
@@ -3886,16 +3795,6 @@
   "price": 643,
   "price_pkr": 177999,
   "path": "phones/samsung-galaxy-note-9.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "xiaomi-9",
-  "name": "Xiaomi 9",
-  "brand": "Xiaomi",
-  "cat": "Smartphones",
-  "price": 661,
-  "price_pkr": 182999,
-  "path": "phones/xiaomi-9.html",
   "pl": "Estimated price"
  },
  {
@@ -4296,16 +4195,6 @@
   "price": 130,
   "price_pkr": 35999,
   "path": "phones/samsung-galaxy-a03s.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "samsung-galaxy-note-8",
-  "name": "Samsung Galaxy Note 8",
-  "brand": "Samsung",
-  "cat": "Smartphones",
-  "price": 564,
-  "price_pkr": 155999,
-  "path": "phones/samsung-galaxy-note-8.html",
   "pl": "Estimated price"
  },
  {
@@ -6053,10 +5942,10 @@
   "name": "Honor X70",
   "brand": "Honor",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 192,
+  "price_pkr": 52999,
   "path": "phones/honor-x70.html",
-  "unv": 1
+  "pl": "Estimated price"
  },
  {
   "slug": "realme-7-pro",
@@ -7279,16 +7168,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "samsung-galaxy-s21",
-  "name": "Samsung Galaxy S21",
-  "brand": "Samsung",
-  "cat": "Smartphones",
-  "price": 329,
-  "price_pkr": 90999,
-  "path": "phones/samsung-galaxy-s21.html",
-  "pl": "Estimated price"
- },
- {
   "slug": "samsung-galaxy-s10-lite",
   "name": "Samsung Galaxy S10 Lite",
   "brand": "Samsung",
@@ -7727,16 +7606,6 @@
   "price_pkr": 39999,
   "path": "phones/oppo-a15s.html",
   "pl": "Estimated price"
- },
- {
-  "slug": "huawei-10-lite",
-  "name": "Huawei 10 Lite",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/huawei-10-lite.html",
-  "unv": 1
  },
  {
   "slug": "realme-9-pro+",
@@ -8459,16 +8328,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "oppo-a35",
-  "name": "Oppo A35",
-  "brand": "Oppo",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/oppo-a35.html",
-  "unv": 1
- },
- {
   "slug": "oppo-reno6-pro-5g",
   "name": "Oppo Reno6 Pro 5G",
   "brand": "Oppo",
@@ -8736,16 +8595,6 @@
   "price": null,
   "price_pkr": null,
   "path": "phones/oppo-a77-4g-a57s.html",
-  "unv": 1
- },
- {
-  "slug": "oppo-reno13",
-  "name": "Oppo Reno13",
-  "brand": "Oppo",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/oppo-reno13.html",
   "unv": 1
  },
  {
@@ -9197,16 +9046,6 @@
   "price_pkr": 33999,
   "path": "phones/motorola-moto-e4+.html",
   "pl": "Estimated price"
- },
- {
-  "slug": "lg-k10-lte",
-  "name": "LG K10 LTE",
-  "brand": "LG",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/lg-k10-lte.html",
-  "unv": 1
  },
  {
   "slug": "motorola-moto-e13",
@@ -11029,16 +10868,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "vivo-y3s-(2021)",
-  "name": "Vivo Y3s (2021)",
-  "brand": "Vivo",
-  "cat": "Smartphones",
-  "price": 123,
-  "price_pkr": 33999,
-  "path": "phones/vivo-y3s-(2021).html",
-  "pl": "Estimated price"
- },
- {
   "slug": "vivo-s9",
   "name": "Vivo S9",
   "brand": "Vivo",
@@ -12349,16 +12178,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "xiaomi-mi-11x-pro",
-  "name": "Xiaomi Mi 11x Pro",
-  "brand": "Xiaomi",
-  "cat": "Smartphones",
-  "price": 253,
-  "price_pkr": 69999,
-  "path": "phones/xiaomi-mi-11x-pro.html",
-  "pl": "Estimated price"
- },
- {
   "slug": "huawei-g7+",
   "name": "Huawei G7+",
   "brand": "Huawei",
@@ -12979,16 +12798,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "huawei-y5p",
-  "name": "Huawei Y5p",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": 123,
-  "price_pkr": 33999,
-  "path": "phones/huawei-y5p.html",
-  "pl": "Estimated price"
- },
- {
   "slug": "huawei-nova-2+",
   "name": "Huawei Nova 2+",
   "brand": "Huawei",
@@ -13426,26 +13235,6 @@
   "price": 347,
   "price_pkr": 95999,
   "path": "phones/oppo-reno5-4g.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "oppo-reno5-lite",
-  "name": "Oppo Reno5 Lite",
-  "brand": "Oppo",
-  "cat": "Smartphones",
-  "price": 336,
-  "price_pkr": 92999,
-  "path": "phones/oppo-reno5-lite.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "oppo-reno5-f",
-  "name": "Oppo Reno5 F",
-  "brand": "Oppo",
-  "cat": "Smartphones",
-  "price": 282,
-  "price_pkr": 77999,
-  "path": "phones/oppo-reno5-f.html",
   "pl": "Estimated price"
  },
  {
@@ -14406,16 +14195,6 @@
   "price": 181,
   "price_pkr": 49999,
   "path": "phones/motorola-one-action.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "motorola-moto-g-power-(2022)",
-  "name": "Motorola Moto G Power (2022)",
-  "brand": "Motorola",
-  "cat": "Smartphones",
-  "price": 61,
-  "price_pkr": 16999,
-  "path": "phones/motorola-moto-g-power-(2022).html",
   "pl": "Estimated price"
  },
  {
@@ -16149,16 +15928,6 @@
   "unv": 1
  },
  {
-  "slug": "vivo-y70",
-  "name": "Vivo Y70",
-  "brand": "Vivo",
-  "cat": "Smartphones",
-  "price": 304,
-  "price_pkr": 83999,
-  "path": "phones/vivo-y70.html",
-  "pl": "Estimated price"
- },
- {
   "slug": "vivo-s12",
   "name": "Vivo S12",
   "brand": "Vivo",
@@ -16276,16 +16045,6 @@
   "price": 625,
   "price_pkr": 172999,
   "path": "phones/asus-rog-phone-7-ultimate.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "oppo-reno10-pro+",
-  "name": "Oppo Reno10 PRO+",
-  "brand": "Oppo",
-  "cat": "Smartphones",
-  "price": 2241,
-  "price_pkr": 619999,
-  "path": "phones/oppo-reno10-pro+.html",
   "pl": "Estimated price"
  },
  {
@@ -19489,26 +19248,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "motorola-moto-e-(2020)",
-  "name": "Motorola Moto E (2020)",
-  "brand": "Motorola",
-  "cat": "Smartphones",
-  "price": 101,
-  "price_pkr": 27999,
-  "path": "phones/motorola-moto-e-(2020).html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "motorola-moto-e-dual-sim",
-  "name": "Motorola Moto E Dual Sim",
-  "brand": "Motorola",
-  "cat": "Smartphones",
-  "price": 101,
-  "price_pkr": 27999,
-  "path": "phones/motorola-moto-e-dual-sim.html",
-  "pl": "Estimated price"
- },
- {
   "slug": "motorola-moto-x-force",
   "name": "Motorola Moto X Force",
   "brand": "Motorola",
@@ -20406,16 +20145,6 @@
   "price": 622,
   "price_pkr": 171999,
   "path": "phones/oppo-reno-14-pro-5g-(12gb-ram-+-512gb).html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "oppo-reno-10-pro",
-  "name": "Oppo Reno 10 Pro",
-  "brand": "Oppo",
-  "cat": "Smartphones",
-  "price": 365,
-  "price_pkr": 100999,
-  "path": "phones/oppo-reno-10-pro.html",
   "pl": "Estimated price"
  },
  {
@@ -22289,16 +22018,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "huawei-tlr-al00",
-  "name": "Huawei TLR-AL00",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": 351,
-  "price_pkr": 96999,
-  "path": "phones/huawei-tlr-al00.html",
-  "pl": "Estimated price"
- },
- {
   "slug": "vivo-v2506a",
   "name": "Vivo V2506a",
   "brand": "Vivo",
@@ -22306,16 +22025,6 @@
   "price": 202,
   "price_pkr": 55999,
   "path": "phones/vivo-v2506a.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "huawei-juy-al00",
-  "name": "Huawei JUY-AL00",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": 170,
-  "price_pkr": 46999,
-  "path": "phones/huawei-juy-al00.html",
   "pl": "Estimated price"
  },
  {
@@ -23939,16 +23648,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "huawei-y7a",
-  "name": "Huawei Y7a",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": 181,
-  "price_pkr": 49999,
-  "path": "phones/huawei-y7a.html",
-  "pl": "Estimated price"
- },
- {
   "slug": "sony-xperia-s",
   "name": "Sony Xperia S",
   "brand": "Sony",
@@ -24686,16 +24385,6 @@
   "price": 361,
   "price_pkr": 99999,
   "path": "phones/oppo-reno-11-pro.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "honor-nla-lx3",
-  "name": "Honor NLA-LX3",
-  "brand": "Honor",
-  "cat": "Smartphones",
-  "price": 90,
-  "price_pkr": 24999,
-  "path": "phones/honor-nla-lx3.html",
   "pl": "Estimated price"
  },
  {
@@ -27019,16 +26708,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "huawei-mia-al00",
-  "name": "Huawei MIA-AL00",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": 473,
-  "price_pkr": 130999,
-  "path": "phones/huawei-mia-al00.html",
-  "pl": "Estimated price"
- },
- {
   "slug": "vivo-v2444a",
   "name": "Vivo V2444a",
   "brand": "Vivo",
@@ -27036,16 +26715,6 @@
   "price": 192,
   "price_pkr": 52999,
   "path": "phones/vivo-v2444a.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "huawei-mrt-al10",
-  "name": "Huawei MRT-AL10",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": 564,
-  "price_pkr": 155999,
-  "path": "phones/huawei-mrt-al10.html",
   "pl": "Estimated price"
  },
  {
@@ -28593,10 +28262,11 @@
   "name": "Huawei Mate X7",
   "brand": "Huawei",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 1840,
+  "price_pkr": 508999,
   "path": "phones/huawei-mate-x7.html",
-  "unv": 1
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "xiaomi-note-11-se",
@@ -28669,16 +28339,6 @@
   "unv": 1
  },
  {
-  "slug": "oppo-pffm20",
-  "name": "Oppo Pffm20",
-  "brand": "Oppo",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/oppo-pffm20.html",
-  "unv": 1
- },
- {
   "slug": "oppo-reno5-5g-find-x3-lite",
   "name": "Oppo Reno5 5G-FIND X3 Lite",
   "brand": "Oppo",
@@ -28696,26 +28356,6 @@
   "price": null,
   "price_pkr": null,
   "path": "phones/huawei-enjoy-8+.html",
-  "unv": 1
- },
- {
-  "slug": "realme-gt-neo3-150w",
-  "name": "Realme Gt Neo3 150w",
-  "brand": "Realme",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/realme-gt-neo3-150w.html",
-  "unv": 1
- },
- {
-  "slug": "vivo-y79a",
-  "name": "Vivo Y79a",
-  "brand": "Vivo",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/vivo-y79a.html",
   "unv": 1
  },
  {
@@ -29076,16 +28716,6 @@
   "price": 181,
   "price_pkr": 49999,
   "path": "phones/htc-desire-300.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "htc-desire-700",
-  "name": "HTC Desire 700",
-  "brand": "HTC",
-  "cat": "Smartphones",
-  "price": 246,
-  "price_pkr": 67999,
-  "path": "phones/htc-desire-700.html",
   "pl": "Estimated price"
  },
  {
@@ -30299,16 +29929,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "oppo-pln110",
-  "name": "Oppo Pln110",
-  "brand": "Oppo",
-  "cat": "Smartphones",
-  "price": 260,
-  "price_pkr": 71999,
-  "path": "phones/oppo-pln110.html",
-  "pl": "Estimated price"
- },
- {
   "slug": "nubia-z80-ultra",
   "name": "Nubia Z80 Ultra",
   "brand": "Nubia",
@@ -30339,16 +29959,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "honor-dnp-nx9",
-  "name": "Honor DNP-NX9",
-  "brand": "Honor",
-  "cat": "Smartphones",
-  "price": 734,
-  "price_pkr": 202999,
-  "path": "phones/honor-dnp-nx9.html",
-  "pl": "Estimated price"
- },
- {
   "slug": "honor-dvd-an00",
   "name": "Honor Power",
   "brand": "Honor",
@@ -30369,16 +29979,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "honor-dny-nx9",
-  "name": "Honor DNY-NX9",
-  "brand": "Honor",
-  "cat": "Smartphones",
-  "price": 542,
-  "price_pkr": 149999,
-  "path": "phones/honor-dny-nx9.html",
-  "pl": "Estimated price"
- },
- {
   "slug": "honor-lgn-nx1",
   "name": "Honor 400 Smart 5G",
   "brand": "Honor",
@@ -30386,16 +29986,6 @@
   "price": 239,
   "price_pkr": 65999,
   "path": "phones/honor-lgn-nx1.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "honor-mtn-an00",
-  "name": "Honor MTN-AN00",
-  "brand": "Honor",
-  "cat": "Smartphones",
-  "price": 192,
-  "price_pkr": 52999,
-  "path": "phones/honor-mtn-an00.html",
   "pl": "Estimated price"
  },
  {
@@ -33029,16 +32619,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "vivo-s1-prime",
-  "name": "Vivo S1 Prime",
-  "brand": "Vivo",
-  "cat": "Smartphones",
-  "price": 267,
-  "price_pkr": 73999,
-  "path": "phones/vivo-s1-prime.html",
-  "pl": "Estimated price"
- },
- {
   "slug": "vivo-iqoo-u1",
   "name": "Vivo iQOO U1",
   "brand": "Vivo",
@@ -33609,16 +33189,6 @@
   "unv": 1
  },
  {
-  "slug": "huawei-maimang-6",
-  "name": "Huawei Maimang 6",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/huawei-maimang-6.html",
-  "unv": 1
- },
- {
   "slug": "huawei-nova-2i",
   "name": "Huawei Nova 2i",
   "brand": "Huawei",
@@ -33859,16 +33429,6 @@
   "unv": 1
  },
  {
-  "slug": "huawei-honor-20s",
-  "name": "Huawei Honor 20s",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/huawei-honor-20s.html",
-  "unv": 1
- },
- {
   "slug": "vivo-x200-pro-mini",
   "name": "Vivo X200 Pro Mini",
   "brand": "Vivo",
@@ -33996,16 +33556,6 @@
   "price": null,
   "price_pkr": null,
   "path": "phones/realme-neo7x.html",
-  "unv": 1
- },
- {
-  "slug": "honor-magic7-lite",
-  "name": "Honor Magic7 Lite",
-  "brand": "Honor",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/honor-magic7-lite.html",
   "unv": 1
  },
  {
@@ -36609,16 +36159,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "huawei-y6s",
-  "name": "Huawei Y6s",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/huawei-y6s.html",
-  "unv": 1
- },
- {
   "slug": "sony-xperia-sola",
   "name": "Sony Xperia Sola",
   "brand": "Sony",
@@ -37429,16 +36969,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "huawei-grl-al20",
-  "name": "Huawei GRL-AL20",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": 2505,
-  "price_pkr": 692999,
-  "path": "phones/huawei-grl-al20.html",
-  "pl": "Estimated price"
- },
- {
   "slug": "honor-bkq-an00",
   "name": "Honor Magic8",
   "brand": "Honor",
@@ -37486,16 +37016,6 @@
   "price": 170,
   "price_pkr": 46999,
   "path": "phones/oukitel-k10000-pro.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "huawei-bre-al00a",
-  "name": "Huawei BRE-AL00A",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": 202,
-  "price_pkr": 55999,
-  "path": "phones/huawei-bre-al00a.html",
   "pl": "Estimated price"
  },
  {
@@ -37676,16 +37196,6 @@
   "price": 116,
   "price_pkr": 31999,
   "path": "phones/doogee-bl12000.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "philips-e2103",
-  "name": "Philips E2103",
-  "brand": "Philips",
-  "cat": "Keypad Phones",
-  "price": 14,
-  "price_pkr": 3999,
-  "path": "keypad/philips-e2103.html",
   "pl": "Estimated price"
  },
  {
@@ -38209,16 +37719,6 @@
   "pl": "Estimated price"
  },
  {
-  "slug": "huawei-honor-20-lite",
-  "name": "Huawei Honor 20 Lite",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/huawei-honor-20-lite.html",
-  "unv": 1
- },
- {
   "slug": "vivo-x20a",
   "name": "Vivo X20a",
   "brand": "Vivo",
@@ -38226,16 +37726,6 @@
   "price": null,
   "price_pkr": null,
   "path": "phones/vivo-x20a.html",
-  "unv": 1
- },
- {
-  "slug": "samsung-galaxy-z-flip-5",
-  "name": "Samsung Galaxy Z Flip 5",
-  "brand": "Samsung",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/samsung-galaxy-z-flip-5.html",
   "unv": 1
  },
  {
@@ -38296,16 +37786,6 @@
   "price": null,
   "price_pkr": null,
   "path": "phones/huawei-honor-10-lite.html",
-  "unv": 1
- },
- {
-  "slug": "vivo-x21a",
-  "name": "Vivo X21a",
-  "brand": "Vivo",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/vivo-x21a.html",
   "unv": 1
  },
  {
@@ -38379,16 +37859,6 @@
   "unv": 1
  },
  {
-  "slug": "huawei-honor-8s",
-  "name": "Huawei Honor 8s",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/huawei-honor-8s.html",
-  "unv": 1
- },
- {
   "slug": "samsung-galaxy-note-10-5g",
   "name": "Samsung Galaxy Note 10 5G",
   "brand": "Samsung",
@@ -38396,16 +37866,6 @@
   "price": null,
   "price_pkr": null,
   "path": "phones/samsung-galaxy-note-10-5g.html",
-  "unv": 1
- },
- {
-  "slug": "huawei-nova-6se",
-  "name": "Huawei Nova 6se",
-  "brand": "Huawei",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/huawei-nova-6se.html",
   "unv": 1
  },
  {
@@ -38599,16 +38059,6 @@
   "unv": 1
  },
  {
-  "slug": "motorola-moto-g-power-2025",
-  "name": "Motorola Moto G Power - 2025",
-  "brand": "Motorola",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/motorola-moto-g-power-2025.html",
-  "unv": 1
- },
- {
   "slug": "tecno-spark-4-air",
   "name": "Tecno Spark 4 Air",
   "brand": "Tecno",
@@ -38699,16 +38149,6 @@
   "unv": 1
  },
  {
-  "slug": "oppo-reno14",
-  "name": "Oppo Reno14",
-  "brand": "Oppo",
-  "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
-  "path": "phones/oppo-reno14.html",
-  "unv": 1
- },
- {
   "slug": "redmi-a4-5g",
   "name": "Redmi A4 5G",
   "brand": "Redmi",
@@ -38787,36 +38227,6 @@
   "price_pkr": 267999,
   "path": "tablets/samsung-galaxy-tab-s10-plus.html",
   "pl": "Estimated price"
- },
- {
-  "slug": "apple-ipad-air-m3",
-  "name": "Apple iPad Air 11 (M3)",
-  "brand": "Apple",
-  "cat": "Tablets",
-  "price": 741,
-  "price_pkr": 204999,
-  "path": "tablets/apple-ipad-air-m3.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "apple-ipad-pro-13-m4",
-  "name": "Apple iPad Pro 13 (M4)",
-  "brand": "Apple",
-  "cat": "Tablets",
-  "price": 1120,
-  "price_pkr": 309999,
-  "path": "tablets/apple-ipad-pro-13-m4.html",
-  "pl": "Estimated price"
- },
- {
-  "slug": "samsung-galaxy-z-flip-7",
-  "name": "Samsung Galaxy Z Flip 7",
-  "brand": "Samsung",
-  "cat": "Smartphones",
-  "price": 1409,
-  "price_pkr": 389999,
-  "path": "phones/samsung-galaxy-z-flip-7.html",
-  "pl": "Market price"
  },
  {
   "slug": "google-pixel-9-pro-xl",
@@ -39245,10 +38655,10 @@
   "name": "Samsung Galaxy Z Flip7",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 549,
-  "price_pkr": 151999,
+  "price": 1409,
+  "price_pkr": 389999,
   "path": "phones/samsung-galaxy-z-flip7.html",
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "samsung-galaxy-z-flip7-fe-5g",
@@ -39705,10 +39115,10 @@
   "name": "Apple iPad Pro 11 (2024)",
   "brand": "Apple",
   "cat": "Tablets",
-  "price": 1344,
-  "price_pkr": 371999,
+  "price": 1048,
+  "price_pkr": 289999,
   "path": "tablets/apple-ipad-pro-11-(2024).html",
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "apple-ipad-air-13-(2024)",

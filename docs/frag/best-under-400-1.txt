@@ -1,14 +1,4 @@
-<div class="card" data-name="vivo y03t vivo smartphones" data-brand="Vivo" data-price="21999" data-year="2024">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/vivo-y03t/main.webp"><img class="cardimg" src="img/vivo-y03t/main.jpg" alt="Vivo Y03t" width="1200" height="1200" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/vivo-y03t.html">Vivo Y03t</a></p>
-<div class="price"><span class="prc" data-pkr="21999"><b class="pkrv">Rs 21,999</b> <span class="usdv">$80</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.56&quot; display</div><div class="spec">Unisoc T612</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.56&quot; display · Unisoc T612 · 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/vivo-y03t.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=vivo-y03t">Compare</a></div>
-</div></div><div class="card" data-name="vivo y11 vivo smartphones" data-brand="Vivo" data-price="21999" data-year="2014">
+<div class="card" data-name="vivo y11 vivo smartphones" data-brand="Vivo" data-price="21999" data-year="2014">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/vivo-y11/main.webp"><img class="cardimg" src="img/vivo-y11/main.jpg" alt="Vivo Y11" width="1200" height="1200" loading="lazy"></picture>
 <div class="cbody">
@@ -568,16 +558,6 @@
 <div class="spec">6.2&quot; display · Mediatek MT6771 Helio P60 · 3 / 4 GB RAM · 4230 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/realme-3i.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=realme-3i">Compare</a></div>
-</div></div><div class="card" data-name="honor nla-lx3 honor smartphones" data-brand="Honor" data-price="24999" data-year="2025">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/honor-nla-lx3/main.webp"><img class="cardimg" src="img/honor-nla-lx3/main.jpg" alt="Honor NLA-LX3" width="1200" height="1200" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/honor-nla-lx3.html">Honor NLA-LX3</a></p>
-<div class="price"><span class="prc" data-pkr="24999"><b class="pkrv">Rs 24,999</b> <span class="usdv">$90</span></span><span class="plabel">Estimated price</span></div><div class="spec">Mediatek Helio G81</div><div class="spec">4 GB RAM</div><div class="spec">5260 mAh</div>
-<div class="spec">Mediatek Helio G81 · 4 GB RAM · 5260 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/honor-nla-lx3.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=honor-nla-lx3">Compare</a></div>
 </div></div><div class="card" data-name="honor x5c+ honor smartphones" data-brand="Honor" data-price="24999" data-year="2025">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/honor-x5c+/main.webp"><img class="cardimg" src="img/honor-x5c+/main.jpg" alt="Honor X5c+" width="1200" height="1200" loading="lazy"></picture>
@@ -1288,26 +1268,6 @@
 <div class="spec">6.39&quot; display · Qualcomm SM6115 Snapdragon 662 · 4 / 6 GB RAM · 4000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/nokia-5.4.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=nokia-5.4">Compare</a></div>
-</div></div><div class="card" data-name="motorola moto e (2020) motorola smartphones" data-brand="Motorola" data-price="27999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-moto-e-(2020)/main.webp"><img class="cardimg" src="img/motorola-moto-e-(2020)/main.jpg" alt="Motorola Moto E (2020)" width="1200" height="1200" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/motorola-moto-e-(2020).html">Motorola Moto E (2020)</a></p>
-<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.3&quot; display</div><div class="spec">Qualcomm Snapdragon 200</div><div class="spec">1 GB RAM</div><div class="spec">1980 mAh</div>
-<div class="spec">4.3&quot; display · Qualcomm Snapdragon 200 · 1 GB RAM · 1980 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/motorola-moto-e-(2020).html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=motorola-moto-e-(2020)">Compare</a></div>
-</div></div><div class="card" data-name="motorola moto e dual sim motorola smartphones" data-brand="Motorola" data-price="27999" data-year="2014">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-moto-e-dual-sim/main.webp"><img class="cardimg" src="img/motorola-moto-e-dual-sim/main.jpg" alt="Motorola Moto E Dual Sim" width="1200" height="1200" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/motorola-moto-e-dual-sim.html">Motorola Moto E Dual Sim</a></p>
-<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.3&quot; display</div><div class="spec">Qualcomm Snapdragon 200</div><div class="spec">1 GB RAM</div><div class="spec">1980 mAh</div>
-<div class="spec">4.3&quot; display · Qualcomm Snapdragon 200 · 1 GB RAM · 1980 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/motorola-moto-e-dual-sim.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=motorola-moto-e-dual-sim">Compare</a></div>
 </div></div><div class="card" data-name="xiaomi redmi y1 lite xiaomi smartphones" data-brand="Xiaomi" data-price="27999" data-year="2017">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/xiaomi-redmi-y1-lite/main.webp"><img class="cardimg" src="img/xiaomi-redmi-y1-lite/main.jpg" alt="Xiaomi Redmi Y1 Lite" width="1200" height="1200" loading="lazy"></picture>
@@ -2858,16 +2818,6 @@
 <div class="spec">6.6&quot; display · Mediatek Dimensity 810 · 4 / 6 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/realme-narzo-50-5g.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=realme-narzo-50-5g">Compare</a></div>
-</div></div><div class="card" data-name="vivo y3s (2021) vivo smartphones" data-brand="Vivo" data-price="33999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/vivo-y3s-(2021)/main.webp"><img class="cardimg" src="img/vivo-y3s-(2021)/main.jpg" alt="Vivo Y3s (2021)" width="1200" height="1200" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/vivo-y3s-(2021).html">Vivo Y3s (2021)</a></p>
-<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.35&quot; display</div><div class="spec">Mediatek MT6765 Helio P35</div><div class="spec">3 / 4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.35&quot; display · Mediatek MT6765 Helio P35 · 3 / 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/vivo-y3s-(2021).html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=vivo-y3s-(2021)">Compare</a></div>
 </div></div><div class="card" data-name="lg q6 lg smartphones" data-brand="LG" data-price="33999" data-year="2017">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/lg-q6/main.webp"><img class="cardimg" src="img/lg-q6/main.jpg" alt="LG Q6" width="1200" height="1200" loading="lazy"></picture>
@@ -2888,16 +2838,6 @@
 <div class="spec">4.5&quot; display · Qualcomm Snapdragon 400 · 1830 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/nokia-lumia-630.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=nokia-lumia-630">Compare</a></div>
-</div></div><div class="card" data-name="huawei y5p huawei smartphones" data-brand="Huawei" data-price="33999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-y5p/main.webp"><img class="cardimg" src="img/huawei-y5p/main.jpg" alt="Huawei Y5p" width="1200" height="1200" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-y5p.html">Huawei Y5p</a></p>
-<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.45&quot; display</div><div class="spec">Mediatek MT6762R Helio P22</div><div class="spec">2 GB RAM</div><div class="spec">3020 mAh</div>
-<div class="spec">5.45&quot; display · Mediatek MT6762R Helio P22 · 2 GB RAM · 3020 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-y5p.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-y5p">Compare</a></div>
 </div></div><div class="card" data-name="samsung galaxy m01 samsung smartphones" data-brand="Samsung" data-price="33999" data-year="2020">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/samsung-galaxy-m01/main.webp"><img class="cardimg" src="img/samsung-galaxy-m01/main.jpg" alt="Samsung Galaxy M01" width="1200" height="1200" loading="lazy"></picture>
@@ -3998,4 +3938,64 @@
 <div class="spec">5.0&quot; display · Mediatek MT6761D Helio A20 · 3 GB RAM · 4350 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/doogee-s35.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=doogee-s35">Compare</a></div>
+</div></div><div class="card" data-name="doogee x97 pro doogee smartphones" data-brand="Doogee" data-price="36999" data-year="2022">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/doogee-x97-pro/main.webp"><img class="cardimg" src="img/doogee-x97-pro/main.jpg" alt="Doogee X97 Pro" width="1200" height="1200" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/doogee-x97-pro.html">Doogee X97 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.0&quot; display</div><div class="spec">Mediatek MT6762G Helio G25</div><div class="spec">4 GB RAM</div><div class="spec">4200 mAh</div>
+<div class="spec">6.0&quot; display · Mediatek MT6762G Helio G25 · 4 GB RAM · 4200 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/doogee-x97-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=doogee-x97-pro">Compare</a></div>
+</div></div><div class="card" data-name="doogee n55 doogee smartphones" data-brand="Doogee" data-price="36999" data-year="2024">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/doogee-n55/main.webp"><img class="cardimg" src="img/doogee-n55/main.jpg" alt="Doogee N55" width="1200" height="1200" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/doogee-n55.html">Doogee N55</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.56&quot; display</div><div class="spec">Unisoc T606</div><div class="spec">4 GB RAM</div><div class="spec">5150 mAh</div>
+<div class="spec">6.56&quot; display · Unisoc T606 · 4 GB RAM · 5150 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/doogee-n55.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=doogee-n55">Compare</a></div>
+</div></div><div class="card" data-name="blackview a70 pro blackview smartphones" data-brand="Blackview" data-price="36999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/blackview-a70-pro/main.webp"><img class="cardimg" src="img/blackview-a70-pro/main.jpg" alt="Blackview A70 Pro" width="1200" height="1200" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/blackview-a70-pro.html">Blackview A70 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.52&quot; display</div><div class="spec">Unisoc Tiger T310</div><div class="spec">4 GB RAM</div><div class="spec">5380 mAh</div>
+<div class="spec">6.52&quot; display · Unisoc Tiger T310 · 4 GB RAM · 5380 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/blackview-a70-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=blackview-a70-pro">Compare</a></div>
+</div></div><div class="card" data-name="oukitel wp36 oukitel smartphones" data-brand="Oukitel" data-price="36999" data-year="2024">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/oukitel-wp36/main.webp"><img class="cardimg" src="img/oukitel-wp36/main.jpg" alt="Oukitel Wp36" width="1200" height="1200" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oukitel-wp36.html">Oukitel Wp36</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.52&quot; display</div><div class="spec">Mediatek MT8788</div><div class="spec">8 GB RAM</div><div class="spec">10600 mAh</div>
+<div class="spec">6.52&quot; display · Mediatek MT8788 · 8 GB RAM · 10600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oukitel-wp36.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oukitel-wp36">Compare</a></div>
+</div></div><div class="card" data-name="blackview bv4900s blackview smartphones" data-brand="Blackview" data-price="36999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/blackview-bv4900s/main.webp"><img class="cardimg" src="img/blackview-bv4900s/main.jpg" alt="Blackview BV4900S" width="1200" height="1200" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/blackview-bv4900s.html">Blackview BV4900S</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Unisoc SC9863A</div><div class="spec">2 GB RAM</div><div class="spec">5580 mAh</div>
+<div class="spec">5.7&quot; display · Unisoc SC9863A · 2 GB RAM · 5580 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/blackview-bv4900s.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=blackview-bv4900s">Compare</a></div>
+</div></div><div class="card" data-name="blackview bv5200 blackview smartphones" data-brand="Blackview" data-price="36999" data-year="2022">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/blackview-bv5200/main.webp"><img class="cardimg" src="img/blackview-bv5200/main.jpg" alt="Blackview Bv5200" width="1200" height="1200" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/blackview-bv5200.html">Blackview Bv5200</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.1&quot; display</div><div class="spec">Mediatek MT6761 Helio A22</div><div class="spec">4 GB RAM</div><div class="spec">5180 mAh</div>
+<div class="spec">6.1&quot; display · Mediatek MT6761 Helio A22 · 4 GB RAM · 5180 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/blackview-bv5200.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=blackview-bv5200">Compare</a></div>
 </div></div>

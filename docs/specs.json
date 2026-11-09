@@ -202,23 +202,6 @@
   "USB": "USB Type-C 3.2, OTG",
   "SIM": "Nano-SIM + eSIM Nano-SIM + Nano-SIM + eSIM (max 2 at a time)"
  },
- "samsung-galaxy-z-flip-6": {
-  "Launch Year": "2024 (announced 10 Jul 2024, released 24 Jul 2024)",
-  "Network": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
-  "Body": "Unfolded: 165.1 x 71.9 x 6.9 mm; Folded: 85.1 x 71.9 x 14.9 mm; 187 g; plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; IP48 (1.5 m for 30 min)",
-  "Display": "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.7 inches, 1080 x 2640 pixels (~426 ppi); cover display: Super AMOLED, 60Hz, 1600 nits (peak), 3.4 inches, 720 x 748 pixels (Gorilla Glass Victus 2)",
-  "Chipset": "Qualcomm SM8650-AC Snapdragon 8 Gen 3 (4 nm); Octa-core CPU (1x3.39 GHz Cortex-X4 + 3x3.1 GHz Cortex-A720 + 2x2.9 GHz Cortex-A720 + 2x2.2 GHz Cortex-A520); Adreno 750 GPU",
-  "RAM": "12 GB",
-  "Storage": "128 GB / 256 GB / 512 GB (UFS 4.0, no card slot)",
-  "Main Camera": "50 MP f/1.8 23mm wide (dual pixel PDAF, OIS) + 12 MP f/2.2 13mm 123° ultrawide; video 4K@30/60fps, 1080p@60/120/240fps, HDR10+",
-  "Selfie Camera": "10 MP f/2.2 23mm wide; video 4K@30/60fps",
-  "Battery": "4000 mAh",
-  "Charging": "25W wired, QC2.0, 50% in 30 min; 15W wireless; 4.5W reverse wireless",
-  "Operating System": "Android 14, One UI 6.1.1 (up to 7 major Android upgrades)",
-  "Fingerprint": "Side-mounted",
-  "Sensors": "accelerometer, gyro, proximity, compass, barometer",
-  "Colors": "Yellow, Silver Shadow, Mint, Blue, Black, White, Peach"
- },
  "samsung-galaxy-a55": {
   "Launch Year": "2024 (announced 11 Mar 2024, released 15 Mar 2024)",
   "Network": "GSM / HSPA / LTE / 5G",
@@ -1106,32 +1089,6 @@
   "Weight": "77.5 g",
   "Colors": "Black, Purple, Blue"
  },
- "apple-ipad-10": {
-  "Launch Year": "2022",
-  "Display": "10.9\" Liquid Retina, 2360x1640",
-  "Chipset": "Apple A14 Bionic",
-  "RAM": "4 GB",
-  "Storage": "64 / 256 GB",
-  "Main Camera": "12MP wide",
-  "Selfie Camera": "12MP ultrawide (landscape)",
-  "Battery": "Up to 10 hours use",
-  "Operating System": "iPadOS 16",
-  "Weight": "477 g",
-  "Colors": "Silver, Blue, Pink, Yellow"
- },
- "apple-ipad-air-m2": {
-  "Launch Year": "2024",
-  "Display": "11\" Liquid Retina, 2360x1640",
-  "Chipset": "Apple M2",
-  "RAM": "8 GB",
-  "Storage": "128 / 256 / 512 GB / 1 TB",
-  "Main Camera": "12MP wide",
-  "Selfie Camera": "12MP ultrawide (landscape)",
-  "Battery": "Up to 10 hours use",
-  "Operating System": "iPadOS 17.4",
-  "Weight": "462 g",
-  "Colors": "Space Gray, Starlight, Purple, Blue"
- },
  "samsung-galaxy-tab-a9": {
   "Launch Year": "2023",
   "Network": "4G LTE (SIM model) / Wi-Fi",
@@ -1266,7 +1223,13 @@
   "Operating System": "macOS Sonoma",
   "Weight": "1.24 kg",
   "Ports": "2x Thunderbolt USB-C, MagSafe, 3.5mm jack",
-  "Colors": "Midnight, Starlight, Silver, Space Gray"
+  "Colors": "Midnight, Starlight, Silver, Space Gray",
+  "Charging": "30W USB-C Power Adapter (8-core GPU) or 35W Dual USB-C Port Compact Adapter (10-core GPU); MagSafe 3; fast-charge capable with 70W adapter",
+  "Body": "1.13 x 30.41 x 21.5 cm; 1.24 kg; aluminum enclosure",
+  "Main Camera": "1080p FaceTime HD camera",
+  "Audio/Speakers": "Four-speaker sound system; wide stereo sound; Spatial Audio with Dolby Atmos; three-mic array with directional beamforming",
+  "Wi-Fi": "Wi-Fi 6E (802.11ax)",
+  "Bluetooth": "Bluetooth 5.3"
  },
  "apple-macbook-pro-14-m3-pro": {
   "Launch Year": "2023",
@@ -4193,20 +4156,6 @@
   "Colors": "Graphite, Silver, Navy",
   "Resolution": "1200 x 1920 pixels, 16:10 ratio (~206 ppi density)"
  },
- "apple-ipad-pro-m4-11": {
-  "Launch Year": "2024",
-  "Network": "5G (cellular model) / Wi-Fi",
-  "Display": "11.0\" Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits peak, 1668x2420",
-  "Chipset": "Apple M4 (9-core CPU on 256/512 GB, 10-core CPU on 1/2 TB; 10-core GPU)",
-  "RAM": "8 GB (256/512 GB) / 16 GB (1/2 TB)",
-  "Storage": "256 / 512 GB / 1 TB / 2 TB",
-  "Main Camera": "12MP wide + TOF 3D LiDAR, 4K@60 video, ProRes",
-  "Selfie Camera": "12MP ultrawide (landscape)",
-  "Battery": "8,160 mAh (31.29 Wh)",
-  "Operating System": "iPadOS 17.5",
-  "Weight": "444 g (Wi-Fi) / 446 g (5G)",
-  "Colors": "Silver, Space Black"
- },
  "nokia-3210-2024": {
   "Launch Year": "2024",
   "Network": "4G LTE, Dual SIM",
@@ -4938,40 +4887,6 @@
   "Charging": "15W wired 5W reverse wired",
   "Colors": "Shadow Black, Cloudline Blue, Polaris Titanium, Sunlike Orange"
  },
- "samsung-galaxy-z-fold-6": {
-  "Launch Year": "2024 (announced 10 July 2024, released 24 July 2024)",
-  "Network": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
-  "Body": "Unfolded: 153.5 x 132.6 x 5.6 mm, Folded: 153.5 x 68.1 x 12.1 mm, 239 g; glass front (Gorilla Glass Victus 2) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM / eSIM + eSIM; IP48 dust and water resistant; stylus support",
-  "Display": "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 7.6 inches; 1856 x 2160 pixels; cover display: 6.3 inches Dynamic LTPO AMOLED 2X, 120Hz, 968 x 2376 pixels, Gorilla Glass Victus 2",
-  "Chipset": "Qualcomm Snapdragon 8 Gen 3 (4 nm); CPU 8-core (1x3.39 GHz Cortex-X4 & 3x3.1 GHz Cortex-A720 & 2x2.9 GHz Cortex-A720 & 2x2.2 GHz Cortex-A520); GPU Adreno 750",
-  "RAM": "12 GB",
-  "Storage": "256 GB / 512 GB / 1 TB (UFS 4.0); no card slot",
-  "Main Camera": "50 MP f/1.8 wide (dual pixel PDAF, OIS) + 10 MP f/2.4 telephoto (PDAF, OIS, 3x optical zoom) + 12 MP f/2.2 123° ultrawide; LED flash, HDR, panorama; video 8K@30fps, 4K@60fps, 1080p@60/120/240fps",
-  "Selfie Camera": "4 MP f/1.8 under display + 10 MP f/2.2 cover camera; video 4K@30/60fps, 1080p@30/60fps",
-  "Battery": "Li-Po 4400 mAh",
-  "Charging": "25W wired (50% in 30 min); 15W wireless; 4.5W reverse wireless",
-  "Operating System": "Android 14, One UI 6.1.1 (up to 7 major OS updates)",
-  "Fingerprint": "Side-mounted",
-  "Sensors": "accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; UWB support; Samsung DeX; USB Type-C 3.2",
-  "Colors": "Navy, Silver Shadow, Pink, Black, White"
- },
- "samsung-galaxy-z-fold-5": {
-  "Launch Year": "2023 (announced 26 July 2023, released 11 August 2023)",
-  "Network": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
-  "Body": "Unfolded: 154.9 x 129.9 x 6.1 mm, Folded: 154.9 x 67.1 x 13.4 mm, 253 g; glass front (Gorilla Glass Victus 2) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM / Nano-SIM + Nano-SIM + eSIM; IPX8 water resistant (up to 1.5 m for 30 min); stylus support",
-  "Display": "Foldable Dynamic AMOLED 2X, 120Hz, HDR10+; 7.6 inches; 1812 x 2176 pixels; cover display: 6.2 inches Dynamic AMOLED 2X, 120Hz, 904 x 2316 pixels, Gorilla Glass Victus 2",
-  "Chipset": "Qualcomm Snapdragon 8 Gen 2 (4 nm); CPU octa-core (1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510); GPU Adreno 740",
-  "RAM": "12 GB",
-  "Storage": "256 GB / 512 GB / 1 TB (UFS 4.0); no card slot",
-  "Main Camera": "50 MP f/1.8 wide (dual pixel PDAF, OIS) + 10 MP f/2.4 telephoto (PDAF, OIS, 3x optical zoom) + 12 MP f/2.2 123° ultrawide; LED flash, HDR, panorama; video 8K@30fps, 4K@60fps",
-  "Selfie Camera": "4 MP f/1.8 under display + 10 MP f/2.2 cover camera; video 4K@30/60fps, 1080p@30/60fps",
-  "Battery": "Li-Po 4400 mAh",
-  "Charging": "25W wired (50% in 30 min); 15W wireless; 4.5W reverse wireless",
-  "Operating System": "Android 13, One UI (up to 4 major OS updates)",
-  "Fingerprint": "Side-mounted",
-  "Sensors": "accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; UWB support; Samsung DeX; USB Type-C 3.2",
-  "Colors": "Icy Blue, Phantom Black, Cream, Gray, Blue"
- },
  "samsung-galaxy-s24": {
   "Launch Year": "2024 (announced 17 January 2024, released 24 January 2024)",
   "Network": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
@@ -5092,23 +5007,6 @@
   "Radio": "No",
   "USB": "USB Type-C 2.0",
   "SIM": "Nano-SIM + Nano-SIM"
- },
- "honor-magic-6-pro": {
-  "Launch Year": "2024 (announced 11 January 2024, released 18 January 2024)",
-  "Network": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
-  "Body": "162.5 x 75.8 x 8.9 mm, 225 g or 229 g; glass front (NanoCrystal Shield), glass back or silicone polymer back (eco leather); Nano-SIM + eSIM / Nano-SIM + Nano-SIM; IP68 dust tight and water resistant (up to 1.5 m for 30 min)",
-  "Display": "LTPO OLED, 1B colors, 120Hz, Dolby Vision, HDR, 1600 nits (HBM), 5000 nits (peak); 6.8 inches; 1280 x 2800 pixels; NanoCrystal Shield protection",
-  "Chipset": "Qualcomm Snapdragon 8 Gen 3 (4 nm); CPU octa-core (1x3.3 GHz Cortex-X4 & 3x3.2 GHz Cortex-A720 & 2x3.0 GHz Cortex-A720 & 2x2.3 GHz Cortex-A520); GPU Adreno 750",
-  "RAM": "12 GB / 16 GB",
-  "Storage": "256 GB / 512 GB / 1 TB (UFS 4.0); no card slot",
-  "Main Camera": "50 MP f/1.4-2.0 wide (PDAF, OIS) + 180 MP f/2.6 periscope telephoto (PDAF, OIS, 2.5x optical zoom) + 50 MP f/2.0 122° ultrawide (AF); Laser AF, LED flash, HDR, panorama; video 4K@24/30/60fps, 1080p@30/60/120/240fps",
-  "Selfie Camera": "50 MP f/2.0 wide (AF) + TOF 3D depth/biometrics sensor; video 4K@30fps, 1080p@30/60fps",
-  "Battery": "Si/C Li-Ion 5600 mAh",
-  "Charging": "80W wired; 66W wireless; reverse wireless; 5W reverse wired",
-  "Operating System": "Android 14, MagicOS 8 (up to 4 major OS updates)",
-  "Fingerprint": "Under display, optical",
-  "Sensors": "Face ID, accelerometer, gyro, proximity, compass; stereo speakers; NFC; infrared port; satellite SOS; USB Type-C 3.2",
-  "Colors": "Black, Green, Blue, Purple, White"
  },
  "nothing-phone-2a-plus": {
   "Launch Year": "2024 (announced 31 July 2024, released 3 August 2024)",
@@ -5619,23 +5517,6 @@
   "Sensors": "accelerometer, proximity, compass; stereo speakers; NFC; infrared port; USB Type-C 2.0",
   "Colors": "White, Blue, Black"
  },
- "apple-macbook-air-m3-13": {
-  "Launch Year": "2024 (announced 4 March 2024, released 8 March 2024)",
-  "Display": "Liquid Retina display; 13.6-inch LED-backlit with IPS technology; 2560 x 1664 pixels at 224 ppi; 500 nits brightness; 1 billion colors; Wide color (P3); True Tone",
-  "Chipset": "Apple M3; CPU 8-core (4 performance + 4 efficiency cores); GPU 8-core (configurable to 10-core); hardware-accelerated ray tracing; 16-core Neural Engine; 100GB/s memory bandwidth",
-  "RAM": "8 GB unified memory; configurable to 16 GB or 24 GB",
-  "Storage": "256 GB SSD; configurable to 512 GB, 1 TB or 2 TB",
-  "Battery": "52.6 Wh lithium-polymer; up to 18 hours Apple TV app movie playback; up to 15 hours wireless web",
-  "Charging": "30W USB-C Power Adapter (8-core GPU) or 35W Dual USB-C Port Compact Adapter (10-core GPU); MagSafe 3; fast-charge capable with 70W adapter",
-  "Body": "1.13 x 30.41 x 21.5 cm; 1.24 kg; aluminum enclosure",
-  "Ports": "MagSafe 3 charging port; 2x Thunderbolt / USB 4 ports (Thunderbolt 3 up to 40Gb/s, USB 4 up to 40Gb/s); 3.5 mm headphone jack with advanced support for high-impedance headphones",
-  "Main Camera": "1080p FaceTime HD camera",
-  "Audio/Speakers": "Four-speaker sound system; wide stereo sound; Spatial Audio with Dolby Atmos; three-mic array with directional beamforming",
-  "Wi-Fi": "Wi-Fi 6E (802.11ax)",
-  "Bluetooth": "Bluetooth 5.3",
-  "Colors": "Silver, Starlight, Space Gray, Midnight",
-  "Operating System": "macOS Sonoma (at launch)"
- },
  "apple-macbook-air-m4-13": {
   "Launch Year": "2025 (announced 5 March 2025, released 12 March 2025)",
   "Display": "Liquid Retina display; 13.6-inch LED-backlit with IPS technology; 2560 x 1664 pixels at 224 ppi; 500 nits brightness; 1 billion colors; Wide color (P3); True Tone",
@@ -6032,7 +5913,8 @@
   "Operating System": "Android 15, ColorOS 15",
   "Fingerprint": "Under display, optical",
   "Sensors": "accelerometer, gyro, proximity, compass; stereo speakers; NFC (market/region dependent); infrared port; USB Type-C 2.0",
-  "Colors": "Tranquil Green (Forest Green), Brilliant White (Pearl White), Black, Green"
+  "Colors": "Tranquil Green (Forest Green), Brilliant White (Pearl White), Black, Green",
+  "Region": "Global"
  },
  "realme-14-pro-plus": {
   "Launch Year": "2025 (announced 9 January 2025, released 9 January 2025)",
@@ -7201,31 +7083,6 @@
   "Charging": "80W wired, 33W PPS, 18W PD/QC; Bypass charging",
   "Colors": "Black, White, Green"
  },
- "huawei-mate-x7-5g": {
-  "Launch Year": "2025 (announced 2025, November 25)",
-  "Region": "Global / China",
-  "Network": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
-  "Body": "Unfolded: 156.8 x 144.2 x 4.5 mm; Folded: 156.8 x 73.8 x 9.5 mm; 236 g (8.32 oz); Glass front, nylon fiber or silicone polymer back (eco leather), aluminum frame; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International; Nano-SIM + Nano-SIM - China; IP58/IP59 dust protected and water resistant (high pressure water jets; immersible up to 2m for 30 min); Aerospace-grade aluminum",
-  "Display": "Foldable LTPO OLED, 120Hz, 1440Hz PWM, HDR Vivid, 2500 nits (peak); 8.0 inches, 202.7 cm2 (~89.6% screen-to-body ratio); 2210 x 2416 pixels (~412 ppi density); Cover display: LTPO OLED, 120Hz, 1440Hz PWM, HDR, 3000 nits (peak), 6.49 inches, 1080 x 2444 pixels, Kunlun Glass 2, 412 ppi",
-  "Operating System": "EMUI 15 (International), HarmonyOS 6.0 (China)",
-  "Chipset": "Kirin 9030 Pro (6 nm)",
-  "RAM": "12 GB / 16 GB / 20 GB",
-  "Storage": "256 GB / 512 GB / 1 TB; UFS 4.x",
-  "Main Camera": "50 MP, f/1.5-f/4.0, 24mm (wide), 1/1.28\", PDAF, OIS + 50 MP, f/2.2, 88mm (periscope telephoto), PDAF, OIS, 3.5x optical zoom + 40 MP, f/2.2, 13mm, 120˚ (ultrawide), PDAF; Laser AF, color spectrum sensor, LED flash, panorama, HDR; video 4K, 1080p, 1080p@960fps, HDR, gyro-EIS, OIS, HDR Vivid",
-  "Selfie Camera": "8 MP, f/2.2, (wide); Cover camera: 8 MP, f/2.4, (wide); HDR, panorama; video 4K, 1080p",
-  "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer; BDS Satellite and Messaging - China only",
-  "Loudspeaker": "Yes, with stereo speakers",
-  "3.5mm Jack": "No",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
-  "Bluetooth": "6.0, A2DP, LE, L2HC",
-  "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
-  "NFC": "Yes",
-  "Radio": "No",
-  "USB": "USB Type-C 3.1, OTG, DisplayPort 1.2",
-  "Battery": "5600 mAh (5525 mAh for 12GB RAM model)",
-  "Charging": "66W wired; 50W wireless; 7.5W reverse wireless; 5W reverse wired",
-  "Colors": "Black, Brocade White, Nebula Red, Purple, Blue"
- },
  "google-pixel-10-pro-xl-5g": {
   "Launch Year": "2025 (announced 2025, August 20)",
   "Region": "Global",
@@ -7500,7 +7357,8 @@
   "NFC": "Yes",
   "Radio": "No",
   "USB": "USB Type-C 2.0, OTG",
-  "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + eSIM"
+  "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + eSIM",
+  "Region": "India"
  },
  "honor-400-pro": {
   "Launch Year": "2025 (announced 22 May 2025, released 23 May 2025)",
@@ -7526,7 +7384,8 @@
   "NFC": "Yes",
   "Radio": "No",
   "USB": "USB Type-C 2.0, OTG",
-  "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + eSIM"
+  "SIM": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + eSIM",
+  "Region": "India"
  },
  "oppo-reno-13": {
   "Launch Year": "2024 (announced 25 November 2024, released 29 November 2024)",
@@ -7543,7 +7402,8 @@
   "Operating System": "Android 15, ColorOS 15",
   "Fingerprint": "Under display, optical",
   "Sensors": "accelerometer, gyro, proximity, compass; stereo speakers; Wi-Fi 6, Bluetooth 5.4, NFC, infrared port; USB Type-C 2.0, OTG; no 3.5mm jack",
-  "Colors": "Plume White, Luminous Blue, Black, Purple, Blue"
+  "Colors": "Plume White, Luminous Blue, Black, Purple, Blue",
+  "Region": "Global"
  },
  "oppo-reno-13-pro": {
   "Launch Year": "2024 (announced 25 November 2024, released 29 November 2024)",
@@ -8376,7 +8236,8 @@
   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
   "USB": "USB Type-C 3.2, OTG",
   "Colors": "Navy, Silver Shadow, Pink, Black, White",
-  "Network": "GSM / HSPA / LTE / 5G"
+  "Network": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+  "Fingerprint": "Side-mounted"
  },
  "samsung-galaxy-s25+": {
   "Launch Year": "2025 (announced 22 January 2025)",
@@ -8462,7 +8323,8 @@
   "GPS": "GPS, GLONASS, GALILEO, BDS",
   "USB": "USB Type-C 3.2, OTG",
   "Colors": "Icy Blue, Phantom Black, Cream, Gray, Blue",
-  "Network": "GSM / HSPA / LTE / 5G"
+  "Network": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+  "Fingerprint": "Side-mounted"
  },
  "samsung-galaxy-s21-ultra-5g": {
   "Launch Year": "2021 (announced 2021, January 14)",
@@ -8572,7 +8434,8 @@
   "GPS": "GPS, GALILEO, GLONASS, BDS, QZSS",
   "USB": "USB Type-C 3.2, OTG",
   "Colors": "Yellow, Silver Shadow, Mint, Blue, Black, White, Peach",
-  "Network": "GSM / HSPA / LTE / 5G"
+  "Network": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+  "Fingerprint": "Side-mounted"
  },
  "apple-iphone-12-pro-max": {
   "Launch Year": "2020 (announced 2020, October 13)",
@@ -8677,26 +8540,6 @@
   "Selfie Camera": "8 MP",
   "Battery": "4000 mAh",
   "Wi-Fi": "Wi-Fi"
- },
- "xiaomi-9": {
-  "Launch Year": "2019 (announced 2019, February 20)",
-  "Region": "Global",
-  "Body": "157.5 x 74.7 x 7.6 mm (6.20 x 2.94 x 0.30 in); 173 g (6.10 oz); Glass front (Gorilla Glass 6), glass back (Gorilla Glass 5), aluminum frame; Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "Super AMOLED, HDR10; 6.39 inches, 100.2 cm; 1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)",
-  "Operating System": "Android 9.0 (Pie), upgradable to Android 10, MIUI 12.5",
-  "Chipset": "Qualcomm SM8150 Snapdragon 855 (7 nm); Octa-core (1x2.84 GHz Kryo 485 & 3x2.42 GHz Kryo 485 & 4x1.78 GHz Kryo 485); Adreno 640",
-  "RAM": "6 / 8 GB",
-  "Storage": "64GB, 128GB, 256GB",
-  "Main Camera": "48 MP, f/1.8, 27mm (wide), 1/2.0\", 0.8µm, PDAF",
-  "Selfie Camera": "20 MP, f/2.0, (wide), 1/3\", 0.9µm",
-  "Battery": "Li-Po 3300 mAh, non-removable",
-  "Charging": "27W wired, QC4",
-  "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, compass",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, DLNA",
-  "Bluetooth": "5.0, A2DP, LE, aptX HD",
-  "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1), GALILEO (E1+E5a), QZSS (L1+L5)",
-  "USB": "USB Type-C 2.0, OTG",
-  "Colors": "Lavender Violet, Ocean Blue, Piano Black"
  },
  "samsung-galaxy-s9": {
   "Launch Year": "2018 (announced 2018, February 25)",
@@ -9562,20 +9405,6 @@
   "USB": "USB Type-C 2.0",
   "Colors": "Black, Blue, White",
   "Network": "GSM / HSPA / LTE"
- },
- "samsung-galaxy-note-8": {
-  "Region": "India",
-  "Network": "GSM / HSPA / LTE",
-  "Body": "Dual SIM",
-  "Display": "6.3 inches; 1440 x 2960 pixels",
-  "Operating System": "Android",
-  "Chipset": "Exynos 8895 (10 nm) - EMEA",
-  "RAM": "6 GB",
-  "Storage": "64GB",
-  "Main Camera": "12 MP",
-  "Selfie Camera": "8 MP",
-  "Battery": "3300 mAh",
-  "Wi-Fi": "Wi-Fi"
  },
  "samsung-galaxy-s7": {
   "Launch Year": "2016 (announced 2016, February. Released 2016, March)",
@@ -13088,24 +12917,24 @@
   "Sensors": "Fingerprint (rear-mounted), infrared"
  },
  "honor-x70": {
-  "Launch Year": "2021 (announced 2021, September 09)",
-  "Region": "Global",
-  "Body": "160.1 x 75.4 x 7.6 mm (6.30 x 2.97 x 0.30 in); 181/182 g (6.42 oz); Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "AMOLED, 120Hz, HDR10+; 6.56 inches, 104.6 cm; 1080 x 2376 pixels (~398 ppi density)",
-  "Operating System": "Android 11, upgradable to Android 14, Funtouch OS 14 (International), OriginOS (China)",
-  "Chipset": "Mediatek Dimensity 1200 (6 nm); Octa-core (1x3.0 GHz Cortex-A78 & 3x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); Mali-G77 MC9",
-  "RAM": "8 / 12 GB",
-  "Storage": "128GB, 256GB",
-  "Main Camera": "40 MP, f/1.9, (wide), 1.0µm, PDAF",
-  "Selfie Camera": "32 MP, f/2.5, 24mm (wide), 1/2.8\", 0.8µm",
-  "Battery": "4400 mAh, non-removable",
-  "Charging": "44W wired",
-  "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
-  "Bluetooth": "5.2, A2DP, LE, aptX HD",
-  "GPS": "GPS (L1+L5), GLONASS, BDS, GALILEO, QZSS, NavIC",
-  "USB": "USB Type-C 2.0, OTG",
-  "Colors": "Cosmic Black, Aurora Dawn, White"
+  "Launch Year": "2025 (announced 15 July 2025)",
+  "Region": "India",
+  "Network": "GSM / HSPA / LTE / 5G",
+  "Body": "193 g; Dual Sim, GSM+GSM",
+  "Display": "AMOLED",
+  "Operating System": "Android 15",
+  "Chipset": "Qualcomm Snapdragon 6 Gen4; 1xCortex-A720s@2.3 GHz & 3xCortex-A720s@2.2 GHz & 4xCortex-A520s@1.8 GHz; Adreno 810",
+  "RAM": "8 GB",
+  "Storage": "128GB",
+  "Main Camera": "50 MP ƒ/1.9 (Wide Angle)",
+  "Selfie Camera": "8 MP ƒ/2 (Wide Angle) Punch Hole",
+  "Battery": "8300 mAh, Li-Po Battery",
+  "Charging": "80W Fast Charging",
+  "Sensors": "Accelerometer, Compass, Gyro, Proximity (ultrasound)",
+  "Wi-Fi": "Wi-Fi 6 (802.11 a/b/g/n/ac), Dual Band",
+  "Bluetooth": "5.2, A2DP, LE",
+  "USB": "USB-C v2.0",
+  "Colors": "Black, Green, White, Red"
  },
  "realme-7-pro": {
   "Launch Year": "2020 (announced 2020, September 03)",
@@ -15591,29 +15420,6 @@
   "Colors": "Pearl White, Midnight Black, Platinum Silver, Soft Pink, Light Blue, Champagne Gold",
   "Network": "GSM / HSPA / LTE"
  },
- "samsung-galaxy-s21": {
-  "Launch Year": "2021 (announced 2021, January 14)",
-  "Region": "Global",
-  "Body": "151.7 x 71.2 x 7.9 mm (5.97 x 2.80 x 0.31 in); 169 g (5.96 oz); Glass front (Gorilla Glass Victus), plastic back, aluminum frame; Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "Dynamic AMOLED 2X, 120Hz, HDR10+, 1300 nits (peak); 6.2 inches, 94.1 cm; 1080 x 2400 pixels, 20:9 ratio (~421 ppi density)",
-  "Operating System": "Android 11, up to 4 major Android upgrades, One UI 6.1",
-  "Chipset": "Exynos 2100 (5 nm) - International; Octa-core (1x2.9 GHz Cortex-X1 & 3x2.80 GHz Cortex-A78 & 4x2.2 GHz Cortex-A55) - International; Mali-G78 MP14 - International",
-  "RAM": "8 GB",
-  "Storage": "128GB, 256GB",
-  "Main Camera": "12 MP, f/1.8, 26mm (wide), 1/1.76\", 1.8µm, dual pixel PDAF, OIS",
-  "Selfie Camera": "10 MP, f/2.2, 26mm (wide), 1/3.24\", 1.22µm, dual pixel PDAF",
-  "Battery": "Li-Ion 4000 mAh, non-removable",
-  "Charging": "25W wired, PD3.0",
-  "Sensors": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer",
-  "Loudspeaker": "Yes, with stereo speakers",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
-  "Bluetooth": "5.0, A2DP, LE",
-  "GPS": "GPS, GLONASS, BDS, GALILEO",
-  "Radio": "FM radio (Snapdragon model only; market/operator dependent)",
-  "USB": "USB Type-C 3.2, OTG",
-  "Colors": "Phantom Gray, Phantom White, Phantom Violet, Phantom Pink",
-  "Network": "GSM / HSPA / LTE"
- },
  "samsung-galaxy-s10-lite": {
   "Launch Year": "2020 (announced 2020, January 03)",
   "Region": "Global",
@@ -16516,29 +16322,8 @@
   "Radio": "FM radio",
   "USB": "microUSB 2.0, OTG",
   "Colors": "Dynamic Black, Fancy White",
+  "Also Known As": "Oppo A35",
   "Network": "GSM / HSPA / LTE"
- },
- "huawei-10-lite": {
-  "Launch Year": "2018 (announced 2018, November)",
-  "Region": "Global",
-  "Body": "154.8 x 73.6 x 8 mm (6.09 x 2.90 x 0.31 in); 162 g (5.71 oz); Glass front, plastic back, plastic frame; Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "IPS LCD; 6.21 inches, 94.7 cm; 1080 x 2340 pixels, 19.5:9 ratio (~415 ppi density)",
-  "Operating System": "Android 9.0 (Pie), EMUI 9.1",
-  "Chipset": "Kirin 710 (12 nm); Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53); Mali-G51 MP4",
-  "RAM": "3 / 4 / 6 GB",
-  "Storage": "32GB, 64GB, 128GB; Card: microSDXC (uses shared SIM slot)",
-  "Main Camera": "13 MP, f/1.8, 26mm (wide), PDAF",
-  "Selfie Camera": "24 MP, f/2.0, 26mm (wide), 1/2.8\", 0.9µm",
-  "Battery": "Li-Po 3400 mAh, non-removable",
-  "Charging": "10W wired",
-  "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",
-  "Wi-Fi": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct - Global",
-  "Bluetooth": "4.2, A2DP, LE",
-  "GPS": "GPS, GLONASS, BDS",
-  "NFC": "Yes (market dependent)",
-  "Radio": "FM radio",
-  "USB": "microUSB 2.0, OTG",
-  "Colors": "Midnight Black, Sky Blue, Sapphire Blue, White, Red"
  },
  "realme-9-pro+": {
   "Launch Year": "2022 (announced 2022, February 16)",
@@ -17446,6 +17231,7 @@
   "Radio": "FM radio, built-in antenna",
   "USB": "USB Type-C 2.0, OTG",
   "Colors": "Crush Green, Blush Gold, Midnight Black",
+  "Also Known As": "Huawei Y7a",
   "Network": "GSM / HSPA / LTE"
  },
  "nokia-5300": {
@@ -17983,28 +17769,6 @@
   "Colors": "Gold, Rose Gold, Gray",
   "Network": "GSM / HSPA / LTE"
  },
- "oppo-a35": {
-  "Launch Year": "2021 (announced 2021, April 14)",
-  "Region": "Global",
-  "Body": "164 x 75.4 x 7.9 mm (6.46 x 2.97 x 0.31 in); 177 g (6.24 oz); Glass front, plastic back, plastic frame; Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "IPS LCD, 480 nits (typ); 6.52 inches, 102.6 cm; 720 x 1600 pixels, 20:9 ratio (~269 ppi density)",
-  "Operating System": "Android 10, ColorOS 7.2",
-  "Chipset": "Mediatek MT6765 Helio P35 (12 nm); Octa-core (4x2.35 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53); PowerVR GE8320",
-  "RAM": "4 GB",
-  "Storage": "64GB, 128GB; Card: microSDXC",
-  "Main Camera": "13 MP, f/2.2, (wide), 1/3.1\", 1.12µm, PDAF",
-  "Selfie Camera": "8 MP, f/2.0, (wide)",
-  "Battery": "Li-Po 4230 mAh, non-removable",
-  "Charging": "10W wired",
-  "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity",
-  "Wi-Fi": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
-  "Bluetooth": "5.0, A2DP, LE, aptX",
-  "GPS": "GPS, GLONASS, GALILEO, BDS",
-  "Radio": "FM radio",
-  "USB": "microUSB 2.0, OTG",
-  "Colors": "Black, White, Blue",
-  "Network": "GSM / HSPA / LTE"
- },
  "oppo-reno6-pro-5g": {
   "Launch Year": "2021 (announced 2021, May 27)",
   "Region": "Global",
@@ -18390,21 +18154,6 @@
   "Main Camera": "50 MP",
   "Battery": "5000 mAh",
   "Charging": "33W SUPERVOOC"
- },
- "oppo-reno13": {
-  "Launch Year": "2024 (announced 2024, November 25)",
-  "Region": "Global",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "157.9 x 74.73 x 7.24 mm; 181 g",
-  "Display": "AMOLED, 120Hz; 6.59 inches; 1256 x 2760 pixels",
-  "Operating System": "Android 15, ColorOS 15",
-  "Chipset": "MediaTek Dimensity 8350",
-  "RAM": "8 / 12 GB",
-  "Storage": "128GB, 256GB, 512GB",
-  "Main Camera": "50 MP + 8 MP + 2 MP triple camera",
-  "Selfie Camera": "50 MP",
-  "Battery": "5600 mAh (5450 mAh rated)",
-  "Charging": "80W SUPERVOOC"
  },
  "honor-play-9c-enjoy-50m": {
   "Launch Year": "2024 (announced 2024, September)",
@@ -19195,26 +18944,6 @@
   "USB": "microUSB 2.0",
   "Colors": "Iron Gray, Fine Gold",
   "Network": "GSM / HSPA / LTE"
- },
- "lg-k10-lte": {
-  "Launch Year": "2016 (announced 2016, January. Released 2016, January)",
-  "Region": "Global",
-  "Body": "146 x 74.8 x 8.8 mm (5.75 x 2.94 x 0.35 in); 142 g (5.01 oz); Glass front (Gorilla Glass 3), plastic back, plastic frame; Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "IPS LCD; 5.3 inches, 77.4 cm; 720 x 1280 pixels, 16:9 ratio (~277 ppi density)",
-  "Operating System": "Android 5.1.1 (Lollipop) or Android 6.0 (Marshmallow)",
-  "Chipset": "Qualcomm MSM8916 Snapdragon 410 (28 nm) - K420N; Quad-core 1.2 GHz Cortex-A53 - K420N; Adreno 306 - K420N",
-  "RAM": "1 / 5 / 2 GB",
-  "Storage": "16GB (K430DSF), 16GB 1. (K420N, K430DS), 16GB (K430DSY); Card: microSDHC (dedicated slot)",
-  "Main Camera": "13 MP, f/2.2, AF (LTE model)",
-  "Selfie Camera": "5 MP, f/2.4, or 8 MP",
-  "Battery": "Li-Ion 2300 mAh, removable",
-  "Sensors": "Accelerometer, proximity",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
-  "Bluetooth": "4.1, A2DP, LE",
-  "GPS": "GPS, GLONASS",
-  "Radio": "FM radio, RDS",
-  "USB": "microUSB 2.0",
-  "Colors": "White, Indigo, Gold"
  },
  "motorola-moto-e13": {
   "Launch Year": "2023 (announced 2023, January 24)",
@@ -21579,7 +21308,8 @@
   "Radio": "FM radio",
   "USB": "microUSB 2.0, OTG",
   "Colors": "Black, Aurora White, Ruby Red",
-  "Network": "GSM / CDMA / HSPA / LTE"
+  "Network": "GSM / HSPA / LTE",
+  "Also Known As": "Vivo X21A"
  },
  "vivo-y17": {
   "Launch Year": "2019 (announced 2019, April)",
@@ -22970,28 +22700,6 @@
   "Colors": "Mystic Silver, Piano Black",
   "Network": "GSM / HSPA / LTE"
  },
- "vivo-y3s-(2021)": {
-  "Launch Year": "2021 (announced 2020, September 21)",
-  "Region": "Global",
-  "Body": "159.4 x 76.8 x 8.9 mm (6.28 x 3.02 x 0.35 in); 190.5 g (6.74 oz); Glass front, plastic back, plastic frame; Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "IPS LCD; 6.35 inches, 99.6 cm; 720 x 1544 pixels, 19.3:9 ratio (~268 ppi density)",
-  "Operating System": "Android 9.0 (Pie), Funtouch 9",
-  "Chipset": "Mediatek MT6765 Helio P35 (12 nm); Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53); PowerVR GE8320",
-  "RAM": "3 / 4 GB",
-  "Storage": "32GB, 64GB, 128GB; Card: microSDXC (dedicated slot)",
-  "Main Camera": "13 MP, f/2.2, PDAF",
-  "Selfie Camera": "8 MP, f/1.8",
-  "Battery": "5000 mAh, non-removable",
-  "Charging": "10W wired",
-  "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",
-  "Wi-Fi": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
-  "Bluetooth": "5.0, A2DP, LE",
-  "GPS": "GPS, GLONASS, GALILEO, BDS",
-  "Radio": "FM radio",
-  "USB": "microUSB 2.0, OTG",
-  "Colors": "Dark Blue, Light Blue, Red",
-  "Network": "GSM / HSPA / LTE"
- },
  "vivo-s9": {
   "Launch Year": "2021 (announced 2021, March 03)",
   "Region": "Global",
@@ -23849,6 +23557,7 @@
   "Radio": "FM radio, recording",
   "USB": "microUSB 2.0, OTG",
   "Colors": "Champagne Gold, Matte Black, Infinite Red",
+  "Also Known As": "Vivo Y79a",
   "Network": "GSM / HSPA / LTE"
  },
  "vivo-v9-youth": {
@@ -23893,6 +23602,7 @@
   "Radio": "FM radio",
   "USB": "USB Type-C 2.0, OTG",
   "Colors": "Gravity Black, Oxygen Blue",
+  "Also Known As": "Vivo Y70",
   "Network": "GSM / HSPA / LTE"
  },
  "vivo-t2x-5g": {
@@ -25728,28 +25438,6 @@
   "Colors": "Blue, White, Black, Green, Orange/Peach",
   "Network": "GSM / HSPA / LTE / 5G"
  },
- "xiaomi-mi-11x-pro": {
-  "Launch Year": "2021 (announced 2021, April 23)",
-  "Region": "Global",
-  "Body": "163.7 x 76.4 x 7.8 mm (6.44 x 3.01 x 0.31 in); 196 g (6.91 oz); Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5); Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "Super AMOLED, 120Hz, HDR10+, 900 nits (HBM), 1300 nits (peak); 6.67 inches, 107.4 cm; 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
-  "Operating System": "Android 11, MIUI 12",
-  "Chipset": "Qualcomm SM8350 Snapdragon 888 5G (5 nm); Octa-core (1x2.84 GHz Cortex-X1 & 3x2.42 GHz Cortex-A78 & 4x1.80 GHz Cortex-A55); Adreno 660",
-  "RAM": "8 GB",
-  "Storage": "128GB, 256GB",
-  "Main Camera": "108 MP, f/1.8, 26mm (wide), 1/1.52\", 0.7µm, PDAF",
-  "Selfie Camera": "20 MP, f/2.5, (wide), 1/3.4\", 0.8µm",
-  "Battery": "Li-Po 4520 mAh, non-removable",
-  "Charging": "33W wired, PD3.0, QC3, 100% in 52 min (advertised)",
-  "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, color spectrum, barometer",
-  "Loudspeaker": "Yes, with stereo speakers",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
-  "Bluetooth": "5.2, A2DP, LE",
-  "GPS": "GPS (L1+L5), GLONASS, BDS, NavIC",
-  "USB": "USB Type-C 2.0, OTG",
-  "Colors": "Celestial Silver, Lunar White, Cosmic Black",
-  "Network": "GSM / HSPA / LTE / 5G"
- },
  "huawei-g7+": {
   "Launch Year": "2015 (announced 2015, November. Released 2015, November)",
   "Region": "Global",
@@ -26963,6 +26651,7 @@
   "NFC": "Yes (market/region dependent)",
   "USB": "USB Type-C 2.0, OTG",
   "Colors": "Celestial Silver, Frosty White, Cosmic Black",
+  "Also Known As": "Xiaomi Mi 11X Pro",
   "Network": "GSM / HSPA / LTE / 5G"
  },
  "xiaomi-mi-11x-5g": {
@@ -27007,27 +26696,6 @@
   "USB": "USB Type-C 3.2 Gen 2, DisplayPort, OTG",
   "Colors": "Black, Blue, White, Titanium Gray",
   "Network": "GSM / HSPA / LTE / 5G"
- },
- "huawei-y5p": {
-  "Launch Year": "2020 (announced 2020, May 05)",
-  "Region": "Global",
-  "Body": "146.5 x 70.9 x 8.4 mm (5.77 x 2.79 x 0.33 in); 144 g (5.08 oz); Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "IPS LCD; 5.45 inches, 76.7 cm; 720 x 1440 pixels, 18:9 ratio (~295 ppi density)",
-  "Operating System": "Android 10, EMUI 10.1, no Google Play Services",
-  "Chipset": "Mediatek MT6762R Helio P22 (12 nm); Octa-core (4x2.0 GHz Cortex-A53 & 4x1.5 GHz Cortex-A53); PowerVR GE8320",
-  "RAM": "2 GB",
-  "Storage": "32GB; Card: microSDXC (dedicated slot)",
-  "Main Camera": "8 MP, f/2.0, (wide), AF",
-  "Selfie Camera": "5 MP, f/2.2",
-  "Battery": "Li-Po 3020 mAh, non-removable",
-  "Sensors": "Accelerometer, proximity",
-  "Wi-Fi": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
-  "Bluetooth": "5.0, A2DP, LE",
-  "GPS": "GPS, GLONASS, BDS",
-  "Radio": "FM radio",
-  "USB": "microUSB 2.0",
-  "Colors": "Mint Green, Midnight Black, Phantom Blue",
-  "Network": "GSM / HSPA / LTE"
  },
  "huawei-nova-2+": {
   "Launch Year": "2017 (announced 2017, May)",
@@ -27921,48 +27589,6 @@
   "NFC": "Yes (market/region dependent)",
   "USB": "USB Type-C 2.0, OTG",
   "Colors": "Galactic Silver (Fantasy Silver), Starlight Black (Starry Black)",
-  "Network": "GSM / HSPA / LTE"
- },
- "oppo-reno5-lite": {
-  "Launch Year": "2021 (announced 2021, March 23)",
-  "Region": "Global",
-  "Body": "160.1 x 73.2 x 7.8 mm (6.30 x 2.88 x 0.31 in); 172 g (6.07 oz); Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "AMOLED, 430 nits (typ), 800 nits (peak); 6.43 inches, 99.8 cm; 1080 x 2400 pixels, 20:9 ratio (~409 ppi density)",
-  "Operating System": "Android 11, ColorOS 11.1",
-  "Chipset": "Mediatek MT6779V Helio P95 (12 nm); Octa-core (2x2.2 GHz Cortex-A75 & 6x2.0 GHz Cortex-A55); PowerVR GM9446",
-  "RAM": "8 GB",
-  "Storage": "128GB; Card: microSDXC",
-  "Main Camera": "48 MP, f/1.7, 26mm (wide), 1/2.0\", 0.8µm, PDAF",
-  "Selfie Camera": "32 MP, f/2.4, 24mm (wide)",
-  "Battery": "Li-Po 4310 mAh, non-removable",
-  "Charging": "30W wired",
-  "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
-  "Bluetooth": "5.1, A2DP, LE, aptX HD",
-  "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
-  "USB": "USB Type-C 2.0, OTG",
-  "Colors": "Fluid Black, Fantastic Purple",
-  "Network": "GSM / HSPA / LTE"
- },
- "oppo-reno5-f": {
-  "Launch Year": "2021 (announced 2021, March 17)",
-  "Region": "Global",
-  "Body": "160.1 x 73.2 x 7.8 mm (6.30 x 2.88 x 0.31 in); 172 g (6.07 oz); Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "AMOLED, 430 nits (typ), 800 nits (peak); 6.43 inches, 99.8 cm; 1080 x 2400 pixels, 20:9 ratio (~409 ppi density)",
-  "Operating System": "Android 11, ColorOS 11.1",
-  "Chipset": "Mediatek MT6779V Helio P95 (12 nm); Octa-core (2x2.2 GHz Cortex-A75 & 6x2.0 GHz Cortex-A55); PowerVR GM9446",
-  "RAM": "8 GB",
-  "Storage": "128GB; Card: microSDXC",
-  "Main Camera": "48 MP, f/1.7, 26mm (wide), 1/2.0\", 0.8µm, PDAF",
-  "Selfie Camera": "32 MP, f/2.4, 24mm (wide)",
-  "Battery": "Li-Po 4310 mAh, non-removable",
-  "Charging": "30W wired",
-  "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
-  "Bluetooth": "5.1, A2DP, LE, aptX HD",
-  "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
-  "USB": "USB Type-C 2.0, OTG",
-  "Colors": "Fluid Black, Fantastic Purple",
   "Network": "GSM / HSPA / LTE"
  },
  "oppo-a54-5g": {
@@ -29831,29 +29457,6 @@
   "Radio": "FM radio",
   "USB": "USB Type-C 2.0, OTG",
   "Colors": "Denim Blue, Pearl White, Aqua Teal",
-  "Network": "GSM / HSPA / LTE"
- },
- "motorola-moto-g-power-(2022)": {
-  "Launch Year": "2022 (announced 2020, February 07)",
-  "Region": "Global",
-  "Body": "159.9 x 75.8 x 9.6 mm (6.30 x 2.98 x 0.38 in); 199 g (7.02 oz); Glass front, plastic back, aluminum frame (6000 series); Nano-SIM",
-  "Display": "IPS LCD; 6.4 inches, 100.7 cm; 1080 x 2300 pixels (~399 ppi density)",
-  "Operating System": "Android 10",
-  "Chipset": "Qualcomm SDM665 Snapdragon 665 (11 nm); Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver); Adreno 610",
-  "RAM": "4 GB",
-  "Storage": "64GB; Card: microSDXC (dedicated slot)",
-  "Main Camera": "16 MP, f/1.7, (wide), 1/2.8\", 1.12µm, PDAF",
-  "Selfie Camera": "16 MP, f/2.0, (wide), 1/3.06\", 1.0µm",
-  "Battery": "Li-Po 5000 mAh, non-removable",
-  "Charging": "10W wired",
-  "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity",
-  "Loudspeaker": "Yes, with stereo speakers",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
-  "Bluetooth": "5.0, A2DP, LE",
-  "GPS": "GPS, GLONASS, BDS, GALILEO",
-  "Radio": "FM radio",
-  "USB": "USB Type-C 2.0",
-  "Colors": "Smoke Black",
   "Network": "GSM / HSPA / LTE"
  },
  "motorola-one-fusion": {
@@ -33410,28 +33013,6 @@
   "Colors": "Black, Blue, White/Blue, Streamer Secret",
   "Network": "GSM / HSPA / LTE / 5G"
  },
- "vivo-y70": {
-  "Launch Year": "2020 (announced 2020, October 19)",
-  "Region": "Global",
-  "Body": "161 x 74.1 x 7.8 mm (6.34 x 2.92 x 0.31 in); 171 g (6.03 oz); Glass front, plastic back, plastic frame; Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "AMOLED; 6.44 inches, 100.1 cm; 1080 x 2400 pixels, 20:9 ratio (~409 ppi density)",
-  "Operating System": "Android 10, Funtouch 11",
-  "Chipset": "Qualcomm SDM665 Snapdragon 665 (11 nm); Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver); Adreno 610",
-  "RAM": "8 GB",
-  "Storage": "128GB; Card: microSDXC (dedicated slot)",
-  "Main Camera": "48 MP, f/1.8, 25mm (wide), 1/2.0\", 0.8µm, PDAF",
-  "Selfie Camera": "16 MP, f/2.0, (wide)",
-  "Battery": "4100 mAh, non-removable",
-  "Charging": "33W wired, 65% in 30 min (advertised)",
-  "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
-  "Bluetooth": "5.0, A2DP, LE",
-  "GPS": "GPS, GLONASS, GALILEO, BDS",
-  "Radio": "FM radio",
-  "USB": "USB Type-C 2.0, OTG",
-  "Colors": "Gravity Black, Oxygen Blue",
-  "Network": "GSM / HSPA / LTE"
- },
  "vivo-s12": {
   "Launch Year": "2021 (announced 2021, December 22)",
   "Region": "Global",
@@ -33690,29 +33271,6 @@
   "Colors": "Storm White",
   "Network": "GSM / HSPA / LTE / 5G"
  },
- "oppo-reno10-pro+": {
-  "Launch Year": "2023 (announced 2023, May 24)",
-  "Region": "Global",
-  "Body": "162.9 x 74 x 8.3 mm (6.41 x 2.91 x 0.33 in); 194 g (6.84 oz); Glass front, plastic frame, glass back; Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "AMOLED, 1B colors, 120Hz, HDR10+, 500 nits (typ), 1100 nits (HBM), 1400 nits (peak); 6.74 inches, 109.2 cm; 1240 x 2772 pixels, 20:9 ratio (~451 ppi density)",
-  "Operating System": "Android 13, upgradable to Android 14, ColorOS 14",
-  "Chipset": "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm); Octa-core (1x3.0 GHz Cortex-X2 & 3x2.75 GHz Cortex-A710 & 4x2.0 GHz Cortex-A510); Adreno 730",
-  "RAM": "12 / 16 GB",
-  "Storage": "128GB, 256GB, 512GB",
-  "Main Camera": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS",
-  "Selfie Camera": "32 MP, f/2.4, 22mm (wide), 1/2.74\", 0.8µm, AF",
-  "Battery": "Li-Po 4700 mAh, non-removable",
-  "Charging": "100W wired, PD, QC3",
-  "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum",
-  "Loudspeaker": "Yes, with stereo speakers",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
-  "Bluetooth": "5.3, A2DP, LE, aptX HD",
-  "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B2a+Bc), GALILEO (E1+E5a), QZSS (L1+L5)",
-  "NFC": "Yes, eSE, HCE, UICC, NFC-SIM",
-  "USB": "USB Type-C 2.0, OTG",
-  "Colors": "Silvery Grey, Glossy Purple, Gold",
-  "Network": "GSM / HSPA / LTE / 5G"
- },
  "oppo-realme-2": {
   "Launch Year": "2018 (announced 2018, August)",
   "Region": "Global",
@@ -33880,6 +33438,7 @@
   "GPS": "GPS, GLONASS, GALILEO, BDS, QZSS",
   "USB": "USB Type-C 2.0, OTG",
   "Colors": "Fluid Black, Fantastic Purple",
+  "Also Known As": "Oppo Reno5 F; Oppo Reno5 Lite",
   "Network": "GSM / HSPA / LTE"
  },
  "huawei-honor-6+": {
@@ -40348,46 +39907,6 @@
   "Colors": "Black, White, Red, Gray, Green",
   "Network": "GSM / HSPA / LTE"
  },
- "motorola-moto-e-(2020)": {
-  "Launch Year": "2020 (announced 2014, May. Released 2014, May)",
-  "Region": "Global",
-  "Body": "124.8 x 64.8 x 12.3 mm (4.91 x 2.55 x 0.48 in); 142 g (5.01 oz); Micro-SIM",
-  "Display": "IPS LCD,; 4.3 inches, 51.0 cm; 540 x 960 pixels, 16:9 ratio (~256 ppi density)",
-  "Operating System": "Android 4.4.2 (KitKat), upgradable to 5.1 (Lollipop)",
-  "Chipset": "Qualcomm Snapdragon 200 (28 nm); Dual-core 1.2 GHz Cortex-A7; Adreno 302",
-  "RAM": "1 GB",
-  "Storage": "4GB; Card: microSDHC (dedicated slot)",
-  "Main Camera": "5 MP, f/2.4",
-  "Battery": "Li-Ion 1980 mAh, non-removable",
-  "Sensors": "Accelerometer, proximity",
-  "Wi-Fi": "Wi-Fi 802.11 b/g/n, hotspot",
-  "Bluetooth": "4.0, LE, aptX",
-  "GPS": "GPS, GLONASS",
-  "Radio": "FM radio, RDS",
-  "USB": "microUSB 2.0",
-  "Colors": "Black, White",
-  "Network": "GSM / HSPA / LTE"
- },
- "motorola-moto-e-dual-sim": {
-  "Launch Year": "2014 (announced 2014, May. Released 2014, May)",
-  "Region": "Global",
-  "Body": "124.8 x 64.8 x 12.3 mm (4.91 x 2.55 x 0.48 in); 142 g (5.01 oz); Dual SIM (Micro-SIM, dual stand-by)",
-  "Display": "IPS LCD,; 4.3 inches, 51.0 cm; 540 x 960 pixels, 16:9 ratio (~256 ppi density)",
-  "Operating System": "Android 4.4.2 (KitKat), upgradable to 5.1 (Lollipop)",
-  "Chipset": "Qualcomm Snapdragon 200 (28 nm); Dual-core 1.2 GHz Cortex-A7; Adreno 302",
-  "RAM": "1 GB",
-  "Storage": "4GB; Card: microSDHC (dedicated slot)",
-  "Main Camera": "5 MP, f/2.4",
-  "Battery": "Li-Ion 1980 mAh, non-removable",
-  "Sensors": "Accelerometer, proximity",
-  "Wi-Fi": "Wi-Fi 802.11 b/g/n, hotspot",
-  "Bluetooth": "4.0, LE, aptX",
-  "GPS": "GPS, GLONASS",
-  "Radio": "FM radio, RDS",
-  "USB": "microUSB 2.0",
-  "Colors": "Black, White",
-  "Network": "GSM / HSPA"
- },
  "motorola-moto-x-force": {
   "Launch Year": "2015 (announced 2015, November. Released 2015, November)",
   "Region": "Global",
@@ -42228,27 +41747,6 @@
   "USB": "USB-C v2.0",
   "Colors": "Opal White | Titanium Grey"
  },
- "oppo-reno-10-pro": {
-  "Launch Year": "2023 (announced 7/10/2023)",
-  "Region": "India",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "74.2 x 162.3 x 7.89 mm; 185 g; Dual Sim, GSM+GSM",
-  "Display": "OLED",
-  "Operating System": "Android 13",
-  "Chipset": "Qualcomm Snapdragon 778G; 4x2.4 GHz Kryo 670 & 4x1.8 GHz Kryo 670; Adreno 642L",
-  "RAM": "12 GB",
-  "Storage": "256GB",
-  "Main Camera": "50 MP ƒ/1.8 (Wide Angle) 32 MP ƒ/2 (Telephoto) Sony IMX709 8 MP ƒ/2.2 (Ultra Wide)",
-  "Selfie Camera": "32 MP ƒ/2.4 (Wide Angle) Punch Hole",
-  "Battery": "4600 mAh, Li-Po Battery",
-  "Charging": "80W SUPERVOOC Flash Charge",
-  "Sensors": "accelerometer, gyro, proximity, compass, color spectrum",
-  "Wi-Fi": "Wi-Fi 6 (802.11ax), Wi-Fi 5 (802.11ac), 802.11a/b/g/n/; WLAN 2.4G/WLAN 5G; WLAN Display",
-  "Bluetooth": "5.2, A2DP, LE, aptX HD",
-  "USB": "USB-C v2.0",
-  "Colors": "Glossy Purple, Silvery Grey",
-  "Resolution": "1080 x 2412 pixels, 20:9 ratio (~394 ppi density)"
- },
  "huawei-nova-14": {
   "Launch Year": "2025 (announced 19 May 2025)",
   "Region": "India",
@@ -43859,7 +43357,8 @@
   "NFC": "Yes, HCE, NFC-SIM",
   "USB": "USB Type-C 3.2, DisplayPort 1.2, OTG",
   "Colors": "Black, Green, Blue, Purple, White",
-  "Network": "GSM / HSPA / LTE / 5G"
+  "Network": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+  "Fingerprint": "Under display, optical"
  },
  "honor-200-lite": {
   "Launch Year": "2024 (announced 2024, April 25)",
@@ -45046,7 +44545,8 @@
   "Radio": "FM radio (market/region dependent)",
   "USB": "USB Type-C 2.0, OTG",
   "Colors": "Midnight Black, Crush Green, Sakura Pink",
-  "Network": "GSM / HSPA / LTE"
+  "Network": "GSM / HSPA / LTE",
+  "Also Known As": "Huawei Nova 6 SE"
  },
  "huawei-mate-x2": {
   "Launch Year": "2021 (announced 2021, February 22)",
@@ -46027,24 +45527,6 @@
   "Colors": "Titanium, Black",
   "Network": "GSM / HSPA / LTE"
  },
- "huawei-tlr-al00": {
-  "Launch Year": "2025 (announced 19 May 2025)",
-  "Also Known As": "Huawei Nova 14",
-  "Region": "India",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "75.5 x 161.7 x 7.2 mm; 192 g; Dual Sim, GSM+GSM",
-  "Display": "OLED",
-  "Operating System": "v5.0",
-  "Storage": "256GB",
-  "Main Camera": "50 MP ƒ/1.9 (Wide Angle) 23mm (wide), 1/1.56\", Dual Pixel PDAF 12 MP ƒ/2.4 (Telephoto) 69mm (telephoto), PDAF, OIS, 3x optical zoom 8 MP ƒ/2.2 (Ultra Wide) 16mm, 112° (ultrawide), AF",
-  "Selfie Camera": "50 MP ƒ/2.4",
-  "Battery": "5500 mAh",
-  "Charging": "100W",
-  "Sensors": "Accelerometer, Gyro, Compass",
-  "Bluetooth": "5.2",
-  "USB": "USB-C v2.0",
-  "Colors": "Black, White, Blue"
- },
  "vivo-v2506a": {
   "Launch Year": "2025 (announced 9/1/2025)",
   "Also Known As": "Vivo Y500 5G",
@@ -46064,25 +45546,6 @@
   "Bluetooth": "5.4",
   "USB": "USB-C v2.0",
   "Colors": "Black, Blue, Purple"
- },
- "huawei-juy-al00": {
-  "Launch Year": "2025 (announced 22 April 2025)",
-  "Also Known As": "Huawei Enjoy 80",
-  "Region": "India",
-  "Network": "GSM / HSPA / LTE",
-  "Body": "76.6 x 166 x 8.3 mm; 203 g; Dual Sim, GSM+GSM",
-  "Display": "IPS",
-  "Operating System": "HarmonyOS v4.0",
-  "RAM": "8 GB",
-  "Storage": "128GB",
-  "Main Camera": "50 MP ƒ/1.8 (Wide Angle)",
-  "Selfie Camera": "8 MP ƒ/2 (Wide Angle) Punch Hole",
-  "Battery": "6620 mAh",
-  "Charging": "40W",
-  "Sensors": "Accelerometer, Proximity, Compass",
-  "Bluetooth": "5.1",
-  "USB": "USB-C v2.0",
-  "Colors": "Black, White, Blue, Green"
  },
  "tecno-camon-i": {
   "Region": "India",
@@ -49454,28 +48917,6 @@
   "Colors": "Crush Green, Space Silver, Midnight Black",
   "Network": "GSM / HSPA / LTE / 5G"
  },
- "huawei-y7a": {
-  "Launch Year": "2020 (announced 2020, October 21)",
-  "Region": "Global",
-  "Body": "165.7 x 76.9 x 9.3 mm (6.52 x 3.03 x 0.37 in); 206 g (7.27 oz); Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "IPS LCD; 6.67 inches, 107.4 cm; 1080 x 2400 pixels, 20:9 ratio (~395 ppi density)",
-  "Operating System": "Android 10, EMUI 10.1, no Google Play Services",
-  "Chipset": "Kirin 710A (14 nm); Octa-core (4x2.0 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53); Mali-G51 MP4",
-  "RAM": "4 GB",
-  "Storage": "64GB, 128GB; Card: microSDXC (dedicated slot)",
-  "Main Camera": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF",
-  "Selfie Camera": "8 MP, f/2.0, (wide)",
-  "Battery": "Li-Po 5000 mAh, non-removable",
-  "Charging": "22.5W wired, 46% in 30 min (advertised)",
-  "Sensors": "Fingerprint (side-mounted), accelerometer, proximity",
-  "Wi-Fi": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
-  "Bluetooth": "5.1, A2DP, LE",
-  "GPS": "GPS, GLONASS, BDS",
-  "Radio": "FM radio",
-  "USB": "USB Type-C 2.0, OTG",
-  "Colors": "Crush Green, Blush Gold, Midnight Black",
-  "Network": "GSM / HSPA / LTE"
- },
  "sony-xperia-s": {
   "Launch Year": "2012 (announced 2012, January. Released 2012, February)",
   "Region": "Global",
@@ -50867,27 +50308,6 @@
   "USB": "USB-C v2.0",
   "Colors": "Wave Green, Rock Grey",
   "Resolution": "1080 x 2412 pixels, 20:9 ratio (~394 ppi density)"
- },
- "honor-nla-lx3": {
-  "Launch Year": "2025 (announced 23 October 2025)",
-  "Also Known As": "Honor Play 10A",
-  "Region": "India",
-  "Network": "GSM / HSPA / LTE",
-  "Body": "77 x 167 x 7.9 mm; 186 g; Dual Sim, GSM+GSM",
-  "Display": "LCD",
-  "Operating System": "Android 15",
-  "Chipset": "Mediatek Helio G81; 2 GHz, Octa Core Processor; Mali-G52 MC2",
-  "RAM": "4 GB",
-  "Storage": "64GB",
-  "Main Camera": "50 MP ƒ/1.8 (Wide Angle)",
-  "Selfie Camera": "5 MP ƒ/2.2 (Wide Angle)",
-  "Battery": "5260 mAh",
-  "Charging": "15W",
-  "Sensors": "Accelerometer, Proximity",
-  "Bluetooth": "5.1",
-  "Radio": "FM radio",
-  "USB": "USB-C v2.0",
-  "Colors": "Cyan"
  },
  "oppo-a5i-pro-5g": {
   "Launch Year": "2025 (announced 9/3/2025)",
@@ -52753,6 +52173,8 @@
   "Radio": "FM radio",
   "USB": "microUSB 2.0",
   "Colors": "Black, Blue, Gold, Red",
+  "NFC": "Yes (JAT-LX1 NFC only)",
+  "Also Known As": "Huawei Y6s",
   "Network": "GSM / HSPA / LTE"
  },
  "huawei-honor-view-20": {
@@ -52840,6 +52262,7 @@
   "Radio": "FM radio",
   "USB": "microUSB 2.0",
   "Colors": "Black, Blue, Red",
+  "Also Known As": "Huawei Y5p",
   "Network": "GSM / HSPA / LTE"
  },
  "oppo-reno10-5g": {
@@ -55578,24 +55001,6 @@
   "USB": "USB-C v2.0",
   "Colors": "Black, Blue, White, Pink"
  },
- "huawei-mia-al00": {
-  "Launch Year": "2025 (announced 19 May 2025)",
-  "Also Known As": "Huawei Nova 14 Pro",
-  "Region": "India",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "75 x 163.4 x 7.8 mm; 207 g; Dual Sim, GSM+GSM",
-  "Display": "OLED",
-  "Operating System": "HarmonyOS v5.0",
-  "Storage": "256GB",
-  "Main Camera": "50 MP ƒ/1.4-ƒ/4 (Wide Angle) 24mm (wide), PDAF, OIS 12 MP ƒ/2.4 (Telephoto) 69mm (telephoto), PDAF, OIS, 3x optical zoom 8 MP ƒ/2.2 (Ultra Wide) 16mm, 112° (ultrawide), AF",
-  "Selfie Camera": "8 MP ƒ/2.2 (Telephoto) 50 MP ƒ/2 (Ultra Wide)",
-  "Battery": "5500 mAh",
-  "Charging": "100W",
-  "Sensors": "Accelerometer, Gyro, Compass",
-  "Bluetooth": "5.2",
-  "USB": "USB-C v2.0",
-  "Colors": "Black, White, Purple, Blue"
- },
  "vivo-v2444a": {
   "Launch Year": "2025 (announced 3/10/2025)",
   "Also Known As": "Vivo Y300i 5G",
@@ -55615,25 +55020,6 @@
   "Bluetooth": "4.2",
   "USB": "USB-C v2.0",
   "Colors": "Black, Blue, Titanium"
- },
- "huawei-mrt-al10": {
-  "Launch Year": "2025 (announced 19 May 2025)",
-  "Also Known As": "Huawei Nova 14 Ultra",
-  "Region": "India",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "75.6 x 163.4 x 7.8 mm; 204 g; Dual Sim, GSM+GSM",
-  "Display": "OLED",
-  "Operating System": "HarmonyOS v5.0",
-  "Chipset": "Kirin; Octa Core Processor",
-  "Storage": "256GB",
-  "Main Camera": "50 MP ƒ/1.4-ƒ/4 (Wide Angle) 24mm (wide), PDAF, OIS 50 MP ƒ/2.2 (Telephoto) 88mm (periscope telephoto), PDAF, OIS, 3.7x optical zoom 13 MP ƒ/2.2 (Ultra Wide) 13mm, 120° (ultrawide), AF",
-  "Selfie Camera": "8 MP ƒ/2.2 (Telephoto) 50 MP ƒ/2 (Ultra Wide) Punch Hole, Screen Flash",
-  "Battery": "5500 mAh, Li-Po Battery",
-  "Charging": "100W Super Fast Charge",
-  "Sensors": "Fingerprint (under display, optical) accelerometer, gyro, compass",
-  "Bluetooth": "5.2, A2DP, LE",
-  "USB": "USB-C v2.0",
-  "Colors": "Black, White, Purple, Gold"
  },
  "samsung-galaxy-z-flip-3": {
   "Launch Year": "2021 (announced 8/11/2021)",
@@ -58701,7 +58087,20 @@
   "Storage": "256GB, 512GB, 1TB",
   "Main Camera": "50 MP",
   "Battery": "5600 mAh",
-  "Charging": "66W wired, 50W wireless"
+  "Charging": "66W wired, 50W wireless",
+  "Body": "Unfolded: 156.8 x 144.2 x 4.5 mm; Folded: 156.8 x 73.8 x 9.5 mm; 236 g (8.32 oz); Glass front, nylon fiber or silicone polymer back (eco leather), aluminum frame; Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International; Nano-SIM + Nano-SIM - China; IP58/IP59 dust protected and water resistant (high pressure water jets; immersible up to 2m for 30 min); Aerospace-grade aluminum",
+  "Operating System": "EMUI 15 (International), HarmonyOS 6.0 (China)",
+  "Selfie Camera": "8 MP, f/2.2, (wide); Cover camera: 8 MP, f/2.4, (wide); HDR, panorama; video 4K, 1080p",
+  "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer; BDS Satellite and Messaging - China only",
+  "Loudspeaker": "Yes, with stereo speakers",
+  "3.5mm Jack": "No",
+  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+  "Bluetooth": "6.0, A2DP, LE, L2HC",
+  "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+  "NFC": "Yes",
+  "Radio": "No",
+  "USB": "USB Type-C 3.1, OTG, DisplayPort 1.2",
+  "Colors": "Black, Brocade White, Nebula Red, Purple, Blue"
  },
  "xiaomi-note-11-se": {
   "Launch Year": "2022 (announced 2022, May 24)",
@@ -58800,27 +58199,6 @@
   "Battery": "Si/C Li-Ion 7550 mAh",
   "Charging": "90W wired"
  },
- "oppo-pffm20": {
-  "Launch Year": "2022 (announced 2022, February 24)",
-  "Region": "Global",
-  "Body": "163.7 x 73.9 x 8.5 or 8.8 mm; 218 g or 195 g (6.88 oz); Glass front (Gorilla Glass Victus), ceramic back or eco leather back, aluminum frame; Nano-SIM and eSIM",
-  "Display": "LTPO2 AMOLED, 1B colors, 120Hz, HDR10+, BT.2020, 500 nits (typ), 800 nits (HBM), 1300 nits (peak); 6.7 inches, 108.4 cm; 1440 x 3216 pixels, 20:9 ratio (~525 ppi density)",
-  "Operating System": "Android 12, upgradable to Android 14, ColorOS 14",
-  "Chipset": "Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm) - Global; Octa-core (1x3.00 GHz Cortex-X2 & 3x2.50 GHz Cortex-A710 & 4x1.80 GHz Cortex-A510) - Global; Adreno 730 - Global",
-  "RAM": "8 / 12 GB",
-  "Storage": "256GB, 512GB",
-  "Main Camera": "50 MP, f/1.7, 25mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS (3-axis sensor-shift, 2-axis lens-shift)",
-  "Selfie Camera": "32 MP, f/2.4, 21mm (wide), 1/2.74\", 0.8µm",
-  "Battery": "Li-Po 5000 mAh, non-removable",
-  "Charging": "80W wired, PD, 50% in 12 min (advertised)",
-  "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, color spectrum",
-  "Loudspeaker": "Yes, with stereo speakers",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band, Wi-Fi Direct",
-  "Bluetooth": "5.2, A2DP, LE, aptX HD",
-  "GPS": "GPS (L1), GLONASS (L1), BDS (B1I+B1c), GALILEO (E1+E5a), QZSS (L1)",
-  "USB": "USB Type-C 3.1, OTG",
-  "Colors": "Ceramic Black, Ceramic White, Blue (eco leather)"
- },
  "oppo-reno5-5g-find-x3-lite": {
   "Launch Year": "2020 (announced 2020, December 10)",
   "Region": "Global",
@@ -58848,49 +58226,6 @@
   "Storage": "32GB, 64GB, 128GB",
   "Selfie Camera": "16 MP",
   "Battery": "Li-Ion 4000 mAh"
- },
- "realme-gt-neo3-150w": {
-  "Launch Year": "2022 (announced 2022, March 22)",
-  "Region": "Global",
-  "Body": "163.3 x 75.6 x 8.2 mm (6.43 x 2.98 x 0.32 in); 188 g (6.63 oz); Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "AMOLED, 1B colors, 120Hz, HDR10+; 6.7 inches, 108.0 cm; 1080 x 2412 pixels, 20:9 ratio (~394 ppi density)",
-  "Operating System": "Android 12, upgradable to Android 13, Realme UI 3.0",
-  "Chipset": "Mediatek Dimensity 8100 (5 nm); Octa-core (4x2.85 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); Mali-G610 MC6",
-  "RAM": "8 / 12 GB",
-  "Storage": "256GB",
-  "Main Camera": "50 MP, f/1.9, 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS",
-  "Selfie Camera": "16 MP, f/2.5, 26mm (wide), 1/3.09\", 1.0µm",
-  "Battery": "4500 mAh, non-removable",
-  "Charging": "150W wired, 50% in 5 min (advertised)",
-  "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
-  "Loudspeaker": "Yes, with stereo speakers",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
-  "Bluetooth": "5.3, A2DP, LE, aptX HD",
-  "GPS": "GPS (L1+L5), GLONASS, BDS, GALILEO, QZSS",
-  "NFC": "Yes (dual side)",
-  "USB": "USB Type-C 2.0",
-  "Colors": "Plain Black (Asphalt Black), Silverstone White (Sprint White), Le Mans Blue (Nitro Blue), Naruto edition",
-  "Network": "GSM / HSPA / LTE / 5G"
- },
- "vivo-y79a": {
-  "Launch Year": "2017 (announced 2017, September)",
-  "Region": "Global",
-  "Body": "155.9 x 75.8 x 7.7 mm (6.14 x 2.98 x 0.30 in); 160 g (5.64 oz); Glass front (Gorilla Glass 4), plastic back, plastic frame; Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "IPS LCD; 5.99 inches, 92.6 cm; 720 x 1440 pixels, 18:9 ratio (~269 ppi density)",
-  "Operating System": "Android 7.1.2 (Nougat), Funtouch 3.2",
-  "Chipset": "Qualcomm SDM450 Snapdragon 450 (14 nm); Octa-core 1.8 GHz Cortex-A53; Adreno 506",
-  "RAM": "4 GB",
-  "Storage": "32GB, 64GB; Card: microSDXC (dedicated slot)",
-  "Main Camera": "16 MP, f/2.0, 1/3.0\", 1.0µm, PDAF",
-  "Selfie Camera": "24 MP, f/2.0, 26mm (wide), 1/2.8\", 0.9µm",
-  "Battery": "Li-Ion 3225 mAh, non-removable",
-  "Sensors": "Fingerprint (rear-mounted), accelerometer, gyro, proximity, compass",
-  "Wi-Fi": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct, DLNA",
-  "Bluetooth": "4.2, A2DP, LE",
-  "GPS": "GPS, GLONASS",
-  "Radio": "FM radio, recording",
-  "USB": "microUSB 2.0, OTG",
-  "Colors": "Champagne Gold, Matte Black, Infinite Red"
  },
  "motorola-moto-e15": {
   "Launch Year": "2024 (announced 2024, December 17)",
@@ -59508,28 +58843,6 @@
   "USB": "microUSB 2.0",
   "Colors": "Black, White",
   "Network": "GSM / HSPA"
- },
- "htc-desire-700": {
-  "Launch Year": "2014 (announced 2014, January. Released 2014, January)",
-  "Region": "Global",
-  "Body": "145.5 x 72 x 10.3 mm (5.73 x 2.83 x 0.41 in); 149 g (5.26 oz); Dual SIM, (Micro-SIM, dual stand-by)",
-  "Display": "IPS LCD,; 5.0 inches, 68.9 cm; 540 x 960 pixels, 16:9 ratio (~220 ppi density)",
-  "Operating System": "Android 4.1.2 (Jelly Bean), Sense UI 5",
-  "Chipset": "Spreadtrum Shark; Quad-core 1.2 GHz Cortex-A7; Mali-400",
-  "RAM": "1 GB",
-  "Storage": "8GB; Card: microSDXC (dedicated slot)",
-  "Main Camera": "8 MP, 1/3.2\", AF",
-  "Selfie Camera": "2.1 MP",
-  "Battery": "Li-Po 2100 mAh, removable",
-  "Sensors": "Accelerometer, proximity, compass",
-  "Loudspeaker": "Yes, with stereo speakers",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi Direct, DLNA, hotspot",
-  "Bluetooth": "4.0, A2DP, aptX",
-  "GPS": "GPS, GLONASS",
-  "Radio": "FM radio",
-  "USB": "microUSB 2.0, OTG",
-  "Colors": "Black",
-  "Network": "GSM / CDMA / HSPA"
  },
  "htc-desire-501-dual-sim": {
   "Launch Year": "2013 (announced 2013, December. Released 2014, February)",
@@ -61944,26 +61257,6 @@
   "Bluetooth": "4.2",
   "USB": "microUSB v2.0"
  },
- "oppo-pln110": {
-  "Launch Year": "2025 (announced 9/9/2025)",
-  "Also Known As": "Oppo A6 Pro",
-  "Region": "India",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "75 x 158.2 x 8 mm; 190 g; Nano+Nano SIM",
-  "Display": "AMOLED",
-  "Operating System": "Android 15",
-  "Chipset": "Mediatek Dimensity 7300; 4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55; Mali-G615 MC2",
-  "RAM": "8 GB",
-  "Storage": "256GB",
-  "Main Camera": "50 MP ƒ/1.8 (Wide Angle) 2 MP ƒ/2.4 (Depth Sensor)",
-  "Selfie Camera": "16 MP ƒ/2.4 (Wide Angle) Punch Hole",
-  "Battery": "7000 mAh",
-  "Charging": "80W",
-  "Sensors": "Accelerometer, Gyro, Proximity, Compass",
-  "Bluetooth": "5.4",
-  "USB": "USB-C v2.0",
-  "Colors": "Black, Blue, Gold"
- },
  "nubia-z80-ultra": {
   "Region": "India",
   "Network": "GSM / HSPA / LTE / 5G",
@@ -62024,26 +61317,6 @@
   "USB": "USB-C v2.0",
   "Colors": "Midnight Black, Aurora Purple, Ocean Blue"
  },
- "honor-dnp-nx9": {
-  "Launch Year": "2025 (announced 22 May 2025)",
-  "Also Known As": "Honor 400 Pro",
-  "Region": "India",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "76.1 x 160.8 x 8.1 mm; 205 g; Dual Sim, GSM+GSM",
-  "Display": "AMOLED",
-  "Operating System": "Android 15",
-  "Chipset": "Qualcomm Snapdragon 8 Gen3; 2x Prime Core@4.32 GHz & 6x Performance Core@3.53 GHz; Adreno 750",
-  "RAM": "12 GB",
-  "Storage": "256GB",
-  "Main Camera": "200 MP ƒ/1.9 (Wide Angle) 1/1.4\", PDAF, OIS 50 MP ƒ/2.4 (Telephoto) (telephoto), 1/2.0\", 0.8µm, PDAF, OIS, 3x optical zoom 12 MP ƒ/2.2 (Ultra Wide) 112° (ultrawide), AF",
-  "Selfie Camera": "50 MP ƒ/2 (Wide Angle) 2 MP ƒ/2.4 (Depth Sensor) Punch Hole",
-  "Battery": "6000 mAh",
-  "Charging": "100W Fast Charging",
-  "Sensors": "Accelerometer, Gyro, Compass, Ultrasound Proximity",
-  "Bluetooth": "5.4, A2DP, LE, aptX HD",
-  "USB": "USB-C v2.0",
-  "Colors": "Midnight Black, Lunar Grey, Tidal Blue"
- },
  "honor-dvd-an00": {
   "Launch Year": "2025 (announced 15 April 2025)",
   "Also Known As": "DVD-AN00",
@@ -62085,27 +61358,6 @@
   "USB": "USB-C v2.0",
   "Colors": "Black, Gray, Rose Gold"
  },
- "honor-dny-nx9": {
-  "Launch Year": "2025 (announced 22 May 2025)",
-  "Also Known As": "Honor 400",
-  "Region": "India",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "74.6 x 156.5 x 7.3 mm; 184 g; Dual Sim, GSM+GSM",
-  "Display": "AMOLED",
-  "Operating System": "Android 15",
-  "Chipset": "Qualcomm Snapdragon 7 Gen3; 1x Prime Core@ 2.8 GHz& 4 Performance Cores@ 2.4 GHz & 3x Efficiency Cores@ 1.8 GHz; Adreno 720",
-  "RAM": "12 GB",
-  "Storage": "256GB",
-  "Main Camera": "200 MP ƒ/1.9 (Wide Angle) 1/1.4\", PDAF, OIS 12 MP ƒ/2.2 (Ultra Wide)",
-  "Selfie Camera": "50 MP ƒ/2 (Wide Angle) Punch Hole",
-  "Battery": "6000 mAh, Si/C",
-  "Charging": "80W",
-  "Sensors": "Accelerometer, Gyro, Compass, Ultrasound Proximity",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
-  "Bluetooth": "5.4, A2DP, LE, aptX HD",
-  "USB": "USB-C v2.0",
-  "Colors": "Midnight Black, Meteor Silver, Desert Gold, Tidal Blue"
- },
  "honor-lgn-nx1": {
   "Launch Year": "2025 (announced 8/7/2025)",
   "Also Known As": "LGN-NX1",
@@ -62125,27 +61377,6 @@
   "Bluetooth": "5.1",
   "USB": "USB-C v2.0",
   "Colors": "Black"
- },
- "honor-mtn-an00": {
-  "Launch Year": "2025 (announced 15 July 2025)",
-  "Also Known As": "Honor X70",
-  "Region": "India",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "193 g; Dual Sim, GSM+GSM",
-  "Display": "AMOLED",
-  "Operating System": "Android 15",
-  "Chipset": "Qualcomm Snapdragon 6 Gen4; 1xCortex-A720s@2.3 GHz & 3xCortex-A720s@2.2 GHz & 4xCortex-A520s@1.8 GHz; Adreno 810",
-  "RAM": "8 GB",
-  "Storage": "128GB",
-  "Main Camera": "50 MP ƒ/1.9 (Wide Angle)",
-  "Selfie Camera": "8 MP ƒ/2 (Wide Angle) Punch Hole",
-  "Battery": "8300 mAh, Li-Po Battery",
-  "Charging": "80W Fast Charging",
-  "Sensors": "Accelerometer, Compass, Gyro, Proximity (ultrasound)",
-  "Wi-Fi": "Wi-Fi 6 (802.11 a/b/g/n/ac), Dual Band",
-  "Bluetooth": "5.2, A2DP, LE",
-  "USB": "USB-C v2.0",
-  "Colors": "Black, Green, White, Red"
  },
  "iqoo-z11x": {
   "Region": "India",
@@ -62328,6 +61559,9 @@
   "Bluetooth": "5.3, A2DP, LE, aptX HD",
   "USB": "USB-C v2.0",
   "Colors": "Silvery Grey,Glossy Purple",
+  "Loudspeaker": "Yes, with stereo speakers",
+  "GPS": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B2a+Bc), GALILEO (E1+E5a), QZSS (L1+L5)",
+  "NFC": "Yes, eSE, HCE, UICC, NFC-SIM",
   "Resolution": "1240 x 2772 pixels, 20:9 ratio (~451 ppi density)"
  },
  "huawei-mate-70-air": {
@@ -67675,28 +66909,7 @@
   "Radio": "FM radio",
   "USB": "USB Type-C 2.0, OTG",
   "Colors": "Nebula Blue, Jade Black",
-  "Network": "GSM / HSPA / LTE"
- },
- "vivo-s1-prime": {
-  "Launch Year": "2020 (announced 2020, August 12)",
-  "Region": "Global",
-  "Body": "159.3 x 75.2 x 8.7 mm (6.27 x 2.96 x 0.34 in); 190.2 g (6.70 oz); Glass front, plastic back, plastic frame; Hybrid Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "AMOLED; 6.38 inches, 99.9 cm; 1080 x 2340 pixels, 19.5:9 ratio (~404 ppi density)",
-  "Operating System": "Android 9.0 (Pie), Funtouch 9.2",
-  "Chipset": "Qualcomm SDM665 Snapdragon 665 (11 nm); Octa-core (4x2.0 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver); Adreno 610",
-  "RAM": "8 GB",
-  "Storage": "128GB; Card: microSDXC (uses shared SIM slot)",
-  "Main Camera": "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF",
-  "Selfie Camera": "16 MP, f/2.0, (wide), 1/3.06\" 1.0µm",
-  "Battery": "4500 mAh, non-removable",
-  "Charging": "18W wired",
-  "Sensors": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
-  "Bluetooth": "5.0, A2DP, LE",
-  "GPS": "GPS, GLONASS, GALILEO, BDS",
-  "Radio": "FM radio",
-  "USB": "USB Type-C 2.0, OTG",
-  "Colors": "Nebula Blue, Jade Black",
+  "Also Known As": "Vivo S1 Prime",
   "Network": "GSM / HSPA / LTE"
  },
  "vivo-iqoo-u1": {
@@ -68788,18 +68001,6 @@
   "Battery": "5000 mAh",
   "Charging": "44W wired"
  },
- "huawei-maimang-6": {
-  "Region": "Global",
-  "Network": "GSM / HSPA / LTE",
-  "Display": "IPS LCD; 5.9 inches; 1080 x 2160 pixels",
-  "Operating System": "Android 7.0, EMUI 5.1",
-  "Chipset": "Kirin 659",
-  "RAM": "4 GB",
-  "Storage": "64GB",
-  "Main Camera": "16 MP",
-  "Selfie Camera": "13 MP",
-  "Battery": "3340 mAh"
- },
  "huawei-nova-2i": {
   "Region": "Global",
   "Network": "GSM / HSPA / LTE",
@@ -68810,7 +68011,8 @@
   "Storage": "64GB",
   "Main Camera": "16 MP",
   "Selfie Camera": "13 MP",
-  "Battery": "3340 mAh"
+  "Battery": "3340 mAh",
+  "Also Known As": "Huawei Maimang 6"
  },
  "infinix-hot-60-5g": {
   "Launch Year": "2025 (announced 2025, July 11)",
@@ -69145,19 +68347,6 @@
   "Battery": "5300 mAh",
   "Charging": "120W wired"
  },
- "huawei-honor-20s": {
-  "Launch Year": "2019 (announced 2019, September)",
-  "Region": "Global",
-  "Network": "GSM / CDMA / HSPA / LTE",
-  "Display": "IPS LCD; 6.26 inches; 1080 x 2340 pixels",
-  "Chipset": "Kirin 810",
-  "RAM": "6 / 8 GB",
-  "Storage": "128GB",
-  "Main Camera": "48 MP",
-  "Selfie Camera": "32 MP",
-  "Battery": "Li-Po 3750 mAh",
-  "Charging": "20W wired"
- },
  "vivo-x200-pro-mini": {
   "Launch Year": "2024 (announced 2024, October 14)",
   "Region": "Global",
@@ -69332,19 +68521,6 @@
   "Selfie Camera": "16 MP",
   "Battery": "Si/C Li-Ion 6000 mAh",
   "Charging": "45W wired"
- },
- "honor-magic7-lite": {
-  "Launch Year": "2025 (announced 2025, January 02)",
-  "Region": "Global",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Display": "AMOLED; 6.78 inches",
-  "Chipset": "Qualcomm Snapdragon 6 Gen 1 (SM6450)",
-  "RAM": "8 / 12 GB",
-  "Storage": "256GB, 512GB",
-  "Main Camera": "108 MP",
-  "Selfie Camera": "16 MP",
-  "Battery": "Si/C Li-Ion 6600 mAh",
-  "Charging": "66W wired"
  },
  "vivo-v40e-5g": {
   "Launch Year": "2024 (announced 2024, September 25)",
@@ -74116,27 +73292,6 @@
   "Colors": "Starlight Blue, Midnight Black",
   "Network": "GSM / HSPA / LTE"
  },
- "huawei-y6s": {
-  "Launch Year": "2020 (announced 2020, January 30)",
-  "Region": "Global",
-  "Body": "156.3 x 73.5 x 8 mm (6.15 x 2.89 x 0.31 in); 150 g (5.29 oz); Glass front, plastic back, plastic frame; Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "IPS LCD; 6.09 inches, 91.0 cm; 720 x 1560 pixels, 19.5:9 ratio (~282 ppi density)",
-  "Operating System": "Android 9.0 (Pie), EMUI 9.1",
-  "Chipset": "Mediatek MT6765 Helio P35 (12 nm); Octa-core (4x2.3 GHz Cortex-A53 & 4x1.8 GHz Cortex-A53); PowerVR GE8320",
-  "RAM": "3 GB",
-  "Storage": "32GB, 64GB; Card: microSDXC (dedicated slot)",
-  "Main Camera": "13 MP, f/1.8, PDAF",
-  "Selfie Camera": "8 MP, f/2.0",
-  "Battery": "Li-Po 3020 mAh, non-removable",
-  "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity",
-  "Wi-Fi": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
-  "Bluetooth": "4.2, A2DP, LE",
-  "GPS": "GPS, GLONASS, BDS",
-  "NFC": "Yes (JAT-LX1 NFC only)",
-  "Radio": "FM Radio, built-in antenna",
-  "USB": "microUSB 2.0",
-  "Colors": "Orchid Blue, Starry Black"
- },
  "sony-xperia-sola": {
   "Launch Year": "2012 (announced 2012, March. Released 2012, May)",
   "Region": "Global",
@@ -75611,26 +74766,6 @@
   "Radio": "FM radio",
   "USB": "USB-C v2.0"
  },
- "huawei-grl-al20": {
-  "Launch Year": "2025 (announced 9/4/2025)",
-  "Also Known As": "Huawei Mate XTs Ultimate",
-  "Region": "India",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "298 g; Dual Sim, GSM+GSM",
-  "Display": "OLED",
-  "Operating System": "v5.1",
-  "Chipset": "HiSilicon Kirin 9020",
-  "RAM": "16 GB",
-  "Storage": "256GB",
-  "Main Camera": "50 MP ƒ/1.4-ƒ/4 (Wide Angle) 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 12 MP ƒ/3.4 (Telephoto) 125mm (periscope telephoto), 1/3.6\", 1.0µm, PDAF, OIS, 5.5x optical zoom 12 MP ƒ/2.2 (Ultra Wide) 13mm, 120° (ultrawide), 1/2.9\", 1.24µm, PDAF",
-  "Selfie Camera": "8 MP ƒ/2.2 (Wide Angle)",
-  "Battery": "5600 mAh",
-  "Charging": "66W",
-  "Sensors": "Accelerometer, Gyro, Proximity, Compass, Barometer",
-  "Bluetooth": "5.2",
-  "USB": "USB-C v3.1",
-  "Colors": "Red, Black, Purple, White"
- },
  "honor-bkq-an00": {
   "Launch Year": "2025 (announced 15 October 2025)",
   "Also Known As": "BKQ-AN00",
@@ -75722,25 +74857,6 @@
   "Battery": "10000 mAh, Li-Polymer",
   "Bluetooth": "4.2",
   "Radio": "FM radio"
- },
- "huawei-bre-al00a": {
-  "Launch Year": "2025 (announced 4/4/2025)",
-  "Also Known As": "Huawei Enjoy 70X Energy",
-  "Region": "India",
-  "Network": "GSM / HSPA / LTE",
-  "Body": "74.9 x 164 x 8 mm; 189 g; Dual Sim, GSM+GSM",
-  "Display": "AMOLED",
-  "Operating System": "HarmonyOS v4.2",
-  "RAM": "8 GB",
-  "Storage": "128GB",
-  "Main Camera": "50 MP ƒ/1.8 (Wide Angle) 26mm (wide), PDAF 2 MP ƒ/2.4 (Depth Sensor)",
-  "Selfie Camera": "8 MP ƒ/2 (Wide Angle)",
-  "Battery": "6100 mAh",
-  "Charging": "40W",
-  "Sensors": "Accelerometer, Compass",
-  "Bluetooth": "5.1",
-  "USB": "USB-C v2.0",
-  "Colors": "Black, White, Blue"
  },
  "vivo-y57": {
   "Region": "India",
@@ -76043,18 +75159,6 @@
   "Sensors": "Gravity Sensor, Ambient light sensor",
   "Bluetooth": "4.0",
   "Radio": "FM radio"
- },
- "philips-e2103": {
-  "Also Known As": "Philips E2102",
-  "Region": "India",
-  "Body": "200 g",
-  "Display": "LCD; 1.77 inches",
-  "RAM": "03 GB",
-  "Storage": "0.03GB 0.; Card: Yes, upto 32 GB",
-  "Battery": "1000 mAh",
-  "Radio": "FM radio",
-  "USB": "USB-C",
-  "Colors": "Black, Blue, Green"
  },
  "doogee-fire-6-power": {
   "Launch Year": "2024 (announced 12/1/2024)",
@@ -76868,28 +75972,6 @@
   "Battery": "Li-Ion 6500 mAh",
   "Charging": "15W"
  },
- "huawei-honor-20-lite": {
-  "Launch Year": "2019 (announced 2019, April)",
-  "Region": "Global",
-  "Network": "GSM / HSPA / LTE",
-  "Body": "154.8 x 73.6 x 8 mm (6.09 x 2.90 x 0.31 in); 164 g (5.78 oz); Glass front, plastic back, plastic frame; Single SIM (Nano-SIM) or Hybrid Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "IPS LCD; 6.21 inches, 94.7 cm; 1080 x 2340 pixels, 19.5:9 ratio (~415 ppi density)",
-  "Operating System": "Android 9.0 (Pie), EMUI 9",
-  "Chipset": "Kirin 710 (12 nm); Octa-core (4x2.2 GHz Cortex-A73 & 4x1.7 GHz Cortex-A53); Mali-G51 MP4",
-  "RAM": "4 / 6 / 8 GB",
-  "Storage": "64GB, 128GB; Card: microSDXC (uses shared SIM slot)",
-  "Main Camera": "24 MP, f/1.8, PDAF",
-  "Selfie Camera": "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm",
-  "Battery": "Li-Po 3400 mAh, non-removable",
-  "Charging": "10W wired",
-  "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",
-  "Wi-Fi": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
-  "Bluetooth": "4.2, A2DP, LE",
-  "GPS": "GPS, GLONASS, BDS",
-  "Radio": "FM radio",
-  "USB": "microUSB 2.0, OTG",
-  "Colors": "Phantom Blue, Phantom Red, Magic Night Black"
- },
  "vivo-x20a": {
   "Launch Year": "2017 (announced 2017, September)",
   "Region": "Global",
@@ -76910,28 +75992,6 @@
   "GPS": "GPS",
   "USB": "microUSB 2.0, OTG",
   "Colors": "Matte Black, Black/Gold, Gold, Rose gold, Blue, Pink"
- },
- "samsung-galaxy-z-flip-5": {
-  "Launch Year": "2023 (announced 2023, July 26)",
-  "Region": "Global",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "Unfolded: 165.1 x 71.9 x 6.9 mm; 187 g (6.60 oz); Plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM and eSIM",
-  "Display": "Foldable Dynamic AMOLED 2X, 120Hz, HDR10+, 1750 nits (peak); 6.7 inches, 102.0 cm; 1080 x 2640 pixels (~425 ppi density)",
-  "Operating System": "Android 13, upgradable to Android 14, One UI 6.1.1",
-  "Chipset": "Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm); Octa-core (1x3.36 GHz Cortex-X3 & 2x2.8 GHz Cortex-A715 & 2x2.8 GHz Cortex-A710 & 3x2.0 GHz Cortex-A510); Adreno 740",
-  "RAM": "8 GB",
-  "Storage": "256GB, 512GB",
-  "Main Camera": "12 MP, f/1.8, 24mm (wide), 1/1.76\", 1.8µm, dual pixel PDAF, OIS",
-  "Selfie Camera": "10 MP, f/2.2, 23mm (wide), 1.22µm",
-  "Battery": "Li-Po 3700 mAh, non-removable",
-  "Charging": "25W wired, 50% in 30 min (advertised)",
-  "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer",
-  "Loudspeaker": "Yes, with stereo speakers",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct",
-  "Bluetooth": "5.3, A2DP, LE",
-  "GPS": "GPS, GLONASS, GALILEO, BDS",
-  "USB": "USB Type-C 3.2, OTG",
-  "Colors": "Mint, Graphite, Cream, Lavender, Gray, Blue, Green, Yellow"
  },
  "motorola-moto-razr-(2024)": {
   "Launch Year": "2024",
@@ -77017,28 +76077,6 @@
   "Radio": "FM radio",
   "USB": "microUSB 2.0, OTG",
   "Colors": "Midnight Black, Sky Blue, Sapphire Blue, White, Red"
- },
- "vivo-x21a": {
-  "Launch Year": "2018 (announced 2018, March)",
-  "Region": "Global",
-  "Network": "GSM / HSPA / LTE",
-  "Body": "154.5 x 74.8 x 7.4 mm (6.08 x 2.94 x 0.29 in); 156.2 g (5.50 oz); Glass front (Gorilla Glass 3), aluminum back, aluminum frame; Hybrid Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "Super AMOLED; 6.28 inches, 98.4 cm; 1080 x 2280 pixels, 19:9 ratio (~402 ppi density)",
-  "Operating System": "Android 8.1 (Oreo), Funtouch 4",
-  "Chipset": "Qualcomm SDM660 Snapdragon 660 (14 nm); Octa-core (4x2.2 GHz Kryo 260 Gold & 4x1.8 GHz Kryo 260 Silver); Adreno 512",
-  "RAM": "6 GB",
-  "Storage": "64GB, 128GB; Card: microSDXC (uses shared SIM slot)",
-  "Main Camera": "12 MP, f/1.8, 1/2.55\", 1.4µm, dual pixel PDAF",
-  "Selfie Camera": "12 MP, f/2.0, (wide), 1/2.8\", 1.28µm",
-  "Battery": "Li-Ion 3200 mAh, non-removable",
-  "Charging": "18W wired",
-  "Sensors": "Fingerprint (rear-mounted), accelerometer, proximity, compass",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
-  "Bluetooth": "5.0, A2DP, LE",
-  "GPS": "GPS, GLONASS",
-  "Radio": "FM radio",
-  "USB": "microUSB 2.0, OTG",
-  "Colors": "Black, Aurora White, Ruby Red"
  },
  "huawei-ascend-mate-7": {
   "Launch Year": "2014 (announced 2014, September. Released 2014, October)",
@@ -77170,27 +76208,6 @@
   "USB": "microUSB 2.0, OTG",
   "Colors": "Gold"
  },
- "huawei-honor-8s": {
-  "Launch Year": "2019 (announced 2019, April)",
-  "Region": "Global",
-  "Network": "GSM / HSPA / LTE",
-  "Body": "147.1 x 70.8 x 8.5 mm (5.79 x 2.79 x 0.33 in); 146 g (5.15 oz); Glass front, plastic back, plastic frame; Single SIM (Nano-SIM) or Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "IPS LCD; 5.71 inches, 81.4 cm; 720 x 1520 pixels, 19:9 ratio (~295 ppi density)",
-  "Operating System": "Android 9.0 (Pie), EMUI 9",
-  "Chipset": "Mediatek MT6761 Helio A22 (12 nm); Quad-core 2.0 GHz Cortex-A53; PowerVR GE8320",
-  "RAM": "2 / 3 GB",
-  "Storage": "32GB, 64GB; Card: microSDXC (dedicated slot)",
-  "Main Camera": "13 MP, f/1.8, PDAF",
-  "Selfie Camera": "5 MP, f/2.2",
-  "Battery": "Li-Po 3020 mAh, non-removable",
-  "Sensors": "Accelerometer, proximity",
-  "Wi-Fi": "Wi-Fi 802.11 b/g/n, Wi-Fi Direct",
-  "Bluetooth": "5.0, A2DP, LE",
-  "GPS": "GPS, GLONASS, BDS",
-  "Radio": "FM radio",
-  "USB": "microUSB 2.0",
-  "Colors": "Black, Gold, Blue"
- },
  "samsung-galaxy-note-10-5g": {
   "Launch Year": "2019 (announced 2019, August)",
   "Region": "Global",
@@ -77213,27 +76230,6 @@
   "Radio": "FM radio (USA & Canada only)",
   "USB": "USB Type-C 3.1",
   "Colors": "Aura Glow, Aura White, Aura Black, Aura Pink, Aura Red"
- },
- "huawei-nova-6se": {
-  "Launch Year": "2019 (announced 2019, December)",
-  "Region": "Global",
-  "Network": "GSM / HSPA / LTE",
-  "Body": "159.2 x 76.3 x 8.7 mm (6.27 x 3.00 x 0.34 in); 183 g (6.46 oz); Glass front, plastic back, plastic frame; Hybrid Dual SIM (Nano-SIM, dual stand-by)",
-  "Display": "IPS LCD; 6.4 inches, 101.4 cm; 1080 x 2310 pixels (~398 ppi density)",
-  "Operating System": "Android 10, EMUI 10, no Google Play Services",
-  "Chipset": "Kirin 810 (7 nm); Octa-core (2x2.27 GHz Cortex-A76 & 6x1.88 GHz Cortex-A55); Mali-G52 MP6",
-  "RAM": "8 GB",
-  "Storage": "128GB; Card: NM (Nano Memory), up to 256GB (uses shared SIM slot)",
-  "Main Camera": "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF",
-  "Selfie Camera": "16 MP, f/2.0, (wide), 1/3.06\", 1.0µm",
-  "Battery": "Li-Po 4200 mAh, non-removable",
-  "Charging": "40W wired",
-  "Sensors": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass",
-  "Wi-Fi": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
-  "Bluetooth": "5.0, A2DP, LE",
-  "GPS": "GPS, GLONASS, BDS",
-  "USB": "USB Type-C 2.0, OTG",
-  "Colors": "Black, Emerald Green, Light Pink/Blue"
  },
  "samsung-galaxy-watch8-classic": {
   "Launch Year": "2025 (announced 2025, July 09)",
@@ -77505,20 +76501,6 @@
   "Main Camera": "200 MP",
   "Battery": "Li-Po 4400 mAh"
  },
- "motorola-moto-g-power-2025": {
-  "Launch Year": "2025 (announced 2025, January 14)",
-  "Region": "Global",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "166.6 x 77.1 x 8.7 mm; 208 g",
-  "Display": "IPS LCD, 120Hz; 6.8 inches; 1080 x 2388 pixels",
-  "Operating System": "Android 15",
-  "Chipset": "Mediatek Dimensity 6300 (6 nm)",
-  "RAM": "8 GB",
-  "Storage": "128GB",
-  "Main Camera": "50 MP",
-  "Battery": "5000 mAh",
-  "Charging": "30W wired, 15W wireless"
- },
  "tecno-spark-4-air": {
   "Launch Year": "2019 (announced 2019, August 29)",
   "Region": "Global",
@@ -77667,20 +76649,6 @@
   "Main Camera": "50 MP",
   "Battery": "Si/C Li-Ion 5110 or 5200 mAh",
   "Charging": "66W wired, 50W wireless"
- },
- "oppo-reno14": {
-  "Launch Year": "2025 (announced 2025, May 15)",
-  "Region": "Global",
-  "Network": "GSM / CDMA / HSPA / LTE / 5G",
-  "Body": "157.9 x 74.7 x 7.3 mm; 187 g",
-  "Display": "AMOLED, 120Hz, HDR10+; 6.59 inches; 1256 x 2760 pixels",
-  "Operating System": "Android 15, ColorOS 15",
-  "Chipset": "Mediatek Dimensity 8350 (4 nm)",
-  "RAM": "8 / 12 / 16 GB",
-  "Storage": "256GB, 512GB, 1TB",
-  "Main Camera": "50 MP",
-  "Battery": "6000 mAh",
-  "Charging": "80W wired"
  },
  "redmi-a4-5g": {
   "Launch Year": "2024 (announced 2024, October 16)",
@@ -77855,56 +76823,6 @@
   "Fingerprint": "Under display, optical",
   "Sensors": "accelerometer, gyro, proximity, compass; quad stereo speakers; Wireless Samsung DeX; Wi-Fi 6e; Bluetooth 5.3; USB Type-C 3.2",
   "Colors": "Moonstone Gray, Platinum Silver"
- },
- "apple-ipad-air-m3": {
-  "Launch Year": "2025 (announced 4 March 2025, released 12 March 2025)",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "247.6 x 178.5 x 6.1 mm, 460 g; glass front, aluminum back, aluminum frame; eSIM (cellular model only); stylus support",
-  "Display": "Liquid Retina IPS LCD, 500 nits; 11.0 inches; 1640 x 2360 pixels (~264 ppi); scratch-resistant glass, oleophobic coating",
-  "Chipset": "Apple M3; CPU octa-core (4 performance cores + 4 efficiency cores); GPU Apple 9-core graphics",
-  "RAM": "8 GB",
-  "Storage": "128 GB / 256 GB / 512 GB / 1 TB; no card slot",
-  "Main Camera": "12 MP f/1.8 wide (dual pixel PDAF); HDR; video 4K@24/25/30/60fps, 1080p@25/30/60/120/240fps, gyro-EIS",
-  "Selfie Camera": "12 MP f/2.0 122° ultrawide; HDR; video 1080p@25/30/60fps, gyro-EIS",
-  "Battery": "Li-Po 7606 mAh (28.93 Wh)",
-  "Charging": "Wired charging via USB Type-C",
-  "Operating System": "iPadOS 18, upgradable to iPadOS 27.2",
-  "Fingerprint": "Top-mounted",
-  "Sensors": "accelerometer, gyro, compass, barometer; stereo speakers; Wi-Fi 6e; Bluetooth 5.3; USB Type-C 3.1 Gen2, DisplayPort",
-  "Colors": "Space Gray, Starlight, Purple, Blue"
- },
- "apple-ipad-pro-13-m4": {
-  "Launch Year": "2024 (announced 7 May 2024, released 15 May 2024)",
-  "Network": "GSM / HSPA / LTE / 5G",
-  "Body": "281.6 x 215.5 x 5.1 mm, 579 g (Wi-Fi) / 582 g (5G); glass front, aluminum back, aluminum frame; eSIM (cellular model only); stylus support",
-  "Display": "Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits (peak); 13.0 inches; 2064 x 2752 pixels (~264 ppi)",
-  "Chipset": "Apple M4; CPU 9-core (3 performance + 6 efficiency) on 256/512 GB, 10-core (4 performance + 6 efficiency) on 1/2 TB; GPU Apple 10-core graphics",
-  "RAM": "8 GB / 16 GB",
-  "Storage": "256 GB / 512 GB / 1 TB / 2 TB; no card slot",
-  "Main Camera": "12 MP f/1.8 wide (dual pixel PDAF) + TOF 3D LiDAR scanner; Quad-LED dual-tone flash, HDR; video 4K@24/25/30/60fps, 1080p up to 240fps, ProRes, gyro-EIS",
-  "Selfie Camera": "12 MP f/2.4 122° ultrawide; face detection, HDR, panorama; video 1080p@25/30/60fps",
-  "Battery": "Li-Po 10290 mAh",
-  "Charging": "Wired charging via USB Type-C",
-  "Operating System": "iPadOS 17.5, upgradable to iPadOS 27.2",
-  "Sensors": "Face ID, accelerometer, gyro, compass, barometer; four stereo speakers; Wi-Fi 6e; Bluetooth 5.3; USB Type-C 4 (Thunderbolt 3)",
-  "Colors": "Silver, Space Black"
- },
- "samsung-galaxy-z-flip-7": {
-  "Launch Year": "2025 (announced 9 July 2025, released 25 July 2025)",
-  "Network": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
-  "Body": "Unfolded: 166.7 x 75.2 x 6.5 mm, Folded: 85.5 x 75.2 x 13.7 mm, 188 g; plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM; IP48 dust and water resistant; Armor Aluminum frame",
-  "Display": "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.9 inches; 1080 x 2520 pixels; cover display: 4.1 inches Super AMOLED, 120Hz, 2600 nits (peak), 948 x 1048 pixels, Gorilla Glass Victus 2",
-  "Chipset": "Exynos 2500 (3 nm); CPU 10-core (1x3.3 GHz Cortex-X925 & 2x2.74 GHz Cortex-A725 & 5x2.36 GHz Cortex-A725 & 2x1.8 GHz Cortex-A520); GPU Xclipse 950",
-  "RAM": "12 GB",
-  "Storage": "256 GB / 512 GB (UFS 4.0); no card slot",
-  "Main Camera": "50 MP f/1.8 23mm wide (dual pixel PDAF, OIS) + 12 MP f/2.2 13mm 123° ultrawide; LED flash, HDR, panorama; video 4K@30/60fps, 1080p@60/120/240fps, HDR10+",
-  "Selfie Camera": "10 MP f/2.2 wide; HDR; video 4K@30/60fps",
-  "Battery": "4300 mAh",
-  "Charging": "25W wired, QC2.0 (50% in 30 min); 15W wireless; 4.5W reverse wireless",
-  "Operating System": "Android 16, One UI 8 (up to 7 major OS updates)",
-  "Fingerprint": "Side-mounted",
-  "Sensors": "accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; Samsung DeX; Wi-Fi 7; Bluetooth 5.4; USB Type-C 3.2",
-  "Colors": "Blue Shadow, Jet Black, Coral Red, Mint"
  },
  "google-pixel-9-pro-xl": {
   "Launch Year": "2024 (announced 13 August 2024, released 22 August 2024)",
@@ -78926,7 +77844,8 @@
   "USB": "USB Type-C 3.2, OTG",
   "Battery": "4300 mAh",
   "Charging": "25W wired, QC2.0, 50% in 30 min 15W wireless 4.5W reverse wireless",
-  "Colors": "Blue Shadow, Jet Black, Coral Red, Mint"
+  "Colors": "Blue Shadow, Jet Black, Coral Red, Mint",
+  "Fingerprint": "Side-mounted"
  },
  "samsung-galaxy-z-flip7-fe-5g": {
   "Launch Year": "2025 (announced 2025, July 09, released 2025, July 25)",
@@ -79044,7 +77963,8 @@
   "Radio": "No",
   "USB": "USB Type-C 2.0, DisplayPort; magnetic connector",
   "Battery": "Li-Po 7606 mAh (28.6 Wh)",
-  "Colors": "Silver, Blue, Pink, Yellow"
+  "Colors": "Silver, Blue, Pink, Yellow",
+  "Weight": "477 g"
  },
  "xiaomi-redmi-m100-pro-5g": {
   "Launch Year": "2026 (announced 2026, November 02, released 2026, November 02)",
@@ -80000,7 +78920,8 @@
   "Radio": "No",
   "USB": "USB Type-C 4 (Thunderbolt 3), DisplayPort, magnetic connector",
   "Battery": "Li-Po 10290 mAh",
-  "Colors": "Silver, Space Black"
+  "Colors": "Silver, Space Black",
+  "Charging": "Wired charging via USB Type-C"
  },
  "apple-ipad-pro-11-(2024)": {
   "Launch Year": "2024 (announced 2024, May 07, released 2024, May 15)",
@@ -80023,7 +78944,8 @@
   "Radio": "No",
   "USB": "USB Type-C 4 (Thunderbolt 3), DisplayPort, magnetic connector",
   "Battery": "Li-Po 8160 mAh",
-  "Colors": "Silver, Space Black"
+  "Colors": "Silver, Space Black",
+  "Weight": "444 g (Wi-Fi) / 446 g (5G)"
  },
  "apple-ipad-air-13-(2024)": {
   "Launch Year": "2024 (announced 2024, May 07, released 2024, May 15)",
@@ -80071,7 +78993,8 @@
   "USB": "USB Type-C 3.1 Gen2, DisplayPort, magnetic connector",
   "Battery": "Li-Po 7606 mAh (28.93 Wh)",
   "Charging": "45W wired",
-  "Colors": "Space Gray, Starlight, Purple, Blue"
+  "Colors": "Space Gray, Starlight, Purple, Blue",
+  "Weight": "462 g"
  },
  "xiaomi-poco-x8s-5g": {
   "Launch Year": "2026 (announced 2026, October 26, released 2026, October 26)",
@@ -81895,7 +80818,9 @@
   "Radio": "No",
   "USB": "USB Type-C 3.1 Gen2, DisplayPort, magnetic connector",
   "Battery": "Li-Po 7606 mAh (28.93 Wh)",
-  "Colors": "Space Gray, Starlight, Purple, Blue"
+  "Colors": "Space Gray, Starlight, Purple, Blue",
+  "Charging": "Wired charging via USB Type-C",
+  "Fingerprint": "Top-mounted"
  },
  "apple-iphone-15-pro": {
   "Launch Year": "2023 (announced 2023, September 12, released 2023, September 22)",

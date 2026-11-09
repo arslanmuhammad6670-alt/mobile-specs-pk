@@ -4220,7 +4220,7 @@
  },
  {
   "brand": "Alcatel",
-  "cat": "Smartphones",
+  "cat": "Keypad Phones",
   "hl": [
    "2.8\" display",
    "Qualcomm MSM8909 Snapdragon 210",
@@ -30207,7 +30207,7 @@
    "12 GB RAM",
    "5700 mAh"
   ],
-  "name": "Huawei LMR-AL00",
+  "name": "Huawei Pura 80 Pro",
   "price": 239999,
   "price_src": "approx",
   "rows": [
@@ -30217,7 +30217,7 @@
    ],
    [
     "Also Known As",
-    "Huawei Pura P80 Pro"
+    "LMR-AL00"
    ],
    [
     "Region",
@@ -30543,7 +30543,7 @@
    "12 GB RAM",
    "6300 mAh"
   ],
-  "name": "Honor AGI-AN00",
+  "name": "Honor X60 GT",
   "price": 64999,
   "price_src": "approx",
   "rows": [
@@ -30553,7 +30553,7 @@
    ],
    [
     "Also Known As",
-    "Honor X60 GT"
+    "AGI-AN00"
    ],
    [
     "Region",
@@ -30972,7 +30972,7 @@
    "12 GB RAM",
    "7000 mAh"
   ],
-  "name": "Honor BKQ-AN00",
+  "name": "Honor Magic8",
   "price": 171999,
   "price_src": "approx",
   "rows": [
@@ -30982,7 +30982,7 @@
    ],
    [
     "Also Known As",
-    "Honor Magic 8"
+    "BKQ-AN00"
    ],
    [
     "Region",
@@ -31062,7 +31062,7 @@
    "12 GB RAM",
    "4800 mAh"
   ],
-  "name": "Honor CLE-AN00",
+  "name": "Honor Magic V Flip 2",
   "price": 217999,
   "price_src": "approx",
   "rows": [
@@ -31072,7 +31072,7 @@
    ],
    [
     "Also Known As",
-    "HONOR Magic V Flip 2"
+    "CLE-AN00"
    ],
    [
     "Region",
@@ -31561,7 +31561,7 @@
    "12 GB RAM",
    "4400 mAh"
   ],
-  "name": "Huawei PSD-AL80",
+  "name": "Huawei nova Flip S",
   "price": 130999,
   "price_src": "approx",
   "rows": [
@@ -31571,7 +31571,7 @@
    ],
    [
     "Also Known As",
-    "Huawei Nova Flip S"
+    "PSD-AL80"
    ],
    [
     "Region",

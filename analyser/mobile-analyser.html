@@ -1,0 +1,163 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-27E7JGS729"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-27E7JGS729');</script>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mobile Analyser — Free IMEI Checker: Model, Full Specs & Price | Check Specs</title>
+<meta name="description" content="Paste any IMEI and instantly see the phone model, full specifications, photo and price in Pakistan. Free IMEI checker by Check Specs — your IMEI never leaves your browser.">
+<link rel="canonical" href="https://checkspecs.info/mobile-analyser.html">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E📱%3C/text%3E%3C/svg%3E">
+<meta property="og:title" content="Mobile Analyser — Free IMEI Checker | Check Specs"><meta property="og:description" content="Paste any IMEI and instantly see the phone model, full specifications, photo and price in Pakistan. Free IMEI checker by Check Specs.">
+<meta property="og:type" content="website"><meta property="og:url" content="https://checkspecs.info/mobile-analyser.html">
+<meta name="twitter:card" content="summary"><meta name="twitter:title" content="Mobile Analyser — Free IMEI Checker | Check Specs"><meta name="twitter:description" content="Paste any IMEI and instantly see the phone model, full specifications, photo and price in Pakistan.">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Mobile Analyser — Free IMEI Checker","url":"https://checkspecs.info/mobile-analyser.html","applicationCategory":"UtilitiesApplication","operatingSystem":"Any (web browser)","offers":{"@type":"Offer","price":"0","priceCurrency":"PKR"},"publisher":{"@type":"Organization","name":"Check Specs","url":"https://checkspecs.info/"},"description":"Free IMEI checker: paste any IMEI to see the phone model, full specifications, photo and price in Pakistan. The IMEI never leaves your browser."}</script>
+<link rel="stylesheet" href="style.css">
+<style>
+.analyser-box{background:#fff;border-radius:16px;box-shadow:0 2px 10px #00000014;padding:22px;margin:16px 0}
+.imei-row{display:flex;gap:10px;flex-wrap:wrap}
+.imei-row input{flex:1;min-width:220px;padding:14px 16px;border:2px solid #0b1e3f;border-radius:10px;font-size:18px;letter-spacing:.06em}
+.imei-row button{background:#0f62d8;color:#fff;border:0;border-radius:10px;padding:14px 30px;font-size:16px;font-weight:800;cursor:pointer}
+.imei-row button:disabled{opacity:.6;cursor:wait}
+.verdict{border-radius:12px;padding:14px 16px;margin:14px 0;font-size:15px}
+.verdict.ok{background:#eafaf0;border:1px solid #bfe6cc;color:#0b3d2e}
+.verdict.bad{background:#fdecea;border:1px solid #f5c6c0;color:#7a1710}
+.dev-head{display:flex;gap:18px;flex-wrap:wrap;align-items:center;background:#fff;border-radius:16px;box-shadow:0 2px 10px #00000014;padding:18px;margin:14px 0}
+.dev-head img{width:170px;height:190px;object-fit:contain;background:linear-gradient(180deg,#f2f6fb,#e4ecf7);border-radius:12px;padding:10px}
+.dev-head h2{margin:0 0 4px;font-size:24px}
+.dev-price{font-size:21px;font-weight:800;color:#d92d20}
+.dev-price span{color:#5d6878;font-size:14px;font-weight:600}
+.breakdown{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:12px 0}
+.breakdown div{background:#eef3fb;border-radius:10px;padding:10px 12px}
+.breakdown b{display:block;color:#0b1e3f;font-size:12px;text-transform:uppercase;letter-spacing:.03em}
+.breakdown span{font-size:16px;font-weight:700;word-break:break-all}
+.pta-box{background:#fff7d6;border:1px solid #ecd27a;border-radius:12px;padding:14px 16px;margin:16px 0;font-size:14.5px}
+</style></head><body>
+<header><div class="wrap hwrap"><button class="menubtn" aria-label="Menu" onclick="document.querySelector('.navbar').classList.toggle('open')">&#9776;</button><a class="logo" href="https://checkspecs.info/"><span class="logo-ic">📱</span>Check <span>Specs</span></a><span class="tagline">Explore • Compare • Choose</span></div>
+<div class="navbar"><div class="wrap"><a href="https://checkspecs.info/">Home</a><a href="https://checkspecs.info/smartphones.html">Smartphones</a><a href="https://checkspecs.info/keypad-phones.html">Keypad Phones</a><a href="https://checkspecs.info/tablets.html">Tablets</a><a href="https://checkspecs.info/laptops.html">Laptops</a><a href="https://checkspecs.info/compare.html">Compare</a><a href="https://checkspecs.info/az.html">A–Z Models</a><a href="https://checkspecs.info/mobile-analyser.html">Mobile Analyser</a><a href="https://checkspecs.info/best-under-200.html">Under $200</a><a href="https://checkspecs.info/best-under-400.html">Under $400</a></div></div></header>
+<main>
+<div class="hero2"><h1>Mobile <span>Analyser</span></h1><p>Paste any phone's IMEI number and instantly see which model it is — with its full specifications, photo and price in Pakistan.</p></div>
+
+<div class="analyser-box">
+<div class="imei-row">
+<input id="imei" inputmode="numeric" autocomplete="off" placeholder="Enter IMEI — 14, 15 or 16 digits" maxlength="20">
+<button id="go" onclick="analyse()">Analyse</button>
+</div>
+<p class="note" style="margin-top:10px">Dial <b>*#06#</b> on any phone to see its IMEI. Dual-SIM phones have two IMEIs — both belong to the same model. <b>Private by design:</b> the analysis runs inside your own browser. Your IMEI is never sent to or stored on any server.</p>
+<div id="status"></div>
+<div id="result"></div>
+</div>
+
+<div class="pta-box"><b>Pakistan — PTA approval / blocked status:</b> whether a phone is PTA-approved, tax-paid or blocked is maintained only by the Pakistan Telecommunication Authority. To check, SMS your IMEI to <b>8484</b>, or use the official PTA DIRBS portal (dirbs.pta.gov.pk) or the DIRBS mobile app. No website can read PTA's register — always confirm there before buying a used phone.</div>
+
+<h2 class="sec">How the Mobile Analyser works</h2>
+<p>Every IMEI is 15 digits. The first 8 digits (the TAC) are allotted to one exact phone model, the next 6 are the device's own serial number, and the last digit is a check digit calculated from the other digits, which confirms the number is correctly formed. Our analyser verifies the check digit, reads the TAC against a database of more than 269,000 allotted codes covering 31,000+ models, and shows the phone's full specifications — plus its photo and current Pakistan price for models in our catalogue. Please note: a correct check digit proves only that the IMEI format is valid — it cannot prove that a phone is genuine or original, because a copied or reprogrammed IMEI passes the same check.</p>
+</main>
+<footer><div style="max-width:1100px;margin:0 auto">
+Check Specs — Mobile phones, keypad phones, tablets and laptops: full specifications, latest prices in Pakistan (PKR &amp; USD) and comparisons.<br>
+<a href="about.html">About Us</a> · <a href="contact.html">Contact Us</a> · <a href="privacy-policy.html">Privacy Policy</a> · <a href="terms.html">Terms</a> · <a href="sitemap.xml">Sitemap</a></div></footer>
+<script>
+let DB=null;
+async function loadDB(){
+  if(DB) return DB;
+  const st=document.getElementById('status');
+  st.innerHTML='<div class="verdict ok">Loading the device database — one moment…</div>';
+  const [tac,phones,specs,ext]=await Promise.all([
+    fetch('tac-data.json').then(r=>r.json()),
+    fetch('phones.json').then(r=>r.json()),
+    fetch('specs.json').then(r=>r.json()),
+    fetch('ext-specs.json').then(r=>r.json()).catch(()=>({}))
+  ]);
+  const map=new Map();
+  for(const e of tac.e) map.set(e[0],e);
+  const bySlug={};
+  for(const p of phones) bySlug[p.slug]=p;
+  DB={tac,map,bySlug,specs,ext};
+  st.innerHTML='';
+  return DB;
+}
+function luhn(d){
+  let s=0;
+  for(let i=0;i<d.length;i++){
+    let n=+d[d.length-1-i];
+    if(i%2===1){ n*=2; if(n>9)n-=9; }
+    s+=n;
+  }
+  return s%10===0;
+}
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function fmt(n){return n?('Rs '+Number(n).toLocaleString('en-PK')):'';}
+async function analyse(){
+  const btn=document.getElementById('go');
+  const res=document.getElementById('result');
+  let v=document.getElementById('imei').value.replace(/\D/g,'');
+  res.innerHTML='';
+  if(!/^\d{14,16}$/.test(v)){
+    res.innerHTML='<div class="verdict bad"><b>That does not look like an IMEI.</b> An IMEI is 14, 15 or 16 digits — it does <b>not</b> have to start with 35; codes begin with many different numbers (01, 35, 44, 49, 86, 99…). Dial *#06# on the phone and copy the number exactly.</div>';
+    return;
+  }
+  btn.disabled=true;
+  try{ await loadDB(); }catch(e){
+    btn.disabled=false;
+    res.innerHTML='<div class="verdict bad">The database could not be loaded. Please check your connection and try again.</div>';
+    return;
+  }
+  btn.disabled=false;
+  const tac=v.slice(0,8), serial=v.slice(8,14);
+  let html='';
+  if(v.length===15){
+    const valid=luhn(v);
+    html+= valid
+      ? '<div class="verdict ok"><b>✔ Valid IMEI format — check digit correct.</b> This is a correctly formed IMEI number. A valid format does not by itself prove the phone is genuine or original.</div>'
+      : '<div class="verdict bad"><b>✘ Check digit failed.</b> One digit may be mistyped — but we still identified the model from its TAC below. Dial *#06# and copy the number exactly to be sure.</div>';
+  } else if(v.length===14){
+    html+='<div class="verdict ok"><b>✔ 14-digit IMEI accepted.</b> This is the older form without a check digit — the model is identified from its TAC below.</div>';
+  } else {
+    html+='<div class="verdict ok"><b>✔ 16-digit IMEISV accepted.</b> The last two digits ('+v.slice(14)+') are the phone\'s software version — the model is identified from its TAC below.</div>';
+  }
+  html+='<div class="breakdown">'
+      + '<div><b>TAC (Model Code)</b><span>'+tac+'</span></div>'
+      + '<div><b>Serial Number</b><span>'+serial+'</span></div>'
+      + (v.length===15 ? '<div><b>Check Digit</b><span>'+v.slice(14)+'</span></div>' : '<div><b>Entered Digits</b><span>'+v.length+'</span></div>')
+      + '</div>';
+  const e=DB.map.get(tac);
+  if(!e){
+    html+='<div class="verdict bad"><b>Model not in our database yet.</b> Your IMEI format is fine — this phone\'s TAC code is not among the 269,000+ codes we cover yet. The IMEI breakdown above is still exact, and we add new models every week, so please check again soon.</div>';
+    res.innerHTML=html; return;
+  }
+  const brand=DB.tac.brands[e[1]];
+  let model=DB.tac.models[e[2]];
+  if(model===model.toUpperCase()) model=model.toLowerCase().replace(/\b\w/g,c=>c.toUpperCase()).replace(/(\d)G\b/g,'$1G').replace(/\bLte\b/g,'LTE').replace(/\bSe\b/g,'SE').replace(/\bXr\b/g,'XR').replace(/\bXs\b/g,'XS');
+  const bN=brand.trim().toLowerCase(), mN=model.trim().toLowerCase();
+  const dispName = (mN===bN) ? brand : ((mN.startsWith(bN+' ')||mN.startsWith(bN+'-')) ? model : (brand+' '+model));
+  const slug = e[3]>=0 ? DB.tac.phones[e[3]] : null;
+  const p = slug ? DB.bySlug[slug] : null;
+  if(p){
+    const sp=DB.specs[slug]||{};
+    const fullName = p.name.toLowerCase().startsWith(p.brand.toLowerCase()) ? p.name : (p.brand+' '+p.name);
+    html+='<div class="dev-head"><img src="img/'+slug+'/main.jpg" alt="'+esc(p.name)+'">'
+        + '<div><div class="cat">'+esc(p.cat)+'</div><h2>'+esc(fullName)+'</h2>'
+        + '<div class="dev-price">'+fmt(p.price_pkr)+(p.price?' <span>· $'+p.price+'</span>':'')+'</div>'
+        + '<p class="note">Identified from TAC '+tac+' · Full specifications below, verified by Check Specs.</p>'
+        + '<a class="btn" href="'+p.path+'">Open full model page →</a></div></div>';
+    const rows=Object.entries(sp);
+    if(rows.length){
+      html+='<h2 class="sec">Full Specifications</h2><table>';
+      for(const [k,val] of rows) html+='<tr><th>'+esc(k)+'</th><td>'+esc(val)+'</td></tr>';
+      html+='</table>';
+    }
+  } else {
+    const xs=DB.ext ? DB.ext[e[2]] : null;
+    html+='<div class="dev-head"><div><div class="cat">Identified Model</div><h2>'+esc(dispName)+'</h2>'
+        + '<p class="note">Identified from TAC '+tac+' · Full specifications below, sourced for Check Specs.</p></div></div>';
+    if(xs){
+      html+='<h2 class="sec">Full Specifications</h2><table>';
+      for(const [k,val] of Object.entries(xs)) html+='<tr><th>'+esc(k)+'</th><td>'+esc(val)+'</td></tr>';
+      html+='</table>';
+    } else {
+      html+='<p class="note">This model\'s specification sheet is being added — the model name above is exact. Meanwhile you can browse all models by <a href="az.html">A–Z list</a>.</p>';
+    }
+  }
+  res.innerHTML=html;
+}
+document.getElementById('imei').addEventListener('keydown',e=>{if(e.key==='Enter')analyse();});
+</script>
+</body></html>

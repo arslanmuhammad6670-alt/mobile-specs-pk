@@ -1134,7 +1134,7 @@ def main():
 <h2 class="sec" id="allmodels">Latest Models — Full Specs &amp; Prices in Pakistan</h2><div class="sortzone">{_SORTBAR_COUNT}<div class="grid sortgrid">{''.join(card(d) for d in latest[:40])}</div></div>
 <p style="text-align:center;margin:16px 0"><a class="btn" href="az.html">Browse All {len(ALL)} Models A–Z →</a></p>
 <h2 class="sec">Popular Comparisons</h2><div class="grid">{ctiles}</div>
-<div class="highlights"><div>🛡️ <b>Verified Specifications</b>Trusted &amp; Accurate</div><div>🌐 <b>{len(ALL)} Devices</b>Listed with full specs &amp; prices</div><div>🔄 <b>Updated Daily</b>Latest Prices</div><div>⚡ <b>Fast &amp; Responsive</b>On All Devices</div></div>"""
+<div class="highlights"><div>🛡️ <b>Verified Specifications</b>Trusted &amp; Accurate</div><div>🌐 <b>{len(ALL)} Devices</b>Full specs, prices where available</div><div>🔄 <b>Updated Daily</b>Latest Prices</div><div>⚡ <b>Fast &amp; Responsive</b>On All Devices</div></div>"""
     home += foot(); write("index.html", home)
     # Category pages
     for c in CATS:
@@ -1279,6 +1279,12 @@ def main():
                   f"Best mobile phones {label.lower()} in Pakistan with full specs and USD prices.", fname)
         _fh, _at, _btn = _fragzone([card(d) for d in items], fname.replace(".html", ""))
         pg += f"<h1>Best Phones {label} in Pakistan</h1><p>Is budget mein sabse behtar phones — specs aur qeemat ke sath.</p><div class='sortzone'{_at}>{_SORTBAR}<div class='grid sortgrid'>{_fh}</div>{_btn}</div>"
+        _sib8 = "".join(f'<a class="chip" href="{f2}">{t2}</a>' for f2, t2 in [
+            ("best-phones-under-30000.html", "Best Under Rs 30,000"), ("best-phones-under-50000.html", "Best Under Rs 50,000"),
+            ("best-phones-under-100000.html", "Best Under Rs 100,000"), ("best-camera-phones.html", "Best Camera Phones"),
+            ("best-battery-phones.html", "Best Battery Phones"), ("best-gaming-phones.html", "Best Gaming Phones"),
+            ("best-under-200.html", "Best Under $200"), ("best-under-400.html", "Best Under $400")] if f2 != fname)
+        pg += f"""<h2>Other Guides &amp; Budgets</h2><div class="chips">{_sib8}</div>"""
         pg += foot(); write(fname, pg)
     # Trust & policy pages (Phase 5, 2026-11-03)
     TRUST = [
@@ -1459,7 +1465,9 @@ def main():
                    ("best-phones-under-100000.html", "Best Under Rs 100,000"),
                    ("best-camera-phones.html", "Best Camera Phones"),
                    ("best-battery-phones.html", "Best Battery Phones"),
-                   ("best-gaming-phones.html", "Best Gaming Phones")]
+                   ("best-gaming-phones.html", "Best Gaming Phones"),
+                   ("best-under-200.html", "Best Under $200"),
+                   ("best-under-400.html", "Best Under $400")]
     _AVAIL = " Models sold in Pakistan (Continued, with a Pakistan retail price) are ranked first; any pick that has not launched yet is labelled Upcoming."
     def _guide(fname, title, desc, h1, intro, items):
         _tags = _bestfors(items)

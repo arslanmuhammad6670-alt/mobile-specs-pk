@@ -654,7 +654,7 @@ main{padding:18px 14px 40px}
 .gallery img{width:100%;height:170px;object-fit:contain}
 .gallery figcaption{font-size:13px;color:#444;margin-top:6px;font-weight:600}
 .fcard{position:relative}
-.card h2{margin:0;font-size:17px}.card h2 a{color:#17202a;text-decoration:none}
+.card .ct{margin:0;font-size:17px;font-weight:700;line-height:1.3}.card .ct a{color:#17202a;text-decoration:none}
 .price{color:#17202a;font-weight:800;font-size:18px}.spec{font-size:13px;color:#555}
 .cat{font-size:11px;font-weight:700;color:#7c6200;background:#fff3c4;align-self:flex-start;padding:2px 8px;border-radius:999px}
 .bestfor{font-size:12.5px;font-weight:700;color:#0b3d2e;background:#eafaf0;border:1px solid #bfe6cc;border-radius:8px;padding:5px 9px}
@@ -738,6 +738,7 @@ async function initCompare(){
  brandA.onchange=()=>{fillModels(selA,brandA.value);render()};
  brandB.onchange=()=>{fillModels(selB,brandB.value);render()};
  async function render(){const a=phones.find(p=>p.slug===selA.value),b=phones.find(p=>p.slug===selB.value);if(!a||!b)return;
+  try{history.replaceState(null,'','?a='+a.slug+'&b='+b.slug)}catch(e){}
   const sa=await specsOf(a),sb=await specsOf(b);
   const keys=['Price','Brand','Category'];
   [sa,sb].forEach(s=>Object.keys(s).forEach(k=>{if(!keys.includes(k))keys.push(k)}));
@@ -821,7 +822,7 @@ def card(d, base="", bestfor="", upcoming=False):
 {img}
 <div class="cbody">
 <span class="cat">{esc(d['cat'])}</span>{upflag}
-<h2><a href="{base}{d['folder']}/{d['slug']}.html">{esc(d['name'])}</a></h2>
+<p class="ct"><a href="{base}{d['folder']}/{d['slug']}.html">{esc(d['name'])}</a></p>
 <div class="price">{dual(d['price'], d.get("price_expected"), d.get("price_unverified"))}{_plabel_html(d)}</div>{hl}
 <div class="spec">{esc(d['tag'])}</div>{bfor}
 <div class="btnrow"><a class="btn" href="{base}{d['folder']}/{d['slug']}.html">Full Specs</a>

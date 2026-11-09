@@ -1,4282 +1,4282 @@
 [
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Exynos 1330",
-"4 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy F70",
-"price": 58999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, October 19, released 2026, October 20)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"164.4 x 77.9 x 7.5 mm (6.47 x 3.07 x 0.30 in); 192 g (6.77 oz); Glass front (Gorilla Glass Victus), plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Super AMOLED, 90Hz; 6.7 inches, 110.2 cm2 (~86.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus"
-],
-[
-"OS",
-"Android 16, One UI 8.5"
-],
-[
-"Chipset",
-"Exynos 1330 (5 nm); CPU Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU Mali-G68 MP2"
-],
-[
-"RAM",
-"4 GB / 6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, AF, OIS 5 MP, f/2.0, (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 1080p@30fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"13 MP, f/2.0, (wide), 1/3.1\", 1.12µm; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.1, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Li-Ion 5000 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Vivid Violet, Bold Black"
-]
-],
-"slug": "samsung-galaxy-f70-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_f70_5g-15014.php",
-"tag": "6.7\" display · Exynos 1330 · 4 GB RAM · 5000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Tablets",
-"hl": [
-"14.6\" display",
-"MediaTek Dimensity 9500",
-"12 GB RAM",
-"11600 mAh"
-],
-"name": "Samsung Galaxy Tab S12 Ultra",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 30, released 2026, October 07)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"326.3 x 208.5 x 5.1 mm (12.85 x 8.21 x 0.20 in); 692 g or 695 g (1.53 lb); Glass front, aluminum frame, aluminum back; Nano-SIM + eSIM (cellular model only)"
-],
-[
-"Display",
-"Dynamic AMOLED 2X, 120Hz, HDR10+, 1000 nits (HBM), 1600 nits (peak); 14.6 inches, 617.8 cm2 (~90.8% screen-to-body ratio); 1848 x 2960 pixels, 16:10 ratio (~239 ppi density)"
-],
-[
-"OS",
-"Android 17, up to 7 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"MediaTek Dimensity 9500 (3 nm); CPU Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro); GPU Mali-G1 Ultra MC12"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"13 MP, f/2.0, 26mm (wide), 1/3.4\", 1.0µm, AF 8 MP, f/2.2, (ultrawide); LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.4, 120˚ (ultrawide); HDR; video 4K@30fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (4 speakers)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, BDS, GALILEO"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, magnetic connector"
-],
-[
-"Battery",
-"Li-Po 11600 mAh"
-],
-[
-"Charging",
-"45W wired, 100% in 95 min"
-],
-[
-"Colors",
-"Gray, Silver"
-]
-],
-"slug": "samsung-galaxy-tab-s12-ultra-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_tab_s12_ultra_5g-14811.php",
-"tag": "14.6\" display · MediaTek Dimensity 9500 · 12 GB RAM · 11600 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Tablets",
-"hl": [
-"12.6\" display",
-"MediaTek Dimensity 9500",
-"12 GB RAM",
-"10600 mAh"
-],
-"name": "Samsung Galaxy Tab S12+",
-"price": 411999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 30, released 2026, October 07)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"289.5 x 187.8 x 5.3 mm (11.40 x 7.39 x 0.21 in); 553 g or 555 g (1.22 lb); Glass front, aluminum frame, aluminum back; Nano-SIM + eSIM (cellular model only)"
-],
-[
-"Display",
-"Dynamic AMOLED 2X, 120Hz, HDR10+, 1000 nits (HBM), 1600 nits (peak); 12.6 inches, 460.6 cm2 (~84.7% screen-to-body ratio); 1752 x 2800 pixels, 16:10 ratio (~262 ppi density)"
-],
-[
-"OS",
-"Android 17, up to 7 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"MediaTek Dimensity 9500 (3 nm); CPU Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro); GPU Mali-G1 Ultra MC12"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"13 MP, f/2.0, 26mm (wide), 1/3.4\", 1.0µm, AF; LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.4, 120˚ (ultrawide); HDR; video 4K@30fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (4 speakers)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, BDS, GALILEO"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, magnetic connector"
-],
-[
-"Battery",
-"Li-Po 10600 mAh"
-],
-[
-"Charging",
-"45W wired, 100% in 95 min"
-],
-[
-"Colors",
-"Gray, Silver"
-]
-],
-"slug": "samsung-galaxy-tab-s12+-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_tab_s12+_5g-14981.php",
-"tag": "12.6\" display · MediaTek Dimensity 9500 · 12 GB RAM · 10600 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Mediatek Helio G99+",
-"4 GB RAM",
-"6000 mAh"
-],
-"name": "Samsung Galaxy F08",
-"price": 49999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, October 01, released 2026, October 08)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"167.4 x 77.4 x 8 mm (6.59 x 3.05 x 0.31 in); 197 g (6.95 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"PLS LCD, 90Hz; 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
-],
-[
-"OS",
-"Android 17, up to 6 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Mediatek Helio G99+ (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF Auxiliary lens; LED flash; video 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, (wide), 1/4.0\", 1.12µm; video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"6000 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Blue"
-]
-],
-"slug": "samsung-galaxy-f08",
-"source": "https://www.gsmarena.com/samsung_galaxy_f08-14988.php",
-"tag": "6.7\" display · Mediatek Helio G99+ · 4 GB RAM · 6000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Mediatek Helio G99+",
-"4 GB RAM",
-"6000 mAh"
-],
-"name": "Samsung Galaxy M08",
-"price": 49999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, October 01, released 2026, October 08)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"167.4 x 77.4 x 8 mm (6.59 x 3.05 x 0.31 in); 197 g (6.95 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"PLS LCD, 90Hz; 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
-],
-[
-"OS",
-"Android 17, up to 6 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Mediatek Helio G99+ (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF Auxiliary lens; LED flash; video 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, (wide), 1/4.0\", 1.12µm; video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"6000 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Silver"
-]
-],
-"slug": "samsung-galaxy-m08",
-"source": "https://www.gsmarena.com/samsung_galaxy_m08-14987.php",
-"tag": "6.7\" display · Mediatek Helio G99+ · 4 GB RAM · 6000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Exynos 1610",
-"4 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy A18 4G",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 15, released 2026, September 18)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"164.4 x 77.9 x 7.7 mm (6.47 x 3.07 x 0.30 in); 196 g (6.91 oz); Glass front (Gorilla Glass 3), plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Super AMOLED, 90Hz; 6.7 inches, 110.2 cm2 (~86.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass 3"
-],
-[
-"OS",
-"Android 17, up to 6 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Exynos 1610; CPU Octa-core (2x2.4 GHz Cortex-A7X & 6x2.0 GHz Cortex-A55); GPU Mali-G68"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB / 128 GB / 256 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 26mm (wide), 1/2.76\", 0.64µm, PDAF 5 MP, f/2.2, 17mm (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"13 MP, f/2.0, 27mm (wide), 1/3.1\", 1.12µm; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"25W wired, 50% in 30 min"
-],
-[
-"Colors",
-"Black, Gray, Light blue"
-]
-],
-"slug": "samsung-galaxy-a18",
-"source": "https://www.gsmarena.com/samsung_galaxy_a18-14941.php",
-"tag": "6.7\" display · Exynos 1610 · 4 GB RAM · 5000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Mediatek Helio G99",
-"4 GB RAM",
-"6000 mAh"
-],
-"name": "Samsung Galaxy A08 4G",
-"price": 45999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 15, released 2026, September 15)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"167.4 x 77.4 x 8 mm (6.59 x 3.05 x 0.31 in); 197 g (6.95 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"PLS LCD, 90Hz; 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
-],
-[
-"OS",
-"Android 17, up to 6 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Mediatek Helio G99 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB / 128 GB / 256 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF Auxiliary lens; LED flash; video 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, (wide), 1/4.0\", 1.12µm; video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"6000 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Navy Blue, Silver, Green"
-]
-],
-"slug": "samsung-galaxy-a08",
-"source": "https://www.gsmarena.com/samsung_galaxy_a08-14938.php",
-"tag": "6.7\" display · Mediatek Helio G99 · 4 GB RAM · 6000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Mediatek Helio G99+",
-"4 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy A07s",
-"price": 42999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, September 07, released 2026, September 07)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"167.4 x 77.4 x 7.6 mm (6.59 x 3.05 x 0.30 in); 188 g (6.63 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"PLS LCD, 90Hz; 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
-],
-[
-"OS",
-"Android 16, up to 6 major OS updates, One UI"
-],
-[
-"Chipset",
-"Mediatek Helio G99+ (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB / 6 GB"
-],
-[
-"Storage",
-"64 GB / 128 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF Auxiliary lens; LED flash; video 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, (wide), 1/4.0\", 1.12µm; video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Gray, Light Violet, Dark Green"
-]
-],
-"slug": "samsung-galaxy-a07s",
-"source": "https://www.gsmarena.com/samsung_galaxy_a07s-14930.php",
-"tag": "6.7\" display · Mediatek Helio G99+ · 4 GB RAM · 5000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Exynos 2500",
-"8 GB RAM",
-"4900 mAh"
-],
-"name": "Samsung Galaxy S26 FE",
-"price": 231995,
-"price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-s26-fe",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, August 27, released 2026, September 04)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"161.6 x 76.9 x 7.4 mm (6.36 x 3.03 x 0.29 in); 193 g (6.81 oz); Glass front (Gorilla Glass Victus+), glass back (Gorilla Glass Victus+), aluminum frame; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"Dynamic AMOLED 2X, 120Hz, HDR10+, 1900 nits (HBM); 6.7 inches, 110.2 cm2 (~88.7% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
-],
-[
-"OS",
-"Android 17, up to 7 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Exynos 2500 (3 nm); CPU 10-core (1x3.3GHz Cortex-X925 & 2x2.74GHz Cortex-A725 & 5x2.36GHz Cortex-A725 & 2x1.8GHz Cortex-A520); GPU Xclipse 950"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, OIS 8 MP, f/2.4, 69mm (telephoto), 1/4.4\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.2\", 1.12µm; LED flash, HDR, panorama, Best Face; video 8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps; gyro-EIS, HDR10+"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.2, 23mm (wide), 1/3.2\", 1.12µm; video 4K@30/60fps, 1080p@30/60fps; gyro-EIS, HDR10+"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band (market/region dependent), Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Li-Ion 4900 mAh"
-],
-[
-"Charging",
-"45W wired, PD, QC2, 69% in 30 min 15W wireless, Qi2 compatible Reverse wireless"
-],
-[
-"Colors",
-"Blueberry, Graphite, Pistachio"
-]
-],
-"slug": "samsung-galaxy-s26-fe-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_s26_fe_5g-14870.php",
-"tag": "6.7\" display · Exynos 2500 · 8 GB RAM · 4900 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Qualcomm SM6475-AB Snapdragon ",
-"6 GB RAM",
-"6000 mAh"
-],
-"name": "Samsung Galaxy F70 Pro",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, August 03, released 2026, August 08)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.4 x 78.2 x 8.1 mm (6.39 x 3.08 x 0.32 in); 206 g (7.27 oz); Glass front (Gorilla Glass Victus), plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Super AMOLED, 120Hz; 6.7 inches, 110.2 cm2 (~86.8% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus"
-],
-[
-"OS",
-"Android 16, up to 6 major OS updates, One UI 8.5"
-],
-[
-"Chipset",
-"Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55); GPU Adreno 710"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF, OIS 5 MP, f/2.2, (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.2, (wide); HDR; video 1080p@30fps, HDR"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.1, A2DP, LE, ASHA"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"6000 mAh"
-],
-[
-"Charging",
-"45W wired Bypass charging"
-],
-[
-"Colors",
-"Aurora Green, Alpha Black"
-]
-],
-"slug": "samsung-galaxy-f70-pro-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_f70_pro_5g-14856.php",
-"tag": "6.7\" display · Qualcomm SM6475-AB Snapdragon  · 6 GB RAM · 6000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"8.0\" display",
-"Qualcomm SM8850-1-AD Snapdrago",
-"12 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy Z Fold8 Ultra",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, July 22, released 2026, July 22)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"Unfolded: 158.4 x 143.2 x 4.1 mmFolded: 158.4 x 72.8 x 8.9 mm; 215 g (7.58 oz); Glass front (Gorilla Glass Victus Ceramic 3) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 3000 nits (peak); 8.0 inches, 204.4 cm2 (~90.1% screen-to-body ratio); 2256 x 2504 pixels (~422 ppi density)"
-],
-[
-"OS",
-"Android 17, up to 7 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840 (1.3GHz)"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.7, 23mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS 10 MP, f/2.4, 69mm (telephoto), 1/3.94\", 1.0µm, PDAF (17cm - ∞), OIS, 3x optical zoom 50 MP, f/1.9, 120˚ (ultrawide), 1/2.51\", 0.7µm, multi-directional PDAF; LED flash, HDR, panorama; video 8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"10 MP, f/2.2, 18mm (ultrawide), 1/3.52\", 1.12µm Cover camera: 10 MP, f/2.2, 24mm (wide), 1/3.52\", 1.12µm; HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 5000 mAh"
-],
-[
-"Charging",
-"45W wired, PD3.0, QC2.0, 67% in 30 min 20W wireless (Qi2.2) 4.5W reverse wireless"
-],
-[
-"Colors",
-"Graphite, Cream, Violet Shadow"
-]
-],
-"slug": "samsung-galaxy-z-fold8-ultra-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_z_fold8_ultra_5g-14802.php",
-"tag": "8.0\" display · Qualcomm SM8850-1-AD Snapdrago · 12 GB RAM · 5000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"7.6\" display",
-"Qualcomm SM8850-1-AD Snapdrago",
-"12 GB RAM",
-"4800 mAh"
-],
-"name": "Samsung Galaxy Z Fold8",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, July 22, released 2026, July 22)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"Unfolded: 161.4 x 123.9 x 4.5 mmFolded: 81.9 x 123.9 x 9.7 mm; 201 g (7.09 oz); Glass front (Gorilla Glass Victus Ceramic 3) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 3000 nits (peak); 7.6 inches, 179.2 cm2 (~89.6% screen-to-body ratio); 2448 x 1848 pixels, 4:3 ratio (~404 ppi density)"
-],
-[
-"OS",
-"Android 17, up to 7 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840 (1.3GHz)"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, OIS 50 MP, f/1.9, 13mm, 120˚ (ultrawide), 1/2.51\", 0.7µm, multi-directional PDAF; LED flash, HDR, panorama; video 8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
-],
-[
-"Selfie Camera",
-"10 MP, f/2.2, 18mm (ultrawide), 1/3.52\", 1.12µm Cover camera: 10 MP, f/2.2, 24mm (wide), 1/3.52\", 1.12µm; HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 4800 mAh"
-],
-[
-"Charging",
-"45W wired, QC2.0, 63% in 30 min 20W wireless 4.5W reverse wireless"
-],
-[
-"Colors",
-"Graphite, Cream, Lavender, Pistachio"
-]
-],
-"slug": "samsung-galaxy-z-fold-wide-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_z_fold_wide_5g-14673.php",
-"tag": "7.6\" display · Qualcomm SM8850-1-AD Snapdrago · 12 GB RAM · 4800 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.9\" display",
-"Qualcomm SM8850-1-AD Snapdrago",
-"12 GB RAM",
-"4300 mAh"
-],
-"name": "Samsung Galaxy Z Flip8",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, July 22, released 2026, July 22)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"Unfolded: 166.9 x 75.4 x 6.1 mmFolded: 85.7 x 75.4 x 13.1 mm; 180 g (6.35 oz); Plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 3000 nits (peak); 6.9 inches, 109.6 cm2 (~87.1% screen-to-body ratio); 1080 x 2520 pixels, 21:9 ratio (~400 ppi density)"
-],
-[
-"OS",
-"Android 17, up to 7 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm) - US/CA/CNExynos 2600 (2 nm) - ROW; CPU Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M) - US/CA/CN10-core (1x3.80GHz C1-Ultra & 3x3.25GHz C1-Pro & 6x2.75GHz C1-Pro) - ROW; GPU Adreno 840 (1.3GHz) - US/CA/CNXclipse 960 - ROW"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, OIS 12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.2\", 1.12µm; LED flash, HDR, panorama; video 4K@30/60fps, 1080p@60/120/240fps, HDR10+"
-],
-[
-"Selfie Camera",
-"10 MP, f/2.2, 23mm (wide), 1/3.52\", 1.12µm; HDR; video 4K@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG"
-],
-[
-"Battery",
-"Si/C Li-Ion 4300 mAh"
-],
-[
-"Charging",
-"25W wired, QC2.0, 55% in 30 min 15W wireless 4.5W reverse wireless"
-],
-[
-"Colors",
-"Graphite, Cream, Pink, Mint"
-]
-],
-"slug": "samsung-galaxy-z-flip8-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_z_flip8_5g-14803.php",
-"tag": "6.9\" display · Qualcomm SM8850-1-AD Snapdrago · 12 GB RAM · 4300 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Qualcomm SM6475-AB Snapdragon ",
-"6 GB RAM",
-"6000 mAh"
-],
-"name": "Samsung Galaxy M47",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, June 29, released 2026, July 04)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.4 x 78.2 x 8.1 mm (6.39 x 3.08 x 0.32 in); 206 g (7.27 oz); Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Super AMOLED, 120Hz; 6.7 inches, 110.2 cm2 (~86.8% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
-],
-[
-"OS",
-"Android 16, up to 6 major OS updates, One UI 8.5"
-],
-[
-"Chipset",
-"Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55); GPU Adreno 710"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF, OIS 5 MP, f/2.2, (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.2, (wide); video 1080p@30fps, HDR"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.1, A2DP, LE, ASHA"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"Unspecified"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"6000 mAh"
-],
-[
-"Charging",
-"45W wired Bypass charging"
-],
-[
-"Colors",
-"Blaze Blue, Rogue Red"
-]
-],
-"slug": "samsung-galaxy-m47-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_m47_5g-14749.php",
-"tag": "6.7\" display · Qualcomm SM6475-AB Snapdragon  · 6 GB RAM · 6000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Qualcomm SM6475-AB Snapdragon ",
-"6 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy A27",
-"price": 109995,
-"price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a27-fiveg",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, June 10, released 2026, July 03)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.4 x 78.2 x 7.8 mm (6.39 x 3.08 x 0.31 in); 200 g (7.05 oz); Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+); Nano-SIM + eSIM Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Super AMOLED, 120Hz; 6.7 inches, 110.2 cm2 (~86.8% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
-],
-[
-"OS",
-"Android 16, upgradable to Android 17, up to 6 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55); GPU Adreno 710"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 27mm (wide), 1/2.76\", 0.64µm, PDAF, OIS 5 MP, f/2.2, 16mm (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30fps, 720p@480fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.2, 25mm (wide), 1/3.2\", 1.12µm; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.1, A2DP, LE, ASHA"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"25W wired, 45% in 30 min"
-],
-[
-"Colors",
-"Black, Blue, Light Green, Light Pink"
-]
-],
-"slug": "samsung-galaxy-a27-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_a27_5g-14606.php",
-"tag": "6.7\" display · Qualcomm SM6475-AB Snapdragon  · 6 GB RAM · 5000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Exynos 1680",
-"8 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy A57",
-"price": 165495,
-"price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a57-5g",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, March 25, released 2026, April 9)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"161.5 x 76.8 x 6.9 mm (6.36 x 3.02 x 0.27 in); 179 g (6.31 oz); Glass front (Gorilla Glass Victus+), aluminum frame, glass back (Gorilla Glass Victus+); Nano-SIM + eSIM Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"Super AMOLED+, 120Hz, HDR10+, 1200 nits (HBM), 1900 nits (peak); 6.7 inches, 110.2 cm2 (~88.8% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
-],
-[
-"OS",
-"Android 16, up to 6 major OS updates, One UI 8.5"
-],
-[
-"Chipset",
-"Exynos 1680 (4 nm); CPU Octa-core (1x2.9 GHz Cortex-720 & 4x2.6 GHz Cortex-720 & 3x1.95 GHz Cortex-520); GPU Xclipse 550"
-],
-[
-"RAM",
-"8 GB / 12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/1.56\", 1.0µm, PDAF, OIS 12 MP, f/2.2, 13mm (ultrawide), 1/3.06\", 1.12µm 5 MP, f/2.4, (macro); Best Face, LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.2, (wide), 1/3.2\", 1.12µm; video 4K@30fps, 1080p@30fps, 10-bit HDR"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"45W wired"
-],
-[
-"Colors",
-"Navy, Gray, Icyblue, Lilac"
-]
-],
-"slug": "samsung-galaxy-a57-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_a57_5g-14379.php",
-"tag": "6.7\" display · Exynos 1680 · 8 GB RAM · 5000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Exynos 1480",
-"6 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy A37",
-"price": 131495,
-"price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a37-5g",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, March 25, released 2026, April 9)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"162.9 x 78.2 x 7.4 mm (6.41 x 3.08 x 0.29 in); 196 g (6.91 oz); Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+); Nano-SIM + eSIM Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
-],
-[
-"Display",
-"Super AMOLED, 120Hz, 1200 nits (HBM), 1900 nits (peak); 6.7 inches, 110.2 cm2 (~86.5% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
-],
-[
-"OS",
-"Android 16, upgradable to Android 17, up to 6 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Exynos 1480 (4 nm); CPU Octa-core (4x2.75 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Xclipse 530"
-],
-[
-"RAM",
-"6 GB / 8 GB / 12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 16mm (ultrawide), 1/4.0\", 1.12µm 5 MP, f/2.4, (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.2, (wide), 1/3.2\", 1.12µm; video 4K@30fps, 1080p@30fps, 10-bit HDR"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"45W wired"
-],
-[
-"Colors",
-"Graygreen, Charkoal, White, Light Violet"
-]
-],
-"slug": "samsung-galaxy-a37-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_a37_5g-14378.php",
-"tag": "6.7\" display · Exynos 1480 · 6 GB RAM · 5000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Mediatek Dimensity 6300",
-"4 GB RAM",
-"6000 mAh"
-],
-"name": "Samsung Galaxy M17e",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, March 17, released 2026, March 17)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"167.4 x 77.4 x 8.2 mm (6.59 x 3.05 x 0.32 in); 199 g (7.02 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"PLS LCD, 120Hz, 650 nits (typ), 800 nits (HBM); 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
-],
-[
-"OS",
-"Android 16, up to 6 major OS updates, One UI 8"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB / 6 GB"
-],
-[
-"Storage",
-"128 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash; video 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, 26mm (wide), 1/4.0\", 1.12µm; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Li-Ion 6000 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Blitz Blue, Vibe Violet"
-]
-],
-"slug": "samsung-galaxy-m17e-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_m17e_5g-14534.php",
-"tag": "6.7\" display · Mediatek Dimensity 6300 · 4 GB RAM · 6000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.9\" display",
-"Qualcomm SM8850-1-AD Snapdrago",
-"12 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy S26 Ultra",
-"price": 387495,
-"price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-s26-ultra",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, February 25, released 2026, March 06)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"163.6 x 78.1 x 7.9 mm (6.44 x 3.07 x 0.31 in); 214 g (7.55 oz); Glass front (Corning Gorilla Armor 2), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT Nano-SIM + eSIM + eSIM (max 2 at a time) - USA Nano-SIM + Nano-SIM - CN"
-],
-[
-"Display",
-"Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.9 inches, 115.9 cm2 (~90.7% screen-to-body ratio); 1440 x 3120 pixels, 19.5:9 ratio (~500 ppi density); Corning Gorilla Armor 2"
-],
-[
-"OS",
-"Android 16, upgradable to Android 17, One UI 9, up to 7 major OS updates"
-],
-[
-"Chipset",
-"Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840 (1.3GHz)"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.4, 23mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94\", 1.0µm, PDAF, OIS, 3x optical zoom 50 MP, f/2.9, 111mm (periscope telephoto), 1/2.52\", 0.7µm, PDAF, OIS, 5x optical zoom 50 MP, f/1.9, 120˚ (ultrawide), 1/2.5\", 0.7µm, dual pixel PDAF, Super Steady video; Laser AF, Best Face, Horizon Lock, LED flash, auto-HDR, panorama; video 8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.2, 23mm (wide), 1/3.2\", 1.12µm, dual pixel PDAF; HDR, HDR10+; video 4K@30/60fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, BDS, GALILEO, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, DisplayPort 1.2, OTG"
-],
-[
-"Battery",
-"Li-Ion 5000 mAh"
-],
-[
-"Charging",
-"60W wired, PD3.0, 75% in 30 min 25W wireless (Qi2.2) 4.5W reverse wireless"
-],
-[
-"Colors",
-"Cobalt Violet, Sky Blue, Black, White, Silver Shadow, Pink Gold"
-]
-],
-"slug": "samsung-galaxy-s26-ultra-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_s26_ultra_5g-14320.php",
-"tag": "6.9\" display · Qualcomm SM8850-1-AD Snapdrago · 12 GB RAM · 5000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Qualcomm SM8850-1-AD Snapdrago",
-"12 GB RAM",
-"4900 mAh"
-],
-"name": "Samsung Galaxy S26+",
-"price": 330495,
-"price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-s26-plus",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, February 25, released 2026, March 06)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"158.4 x 75.8 x 7.3 mm (6.24 x 2.98 x 0.29 in); 190 g (6.70 oz); Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT Nano-SIM + eSIM + eSIM (max 2 at a time) - USA Nano-SIM + Nano-SIM - CN"
-],
-[
-"Display",
-"Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.7 inches, 108.9 cm2 (~90.7% screen-to-body ratio); 1440 x 3120 pixels, 19.5:9 ratio (~516 ppi density); Corning Gorilla Glass Victus 2"
-],
-[
-"OS",
-"Android 16, upgradable to Android 17, up to 7 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm) - US/CA/CNExynos 2600 (2 nm) - ROW; CPU Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M) - US/CA/CN10-core (1x3.80GHz C1-Ultra & 3x3.25GHz C1-Pro & 6x2.75GHz C1-Pro) - ROW; GPU Adreno 840 (1.3GHz) - US/CA/CNXclipse 960 - ROW"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\" 1.4µm, Super Steady video; Best Face, Horizon Lock, LED flash, auto-HDR, panorama; video 8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.2, 23mm (wide), 1/3.2\", 1.12µm, dual pixel PDAF; HDR, HDR10+; video 4K@30/60fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, BDS, GALILEO, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, DisplayPort 1.2, OTG"
-],
-[
-"Battery",
-"Li-Ion 4900 mAh"
-],
-[
-"Charging",
-"45W wired, PD3.0, 69% in 30 min 20W wireless (Qi2.2) 4.5W reverse wireless"
-],
-[
-"Colors",
-"Cobalt Violet, Sky Blue, Black, White, Silver Shadow, Pink Gold"
-]
-],
-"slug": "samsung-galaxy-s26+-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_s26+_5g-14457.php",
-"tag": "6.7\" display · Qualcomm SM8850-1-AD Snapdrago · 12 GB RAM · 4900 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.3\" display",
-"Qualcomm SM8850-1-AD Snapdrago",
-"12 GB RAM",
-"4300 mAh"
-],
-"name": "Samsung Galaxy S26",
-"price": 284500,
-"price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-s26",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, February 25, released 2026, March 06)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"149.6 x 71.7 x 7.2 mm (5.89 x 2.82 x 0.28 in); 167 g (5.89 oz); Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT Nano-SIM + eSIM + eSIM (max 2 at a time) - USA Nano-SIM + Nano-SIM - CN"
-],
-[
-"Display",
-"Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.3 inches, 96.5 cm2 (~90.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~411 ppi density); Corning Gorilla Glass Victus 2"
-],
-[
-"OS",
-"Android 16, upgradable to Android 17, up to 7 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm) - US/CA/CNExynos 2600 (2 nm) - ROW; CPU Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M) - US/CA/CN10-core (1x3.80GHz C1-Ultra & 3x3.25GHz C1-Pro & 6x2.75GHz C1-Pro) - ROW; GPU Adreno 840 (1.3GHz) - US/CA/CNXclipse 960 - ROW"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\" 1.4µm, Super Steady video; Best Face, Horizon Lock, LED flash, auto-HDR, panorama; video 8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.2, 23mm (wide), 1/3.2\", 1.12µm, dual pixel PDAF; HDR; video 4K@30/60fps, 1080p@30fps, HDR10+"
-],
-[
-"Sensors",
-"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, BDS, GALILEO, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, DisplayPort 1.2, OTG"
-],
-[
-"Battery",
-"Li-Ion 4300 mAh"
-],
-[
-"Charging",
-"25W wired, PD3.0, 55% in 30 min 15W wireless (Qi2 Ready) 4.5W reverse wireless"
-],
-[
-"Colors",
-"Cobalt Violet, Sky Blue, Black, White, Silver Shadow, Pink Gold"
-]
-],
-"slug": "samsung-galaxy-s26-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_s26_5g-14456.php",
-"tag": "6.3\" display · Qualcomm SM8850-1-AD Snapdrago · 12 GB RAM · 4300 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Mediatek Dimensity 6300",
-"4 GB RAM",
-"6000 mAh"
-],
-"name": "Samsung Galaxy F70e",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, February 09, released 2026, February 17)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"167.4 x 77.4 x 8.2 mm (6.59 x 3.05 x 0.32 in); 199 g (7.02 oz); Glass front, plastic frame, silicone polymer back (eco leather); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"PLS LCD, 120Hz, 650 nits (typ), 800 nits (HBM); 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
-],
-[
-"OS",
-"Android 16, up to 6 major OS updates, One UI 8"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB / 6 GB"
-],
-[
-"Storage",
-"128 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash; video 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, 26mm (wide), 1/4.0\", 1.12µm; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Li-Ion 6000 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Limelight Green, Spotlight Blue"
-]
-],
-"slug": "samsung-galaxy-f70e-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_f70e_5g-14459.php",
-"tag": "6.7\" display · Mediatek Dimensity 6300 · 4 GB RAM · 6000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Mediatek Dimensity 6300",
-"4 GB RAM",
-"6000 mAh"
-],
-"name": "Samsung Galaxy A07 5G",
-"price": 51999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, January 13, released 2026, January 13)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"167.4 x 77.4 x 8.2 mm (6.59 x 3.05 x 0.32 in); 199 g (7.02 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"PLS LCD, 120Hz, 650 nits (typ), 800 nits (HBM); 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
-],
-[
-"OS",
-"Android 16, up to 6 major OS updates, One UI 8"
-],
-[
-"Chipset",
-"Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB / 6 GB"
-],
-[
-"Storage",
-"64 GB / 128 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash; video 1080p@30/60fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, 26mm (wide), 1/4.0\", 1.12µm; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Li-Ion 6000 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Black, Light Violet"
-]
-],
-"slug": "samsung-galaxy-a07-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_a07_5g-14409.php",
-"tag": "6.7\" display · Mediatek Dimensity 6300 · 4 GB RAM · 6000 mAh",
-"year": 2026
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"10.0\" display",
-"Qualcomm SM8750-AC Snapdragon ",
-"16 GB RAM",
-"5600 mAh"
-],
-"name": "Samsung Galaxy Z TriFold",
-"price": 898999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, December 02. Released 2025, December 12)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"Unfolded: 159.2 x 214.1 x 3.9-4.2 mmFolded: 159.2 x 75 x 12.9 mm; 309 g (10.90 oz); Glass front (Gorilla Glass Victus Ceramic 2) (folded), plastic front (unfolded), ceramic-glass fiber-reinforced polymer back, aluminum frame, titanium hinge housing; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM + multiple eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Tri-foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR, 1600 nits (peak); 10.0 inches, 305.4 cm2 (~89.6% screen-to-body ratio); 1584 x 2160 pixels, 4:3 ratio (~269 ppi density)"
-],
-[
-"OS",
-"Android 16, One UI 8.5"
-],
-[
-"Chipset",
-"Qualcomm SM8750-AC Snapdragon 8 Elite (3 nm); CPU Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); GPU Adreno 830 (1200 MHz)"
-],
-[
-"RAM",
-"16 GB"
-],
-[
-"Storage",
-"512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.7, 24mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 1.4µm, dual pixel PDAF; LED flash, HDR, panorama; video 8K@30fps, 4K@60fps, 1080p@60/120/240fps (gyro-EIS), 10-bit HDR, HDR10+"
-],
-[
-"Selfie Camera",
-"10 MP, f/2.2, 18mm (ultrawide), 1/3.0\", 1.12µm Cover camera: 10 MP, f/2.2, 24mm (wide), 1/3.0\", 1.12µm; HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD, ASHA"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2"
-],
-[
-"Battery",
-"Li-Ion 5600 mAh"
-],
-[
-"Charging",
-"45W wired, QC2.0, 50% in 30 min 15W wireless 4.5W reverse wireless"
-],
-[
-"Colors",
-"Crafted Black"
-]
-],
-"slug": "samsung-galaxy-z-trifold-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_z_trifold_5g-14292.php",
-"tag": "10.0\" display · Qualcomm SM8750-AC Snapdragon  · 16 GB RAM · 5600 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Mediatek Helio G99",
-"4 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy F07",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, October 04, released 2025, October 04)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"167.4 x 77.4 x 7.6 mm (6.59 x 3.05 x 0.30 in); 184 g (6.49 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"PLS LCD, 90Hz; 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
-],
-[
-"OS",
-"Android 15, up to 6 major OS updates, One UI 7"
-],
-[
-"Chipset",
-"Mediatek Helio G99 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF Auxiliary lens; LED flash; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, (wide), 1/4.0\", 1.12µm; video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Green"
-]
-],
-"slug": "samsung-galaxy-f07",
-"source": "https://www.gsmarena.com/samsung_galaxy_f07-14205.php",
-"tag": "6.7\" display · Mediatek Helio G99 · 4 GB RAM · 5000 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Mediatek Helio G99",
-"4 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy M07",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, October 01, released 2025, October 01)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"167.4 x 77.4 x 7.6 mm (6.59 x 3.05 x 0.30 in); 184 g (6.49 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"PLS LCD, 90Hz; 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
-],
-[
-"OS",
-"Android 15, up to 6 major OS updates, One UI 7"
-],
-[
-"Chipset",
-"Mediatek Helio G99 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB"
-],
-[
-"Storage",
-"64 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF Auxiliary lens; LED flash; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"8 MP, f/2.0, (wide), 1/4.0\", 1.12µm; video Yes"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, proximity"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"FM radio"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Black"
-]
-],
-"slug": "samsung-galaxy-m07",
-"source": "https://www.gsmarena.com/samsung_galaxy_m07-14100.php",
-"tag": "6.7\" display · Mediatek Helio G99 · 4 GB RAM · 5000 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Mediatek Helio G99",
-"4 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy A17 4G",
-"price": 62995,
-"price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a17",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, September 18, released 2025, September 18)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"164.4 x 77.9 x 7.5 mm (6.47 x 3.07 x 0.30 in); 190 g (6.70 oz); Glass front (Gorilla Glass Victus+), plastic back, plastic frame; Nano-SIM Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Super AMOLED, 90Hz; 6.7 inches, 110.2 cm2 (~86.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
-],
-[
-"OS",
-"Android 15, up to 6 major OS updates, One UI 7"
-],
-[
-"Chipset",
-"Mediatek Helio G99 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB / 6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, AF, OIS 5 MP, f/2.2, (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"13 MP, f/2.0, (wide), 1/3.1\", 1.12µm; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"FM radio (market/region dependent)"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Black, Gray, Light blue"
-]
-],
-"slug": "samsung-galaxy-a17",
-"source": "https://www.gsmarena.com/samsung_galaxy_a17-14157.php",
-"tag": "6.7\" display · Mediatek Helio G99 · 4 GB RAM · 5000 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Tablets",
-"hl": [
-"11.0\" display",
-"Mediatek Dimensity 7300",
-"6 GB RAM",
-"7040 mAh"
-],
-"name": "Samsung Galaxy Tab A11+",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, September 29, released 2025, November 02)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"257.1 x 168.7 x 6.9 mm (10.12 x 6.64 x 0.27 in); 477 g or 482 g (1.05 lb); Nano-SIM + eSIM (cellular model only)"
-],
-[
-"Display",
-"TFT LCD, 90Hz; 11.0 inches, 350.9 cm2 (~80.9% screen-to-body ratio); 1200 x 1920 pixels, 16:10 ratio (~206 ppi density)"
-],
-[
-"OS",
-"Android 16, up to 7 major OS updates, One UI 8"
-],
-[
-"Chipset",
-"Mediatek Dimensity 7300 (4 nm)Mediatek MT8775 - USA; CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"8 MP, AF; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"5 MP; video 1080p@30fps"
-],
-[
-"Sensors",
-"Accelerometer, gyro, proximity (accessories only), compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers, Dolby Atmos (4 speakers)"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS, QZSS - cellular model only"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Li-Po 7040 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Gray, Silver"
-]
-],
-"slug": "samsung-galaxy-tab-a11+",
-"source": "https://www.gsmarena.com/samsung_galaxy_tab_a11+-14192.php",
-"tag": "11.0\" display · Mediatek Dimensity 7300 · 6 GB RAM · 7040 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Tablets",
-"hl": [
-"8.7\" display",
-"Mediatek Helio G99",
-"4 GB RAM",
-"5100 mAh"
-],
-"name": "Samsung Galaxy Tab A11",
-"price": 55999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, September 12, released 2025, September)"
-],
-[
-"Network",
-"GSM / HSPA / LTE"
-],
-[
-"Body",
-"211 x 124.7 x 8 mm (8.31 x 4.91 x 0.31 in); 335 g or 337 g (11.82 oz); Nano-SIM (cellular model only)"
-],
-[
-"Display",
-"TFT LCD, 90Hz; 8.7 inches, 214.9 cm2 (~81.7% screen-to-body ratio); 800 x 1340 pixels, 5:3 ratio (~179 ppi density)"
-],
-[
-"OS",
-"Android 15, upgradable to Android 16, One UI 8, up to 7 major OS updates"
-],
-[
-"Chipset",
-"Mediatek Helio G99 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-],
-[
-"RAM",
-"4 GB / 6 GB / 8 GB"
-],
-[
-"Storage",
-"64 GB / 128 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"8 MP, AF; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"5 MP; video Yes"
-],
-[
-"Sensors",
-"Accelerometer, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (with Dolby Atmos)"
-],
-[
-"3.5mm Jack",
-"Yes"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, BDS, GALILEO, QZSS - cellular model only"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"5100 mAh"
-],
-[
-"Charging",
-"15W wired"
-],
-[
-"Colors",
-"Gray, Silver"
-]
-],
-"slug": "samsung-galaxy-tab-a11",
-"source": "https://www.gsmarena.com/samsung_galaxy_tab_a11-14141.php",
-"tag": "8.7\" display · Mediatek Helio G99 · 4 GB RAM · 5100 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Exynos 1330",
-"4 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy F17",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, September 11, released 2025, September 14)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"164.4 x 77.9 x 7.5 mm (6.47 x 3.07 x 0.30 in); 192 g (6.77 oz); Glass front (Gorilla Glass Victus), plastic frame, glass-fiber reinforced plastic back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Super AMOLED, 90Hz, 1100 nits (HBM); 6.7 inches, 110.2 cm2 (~86.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus"
-],
-[
-"OS",
-"Android 15, up to 6 major OS updates, One UI 8.5"
-],
-[
-"Chipset",
-"Exynos 1330 (5 nm); CPU Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU Mali-G68 MP2"
-],
-[
-"RAM",
-"4 GB / 6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, AF, OIS 5 MP, f/2.2, (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 1080p@30fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"13 MP, f/2.0, (wide), 1/3.1\", 1.12µm; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"Li-Ion 5000 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Black, Violet"
-]
-],
-"slug": "samsung-galaxy-f17-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_f17_5g-14107.php",
-"tag": "6.7\" display · Exynos 1330 · 4 GB RAM · 5000 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Exynos 2400",
-"8 GB RAM",
-"4900 mAh"
-],
-"name": "Samsung Galaxy S25 FE",
-"price": 189999,
-"price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-s25-fe",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, September 04, released 2025, September 04)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"161.3 x 76.6 x 7.4 mm (6.35 x 3.02 x 0.29 in); 190 g (6.70 oz); Glass front (Gorilla Glass Victus+), glass back (Gorilla Glass Victus+), aluminum frame; Nano-SIM Nano-SIM + Nano-SIM Nano-SIM + eSIM eSIM + eSIM"
-],
-[
-"Display",
-"Dynamic AMOLED 2X, 120Hz, HDR10+, 1900 nits (peak); 6.7 inches, 110.2 cm2 (~89.2% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
-],
-[
-"OS",
-"Android 16, upgradable to Android 17, up to 7 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Exynos 2400 (4 nm); CPU 10-core (1x3.2GHz Cortex-X4 & 2x2.9GHz Cortex-A720 & 3x2.6GHz Cortex-A720 & 4x1.95GHz Cortex-A520); GPU Xclipse 940"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 24mm (wide), 1/1.57\", 1.0µm, dual pixel PDAF, OIS 8 MP, f/2.4, 75mm (telephoto), 1/4.4\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.0\", 1.12µm; LED flash, HDR, panorama, Best Face; video 8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps; gyro-EIS, HDR10+"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.2, 26mm (wide), 1/3.2\", 1.12µm; HDR; video 4K@30/60fps, 1080p@30/60fps; gyro-EIS, HDR10+"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band (market/region dependent), Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, GALILEO, BDS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG"
-],
-[
-"Battery",
-"4900 mAh"
-],
-[
-"Charging",
-"45W wired, PD, QC2, 65% in 30 min 15W wireless, Qi2 compatible Reverse wireless"
-],
-[
-"Colors",
-"Icyblue, Jetblack, Navy, White"
-]
-],
-"slug": "samsung-galaxy-s25-fe-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_s25_fe_5g-14042.php",
-"tag": "6.7\" display · Exynos 2400 · 8 GB RAM · 4900 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Tablets",
-"hl": [
-"14.6\" display",
-"Mediatek Dimensity 9400+",
-"12 GB RAM",
-"11600 mAh"
-],
-"name": "Samsung Galaxy Tab S11 Ultra",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, September 04, released 2025, September 04)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"326.3 x 208.5 x 5.1 mm (12.85 x 8.21 x 0.20 in); 692 g or 695 g (1.53 lb); Glass front, aluminum frame, aluminum back; Nano-SIM + eSIM (cellular model only)"
-],
-[
-"Display",
-"Dynamic AMOLED 2X, 120Hz, HDR10+, 1000 nits (typ), 1600 nits (peak); 14.6 inches, 617.8 cm2 (~90.8% screen-to-body ratio); 1848 x 2960 pixels, 16:10 ratio (~239 ppi density)"
-],
-[
-"OS",
-"Android 16, One UI 8.5"
-],
-[
-"Chipset",
-"Mediatek Dimensity 9400+ (3 nm); CPU Octa-core (1x3.63 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720); GPU Immortalis-G925"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB / 1 TB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"13 MP, f/2.0, 26mm (wide), 1/3.4\", 1.0µm, AF 8 MP, f/2.2, (ultrawide); LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.4, 120˚ (ultrawide); HDR; video 4K@30fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (4 speakers)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, BDS, GALILEO"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, magnetic connector"
-],
-[
-"Battery",
-"Li-Po 11600 mAh"
-],
-[
-"Charging",
-"45W wired"
-],
-[
-"Colors",
-"Moonstone Gray, Platinum Silver"
-]
-],
-"slug": "samsung-galaxy-tab-s11-ultra-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_tab_s11_ultra_5g-14057.php",
-"tag": "14.6\" display · Mediatek Dimensity 9400+ · 12 GB RAM · 11600 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Tablets",
-"hl": [
-"11.0\" display",
-"Mediatek Dimensity 9400+",
-"12 GB RAM",
-"8400 mAh"
-],
-"name": "Samsung Galaxy Tab S11",
-"price": 247999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, September 04, released 2025, September 04)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"253.8 x 165.3 x 5.5 mm (9.99 x 6.51 x 0.22 in); 469 g or 471 g (1.03 lb); Glass front, aluminum frame, aluminum back; Nano-SIM + eSIM (cellular model only)"
-],
-[
-"Display",
-"Dynamic AMOLED 2X, 120Hz, HDR10+, 1000 nits (typ), 1600 nits (peak); 11.0 inches, 350.9 cm2 (~83.6% screen-to-body ratio); 1600 x 2560 pixels, 16:10 ratio (~274 ppi density)"
-],
-[
-"OS",
-"Android 16, One UI 8.5"
-],
-[
-"Chipset",
-"Mediatek Dimensity 9400+ (3 nm); CPU Octa-core (1x3.63 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720); GPU Immortalis-G925"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB / 512 GB / 2 TB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"13 MP, f/2.0, 26mm (wide), 1/3.4\", 1.0µm, AF; LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps"
-],
-[
-"Selfie Camera",
-"12 MP, f/2.4, 120˚ (ultrawide); HDR; video 4K@30fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers (4 speakers)"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GLONASS, BDS, GALILEO - cellular model only"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, magnetic connector"
-],
-[
-"Battery",
-"Li-Po 8400 mAh"
-],
-[
-"Charging",
-"45W wired"
-],
-[
-"Colors",
-"Moonstone Gray, Platinum Silver"
-]
-],
-"slug": "samsung-galaxy-tab-s11-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_tab_s11_5g-14058.php",
-"tag": "11.0\" display · Mediatek Dimensity 9400+ · 12 GB RAM · 8400 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Tablets",
-"hl": [
-"10.9\" display",
-"Exynos 1380",
-"6 GB RAM",
-"8000 mAh"
-],
-"name": "Samsung Galaxy Tab S10 Lite",
-"price": 107999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, August 25, released 2025, August 25)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"254.3 x 165.8 x 6.6 mm (10.01 x 6.53 x 0.26 in); 524 g (1.16 lb); Glass front, aluminum back, aluminum frame; Nano-SIM + eSIM (cellular model only)"
-],
-[
-"Display",
-"TFT LCD, 90Hz; 10.9 inches, 344.5 cm2 (~81.7% screen-to-body ratio); 1320 x 2112 pixels, 16:10 ratio (~228 ppi density)"
-],
-[
-"OS",
-"Android 15, up to 7 major OS updates, One UI 7"
-],
-[
-"Chipset",
-"Exynos 1380 (5 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G68 MP5"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (dedicated slot)"
-],
-[
-"Main Camera",
-"8 MP, (wide), AF; video 1080p@30fps"
-],
-[
-"Selfie Camera",
-"5 MP, (wide); video 1080p@30fps"
-],
-[
-"Sensors",
-"Accelerometer, gyro, proximity (accessories only), compass (cellular model only)"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS - cellular model only"
-],
-[
-"NFC",
-"No"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"Li-Po 8000 mAh"
-],
-[
-"Charging",
-"25W wired, 100% in 120 min"
-],
-[
-"Colors",
-"Gray, Silver, Coral Red"
-]
-],
-"slug": "samsung-galaxy-tab-s10-lite-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_tab_s10_lite_5g-14059.php",
-"tag": "10.9\" display · Exynos 1380 · 6 GB RAM · 8000 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Exynos 1330",
-"4 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy A17",
-"price": 62995,
-"price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a17",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, August 06, released 2025, August 14)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"164.4 x 77.9 x 7.5 mm (6.47 x 3.07 x 0.30 in); 192 g (6.77 oz); Glass front (Gorilla Glass Victus), plastic frame, glass-fiber reinforced plastic back; Nano-SIM Nano-SIM + eSIM Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Super AMOLED, 90Hz, 800 nits (HBM); 6.7 inches, 110.2 cm2 (~86.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus"
-],
-[
-"OS",
-"Android 15, up to 6 major OS updates, One UI 8.5"
-],
-[
-"Chipset",
-"Exynos 1330 (5 nm); CPU Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU Mali-G68 MP2"
-],
-[
-"RAM",
-"4 GB / 6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, AF, OIS 5 MP, f/2.2, (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 1080p@30fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"13 MP, f/2.0, (wide), 1/3.1\", 1.12µm; video 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes (market/region dependent)"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Black, Gray, Blue"
-]
-],
-"slug": "samsung-galaxy-a17-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_a17_5g-14041.php",
-"tag": "6.7\" display · Exynos 1330 · 4 GB RAM · 5000 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Exynos 1380",
-"6 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy F36",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, July 21, released 2025, July 29)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"164.4 x 77.9 x 7.7 mm (6.47 x 3.07 x 0.30 in); 197 g (6.95 oz); Glass front (Gorilla Glass Victus+), plastic frame, silicone polymer back (eco leather); Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Super AMOLED, 120Hz; 6.7 inches, 109.1 cm2 (~85.2% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~387 ppi density); Corning Gorilla Glass Victus+"
-],
-[
-"OS",
-"Android 15, up to 6 major OS updates, One UI 7"
-],
-[
-"Chipset",
-"Exynos 1380 (5 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G68 MP5"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/1.96\", PDAF, OIS 8 MP, f/2.2, 123˚, (ultrawide), 1/4.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, 720p@480fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"13 MP, f/2.2, (wide), 1/3.06\", 1.12µm; HDR; video 4K@30fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Luxe Violet, Coral Red, Onyx Black"
-]
-],
-"slug": "samsung-galaxy-f36-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_f36_5g-14009.php",
-"tag": "6.7\" display · Exynos 1380 · 6 GB RAM · 5000 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"8.0\" display",
-"Qualcomm SM8750-AC Snapdragon ",
-"12 GB RAM",
-"4400 mAh"
-],
-"name": "Samsung Galaxy Z Fold7",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, July 09, released 2025, July 25)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"Unfolded: 158.4 x 143.2 x 4.2 mmFolded: 158.4 x 72.8 x 8.9 mm; 215 g (7.58 oz); Glass front (Gorilla Glass Victus Ceramic 2) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM + multiple eSIM (max 2 at a time)"
-],
-[
-"Display",
-"Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 8.0 inches, 204.2 cm2 (~90.0% screen-to-body ratio); 1968 x 2184 pixels (~368 ppi density)"
-],
-[
-"OS",
-"Android 16, upgradable to Android 17, up to 7 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Qualcomm SM8750-AC Snapdragon 8 Elite (3 nm); CPU Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); GPU Adreno 830 (1200 MHz)"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; No"
-],
-[
-"Main Camera",
-"200 MP, f/1.7, 24mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 1.4µm, dual pixel PDAF; LED flash, HDR, panorama; video 8K@30fps, 4K@60fps, 1080p@60/120/240fps (gyro-EIS), 10-bit HDR, HDR10+"
-],
-[
-"Selfie Camera",
-"10 MP, f/2.2, 18mm (ultrawide), 1/3.0\", 1.12µm Cover camera: 10 MP, f/2.2, 24mm (wide), 1/3.0\", 1.12µm; HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE, aptX HD"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG"
-],
-[
-"Battery",
-"Li-Po 4400 mAh"
-],
-[
-"Charging",
-"25W wired, QC2.0, 50% in 30 min 15W wireless 4.5W reverse wireless"
-],
-[
-"Colors",
-"Blue Shadow, Silver Shadow, Jet Black, Mint"
-]
-],
-"slug": "samsung-galaxy-z-fold7",
-"source": "https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php",
-"tag": "8.0\" display · Qualcomm SM8750-AC Snapdragon  · 12 GB RAM · 4400 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.9\" display",
-"Exynos 2500",
-"12 GB RAM",
-"4300 mAh"
-],
-"name": "Samsung Galaxy Z Flip7",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, July 09, released 2025, July 25)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"Unfolded: 166.7 x 75.2 x 6.5 mmFolded: 85.5 x 75.2 x 13.7 mm; 188 g (6.63 oz); Plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time) Nano-SIM + multiple eSIM (max 2 at a time)"
-],
-[
-"Display",
-"Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.9 inches, 111.2 cm2 (~88.7% screen-to-body ratio); 1080 x 2520 pixels, 21:9 ratio (~397 ppi density)"
-],
-[
-"OS",
-"Android 16, upgradable to Android 17, up to 7 major OS updates, One UI 9"
-],
-[
-"Chipset",
-"Exynos 2500 (3 nm); CPU 10-core (1x3.3GHz Cortex-X925 & 2x2.74GHz Cortex-A725 & 5x2.36GHz Cortex-A725 & 2x1.8GHz Cortex-A520); GPU Xclipse 950"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 23mm (wide), 1/1.57\", 1.0µm, dual pixel PDAF, OIS 12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.2\", 1.12µm; LED flash, HDR, panorama; video 4K@30/60fps, 1080p@60/120/240fps, HDR10+"
-],
-[
-"Selfie Camera",
-"10 MP, f/2.2, 23mm (wide), 1/3.0\", 1.22µm; HDR; video 4K@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2, OTG"
-],
-[
-"Battery",
-"4300 mAh"
-],
-[
-"Charging",
-"25W wired, QC2.0, 50% in 30 min 15W wireless 4.5W reverse wireless"
-],
-[
-"Colors",
-"Blue Shadow, Jet Black, Coral Red, Mint"
-]
-],
-"slug": "samsung-galaxy-z-flip7",
-"source": "https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php",
-"tag": "6.9\" display · Exynos 2500 · 12 GB RAM · 4300 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Exynos 2400",
-"8 GB RAM",
-"4000 mAh"
-],
-"name": "Samsung Galaxy Z Flip7 FE",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, July 09, released 2025, July 25)"
-],
-[
-"Network",
-"GSM / CDMA / HSPA / EVDO / LTE / 5G"
-],
-[
-"Body",
-"Unfolded: 165.1 x 71.9 x 6.9 mmFolded: 85.1 x 71.9 x 14.9 mm; 187 g (6.60 oz); Plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time) Nano-SIM + multiple eSIM (max 2 at a time)"
-],
-[
-"Display",
-"Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.7 inches, 101.5 cm2 (~85.5% screen-to-body ratio); 1080 x 2640 pixels (~426 ppi density)"
-],
-[
-"OS",
-"Android 16, up to 7 major OS updates, One UI 8"
-],
-[
-"Chipset",
-"Exynos 2400 (4 nm); CPU 10-core (1x3.2GHz Cortex-X4 & 2x2.9GHz Cortex-A720 & 3x2.6GHz Cortex-A720 & 4x1.95GHz Cortex-A520); GPU Xclipse 940"
-],
-[
-"RAM",
-"8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; No"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, 23mm (wide), 1/1.57\", 1.0µm, dual pixel PDAF, OIS 12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.2\", 1.12µm; LED flash, HDR, panorama; video 4K@30/60fps, 1080p@60/120/240fps, HDR10+"
-],
-[
-"Selfie Camera",
-"10 MP, f/2.2, 23mm (wide), 1/3.0\", 1.22µm; HDR; video 4K@30/60fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
-],
-[
-"Loudspeaker",
-"Yes, with stereo speakers"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.4, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 3.2"
-],
-[
-"Battery",
-"4000 mAh"
-],
-[
-"Charging",
-"25W wired, QC2.0, 50% in 30 min 15W wireless 4.5W reverse wireless"
-],
-[
-"Colors",
-"Black, White"
-]
-],
-"slug": "samsung-galaxy-z-flip7-fe-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
-"tag": "6.7\" display · Exynos 2400 · 8 GB RAM · 4000 mAh",
-"year": 2025
-},
-{
-"brand": "Samsung",
-"cat": "Smartphones",
-"hl": [
-"6.7\" display",
-"Exynos 1380",
-"6 GB RAM",
-"5000 mAh"
-],
-"name": "Samsung Galaxy M36",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2025 (announced 2025, June 27, released 2025, July 12)"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"164.4 x 77.9 x 7.7 mm (6.47 x 3.07 x 0.30 in); 197 g (6.95 oz); Glass front (Gorilla Glass Victus+), plastic frame, glass back; Nano-SIM + Nano-SIM"
-],
-[
-"Display",
-"Super AMOLED, 120Hz; 6.7 inches, 110.2 cm2 (~86.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
-],
-[
-"OS",
-"Android 15, up to 6 major OS updates, One UI 7"
-],
-[
-"Chipset",
-"Exynos 1380 (5 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G68 MP5"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB; microSDXC (uses shared SIM slot)"
-],
-[
-"Main Camera",
-"50 MP, f/1.8, (wide), 1/1.96\", PDAF, OIS 8 MP, f/2.2, 123˚, (ultrawide), 1/4.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, 720p@480fps, gyro-EIS"
-],
-[
-"Selfie Camera",
-"13 MP, f/2.2, (wide), 1/3.06\", 1.12µm; HDR; video 4K@30fps, 1080p@30fps"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, compass"
-],
-[
-"Loudspeaker",
-"Yes"
-],
-[
-"3.5mm Jack",
-"No"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
-],
-[
-"Bluetooth",
-"5.3, A2DP, LE"
-],
-[
-"GPS",
-"GPS, GALILEO, GLONASS, BDS, QZSS"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"Radio",
-"No"
-],
-[
-"USB",
-"USB Type-C 2.0, OTG"
-],
-[
-"Battery",
-"5000 mAh"
-],
-[
-"Charging",
-"25W wired"
-],
-[
-"Colors",
-"Orange Haze, Velvet Black, Serene Green"
-]
-],
-"slug": "samsung-galaxy-m36-5g",
-"source": "https://www.gsmarena.com/samsung_galaxy_m36_5g-13967.php",
-"tag": "6.7\" display · Exynos 1380 · 6 GB RAM · 5000 mAh",
-"year": 2025
-}
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Exynos 1330",
+   "4 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy F70",
+  "price": 58999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, October 19, released 2026, October 20)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "164.4 x 77.9 x 7.5 mm (6.47 x 3.07 x 0.30 in); 192 g (6.77 oz); Glass front (Gorilla Glass Victus), plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Super AMOLED, 90Hz; 6.7 inches, 110.2 cm2 (~86.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus"
+   ],
+   [
+    "OS",
+    "Android 16, One UI 8.5"
+   ],
+   [
+    "Chipset",
+    "Exynos 1330 (5 nm); CPU Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU Mali-G68 MP2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, AF, OIS 5 MP, f/2.0, (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP, f/2.0, (wide), 1/3.1\", 1.12µm; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.1, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Li-Ion 5000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Vivid Violet, Bold Black"
+   ]
+  ],
+  "slug": "samsung-galaxy-f70-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_f70_5g-15014.php",
+  "tag": "6.7\" display · Exynos 1330 · 4 GB RAM · 5000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Tablets",
+  "hl": [
+   "14.6\" display",
+   "MediaTek Dimensity 9500",
+   "12 GB RAM",
+   "11600 mAh"
+  ],
+  "name": "Samsung Galaxy Tab S12 Ultra",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 30, released 2026, October 07)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "326.3 x 208.5 x 5.1 mm (12.85 x 8.21 x 0.20 in); 692 g or 695 g (1.53 lb); Glass front, aluminum frame, aluminum back; Nano-SIM + eSIM (cellular model only)"
+   ],
+   [
+    "Display",
+    "Dynamic AMOLED 2X, 120Hz, HDR10+, 1000 nits (HBM), 1600 nits (peak); 14.6 inches, 617.8 cm2 (~90.8% screen-to-body ratio); 1848 x 2960 pixels, 16:10 ratio (~239 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, up to 7 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "MediaTek Dimensity 9500 (3 nm); CPU Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro); GPU Mali-G1 Ultra MC12"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "13 MP, f/2.0, 26mm (wide), 1/3.4\", 1.0µm, AF 8 MP, f/2.2, (ultrawide); LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.4, 120˚ (ultrawide); HDR; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (4 speakers)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, BDS, GALILEO"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, magnetic connector"
+   ],
+   [
+    "Battery",
+    "Li-Po 11600 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, 100% in 95 min"
+   ],
+   [
+    "Colors",
+    "Gray, Silver"
+   ]
+  ],
+  "slug": "samsung-galaxy-tab-s12-ultra-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_tab_s12_ultra_5g-14811.php",
+  "tag": "14.6\" display · MediaTek Dimensity 9500 · 12 GB RAM · 11600 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Tablets",
+  "hl": [
+   "12.6\" display",
+   "MediaTek Dimensity 9500",
+   "12 GB RAM",
+   "10600 mAh"
+  ],
+  "name": "Samsung Galaxy Tab S12+",
+  "price": 411999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 30, released 2026, October 07)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "289.5 x 187.8 x 5.3 mm (11.40 x 7.39 x 0.21 in); 553 g or 555 g (1.22 lb); Glass front, aluminum frame, aluminum back; Nano-SIM + eSIM (cellular model only)"
+   ],
+   [
+    "Display",
+    "Dynamic AMOLED 2X, 120Hz, HDR10+, 1000 nits (HBM), 1600 nits (peak); 12.6 inches, 460.6 cm2 (~84.7% screen-to-body ratio); 1752 x 2800 pixels, 16:10 ratio (~262 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, up to 7 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "MediaTek Dimensity 9500 (3 nm); CPU Octa-core (1x4.21 GHz C1-Ultra & 3x3.5 GHz C1-Premium & 4x2.7 GHz C1-Pro); GPU Mali-G1 Ultra MC12"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "13 MP, f/2.0, 26mm (wide), 1/3.4\", 1.0µm, AF; LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.4, 120˚ (ultrawide); HDR; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (4 speakers)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, BDS, GALILEO"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, magnetic connector"
+   ],
+   [
+    "Battery",
+    "Li-Po 10600 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, 100% in 95 min"
+   ],
+   [
+    "Colors",
+    "Gray, Silver"
+   ]
+  ],
+  "slug": "samsung-galaxy-tab-s12+-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_tab_s12+_5g-14981.php",
+  "tag": "12.6\" display · MediaTek Dimensity 9500 · 12 GB RAM · 10600 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Mediatek Helio G99+",
+   "4 GB RAM",
+   "6000 mAh"
+  ],
+  "name": "Samsung Galaxy F08",
+  "price": 49999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, October 01, released 2026, October 08)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "167.4 x 77.4 x 8 mm (6.59 x 3.05 x 0.31 in); 197 g (6.95 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "PLS LCD, 90Hz; 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, up to 6 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G99+ (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF Auxiliary lens; LED flash; video 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm; video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "6000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Blue"
+   ]
+  ],
+  "slug": "samsung-galaxy-f08",
+  "source": "https://www.gsmarena.com/samsung_galaxy_f08-14988.php",
+  "tag": "6.7\" display · Mediatek Helio G99+ · 4 GB RAM · 6000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Mediatek Helio G99+",
+   "4 GB RAM",
+   "6000 mAh"
+  ],
+  "name": "Samsung Galaxy M08",
+  "price": 49999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, October 01, released 2026, October 08)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "167.4 x 77.4 x 8 mm (6.59 x 3.05 x 0.31 in); 197 g (6.95 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "PLS LCD, 90Hz; 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, up to 6 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G99+ (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF Auxiliary lens; LED flash; video 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm; video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "6000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Silver"
+   ]
+  ],
+  "slug": "samsung-galaxy-m08",
+  "source": "https://www.gsmarena.com/samsung_galaxy_m08-14987.php",
+  "tag": "6.7\" display · Mediatek Helio G99+ · 4 GB RAM · 6000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Exynos 1610",
+   "4 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy A18 4G",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 15, released 2026, September 18)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "164.4 x 77.9 x 7.7 mm (6.47 x 3.07 x 0.30 in); 196 g (6.91 oz); Glass front (Gorilla Glass 3), plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Super AMOLED, 90Hz; 6.7 inches, 110.2 cm2 (~86.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass 3"
+   ],
+   [
+    "OS",
+    "Android 17, up to 6 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Exynos 1610; CPU Octa-core (2x2.4 GHz Cortex-A7X & 6x2.0 GHz Cortex-A55); GPU Mali-G68"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 26mm (wide), 1/2.76\", 0.64µm, PDAF 5 MP, f/2.2, 17mm (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP, f/2.0, 27mm (wide), 1/3.1\", 1.12µm; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired, 50% in 30 min"
+   ],
+   [
+    "Colors",
+    "Black, Gray, Light blue"
+   ]
+  ],
+  "slug": "samsung-galaxy-a18",
+  "source": "https://www.gsmarena.com/samsung_galaxy_a18-14941.php",
+  "tag": "6.7\" display · Exynos 1610 · 4 GB RAM · 5000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Mediatek Helio G99",
+   "4 GB RAM",
+   "6000 mAh"
+  ],
+  "name": "Samsung Galaxy A08 4G",
+  "price": 45999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 15, released 2026, September 15)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "167.4 x 77.4 x 8 mm (6.59 x 3.05 x 0.31 in); 197 g (6.95 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "PLS LCD, 90Hz; 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, up to 6 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G99 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB / 256 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF Auxiliary lens; LED flash; video 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm; video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "6000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Navy Blue, Silver, Green"
+   ]
+  ],
+  "slug": "samsung-galaxy-a08",
+  "source": "https://www.gsmarena.com/samsung_galaxy_a08-14938.php",
+  "tag": "6.7\" display · Mediatek Helio G99 · 4 GB RAM · 6000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Mediatek Helio G99+",
+   "4 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy A07s",
+  "price": 42999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September 07, released 2026, September 07)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "167.4 x 77.4 x 7.6 mm (6.59 x 3.05 x 0.30 in); 188 g (6.63 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "PLS LCD, 90Hz; 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, up to 6 major OS updates, One UI"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G99+ (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF Auxiliary lens; LED flash; video 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm; video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Gray, Light Violet, Dark Green"
+   ]
+  ],
+  "slug": "samsung-galaxy-a07s",
+  "source": "https://www.gsmarena.com/samsung_galaxy_a07s-14930.php",
+  "tag": "6.7\" display · Mediatek Helio G99+ · 4 GB RAM · 5000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Exynos 2500",
+   "8 GB RAM",
+   "4900 mAh"
+  ],
+  "name": "Samsung Galaxy S26 FE",
+  "price": 231995,
+  "price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-s26-fe",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 27, released 2026, September 04)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "161.6 x 76.9 x 7.4 mm (6.36 x 3.03 x 0.29 in); 193 g (6.81 oz); Glass front (Gorilla Glass Victus+), glass back (Gorilla Glass Victus+), aluminum frame; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "Dynamic AMOLED 2X, 120Hz, HDR10+, 1900 nits (HBM); 6.7 inches, 110.2 cm2 (~88.7% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
+   ],
+   [
+    "OS",
+    "Android 17, up to 7 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Exynos 2500 (3 nm); CPU 10-core (1x3.3GHz Cortex-X925 & 2x2.74GHz Cortex-A725 & 5x2.36GHz Cortex-A725 & 2x1.8GHz Cortex-A520); GPU Xclipse 950"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, OIS 8 MP, f/2.4, 69mm (telephoto), 1/4.4\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.2\", 1.12µm; LED flash, HDR, panorama, Best Face; video 8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps; gyro-EIS, HDR10+"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.2, 23mm (wide), 1/3.2\", 1.12µm; video 4K@30/60fps, 1080p@30/60fps; gyro-EIS, HDR10+"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band (market/region dependent), Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Ion 4900 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, PD, QC2, 69% in 30 min 15W wireless, Qi2 compatible Reverse wireless"
+   ],
+   [
+    "Colors",
+    "Blueberry, Graphite, Pistachio"
+   ]
+  ],
+  "slug": "samsung-galaxy-s26-fe-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_s26_fe_5g-14870.php",
+  "tag": "6.7\" display · Exynos 2500 · 8 GB RAM · 4900 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Qualcomm SM6475-AB Snapdragon ",
+   "6 GB RAM",
+   "6000 mAh"
+  ],
+  "name": "Samsung Galaxy F70 Pro",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, August 03, released 2026, August 08)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.4 x 78.2 x 8.1 mm (6.39 x 3.08 x 0.32 in); 206 g (7.27 oz); Glass front (Gorilla Glass Victus), plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Super AMOLED, 120Hz; 6.7 inches, 110.2 cm2 (~86.8% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus"
+   ],
+   [
+    "OS",
+    "Android 16, up to 6 major OS updates, One UI 8.5"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55); GPU Adreno 710"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF, OIS 5 MP, f/2.2, (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.2, (wide); HDR; video 1080p@30fps, HDR"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.1, A2DP, LE, ASHA"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "6000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Aurora Green, Alpha Black"
+   ]
+  ],
+  "slug": "samsung-galaxy-f70-pro-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_f70_pro_5g-14856.php",
+  "tag": "6.7\" display · Qualcomm SM6475-AB Snapdragon  · 6 GB RAM · 6000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "8.0\" display",
+   "Qualcomm SM8850-1-AD Snapdrago",
+   "12 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy Z Fold8 Ultra",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, July 22, released 2026, July 22)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "Unfolded: 158.4 x 143.2 x 4.1 mmFolded: 158.4 x 72.8 x 8.9 mm; 215 g (7.58 oz); Glass front (Gorilla Glass Victus Ceramic 3) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 3000 nits (peak); 8.0 inches, 204.4 cm2 (~90.1% screen-to-body ratio); 2256 x 2504 pixels (~422 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, up to 7 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840 (1.3GHz)"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.7, 23mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS 10 MP, f/2.4, 69mm (telephoto), 1/3.94\", 1.0µm, PDAF (17cm - ∞), OIS, 3x optical zoom 50 MP, f/1.9, 120˚ (ultrawide), 1/2.51\", 0.7µm, multi-directional PDAF; LED flash, HDR, panorama; video 8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "10 MP, f/2.2, 18mm (ultrawide), 1/3.52\", 1.12µm Cover camera: 10 MP, f/2.2, 24mm (wide), 1/3.52\", 1.12µm; HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 5000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, PD3.0, QC2.0, 67% in 30 min 20W wireless (Qi2.2) 4.5W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Graphite, Cream, Violet Shadow"
+   ]
+  ],
+  "slug": "samsung-galaxy-z-fold8-ultra-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_z_fold8_ultra_5g-14802.php",
+  "tag": "8.0\" display · Qualcomm SM8850-1-AD Snapdrago · 12 GB RAM · 5000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "7.6\" display",
+   "Qualcomm SM8850-1-AD Snapdrago",
+   "12 GB RAM",
+   "4800 mAh"
+  ],
+  "name": "Samsung Galaxy Z Fold8",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, July 22, released 2026, July 22)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "Unfolded: 161.4 x 123.9 x 4.5 mmFolded: 81.9 x 123.9 x 9.7 mm; 201 g (7.09 oz); Glass front (Gorilla Glass Victus Ceramic 3) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 3000 nits (peak); 7.6 inches, 179.2 cm2 (~89.6% screen-to-body ratio); 2448 x 1848 pixels, 4:3 ratio (~404 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, up to 7 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840 (1.3GHz)"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, OIS 50 MP, f/1.9, 13mm, 120˚ (ultrawide), 1/2.51\", 0.7µm, multi-directional PDAF; LED flash, HDR, panorama; video 8K@30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, gyro-EIS, OIS"
+   ],
+   [
+    "Selfie Camera",
+    "10 MP, f/2.2, 18mm (ultrawide), 1/3.52\", 1.12µm Cover camera: 10 MP, f/2.2, 24mm (wide), 1/3.52\", 1.12µm; HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 4800 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, QC2.0, 63% in 30 min 20W wireless 4.5W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Graphite, Cream, Lavender, Pistachio"
+   ]
+  ],
+  "slug": "samsung-galaxy-z-fold-wide-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_z_fold_wide_5g-14673.php",
+  "tag": "7.6\" display · Qualcomm SM8850-1-AD Snapdrago · 12 GB RAM · 4800 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.9\" display",
+   "Qualcomm SM8850-1-AD Snapdrago",
+   "12 GB RAM",
+   "4300 mAh"
+  ],
+  "name": "Samsung Galaxy Z Flip8",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, July 22, released 2026, July 22)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "Unfolded: 166.9 x 75.4 x 6.1 mmFolded: 85.7 x 75.4 x 13.1 mm; 180 g (6.35 oz); Plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 3000 nits (peak); 6.9 inches, 109.6 cm2 (~87.1% screen-to-body ratio); 1080 x 2520 pixels, 21:9 ratio (~400 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, up to 7 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm) - US/CA/CNExynos 2600 (2 nm) - ROW; CPU Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M) - US/CA/CN10-core (1x3.80GHz C1-Ultra & 3x3.25GHz C1-Pro & 6x2.75GHz C1-Pro) - ROW; GPU Adreno 840 (1.3GHz) - US/CA/CNXclipse 960 - ROW"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, OIS 12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.2\", 1.12µm; LED flash, HDR, panorama; video 4K@30/60fps, 1080p@60/120/240fps, HDR10+"
+   ],
+   [
+    "Selfie Camera",
+    "10 MP, f/2.2, 23mm (wide), 1/3.52\", 1.12µm; HDR; video 4K@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 4300 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired, QC2.0, 55% in 30 min 15W wireless 4.5W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Graphite, Cream, Pink, Mint"
+   ]
+  ],
+  "slug": "samsung-galaxy-z-flip8-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_z_flip8_5g-14803.php",
+  "tag": "6.9\" display · Qualcomm SM8850-1-AD Snapdrago · 12 GB RAM · 4300 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Qualcomm SM6475-AB Snapdragon ",
+   "6 GB RAM",
+   "6000 mAh"
+  ],
+  "name": "Samsung Galaxy M47",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, June 29, released 2026, July 04)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.4 x 78.2 x 8.1 mm (6.39 x 3.08 x 0.32 in); 206 g (7.27 oz); Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Super AMOLED, 120Hz; 6.7 inches, 110.2 cm2 (~86.8% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
+   ],
+   [
+    "OS",
+    "Android 16, up to 6 major OS updates, One UI 8.5"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55); GPU Adreno 710"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF, OIS 5 MP, f/2.2, (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.2, (wide); video 1080p@30fps, HDR"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.1, A2DP, LE, ASHA"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "Unspecified"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "6000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired Bypass charging"
+   ],
+   [
+    "Colors",
+    "Blaze Blue, Rogue Red"
+   ]
+  ],
+  "slug": "samsung-galaxy-m47-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_m47_5g-14749.php",
+  "tag": "6.7\" display · Qualcomm SM6475-AB Snapdragon  · 6 GB RAM · 6000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Qualcomm SM6475-AB Snapdragon ",
+   "6 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy A27",
+  "price": 109995,
+  "price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a27-fiveg",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, June 10, released 2026, July 03)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.4 x 78.2 x 7.8 mm (6.39 x 3.08 x 0.31 in); 200 g (7.05 oz); Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+); Nano-SIM + eSIM Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Super AMOLED, 120Hz; 6.7 inches, 110.2 cm2 (~86.8% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
+   ],
+   [
+    "OS",
+    "Android 16, upgradable to Android 17, up to 6 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55); GPU Adreno 710"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 27mm (wide), 1/2.76\", 0.64µm, PDAF, OIS 5 MP, f/2.2, 16mm (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30fps, 720p@480fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.2, 25mm (wide), 1/3.2\", 1.12µm; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.1, A2DP, LE, ASHA"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired, 45% in 30 min"
+   ],
+   [
+    "Colors",
+    "Black, Blue, Light Green, Light Pink"
+   ]
+  ],
+  "slug": "samsung-galaxy-a27-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_a27_5g-14606.php",
+  "tag": "6.7\" display · Qualcomm SM6475-AB Snapdragon  · 6 GB RAM · 5000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Exynos 1680",
+   "8 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy A57",
+  "price": 165495,
+  "price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a57-5g",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, March 25, released 2026, April 9)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "161.5 x 76.8 x 6.9 mm (6.36 x 3.02 x 0.27 in); 179 g (6.31 oz); Glass front (Gorilla Glass Victus+), aluminum frame, glass back (Gorilla Glass Victus+); Nano-SIM + eSIM Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "Super AMOLED+, 120Hz, HDR10+, 1200 nits (HBM), 1900 nits (peak); 6.7 inches, 110.2 cm2 (~88.8% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
+   ],
+   [
+    "OS",
+    "Android 16, up to 6 major OS updates, One UI 8.5"
+   ],
+   [
+    "Chipset",
+    "Exynos 1680 (4 nm); CPU Octa-core (1x2.9 GHz Cortex-720 & 4x2.6 GHz Cortex-720 & 3x1.95 GHz Cortex-520); GPU Xclipse 550"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/1.56\", 1.0µm, PDAF, OIS 12 MP, f/2.2, 13mm (ultrawide), 1/3.06\", 1.12µm 5 MP, f/2.4, (macro); Best Face, LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.2, (wide), 1/3.2\", 1.12µm; video 4K@30fps, 1080p@30fps, 10-bit HDR"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired"
+   ],
+   [
+    "Colors",
+    "Navy, Gray, Icyblue, Lilac"
+   ]
+  ],
+  "slug": "samsung-galaxy-a57-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_a57_5g-14379.php",
+  "tag": "6.7\" display · Exynos 1680 · 8 GB RAM · 5000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Exynos 1480",
+   "6 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy A37",
+  "price": 131495,
+  "price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a37-5g",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, March 25, released 2026, April 9)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "162.9 x 78.2 x 7.4 mm (6.41 x 3.08 x 0.29 in); 196 g (6.91 oz); Glass front (Gorilla Glass Victus+), plastic frame, glass back (Gorilla Glass Victus+); Nano-SIM + eSIM Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "Super AMOLED, 120Hz, 1200 nits (HBM), 1900 nits (peak); 6.7 inches, 110.2 cm2 (~86.5% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
+   ],
+   [
+    "OS",
+    "Android 16, upgradable to Android 17, up to 6 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Exynos 1480 (4 nm); CPU Octa-core (4x2.75 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Xclipse 530"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/1.56\", 1.0µm, PDAF, OIS 8 MP, f/2.2, 16mm (ultrawide), 1/4.0\", 1.12µm 5 MP, f/2.4, (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.2, (wide), 1/3.2\", 1.12µm; video 4K@30fps, 1080p@30fps, 10-bit HDR"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired"
+   ],
+   [
+    "Colors",
+    "Graygreen, Charkoal, White, Light Violet"
+   ]
+  ],
+  "slug": "samsung-galaxy-a37-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_a37_5g-14378.php",
+  "tag": "6.7\" display · Exynos 1480 · 6 GB RAM · 5000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Mediatek Dimensity 6300",
+   "4 GB RAM",
+   "6000 mAh"
+  ],
+  "name": "Samsung Galaxy M17e",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, March 17, released 2026, March 17)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "167.4 x 77.4 x 8.2 mm (6.59 x 3.05 x 0.32 in); 199 g (7.02 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "PLS LCD, 120Hz, 650 nits (typ), 800 nits (HBM); 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, up to 6 major OS updates, One UI 8"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB"
+   ],
+   [
+    "Storage",
+    "128 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash; video 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, 26mm (wide), 1/4.0\", 1.12µm; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Li-Ion 6000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Blitz Blue, Vibe Violet"
+   ]
+  ],
+  "slug": "samsung-galaxy-m17e-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_m17e_5g-14534.php",
+  "tag": "6.7\" display · Mediatek Dimensity 6300 · 4 GB RAM · 6000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.9\" display",
+   "Qualcomm SM8850-1-AD Snapdrago",
+   "12 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy S26 Ultra",
+  "price": 387495,
+  "price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-s26-ultra",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, February 25, released 2026, March 06)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "163.6 x 78.1 x 7.9 mm (6.44 x 3.07 x 0.31 in); 214 g (7.55 oz); Glass front (Corning Gorilla Armor 2), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT Nano-SIM + eSIM + eSIM (max 2 at a time) - USA Nano-SIM + Nano-SIM - CN"
+   ],
+   [
+    "Display",
+    "Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.9 inches, 115.9 cm2 (~90.7% screen-to-body ratio); 1440 x 3120 pixels, 19.5:9 ratio (~500 ppi density); Corning Gorilla Armor 2"
+   ],
+   [
+    "OS",
+    "Android 16, upgradable to Android 17, One UI 9, up to 7 major OS updates"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm); CPU Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M); GPU Adreno 840 (1.3GHz)"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.4, 23mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94\", 1.0µm, PDAF, OIS, 3x optical zoom 50 MP, f/2.9, 111mm (periscope telephoto), 1/2.52\", 0.7µm, PDAF, OIS, 5x optical zoom 50 MP, f/1.9, 120˚ (ultrawide), 1/2.5\", 0.7µm, dual pixel PDAF, Super Steady video; Laser AF, Best Face, Horizon Lock, LED flash, auto-HDR, panorama; video 8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.2, 23mm (wide), 1/3.2\", 1.12µm, dual pixel PDAF; HDR, HDR10+; video 4K@30/60fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, BDS, GALILEO, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, DisplayPort 1.2, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Ion 5000 mAh"
+   ],
+   [
+    "Charging",
+    "60W wired, PD3.0, 75% in 30 min 25W wireless (Qi2.2) 4.5W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Cobalt Violet, Sky Blue, Black, White, Silver Shadow, Pink Gold"
+   ]
+  ],
+  "slug": "samsung-galaxy-s26-ultra-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_s26_ultra_5g-14320.php",
+  "tag": "6.9\" display · Qualcomm SM8850-1-AD Snapdrago · 12 GB RAM · 5000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Qualcomm SM8850-1-AD Snapdrago",
+   "12 GB RAM",
+   "4900 mAh"
+  ],
+  "name": "Samsung Galaxy S26+",
+  "price": 330495,
+  "price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-s26-plus",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, February 25, released 2026, March 06)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "158.4 x 75.8 x 7.3 mm (6.24 x 2.98 x 0.29 in); 190 g (6.70 oz); Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT Nano-SIM + eSIM + eSIM (max 2 at a time) - USA Nano-SIM + Nano-SIM - CN"
+   ],
+   [
+    "Display",
+    "Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.7 inches, 108.9 cm2 (~90.7% screen-to-body ratio); 1440 x 3120 pixels, 19.5:9 ratio (~516 ppi density); Corning Gorilla Glass Victus 2"
+   ],
+   [
+    "OS",
+    "Android 16, upgradable to Android 17, up to 7 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm) - US/CA/CNExynos 2600 (2 nm) - ROW; CPU Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M) - US/CA/CN10-core (1x3.80GHz C1-Ultra & 3x3.25GHz C1-Pro & 6x2.75GHz C1-Pro) - ROW; GPU Adreno 840 (1.3GHz) - US/CA/CNXclipse 960 - ROW"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\" 1.4µm, Super Steady video; Best Face, Horizon Lock, LED flash, auto-HDR, panorama; video 8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.2, 23mm (wide), 1/3.2\", 1.12µm, dual pixel PDAF; HDR, HDR10+; video 4K@30/60fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, BDS, GALILEO, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, DisplayPort 1.2, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Ion 4900 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, PD3.0, 69% in 30 min 20W wireless (Qi2.2) 4.5W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Cobalt Violet, Sky Blue, Black, White, Silver Shadow, Pink Gold"
+   ]
+  ],
+  "slug": "samsung-galaxy-s26+-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_s26+_5g-14457.php",
+  "tag": "6.7\" display · Qualcomm SM8850-1-AD Snapdrago · 12 GB RAM · 4900 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.3\" display",
+   "Qualcomm SM8850-1-AD Snapdrago",
+   "12 GB RAM",
+   "4300 mAh"
+  ],
+  "name": "Samsung Galaxy S26",
+  "price": 284500,
+  "price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-s26",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, February 25, released 2026, March 06)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "149.6 x 71.7 x 7.2 mm (5.89 x 2.82 x 0.28 in); 167 g (5.89 oz); Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) - INT Nano-SIM + eSIM + eSIM (max 2 at a time) - USA Nano-SIM + Nano-SIM - CN"
+   ],
+   [
+    "Display",
+    "Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.3 inches, 96.5 cm2 (~90.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~411 ppi density); Corning Gorilla Glass Victus 2"
+   ],
+   [
+    "OS",
+    "Android 16, upgradable to Android 17, up to 7 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8850-1-AD Snapdragon 8 Elite Gen 5 (3 nm) - US/CA/CNExynos 2600 (2 nm) - ROW; CPU Octa-core (2x4.74 GHz Oryon V3 Phoenix L + 6x3.62 GHz Oryon V3 Phoenix M) - US/CA/CN10-core (1x3.80GHz C1-Ultra & 3x3.25GHz C1-Pro & 6x2.75GHz C1-Pro) - ROW; GPU Adreno 840 (1.3GHz) - US/CA/CNXclipse 960 - ROW"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, dual pixel PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\" 1.4µm, Super Steady video; Best Face, Horizon Lock, LED flash, auto-HDR, panorama; video 8K@24/30fps, 4K@30/60fps, 1080p@30/60/120/240fps, 10-bit HDR, HDR10+, stereo sound rec., gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.2, 23mm (wide), 1/3.2\", 1.12µm, dual pixel PDAF; HDR; video 4K@30/60fps, 1080p@30fps, HDR10+"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, BDS, GALILEO, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, DisplayPort 1.2, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Ion 4300 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired, PD3.0, 55% in 30 min 15W wireless (Qi2 Ready) 4.5W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Cobalt Violet, Sky Blue, Black, White, Silver Shadow, Pink Gold"
+   ]
+  ],
+  "slug": "samsung-galaxy-s26-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_s26_5g-14456.php",
+  "tag": "6.3\" display · Qualcomm SM8850-1-AD Snapdrago · 12 GB RAM · 4300 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Mediatek Dimensity 6300",
+   "4 GB RAM",
+   "6000 mAh"
+  ],
+  "name": "Samsung Galaxy F70e",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, February 09, released 2026, February 17)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "167.4 x 77.4 x 8.2 mm (6.59 x 3.05 x 0.32 in); 199 g (7.02 oz); Glass front, plastic frame, silicone polymer back (eco leather); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "PLS LCD, 120Hz, 650 nits (typ), 800 nits (HBM); 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, up to 6 major OS updates, One UI 8"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB"
+   ],
+   [
+    "Storage",
+    "128 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash; video 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, 26mm (wide), 1/4.0\", 1.12µm; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Ion 6000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Limelight Green, Spotlight Blue"
+   ]
+  ],
+  "slug": "samsung-galaxy-f70e-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_f70e_5g-14459.php",
+  "tag": "6.7\" display · Mediatek Dimensity 6300 · 4 GB RAM · 6000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Mediatek Dimensity 6300",
+   "4 GB RAM",
+   "6000 mAh"
+  ],
+  "name": "Samsung Galaxy A07 5G",
+  "price": 51999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, January 13, released 2026, January 13)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "167.4 x 77.4 x 8.2 mm (6.59 x 3.05 x 0.32 in); 199 g (7.02 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "PLS LCD, 120Hz, 650 nits (typ), 800 nits (HBM); 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, up to 6 major OS updates, One UI 8"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), PDAF Auxiliary lens; LED flash; video 1080p@30/60fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, 26mm (wide), 1/4.0\", 1.12µm; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Li-Ion 6000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Black, Light Violet"
+   ]
+  ],
+  "slug": "samsung-galaxy-a07-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_a07_5g-14409.php",
+  "tag": "6.7\" display · Mediatek Dimensity 6300 · 4 GB RAM · 6000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "10.0\" display",
+   "Qualcomm SM8750-AC Snapdragon ",
+   "16 GB RAM",
+   "5600 mAh"
+  ],
+  "name": "Samsung Galaxy Z TriFold",
+  "price": 898999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, December 02. Released 2025, December 12)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "Unfolded: 159.2 x 214.1 x 3.9-4.2 mmFolded: 159.2 x 75 x 12.9 mm; 309 g (10.90 oz); Glass front (Gorilla Glass Victus Ceramic 2) (folded), plastic front (unfolded), ceramic-glass fiber-reinforced polymer back, aluminum frame, titanium hinge housing; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM + multiple eSIM (max 2 at a time) Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Tri-foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR, 1600 nits (peak); 10.0 inches, 305.4 cm2 (~89.6% screen-to-body ratio); 1584 x 2160 pixels, 4:3 ratio (~269 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, One UI 8.5"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8750-AC Snapdragon 8 Elite (3 nm); CPU Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); GPU Adreno 830 (1200 MHz)"
+   ],
+   [
+    "RAM",
+    "16 GB"
+   ],
+   [
+    "Storage",
+    "512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.7, 24mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 1.4µm, dual pixel PDAF; LED flash, HDR, panorama; video 8K@30fps, 4K@60fps, 1080p@60/120/240fps (gyro-EIS), 10-bit HDR, HDR10+"
+   ],
+   [
+    "Selfie Camera",
+    "10 MP, f/2.2, 18mm (ultrawide), 1/3.0\", 1.12µm Cover camera: 10 MP, f/2.2, 24mm (wide), 1/3.0\", 1.12µm; HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, ASHA"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2"
+   ],
+   [
+    "Battery",
+    "Li-Ion 5600 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, QC2.0, 50% in 30 min 15W wireless 4.5W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Crafted Black"
+   ]
+  ],
+  "slug": "samsung-galaxy-z-trifold-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_z_trifold_5g-14292.php",
+  "tag": "10.0\" display · Qualcomm SM8750-AC Snapdragon  · 16 GB RAM · 5600 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Mediatek Helio G99",
+   "4 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy F07",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, October 04, released 2025, October 04)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "167.4 x 77.4 x 7.6 mm (6.59 x 3.05 x 0.30 in); 184 g (6.49 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "PLS LCD, 90Hz; 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, up to 6 major OS updates, One UI 7"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G99 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF Auxiliary lens; LED flash; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm; video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Green"
+   ]
+  ],
+  "slug": "samsung-galaxy-f07",
+  "source": "https://www.gsmarena.com/samsung_galaxy_f07-14205.php",
+  "tag": "6.7\" display · Mediatek Helio G99 · 4 GB RAM · 5000 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Mediatek Helio G99",
+   "4 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy M07",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, October 01, released 2025, October 01)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "167.4 x 77.4 x 7.6 mm (6.59 x 3.05 x 0.30 in); 184 g (6.49 oz); Glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "PLS LCD, 90Hz; 6.7 inches, 108.4 cm2 (~83.6% screen-to-body ratio); 720 x 1600 pixels, 20:9 ratio (~262 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, up to 6 major OS updates, One UI 7"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G99 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB"
+   ],
+   [
+    "Storage",
+    "64 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, PDAF Auxiliary lens; LED flash; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "8 MP, f/2.0, (wide), 1/4.0\", 1.12µm; video Yes"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "FM radio"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Black"
+   ]
+  ],
+  "slug": "samsung-galaxy-m07",
+  "source": "https://www.gsmarena.com/samsung_galaxy_m07-14100.php",
+  "tag": "6.7\" display · Mediatek Helio G99 · 4 GB RAM · 5000 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Mediatek Helio G99",
+   "4 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy A17 4G",
+  "price": 62995,
+  "price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a17",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, September 18, released 2025, September 18)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "164.4 x 77.9 x 7.5 mm (6.47 x 3.07 x 0.30 in); 190 g (6.70 oz); Glass front (Gorilla Glass Victus+), plastic back, plastic frame; Nano-SIM Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Super AMOLED, 90Hz; 6.7 inches, 110.2 cm2 (~86.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
+   ],
+   [
+    "OS",
+    "Android 15, up to 6 major OS updates, One UI 7"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G99 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, AF, OIS 5 MP, f/2.2, (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP, f/2.0, (wide), 1/3.1\", 1.12µm; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "FM radio (market/region dependent)"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Black, Gray, Light blue"
+   ]
+  ],
+  "slug": "samsung-galaxy-a17",
+  "source": "https://www.gsmarena.com/samsung_galaxy_a17-14157.php",
+  "tag": "6.7\" display · Mediatek Helio G99 · 4 GB RAM · 5000 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Tablets",
+  "hl": [
+   "11.0\" display",
+   "Mediatek Dimensity 7300",
+   "6 GB RAM",
+   "7040 mAh"
+  ],
+  "name": "Samsung Galaxy Tab A11+",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, September 29, released 2025, November 02)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "257.1 x 168.7 x 6.9 mm (10.12 x 6.64 x 0.27 in); 477 g or 482 g (1.05 lb); Nano-SIM + eSIM (cellular model only)"
+   ],
+   [
+    "Display",
+    "TFT LCD, 90Hz; 11.0 inches, 350.9 cm2 (~80.9% screen-to-body ratio); 1200 x 1920 pixels, 16:10 ratio (~206 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, up to 7 major OS updates, One UI 8"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 7300 (4 nm)Mediatek MT8775 - USA; CPU Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G615 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "8 MP, AF; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Accelerometer, gyro, proximity (accessories only), compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers, Dolby Atmos (4 speakers)"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS, QZSS - cellular model only"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Li-Po 7040 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Gray, Silver"
+   ]
+  ],
+  "slug": "samsung-galaxy-tab-a11+",
+  "source": "https://www.gsmarena.com/samsung_galaxy_tab_a11+-14192.php",
+  "tag": "11.0\" display · Mediatek Dimensity 7300 · 6 GB RAM · 7040 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Tablets",
+  "hl": [
+   "8.7\" display",
+   "Mediatek Helio G99",
+   "4 GB RAM",
+   "5100 mAh"
+  ],
+  "name": "Samsung Galaxy Tab A11",
+  "price": 55999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, September 12, released 2025, September)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "211 x 124.7 x 8 mm (8.31 x 4.91 x 0.31 in); 335 g or 337 g (11.82 oz); Nano-SIM (cellular model only)"
+   ],
+   [
+    "Display",
+    "TFT LCD, 90Hz; 8.7 inches, 214.9 cm2 (~81.7% screen-to-body ratio); 800 x 1340 pixels, 5:3 ratio (~179 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, upgradable to Android 16, One UI 8, up to 7 major OS updates"
+   ],
+   [
+    "Chipset",
+    "Mediatek Helio G99 (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "64 GB / 128 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "8 MP, AF; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP; video Yes"
+   ],
+   [
+    "Sensors",
+    "Accelerometer, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (with Dolby Atmos)"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, BDS, GALILEO, QZSS - cellular model only"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "5100 mAh"
+   ],
+   [
+    "Charging",
+    "15W wired"
+   ],
+   [
+    "Colors",
+    "Gray, Silver"
+   ]
+  ],
+  "slug": "samsung-galaxy-tab-a11",
+  "source": "https://www.gsmarena.com/samsung_galaxy_tab_a11-14141.php",
+  "tag": "8.7\" display · Mediatek Helio G99 · 4 GB RAM · 5100 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Exynos 1330",
+   "4 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy F17",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, September 11, released 2025, September 14)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "164.4 x 77.9 x 7.5 mm (6.47 x 3.07 x 0.30 in); 192 g (6.77 oz); Glass front (Gorilla Glass Victus), plastic frame, glass-fiber reinforced plastic back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Super AMOLED, 90Hz, 1100 nits (HBM); 6.7 inches, 110.2 cm2 (~86.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus"
+   ],
+   [
+    "OS",
+    "Android 15, up to 6 major OS updates, One UI 8.5"
+   ],
+   [
+    "Chipset",
+    "Exynos 1330 (5 nm); CPU Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU Mali-G68 MP2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, AF, OIS 5 MP, f/2.2, (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP, f/2.0, (wide), 1/3.1\", 1.12µm; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Ion 5000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Black, Violet"
+   ]
+  ],
+  "slug": "samsung-galaxy-f17-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_f17_5g-14107.php",
+  "tag": "6.7\" display · Exynos 1330 · 4 GB RAM · 5000 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Exynos 2400",
+   "8 GB RAM",
+   "4900 mAh"
+  ],
+  "name": "Samsung Galaxy S25 FE",
+  "price": 189999,
+  "price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-s25-fe",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, September 04, released 2025, September 04)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "161.3 x 76.6 x 7.4 mm (6.35 x 3.02 x 0.29 in); 190 g (6.70 oz); Glass front (Gorilla Glass Victus+), glass back (Gorilla Glass Victus+), aluminum frame; Nano-SIM Nano-SIM + Nano-SIM Nano-SIM + eSIM eSIM + eSIM"
+   ],
+   [
+    "Display",
+    "Dynamic AMOLED 2X, 120Hz, HDR10+, 1900 nits (peak); 6.7 inches, 110.2 cm2 (~89.2% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
+   ],
+   [
+    "OS",
+    "Android 16, upgradable to Android 17, up to 7 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Exynos 2400 (4 nm); CPU 10-core (1x3.2GHz Cortex-X4 & 2x2.9GHz Cortex-A720 & 3x2.6GHz Cortex-A720 & 4x1.95GHz Cortex-A520); GPU Xclipse 940"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 24mm (wide), 1/1.57\", 1.0µm, dual pixel PDAF, OIS 8 MP, f/2.4, 75mm (telephoto), 1/4.4\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.0\", 1.12µm; LED flash, HDR, panorama, Best Face; video 8K@24/30fps, 4K@30/60/120fps, 1080p@30/60/120/240fps; gyro-EIS, HDR10+"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.2, 26mm (wide), 1/3.2\", 1.12µm; HDR; video 4K@30/60fps, 1080p@30/60fps; gyro-EIS, HDR10+"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band or tri-band (market/region dependent), Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, GALILEO, BDS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG"
+   ],
+   [
+    "Battery",
+    "4900 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired, PD, QC2, 65% in 30 min 15W wireless, Qi2 compatible Reverse wireless"
+   ],
+   [
+    "Colors",
+    "Icyblue, Jetblack, Navy, White"
+   ]
+  ],
+  "slug": "samsung-galaxy-s25-fe-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_s25_fe_5g-14042.php",
+  "tag": "6.7\" display · Exynos 2400 · 8 GB RAM · 4900 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Tablets",
+  "hl": [
+   "14.6\" display",
+   "Mediatek Dimensity 9400+",
+   "12 GB RAM",
+   "11600 mAh"
+  ],
+  "name": "Samsung Galaxy Tab S11 Ultra",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, September 04, released 2025, September 04)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "326.3 x 208.5 x 5.1 mm (12.85 x 8.21 x 0.20 in); 692 g or 695 g (1.53 lb); Glass front, aluminum frame, aluminum back; Nano-SIM + eSIM (cellular model only)"
+   ],
+   [
+    "Display",
+    "Dynamic AMOLED 2X, 120Hz, HDR10+, 1000 nits (typ), 1600 nits (peak); 14.6 inches, 617.8 cm2 (~90.8% screen-to-body ratio); 1848 x 2960 pixels, 16:10 ratio (~239 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, One UI 8.5"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 9400+ (3 nm); CPU Octa-core (1x3.63 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720); GPU Immortalis-G925"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB / 1 TB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "13 MP, f/2.0, 26mm (wide), 1/3.4\", 1.0µm, AF 8 MP, f/2.2, (ultrawide); LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.4, 120˚ (ultrawide); HDR; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (4 speakers)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, BDS, GALILEO"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, magnetic connector"
+   ],
+   [
+    "Battery",
+    "Li-Po 11600 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired"
+   ],
+   [
+    "Colors",
+    "Moonstone Gray, Platinum Silver"
+   ]
+  ],
+  "slug": "samsung-galaxy-tab-s11-ultra-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_tab_s11_ultra_5g-14057.php",
+  "tag": "14.6\" display · Mediatek Dimensity 9400+ · 12 GB RAM · 11600 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Tablets",
+  "hl": [
+   "11.0\" display",
+   "Mediatek Dimensity 9400+",
+   "12 GB RAM",
+   "8400 mAh"
+  ],
+  "name": "Samsung Galaxy Tab S11",
+  "price": 247999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, September 04, released 2025, September 04)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "253.8 x 165.3 x 5.5 mm (9.99 x 6.51 x 0.22 in); 469 g or 471 g (1.03 lb); Glass front, aluminum frame, aluminum back; Nano-SIM + eSIM (cellular model only)"
+   ],
+   [
+    "Display",
+    "Dynamic AMOLED 2X, 120Hz, HDR10+, 1000 nits (typ), 1600 nits (peak); 11.0 inches, 350.9 cm2 (~83.6% screen-to-body ratio); 1600 x 2560 pixels, 16:10 ratio (~274 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, One UI 8.5"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 9400+ (3 nm); CPU Octa-core (1x3.63 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720); GPU Immortalis-G925"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB / 512 GB / 2 TB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "13 MP, f/2.0, 26mm (wide), 1/3.4\", 1.0µm, AF; LED flash, HDR, panorama; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "12 MP, f/2.4, 120˚ (ultrawide); HDR; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers (4 speakers)"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, BDS, GALILEO - cellular model only"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, magnetic connector"
+   ],
+   [
+    "Battery",
+    "Li-Po 8400 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired"
+   ],
+   [
+    "Colors",
+    "Moonstone Gray, Platinum Silver"
+   ]
+  ],
+  "slug": "samsung-galaxy-tab-s11-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_tab_s11_5g-14058.php",
+  "tag": "11.0\" display · Mediatek Dimensity 9400+ · 12 GB RAM · 8400 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Tablets",
+  "hl": [
+   "10.9\" display",
+   "Exynos 1380",
+   "6 GB RAM",
+   "8000 mAh"
+  ],
+  "name": "Samsung Galaxy Tab S10 Lite",
+  "price": 107999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, August 25, released 2025, August 25)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "254.3 x 165.8 x 6.6 mm (10.01 x 6.53 x 0.26 in); 524 g (1.16 lb); Glass front, aluminum back, aluminum frame; Nano-SIM + eSIM (cellular model only)"
+   ],
+   [
+    "Display",
+    "TFT LCD, 90Hz; 10.9 inches, 344.5 cm2 (~81.7% screen-to-body ratio); 1320 x 2112 pixels, 16:10 ratio (~228 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 15, up to 7 major OS updates, One UI 7"
+   ],
+   [
+    "Chipset",
+    "Exynos 1380 (5 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G68 MP5"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (dedicated slot)"
+   ],
+   [
+    "Main Camera",
+    "8 MP, (wide), AF; video 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP, (wide); video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Accelerometer, gyro, proximity (accessories only), compass (cellular model only)"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS - cellular model only"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "Li-Po 8000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired, 100% in 120 min"
+   ],
+   [
+    "Colors",
+    "Gray, Silver, Coral Red"
+   ]
+  ],
+  "slug": "samsung-galaxy-tab-s10-lite-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_tab_s10_lite_5g-14059.php",
+  "tag": "10.9\" display · Exynos 1380 · 6 GB RAM · 8000 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Exynos 1330",
+   "4 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy A17",
+  "price": 62995,
+  "price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a17",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, August 06, released 2025, August 14)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "164.4 x 77.9 x 7.5 mm (6.47 x 3.07 x 0.30 in); 192 g (6.77 oz); Glass front (Gorilla Glass Victus), plastic frame, glass-fiber reinforced plastic back; Nano-SIM Nano-SIM + eSIM Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Super AMOLED, 90Hz, 800 nits (HBM); 6.7 inches, 110.2 cm2 (~86.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus"
+   ],
+   [
+    "OS",
+    "Android 15, up to 6 major OS updates, One UI 8.5"
+   ],
+   [
+    "Chipset",
+    "Exynos 1330 (5 nm); CPU Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55); GPU Mali-G68 MP2"
+   ],
+   [
+    "RAM",
+    "4 GB / 6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/2.76\", 0.64µm, AF, OIS 5 MP, f/2.2, (ultrawide), 1/5.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 1080p@30fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP, f/2.0, (wide), 1/3.1\", 1.12µm; video 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Black, Gray, Blue"
+   ]
+  ],
+  "slug": "samsung-galaxy-a17-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_a17_5g-14041.php",
+  "tag": "6.7\" display · Exynos 1330 · 4 GB RAM · 5000 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Exynos 1380",
+   "6 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy F36",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, July 21, released 2025, July 29)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "164.4 x 77.9 x 7.7 mm (6.47 x 3.07 x 0.30 in); 197 g (6.95 oz); Glass front (Gorilla Glass Victus+), plastic frame, silicone polymer back (eco leather); Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Super AMOLED, 120Hz; 6.7 inches, 109.1 cm2 (~85.2% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~387 ppi density); Corning Gorilla Glass Victus+"
+   ],
+   [
+    "OS",
+    "Android 15, up to 6 major OS updates, One UI 7"
+   ],
+   [
+    "Chipset",
+    "Exynos 1380 (5 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G68 MP5"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/1.96\", PDAF, OIS 8 MP, f/2.2, 123˚, (ultrawide), 1/4.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, 720p@480fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP, f/2.2, (wide), 1/3.06\", 1.12µm; HDR; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Luxe Violet, Coral Red, Onyx Black"
+   ]
+  ],
+  "slug": "samsung-galaxy-f36-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_f36_5g-14009.php",
+  "tag": "6.7\" display · Exynos 1380 · 6 GB RAM · 5000 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "8.0\" display",
+   "Qualcomm SM8750-AC Snapdragon ",
+   "12 GB RAM",
+   "4400 mAh"
+  ],
+  "name": "Samsung Galaxy Z Fold7",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, July 09, released 2025, July 25)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "Unfolded: 158.4 x 143.2 x 4.2 mmFolded: 158.4 x 72.8 x 8.9 mm; 215 g (7.58 oz); Glass front (Gorilla Glass Victus Ceramic 2) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM + multiple eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 8.0 inches, 204.2 cm2 (~90.0% screen-to-body ratio); 1968 x 2184 pixels (~368 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, upgradable to Android 17, up to 7 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM8750-AC Snapdragon 8 Elite (3 nm); CPU Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); GPU Adreno 830 (1200 MHz)"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; No"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.7, 24mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 1.4µm, dual pixel PDAF; LED flash, HDR, panorama; video 8K@30fps, 4K@60fps, 1080p@60/120/240fps (gyro-EIS), 10-bit HDR, HDR10+"
+   ],
+   [
+    "Selfie Camera",
+    "10 MP, f/2.2, 18mm (ultrawide), 1/3.0\", 1.12µm Cover camera: 10 MP, f/2.2, 24mm (wide), 1/3.0\", 1.12µm; HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG"
+   ],
+   [
+    "Battery",
+    "Li-Po 4400 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired, QC2.0, 50% in 30 min 15W wireless 4.5W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Blue Shadow, Silver Shadow, Jet Black, Mint"
+   ]
+  ],
+  "slug": "samsung-galaxy-z-fold7",
+  "source": "https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php",
+  "tag": "8.0\" display · Qualcomm SM8750-AC Snapdragon  · 12 GB RAM · 4400 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.9\" display",
+   "Exynos 2500",
+   "12 GB RAM",
+   "4300 mAh"
+  ],
+  "name": "Samsung Galaxy Z Flip7",
+  "price": null,
+  "price_src": "https://directories.parhlo.com/mobile/samsung-galaxy-z-flip7-price-in-pakistan",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, July 09, released 2025, July 25)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "Unfolded: 166.7 x 75.2 x 6.5 mmFolded: 85.5 x 75.2 x 13.7 mm; 188 g (6.63 oz); Plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time) Nano-SIM + multiple eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.9 inches, 111.2 cm2 (~88.7% screen-to-body ratio); 1080 x 2520 pixels, 21:9 ratio (~397 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, upgradable to Android 17, up to 7 major OS updates, One UI 9"
+   ],
+   [
+    "Chipset",
+    "Exynos 2500 (3 nm); CPU 10-core (1x3.3GHz Cortex-X925 & 2x2.74GHz Cortex-A725 & 5x2.36GHz Cortex-A725 & 2x1.8GHz Cortex-A520); GPU Xclipse 950"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 23mm (wide), 1/1.57\", 1.0µm, dual pixel PDAF, OIS 12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.2\", 1.12µm; LED flash, HDR, panorama; video 4K@30/60fps, 1080p@60/120/240fps, HDR10+"
+   ],
+   [
+    "Selfie Camera",
+    "10 MP, f/2.2, 23mm (wide), 1/3.0\", 1.22µm; HDR; video 4K@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2, OTG"
+   ],
+   [
+    "Battery",
+    "4300 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired, QC2.0, 50% in 30 min 15W wireless 4.5W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Blue Shadow, Jet Black, Coral Red, Mint"
+   ]
+  ],
+  "slug": "samsung-galaxy-z-flip7",
+  "source": "https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php",
+  "tag": "6.9\" display · Exynos 2500 · 12 GB RAM · 4300 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Exynos 2400",
+   "8 GB RAM",
+   "4000 mAh"
+  ],
+  "name": "Samsung Galaxy Z Flip7 FE",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, July 09, released 2025, July 25)"
+   ],
+   [
+    "Network",
+    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
+   ],
+   [
+    "Body",
+    "Unfolded: 165.1 x 71.9 x 6.9 mmFolded: 85.1 x 71.9 x 14.9 mm; 187 g (6.60 oz); Plastic front (unfolded), glass back (Gorilla Glass Victus 2), aluminum frame; Nano-SIM + eSIM + eSIM (max 2 at a time) Nano-SIM + multiple eSIM (max 2 at a time)"
+   ],
+   [
+    "Display",
+    "Foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.7 inches, 101.5 cm2 (~85.5% screen-to-body ratio); 1080 x 2640 pixels (~426 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 16, up to 7 major OS updates, One UI 8"
+   ],
+   [
+    "Chipset",
+    "Exynos 2400 (4 nm); CPU 10-core (1x3.2GHz Cortex-X4 & 2x2.9GHz Cortex-A720 & 3x2.6GHz Cortex-A720 & 4x1.95GHz Cortex-A520); GPU Xclipse 940"
+   ],
+   [
+    "RAM",
+    "8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; No"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 23mm (wide), 1/1.57\", 1.0µm, dual pixel PDAF, OIS 12 MP, f/2.2, 13mm, 123˚ (ultrawide), 1/3.2\", 1.12µm; LED flash, HDR, panorama; video 4K@30/60fps, 1080p@60/120/240fps, HDR10+"
+   ],
+   [
+    "Selfie Camera",
+    "10 MP, f/2.2, 23mm (wide), 1/3.0\", 1.22µm; HDR; video 4K@30/60fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, tri-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 3.2"
+   ],
+   [
+    "Battery",
+    "4000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired, QC2.0, 50% in 30 min 15W wireless 4.5W reverse wireless"
+   ],
+   [
+    "Colors",
+    "Black, White"
+   ]
+  ],
+  "slug": "samsung-galaxy-z-flip7-fe-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_z_flip7_fe_5g-13844.php",
+  "tag": "6.7\" display · Exynos 2400 · 8 GB RAM · 4000 mAh",
+  "year": 2025
+ },
+ {
+  "brand": "Samsung",
+  "cat": "Smartphones",
+  "hl": [
+   "6.7\" display",
+   "Exynos 1380",
+   "6 GB RAM",
+   "5000 mAh"
+  ],
+  "name": "Samsung Galaxy M36",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2025 (announced 2025, June 27, released 2025, July 12)"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "164.4 x 77.9 x 7.7 mm (6.47 x 3.07 x 0.30 in); 197 g (6.95 oz); Glass front (Gorilla Glass Victus+), plastic frame, glass back; Nano-SIM + Nano-SIM"
+   ],
+   [
+    "Display",
+    "Super AMOLED, 120Hz; 6.7 inches, 110.2 cm2 (~86.0% screen-to-body ratio); 1080 x 2340 pixels, 19.5:9 ratio (~385 ppi density); Corning Gorilla Glass Victus+"
+   ],
+   [
+    "OS",
+    "Android 15, up to 6 major OS updates, One UI 7"
+   ],
+   [
+    "Chipset",
+    "Exynos 1380 (5 nm); CPU Octa-core (4x2.4 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G68 MP5"
+   ],
+   [
+    "RAM",
+    "6 GB / 8 GB"
+   ],
+   [
+    "Storage",
+    "128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, (wide), 1/1.96\", PDAF, OIS 8 MP, f/2.2, 123˚, (ultrawide), 1/4.0\", 1.12µm 2 MP (macro); LED flash, panorama, HDR; video 4K@30fps, 1080p@30/60fps, 720p@480fps, gyro-EIS"
+   ],
+   [
+    "Selfie Camera",
+    "13 MP, f/2.2, (wide), 1/3.06\", 1.12µm; HDR; video 4K@30fps, 1080p@30fps"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.3, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS, GALILEO, GLONASS, BDS, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "5000 mAh"
+   ],
+   [
+    "Charging",
+    "25W wired"
+   ],
+   [
+    "Colors",
+    "Orange Haze, Velvet Black, Serene Green"
+   ]
+  ],
+  "slug": "samsung-galaxy-m36-5g",
+  "source": "https://www.gsmarena.com/samsung_galaxy_m36_5g-13967.php",
+  "tag": "6.7\" display · Exynos 1380 · 6 GB RAM · 5000 mAh",
+  "year": 2025
+ }
 ]

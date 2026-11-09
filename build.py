@@ -373,6 +373,154 @@ if _alias_drop:
     print(f"DEDUP ALIAS: removed {len(_alias_drop)} alias records: {sorted(_alias_drop)}")
     ALL = [d for d in ALL if d["slug"] not in _alias_drop]
 
+# ---- Batch B duplicate merges (master audit C2, owner-approved 2026-11-09) ----
+# Every (loser, keeper) pair below was adjudicated a TRUE duplicate of one
+# commercial device: hyphen slug twins, internal-code pages whose own "Also
+# Known As" names the keeper, Apple chip-name/year-name pairs, and proven
+# rebrands (one device sold under two names — the keeper page gains an
+# "Also Known As" row per the region rule). The loser record is dropped from
+# ALL (so it leaves phones.json, specs.json, listings and the sitemap) and
+# main() writes a redirect stub at its old URL. Distinct variants, regional
+# editions with their own pricing, dual-SIM SKUs and cross-brand copied-spec
+# records are deliberately NOT here — they stay live (see the Batch B log).
+# Field merge: any spec row the keeper lacks is copied from the loser before
+# the drop (keeper wins every conflict). Price: the keeper's price stands,
+# except the four conflicts re-verified in the Batch B log (set in
+# prices-fix.json) and the unpriced-keeper cases, which adopt the loser's
+# price (and Expected flag) below. ABSOLUTE EXCLUSIONS per owner ruling:
+# tecno-spark-go-5g / tecno-spark-40-5g, itel-a06s, oppo-a33, vivo-y15,
+# vivo-y22, vivo-y15s, vivo-y35 — none appear here.
+_MERGES_B = [
+    # Hyphen slug twins (13)
+    ("honor-magic-6-pro", "honor-magic6-pro"),
+    ("honor-magic7-lite", "honor-magic-7-lite"),
+    ("oppo-reno-10-pro", "oppo-reno10-pro"),
+    ("oppo-reno10-pro+", "oppo-reno-10-pro+"),
+    ("oppo-reno13", "oppo-reno-13"),
+    ("oppo-reno14", "oppo-reno-14"),
+    ("realme-gt-neo3-150w", "realme-gt-neo-3-150w"),
+    ("samsung-galaxy-note-8", "samsung-galaxy-note8"),
+    ("samsung-galaxy-z-flip-5", "samsung-galaxy-z-flip5"),
+    ("samsung-galaxy-z-flip-6", "samsung-galaxy-z-flip6"),
+    ("samsung-galaxy-z-flip-7", "samsung-galaxy-z-flip7"),
+    ("samsung-galaxy-z-fold-5", "samsung-galaxy-z-fold5"),
+    ("samsung-galaxy-z-fold-6", "samsung-galaxy-z-fold6"),
+    # Internal-code pages duplicating a commercial-name page (12)
+    ("huawei-tlr-al00", "huawei-nova-14"),
+    ("huawei-juy-al00", "huawei-enjoy-80"),
+    ("huawei-mia-al00", "huawei-nova-14-pro"),
+    ("huawei-mrt-al10", "huawei-nova-14-ultra"),
+    ("huawei-bre-al00a", "huawei-enjoy-70x-energy"),
+    ("huawei-grl-al20", "huawei-mate-xts-ultimate"),
+    ("oppo-pln110", "oppo-a6-pro"),
+    ("oppo-pffm20", "oppo-find-x5-pro"),
+    ("honor-nla-lx3", "honor-play-10a"),
+    ("honor-dny-nx9", "honor-400"),
+    ("honor-dnp-nx9", "honor-400-pro"),
+    ("philips-e2103", "philips-e2102"),
+    # Apple chip-name / year-name pairs (6)
+    ("apple-ipad-10", "apple-ipad-(2022)"),
+    ("apple-ipad-air-m2", "apple-ipad-air-11-(2024)"),
+    ("apple-ipad-air-m3", "apple-ipad-air-11-(2025)"),
+    ("apple-ipad-pro-m4-11", "apple-ipad-pro-11-(2024)"),
+    ("apple-ipad-pro-13-m4", "apple-ipad-pro-13-(2024)"),
+    ("apple-macbook-air-m3-13", "apple-macbook-air-m3"),
+    # Exact-name pair: the -5g record carries the full data + Expected price
+    ("huawei-mate-x7-5g", "huawei-mate-x7"),
+    # Same device under two names / legacy branding / year-relabelled copies (26)
+    ("huawei-maimang-6", "huawei-nova-2i"),
+    ("motorola-moto-g-power-2025", "motorola-moto-g-power-(2025)"),
+    ("xiaomi-9", "xiaomi-mi-9"),
+    ("samsung-galaxy-s21", "samsung-galaxy-s21-5g"),
+    ("huawei-honor-20-lite", "honor-20-lite"),
+    ("huawei-honor-8s", "honor-8s"),
+    ("huawei-10-lite", "huawei-honor-10-lite"),
+    ("huawei-nova-6se", "huawei-nova-7i"),
+    ("huawei-y7a", "huawei-p-smart-2021"),
+    ("huawei-y5p", "honor-9s"),
+    ("lg-k10-lte", "lg-k10"),
+    ("oppo-a35", "oppo-a15s"),
+    ("oppo-reno5-f", "oppo-a94"),
+    ("oppo-reno5-lite", "oppo-a94"),
+    ("vivo-y79a", "vivo-v7+"),
+    ("vivo-y70", "vivo-v20-se"),
+    ("vivo-s1-prime", "vivo-x50-lite"),
+    ("xiaomi-mi-11x-pro", "xiaomi-mi-11i"),
+    ("huawei-y6s", "honor-play-8a"),
+    ("htc-desire-700", "htc-desire-700-dual-sim"),
+    ("motorola-moto-e-(2020)", "motorola-moto-e"),
+    ("motorola-moto-e-dual-sim", "motorola-moto-e"),
+    ("motorola-moto-g-power-(2022)", "motorola-moto-g-power"),
+    ("vivo-y3s-(2021)", "vivo-y3s"),
+    ("vivo-x21a", "vivo-x21"),
+    ("huawei-honor-20s", "huawei-20s"),
+]
+# Rebrand keepers gain the loser's commercial name as an "Also Known As" row.
+_AKA_B = {
+    "huawei-nova-2i": ["Huawei Maimang 6"],
+    "huawei-p-smart-2021": ["Huawei Y7a"],
+    "honor-9s": ["Huawei Y5p"],
+    "oppo-a15s": ["Oppo A35"],
+    "oppo-a94": ["Oppo Reno5 F", "Oppo Reno5 Lite"],
+    "vivo-v7+": ["Vivo Y79a"],
+    "vivo-v20-se": ["Vivo Y70"],
+    "vivo-x50-lite": ["Vivo S1 Prime"],
+    "xiaomi-mi-11i": ["Xiaomi Mi 11X Pro"],
+    "honor-play-8a": ["Huawei Y6s"],
+    "huawei-nova-7i": ["Huawei Nova 6 SE"],
+    "vivo-x21": ["Vivo X21A"],
+}
+_MERGED_STUBS = {}  # loser slug -> (loser folder, keeper slug); main() writes the stubs
+_by_slug_b = {d["slug"]: d for d in ALL}
+# Honor X70 swap (Batch D finding): honor-mtn-an00 IS the true 2025 Honor X70
+# (Snapdragon 6 Gen 4, 8300 mAh, announced 15 Jul 2025), while the honor-x70
+# record carries a different phone's 2021 data. Move mtn-an00's data onto the
+# honor-x70 slug, then stub the code slug like every other merge.
+_x70 = _by_slug_b.get("honor-x70"); _mtn = _by_slug_b.get("honor-mtn-an00")
+if _x70 is not None and _mtn is not None:
+    _x70["rows"] = [(k, v) for k, v in _mtn["rows"] if k != "Also Known As"]
+    _x70["name"] = "Honor X70"
+    _x70["price"] = _mtn.get("price"); _x70["price_src"] = _mtn.get("price_src", "")
+    _x70["price_expected"] = False; _x70.pop("price_unverified", None)
+    _x70["year"] = 2025
+    if _mtn.get("hl"): _x70["hl"] = _mtn["hl"]
+    if _mtn.get("tag"): _x70["tag"] = _mtn["tag"]
+    _MERGED_STUBS["honor-mtn-an00"] = (_mtn["folder"], "honor-x70")
+_KEY_SYN_B = {"OS": "Operating System", "Camera": "Main Camera"}
+_skipped_b = []
+for _loser, _keeper in _MERGES_B:
+    _L = _by_slug_b.get(_loser); _K = _by_slug_b.get(_keeper)
+    if _L is None or _K is None:
+        _skipped_b.append((_loser, _keeper)); continue
+    _have = {k for k, _ in _K["rows"]}
+    for _k, _v in _L["rows"]:
+        if _k in ("Price", "Price in Pakistan", "Also Known As"): continue
+        _k2 = _KEY_SYN_B.get(_k, _k)
+        if _k in _have or _k2 in _have: continue
+        if _k2 == "Chipset" and "Processor" in _have: continue
+        if _k2 == "Processor" and "Chipset" in _have: continue
+        _K["rows"].append((_k, _v)); _have.add(_k)
+    if _K.get("price") is None and _L.get("price") is not None:
+        _K["price"] = _L["price"]; _K["price_src"] = _L.get("price_src", "")
+        _K["price_expected"] = bool(_L.get("price_expected"))
+        _K.pop("price_unverified", None)
+    _MERGED_STUBS[_loser] = (_L["folder"], _keeper)
+for _keeper, _names in _AKA_B.items():
+    _K = _by_slug_b.get(_keeper)
+    if _K is None or _keeper in _MERGED_STUBS: continue
+    _aka_i = next((i for i, (k, _) in enumerate(_K["rows"]) if k == "Also Known As"), None)
+    if _aka_i is None:
+        _K["rows"].append(("Also Known As", "; ".join(_names)))
+    else:
+        _cur = str(_K["rows"][_aka_i][1])
+        _add = [n for n in _names if n.lower() not in _cur.lower()]
+        if _add: _K["rows"][_aka_i] = ("Also Known As", _cur + "; " + "; ".join(_add))
+if _MERGED_STUBS:
+    ALL = [d for d in ALL if d["slug"] not in _MERGED_STUBS]
+    print(f"BATCH B MERGES: dropped {len(_MERGED_STUBS)} duplicate records: {sorted(_MERGED_STUBS)}")
+if _skipped_b:
+    print(f"BATCH B MERGES SKIPPED (record missing): {_skipped_b}")
+
 # ---- Gap fixes (Phase 1): verified rows for fields a record is missing ----
 _gf = os.path.join(os.path.dirname(os.path.abspath(__file__)), "verified", "gaps-fix.json")
 if os.path.exists(_gf):
@@ -1001,6 +1149,28 @@ def main():
 <h2>Compare {esc(d['name'])}</h2><div class="chips">{clinks}</div>{rel_html}"""
         pg += foot(depth=1)
         write(f"{d['folder']}/{d['slug']}.html", pg)
+    # Batch B (2026-11-09): redirect stubs at the merged-away duplicate URLs,
+    # in the same format as the 2026-11-08 category-move stubs (canonical link
+    # + meta refresh + noindex), pointing at each keeper's canonical URL.
+    _kmap_b = {d["slug"]: d for d in ALL}
+    for _ls, (_lfold, _keep) in sorted(_MERGED_STUBS.items()):
+        _kd = _kmap_b.get(_keep)
+        if not _kd: continue
+        _kurl = f"{BASE}{_kd['folder']}/{_keep}.html"
+        write(f"{_lfold}/{_ls}.html", f"""<!DOCTYPE html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<title>{esc(_kd['name'])} — Check Specs</title>
+<link rel="canonical" href="{_kurl}">
+<meta http-equiv="refresh" content="0; url={_kurl}">
+<meta name="robots" content="noindex">
+</head>
+<body>
+<p>This page has moved to <a href="{_kurl}">{esc(_kd['name'])} — full specifications and price</a>.</p>
+</body>
+</html>
+""")
     # Brand pages
     for b in BRANDS:
         items = [d for d in ALL if d["brand"] == b]

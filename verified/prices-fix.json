@@ -10,7 +10,7 @@
  "apple-ipad-air-m3": 204999,
  "apple-ipad-mini-(2024)": 200000,
  "apple-ipad-pro-11-(2022)": 325999,
- "apple-ipad-pro-11-(2024)": 371999,
+ "apple-ipad-pro-11-(2024)": 289999,
  "apple-ipad-pro-11-5g-(2025)": 340999,
  "apple-ipad-pro-13-(2024)": 479999,
  "apple-ipad-pro-13-5g-(2025)": 449999,
@@ -307,7 +307,7 @@
  "samsung-galaxy-xcover7-pro": 109999,
  "samsung-galaxy-z-flip-6": 384999,
  "samsung-galaxy-z-flip-7": 389999,
- "samsung-galaxy-z-flip7": 151999,
+ "samsung-galaxy-z-flip7": 389999,
  "samsung-galaxy-z-flip7-fe-5g": 145999,
  "samsung-galaxy-z-flip8-5g": 234999,
  "samsung-galaxy-z-fold-5": 656999,
@@ -486,5 +486,7 @@
  "nothing-phone-2": 245999,
  "nokia-105-2023": 4999,
  "realme-12-plus": 79999,
- "zte-nubia-redmagic-12-pro-5g": 248999
+ "zte-nubia-redmagic-12-pro-5g": 248999,
+ "samsung-galaxy-z-fold5": 399999,
+ "samsung-galaxy-z-fold6": 604999
 }

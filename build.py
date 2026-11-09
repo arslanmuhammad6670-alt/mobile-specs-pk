@@ -384,6 +384,18 @@ if os.path.exists(_gf):
                 if _k not in _have:
                     _d["rows"].append((_k, _v))
 
+# ---- Row value fixes (Batch E): replace a named row's value in place with a
+# verified value (e.g. a placeholder chipset -> the real chipset). Applied
+# before price normalisation; must never carry a Price key. ----
+_rf = os.path.join(os.path.dirname(os.path.abspath(__file__)), "verified", "rows-fix.json")
+if os.path.exists(_rf):
+    _rowsfix = json.load(open(_rf, encoding="utf-8"))
+    assert "Price" not in {k for v in _rowsfix.values() for k in v}, "rows-fix must never carry Price"
+    for _d in ALL:
+        if _d["slug"] in _rowsfix:
+            _fix = _rowsfix[_d["slug"]]
+            _d["rows"] = [(k, _fix.get(k, v)) for k, v in _d["rows"]]
+
 # ---- FINAL price-row normalization (bug fix 2026-11-03): the specs table's
 # Price row must ALWAYS match the record's price (the same value the header,
 # title and JSON-LD use). Drop every inherited Price row, then append exactly
@@ -487,6 +499,8 @@ def _flat_rows(d):
         if k == "Body": out += _split_body(v)
         elif k == "Display": out += _split_display(v)
         elif k == "Chipset": out += _split_chipset(v)
+        elif k == "OS": out.append(("Operating System", v))
+        elif k == "Camera": out += _split_cam(v, "Main Camera")
         elif k == "Main Camera": out += _split_cam(v, "Main Camera")
         elif k == "Selfie Camera": out += _split_cam(v, "Selfie Camera")
         elif k == "Sensors/Features": out += _split_sensors(v)
@@ -500,6 +514,20 @@ def _flat_rows(d):
         seen.add(kv[0]); ded.append(kv)
     order = {name: i for i, name in enumerate(_ORDER)}
     return [ded[i] for i in sorted(range(len(ded)), key=lambda i: (order.get(ded[i][0], 500), i))]
+def _specs_export(d):
+    # Batch E: mirror the device-page key normalisation in the compare export —
+    # OS -> Operating System, Camera -> Main Camera (first wins, like _flat_rows),
+    # and split Sensors/Features into Fingerprint + Sensors.
+    out = {}
+    for k, v in d["rows"]:
+        if k == "Price": continue
+        if k == "Sensors/Features":
+            for kk, vv in _split_sensors(str(v)):
+                if kk not in out: out[kk] = vv
+            continue
+        kk = {"OS": "Operating System", "Camera": "Main Camera"}.get(k, k)
+        if kk not in out: out[kk] = str(v)
+    return out
 
 # ---- Color images (verified per-color renders; added model by model) ----
 _imgf = os.path.join(os.path.dirname(os.path.abspath(__file__)), "verified", "images.json")
@@ -816,7 +844,7 @@ def main():
     export = [{"slug": d["slug"], "name": d["name"], "brand": d["brand"], "cat": d["cat"],
                "price": usd(d["price"]) if d["price"] is not None else None, "price_pkr": d["price"], "path": f"{d['folder']}/{d['slug']}.html", **({"exp": 1} if d.get("price_expected") else {}), **({"unv": 1} if d.get("price_unverified") else {}), **({"pl": _price_meta(d)[0]} if d["price"] is not None else {})} for d in ALL]
     write("phones.json", json.dumps(export, ensure_ascii=False, indent=1))
-    write("specs.json", json.dumps({d["slug"]: {k: str(v) for k, v in d["rows"] if k != "Price"} for d in ALL}, ensure_ascii=False, indent=1))
+    write("specs.json", json.dumps({d["slug"]: _specs_export(d) for d in ALL}, ensure_ascii=False, indent=1))
     write("rates.json", json.dumps({"base": "PKR", "updated": RATES_UPDATED,
         "source": "ExchangeRate-API (open.er-api.com) mid-market rates",
         "note": "Prices are stored in PKR. Converted figures are estimates, not local shop prices.",

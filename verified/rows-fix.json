@@ -1,0 +1,44 @@
+{
+ "asus-zenfone-selfie": {
+  "Chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)"
+ },
+ "huawei-lmr-al00": {
+  "Chipset": "Kirin 9020 (7 nm)"
+ },
+ "lg-g-vista": {
+  "Chipset": "Qualcomm Snapdragon 400 (28 nm)"
+ },
+ "realme-narzo-50i": {
+  "Chipset": "Unisoc SC9863A (28 nm); IMG8322"
+ },
+ "samsung-galaxy-folder-2": {
+  "Chipset": "Qualcomm MSM8917 Snapdragon 425 (28 nm)"
+ },
+ "samsung-galaxy-mega-5.8": {
+  "Chipset": "Broadcom BCM28155"
+ },
+ "samsung-galaxy-note-10": {
+  "Chipset": "Exynos 9825 (7 nm) - EMEA/LATAM"
+ },
+ "samsung-galaxy-note-5": {
+  "Chipset": "Exynos 7420 Octa (14 nm)"
+ },
+ "samsung-galaxy-note-7": {
+  "Chipset": "Exynos 8890 Octa (14 nm)"
+ },
+ "samsung-galaxy-note-8": {
+  "Chipset": "Exynos 8895 (10 nm) - EMEA"
+ },
+ "samsung-galaxy-note-9": {
+  "Chipset": "Exynos 9810 (10 nm) - EMEA"
+ },
+ "samsung-galaxy-s4": {
+  "Chipset": "Exynos 5410 Octa (28 nm)"
+ },
+ "vivo-v1max": {
+  "Chipset": "Qualcomm MSM8939 Snapdragon 615 (28 nm)"
+ },
+ "vivo-y66": {
+  "Chipset": "Qualcomm MSM8937 Snapdragon 430 (28 nm)"
+ }
+}

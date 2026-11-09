@@ -44,6 +44,7 @@ async function initCompare(){
  brandA.onchange=()=>{fillModels(selA,brandA.value);render()};
  brandB.onchange=()=>{fillModels(selB,brandB.value);render()};
  async function render(){const a=phones.find(p=>p.slug===selA.value),b=phones.find(p=>p.slug===selB.value);if(!a||!b)return;
+  try{history.replaceState(null,'','?a='+a.slug+'&b='+b.slug)}catch(e){}
   const sa=await specsOf(a),sb=await specsOf(b);
   const keys=['Price','Brand','Category'];
   [sa,sb].forEach(s=>Object.keys(s).forEach(k=>{if(!keys.includes(k))keys.push(k)}));

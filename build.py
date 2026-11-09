@@ -4,7 +4,7 @@ Categories: Smartphones, Keypad Phones, Tablets, Laptops, Smartwatches.
 Add a device = add one entry in PHONES (tuple) or DEVICES (dict), re-run build.py, redeploy.
 Prices are stored as approximate Pakistan market prices (PKR) and displayed in USD (RATE below); update here and rebuild.
 """
-import json, os, html
+import json, os, html, shutil
 
 BASE = "https://checkspecs.info/"
 SITE = "Check Specs"
@@ -677,6 +677,7 @@ select{padding:11px;border-radius:8px;border:1.5px solid #0b1e3f;font-size:15px;
 .crumbs{font-size:13px;color:#667;margin:10px 0 2px}.crumbs a{color:#0b55c4;text-decoration:underline}.crumbs a:hover{text-decoration:underline}
 .filterbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;background:#fff;border-radius:12px;box-shadow:0 1px 4px #0001;padding:12px;margin:12px 0}
 .filterbar select{width:auto;flex:1;min-width:160px}.filterbar .fcount{font-size:13px;color:#667;font-weight:600}
+.loadmore{display:block;margin:16px auto 4px;background:#0f62d8;color:#fff;border:0;border-radius:10px;padding:12px 26px;font-size:15px;font-weight:700;cursor:pointer}.loadmore:disabled{opacity:.6;cursor:wait}
 .cmptable th:first-child{position:sticky;left:0;z-index:1;box-shadow:2px 0 4px #00000010}
 .card picture{display:block}.fthumb picture{width:100%;height:100%}
 .tile{background:linear-gradient(135deg,#0b1e3f,#1677ff);color:#fff;border-radius:14px;padding:18px;text-decoration:none;display:block}
@@ -753,11 +754,20 @@ function _sortCmp(s){const pv=c=>{const v=parseFloat(c.dataset.price);return isN
   if(s==='new'||s==='old'){const a=yv(x),b=yv(y);if(a===0&&b===0)return 0;if(a===0)return 1;if(b===0)return -1;return s==='new'?b-a:a-b}
   return 0}}
 function initSortZones(){document.querySelectorAll('.sortzone').forEach(zone=>{const grid=zone.querySelector('.sortgrid');if(!grid)return;const fb=zone.querySelector('.fbrand'),fs=zone.querySelector('.fsort'),fc=zone.querySelector('.fcount');const cards=[...grid.children];
- function apply(){const b=fb?fb.value:'';const vis=cards.filter(c=>!b||c.dataset.brand===b);const s=fs?fs.value:'def';
+ const fkey=zone.dataset.frag||'',fn=parseInt(zone.dataset.fragn||'0'),ftot=parseInt(zone.dataset.total||'0');let fnext=1,floading=null;
+ const btn=zone.querySelector('.loadmore');
+ function updBtn(){if(!btn)return;if(!fn||fnext>fn){btn.style.display='none';return}btn.style.display='block';btn.textContent='Load more models ('+(ftot-cards.length)+' more)';}
+ async function loadFrag(i){const r=await fetch(_pfx+'frag/'+fkey+'-'+i+'.txt');if(!r.ok)throw new Error('frag '+i);const t=await r.text();const tmp=document.createElement('div');tmp.innerHTML=t;[...tmp.children].forEach(c=>{grid.appendChild(c);cards.push(c)});applyCur();}
+ function loadAll(){if(fnext>fn)return Promise.resolve();if(!floading)floading=(async()=>{while(fnext<=fn){await loadFrag(fnext);fnext++}updBtn()})();return floading;}
+ function apply(){const b=fb?fb.value:'';const s=fs?fs.value:'def';
+  if(fn&&fnext<=fn&&(b||s!=='def')){loadAll().then(()=>apply());if(fc)fc.textContent='Loading all models…';return;}
+  const vis=cards.filter(c=>!b||c.dataset.brand===b);
   cards.forEach(c=>c.style.display=vis.includes(c)?'':'none');
   const ordered=s==='def'?[...vis]:[...vis].sort(_sortCmp(s));
-  ordered.forEach(c=>grid.appendChild(c));if(fc)fc.textContent=vis.length+' models';}
- if(fb)fb.addEventListener('change',apply);if(fs)fs.addEventListener('change',apply);apply();});}
+  ordered.forEach(c=>grid.appendChild(c));if(fc)fc.textContent=((fn&&fnext<=fn&&!b&&s==='def')?ftot:vis.length)+' models';}
+ if(fb)fb.addEventListener('change',apply);if(fs)fs.addEventListener('change',apply);
+ if(btn)btn.addEventListener('click',async()=>{btn.disabled=true;try{await loadFrag(fnext);fnext++}catch(e){}btn.disabled=false;updBtn();apply();});
+ updBtn();apply();});}
 document.addEventListener('DOMContentLoaded',initSortZones);
 function initAzSort(){const sel=document.getElementById('azsort');if(!sel)return;const secs=[];document.querySelectorAll('.azlist').forEach(l=>{secs.push({list:l,head:l.previousElementSibling,rows:[...l.children]})});if(!secs.length)return;const chips=document.querySelector('.azchips');const host=secs[0].list;
  function apply(){const s=sel.value;secs.forEach(sc=>{sc.rows.forEach(r=>sc.list.appendChild(r));sc.list.style.display='';if(sc.head)sc.head.style.display=''});if(chips)chips.style.display='';
@@ -829,6 +839,48 @@ def card(d, base="", bestfor="", upcoming=False):
 <a class="btn alt" href="{base}compare.html?a={d['slug']}">Compare</a></div>
 </div></div>"""
 
+LIST_CAP = 60   # Batch F (2026-11-09): cards rendered server-side per listing page; the rest load on demand from frag/ files
+FRAG_SIZE = 400
+def _fragzone(cards, pagekey):
+    if len(cards) <= LIST_CAP:
+        return "".join(cards), "", ""
+    rest = cards[LIST_CAP:]
+    nfrag = 0
+    for i in range(0, len(rest), FRAG_SIZE):
+        nfrag += 1
+        write(f"frag/{pagekey}-{nfrag}.txt", "".join(rest[i:i + FRAG_SIZE]))
+    attrs = f' data-frag="{pagekey}" data-fragn="{nfrag}" data-total="{len(cards)}"'
+    return "".join(cards[:LIST_CAP]), attrs, '<button class="loadmore" type="button">Load more models</button>'
+
+def _shard_analyser():
+    """Batch F (2026-11-09): split the analyser data into small per-lookup shards.
+    Source of truth stays docs/tac-data.json + docs/ext-specs.json (patched directly
+    by the nightly / new-models lanes); the shards under docs/tac/ and docs/ext/ are
+    regenerated from them on EVERY build, and the diff-based packers ship whichever
+    shards changed — so a lane that patches the big files and rebuilds can never
+    leave the analyser reading stale shards."""
+    tp = os.path.join(OUT, "tac-data.json"); ep = os.path.join(OUT, "ext-specs.json")
+    if not (os.path.exists(tp) and os.path.exists(ep)): return
+    tac = json.load(open(tp, encoding="utf-8")); ext = json.load(open(ep, encoding="utf-8"))
+    for sub in ("tac", "ext"):
+        shutil.rmtree(os.path.join(OUT, sub), ignore_errors=True)
+        os.makedirs(os.path.join(OUT, sub), exist_ok=True)
+    groups = {}
+    for e in tac["e"]: groups.setdefault(e[0][:4], []).append(e)
+    for pfx, es in groups.items():
+        sh = {"e": es,
+              "b": {str(e[1]): tac["brands"][e[1]] for e in es},
+              "m": {str(e[2]): tac["models"][e[2]] for e in es},
+              "p": {str(e[3]): tac["phones"][e[3]] for e in es if e[3] >= 0}}
+        with open(os.path.join(OUT, "tac", pfx + ".json"), "w", encoding="utf-8") as f:
+            json.dump(sh, f, ensure_ascii=False, separators=(",", ":"), sort_keys=True)
+    buckets = {}
+    for k, v in ext.items(): buckets.setdefault(int(k) // 512, {})[k] = v
+    for b, items in buckets.items():
+        with open(os.path.join(OUT, "ext", str(b) + ".json"), "w", encoding="utf-8") as f:
+            json.dump(items, f, ensure_ascii=False, separators=(",", ":"), sort_keys=True)
+    print("analyser shards:", len(groups), "tac +", len(buckets), "ext")
+
 def write(rel, content):
     if rel == "style.css":  # Phase 3: minify CSS on write
         import re as _re
@@ -841,6 +893,7 @@ def write(rel, content):
     print("wrote", rel)
 
 def main():
+    shutil.rmtree(os.path.join(OUT, "frag"), ignore_errors=True)  # Batch F: regenerate listing fragments cleanly
     write("style.css", CSS); write("app.js", JS.replace("__RATES__", json.dumps(RATES_DICT)))
     export = [{"slug": d["slug"], "name": d["name"], "brand": d["brand"], "cat": d["cat"],
                "price": usd(d["price"]) if d["price"] is not None else None, "price_pkr": d["price"], "path": f"{d['folder']}/{d['slug']}.html", **({"exp": 1} if d.get("price_expected") else {}), **({"unv": 1} if d.get("price_unverified") else {}), **({"pl": _price_meta(d)[0]} if d["price"] is not None else {})} for d in ALL]
@@ -850,6 +903,7 @@ def main():
         "source": "ExchangeRate-API (open.er-api.com) mid-market rates",
         "note": "Prices are stored in PKR. Converted figures are estimates, not local shop prices.",
         "rates": RATES_DICT}, indent=1))
+    _shard_analyser()
     chips = "".join(f'<a class="chip" href="brands/{bslug(b)}.html">{esc(b)}</a>' for b in BRANDS)
     tiles = "".join(f'<a class="tile" href="{CATPAGE[c]}"><b>{c}</b><span>{sum(1 for d in ALL if d["cat"]==c)} models — specs &amp; prices</span></a>' for c in CATS)
     latest = sorted(ALL, key=lambda d: (-(d["year"] or 0), d["name"]))
@@ -886,11 +940,12 @@ def main():
                   f"All {c.lower()} with prices in Pakistan (PKR & USD), full specifications and comparisons.", CATPAGE[c])
         _fbrands = sorted({d["brand"] for d in items})
         _fopts = "".join(f'<option value="{esc(b)}">{esc(b)}</option>' for b in _fbrands)
+        _fh, _at, _btn = _fragzone([card(d) for d in items], CATPAGE[c].replace(".html", ""))
         pg += f"""<h1>{esc(c)} — Prices in Pakistan &amp; Full Specs</h1><p>{len(items)} models in {esc(c)}. Har model ke full specs aur Pakistan price ke liye model kholen.</p>
-<div class="sortzone"><div class="filterbar"><select id="fbrand" class="fbrand" aria-label="Filter by brand"><option value="">All Brands</option>{_fopts}</select>
+<div class="sortzone"{_at}><div class="filterbar"><select id="fbrand" class="fbrand" aria-label="Filter by brand"><option value="">All Brands</option>{_fopts}</select>
 <select id="fsort" class="fsort" aria-label="Sort models">{SORT_OPTS}</select>
 <span class="fcount" id="fcount"></span></div>
-<div class='grid sortgrid' id='catgrid'>{''.join(card(d) for d in items)}</div></div>"""
+<div class='grid sortgrid' id='catgrid'>{_fh}</div>{_btn}</div>"""
         pg += foot(); write(CATPAGE[c], pg)
     # Device pages
     for d in ALL:
@@ -949,7 +1004,8 @@ def main():
     # Brand pages
     for b in BRANDS:
         items = [d for d in ALL if d["brand"] == b]
-        cards = "".join(card(d, base="../") for d in items)
+        _fh, _at, _btn = _fragzone([card(d, base="../") for d in items], "brand-" + bslug(b))
+        cards = _fh
         _ild = {"@context": "https://schema.org", "@type": "ItemList",
                 "name": f"{b} devices — prices in Pakistan and full specifications",
                 "itemListElement": [{"@type": "ListItem", "position": i + 1, "name": d["name"],
@@ -957,7 +1013,7 @@ def main():
         _ldx = f'<script type="application/ld+json">{json.dumps(_ild)}</script>'
         pg = head(f"{b} Prices in Pakistan — Mobiles, Tablets & Laptops Full Specs | {SITE}",
                   f"All {b} devices with prices in Pakistan (PKR & USD) and full specifications.", f"brands/{bslug(b)}.html", depth=1, ld_extra=_ldx)
-        pg += f"<h1>{esc(b)} — Prices in Pakistan &amp; Full Specs</h1><div class='sortzone'>{_SORTBAR_COUNT}<div class='grid sortgrid'>{cards}</div></div>"
+        pg += f"<h1>{esc(b)} — Prices in Pakistan &amp; Full Specs</h1><div class='sortzone'{_at}>{_SORTBAR_COUNT}<div class='grid sortgrid'>{cards}</div>{_btn}</div>"
         pg += foot(depth=1); write(f"brands/{bslug(b)}.html", pg)
     # A-Z page — every model, alphabetical (user order 2026-11-03)
     from collections import defaultdict as _dd
@@ -996,7 +1052,8 @@ def main():
         items = sorted([d for d in ALL if d["cat"] == "Smartphones" and d["price"] is not None and usd(d["price"]) <= limit], key=lambda d: d["price"])
         pg = head(f"Best Mobile Phones {label} in Pakistan 2026 | {SITE}",
                   f"Best mobile phones {label.lower()} in Pakistan with full specs and USD prices.", fname)
-        pg += f"<h1>Best Phones {label} in Pakistan</h1><p>Is budget mein sabse behtar phones — specs aur qeemat ke sath.</p><div class='sortzone'>{_SORTBAR}<div class='grid sortgrid'>{''.join(card(d) for d in items)}</div></div>"
+        _fh, _at, _btn = _fragzone([card(d) for d in items], fname.replace(".html", ""))
+        pg += f"<h1>Best Phones {label} in Pakistan</h1><p>Is budget mein sabse behtar phones — specs aur qeemat ke sath.</p><div class='sortzone'{_at}>{_SORTBAR}<div class='grid sortgrid'>{_fh}</div>{_btn}</div>"
         pg += foot(); write(fname, pg)
     # Trust & policy pages (Phase 5, 2026-11-03)
     TRUST = [
@@ -1187,7 +1244,8 @@ def main():
         _ldx = f'<script type="application/ld+json">{json.dumps(_ild)}</script>'
         pg = head(title, desc, fname, ld_extra=_ldx)
         _sib = "".join(f'<a class="chip" href="{f2}">{esc(t2)}</a>' for f2, t2 in _GUIDES_ALL if f2 != fname)
-        pg += f"""<h1>{h1}</h1><p>{intro}</p><p class="note">Last updated: {_GUIDE_DATE}. Prices are the verified Pakistan prices shown on each device page and can change; confirm with your local shop before buying.</p><div class='sortzone'>{_SORTBAR}<div class='grid sortgrid'>{''.join(card(d, bestfor=_tags.get(d["slug"], ""), upcoming=_upcoming(d)) for d in items)}</div></div><h2>Other Guides &amp; Budgets</h2><div class="chips">{_sib}</div>"""
+        _fh, _at, _btn = _fragzone([card(d, bestfor=_tags.get(d["slug"], ""), upcoming=_upcoming(d)) for d in items], fname.replace(".html", ""))
+        pg += f"""<h1>{h1}</h1><p>{intro}</p><p class="note">Last updated: {_GUIDE_DATE}. Prices are the verified Pakistan prices shown on each device page and can change; confirm with your local shop before buying.</p><div class='sortzone'{_at}>{_SORTBAR}<div class='grid sortgrid'>{_fh}</div>{_btn}</div><h2>Other Guides &amp; Budgets</h2><div class="chips">{_sib}</div>"""
         pg += foot(); write(fname, pg)
     _sm = [d for d in ALL if d["cat"] == "Smartphones" and d["price"] is not None]
     for _lim, _fn in [(30000, "best-phones-under-30000.html"), (50000, "best-phones-under-50000.html"), (100000, "best-phones-under-100000.html")]:

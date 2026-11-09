@@ -1519,7 +1519,7 @@ def main():
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     sm += "".join(f"<url><loc>{BASE}{u}</loc></url>\n" for u in urls) + "</urlset>\n"
     write("sitemap.xml", sm)
-    write("robots.txt", f"User-agent: *\nAllow: /\nSitemap: {BASE}sitemap.xml\n")
+    write("robots.txt", f"User-agent: *\nAllow: /\nDisallow: /admin.html\nSitemap: {BASE}sitemap.xml\n")
     from collections import Counter
     print("COUNTS:", dict(Counter(d["cat"] for d in ALL)))
     print(f"DONE: {len(ALL)} devices, {len(BRANDS)} brands, {len(urls)} urls in sitemap")

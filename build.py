@@ -6,7 +6,7 @@ Prices are stored as approximate Pakistan market prices (PKR) and displayed in U
 """
 import json, os, html
 
-BASE = "https://checkspecs.dpdns.org/"
+BASE = "https://checkspecs.info/"
 SITE = "Check Specs"
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "docs")  # 2026-11-04: Pages serves /docs only — source stays unserved at repo root
@@ -193,7 +193,11 @@ EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide
     "google-pixel-10-pro-xl-5g", "nothing-phone-3-5g", "realme-gt-8-pro-5g-(china)",
     "vivo-iqoo-15t-5g", "oppo-reno16-pro-5g-(china)", "infinix-gt-30-5g",
     "apple-ipad-pro-12-9-(2022)", "nothing-phone-3a-pro-5g",
-    "hmd-pulse", "motorola-edge-70"}
+    "hmd-pulse", "motorola-edge-70",
+    # batch C 2026-11-09: RedMagic 12 Pro — global launch 3 Nov 2026 at the
+    # verified official $899 (REDMAGIC global store); not officially sold in
+    # Pakistan, so its converted PKR figure is an Expected price.
+    "zte-nubia-redmagic-12-pro-5g"}
 for _d in ALL:
     _d["price_expected"] = _d["slug"] in EXPECTED_SLUGS
 
@@ -229,7 +233,7 @@ def _plabel_html(d, compact=False):
     if not m: return ""
     label, market, src = m
     if compact: return f'<span class="plabel">{esc(label)}</span>'
-    t = label + (f" · {market}" if market else "") + (f" · Source: {src}" if src else "")
+    t = label + (f" · {market}" if market else "")
     return f'<span class="plabel">{esc(t)}</span>'
 
 def _pfmt(d):
@@ -238,7 +242,7 @@ def _pfmt(d):
     m = _price_meta(d)
     if m:
         label, market, src = m
-        s += f" — {label}" + (f" · {market}" if market else "") + (f" · Source: {src}" if src else "")
+        s += f" — {label}" + (f" · {market}" if market else "")
     return s
 
 for d in ALL:

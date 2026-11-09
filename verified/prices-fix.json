@@ -30,8 +30,8 @@
  "apple-iphone-16e": 291500,
  "apple-iphone-17-air": 176999,
  "apple-iphone-17e": 289000,
- "apple-iphone-18-pro": 581999,
- "apple-iphone-18-pro-max": 645000,
+ "apple-iphone-18-pro": 565000,
+ "apple-iphone-18-pro-max": 605000,
  "apple-iphone-duo-fold": 711999,
  "apple-macbook-air-m1": 275999,
  "apple-macbook-air-m2-13": 331999,
@@ -485,5 +485,6 @@
  "honor-x7b": 59999,
  "nothing-phone-2": 245999,
  "nokia-105-2023": 4999,
- "realme-12-plus": 79999
+ "realme-12-plus": 79999,
+ "zte-nubia-redmagic-12-pro-5g": 248999
 }

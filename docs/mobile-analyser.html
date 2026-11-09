@@ -55,24 +55,28 @@
 Check Specs — Mobile phones, keypad phones, tablets and laptops: full specifications, latest prices in Pakistan (PKR &amp; USD) and comparisons.<br>
 <a href="about.html">About Us</a> · <a href="contact.html">Contact Us</a> · <a href="privacy-policy.html">Privacy Policy</a> · <a href="terms.html">Terms</a> · <a href="sitemap.xml">Sitemap</a></div></footer>
 <script>
-let DB=null;
-async function loadDB(){
-  if(DB) return DB;
-  const st=document.getElementById('status');
-  st.innerHTML='<div class="verdict ok">Loading the device database — one moment…</div>';
-  const [tac,phones,specs,ext]=await Promise.all([
-    fetch('tac-data.json').then(r=>r.json()),
-    fetch('phones.json').then(r=>r.json()),
-    fetch('specs.json').then(r=>r.json()),
-    fetch('ext-specs.json').then(r=>r.json()).catch(()=>({}))
-  ]);
-  const map=new Map();
-  for(const e of tac.e) map.set(e[0],e);
-  const bySlug={};
-  for(const p of phones) bySlug[p.slug]=p;
-  DB={tac,map,bySlug,specs,ext};
-  st.innerHTML='';
-  return DB;
+let TAC=null,TACMAP=null,PHONES=null,SPECS=null,EXT=null;
+function setStatus(h){document.getElementById('status').innerHTML=h;}
+async function loadTac(){
+  if(TAC) return;
+  setStatus('<div class="verdict ok">Loading the device database — one moment…</div>');
+  TAC=await fetch('tac-data.json').then(r=>r.json());
+  TACMAP=new Map();
+  for(const e of TAC.e) TACMAP.set(e[0],e);
+  setStatus('');
+}
+async function loadPhonesSpecs(){
+  if(PHONES) return;
+  setStatus('<div class="verdict ok">Model found — loading its full specifications…</div>');
+  const [p,s]=await Promise.all([fetch('phones.json').then(r=>r.json()),fetch('specs.json').then(r=>r.json())]);
+  PHONES={}; for(const x of p) PHONES[x.slug]=x; SPECS=s;
+  setStatus('');
+}
+async function loadExt(){
+  if(EXT) return;
+  setStatus('<div class="verdict ok">Model found — loading its full specifications…</div>');
+  EXT=await fetch('ext-specs.json').then(r=>r.json()).catch(()=>({}));
+  setStatus('');
 }
 function luhn(d){
   let s=0;
@@ -95,7 +99,7 @@ async function analyse(){
     return;
   }
   btn.disabled=true;
-  try{ await loadDB(); }catch(e){
+  try{ await loadTac(); }catch(e){
     btn.disabled=false;
     res.innerHTML='<div class="verdict bad">The database could not be loaded. Please check your connection and try again.</div>';
     return;
@@ -118,20 +122,21 @@ async function analyse(){
       + '<div><b>Serial Number</b><span>'+serial+'</span></div>'
       + (v.length===15 ? '<div><b>Check Digit</b><span>'+v.slice(14)+'</span></div>' : '<div><b>Entered Digits</b><span>'+v.length+'</span></div>')
       + '</div>';
-  const e=DB.map.get(tac);
+  const e=TACMAP.get(tac);
   if(!e){
     html+='<div class="verdict bad"><b>Model not in our database yet.</b> Your IMEI format is fine — this phone\'s TAC code is not among the 269,000+ codes we cover yet. The IMEI breakdown above is still exact, and we add new models every week, so please check again soon.</div>';
     res.innerHTML=html; return;
   }
-  const brand=DB.tac.brands[e[1]];
-  let model=DB.tac.models[e[2]];
+  const brand=TAC.brands[e[1]];
+  let model=TAC.models[e[2]];
   if(model===model.toUpperCase()) model=model.toLowerCase().replace(/\b\w/g,c=>c.toUpperCase()).replace(/(\d)G\b/g,'$1G').replace(/\bLte\b/g,'LTE').replace(/\bSe\b/g,'SE').replace(/\bXr\b/g,'XR').replace(/\bXs\b/g,'XS');
   const bN=brand.trim().toLowerCase(), mN=model.trim().toLowerCase();
   const dispName = (mN===bN) ? brand : ((mN.startsWith(bN+' ')||mN.startsWith(bN+'-')) ? model : (brand+' '+model));
-  const slug = e[3]>=0 ? DB.tac.phones[e[3]] : null;
-  const p = slug ? DB.bySlug[slug] : null;
+  const slug = e[3]>=0 ? TAC.phones[e[3]] : null;
+  let p = null;
+  if(slug){ try{ await loadPhonesSpecs(); p=PHONES[slug]||null; }catch(e2){ p=null; } }
   if(p){
-    const sp=DB.specs[slug]||{};
+    const sp=SPECS[slug]||{};
     const fullName = p.name.toLowerCase().startsWith(p.brand.toLowerCase()) ? p.name : (p.brand+' '+p.name);
     html+='<div class="dev-head"><img src="img/'+slug+'/main.jpg" alt="'+esc(p.name)+'">'
         + '<div><div class="cat">'+esc(p.cat)+'</div><h2>'+esc(fullName)+'</h2>'
@@ -145,7 +150,8 @@ async function analyse(){
       html+='</table>';
     }
   } else {
-    const xs=DB.ext ? DB.ext[e[2]] : null;
+    await loadExt();
+    const xs=EXT ? EXT[e[2]] : null;
     html+='<div class="dev-head"><div><div class="cat">Identified Model</div><h2>'+esc(dispName)+'</h2>'
         + '<p class="note">Identified from TAC '+tac+' · Full specifications below, sourced for Check Specs.</p></div></div>';
     if(xs){

@@ -59,11 +59,20 @@ function _sortCmp(s){const pv=c=>{const v=parseFloat(c.dataset.price);return isN
   if(s==='new'||s==='old'){const a=yv(x),b=yv(y);if(a===0&&b===0)return 0;if(a===0)return 1;if(b===0)return -1;return s==='new'?b-a:a-b}
   return 0}}
 function initSortZones(){document.querySelectorAll('.sortzone').forEach(zone=>{const grid=zone.querySelector('.sortgrid');if(!grid)return;const fb=zone.querySelector('.fbrand'),fs=zone.querySelector('.fsort'),fc=zone.querySelector('.fcount');const cards=[...grid.children];
- function apply(){const b=fb?fb.value:'';const vis=cards.filter(c=>!b||c.dataset.brand===b);const s=fs?fs.value:'def';
+ const fkey=zone.dataset.frag||'',fn=parseInt(zone.dataset.fragn||'0'),ftot=parseInt(zone.dataset.total||'0');let fnext=1,floading=null;
+ const btn=zone.querySelector('.loadmore');
+ function updBtn(){if(!btn)return;if(!fn||fnext>fn){btn.style.display='none';return}btn.style.display='block';btn.textContent='Load more models ('+(ftot-cards.length)+' more)';}
+ async function loadFrag(i){const r=await fetch(_pfx+'frag/'+fkey+'-'+i+'.txt');if(!r.ok)throw new Error('frag '+i);const t=await r.text();const tmp=document.createElement('div');tmp.innerHTML=t;[...tmp.children].forEach(c=>{grid.appendChild(c);cards.push(c)});applyCur();}
+ function loadAll(){if(fnext>fn)return Promise.resolve();if(!floading)floading=(async()=>{while(fnext<=fn){await loadFrag(fnext);fnext++}updBtn()})();return floading;}
+ function apply(){const b=fb?fb.value:'';const s=fs?fs.value:'def';
+  if(fn&&fnext<=fn&&(b||s!=='def')){loadAll().then(()=>apply());if(fc)fc.textContent='Loading all models…';return;}
+  const vis=cards.filter(c=>!b||c.dataset.brand===b);
   cards.forEach(c=>c.style.display=vis.includes(c)?'':'none');
   const ordered=s==='def'?[...vis]:[...vis].sort(_sortCmp(s));
-  ordered.forEach(c=>grid.appendChild(c));if(fc)fc.textContent=vis.length+' models';}
- if(fb)fb.addEventListener('change',apply);if(fs)fs.addEventListener('change',apply);apply();});}
+  ordered.forEach(c=>grid.appendChild(c));if(fc)fc.textContent=((fn&&fnext<=fn&&!b&&s==='def')?ftot:vis.length)+' models';}
+ if(fb)fb.addEventListener('change',apply);if(fs)fs.addEventListener('change',apply);
+ if(btn)btn.addEventListener('click',async()=>{btn.disabled=true;try{await loadFrag(fnext);fnext++}catch(e){}btn.disabled=false;updBtn();apply();});
+ updBtn();apply();});}
 document.addEventListener('DOMContentLoaded',initSortZones);
 function initAzSort(){const sel=document.getElementById('azsort');if(!sel)return;const secs=[];document.querySelectorAll('.azlist').forEach(l=>{secs.push({list:l,head:l.previousElementSibling,rows:[...l.children]})});if(!secs.length)return;const chips=document.querySelector('.azchips');const host=secs[0].list;
  function apply(){const s=sel.value;secs.forEach(sc=>{sc.rows.forEach(r=>sc.list.appendChild(r));sc.list.style.display='';if(sc.head)sc.head.style.display=''});if(chips)chips.style.display='';

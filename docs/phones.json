@@ -674,18 +674,18 @@
   "name": "Apple iPhone 16 Pro",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 1435,
-  "price_pkr": 396999,
+  "price": 1465,
+  "price_pkr": 405500,
   "path": "phones/apple-iphone-16-pro.html",
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "apple-iphone-16-plus",
   "name": "Apple iPhone 16 Plus",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 1185,
-  "price_pkr": 327999,
+  "price": 1306,
+  "price_pkr": 361500,
   "path": "phones/apple-iphone-16-plus.html",
   "pl": "Official price"
  },
@@ -694,30 +694,30 @@
   "name": "Apple iPhone 15 Pro Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 1717,
-  "price_pkr": 474999,
+  "price": 1740,
+  "price_pkr": 481500,
   "path": "phones/apple-iphone-15-pro-max.html",
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "apple-iphone-15-plus",
   "name": "Apple iPhone 15 Plus",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 1391,
-  "price_pkr": 384999,
+  "price": 1381,
+  "price_pkr": 382000,
   "path": "phones/apple-iphone-15-plus.html",
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "apple-iphone-13-mini",
   "name": "Apple iPhone 13 mini",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 806,
-  "price_pkr": 222999,
+  "price": 807,
+  "price_pkr": 223400,
   "path": "phones/apple-iphone-13-mini.html",
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "infinix-note-40-pro",
@@ -824,10 +824,10 @@
   "name": "Realme 16 Pro",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 358,
-  "price_pkr": 98999,
+  "price": 614,
+  "price_pkr": 169999,
   "path": "phones/realme-16-pro-5g.html",
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "tecno-camon-40-pro-5g",
@@ -867,17 +867,17 @@
   "price": 452,
   "price_pkr": 124999,
   "path": "phones/vivo-v80-lite-5g.html",
-  "pl": "Official price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-gt-20-pro",
   "name": "Infinix GT 20 Pro",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 282,
-  "price_pkr": 77999,
+  "price": 361,
+  "price_pkr": 99999,
   "path": "phones/infinix-gt-20-pro.html",
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "tecno-spark-go-5g",
@@ -934,10 +934,10 @@
   "name": "Tecno Camon 40 Pro 4G",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 311,
-  "price_pkr": 85999,
+  "price": 275,
+  "price_pkr": 75999,
   "path": "phones/tecno-camon-40-pro.html",
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "tecno-camon-50-ultra-5g",
@@ -1084,10 +1084,10 @@
   "name": "Infinix Note 40 5G",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 224,
-  "price_pkr": 61999,
+  "price": 235,
+  "price_pkr": 64999,
   "path": "phones/infinix-note-40-5g.html",
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "infinix-note-40-pro-4g",
@@ -3246,6 +3246,537 @@
   "path": "phones/nothing-phone-3a-pro-5g.html",
   "exp": 1,
   "pl": "Expected price"
+ },
+ {
+  "slug": "honor-magic9-5g",
+  "name": "Honor Magic9",
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "price": 748,
+  "price_pkr": 206999,
+  "path": "phones/honor-magic9-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "honor-magic9-super-5g",
+  "name": "Honor Magic9 Super",
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "price": 676,
+  "price_pkr": 186999,
+  "path": "phones/honor-magic9-super-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "honor-magic9-pro-max-5g",
+  "name": "Honor Magic9 Pro Max",
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "price": 976,
+  "price_pkr": 269999,
+  "path": "phones/honor-magic9-pro-max-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-mate-90-5g",
+  "name": "Huawei Mate 90",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 900,
+  "price_pkr": 248999,
+  "path": "phones/huawei-mate-90-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-mate-90-pro-5g",
+  "name": "Huawei Mate 90 Pro",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 1048,
+  "price_pkr": 289999,
+  "path": "phones/huawei-mate-90-pro-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-mate-90-pro-max-5g",
+  "name": "Huawei Mate 90 Pro Max",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 1424,
+  "price_pkr": 393999,
+  "path": "phones/huawei-mate-90-pro-max-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-mate-90-rs-ultimate-5g",
+  "name": "Huawei Mate 90 RS Ultimate",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 1948,
+  "price_pkr": 538999,
+  "path": "phones/huawei-mate-90-rs-ultimate-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-pura-90-5g",
+  "name": "Huawei Pura 90",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 705,
+  "price_pkr": 194999,
+  "path": "phones/huawei-pura-90-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-pura-90-pro-5g",
+  "name": "Huawei Pura 90 Pro",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 824,
+  "price_pkr": 227999,
+  "path": "phones/huawei-pura-90-pro-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-pura-90-pro-max-5g",
+  "name": "Huawei Pura 90 Pro Max",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 976,
+  "price_pkr": 269999,
+  "path": "phones/huawei-pura-90-pro-max-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-nova-16-5g",
+  "name": "Huawei nova 16",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 510,
+  "price_pkr": 140999,
+  "path": "phones/huawei-nova-16-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-nova-16-pro-5g",
+  "name": "Huawei nova 16 Pro",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 643,
+  "price_pkr": 177999,
+  "path": "phones/huawei-nova-16-pro-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-nova-16-ultra-5g",
+  "name": "Huawei nova 16 Ultra",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 705,
+  "price_pkr": 194999,
+  "path": "phones/huawei-nova-16-ultra-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-nova-16s-5g",
+  "name": "Huawei nova 16s",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 672,
+  "price_pkr": 185999,
+  "path": "phones/huawei-nova-16s-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-nova-16s-pro-5g",
+  "name": "Huawei nova 16s Pro",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 838,
+  "price_pkr": 231999,
+  "path": "phones/huawei-nova-16s-pro-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-nova-16z-5g",
+  "name": "Huawei nova 16z",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 405,
+  "price_pkr": 111999,
+  "path": "phones/huawei-nova-16z-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-nova-16-se",
+  "name": "Huawei nova 16 SE",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 405,
+  "price_pkr": 111999,
+  "path": "phones/huawei-nova-16-se.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-nova-y74",
+  "name": "Huawei nova Y74",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": 224,
+  "price_pkr": 61999,
+  "path": "phones/huawei-nova-y74.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-matepad-pro-12-(2026)",
+  "name": "Huawei MatePad Pro 12 (2026)",
+  "brand": "Huawei",
+  "cat": "Tablets",
+  "price": 900,
+  "price_pkr": 248999,
+  "path": "tablets/huawei-matepad-pro-12-(2026).html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-matepad-air-(2026)",
+  "name": "Huawei MatePad Air (2026)",
+  "brand": "Huawei",
+  "cat": "Tablets",
+  "price": 676,
+  "price_pkr": 186999,
+  "path": "tablets/huawei-matepad-air-(2026).html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "motorola-edge-70-plus-5g",
+  "name": "Motorola Edge 70 Plus",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 698,
+  "price_pkr": 192999,
+  "path": "phones/motorola-edge-70-plus-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "motorola-edge-70-max-5g",
+  "name": "Motorola Edge 70 Max",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 571,
+  "price_pkr": 157999,
+  "path": "phones/motorola-edge-70-max-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "motorola-edge-70-pro-plus-5g",
+  "name": "Motorola Edge 70 Pro+",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 506,
+  "price_pkr": 139999,
+  "path": "phones/motorola-edge-70-pro-plus-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "motorola-moto-g77-power-5g",
+  "name": "Motorola Moto G77 Power",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 271,
+  "price_pkr": 74999,
+  "path": "phones/motorola-moto-g77-power-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "motorola-moto-g87-5g",
+  "name": "Motorola Moto G87",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 343,
+  "price_pkr": 94999,
+  "path": "phones/motorola-moto-g87-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "motorola-moto-g57-5g",
+  "name": "Motorola Moto G57",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 235,
+  "price_pkr": 64999,
+  "path": "phones/motorola-moto-g57-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "motorola-moto-g57-power-5g",
+  "name": "Motorola Moto G57 Power",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 249,
+  "price_pkr": 68999,
+  "path": "phones/motorola-moto-g57-power-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "motorola-moto-g67-5g",
+  "name": "Motorola Moto G67",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 264,
+  "price_pkr": 72999,
+  "path": "phones/motorola-moto-g67-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "motorola-moto-g67-power-5g",
+  "name": "Motorola Moto G67 Power",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 213,
+  "price_pkr": 58999,
+  "path": "phones/motorola-moto-g67-power-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "motorola-razr-70",
+  "name": "Motorola Razr 70",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": 875,
+  "price_pkr": 241999,
+  "path": "phones/motorola-razr-70.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "realme-gt-8-5g-(china)",
+  "name": "Realme GT 8 (China)",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 434,
+  "price_pkr": 119999,
+  "path": "phones/realme-gt-8-5g-(china).html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "realme-16-pro-plus-5g",
+  "name": "Realme 16 Pro+",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 723,
+  "price_pkr": 199999,
+  "path": "phones/realme-16-pro-plus-5g.html",
+  "pl": "Market price"
+ },
+ {
+  "slug": "realme-16-5g",
+  "name": "Realme 16",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 470,
+  "price_pkr": 129999,
+  "path": "phones/realme-16-5g.html",
+  "pl": "Market price"
+ },
+ {
+  "slug": "realme-16t-5g",
+  "name": "Realme 16T",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 311,
+  "price_pkr": 85999,
+  "path": "phones/realme-16t-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "realme-16x-5g",
+  "name": "Realme 16x",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 260,
+  "price_pkr": 71999,
+  "path": "phones/realme-16x-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "realme-neo8-5g",
+  "name": "Realme Neo8",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 390,
+  "price_pkr": 107999,
+  "path": "phones/realme-neo8-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "realme-p4-pro-5g",
+  "name": "Realme P4 Pro",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 286,
+  "price_pkr": 78999,
+  "path": "phones/realme-p4-pro-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "realme-p4-5g",
+  "name": "Realme P4",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 239,
+  "price_pkr": 65999,
+  "path": "phones/realme-p4-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "realme-narzo-90-5g",
+  "name": "Realme Narzo 90",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 170,
+  "price_pkr": 46999,
+  "path": "phones/realme-narzo-90-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "realme-narzo-90x-5g",
+  "name": "Realme Narzo 90x",
+  "brand": "Realme",
+  "cat": "Smartphones",
+  "price": 141,
+  "price_pkr": 38999,
+  "path": "phones/realme-narzo-90x-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "nothing-phone-4a-5g",
+  "name": "Nothing Phone (4a)",
+  "brand": "Nothing",
+  "cat": "Smartphones",
+  "price": 665,
+  "price_pkr": 183999,
+  "path": "phones/nothing-phone-4a-5g.html",
+  "pl": "Official price"
+ },
+ {
+  "slug": "nothing-phone-4a-pro-5g",
+  "name": "Nothing Phone (4a) Pro",
+  "brand": "Nothing",
+  "cat": "Smartphones",
+  "price": 940,
+  "price_pkr": 259999,
+  "path": "phones/nothing-phone-4a-pro-5g.html",
+  "pl": "Official price"
+ },
+ {
+  "slug": "nothing-phone-3a-lite-5g",
+  "name": "Nothing Phone (3a) Lite",
+  "brand": "Nothing",
+  "cat": "Smartphones",
+  "price": 397,
+  "price_pkr": 109899,
+  "path": "phones/nothing-phone-3a-lite-5g.html",
+  "pl": "Market price"
+ },
+ {
+  "slug": "google-pixel",
+  "name": "Google Pixel",
+  "brand": "Google",
+  "cat": "Smartphones",
+  "price": 72,
+  "price_pkr": 19999,
+  "path": "phones/google-pixel.html",
+  "pl": "Market price"
+ },
+ {
+  "slug": "vivo-t5-lite-5g",
+  "name": "vivo T5 Lite",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 220,
+  "price_pkr": 60999,
+  "path": "phones/vivo-t5-lite-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "vivo-iqoo-z11-5g-(china)",
+  "name": "vivo iQOO Z11 (China)",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 405,
+  "price_pkr": 111999,
+  "path": "phones/vivo-iqoo-z11-5g-(china).html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "oppo-reno15-fs-5g",
+  "name": "Oppo Reno15 FS",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 441,
+  "price_pkr": 121999,
+  "path": "phones/oppo-reno15-fs-5g.html",
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "infinix-note-60-pro-5g",
+  "name": "Infinix Note 60 Pro",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 473,
+  "price_pkr": 130999,
+  "path": "phones/infinix-note-60-pro-5g.html",
+  "pl": "Official price"
+ },
+ {
+  "slug": "tecno-pova-curve-2-5g",
+  "name": "Tecno Pova Curve 2",
+  "brand": "Tecno",
+  "cat": "Smartphones",
+  "price": 361,
+  "price_pkr": 99999,
+  "path": "phones/tecno-pova-curve-2-5g.html",
+  "pl": "Market price"
  },
  {
   "slug": "honor-400",

@@ -1,4 +1,104 @@
-<div class="card" data-name="motorola moto e6 motorola smartphones" data-brand="Motorola" data-price="39999" data-year="2019">
+<div class="card" data-name="motorola razr 40 motorola smartphones" data-brand="Motorola" data-price="136999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/motorola-razr-40/main-card.webp"><img class="cardimg" src="../img/motorola-razr-40/main-card.jpg" alt="Motorola Razr 40" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/motorola-razr-40.html">Motorola Razr 40</a></p>
+<div class="price"><span class="prc" data-pkr="136999"><b class="pkrv">Rs 136,999</b> <span class="usdv">$495</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.9&quot; display</div><div class="spec">Qualcomm SM7450-AB Snapdragon 7 Gen 1</div><div class="spec">8 / 12 GB RAM</div><div class="spec">4200 mAh</div>
+<div class="spec">6.9&quot; display · Qualcomm SM7450-AB Snapdragon 7 Gen 1 · 8 / 12 GB RAM · 4200 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/motorola-razr-40.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=motorola-razr-40">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto g04s motorola smartphones" data-brand="Motorola" data-price="28999" data-year="2024">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="../img/motorola-moto-g04s/main-card.webp"><img class="cardimg" src="../img/motorola-moto-g04s/main-card.jpg" alt="Motorola Moto G04s" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/motorola-moto-g04s.html">Motorola Moto G04s</a></p>
+<div class="price"><span class="prc" data-pkr="28999"><b class="pkrv">Rs 28,999</b> <span class="usdv">$105</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.56&quot; display</div><div class="spec">Unisoc T606</div><div class="spec">4 / 8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.56&quot; display · Unisoc T606 · 4 / 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/motorola-moto-g04s.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=motorola-moto-g04s">Compare</a></div>
+</div></div><div class="card" data-name="motorola rokr z6 motorola keypad phones" data-brand="Motorola" data-price="27999" data-year="2007">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/motorola-rokr-z6/main-card.webp"><img class="cardimg" src="../img/motorola-rokr-z6/main-card.jpg" alt="Motorola Rokr Z6" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Keypad Phones</span>
+<p class="ct"><a href="../keypad/motorola-rokr-z6.html">Motorola Rokr Z6</a></p>
+<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.1&quot; display</div><div class="spec">32-bit Freescale MXC275-30</div><div class="spec">720 mAh</div>
+<div class="spec">2.1&quot; display · 32-bit Freescale MXC275-30 · 720 mAh</div>
+<div class="btnrow"><a class="btn" href="../keypad/motorola-rokr-z6.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=motorola-rokr-z6">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto g6+ motorola smartphones" data-brand="Motorola" data-price="58999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/motorola-moto-g6+/main-card.webp"><img class="cardimg" src="../img/motorola-moto-g6+/main-card.jpg" alt="Motorola Moto G6+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/motorola-moto-g6+.html">Motorola Moto G6+</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.9&quot; display</div><div class="spec">Qualcomm SDM630 Snapdragon 630</div><div class="spec">3 / 4 / 6 GB RAM</div><div class="spec">3200 mAh</div>
+<div class="spec">5.9&quot; display · Qualcomm SDM630 Snapdragon 630 · 3 / 4 / 6 GB RAM · 3200 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/motorola-moto-g6+.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=motorola-moto-g6+">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto e22i motorola smartphones" data-brand="Motorola" data-price="27999" data-year="2022">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/motorola-moto-e22i/main-card.webp"><img class="cardimg" src="../img/motorola-moto-e22i/main-card.jpg" alt="Motorola Moto E22i" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/motorola-moto-e22i.html">Motorola Moto E22i</a></p>
+<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek MT6765V/CB Helio G37</div><div class="spec">2 GB RAM</div><div class="spec">4020 mAh</div>
+<div class="spec">6.5&quot; display · Mediatek MT6765V/CB Helio G37 · 2 GB RAM · 4020 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/motorola-moto-e22i.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=motorola-moto-e22i">Compare</a></div>
+</div></div><div class="card" data-name="motorola l6 motorola keypad phones" data-brand="Motorola" data-price="21999" data-year="2005">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/motorola-l6/main-card.webp"><img class="cardimg" src="../img/motorola-l6/main-card.jpg" alt="Motorola L6" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Keypad Phones</span>
+<p class="ct"><a href="../keypad/motorola-l6.html">Motorola L6</a></p>
+<div class="price"><span class="prc" data-pkr="21999"><b class="pkrv">Rs 21,999</b> <span class="usdv">$80</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.0&quot; display</div><div class="spec">820 mAh</div>
+<div class="spec">2.0&quot; display · 820 mAh</div>
+<div class="btnrow"><a class="btn" href="../keypad/motorola-l6.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=motorola-l6">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto x play motorola smartphones" data-brand="Motorola" data-price="73999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/motorola-moto-x-play/main-card.webp"><img class="cardimg" src="../img/motorola-moto-x-play/main-card.jpg" alt="Motorola Moto X Play" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/motorola-moto-x-play.html">Motorola Moto X Play</a></p>
+<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8939 Snapdragon 615</div><div class="spec">2 GB RAM</div><div class="spec">3630 mAh</div>
+<div class="spec">5.5&quot; display · Qualcomm MSM8939 Snapdragon 615 · 2 GB RAM · 3630 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/motorola-moto-x-play.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=motorola-moto-x-play">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto x style motorola smartphones" data-brand="Motorola" data-price="80999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/motorola-moto-x-style/main-card.webp"><img class="cardimg" src="../img/motorola-moto-x-style/main-card.jpg" alt="Motorola Moto X Style" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/motorola-moto-x-style.html">Motorola Moto X Style</a></p>
+<div class="price"><span class="prc" data-pkr="80999"><b class="pkrv">Rs 80,999</b> <span class="usdv">$293</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Qualcomm MSM8992 Snapdragon 808</div><div class="spec">3 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">5.7&quot; display · Qualcomm MSM8992 Snapdragon 808 · 3 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/motorola-moto-x-style.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=motorola-moto-x-style">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto z2 play motorola smartphones" data-brand="Motorola" data-price="70999" data-year="2017">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/motorola-moto-z2-play/main-card.webp"><img class="cardimg" src="../img/motorola-moto-z2-play/main-card.jpg" alt="Motorola Moto Z2 Play" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/motorola-moto-z2-play.html">Motorola Moto Z2 Play</a></p>
+<div class="price"><span class="prc" data-pkr="70999"><b class="pkrv">Rs 70,999</b> <span class="usdv">$257</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8953-Pro Snapdragon 626</div><div class="spec">3 / 4 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">5.5&quot; display · Qualcomm MSM8953-Pro Snapdragon 626 · 3 / 4 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/motorola-moto-z2-play.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=motorola-moto-z2-play">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto g5s motorola smartphones" data-brand="Motorola" data-price="45999" data-year="2017">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/motorola-moto-g5s/main-card.webp"><img class="cardimg" src="../img/motorola-moto-g5s/main-card.jpg" alt="Motorola Moto G5s" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/motorola-moto-g5s.html">Motorola Moto G5s</a></p>
+<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.2&quot; display</div><div class="spec">Qualcomm MSM8937 Snapdragon 430</div><div class="spec">3 / 4 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">5.2&quot; display · Qualcomm MSM8937 Snapdragon 430 · 3 / 4 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/motorola-moto-g5s.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=motorola-moto-g5s">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto e6 motorola smartphones" data-brand="Motorola" data-price="39999" data-year="2019">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="../img/motorola-moto-e6/main-card.webp"><img class="cardimg" src="../img/motorola-moto-e6/main-card.jpg" alt="Motorola Moto E6" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">

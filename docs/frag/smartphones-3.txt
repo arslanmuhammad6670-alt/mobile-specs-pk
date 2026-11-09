@@ -1,4 +1,464 @@
-<div class="card" data-name="motorola moto g14 motorola smartphones" data-brand="Motorola" data-price="25999" data-year="2023">
+<div class="card" data-name="honor x5+ honor smartphones" data-brand="Honor" data-price="26999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/honor-x5+/main-card.webp"><img class="cardimg" src="img/honor-x5+/main-card.jpg" alt="Honor X5+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-x5+.html">Honor X5+</a></p>
+<div class="price"><span class="prc" data-pkr="26999"><b class="pkrv">Rs 26,999</b> <span class="usdv">$98</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.56&quot; display</div><div class="spec">Mediatek Helio G36</div><div class="spec">4 GB RAM</div><div class="spec">5200 mAh</div>
+<div class="spec">6.56&quot; display · Mediatek Helio G36 · 4 GB RAM · 5200 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/honor-x5+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-x5+">Compare</a></div>
+</div></div><div class="card" data-name="honor x50i honor smartphones" data-brand="Honor" data-price="55999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/honor-x50i/main-card.webp"><img class="cardimg" src="img/honor-x50i/main-card.jpg" alt="Honor X50i" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-x50i.html">Honor X50i</a></p>
+<div class="price"><span class="prc" data-pkr="55999"><b class="pkrv">Rs 55,999</b> <span class="usdv">$202</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek Dimensity 6020</div><div class="spec">8 / 12 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="spec">6.7&quot; display · Mediatek Dimensity 6020 · 8 / 12 GB RAM · 4500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/honor-x50i.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-x50i">Compare</a></div>
+</div></div><div class="card" data-name="honor x6a honor smartphones" data-brand="Honor" data-price="45999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/honor-x6a/main-card.webp"><img class="cardimg" src="img/honor-x6a/main-card.jpg" alt="Honor X6a" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-x6a.html">Honor X6a</a></p>
+<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.56&quot; display</div><div class="spec">Mediatek Helio G36</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5200 mAh</div>
+<div class="spec">6.56&quot; display · Mediatek Helio G36 · 4 / 6 GB RAM · 5200 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/honor-x6a.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-x6a">Compare</a></div>
+</div></div><div class="card" data-name="honor x7a honor smartphones" data-brand="Honor" data-price="42999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/honor-x7a/main-card.webp"><img class="cardimg" src="img/honor-x7a/main-card.jpg" alt="Honor X7a" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-x7a.html">Honor X7a</a></p>
+<div class="price"><span class="prc" data-pkr="42999"><b class="pkrv">Rs 42,999</b> <span class="usdv">$155</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.75&quot; display</div><div class="spec">Mediatek MT6765H Helio G37</div><div class="spec">4 / 6 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="spec">6.75&quot; display · Mediatek MT6765H Helio G37 · 4 / 6 GB RAM · 6000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/honor-x7a.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-x7a">Compare</a></div>
+</div></div><div class="card" data-name="honor x7b honor smartphones" data-brand="Honor" data-price="59999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/honor-x7b/main-card.webp"><img class="cardimg" src="img/honor-x7b/main-card.jpg" alt="Honor X7b" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-x7b.html">Honor X7b</a></p>
+<div class="price"><span class="prc" data-pkr="59999"><b class="pkrv">Rs 59,999</b> <span class="usdv">$217</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">IPS LCD</div><div class="spec">Qualcomm Snapdragon 680 4G</div><div class="spec">6 / 8 / 12 GB RAM</div><div class="spec">6000 mAh (ROW version; Europe/LATAM version is 5330 mAh)</div>
+<div class="spec">6000mAh aur 256GB storage</div>
+<div class="btnrow"><a class="btn" href="phones/honor-x7b.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-x7b">Compare</a></div>
+</div></div><div class="card" data-name="honor x8a honor smartphones" data-brand="Honor" data-price="49999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/honor-x8a/main-card.webp"><img class="cardimg" src="img/honor-x8a/main-card.jpg" alt="Honor X8a" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-x8a.html">Honor X8a</a></p>
+<div class="price"><span class="prc" data-pkr="49999"><b class="pkrv">Rs 49,999</b> <span class="usdv">$181</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek MT6769H Helio G88</div><div class="spec">4 / 6 / 8 / 12 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="spec">6.7&quot; display · Mediatek MT6769H Helio G88 · 4 / 6 / 8 / 12 GB RAM · 4500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/honor-x8a.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-x8a">Compare</a></div>
+</div></div><div class="card" data-name="honor x8b honor smartphones" data-brand="Honor" data-price="79999" data-year="2023">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/honor-x8b/main-card.webp"><img class="cardimg" src="img/honor-x8b/main-card.jpg" alt="Honor X8b" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-x8b.html">Honor X8b</a></p>
+<div class="price"><span class="prc" data-pkr="79999"><b class="pkrv">Rs 79,999</b> <span class="usdv">$289</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.7&quot; AMOLED 90Hz</div><div class="spec">Snapdragon 680 4G</div><div class="spec">6/8 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="spec">108MP camera aur 512GB storage patlay se design mein</div>
+<div class="btnrow"><a class="btn" href="phones/honor-x8b.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-x8b">Compare</a></div>
+</div></div><div class="card" data-name="honor x9b honor smartphones" data-brand="Honor" data-price="129999" data-year="2023">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/honor-x9b/main-card.webp"><img class="cardimg" src="img/honor-x9b/main-card.jpg" alt="Honor X9b" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-x9b.html">Honor X9b</a></p>
+<div class="price"><span class="prc" data-pkr="129999"><b class="pkrv">Rs 129,999</b> <span class="usdv">$470</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">AMOLED</div><div class="spec">Qualcomm Snapdragon 6 Gen 1</div><div class="spec">8 / 12 GB RAM</div><div class="spec">5800 mAh</div>
+<div class="spec">Anti-drop mazboot screen aur 5800mAh</div>
+<div class="btnrow"><a class="btn" href="phones/honor-x9b.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-x9b">Compare</a></div>
+</div></div><div class="card" data-name="hotwav note 16 pro hotwav smartphones" data-brand="Hotwav" data-price="" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/hotwav-note-16-pro/main-card.webp"><img class="cardimg" src="img/hotwav-note-16-pro/main-card.jpg" alt="Hotwav Note 16 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/hotwav-note-16-pro.html">Hotwav Note 16 Pro</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.52&quot; display</div><div class="spec">Unisoc T606</div><div class="spec">4 / 8 GB RAM</div><div class="spec">4400 mAh</div>
+<div class="spec">6.52&quot; display · Unisoc T606 · 4 / 8 GB RAM · 4400 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/hotwav-note-16-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=hotwav-note-16-pro">Compare</a></div>
+</div></div><div class="card" data-name="huawei enjoy 60 huawei smartphones" data-brand="Huawei" data-price="52999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-enjoy-60/main-card.webp"><img class="cardimg" src="img/huawei-enjoy-60/main-card.jpg" alt="Huawei Enjoy 60" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-enjoy-60.html">Huawei Enjoy 60</a></p>
+<div class="price"><span class="prc" data-pkr="52999"><b class="pkrv">Rs 52,999</b> <span class="usdv">$192</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.75&quot; display</div><div class="spec">8 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="spec">6.75&quot; display · 8 GB RAM · 6000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-enjoy-60.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-enjoy-60">Compare</a></div>
+</div></div><div class="card" data-name="huawei enjoy 60x huawei smartphones" data-brand="Huawei" data-price="70999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-enjoy-60x/main-card.webp"><img class="cardimg" src="img/huawei-enjoy-60x/main-card.jpg" alt="Huawei Enjoy 60x" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-enjoy-60x.html">Huawei Enjoy 60x</a></p>
+<div class="price"><span class="prc" data-pkr="70999"><b class="pkrv">Rs 70,999</b> <span class="usdv">$257</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.95&quot; display</div><div class="spec">Qualcomm SM6225 Snapdragon 680 4G</div><div class="spec">8 GB RAM</div><div class="spec">7000 mAh</div>
+<div class="spec">6.95&quot; display · Qualcomm SM6225 Snapdragon 680 4G · 8 GB RAM · 7000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-enjoy-60x.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-enjoy-60x">Compare</a></div>
+</div></div><div class="card" data-name="huawei enjoy 70 huawei smartphones" data-brand="Huawei" data-price="49999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-enjoy-70/main-card.webp"><img class="cardimg" src="img/huawei-enjoy-70/main-card.jpg" alt="Huawei Enjoy 70" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-enjoy-70.html">Huawei Enjoy 70</a></p>
+<div class="price"><span class="prc" data-pkr="49999"><b class="pkrv">Rs 49,999</b> <span class="usdv">$181</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.75&quot; display</div><div class="spec">Kirin 710A</div><div class="spec">8 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="spec">6.75&quot; display · Kirin 710A · 8 GB RAM · 6000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-enjoy-70.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-enjoy-70">Compare</a></div>
+</div></div><div class="card" data-name="huawei honor x50i+ huawei smartphones" data-brand="Huawei" data-price="" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-honor-x50i+/main-card.webp"><img class="cardimg" src="img/huawei-honor-x50i+/main-card.jpg" alt="Huawei Honor X50I+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-honor-x50i+.html">Huawei Honor X50I+</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek Dimensity 6080</div><div class="spec">12 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="spec">6.7&quot; display · Mediatek Dimensity 6080 · 12 GB RAM · 4500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-honor-x50i+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-honor-x50i+">Compare</a></div>
+</div></div><div class="card" data-name="huawei magic5 lite x9a 5g huawei smartphones" data-brand="Huawei" data-price="" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-magic5-lite-x9a-5g/main-card.webp"><img class="cardimg" src="img/huawei-magic5-lite-x9a-5g/main-card.jpg" alt="Huawei Magic5 Lite X9a 5G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-magic5-lite-x9a-5g.html">Huawei Magic5 Lite X9a 5G</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.67&quot; display</div><div class="spec">Qualcomm Snapdragon 695 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5100 mAh</div>
+<div class="spec">6.67&quot; display · Qualcomm Snapdragon 695 5G · 6 / 8 GB RAM · 5100 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-magic5-lite-x9a-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-magic5-lite-x9a-5g">Compare</a></div>
+</div></div><div class="card" data-name="huawei mate 60 huawei smartphones" data-brand="Huawei" data-price="231999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-mate-60/main-card.webp"><img class="cardimg" src="img/huawei-mate-60/main-card.jpg" alt="Huawei Mate 60" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-mate-60.html">Huawei Mate 60</a></p>
+<div class="price"><span class="prc" data-pkr="231999"><b class="pkrv">Rs 231,999</b> <span class="usdv">$838</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.69&quot; display</div><div class="spec">Kirin 9000S</div><div class="spec">12 GB RAM</div><div class="spec">4750 mAh</div>
+<div class="spec">6.69&quot; display · Kirin 9000S · 12 GB RAM · 4750 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-mate-60.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-mate-60">Compare</a></div>
+</div></div><div class="card" data-name="huawei mate 60 pro+ huawei smartphones" data-brand="Huawei" data-price="" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-mate-60-pro+/main-card.webp"><img class="cardimg" src="img/huawei-mate-60-pro+/main-card.jpg" alt="Huawei Mate 60 PRO+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-mate-60-pro+.html">Huawei Mate 60 PRO+</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.82&quot; display</div><div class="spec">Kirin 9000S</div><div class="spec">16 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.82&quot; display · Kirin 9000S · 16 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-mate-60-pro+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-mate-60-pro+">Compare</a></div>
+</div></div><div class="card" data-name="huawei mate 60 pro huawei smartphones" data-brand="Huawei" data-price="275999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-mate-60-pro/main-card.webp"><img class="cardimg" src="img/huawei-mate-60-pro/main-card.jpg" alt="Huawei Mate 60 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-mate-60-pro.html">Huawei Mate 60 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="275999"><b class="pkrv">Rs 275,999</b> <span class="usdv">$997</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.82&quot; display</div><div class="spec">Kirin 9000S</div><div class="spec">12 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.82&quot; display · Kirin 9000S · 12 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-mate-60-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-mate-60-pro">Compare</a></div>
+</div></div><div class="card" data-name="huawei mate x3 huawei smartphones" data-brand="Huawei" data-price="675999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-mate-x3/main-card.webp"><img class="cardimg" src="img/huawei-mate-x3/main-card.jpg" alt="Huawei Mate X3" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-mate-x3.html">Huawei Mate X3</a></p>
+<div class="price"><span class="prc" data-pkr="675999"><b class="pkrv">Rs 675,999</b> <span class="usdv">$2,443</span></span><span class="plabel">Estimated price</span></div><div class="spec">7.85&quot; display</div><div class="spec">Qualcomm SM8475 Snapdragon 8+ Gen 1 4G</div><div class="spec">12 GB RAM</div><div class="spec">4800 mAh</div>
+<div class="spec">7.85&quot; display · Qualcomm SM8475 Snapdragon 8+ Gen 1 4G · 12 GB RAM · 4800 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-mate-x3.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-mate-x3">Compare</a></div>
+</div></div><div class="card" data-name="huawei mate x5 huawei smartphones" data-brand="Huawei" data-price="" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-mate-x5/main-card.webp"><img class="cardimg" src="img/huawei-mate-x5/main-card.jpg" alt="Huawei Mate X5" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-mate-x5.html">Huawei Mate X5</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">7.85&quot; display</div><div class="spec">Kirin 9000S</div><div class="spec">12 / 16 GB RAM</div><div class="spec">5060 mAh</div>
+<div class="spec">7.85&quot; display · Kirin 9000S · 12 / 16 GB RAM · 5060 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-mate-x5.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-mate-x5">Compare</a></div>
+</div></div><div class="card" data-name="huawei nova 11 huawei smartphones" data-brand="Huawei" data-price="112999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-nova-11/main-card.webp"><img class="cardimg" src="img/huawei-nova-11/main-card.jpg" alt="Huawei Nova 11" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-nova-11.html">Huawei Nova 11</a></p>
+<div class="price"><span class="prc" data-pkr="112999"><b class="pkrv">Rs 112,999</b> <span class="usdv">$408</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Qualcomm SM7325 Snapdragon 778G 4G</div><div class="spec">8 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="spec">6.7&quot; display · Qualcomm SM7325 Snapdragon 778G 4G · 8 GB RAM · 4500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-nova-11.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-nova-11">Compare</a></div>
+</div></div><div class="card" data-name="huawei nova 11 pro huawei smartphones" data-brand="Huawei" data-price="230999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-nova-11-pro/main-card.webp"><img class="cardimg" src="img/huawei-nova-11-pro/main-card.jpg" alt="Huawei Nova 11 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-nova-11-pro.html">Huawei Nova 11 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="230999"><b class="pkrv">Rs 230,999</b> <span class="usdv">$835</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.78&quot; display</div><div class="spec">Qualcomm SM7325 Snapdragon 778G 4G</div><div class="spec">8 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="spec">6.78&quot; display · Qualcomm SM7325 Snapdragon 778G 4G · 8 GB RAM · 4500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-nova-11-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-nova-11-pro">Compare</a></div>
+</div></div><div class="card" data-name="huawei nova 11 se huawei smartphones" data-brand="Huawei" data-price="80999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-nova-11-se/main-card.webp"><img class="cardimg" src="img/huawei-nova-11-se/main-card.jpg" alt="Huawei Nova 11 SE" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-nova-11-se.html">Huawei Nova 11 SE</a></p>
+<div class="price"><span class="prc" data-pkr="80999"><b class="pkrv">Rs 80,999</b> <span class="usdv">$293</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.67&quot; display</div><div class="spec">Qualcomm Snapdragon 680 4G</div><div class="spec">8 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="spec">6.67&quot; display · Qualcomm Snapdragon 680 4G · 8 GB RAM · 4500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-nova-11-se.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-nova-11-se">Compare</a></div>
+</div></div><div class="card" data-name="huawei nova 11 ultra huawei smartphones" data-brand="Huawei" data-price="182999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-nova-11-ultra/main-card.webp"><img class="cardimg" src="img/huawei-nova-11-ultra/main-card.jpg" alt="Huawei Nova 11 Ultra" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-nova-11-ultra.html">Huawei Nova 11 Ultra</a></p>
+<div class="price"><span class="prc" data-pkr="182999"><b class="pkrv">Rs 182,999</b> <span class="usdv">$661</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.78&quot; display</div><div class="spec">Qualcomm SM7325 Snapdragon 778G 4G</div><div class="spec">4500 mAh</div>
+<div class="spec">6.78&quot; display · Qualcomm SM7325 Snapdragon 778G 4G · 4500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-nova-11-ultra.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-nova-11-ultra">Compare</a></div>
+</div></div><div class="card" data-name="huawei nova 11i huawei smartphones" data-brand="Huawei" data-price="70999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-nova-11i/main-card.webp"><img class="cardimg" src="img/huawei-nova-11i/main-card.jpg" alt="Huawei Nova 11i" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-nova-11i.html">Huawei Nova 11i</a></p>
+<div class="price"><span class="prc" data-pkr="70999"><b class="pkrv">Rs 70,999</b> <span class="usdv">$257</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.8&quot; display</div><div class="spec">Qualcomm Snapdragon 680 4G</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.8&quot; display · Qualcomm Snapdragon 680 4G · 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-nova-11i.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-nova-11i">Compare</a></div>
+</div></div><div class="card" data-name="huawei nova 12 5g huawei smartphones" data-brand="Huawei" data-price="117999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-nova-12-5g.html">Huawei Nova 12 5G</a></p>
+<div class="price"><span class="prc" data-pkr="117999"><b class="pkrv">Rs 117,999</b> <span class="usdv">$426</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Kirin 830</div><div class="spec">8 GB RAM</div><div class="spec">4600 mAh</div>
+<div class="spec">6.7&quot; display · Kirin 830 · 8 GB RAM · 4600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-nova-12-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-nova-12-5g">Compare</a></div>
+</div></div><div class="card" data-name="huawei nova 12 lite huawei smartphones" data-brand="Huawei" data-price="98999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-nova-12-lite/main-card.webp"><img class="cardimg" src="img/huawei-nova-12-lite/main-card.jpg" alt="Huawei Nova 12 Lite" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-nova-12-lite.html">Huawei Nova 12 Lite</a></p>
+<div class="price"><span class="prc" data-pkr="98999"><b class="pkrv">Rs 98,999</b> <span class="usdv">$358</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Qualcomm SM7325 Snapdragon 778G 4G</div><div class="spec">8 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="spec">6.7&quot; display · Qualcomm SM7325 Snapdragon 778G 4G · 8 GB RAM · 4500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-nova-12-lite.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-nova-12-lite">Compare</a></div>
+</div></div><div class="card" data-name="huawei nova 12 pro huawei smartphones" data-brand="Huawei" data-price="157999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-nova-12-pro/main-card.webp"><img class="cardimg" src="img/huawei-nova-12-pro/main-card.jpg" alt="Huawei Nova 12 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-nova-12-pro.html">Huawei Nova 12 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="157999"><b class="pkrv">Rs 157,999</b> <span class="usdv">$571</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.76&quot; display</div><div class="spec">Kirin 9000S</div><div class="spec">12 GB RAM</div><div class="spec">4600 mAh</div>
+<div class="spec">6.76&quot; display · Kirin 9000S · 12 GB RAM · 4600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-nova-12-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-nova-12-pro">Compare</a></div>
+</div></div><div class="card" data-name="huawei nova 12 ultra huawei smartphones" data-brand="Huawei" data-price="185999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-nova-12-ultra/main-card.webp"><img class="cardimg" src="img/huawei-nova-12-ultra/main-card.jpg" alt="Huawei Nova 12 Ultra" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-nova-12-ultra.html">Huawei Nova 12 Ultra</a></p>
+<div class="price"><span class="prc" data-pkr="185999"><b class="pkrv">Rs 185,999</b> <span class="usdv">$672</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.76&quot; display</div><div class="spec">Kirin 9000S</div><div class="spec">12 GB RAM</div><div class="spec">4600 mAh</div>
+<div class="spec">6.76&quot; display · Kirin 9000S · 12 GB RAM · 4600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-nova-12-ultra.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-nova-12-ultra">Compare</a></div>
+</div></div><div class="card" data-name="huawei nova y71 huawei smartphones" data-brand="Huawei" data-price="58999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-nova-y71/main-card.webp"><img class="cardimg" src="img/huawei-nova-y71/main-card.jpg" alt="Huawei Nova Y71" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-nova-y71.html">Huawei Nova Y71</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.75&quot; display</div><div class="spec">Kirin 710A</div><div class="spec">8 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="spec">6.75&quot; display · Kirin 710A · 8 GB RAM · 6000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-nova-y71.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-nova-y71">Compare</a></div>
+</div></div><div class="card" data-name="huawei nova y91 huawei smartphones" data-brand="Huawei" data-price="86999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-nova-y91/main-card.webp"><img class="cardimg" src="img/huawei-nova-y91/main-card.jpg" alt="Huawei Nova Y91" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-nova-y91.html">Huawei Nova Y91</a></p>
+<div class="price"><span class="prc" data-pkr="86999"><b class="pkrv">Rs 86,999</b> <span class="usdv">$314</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.95&quot; display</div><div class="spec">Qualcomm Snapdragon 680 4G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">7000 mAh</div>
+<div class="spec">6.95&quot; display · Qualcomm Snapdragon 680 4G · 6 / 8 GB RAM · 7000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-nova-y91.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-nova-y91">Compare</a></div>
+</div></div><div class="card" data-name="huawei p60 huawei smartphones" data-brand="Huawei" data-price="185999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-p60/main-card.webp"><img class="cardimg" src="img/huawei-p60/main-card.jpg" alt="Huawei P60" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-p60.html">Huawei P60</a></p>
+<div class="price"><span class="prc" data-pkr="185999"><b class="pkrv">Rs 185,999</b> <span class="usdv">$672</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.67&quot; display</div><div class="spec">Qualcomm SM8475 Snapdragon 8+ Gen 1 4G</div><div class="spec">8 GB RAM</div><div class="spec">4815 mAh</div>
+<div class="spec">6.67&quot; display · Qualcomm SM8475 Snapdragon 8+ Gen 1 4G · 8 GB RAM · 4815 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-p60.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-p60">Compare</a></div>
+</div></div><div class="card" data-name="huawei p60 pro huawei smartphones" data-brand="Huawei" data-price="285999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-p60-pro/main-card.webp"><img class="cardimg" src="img/huawei-p60-pro/main-card.jpg" alt="Huawei P60 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-p60-pro.html">Huawei P60 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="285999"><b class="pkrv">Rs 285,999</b> <span class="usdv">$1,034</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.67&quot; display</div><div class="spec">Qualcomm SM8475 Snapdragon 8+ Gen 1 4G</div><div class="spec">8 / 12 GB RAM</div><div class="spec">4815 mAh</div>
+<div class="spec">6.67&quot; display · Qualcomm SM8475 Snapdragon 8+ Gen 1 4G · 8 / 12 GB RAM · 4815 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-p60-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-p60-pro">Compare</a></div>
+</div></div><div class="card" data-name="infinix hot 40 infinix smartphones" data-brand="Infinix" data-price="37999" data-year="2023">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/infinix-hot-40/main-card.webp"><img class="cardimg" src="img/infinix-hot-40/main-card.jpg" alt="Infinix Hot 40" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-hot-40.html">Infinix Hot 40</a></p>
+<div class="price"><span class="prc" data-pkr="37999"><b class="pkrv">Rs 37,999</b> <span class="usdv">$137</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.78&quot; IPS LCD 90Hz</div><div class="spec">Helio G88</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">32MP selfie aur bari screen wala budget king</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-hot-40.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-hot-40">Compare</a></div>
+</div></div><div class="card" data-name="infinix hot 40 pro infinix smartphones" data-brand="Infinix" data-price="44999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/infinix-hot-40-pro/main-card.webp"><img class="cardimg" src="img/infinix-hot-40-pro/main-card.jpg" alt="Infinix Hot 40 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-hot-40-pro.html">Infinix Hot 40 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="44999"><b class="pkrv">Rs 44,999</b> <span class="usdv">$163</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">IPS LCD</div><div class="spec">MediaTek Helio G99</div><div class="spec">8 GB / 12 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">Budget gaming aur bari screen</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-hot-40-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-hot-40-pro">Compare</a></div>
+</div></div><div class="card" data-name="infinix hot 40i infinix smartphones" data-brand="Infinix" data-price="30999" data-year="2023">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/infinix-hot-40i/main-card.webp"><img class="cardimg" src="img/infinix-hot-40i/main-card.jpg" alt="Infinix Hot 40i" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-hot-40i.html">Infinix Hot 40i</a></p>
+<div class="price"><span class="prc" data-pkr="30999"><b class="pkrv">Rs 30,999</b> <span class="usdv">$112</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">IPS LCD</div><div class="spec">Unisoc T606</div><div class="spec">4 GB / 8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">32MP selfie kam qeemat mein</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-hot-40i.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-hot-40i">Compare</a></div>
+</div></div><div class="card" data-name="infinix note 30 infinix smartphones" data-brand="Infinix" data-price="44999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/infinix-note-30/main-card.webp"><img class="cardimg" src="img/infinix-note-30/main-card.jpg" alt="Infinix Note 30" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-note-30.html">Infinix Note 30</a></p>
+<div class="price"><span class="prc" data-pkr="44999"><b class="pkrv">Rs 44,999</b> <span class="usdv">$163</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.78&quot; IPS LCD 120Hz</div><div class="spec">Helio G99</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">120Hz display, Helio G99 aur 45W charging wala all-rounder</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-note-30.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-note-30">Compare</a></div>
+</div></div><div class="card" data-name="infinix smart 8 infinix smartphones" data-brand="Infinix" data-price="19999" data-year="2023">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/infinix-smart-8/main-card.webp"><img class="cardimg" src="img/infinix-smart-8/main-card.jpg" alt="Infinix Smart 8" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-smart-8.html">Infinix Smart 8</a></p>
+<div class="price"><span class="prc" data-pkr="19999"><b class="pkrv">Rs 19,999</b> <span class="usdv">$72</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">IPS LCD</div><div class="spec">Unisoc T606</div><div class="spec">2 GB / 3 GB / 4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">Sabse saste mein 90Hz display</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-smart-8.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-smart-8">Compare</a></div>
+</div></div><div class="card" data-name="infinix smart 8 hd infinix smartphones" data-brand="Infinix" data-price="21999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/infinix-smart-8-hd/main-card.webp"><img class="cardimg" src="img/infinix-smart-8-hd/main-card.jpg" alt="Infinix Smart 8 HD" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-smart-8-hd.html">Infinix Smart 8 HD</a></p>
+<div class="price"><span class="prc" data-pkr="21999"><b class="pkrv">Rs 21,999</b> <span class="usdv">$80</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Unisoc T606</div><div class="spec">3 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.6&quot; display · Unisoc T606 · 3 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-smart-8-hd.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-smart-8-hd">Compare</a></div>
+</div></div><div class="card" data-name="lg k11 lg smartphones" data-brand="LG" data-price="" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/lg-k11/main-card.webp"><img class="cardimg" src="img/lg-k11/main-card.jpg" alt="LG K11" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/lg-k11.html">LG K11</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.7&quot; display</div><div class="spec">Qualcomm Snapdragon 782G</div><div class="spec">8 / 12 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.7&quot; display · Qualcomm Snapdragon 782G · 8 / 12 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/lg-k11.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=lg-k11">Compare</a></div>
+</div></div><div class="card" data-name="motorola edge 40 motorola smartphones" data-brand="Motorola" data-price="103999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/motorola-edge-40/main-card.webp"><img class="cardimg" src="img/motorola-edge-40/main-card.jpg" alt="Motorola Edge 40" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-edge-40.html">Motorola Edge 40</a></p>
+<div class="price"><span class="prc" data-pkr="103999"><b class="pkrv">Rs 103,999</b> <span class="usdv">$376</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.55&quot; display</div><div class="spec">Mediatek Dimensity 8020</div><div class="spec">8 GB RAM</div><div class="spec">4400 mAh</div>
+<div class="spec">6.55&quot; display · Mediatek Dimensity 8020 · 8 GB RAM · 4400 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-edge-40.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-edge-40">Compare</a></div>
+</div></div><div class="card" data-name="motorola edge 40 neo motorola smartphones" data-brand="Motorola" data-price="88999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/motorola-edge-40-neo/main-card.webp"><img class="cardimg" src="img/motorola-edge-40-neo/main-card.jpg" alt="Motorola Edge 40 Neo" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-edge-40-neo.html">Motorola Edge 40 Neo</a></p>
+<div class="price"><span class="prc" data-pkr="88999"><b class="pkrv">Rs 88,999</b> <span class="usdv">$322</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.55&quot; display</div><div class="spec">MediaTek Dimensity 7030</div><div class="spec">8 / 12 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.55&quot; display · MediaTek Dimensity 7030 · 8 / 12 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-edge-40-neo.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-edge-40-neo">Compare</a></div>
+</div></div><div class="card" data-name="motorola edge 40 pro motorola smartphones" data-brand="Motorola" data-price="179999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/motorola-edge-40-pro/main-card.webp"><img class="cardimg" src="img/motorola-edge-40-pro/main-card.jpg" alt="Motorola Edge 40 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-edge-40-pro.html">Motorola Edge 40 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="179999"><b class="pkrv">Rs 179,999</b> <span class="usdv">$651</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.67&quot; display</div><div class="spec">Qualcomm SM8550-AB Snapdragon 8 Gen 2</div><div class="spec">12 GB RAM</div><div class="spec">4600 mAh</div>
+<div class="spec">6.67&quot; display · Qualcomm SM8550-AB Snapdragon 8 Gen 2 · 12 GB RAM · 4600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-edge-40-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-edge-40-pro">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto e13 motorola smartphones" data-brand="Motorola" data-price="26999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/motorola-moto-e13/main-card.webp"><img class="cardimg" src="img/motorola-moto-e13/main-card.jpg" alt="Motorola Moto E13" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-moto-e13.html">Motorola Moto E13</a></p>
+<div class="price"><span class="prc" data-pkr="26999"><b class="pkrv">Rs 26,999</b> <span class="usdv">$98</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Unisoc T606</div><div class="spec">2 / 4 / 8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.5&quot; display · Unisoc T606 · 2 / 4 / 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-moto-e13.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-moto-e13">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto g power 5g motorola smartphones" data-brand="Motorola" data-price="27999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/motorola-moto-g-power-5g/main-card.webp"><img class="cardimg" src="img/motorola-moto-g-power-5g/main-card.jpg" alt="Motorola Moto G Power 5G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-moto-g-power-5g.html">Motorola Moto G Power 5G</a></p>
+<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek Dimensity 930</div><div class="spec">6 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.5&quot; display · Mediatek Dimensity 930 · 6 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-moto-g-power-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-moto-g-power-5g">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto g power 5g 2023 motorola smartphones" data-brand="Motorola" data-price="" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/motorola-moto-g-power-5g-2023/main-card.webp"><img class="cardimg" src="img/motorola-moto-g-power-5g-2023/main-card.jpg" alt="Motorola Moto G Power 5G 2023" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-moto-g-power-5g-2023.html">Motorola Moto G Power 5G 2023</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek Dimensity 930</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.5&quot; display · Mediatek Dimensity 930 · 4 / 6 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-moto-g-power-5g-2023.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-moto-g-power-5g-2023">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto g13 motorola smartphones" data-brand="Motorola" data-price="34999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/motorola-moto-g13/main-card.webp"><img class="cardimg" src="img/motorola-moto-g13/main-card.jpg" alt="Motorola Moto G13" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-moto-g13.html">Motorola Moto G13</a></p>
+<div class="price"><span class="prc" data-pkr="34999"><b class="pkrv">Rs 34,999</b> <span class="usdv">$126</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek MT6769Z Helio G85</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.5&quot; display · Mediatek MT6769Z Helio G85 · 4 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-moto-g13.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-moto-g13">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto g14 motorola smartphones" data-brand="Motorola" data-price="25999" data-year="2023">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/motorola-moto-g14/main-card.webp"><img class="cardimg" src="img/motorola-moto-g14/main-card.jpg" alt="Motorola Moto G14" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -3538,464 +3998,4 @@
 <div class="spec">6.6&quot; display · Qualcomm SM6375 Snapdragon 695 5G · 6 / 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/realme-9-pro.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=realme-9-pro">Compare</a></div>
-</div></div><div class="card" data-name="realme 9 pro+ realme smartphones" data-brand="Realme" data-price="63999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-9-pro+/main-card.webp"><img class="cardimg" src="img/realme-9-pro+/main-card.jpg" alt="Realme 9 Pro+" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-9-pro+.html">Realme 9 Pro+</a></p>
-<div class="price"><span class="prc" data-pkr="63999"><b class="pkrv">Rs 63,999</b> <span class="usdv">$231</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.4&quot; display</div><div class="spec">Mediatek Dimensity 920</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4500 mAh</div>
-<div class="spec">6.4&quot; display · Mediatek Dimensity 920 · 6 / 8 GB RAM · 4500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-9-pro+.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-9-pro+">Compare</a></div>
-</div></div><div class="card" data-name="realme 9 se realme smartphones" data-brand="Realme" data-price="" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-9-se/main-card.webp"><img class="cardimg" src="img/realme-9-se/main-card.jpg" alt="Realme 9 SE" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-9-se.html">Realme 9 SE</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.6&quot; display</div><div class="spec">Qualcomm Snapdragon 778G 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Qualcomm Snapdragon 778G 5G · 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-9-se.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-9-se">Compare</a></div>
-</div></div><div class="card" data-name="realme 9i realme smartphones" data-brand="Realme" data-price="45999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-9i/main-card.webp"><img class="cardimg" src="img/realme-9i/main-card.jpg" alt="Realme 9i" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-9i.html">Realme 9i</a></p>
-<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Qualcomm SM6225 Snapdragon 680 4G</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Qualcomm SM6225 Snapdragon 680 4G · 4 / 6 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-9i.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-9i">Compare</a></div>
-</div></div><div class="card" data-name="realme c30 realme smartphones" data-brand="Realme" data-price="21999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-c30/main-card.webp"><img class="cardimg" src="img/realme-c30/main-card.jpg" alt="Realme C30" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-c30.html">Realme C30</a></p>
-<div class="price"><span class="prc" data-pkr="21999"><b class="pkrv">Rs 21,999</b> <span class="usdv">$80</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Unisoc Tiger T612</div><div class="spec">2 / 3 / 4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Unisoc Tiger T612 · 2 / 3 / 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-c30.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-c30">Compare</a></div>
-</div></div><div class="card" data-name="realme c30s realme smartphones" data-brand="Realme" data-price="30999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-c30s/main-card.webp"><img class="cardimg" src="img/realme-c30s/main-card.jpg" alt="Realme C30s" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-c30s.html">Realme C30s</a></p>
-<div class="price"><span class="prc" data-pkr="30999"><b class="pkrv">Rs 30,999</b> <span class="usdv">$112</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Octa-core 1.6 GHz Cortex-A55</div><div class="spec">2 / 3 / 4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Octa-core 1.6 GHz Cortex-A55 · 2 / 3 / 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-c30s.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-c30s">Compare</a></div>
-</div></div><div class="card" data-name="realme c31 realme smartphones" data-brand="Realme" data-price="46999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-c31/main-card.webp"><img class="cardimg" src="img/realme-c31/main-card.jpg" alt="Realme C31" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-c31.html">Realme C31</a></p>
-<div class="price"><span class="prc" data-pkr="46999"><b class="pkrv">Rs 46,999</b> <span class="usdv">$170</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.52&quot; display</div><div class="spec">Mediatek MT6761 Helio A22</div><div class="spec">3 GB RAM</div><div class="spec">5150 mAh</div>
-<div class="spec">6.52&quot; display · Mediatek MT6761 Helio A22 · 3 GB RAM · 5150 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-c31.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-c31">Compare</a></div>
-</div></div><div class="card" data-name="realme c33 realme smartphones" data-brand="Realme" data-price="19999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-c33/main-card.webp"><img class="cardimg" src="img/realme-c33/main-card.jpg" alt="Realme C33" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-c33.html">Realme C33</a></p>
-<div class="price"><span class="prc" data-pkr="19999"><b class="pkrv">Rs 19,999</b> <span class="usdv">$72</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Unisoc Tiger T612</div><div class="spec">3 / 4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Unisoc Tiger T612 · 3 / 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-c33.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-c33">Compare</a></div>
-</div></div><div class="card" data-name="realme gt neo 3 realme smartphones" data-brand="Realme" data-price="148999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-gt-neo-3/main-card.webp"><img class="cardimg" src="img/realme-gt-neo-3/main-card.jpg" alt="Realme Gt Neo 3" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-gt-neo-3.html">Realme Gt Neo 3</a></p>
-<div class="price"><span class="prc" data-pkr="148999"><b class="pkrv">Rs 148,999</b> <span class="usdv">$538</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek Dimensity 8100</div><div class="spec">6 / 8 / 12 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.7&quot; display · Mediatek Dimensity 8100 · 6 / 8 / 12 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-gt-neo-3.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-gt-neo-3">Compare</a></div>
-</div></div><div class="card" data-name="realme gt neo 3 150w realme smartphones" data-brand="Realme" data-price="160999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-gt-neo-3-150w/main-card.webp"><img class="cardimg" src="img/realme-gt-neo-3-150w/main-card.jpg" alt="Realme Gt Neo 3 150w" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-gt-neo-3-150w.html">Realme Gt Neo 3 150w</a></p>
-<div class="price"><span class="prc" data-pkr="160999"><b class="pkrv">Rs 160,999</b> <span class="usdv">$582</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek Dimensity 8100</div><div class="spec">8 / 12 GB RAM</div><div class="spec">4500 mAh</div>
-<div class="spec">6.7&quot; display · Mediatek Dimensity 8100 · 8 / 12 GB RAM · 4500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-gt-neo-3-150w.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-gt-neo-3-150w">Compare</a></div>
-</div></div><div class="card" data-name="realme gt neo 3t realme smartphones" data-brand="Realme" data-price="241999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-gt-neo-3t/main-card.webp"><img class="cardimg" src="img/realme-gt-neo-3t/main-card.jpg" alt="Realme Gt Neo 3t" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-gt-neo-3t.html">Realme Gt Neo 3t</a></p>
-<div class="price"><span class="prc" data-pkr="241999"><b class="pkrv">Rs 241,999</b> <span class="usdv">$875</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.62&quot; display</div><div class="spec">Qualcomm SM8250-AC Snapdragon 870 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.62&quot; display · Qualcomm SM8250-AC Snapdragon 870 5G · 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-gt-neo-3t.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-gt-neo-3t">Compare</a></div>
-</div></div><div class="card" data-name="realme gt2 realme smartphones" data-brand="Realme" data-price="244999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-gt2/main-card.webp"><img class="cardimg" src="img/realme-gt2/main-card.jpg" alt="Realme Gt2" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-gt2.html">Realme Gt2</a></p>
-<div class="price"><span class="prc" data-pkr="244999"><b class="pkrv">Rs 244,999</b> <span class="usdv">$885</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.62&quot; display</div><div class="spec">Qualcomm SM8350 Snapdragon 888 5G</div><div class="spec">8 / 12 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.62&quot; display · Qualcomm SM8350 Snapdragon 888 5G · 8 / 12 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-gt2.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-gt2">Compare</a></div>
-</div></div><div class="card" data-name="realme gt2 explorer master realme smartphones" data-brand="Realme" data-price="154999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-gt2-explorer-master/main-card.webp"><img class="cardimg" src="img/realme-gt2-explorer-master/main-card.jpg" alt="Realme Gt2 Explorer Master" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-gt2-explorer-master.html">Realme Gt2 Explorer Master</a></p>
-<div class="price"><span class="prc" data-pkr="154999"><b class="pkrv">Rs 154,999</b> <span class="usdv">$560</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Qualcomm SM8475 Snapdragon 8+ Gen 1</div><div class="spec">8 / 12 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.7&quot; display · Qualcomm SM8475 Snapdragon 8+ Gen 1 · 8 / 12 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-gt2-explorer-master.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-gt2-explorer-master">Compare</a></div>
-</div></div><div class="card" data-name="realme gt2 pro realme smartphones" data-brand="Realme" data-price="132999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-gt2-pro/main-card.webp"><img class="cardimg" src="img/realme-gt2-pro/main-card.jpg" alt="Realme Gt2 Pro" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-gt2-pro.html">Realme Gt2 Pro</a></p>
-<div class="price"><span class="prc" data-pkr="132999"><b class="pkrv">Rs 132,999</b> <span class="usdv">$481</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Qualcomm SM8450 Snapdragon 8 Gen 1</div><div class="spec">8 / 12 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.7&quot; display · Qualcomm SM8450 Snapdragon 8 Gen 1 · 8 / 12 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-gt2-pro.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-gt2-pro">Compare</a></div>
-</div></div><div class="card" data-name="realme narzo 50 realme smartphones" data-brand="Realme" data-price="163999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-narzo-50/main-card.webp"><img class="cardimg" src="img/realme-narzo-50/main-card.jpg" alt="Realme Narzo 50" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-narzo-50.html">Realme Narzo 50</a></p>
-<div class="price"><span class="prc" data-pkr="163999"><b class="pkrv">Rs 163,999</b> <span class="usdv">$593</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Mediatek MT6781 Helio G96</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Mediatek MT6781 Helio G96 · 4 / 6 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-narzo-50.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-narzo-50">Compare</a></div>
-</div></div><div class="card" data-name="realme narzo 50 5g realme smartphones" data-brand="Realme" data-price="33999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-narzo-50-5g/main-card.webp"><img class="cardimg" src="img/realme-narzo-50-5g/main-card.jpg" alt="Realme Narzo 50 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-narzo-50-5g.html">Realme Narzo 50 5G</a></p>
-<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Mediatek Dimensity 810</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Mediatek Dimensity 810 · 4 / 6 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-narzo-50-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-narzo-50-5g">Compare</a></div>
-</div></div><div class="card" data-name="realme narzo 50 pro realme smartphones" data-brand="Realme" data-price="83999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-narzo-50-pro/main-card.webp"><img class="cardimg" src="img/realme-narzo-50-pro/main-card.jpg" alt="Realme Narzo 50 Pro" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-narzo-50-pro.html">Realme Narzo 50 Pro</a></p>
-<div class="price"><span class="prc" data-pkr="83999"><b class="pkrv">Rs 83,999</b> <span class="usdv">$304</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.4&quot; display</div><div class="spec">Mediatek Dimensity 920</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.4&quot; display · Mediatek Dimensity 920 · 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-narzo-50-pro.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-narzo-50-pro">Compare</a></div>
-</div></div><div class="card" data-name="realme narzo 50i prime realme smartphones" data-brand="Realme" data-price="21999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-narzo-50i-prime/main-card.webp"><img class="cardimg" src="img/realme-narzo-50i-prime/main-card.jpg" alt="Realme Narzo 50i Prime" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-narzo-50i-prime.html">Realme Narzo 50i Prime</a></p>
-<div class="price"><span class="prc" data-pkr="21999"><b class="pkrv">Rs 21,999</b> <span class="usdv">$80</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Unisoc Tiger T612</div><div class="spec">3 / 4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Unisoc Tiger T612 · 3 / 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-narzo-50i-prime.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-narzo-50i-prime">Compare</a></div>
-</div></div><div class="card" data-name="realme q5 realme smartphones" data-brand="Realme" data-price="61999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-q5/main-card.webp"><img class="cardimg" src="img/realme-q5/main-card.jpg" alt="Realme Q5" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-q5.html">Realme Q5</a></p>
-<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Qualcomm SM6375 Snapdragon 695 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Qualcomm SM6375 Snapdragon 695 5G · 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-q5.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-q5">Compare</a></div>
-</div></div><div class="card" data-name="realme q5 pro realme smartphones" data-brand="Realme" data-price="101999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-q5-pro/main-card.webp"><img class="cardimg" src="img/realme-q5-pro/main-card.jpg" alt="Realme Q5 Pro" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-q5-pro.html">Realme Q5 Pro</a></p>
-<div class="price"><span class="prc" data-pkr="101999"><b class="pkrv">Rs 101,999</b> <span class="usdv">$369</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.62&quot; display</div><div class="spec">Qualcomm SM8250-AC Snapdragon 870 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.62&quot; display · Qualcomm SM8250-AC Snapdragon 870 5G · 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-q5-pro.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-q5-pro">Compare</a></div>
-</div></div><div class="card" data-name="realme q5i realme smartphones" data-brand="Realme" data-price="55999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-q5i.html">Realme Q5i</a></p>
-<div class="price"><span class="prc" data-pkr="55999"><b class="pkrv">Rs 55,999</b> <span class="usdv">$202</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.58&quot; display</div><div class="spec">Mediatek Dimensity 810</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.58&quot; display · Mediatek Dimensity 810 · 4 / 6 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-q5i.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-q5i">Compare</a></div>
-</div></div><div class="card" data-name="realme v23 realme smartphones" data-brand="Realme" data-price="73999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-v23/main-card.webp"><img class="cardimg" src="img/realme-v23/main-card.jpg" alt="Realme V23" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-v23.html">Realme V23</a></p>
-<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.58&quot; display</div><div class="spec">Mediatek Dimensity 810</div><div class="spec">8 / 12 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.58&quot; display · Mediatek Dimensity 810 · 8 / 12 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-v23.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-v23">Compare</a></div>
-</div></div><div class="card" data-name="realme v23i realme smartphones" data-brand="Realme" data-price="83999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-v23i/main-card.webp"><img class="cardimg" src="img/realme-v23i/main-card.jpg" alt="Realme V23i" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-v23i.html">Realme V23i</a></p>
-<div class="price"><span class="prc" data-pkr="83999"><b class="pkrv">Rs 83,999</b> <span class="usdv">$304</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.56&quot; display</div><div class="spec">Mediatek Dimensity 700</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.56&quot; display · Mediatek Dimensity 700 · 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-v23i.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-v23i">Compare</a></div>
-</div></div><div class="card" data-name="realme v25 realme smartphones" data-brand="Realme" data-price="89999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-v25/main-card.webp"><img class="cardimg" src="img/realme-v25/main-card.jpg" alt="Realme V25" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-v25.html">Realme V25</a></p>
-<div class="price"><span class="prc" data-pkr="89999"><b class="pkrv">Rs 89,999</b> <span class="usdv">$325</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Qualcomm SM6375 Snapdragon 695 5G</div><div class="spec">12 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Qualcomm SM6375 Snapdragon 695 5G · 12 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-v25.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-v25">Compare</a></div>
-</div></div><div class="card" data-name="redmi note 12 redmi smartphones" data-brand="Redmi" data-price="30999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/redmi-note-12/main-card.webp"><img class="cardimg" src="img/redmi-note-12/main-card.jpg" alt="Redmi Note 12" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/redmi-note-12.html">Redmi Note 12</a></p>
-<div class="price"><span class="prc" data-pkr="30999"><b class="pkrv">Rs 30,999</b> <span class="usdv">$112</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.67&quot; display</div><div class="spec">Qualcomm SM4375 Snapdragon 4 Gen 1</div><div class="spec">4 / 6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.67&quot; display · Qualcomm SM4375 Snapdragon 4 Gen 1 · 4 / 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/redmi-note-12.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=redmi-note-12">Compare</a></div>
-</div></div><div class="card" data-name="sagem g100 sagem smartphones" data-brand="Sagem" data-price="" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/sagem-g100.html">Sagem G100</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.52&quot; display</div><div class="spec">Qualcomm SM6115 Snapdragon 662</div><div class="spec">3 / 4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.52&quot; display · Qualcomm SM6115 Snapdragon 662 · 3 / 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/sagem-g100.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=sagem-g100">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy a04 samsung smartphones" data-brand="Samsung" data-price="18999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-a04/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a04/main-card.jpg" alt="Samsung Galaxy A04" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-a04.html">Samsung Galaxy A04</a></p>
-<div class="price"><span class="prc" data-pkr="18999"><b class="pkrv">Rs 18,999</b> <span class="usdv">$69</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek MT6765 Helio P35</div><div class="spec">3 / 4 / 6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Mediatek MT6765 Helio P35 · 3 / 4 / 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a04.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-a04">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy a04e samsung smartphones" data-brand="Samsung" data-price="32999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-a04e/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a04e/main-card.jpg" alt="Samsung Galaxy A04e" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-a04e.html">Samsung Galaxy A04e</a></p>
-<div class="price"><span class="prc" data-pkr="32999"><b class="pkrv">Rs 32,999</b> <span class="usdv">$119</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek MT6765 Helio P35</div><div class="spec">3 / 4 / 2 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Mediatek MT6765 Helio P35 · 3 / 4 / 2 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a04e.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-a04e">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy a04s samsung smartphones" data-brand="Samsung" data-price="37999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-a04s/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a04s/main-card.jpg" alt="Samsung Galaxy A04s" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-a04s.html">Samsung Galaxy A04s</a></p>
-<div class="price"><span class="prc" data-pkr="37999"><b class="pkrv">Rs 37,999</b> <span class="usdv">$137</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Exynos 850</div><div class="spec">3 / 4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Exynos 850 · 3 / 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a04s.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-a04s">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy a13 4g samsung smartphones" data-brand="Samsung" data-price="" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-a13-4g/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a13-4g/main-card.jpg" alt="Samsung Galaxy A13 4G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-a13-4g.html">Samsung Galaxy A13 4G</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.6&quot; display</div><div class="spec">Exynos 850</div><div class="spec">3 / 4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Exynos 850 · 3 / 4 / 6 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a13-4g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-a13-4g">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy a23 samsung smartphones" data-brand="Samsung" data-price="78500" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-a23/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a23/main-card.jpg" alt="Samsung Galaxy A23" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-a23.html">Samsung Galaxy A23</a></p>
-<div class="price"><span class="prc" data-pkr="78500"><b class="pkrv">Rs 78,500</b> <span class="usdv">$284</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.6&quot; display</div><div class="spec">Snapdragon 680 4G</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Snapdragon 680 4G · 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a23.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-a23">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy a23 5g samsung smartphones" data-brand="Samsung" data-price="58999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-a23-5g/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a23-5g/main-card.jpg" alt="Samsung Galaxy A23 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-a23-5g.html">Samsung Galaxy A23 5G</a></p>
-<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Qualcomm SM6225 Snapdragon 680 4G</div><div class="spec">4 / 6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Qualcomm SM6225 Snapdragon 680 4G · 4 / 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a23-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-a23-5g">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy a33 5g samsung smartphones" data-brand="Samsung" data-price="72999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-a33-5g/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a33-5g/main-card.jpg" alt="Samsung Galaxy A33 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-a33-5g.html">Samsung Galaxy A33 5G</a></p>
-<div class="price"><span class="prc" data-pkr="72999"><b class="pkrv">Rs 72,999</b> <span class="usdv">$264</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.4&quot; display</div><div class="spec">Exynos 1280</div><div class="spec">4 / 6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.4&quot; display · Exynos 1280 · 4 / 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a33-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-a33-5g">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy a53 5g samsung smartphones" data-brand="Samsung" data-price="91999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-a53-5g/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a53-5g/main-card.jpg" alt="Samsung Galaxy A53 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-a53-5g.html">Samsung Galaxy A53 5G</a></p>
-<div class="price"><span class="prc" data-pkr="91999"><b class="pkrv">Rs 91,999</b> <span class="usdv">$332</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Exynos 1280</div><div class="spec">4 / 6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Exynos 1280 · 4 / 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a53-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-a53-5g">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy a73 5g samsung smartphones" data-brand="Samsung" data-price="165999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-a73-5g/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a73-5g/main-card.jpg" alt="Samsung Galaxy A73 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-a73-5g.html">Samsung Galaxy A73 5G</a></p>
-<div class="price"><span class="prc" data-pkr="165999"><b class="pkrv">Rs 165,999</b> <span class="usdv">$600</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Qualcomm SM7325 Snapdragon 778G 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.7&quot; display · Qualcomm SM7325 Snapdragon 778G 5G · 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a73-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-a73-5g">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy f13 samsung smartphones" data-brand="Samsung" data-price="24999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-f13/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-f13/main-card.jpg" alt="Samsung Galaxy F13" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-f13.html">Samsung Galaxy F13</a></p>
-<div class="price"><span class="prc" data-pkr="24999"><b class="pkrv">Rs 24,999</b> <span class="usdv">$90</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Exynos 850</div><div class="spec">4 / 6 GB RAM</div><div class="spec">6000 mAh</div>
-<div class="spec">6.6&quot; display · Exynos 850 · 4 / 6 GB RAM · 6000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-f13.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-f13">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy f23 samsung smartphones" data-brand="Samsung" data-price="42999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-f23/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-f23/main-card.jpg" alt="Samsung Galaxy F23" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-f23.html">Samsung Galaxy F23</a></p>
-<div class="price"><span class="prc" data-pkr="42999"><b class="pkrv">Rs 42,999</b> <span class="usdv">$155</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Qualcomm SM7225 Snapdragon 750G 5G</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Qualcomm SM7225 Snapdragon 750G 5G · 4 / 6 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-f23.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-f23">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy m04 samsung smartphones" data-brand="Samsung" data-price="23999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-m04/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-m04/main-card.jpg" alt="Samsung Galaxy M04" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-m04.html">Samsung Galaxy M04</a></p>
-<div class="price"><span class="prc" data-pkr="23999"><b class="pkrv">Rs 23,999</b> <span class="usdv">$87</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek MT6765 Helio P35</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Mediatek MT6765 Helio P35 · 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-m04.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-m04">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy m13 samsung smartphones" data-brand="Samsung" data-price="39999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-m13/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-m13/main-card.jpg" alt="Samsung Galaxy M13" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-m13.html">Samsung Galaxy M13</a></p>
-<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Exynos 850</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Exynos 850 · 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-m13.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-m13">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy m13 5g samsung smartphones" data-brand="Samsung" data-price="30999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-m13-5g/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-m13-5g/main-card.jpg" alt="Samsung Galaxy M13 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-m13-5g.html">Samsung Galaxy M13 5G</a></p>
-<div class="price"><span class="prc" data-pkr="30999"><b class="pkrv">Rs 30,999</b> <span class="usdv">$112</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek Dimensity 700</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Mediatek Dimensity 700 · 4 / 6 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-m13-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-m13-5g">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy m23 samsung smartphones" data-brand="Samsung" data-price="58999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-m23/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-m23/main-card.jpg" alt="Samsung Galaxy M23" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-m23.html">Samsung Galaxy M23</a></p>
-<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Qualcomm SM7225 Snapdragon 750G 5G</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Qualcomm SM7225 Snapdragon 750G 5G · 4 / 6 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-m23.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-m23">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy m23 5g samsung smartphones" data-brand="Samsung" data-price="58999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-m23-5g/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-m23-5g/main-card.jpg" alt="Samsung Galaxy M23 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-m23-5g.html">Samsung Galaxy M23 5G</a></p>
-<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">Qualcomm Snapdragon 750G</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">Qualcomm Snapdragon 750G · 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-m23-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-m23-5g">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy m33 samsung smartphones" data-brand="Samsung" data-price="40999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-m33/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-m33/main-card.jpg" alt="Samsung Galaxy M33" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-m33.html">Samsung Galaxy M33</a></p>
-<div class="price"><span class="prc" data-pkr="40999"><b class="pkrv">Rs 40,999</b> <span class="usdv">$148</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Exynos 1280</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Exynos 1280 · 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-m33.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-m33">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy m53 samsung smartphones" data-brand="Samsung" data-price="77999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-m53/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-m53/main-card.jpg" alt="Samsung Galaxy M53" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-m53.html">Samsung Galaxy M53</a></p>
-<div class="price"><span class="prc" data-pkr="77999"><b class="pkrv">Rs 77,999</b> <span class="usdv">$282</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek Dimensity 900</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.7&quot; display · Mediatek Dimensity 900 · 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-m53.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-m53">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy m53 5g samsung smartphones" data-brand="Samsung" data-price="77999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-m53-5g/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-m53-5g/main-card.jpg" alt="Samsung Galaxy M53 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-m53-5g.html">Samsung Galaxy M53 5G</a></p>
-<div class="price"><span class="prc" data-pkr="77999"><b class="pkrv">Rs 77,999</b> <span class="usdv">$282</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek Dimensity 900</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.7&quot; display · Mediatek Dimensity 900 · 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-m53-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-m53-5g">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy s21 fe 5g samsung smartphones" data-brand="Samsung" data-price="105999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-s21-fe-5g/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-s21-fe-5g/main-card.jpg" alt="Samsung Galaxy S21 FE 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-s21-fe-5g.html">Samsung Galaxy S21 FE 5G</a></p>
-<div class="price"><span class="prc" data-pkr="105999"><b class="pkrv">Rs 105,999</b> <span class="usdv">$383</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.4&quot; display</div><div class="spec">Qualcomm SM8350 Snapdragon 888 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4500 mAh</div>
-<div class="spec">6.4&quot; display · Qualcomm SM8350 Snapdragon 888 5G · 6 / 8 GB RAM · 4500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-s21-fe-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-s21-fe-5g">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy s22 samsung smartphones" data-brand="Samsung" data-price="82999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-s22/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-s22/main-card.jpg" alt="Samsung Galaxy S22" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-s22.html">Samsung Galaxy S22</a></p>
-<div class="price"><span class="prc" data-pkr="82999"><b class="pkrv">Rs 82,999</b> <span class="usdv">$300</span></span><span class="plabel">Estimated price</span></div><div class="spec">Qualcomm Snapdragon 8 Gen1</div><div class="spec">8 GB RAM</div><div class="spec">3700 mAh</div>
-<div class="spec">Qualcomm Snapdragon 8 Gen1 · 8 GB RAM · 3700 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-s22.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-s22">Compare</a></div>
 </div></div>

@@ -26,9 +26,9 @@ jobs:
       - name: Check live pages return 200
         run: |
           fail=0
-          for u in "https://checkspecs.dpdns.org/" "https://checkspecs.dpdns.org/sitemap.xml" \
-                   "https://checkspecs.dpdns.org/phones.json" "https://checkspecs.dpdns.org/rates.json" \
-                   "https://checkspecs.dpdns.org/404.html" "https://checkspecs.dpdns.org/best-gaming-phones.html"; do
+          for u in "https://checkspecs.info/" "https://checkspecs.info/sitemap.xml" \
+                   "https://checkspecs.info/phones.json" "https://checkspecs.info/rates.json" \
+                   "https://checkspecs.info/404.html" "https://checkspecs.info/best-gaming-phones.html"; do
             code=$(curl -s -o /dev/null -w "%{http_code}" --max-time 30 "$u")
             echo "$code $u"
             [ "$code" = "200" ] || fail=1
@@ -38,10 +38,10 @@ jobs:
       - name: Check sensitive source paths stay hidden (404)
         run: |
           fail=0
-          for u in "https://checkspecs.dpdns.org/build.py" "https://checkspecs.dpdns.org/PLAN.md" \
-                   "https://checkspecs.dpdns.org/enrich-failures.txt" \
-                   "https://checkspecs.dpdns.org/verified/prices-fix.json" \
-                   "https://checkspecs.dpdns.org/harvest/add_models.py"; do
+          for u in "https://checkspecs.info/build.py" "https://checkspecs.info/PLAN.md" \
+                   "https://checkspecs.info/enrich-failures.txt" \
+                   "https://checkspecs.info/verified/prices-fix.json" \
+                   "https://checkspecs.info/harvest/add_models.py"; do
             code=$(curl -s -o /dev/null -w "%{http_code}" --max-time 30 "$u")
             echo "$code $u"
             [ "$code" = "404" ] || fail=1

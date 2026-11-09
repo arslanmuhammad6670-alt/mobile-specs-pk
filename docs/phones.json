@@ -2354,8 +2354,8 @@
   "name": "Apple iPhone 18 Pro Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 2331,
-  "price_pkr": 645000,
+  "price": 2186,
+  "price_pkr": 605000,
   "path": "phones/apple-iphone-18-pro-max.html",
   "pl": "Official price"
  },
@@ -2786,10 +2786,11 @@
   "name": "ZTE nubia RedMagic 12 Pro",
   "brand": "ZTE",
   "cat": "Smartphones",
-  "price": 1041,
-  "price_pkr": 287999,
+  "price": 900,
+  "price_pkr": 248999,
   "path": "phones/zte-nubia-redmagic-12-pro-5g.html",
-  "pl": "Estimated price"
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "apple-ipad-mini-(2026)",
@@ -2806,10 +2807,9 @@
   "name": "vivo V80 FE",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 452,
-  "price_pkr": 124999,
-  "path": "phones/vivo-v80-fe-5g.html",
-  "pl": "Estimated price"
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/vivo-v80-fe-5g.html"
  },
  {
   "slug": "samsung-galaxy-tab-s8",
@@ -40457,8 +40457,8 @@
   "name": "Apple iPhone 18 Pro",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 2103,
-  "price_pkr": 581999,
+  "price": 2042,
+  "price_pkr": 565000,
   "path": "phones/apple-iphone-18-pro.html",
   "pl": "Official price"
  },

@@ -4882,10 +4882,10 @@
   "slug": "nokia-x3",
   "name": "Nokia X3",
   "brand": "Nokia",
-  "cat": "Smartphones",
+  "cat": "Keypad Phones",
   "price": 101,
   "price_pkr": 27999,
-  "path": "phones/nokia-x3.html",
+  "path": "keypad/nokia-x3.html",
   "pl": "Estimated price"
  },
  {
@@ -13050,8 +13050,8 @@
  },
  {
   "slug": "honor-600",
-  "name": "Honor 600",
-  "brand": "Honor",
+  "name": "Nokia 600",
+  "brand": "Nokia",
   "cat": "Smartphones",
   "price": null,
   "price_pkr": null,
@@ -22102,10 +22102,10 @@
   "slug": "nokia-8000-4g",
   "name": "Nokia 8000 4G",
   "brand": "Nokia",
-  "cat": "Smartphones",
+  "cat": "Keypad Phones",
   "price": 123,
   "price_pkr": 33999,
-  "path": "phones/nokia-8000-4g.html",
+  "path": "keypad/nokia-8000-4g.html",
   "pl": "Estimated price"
  },
  {
@@ -22122,10 +22122,10 @@
   "slug": "nokia-8210-4g",
   "name": "Nokia 8210 4G",
   "brand": "Nokia",
-  "cat": "Smartphones",
+  "cat": "Keypad Phones",
   "price": 87,
   "price_pkr": 23999,
-  "path": "phones/nokia-8210-4g.html",
+  "path": "keypad/nokia-8210-4g.html",
   "pl": "Estimated price"
  },
  {
@@ -22852,10 +22852,10 @@
   "slug": "nothing-(3a)",
   "name": "Nothing Phone (3a)",
   "brand": "Nothing",
-  "cat": "Tablets",
+  "cat": "Smartphones",
   "price": null,
   "price_pkr": null,
-  "path": "tablets/nothing-(3a).html",
+  "path": "phones/nothing-(3a).html",
   "unv": 1
  },
  {
@@ -26832,10 +26832,10 @@
   "slug": "hmd-2660-flip",
   "name": "HMD 2660 Flip",
   "brand": "HMD",
-  "cat": "Smartphones",
+  "cat": "Keypad Phones",
   "price": null,
   "price_pkr": null,
-  "path": "phones/hmd-2660-flip.html",
+  "path": "keypad/hmd-2660-flip.html",
   "unv": 1
  },
  {
@@ -27922,10 +27922,10 @@
   "slug": "alcatel-3088",
   "name": "Alcatel 3088",
   "brand": "Alcatel",
-  "cat": "Smartphones",
+  "cat": "Keypad Phones",
   "price": 58,
   "price_pkr": 15999,
-  "path": "phones/alcatel-3088.html",
+  "path": "keypad/alcatel-3088.html",
   "pl": "Estimated price"
  },
  {
@@ -29322,10 +29322,10 @@
   "slug": "oppo-a103",
   "name": "Oppo A103",
   "brand": "Oppo",
-  "cat": "Tablets",
+  "cat": "Smartphones",
   "price": null,
   "price_pkr": null,
-  "path": "tablets/oppo-a103.html",
+  "path": "phones/oppo-a103.html",
   "unv": 1
  },
  {
@@ -30270,7 +30270,7 @@
  },
  {
   "slug": "huawei-lmr-al10",
-  "name": "Huawei LMR-AL10",
+  "name": "Huawei Pura 80 Pro+",
   "brand": "Huawei",
   "cat": "Smartphones",
   "price": 1070,
@@ -30350,7 +30350,7 @@
  },
  {
   "slug": "honor-dvd-an00",
-  "name": "Honor DVD-AN00",
+  "name": "Honor Power",
   "brand": "Honor",
   "cat": "Smartphones",
   "price": 271,
@@ -30380,7 +30380,7 @@
  },
  {
   "slug": "honor-lgn-nx1",
-  "name": "Honor LGN-NX1",
+  "name": "Honor 400 Smart 5G",
   "brand": "Honor",
   "cat": "Smartphones",
   "price": 239,
@@ -34092,10 +34092,10 @@
   "slug": "alcatel-go-flip-3",
   "name": "Alcatel Go Flip 3",
   "brand": "Alcatel",
-  "cat": "Smartphones",
+  "cat": "Keypad Phones",
   "price": 90,
   "price_pkr": 24999,
-  "path": "phones/alcatel-go-flip-3.html",
+  "path": "keypad/alcatel-go-flip-3.html",
   "pl": "Estimated price"
  },
  {
@@ -37350,7 +37350,7 @@
  },
  {
   "slug": "huawei-lmr-al00",
-  "name": "Huawei LMR-AL00",
+  "name": "Huawei Pura 80 Pro",
   "brand": "Huawei",
   "cat": "Smartphones",
   "price": 867,
@@ -37390,7 +37390,7 @@
  },
  {
   "slug": "honor-agi-an00",
-  "name": "Honor AGI-AN00",
+  "name": "Honor X60 GT",
   "brand": "Honor",
   "cat": "Smartphones",
   "price": 235,
@@ -37440,7 +37440,7 @@
  },
  {
   "slug": "honor-bkq-an00",
-  "name": "Honor BKQ-AN00",
+  "name": "Honor Magic8",
   "brand": "Honor",
   "cat": "Smartphones",
   "price": 622,
@@ -37450,7 +37450,7 @@
  },
  {
   "slug": "honor-cle-an00",
-  "name": "Honor CLE-AN00",
+  "name": "Honor Magic V Flip 2",
   "brand": "Honor",
   "cat": "Smartphones",
   "price": 788,
@@ -37510,7 +37510,7 @@
  },
  {
   "slug": "huawei-psd-al80",
-  "name": "Huawei PSD-AL80",
+  "name": "Huawei nova Flip S",
   "brand": "Huawei",
   "cat": "Smartphones",
   "price": 473,

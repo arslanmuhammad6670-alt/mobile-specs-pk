@@ -141,7 +141,7 @@
   </div>
 </section>
 
-<p class="note">After saving, GitHub Actions rebuilds the website (once the workflow file is installed in the repo). The change usually appears on checkspecs.dpdns.org in 2–5 minutes.</p>
+<p class="note">After saving, GitHub Actions rebuilds the website (once the workflow file is installed in the repo). The change usually appears on checkspecs.info in 2–5 minutes.</p>
 
 </main>
 
@@ -446,7 +446,7 @@ async function saveModel() {
     devices = list; fileExists = true; renderModelList();
     $("fileInfo").textContent = currentFile + " — " + devices.length + " model(s) loaded.";
     if (!editingSlug) clearForm();
-    showMsg("ok", "Saved: " + dev.name + " (" + dev.slug + ") in " + currentFile + ".\nThe website rebuild starts automatically — the change should be live on checkspecs.dpdns.org in 2–5 minutes.");
+    showMsg("ok", "Saved: " + dev.name + " (" + dev.slug + ") in " + currentFile + ".\nThe website rebuild starts automatically — the change should be live on checkspecs.info in 2–5 minutes.");
   } catch (e) { showMsg("err", e.message); }
   busy(btn, false);
 }
@@ -480,7 +480,7 @@ $("btnDelete").addEventListener("click", async function () {
     devices = list; renderModelList();
     $("fileInfo").textContent = currentFile + " — " + devices.length + " model(s) loaded.";
     if (editingSlug === slug) clearForm();
-    showMsg("ok", "Deleted: " + d.name + ". The website rebuild starts automatically — it will be gone from checkspecs.dpdns.org in a few minutes.");
+    showMsg("ok", "Deleted: " + d.name + ". The website rebuild starts automatically — it will be gone from checkspecs.info in a few minutes.");
   } catch (e) { showMsg("err", e.message); }
   busy(btn, false);
 });

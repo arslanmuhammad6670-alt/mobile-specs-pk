@@ -885,8 +885,8 @@ select{padding:11px;border-radius:8px;border:1.5px solid #0b1e3f;font-size:15px;
 .tile{background:linear-gradient(135deg,#0b1e3f,#1677ff);color:#fff;border-radius:14px;padding:18px;text-decoration:none;display:block}
 .tile b{font-size:19px;display:block}.tile span{opacity:.85;font-size:13px}
 """
-RATES_DICT = {"PKR": 1, "INR": 0.339803, "BDT": 0.449151, "AED": 0.013269, "SAR": 0.013549, "QAR": 0.013152, "KWD": 0.00112, "OMR": 0.001389, "BHD": 0.001359, "USD": 0.003613, "GBP": 0.002704, "EUR": 0.003241, "TRY": 0.181352, "CNY": 0.024135, "JPY": 0.572049, "KRW": 4.91888, "RUB": 0.296017, "CAD": 0.0051, "AUD": 0.00526, "SGD": 0.004635, "MYR": 0.014665, "IDR": 65.404764, "THB": 0.121251, "PHP": 0.227995, "ZAR": 0.05974, "NGN": 4.864116, "KES": 0.469484, "EGP": 0.195215, "LKR": 1.201068, "NPR": 0.543735, "AFN": 0.234241, "ILS": 0.011518, "CHF": 0.002962, "VND": 92.537157, "MMK": 7.585336, "KHR": 14.660703, "UZS": 42.976162, "KZT": 1.618242, "TZS": 9.525191, "GHS": 0.042183, "MAD": 0.035265, "IQD": 5.487297, "JOD": 0.002562, "AZN": 0.006144, "GEL": 0.009372}
-RATES_UPDATED = "2026-11-09"  # ExchangeRate-API (open.er-api.com) mid-market, fetched 2026-11-04
+RATES_DICT = {"PKR": 1, "INR": 0.342947, "BDT": 0.450215, "AED": 0.013281, "SAR": 0.013561, "QAR": 0.013163, "KWD": 0.001125, "OMR": 0.00139, "BHD": 0.00136, "USD": 0.003616, "GBP": 0.002696, "EUR": 0.003231, "TRY": 0.180968, "CNY": 0.024171, "JPY": 0.572815, "KRW": 4.860022, "RUB": 0.294422, "CAD": 0.005061, "AUD": 0.005186, "SGD": 0.004633, "MYR": 0.014743, "IDR": 65.600092, "THB": 0.122076, "PHP": 0.229705, "ZAR": 0.060092, "NGN": 4.867756, "KES": 0.470028, "EGP": 0.200235, "LKR": 1.202212, "NPR": 0.548701, "AFN": 0.235373, "ILS": 0.011442, "CHF": 0.002965, "VND": 93.187981, "MMK": 7.593517, "KHR": 14.851749, "UZS": 43.072069, "KZT": 1.637089, "TZS": 9.547681, "GHS": 0.042234, "MAD": 0.035522, "IQD": 5.487476, "JOD": 0.002564, "AZN": 0.006151, "GEL": 0.009386}
+RATES_UPDATED = "2026-11-04"  # ExchangeRate-API (open.er-api.com) mid-market, fetched 2026-11-04
 # Step 4 (2026-11-08): client-side sort controls for every device-card listing.
 # "def" is the pre-selected option and restores the exact server-rendered order.
 SORT_OPTS = ('<option value="def">Sort: Default Order</option><option value="az">Name: A to Z</option>'
@@ -901,6 +901,8 @@ let _phonesCache=null;
 async function loadPhones(){if(_phonesCache)return _phonesCache;const r=await fetch(_pfx+'phones.json');_phonesCache=await r.json();return _phonesCache}
 fetch(_pfx+'rates.json').then(r=>r.ok?r.json():null).then(j=>{if(j&&j.rates){Object.assign(RATES,j.rates);applyCur()}}).catch(()=>{});
 const RATES=__RATES__;
+function _ev(n,p){try{if(typeof gtag==='function')gtag('event',n,p||{})}catch(e){}}
+let _lastSearch='',_lastCmp='';
 const SYM={PKR:'Rs ',INR:'₹',BDT:'৳',AED:'AED ',SAR:'SAR ',QAR:'QAR ',KWD:'KWD ',OMR:'OMR ',BHD:'BHD ',USD:'$',GBP:'£',EUR:'€',TRY:'₺',CNY:'¥',JPY:'¥',KRW:'₩',RUB:'₽',CAD:'CA$',AUD:'A$',SGD:'S$',MYR:'RM ',IDR:'Rp ',THB:'฿',PHP:'₱',ZAR:'R ',NGN:'₦',KES:'KSh ',EGP:'E£ ',LKR:'Rs ',NPR:'Rs ',AFN:'؋',ILS:'₪',CHF:'CHF ',VND:'₫',MMK:'Ks ',KHR:'៛',UZS:'UZS ',KZT:'₸',TZS:'TSh ',GHS:'GH₵',MAD:'MAD ',IQD:'IQD ',JOD:'JOD ',AZN:'₼',GEL:'₾'};
 function fmtCur(pkrAmt,cur){const v=pkrAmt*RATES[cur];const dec=v>=100?0:(v>=1?2:3);return SYM[cur]+v.toLocaleString('en-US',{minimumFractionDigits:dec,maximumFractionDigits:dec})}
 function curSel(){return localStorage.getItem('cur')||'PKR'}
@@ -911,12 +913,13 @@ function doSearch(q){q=(q||'').toLowerCase();document.querySelectorAll('.card').
 async function heroLive(q){const box=document.getElementById('hresults');if(!box)return;q=(q||'').trim().toLowerCase();if(q.length<2){box.innerHTML='';box.style.display='none';return}
  let phones;try{phones=await loadPhones()}catch(e){return}
  const hits=phones.filter(p=>(p.name+' '+p.brand+' '+p.cat).toLowerCase().includes(q)).slice(0,10);
+ if(q!==_lastSearch){_lastSearch=q;_ev('site_search',{search_term:q,results_count:hits.length})}
  box.innerHTML='';
  if(!hits.length){const d=document.createElement('div');d.className='hrow hnone';d.textContent='No models found — try a brand or model name.';box.appendChild(d);box.style.display='block';return}
  hits.forEach(p=>{const a=document.createElement('a');a.className='hrow';a.href=_pfx+p.path;a.setAttribute('role','option');
   const l=document.createElement('span');const nm=document.createElement('b');nm.textContent=p.name;const br=document.createElement('span');br.className='hb';br.textContent=' '+p.brand+' · '+p.cat;l.appendChild(nm);l.appendChild(br);
   const pr=document.createElement('span');pr.className='hp';pr.textContent=(p.price_pkr==null)?(p.unv?'Price not verified':'Price not announced'):('Rs '+p.price_pkr.toLocaleString('en-PK')+(p.exp?' (Expected)':'')+(p.pl?' · '+p.pl:''));
-  a.appendChild(l);a.appendChild(pr);box.appendChild(a)});
+  a.appendChild(l);a.appendChild(pr);box.appendChild(a);a.addEventListener('click',()=>_ev('search_result_click',{model_name:p.name,model_slug:p.slug,search_term:q}))});
  box.style.display='block'}
 document.addEventListener('DOMContentLoaded',()=>{const h=document.getElementById('hq');if(!h)return;h.addEventListener('focus',()=>{loadPhones().catch(()=>{})});
  document.addEventListener('click',e=>{const box=document.getElementById('hresults');if(box&&e.target!==h&&!box.contains(e.target)){box.style.display='none'}});
@@ -942,6 +945,7 @@ async function initCompare(){
  brandB.onchange=()=>{fillModels(selB,brandB.value);render()};
  async function render(){const a=phones.find(p=>p.slug===selA.value),b=phones.find(p=>p.slug===selB.value);if(!a||!b)return;
   try{history.replaceState(null,'','?a='+a.slug+'&b='+b.slug)}catch(e){}
+  const _pair=a.slug+'|'+b.slug;if(_pair!==_lastCmp){_lastCmp=_pair;_ev('compare_view',{model_a:a.name,model_b:b.name,slug_a:a.slug,slug_b:b.slug})}
   const sa=await specsOf(a),sb=await specsOf(b);
   const keys=['Price','Brand','Category'];
   [sa,sb].forEach(s=>Object.keys(s).forEach(k=>{if(!keys.includes(k))keys.push(k)}));

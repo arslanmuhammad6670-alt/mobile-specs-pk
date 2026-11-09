@@ -97,6 +97,7 @@ function luhn(d){
 }
 function esc(s){return String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
 function fmt(n){return n?('Rs '+Number(n).toLocaleString('en-PK')):'';}
+function _ev(n,p){try{if(typeof gtag==='function')gtag('event',n,p||{})}catch(e){}}
 async function analyse(){
   const btn=document.getElementById('go');
   const res=document.getElementById('result');
@@ -134,6 +135,7 @@ async function analyse(){
   const e=TACMAPS[tac.slice(0,4)].get(tac);
   if(!e){
     html+='<div class="verdict bad"><b>Model not in our database yet.</b> Your IMEI format is fine — this phone\'s TAC code is not among the 269,000+ codes we cover yet. The IMEI breakdown above is still exact, and we add new models every week, so please check again soon.</div>';
+    _ev('analyser_check',{result:'not_found'});
     res.innerHTML=html; return;
   }
   const brand=CUR.b[e[1]];
@@ -171,6 +173,7 @@ async function analyse(){
       html+='<p class="note">This model\'s specification sheet is being added — the model name above is exact. Meanwhile you can browse all models by <a href="az.html">A–Z list</a>.</p>';
     }
   }
+  _ev('analyser_check',{result:'found',model_name:dispName});
   res.innerHTML=html;
 }
 document.getElementById('imei').addEventListener('keydown',e=>{if(e.key==='Enter')analyse();});

@@ -711,7 +711,61 @@ def _imgsize(src):
         wh = None
     _IMGSIZE[src] = wh
     return wh
-def pic(src, webp, cls, alt, base="", lazy=True):
+# ---- Batch F2 (2026-11-09): card-size image derivatives ----
+# Cards and the homepage hero display images at <= ~300 CSS px, but pic() used
+# to serve the full 1200px studio files for them. For card contexts we generate
+# a <=480px derivative pair (<stem>-card.jpg / <stem>-card.webp) next to the
+# original and serve that instead; device pages keep the full image. Derivatives
+# are mtime-cached: regenerated only when the source file is newer, so later
+# builds (nightly / watch / admin rebuilds) stay fast, and an image-lane
+# replacement of a source photo refreshes its derivative on the next build.
+CARD_MAX = 480
+_CARD_CACHE = {}
+def _card_paths(src):
+    stem = src.rsplit(".", 1)[0]
+    return stem + "-card.jpg", stem + "-card.webp"
+def _make_card(src):
+    """Return (card_jpg, card_webp) OUT-relative paths for src, generating the
+    derivative pair when missing or stale; (None, None) when the source is
+    already small or cannot be processed (callers fall back to the original)."""
+    if src in _CARD_CACHE: return _CARD_CACHE[src]
+    out = (None, None)
+    try:
+        sp = os.path.join(OUT, src)
+        cj, cw = _card_paths(src)
+        jp, wp = os.path.join(OUT, cj), os.path.join(OUT, cw)
+        if os.path.exists(sp):
+            fresh = os.path.exists(jp) and os.path.getmtime(jp) >= os.path.getmtime(sp)
+            if not fresh:
+                from PIL import Image as _Im
+                with _Im.open(sp) as _i:
+                    _i.load()
+                    if max(_i.size) > CARD_MAX:
+                        _im = _i.convert("RGB")
+                        _im.thumbnail((CARD_MAX, CARD_MAX), _Im.LANCZOS)
+                        _im.save(jp, "JPEG", quality=78)
+                        try: _im.save(wp, "WEBP", quality=78)
+                        except Exception: wp = None
+                    else:
+                        jp = wp = None
+            if jp and os.path.exists(jp) and os.path.getsize(jp) < os.path.getsize(sp):
+                out = (cj, cw if (wp and os.path.exists(wp)) else "")
+            elif jp and os.path.exists(jp):
+                # derivative not smaller than the (already small) source: drop it
+                try: os.remove(jp)
+                except Exception: pass
+                if wp and os.path.exists(wp):
+                    try: os.remove(wp)
+                    except Exception: pass
+    except Exception:
+        out = (None, None)
+    _CARD_CACHE[src] = out
+    return out
+
+def pic(src, webp, cls, alt, base="", lazy=True, card=False):
+    if card:
+        _cj, _cw = _make_card(src)
+        if _cj: src, webp = _cj, _cw
     _wh = _imgsize(src)
     _dim = f' width="{_wh[0]}" height="{_wh[1]}"' if _wh else ""
     im = f'<img class="{cls}" src="{base}{src}" alt="{esc(alt)}"{_dim}{" loading=\"lazy\"" if lazy else ""}>'
@@ -963,7 +1017,7 @@ BRANDWM = {"Apple": "#111111", "Samsung": "#1428a0", "Google": "#3367d6", "Vivo"
            "Tecno": "#1a4f9c", "OnePlus": "#eb0028", "Honor": "#0b1e3f", "Nokia": "#124191",
            "Redmi": "#b54d00", "Poco": "#8a6d00"}
 def tcard(d):
-    img = pic(d["hero"], d.get("hero_webp", ""), "", d["name"]) if d.get("hero") else "📱"
+    img = pic(d["hero"], d.get("hero_webp", ""), "", d["name"], card=True) if d.get("hero") else "📱"
     badge = f'<span class="badge {"disc" if d["status"] == "Discontinued" else "cont"}">{d["status"]}</span>' if d.get("status") else ''
     return f"""<div class="tcard" data-name="{esc(d['name'].lower())}" data-brand="{esc(d['brand'])}" data-price="{d['price'] if d['price'] is not None else ''}" data-year="{d['year'] or 0}">{badge}<div class="fthumb">{img}</div><div class="tbody"><b>{esc(d['name'])}</b>
 <div class="price">{dual(d['price'], d.get("price_expected"), d.get("price_unverified"))}{_plabel_html(d)}</div><div class="spec">{esc(d['tag'])}</div>
@@ -972,7 +1026,7 @@ def tcard(d):
 def card(d, base="", bestfor="", upcoming=False):
     hl = "".join(f'<div class="spec">{esc(x)}</div>' for x in d["hl"])
     badge = f'<span class="badge {"disc" if d["status"] == "Discontinued" else "cont"}">{d["status"]}</span>' if d.get("status") else ''
-    img = pic(d["hero"], d.get("hero_webp", ""), "cardimg", d["name"], base=base) if d.get("hero") else '<div class="cardph">📱</div>'
+    img = pic(d["hero"], d.get("hero_webp", ""), "cardimg", d["name"], base=base, card=True) if d.get("hero") else '<div class="cardph">📱</div>'
     upflag = '<span class="upflag">Upcoming</span>' if upcoming else ""
     bfor = f'<div class="bestfor">🏆 {esc(bestfor)}</div>' if bestfor else ""
     return f"""<div class="card" data-name="{esc(d['name'].lower())} {esc(d['brand'].lower())} {esc(d['cat'].lower())}" data-brand="{esc(d['brand'])}" data-price="{d['price'] if d['price'] is not None else ''}" data-year="{d['year'] or 0}">
@@ -1064,12 +1118,13 @@ def main():
     ctiles = "".join(f'<a class="tile" href="compare.html?a={a}&b={b}"><b>{esc(by_slug[a]["name"])} vs {esc(by_slug[b]["name"])}</b><span>Side-by-side specs &amp; price comparison</span></a>' for a, b in cmp_pairs if a in by_slug and b in by_slug)
     home = head(f"{SITE} — Mobile, Tablet & Laptop Prices in Pakistan, Full Specs & Compare",
                 "Latest mobile phone, keypad phone, tablet and laptop prices in Pakistan in PKR & USD, full specifications and side-by-side comparisons. Samsung, Apple, Xiaomi, Infinix, Tecno, Vivo, Oppo, Nokia, HP, Dell, Lenovo and more.")
+    _herocard = _make_card("img/iphone-17-pro-max/cosmic-orange.jpg")[0] or "img/iphone-17-pro-max/cosmic-orange.jpg"  # Batch F2: homepage hero shows the card derivative, not the full photo
     home += f"""<section class="hero2"><h1>Find Your <span>Perfect Phone</span></h1>
 <p>Explore specifications, compare devices and discover prices for {len(ALL)} devices worldwide.</p>
 <form class="hsearch" onsubmit="return heroSearch(event)"><input id="hq" placeholder="Search phones, brands or models..." aria-label="Search all models" autocomplete="off" oninput="doSearch(this.value)"><button type="submit">Search</button></form>
 <div id="hresults" class="hresults" role="listbox" aria-label="Search results — all models" style="display:none"></div>
 <div class="pills"><a class="pill" href="smartphones.html">🇵🇰 Pakistan</a><a class="pill" href="#brands">🌐 Worldwide</a><a class="pill" href="compare.html">⚖️ Compare</a><a class="pill" href="az.html">🔤 A–Z Models</a></div>
-<img class="hero-phone" src="img/iphone-17-pro-max/cosmic-orange.jpg" alt="iPhone 17 Pro Max"></section>
+<img class="hero-phone" src="{_herocard}" alt="iPhone 17 Pro Max"></section>
 <h2 class="sec" id="brands">🔥 Popular Brands</h2><div class="brands">{btiles}</div>
 <div class="chips">{chips}</div>
 <h2 class="sec">⭐ Trending Smartphones</h2>

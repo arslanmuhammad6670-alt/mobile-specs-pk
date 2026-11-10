@@ -2740,7 +2740,7 @@
 <a class="btn alt" href="compare.html?a=realme-13-4g">Compare</a></div>
 </div></div><div class="card" data-name="motorola moto g67 power motorola smartphones" data-brand="Motorola" data-price="58999" data-year="2025">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/motorola-moto-g67-power-5g/main-card.webp"><img class="cardimg" src="img/motorola-moto-g67-power-5g/main-card.jpg" alt="Motorola Moto G67 Power" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/motorola-moto-g67-power-5g.html">Motorola Moto G67 Power</a></p>
@@ -3610,7 +3610,7 @@
 <a class="btn alt" href="compare.html?a=infinix-gt-30-5g">Compare</a></div>
 </div></div><div class="card" data-name="vivo t5 lite vivo smartphones" data-brand="Vivo" data-price="60999" data-year="2026">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/vivo-t5-lite-5g/main-card.webp"><img class="cardimg" src="img/vivo-t5-lite-5g/main-card.jpg" alt="vivo T5 Lite" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/vivo-t5-lite-5g.html">vivo T5 Lite</a></p>
@@ -3690,7 +3690,7 @@
 <a class="btn alt" href="compare.html?a=tecno-camon-30s">Compare</a></div>
 </div></div><div class="card" data-name="huawei nova y74 huawei smartphones" data-brand="Huawei" data-price="61999" data-year="2026">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/huawei-nova-y74/main-card.webp"><img class="cardimg" src="img/huawei-nova-y74/main-card.jpg" alt="Huawei nova Y74" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-nova-y74.html">Huawei nova Y74</a></p>

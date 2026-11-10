@@ -34,7 +34,7 @@ async function initCompare(){
  const selA=document.getElementById('selA'),selB=document.getElementById('selB');if(!selA)return;
  const brandA=document.getElementById('brandA'),brandB=document.getElementById('brandB');
  const phones=await loadPhones();
- let SP=null;async function specsOf(p){if(!SP){const r=await fetch(_pfx+'specs.json');SP=await r.json()}return SP[p.slug]||{}}
+ const _spc={};async function specsOf(p){const b=(p.sb==null?0:p.sb);if(!_spc[b]){const r=await fetch(_pfx+'specs/b'+b+'.json');_spc[b]=await r.json()}return _spc[b][p.slug]||{}}
  const brands=[...new Set(phones.map(p=>p.brand))].sort();
  const fillBrands=s=>{brands.forEach(b=>{const o=document.createElement('option');o.value=b;o.textContent=b;s.appendChild(o)})};
  const fillModels=(s,brand,val)=>{s.innerHTML='';phones.filter(p=>p.brand===brand).forEach(p=>{const o=document.createElement('option');o.value=p.slug;o.textContent=p.name+' ('+p.cat+')';s.appendChild(o)});if(val)s.value=val};
@@ -49,7 +49,7 @@ async function initCompare(){
  async function render(){const a=phones.find(p=>p.slug===selA.value),b=phones.find(p=>p.slug===selB.value);if(!a||!b)return;
   try{history.replaceState(null,'','?a='+a.slug+'&b='+b.slug)}catch(e){}
   const _pair=a.slug+'|'+b.slug;if(_pair!==_lastCmp){_lastCmp=_pair;_ev('compare_view',{model_a:a.name,model_b:b.name,slug_a:a.slug,slug_b:b.slug})}
-  const sa=await specsOf(a),sb=await specsOf(b);
+  const [sa,sb]=await Promise.all([specsOf(a),specsOf(b)]);
   const keys=['Price','Brand','Category'];
   [sa,sb].forEach(s=>Object.keys(s).forEach(k=>{if(!keys.includes(k))keys.push(k)}));
   const val=(p,s,k)=>k==='Price'?pkr(p):k==='Brand'?p.brand:k==='Category'?p.cat:(s[k]||'-');
@@ -78,10 +78,16 @@ function initSortZones(){document.querySelectorAll('.sortzone').forEach(zone=>{c
  if(btn)btn.addEventListener('click',async()=>{btn.disabled=true;try{await loadFrag(fnext);fnext++}catch(e){}btn.disabled=false;updBtn();apply();});
  updBtn();apply();});}
 document.addEventListener('DOMContentLoaded',initSortZones);
-function initAzSort(){const sel=document.getElementById('azsort');if(!sel)return;const secs=[];document.querySelectorAll('.azlist').forEach(l=>{secs.push({list:l,head:l.previousElementSibling,rows:[...l.children]})});if(!secs.length)return;const chips=document.querySelector('.azchips');const host=secs[0].list;
- function apply(){const s=sel.value;secs.forEach(sc=>{sc.rows.forEach(r=>sc.list.appendChild(r));sc.list.style.display='';if(sc.head)sc.head.style.display=''});if(chips)chips.style.display='';
+function initAzSort(){const sel=document.getElementById('azsort');if(!sel)return;const secs=[];document.querySelectorAll('.azlist').forEach(l=>{const sc={list:l,head:l.previousElementSibling,rows:[...l.children],fkey:l.dataset.frag||'',fn:parseInt(l.dataset.fragn||'0'),fnext:1,ftot:parseInt(l.dataset.total||'0'),btn:null};const nx=l.nextElementSibling;if(nx&&nx.classList.contains('loadmore'))sc.btn=nx;secs.push(sc)});if(!secs.length)return;const chips=document.querySelector('.azchips');const host=secs[0].list;
+ function updBtn(sc){if(!sc.btn)return;if(!sc.fn||sc.fnext>sc.fn){sc.btn.style.display='none';return}sc.btn.style.display='block';sc.btn.textContent='Load more models ('+(sc.ftot-sc.rows.length)+' more)'}
+ async function loadFrag(sc){const r=await fetch(_pfx+'frag/'+sc.fkey+'-'+sc.fnext+'.txt');if(!r.ok)throw new Error('azfrag');const t=await r.text();const tmp=document.createElement('div');tmp.innerHTML=t;[...tmp.children].forEach(c=>{sc.list.appendChild(c);sc.rows.push(c)});sc.fnext++;applyCur();updBtn(sc)}
+ async function loadAll(){for(const sc of secs){while(sc.fnext<=sc.fn){await loadFrag(sc)}}}
+ function doApply(){const s=sel.value;secs.forEach(sc=>{sc.rows.forEach(r=>sc.list.appendChild(r));sc.list.style.display='';if(sc.head)sc.head.style.display='';updBtn(sc)});if(chips)chips.style.display='';
   if(s==='def'||s==='az')return;
   const sorted=secs.flatMap(sc=>sc.rows).sort(_sortCmp(s));sorted.forEach(r=>host.appendChild(r));
-  secs.forEach(sc=>{if(sc.head)sc.head.style.display='none';if(sc.list!==host)sc.list.style.display='none'});if(chips)chips.style.display='none';}
+  secs.forEach(sc=>{if(sc.head)sc.head.style.display='none';if(sc.list!==host)sc.list.style.display='none';if(sc.btn)sc.btn.style.display='none'});if(chips)chips.style.display='none';}
+ let _azLoading=null;
+ function apply(){const s=sel.value;if(s!=='def'&&s!=='az'&&secs.some(sc=>sc.fnext<=sc.fn)){if(!_azLoading)_azLoading=loadAll().then(()=>{_azLoading=null;doApply()});return}doApply()}
+ secs.forEach(sc=>{if(sc.btn)sc.btn.addEventListener('click',async()=>{sc.btn.disabled=true;try{await loadFrag(sc)}catch(e){}sc.btn.disabled=false;if(sel.value!=='def'&&sel.value!=='az')doApply()});updBtn(sc)});
  sel.addEventListener('change',apply);}
 document.addEventListener('DOMContentLoaded',initAzSort);

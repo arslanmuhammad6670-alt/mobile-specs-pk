@@ -933,7 +933,7 @@ async function initCompare(){
  const selA=document.getElementById('selA'),selB=document.getElementById('selB');if(!selA)return;
  const brandA=document.getElementById('brandA'),brandB=document.getElementById('brandB');
  const phones=await loadPhones();
- let SP=null;async function specsOf(p){if(!SP){const r=await fetch(_pfx+'specs.json');SP=await r.json()}return SP[p.slug]||{}}
+ const _spc={};async function specsOf(p){const b=(p.sb==null?0:p.sb);if(!_spc[b]){const r=await fetch(_pfx+'specs/b'+b+'.json');_spc[b]=await r.json()}return _spc[b][p.slug]||{}}
  const brands=[...new Set(phones.map(p=>p.brand))].sort();
  const fillBrands=s=>{brands.forEach(b=>{const o=document.createElement('option');o.value=b;o.textContent=b;s.appendChild(o)})};
  const fillModels=(s,brand,val)=>{s.innerHTML='';phones.filter(p=>p.brand===brand).forEach(p=>{const o=document.createElement('option');o.value=p.slug;o.textContent=p.name+' ('+p.cat+')';s.appendChild(o)});if(val)s.value=val};
@@ -948,7 +948,7 @@ async function initCompare(){
  async function render(){const a=phones.find(p=>p.slug===selA.value),b=phones.find(p=>p.slug===selB.value);if(!a||!b)return;
   try{history.replaceState(null,'','?a='+a.slug+'&b='+b.slug)}catch(e){}
   const _pair=a.slug+'|'+b.slug;if(_pair!==_lastCmp){_lastCmp=_pair;_ev('compare_view',{model_a:a.name,model_b:b.name,slug_a:a.slug,slug_b:b.slug})}
-  const sa=await specsOf(a),sb=await specsOf(b);
+  const [sa,sb]=await Promise.all([specsOf(a),specsOf(b)]);
   const keys=['Price','Brand','Category'];
   [sa,sb].forEach(s=>Object.keys(s).forEach(k=>{if(!keys.includes(k))keys.push(k)}));
   const val=(p,s,k)=>k==='Price'?pkr(p):k==='Brand'?p.brand:k==='Category'?p.cat:(s[k]||'-');
@@ -977,11 +977,17 @@ function initSortZones(){document.querySelectorAll('.sortzone').forEach(zone=>{c
  if(btn)btn.addEventListener('click',async()=>{btn.disabled=true;try{await loadFrag(fnext);fnext++}catch(e){}btn.disabled=false;updBtn();apply();});
  updBtn();apply();});}
 document.addEventListener('DOMContentLoaded',initSortZones);
-function initAzSort(){const sel=document.getElementById('azsort');if(!sel)return;const secs=[];document.querySelectorAll('.azlist').forEach(l=>{secs.push({list:l,head:l.previousElementSibling,rows:[...l.children]})});if(!secs.length)return;const chips=document.querySelector('.azchips');const host=secs[0].list;
- function apply(){const s=sel.value;secs.forEach(sc=>{sc.rows.forEach(r=>sc.list.appendChild(r));sc.list.style.display='';if(sc.head)sc.head.style.display=''});if(chips)chips.style.display='';
+function initAzSort(){const sel=document.getElementById('azsort');if(!sel)return;const secs=[];document.querySelectorAll('.azlist').forEach(l=>{const sc={list:l,head:l.previousElementSibling,rows:[...l.children],fkey:l.dataset.frag||'',fn:parseInt(l.dataset.fragn||'0'),fnext:1,ftot:parseInt(l.dataset.total||'0'),btn:null};const nx=l.nextElementSibling;if(nx&&nx.classList.contains('loadmore'))sc.btn=nx;secs.push(sc)});if(!secs.length)return;const chips=document.querySelector('.azchips');const host=secs[0].list;
+ function updBtn(sc){if(!sc.btn)return;if(!sc.fn||sc.fnext>sc.fn){sc.btn.style.display='none';return}sc.btn.style.display='block';sc.btn.textContent='Load more models ('+(sc.ftot-sc.rows.length)+' more)'}
+ async function loadFrag(sc){const r=await fetch(_pfx+'frag/'+sc.fkey+'-'+sc.fnext+'.txt');if(!r.ok)throw new Error('azfrag');const t=await r.text();const tmp=document.createElement('div');tmp.innerHTML=t;[...tmp.children].forEach(c=>{sc.list.appendChild(c);sc.rows.push(c)});sc.fnext++;applyCur();updBtn(sc)}
+ async function loadAll(){for(const sc of secs){while(sc.fnext<=sc.fn){await loadFrag(sc)}}}
+ function doApply(){const s=sel.value;secs.forEach(sc=>{sc.rows.forEach(r=>sc.list.appendChild(r));sc.list.style.display='';if(sc.head)sc.head.style.display='';updBtn(sc)});if(chips)chips.style.display='';
   if(s==='def'||s==='az')return;
   const sorted=secs.flatMap(sc=>sc.rows).sort(_sortCmp(s));sorted.forEach(r=>host.appendChild(r));
-  secs.forEach(sc=>{if(sc.head)sc.head.style.display='none';if(sc.list!==host)sc.list.style.display='none'});if(chips)chips.style.display='none';}
+  secs.forEach(sc=>{if(sc.head)sc.head.style.display='none';if(sc.list!==host)sc.list.style.display='none';if(sc.btn)sc.btn.style.display='none'});if(chips)chips.style.display='none';}
+ let _azLoading=null;
+ function apply(){const s=sel.value;if(s!=='def'&&s!=='az'&&secs.some(sc=>sc.fnext<=sc.fn)){if(!_azLoading)_azLoading=loadAll().then(()=>{_azLoading=null;doApply()});return}doApply()}
+ secs.forEach(sc=>{if(sc.btn)sc.btn.addEventListener('click',async()=>{sc.btn.disabled=true;try{await loadFrag(sc)}catch(e){}sc.btn.disabled=false;if(sel.value!=='def'&&sel.value!=='az')doApply()});updBtn(sc)});
  sel.addEventListener('change',apply);}
 document.addEventListener('DOMContentLoaded',initAzSort);
 """
@@ -990,7 +996,7 @@ def head(title, desc, path="", depth=0, image="", ld_extra=""):
     pre = "../" * depth
     ld = {"@context": "https://schema.org", "@type": "WebSite", "name": SITE, "url": BASE,
           "potentialAction": {"@type": "SearchAction", "target": BASE + "?q={query}", "query-input": "required name=query"}}
-    if not image: image = BASE + "img/iphone-17-pro-max/cosmic-orange.jpg"  # default social image (2026-11-04 SEO pack)
+    if not image: image = BASE + "img/og-default.jpg"  # branded default social image (audit fix 2026-11-10; was an iPhone photo)
     ogimg = f'<meta property="og:image" content="{esc(image)}">' if image else ""
     twimg = f'<meta name="twitter:image" content="{esc(image)}">' if image else ""
     nav = "".join(f'<a href="{BASE}{CATPAGE[c]}">{c}</a>' for c in CATS)
@@ -1016,7 +1022,7 @@ def foot(depth=0):
 Check Specs — Mobile phones, keypad phones, tablets, laptops and smartwatches: full specifications, latest prices in Pakistan (PKR &amp; USD) and comparisons.
 Prices are approximate market prices; currency figures are converted from PKR at mid-market rates last checked 09 November 2026 (Rs 276.7 = $1); converted figures are estimates, not local shop prices — use the currency selector at the top of the page to see prices in your own country's currency. Prices can change; always confirm from your local shop before buying.<br>
 <a href="{pre}best-phones-under-30000.html">Best Under Rs 30,000</a> · <a href="{pre}best-phones-under-50000.html">Best Under Rs 50,000</a> · <a href="{pre}best-phones-under-100000.html">Best Under Rs 100,000</a> · <a href="{pre}best-camera-phones.html">Best Camera Phones</a> · <a href="{pre}best-battery-phones.html">Best Battery Phones</a> · <a href="{pre}best-gaming-phones.html">Best Gaming Phones</a><br>
-<a href="{pre}mobile-analyser.html">Mobile Analyser</a> · <a href="{pre}about.html">About Us</a> · <a href="{pre}contact.html">Contact Us</a> · <a href="{pre}privacy-policy.html">Privacy Policy</a> · <a href="{pre}terms.html">Terms</a> · <a href="{pre}editorial-policy.html">Editorial Policy</a> · <a href="{pre}sources.html">Data Sources</a> · <a href="{pre}sitemap.xml">Sitemap</a> · <a href="https://x.com/Checkspecs1" rel="noopener"><svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" style="vertical-align:-2px" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg> @Checkspecs1</a> · <a href="mailto:checkspecs.info@gmail.com">checkspecs.info@gmail.com</a></div></footer><script src="{pre}app.js"></script></body></html>"""
+<a href="{pre}mobile-analyser.html">Mobile Analyser</a> · <a href="{pre}about.html">About Us</a> · <a href="{pre}contact.html">Contact Us</a> · <a href="{pre}privacy-policy.html">Privacy Policy</a> · <a href="{pre}terms.html">Terms</a> · <a href="{pre}editorial-policy.html">Editorial Policy</a> · <a href="{pre}sources.html">Data Sources</a> · <a href="{pre}sitemap.xml">Sitemap</a> · <a href="https://x.com/checkspecsinfo" rel="noopener"><svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" style="vertical-align:-2px" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg> @Checkspecsinfo</a> · <a href="mailto:checkspecs.info@gmail.com">checkspecs.info@gmail.com</a></div></footer><script src="{pre}app.js"></script></body></html>"""
 
 BRANDWM = {"Apple": "#111111", "Samsung": "#1428a0", "Google": "#3367d6", "Vivo": "#415fff",
            "Oppo": "#087a4d", "Xiaomi": "#b54d00", "Realme": "#8a6500", "Infinix": "#17202a",
@@ -1103,10 +1109,24 @@ def write(rel, content):
 def main():
     shutil.rmtree(os.path.join(OUT, "frag"), ignore_errors=True)  # Batch F: regenerate listing fragments cleanly
     write("style.css", CSS); write("app.js", JS.replace("__RATES__", json.dumps(RATES_DICT)))
+    import zlib as _zlib
+    SPECS_BUCKETS = 24  # audit fix 2026-11-10: compare specs sharded like the analyser (Batch F pattern); bucket = crc32(slug) % N, stable per slug
+    def _sbucket(_slug): return _zlib.crc32(_slug.encode("utf-8")) % SPECS_BUCKETS
     export = [{"slug": d["slug"], "name": d["name"], "brand": d["brand"], "cat": d["cat"],
-               "price": usd(d["price"]) if d["price"] is not None else None, "price_pkr": d["price"], "path": f"{d['folder']}/{d['slug']}.html", **({"exp": 1} if d.get("price_expected") else {}), **({"unv": 1} if d.get("price_unverified") else {}), **({"pl": _price_meta(d)[0]} if d["price"] is not None else {})} for d in ALL]
+               "price": usd(d["price"]) if d["price"] is not None else None, "price_pkr": d["price"], "path": f"{d['folder']}/{d['slug']}.html", "sb": _sbucket(d["slug"]), **({"exp": 1} if d.get("price_expected") else {}), **({"unv": 1} if d.get("price_unverified") else {}), **({"pl": _price_meta(d)[0]} if d["price"] is not None else {})} for d in ALL]
     write("phones.json", json.dumps(export, ensure_ascii=False, indent=1))
-    write("specs.json", json.dumps({d["slug"]: _specs_export(d) for d in ALL}, ensure_ascii=False, indent=1))
+    _specs_all = {d["slug"]: _specs_export(d) for d in ALL}
+    write("specs.json", json.dumps(_specs_all, ensure_ascii=False, indent=1))  # transition build: monolith kept one cycle so a cached old app.js cannot 404 (audit fix 2026-11-10)
+    _sb_dir = os.path.join(OUT, "specs")
+    shutil.rmtree(_sb_dir, ignore_errors=True); os.makedirs(_sb_dir, exist_ok=True)
+    _buckets = {}
+    for _slug, _sp in _specs_all.items(): _buckets.setdefault(_sbucket(_slug), {})[_slug] = _sp
+    _maxb = 0
+    for _b, _items in sorted(_buckets.items()):
+        _txt = json.dumps(_items, ensure_ascii=False, separators=(",", ":"))
+        _maxb = max(_maxb, len(_txt))
+        with open(os.path.join(_sb_dir, f"b{_b}.json"), "w", encoding="utf-8") as _f: _f.write(_txt)
+    print(f"specs buckets: {len(_buckets)} written, largest { _maxb // 1024 } KB raw")
     write("rates.json", json.dumps({"base": "PKR", "updated": RATES_UPDATED,
         "source": "ExchangeRate-API (open.er-api.com) mid-market rates",
         "note": "Prices are stored in PKR. Converted figures are estimates, not local shop prices.",
@@ -1123,7 +1143,7 @@ def main():
     cmp_pairs = [("iphone-16-pro-max", "samsung-galaxy-s25-ultra"), ("redmi-note-13", "infinix-note-40"), ("nokia-105-2023", "nokia-110-4g-2023"), ("apple-macbook-air-m3", "hp-victus-15-gaming")]
     ctiles = "".join(f'<a class="tile" href="compare.html?a={a}&b={b}"><b>{esc(by_slug[a]["name"])} vs {esc(by_slug[b]["name"])}</b><span>Side-by-side specs &amp; price comparison</span></a>' for a, b in cmp_pairs if a in by_slug and b in by_slug)
     home = head(f"{SITE} — Mobile, Tablet & Laptop Prices in Pakistan, Full Specs & Compare",
-                "Latest mobile phone, keypad phone, tablet and laptop prices in Pakistan in PKR & USD, full specifications and side-by-side comparisons. Samsung, Apple, Xiaomi, Infinix, Tecno, Vivo, Oppo, Nokia, HP, Dell, Lenovo and more.")
+                "Mobile phone, tablet and laptop prices in Pakistan in PKR & USD — full specifications, side-by-side comparisons and buying guides. Samsung, Apple, Xiaomi & more.")
     _herocard = _make_card("img/iphone-17-pro-max/cosmic-orange.jpg")[0] or "img/iphone-17-pro-max/cosmic-orange.jpg"  # Batch F2: homepage hero shows the card derivative, not the full photo
     home += f"""<section class="hero2"><h1>Find Your <span>Perfect Phone</span></h1>
 <p>Explore specifications, compare devices and discover prices for {len(ALL)} devices worldwide.</p>
@@ -1194,7 +1214,7 @@ def main():
         _crumb_html = (f'<nav class="crumbs"><a href="{BASE}">Home</a> › <a href="{BASE}{CATPAGE[d["cat"]]}">{esc(d["cat"])}</a>'
                        f' › <a href="{BASE}brands/{bslug(d["brand"])}.html">{esc(d["brand"])}</a> › {esc(d["name"])}</nav>')
         pg = head(f"{d['name']} Price in Pakistan {pkrtitle(d['price'], d.get('price_unverified'))} — Full Specifications | {SITE}",
-                  f"{d['name']} full specifications and price in Pakistan {pkrtitle(d['price'], d.get('price_unverified'))}. {'; '.join(d['hl'])}. Compare {d['name']} with other devices.",
+                  f"{d['name']} price in Pakistan {pkrtitle(d['price'], d.get('price_unverified'))}. {'; '.join(d['hl'])}. Full specs & comparison.",
                   f"{d['folder']}/{d['slug']}.html", depth=1, image=_img, ld_extra=_ldx)
         pg += _crumb_html
         badge2_html = f"""<p><span class="badge2 {"disc" if d["status"] == "Discontinued" else "cont"}">{d["status"]}</span> <span class="note">{"This model is still in production and available in shops." if d["status"] == "Continued" else "This model has been discontinued by the company. It may still be found as old stock in some shops."}</span></p>""" if d.get("status") else ""
@@ -1256,11 +1276,12 @@ def main():
     _azbar = " ".join(f'<a class="chip" href="#az-{c}">{c} ({len(_az[c])})</a>' for c in _letters)
     _azsecs = ""
     for c in _letters:
-        _links = "".join(
+        _rows = [
             f'<a class="azrow" data-name="{esc(d["name"].lower())}" data-price="{d["price"] if d["price"] is not None else ""}" data-year="{d["year"] or 0}" href="{d["folder"]}/{d["slug"]}.html"><b>{esc(d["name"])}</b>'
             f'<span>{esc(d["cat"])} · {dual(d["price"], d.get("price_expected"), d.get("price_unverified"))}{_plabel_html(d, compact=True)}</span></a>'
-            for d in sorted(_az[c], key=lambda x: x["name"].lower()))
-        _azsecs += f'<h2 class="sec" id="az-{c}">{c}</h2><div class="azlist">{_links}</div>'
+            for d in sorted(_az[c], key=lambda x: x["name"].lower())]
+        _first, _attrs, _btn = _fragzone(_rows, "az-" + (c if c.isalpha() else "num"))  # Batch: az.html lightening (audit fix 2026-11-10) — first 60 rows per letter in-page, rest in frag/az-<letter>-N.txt
+        _azsecs += f'<h2 class="sec" id="az-{c}">{c}</h2><div class="azlist"{_attrs}>{_first}</div>{_btn}'
     pg = head(f"All Models A–Z — Full List | {SITE}",
               "Every mobile phone, keypad phone, tablet and laptop on Check Specs in one A to Z list with prices in Pakistan.", "az.html")
     pg += f"""<style>.azlist{{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:8px}}
@@ -1307,7 +1328,7 @@ def main():
       """<h1>Contact Us</h1>
 <p>We read every message. The fastest way to reach the Check Specs desk is Facebook Messenger on our publisher page:</p>
 <p><b>Her Khabar Rakho</b> — <a href="https://www.facebook.com/61595091102246" rel="noopener">facebook.com/61595091102246</a> (send us a message there and mention "Check Specs").</p>
-<p>You can also find us on X (Twitter): <a href="https://x.com/Checkspecs1" rel="noopener"><svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" style="vertical-align:-2px" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg> @Checkspecs1</a>.</p>
+<p>You can also find us on X (Twitter): <a href="https://x.com/checkspecsinfo" rel="noopener"><svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" style="vertical-align:-2px" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg> @Checkspecsinfo</a>.</p>
 <p>Email: <a href="mailto:checkspecs.info@gmail.com">checkspecs.info@gmail.com</a></p>
 <h2>Specification corrections</h2>
 <p>Spotted a wrong specification or price? Tell us the device name, the exact line that looks wrong, and — if you have it — a link to the official source. Verified corrections are applied as quickly as we can check them, usually the same day.</p>

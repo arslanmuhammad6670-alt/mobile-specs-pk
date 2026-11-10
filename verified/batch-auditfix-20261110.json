@@ -1,0 +1,103 @@
+{
+ "oppo-a96": {
+  "rows": [
+   [
+    "Launch Year",
+    "2022 (announced 2022, March 16)"
+   ],
+   [
+    "Region",
+    "Global"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE"
+   ],
+   [
+    "Body",
+    "164.4 x 75.7 x 8.4 mm (6.47 x 2.98 x 0.33 in); 191 g (6.74 oz); Glass front, plastic frame, plastic back; Nano-SIM + Nano-SIM; IP5X (dust), IPX4 (water) resistance"
+   ],
+   [
+    "Display",
+    "IPS LCD, 90Hz, 480 nits (typ), 600 nits (HBM); 6.59 inches, 104.5 cm2 (~84.0% screen-to-body ratio); 1080 x 2412 pixels, 20:9 ratio (~401 ppi density)"
+   ],
+   [
+    "Operating System",
+    "Android 11, ColorOS 11.1"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM6225 Snapdragon 680 4G (6 nm); Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver); Adreno 610"
+   ],
+   [
+    "RAM",
+    "6 / 8 GB"
+   ],
+   [
+    "Storage",
+    "128GB / 256GB; microSDXC (dedicated slot); UFS 2.2"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 27mm (wide), PDAF + auxiliary lens; LED flash, HDR, panorama; Video: 1080p@30fps"
+   ],
+   [
+    "Selfie Camera",
+    "16 MP, f/2.0, 26mm (wide); Video: 1080p@30fps"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+   ],
+   [
+    "Bluetooth",
+    "5.0, A2DP, LE, aptX HD"
+   ],
+   [
+    "GPS",
+    "GPS, GLONASS, BDS, GALILEO, QZSS"
+   ],
+   [
+    "NFC",
+    "Yes (market/region dependent)"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, proximity, compass"
+   ],
+   [
+    "Battery",
+    "Li-Po 5000 mAh, non-removable"
+   ],
+   [
+    "Charging",
+    "33W wired, PD, 50% in 26 min; Reverse wired"
+   ],
+   [
+    "Colors",
+    "Starry Black, Sunset Blue"
+   ],
+   [
+    "Models",
+    "CPH2333"
+   ]
+  ],
+  "source": "https://www.gsmarena.com/oppo_a96-11434.php"
+ }
+}

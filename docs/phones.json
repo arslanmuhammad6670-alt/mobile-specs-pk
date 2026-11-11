@@ -873,11 +873,11 @@
   "name": "Redmi Note 14",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 210,
-  "price_pkr": 57999,
+  "price": 224,
+  "price_pkr": 61999,
   "path": "phones/redmi-note-14.html",
   "sb": 10,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "redmi-note-13-pro-plus",
@@ -2237,8 +2237,8 @@
   "name": "vivo Y05",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 163,
-  "price_pkr": 44999,
+  "price": 166,
+  "price_pkr": 45999,
   "path": "phones/vivo-y05.html",
   "sb": 20,
   "pl": "Official price"
@@ -2512,8 +2512,8 @@
   "name": "Apple iPhone 18 Pro Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 2186,
-  "price_pkr": 605000,
+  "price": 2331,
+  "price_pkr": 645000,
   "path": "phones/apple-iphone-18-pro-max.html",
   "sb": 2,
   "pl": "Official price"
@@ -3144,12 +3144,11 @@
   "name": "Xiaomi 14 Pro",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 752,
-  "price_pkr": 207999,
+  "price": 759,
+  "price_pkr": 209999,
   "path": "phones/xiaomi-14-pro.html",
   "sb": 8,
-  "exp": 1,
-  "pl": "Expected price"
+  "pl": "Official price"
  },
  {
   "slug": "xiaomi-13",
@@ -3539,11 +3538,11 @@
   "name": "Tecno Spark 40 Pro",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 286,
-  "price_pkr": 78999,
+  "price": 267,
+  "price_pkr": 73999,
   "path": "phones/tecno-spark-40-pro.html",
   "sb": 22,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "apple-ipad-pro-12-9-(2022)",
@@ -4085,11 +4084,11 @@
   "name": "Google Pixel",
   "brand": "Google",
   "cat": "Smartphones",
-  "price": 72,
-  "price_pkr": 19999,
+  "price": 68,
+  "price_pkr": 18799,
   "path": "phones/google-pixel.html",
   "sb": 23,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "vivo-t5-lite-5g",
@@ -4856,11 +4855,11 @@
   "name": "Samsung Galaxy A07",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 166,
-  "price_pkr": 45999,
+  "price": 173,
+  "price_pkr": 47999,
   "path": "phones/samsung-galaxy-a07.html",
   "sb": 9,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "infinix-hot-50i",
@@ -43524,8 +43523,8 @@
   "name": "Samsung Galaxy A17 4G",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 264,
-  "price_pkr": 72999,
+  "price": 278,
+  "price_pkr": 76999,
   "path": "phones/samsung-galaxy-a17.html",
   "sb": 0,
   "pl": "Official price"
@@ -44283,8 +44282,8 @@
   "name": "Oppo A6c",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 166,
-  "price_pkr": 45999,
+  "price": 170,
+  "price_pkr": 46999,
   "path": "phones/oppo-a6c.html",
   "sb": 19,
   "pl": "Official price"
@@ -44978,8 +44977,8 @@
   "name": "Apple iPhone 18 Pro",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 2042,
-  "price_pkr": 565000,
+  "price": 2103,
+  "price_pkr": 581999,
   "path": "phones/apple-iphone-18-pro.html",
   "sb": 18,
   "pl": "Official price"

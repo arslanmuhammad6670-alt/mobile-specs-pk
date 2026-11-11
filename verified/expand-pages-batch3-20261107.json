@@ -6174,8 +6174,8 @@
    "3100 mAh"
   ],
   "name": "Huawei Honor 6",
-  "price": null,
-  "price_src": "approx",
+  "price": 23999,
+  "price_src": "https://priceoye.pk/mobiles/huawei/huawei-honor-6",
   "price_unverified": true,
   "rows": [
    [
@@ -6270,8 +6270,8 @@
    "3100 mAh"
   ],
   "name": "Huawei Honor 7",
-  "price": null,
-  "price_src": "approx",
+  "price": 42999,
+  "price_src": "https://priceoye.pk/mobiles/huawei/huawei-honor-7",
   "price_unverified": true,
   "rows": [
    [
@@ -25803,8 +25803,8 @@
    "3100 mAh"
   ],
   "name": "Huawei Honor 7i",
-  "price": null,
-  "price_src": "approx",
+  "price": 33999,
+  "price_src": "https://priceoye.pk/mobiles/huawei/huawei-honor-7i",
   "price_unverified": true,
   "rows": [
    [

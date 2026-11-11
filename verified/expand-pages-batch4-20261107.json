@@ -7426,8 +7426,8 @@
    "3500 mAh"
   ],
   "name": "Huawei Honor V8",
-  "price": null,
-  "price_src": "approx",
+  "price": 42999,
+  "price_src": "https://priceoye.pk/mobiles/huawei/huawei-honor-v8",
   "price_unverified": true,
   "rows": [
    [
@@ -12255,8 +12255,8 @@
    "3450 mAh"
   ],
   "name": "Google Huawei Nexus 6p",
-  "price": null,
-  "price_src": "approx",
+  "price": 37999,
+  "price_src": "https://priceoye.pk/mobiles/google/huawei-nexus-6p",
   "price_unverified": true,
   "rows": [
    [
@@ -38287,8 +38287,8 @@
    "2000 mAh"
   ],
   "name": "Alcatel Pop Star",
-  "price": null,
-  "price_src": "approx",
+  "price": 14999,
+  "price_src": "https://priceoye.pk/mobiles/alcatel/alcatel-pop-star",
   "price_unverified": true,
   "rows": [
    [
@@ -39774,8 +39774,8 @@
    "3000 mAh"
   ],
   "name": "Huawei Honor 3x G750",
-  "price": null,
-  "price_src": "approx",
+  "price": 23999,
+  "price_src": "https://priceoye.pk/mobiles/huawei/huawei-honor-3x-g750",
   "price_unverified": true,
   "rows": [
    [

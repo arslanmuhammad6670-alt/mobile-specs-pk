@@ -56,7 +56,7 @@
   ],
   "slug": "oppo-ax7",
   "source": "",
-  "tag": "6.2\" display · Qualcomm Snapdragon 450 · 4 GB RAM · 4230 mAh",
+  "tag": "6.2\" display \u00b7 Qualcomm Snapdragon 450 \u00b7 4 GB RAM \u00b7 4230 mAh",
   "year": null
  },
  {
@@ -116,7 +116,7 @@
   ],
   "slug": "huawei-magic5-lite-x9a-5g",
   "source": "",
-  "tag": "6.67\" display · Qualcomm Snapdragon 695 5G · 6 / 8 GB RAM · 5100 mAh",
+  "tag": "6.67\" display \u00b7 Qualcomm Snapdragon 695 5G \u00b7 6 / 8 GB RAM \u00b7 5100 mAh",
   "year": 2023
  },
  {
@@ -176,7 +176,7 @@
   ],
   "slug": "xiaomi-note-10t-aurora-green",
   "source": "",
-  "tag": "6.5\" display · Mediatek Dimensity 700 · 4 / 6 GB RAM · 5000 mAh",
+  "tag": "6.5\" display \u00b7 Mediatek Dimensity 700 \u00b7 4 / 6 GB RAM \u00b7 5000 mAh",
   "year": 2021
  },
  {
@@ -236,7 +236,7 @@
   ],
   "slug": "realme-p3-pro-5g",
   "source": "",
-  "tag": "6.83\" display · Qualcomm Snapdragon 7s Gen 3 · 8 / 12 GB RAM · 6000 mAh",
+  "tag": "6.83\" display \u00b7 Qualcomm Snapdragon 7s Gen 3 \u00b7 8 / 12 GB RAM \u00b7 6000 mAh",
   "year": 2025
  },
  {
@@ -332,7 +332,7 @@
   ],
   "slug": "vivo-iqoo-neo-8",
   "source": "",
-  "tag": "6.78\" display · Qualcomm SM8475 Snapdragon 8+ Gen 1 · 12 / 16 GB RAM · 5000 mAh",
+  "tag": "6.78\" display \u00b7 Qualcomm SM8475 Snapdragon 8+ Gen 1 \u00b7 12 / 16 GB RAM \u00b7 5000 mAh",
   "year": 2023
  },
  {
@@ -392,7 +392,7 @@
   ],
   "slug": "honor-20-lite-10i",
   "source": "",
-  "tag": "6.21\" display · Kirin 710 · 4 GB RAM · 3400 mAh",
+  "tag": "6.21\" display \u00b7 Kirin 710 \u00b7 4 GB RAM \u00b7 3400 mAh",
   "year": 2019
  },
  {
@@ -452,7 +452,7 @@
   ],
   "slug": "realme-p3-ultra",
   "source": "",
-  "tag": "6.83\" display · Mediatek Dimensity 8350 Ultra · 12 GB RAM · 6000 mAh",
+  "tag": "6.83\" display \u00b7 Mediatek Dimensity 8350 Ultra \u00b7 12 GB RAM \u00b7 6000 mAh",
   "year": 2025
  },
  {
@@ -503,11 +503,11 @@
    ],
    [
     "Main Camera",
-    "12 MP, f/1.7, 1/2.55\", 1.4µm, dual pixel PDAF, 4-axis OIS"
+    "12 MP, f/1.7, 1/2.55\", 1.4\u00b5m, dual pixel PDAF, 4-axis OIS"
    ],
    [
     "Selfie Camera",
-    "16 MP, f/2.0, 26mm (wide), 1/3.06\", 1.0µm"
+    "16 MP, f/2.0, 26mm (wide), 1/3.06\", 1.0\u00b5m"
    ],
    [
     "Battery",
@@ -544,7 +544,7 @@
   ],
   "slug": "vivo-xplay-6",
   "source": "",
-  "tag": "5.46\" display · Qualcomm MSM8996 Snapdragon 820 · 6 GB RAM · 4080 mAh",
+  "tag": "5.46\" display \u00b7 Qualcomm MSM8996 Snapdragon 820 \u00b7 6 GB RAM \u00b7 4080 mAh",
   "year": 2016
  },
  {
@@ -603,7 +603,7 @@
   ],
   "slug": "vivo-y53s-5g",
   "source": "",
-  "tag": "6.58\" display · Qualcomm Snapdragon 480 5G · 8 GB RAM · 5000 mAh",
+  "tag": "6.58\" display \u00b7 Qualcomm Snapdragon 480 5G \u00b7 8 GB RAM \u00b7 5000 mAh",
   "year": 2021
  },
  {
@@ -663,7 +663,7 @@
   ],
   "slug": "redmi-15c-5g",
   "source": "",
-  "tag": "6.9\" display · Mediatek Dimensity 6300 · 8 GB RAM · 6000 mAh",
+  "tag": "6.9\" display \u00b7 Mediatek Dimensity 6300 \u00b7 8 GB RAM \u00b7 6000 mAh",
   "year": 2025
  },
  {
@@ -727,7 +727,7 @@
   ],
   "slug": "nubia-focus-2-5g",
   "source": "",
-  "tag": "6.7\" display · Unisoc T760 · 8 GB RAM · 5000 mAh",
+  "tag": "6.7\" display \u00b7 Unisoc T760 \u00b7 8 GB RAM \u00b7 5000 mAh",
   "year": 2025
  },
  {
@@ -783,7 +783,7 @@
   ],
   "slug": "huawei-ascend-mate-2",
   "source": "",
-  "tag": "6.1\" display · Qualcomm Snapdragon 400 · 2 GB RAM · 4050 mAh",
+  "tag": "6.1\" display \u00b7 Qualcomm Snapdragon 400 \u00b7 2 GB RAM \u00b7 4050 mAh",
   "year": null
  },
  {
@@ -847,7 +847,7 @@
   ],
   "slug": "vivo-y300+",
   "source": "",
-  "tag": "6.78\" display · Qualcomm Snapdragon 695 · 8 GB RAM · 5000 mAh",
+  "tag": "6.78\" display \u00b7 Qualcomm Snapdragon 695 \u00b7 8 GB RAM \u00b7 5000 mAh",
   "year": 2024
  },
  {
@@ -907,7 +907,7 @@
   ],
   "slug": "huawei-maimang-6",
   "source": "",
-  "tag": "5.9\" display · Kirin 659 · 4 GB RAM · 3340 mAh",
+  "tag": "5.9\" display \u00b7 Kirin 659 \u00b7 4 GB RAM \u00b7 3340 mAh",
   "year": null
  },
  {
@@ -967,7 +967,7 @@
   ],
   "slug": "huawei-nova-2i",
   "source": "",
-  "tag": "5.9\" display · Kirin 659 · 4 GB RAM · 3340 mAh",
+  "tag": "5.9\" display \u00b7 Kirin 659 \u00b7 4 GB RAM \u00b7 3340 mAh",
   "year": null
  },
  {
@@ -1035,7 +1035,7 @@
   ],
   "slug": "infinix-hot-60-5g",
   "source": "",
-  "tag": "6.7\" display · Mediatek Dimensity 7020 · 6 / 8 GB RAM · 5200 mAh",
+  "tag": "6.7\" display \u00b7 Mediatek Dimensity 7020 \u00b7 6 / 8 GB RAM \u00b7 5200 mAh",
   "year": 2025
  },
  {
@@ -1099,7 +1099,7 @@
   ],
   "slug": "motorola-moto-g-power-5g-2024",
   "source": "",
-  "tag": "6.7\" display · Mediatek Dimensity 7020 · 8 GB RAM · 5000 mAh",
+  "tag": "6.7\" display \u00b7 Mediatek Dimensity 7020 \u00b7 8 GB RAM \u00b7 5000 mAh",
   "year": 2024
  },
  {
@@ -1154,7 +1154,7 @@
   ],
   "slug": "nokia-lumia-521",
   "source": "",
-  "tag": "4.0\" display · Qualcomm Snapdragon S4 Plus MSM8227 · 1430 mAh",
+  "tag": "4.0\" display \u00b7 Qualcomm Snapdragon S4 Plus MSM8227 \u00b7 1430 mAh",
   "year": 2013
  },
  {
@@ -1217,7 +1217,7 @@
   ],
   "slug": "samsung-galaxy-m55-5g",
   "source": "",
-  "tag": "6.7\" display · Qualcomm Snapdragon 7 Gen 1 · 8 / 12 GB RAM · 5000 mAh",
+  "tag": "6.7\" display \u00b7 Qualcomm Snapdragon 7 Gen 1 \u00b7 8 / 12 GB RAM \u00b7 5000 mAh",
   "year": 2024
  },
  {
@@ -1277,7 +1277,7 @@
   ],
   "slug": "motorola-moto-g86-5g",
   "source": "",
-  "tag": "6.67\" display · Mediatek Dimensity 7300 · 12 GB RAM · 5200 mAh",
+  "tag": "6.67\" display \u00b7 Mediatek Dimensity 7300 \u00b7 12 GB RAM \u00b7 5200 mAh",
   "year": 2025
  },
  {
@@ -1341,7 +1341,7 @@
   ],
   "slug": "samsung-w2019",
   "source": "",
-  "tag": "4.2\" display · Qualcomm Snapdragon 845 · 6 GB RAM · 3070 mAh",
+  "tag": "4.2\" display \u00b7 Qualcomm Snapdragon 845 \u00b7 6 GB RAM \u00b7 3070 mAh",
   "year": 2018
  },
  {
@@ -1392,11 +1392,11 @@
    ],
    [
     "Main Camera",
-    "50 MP, f/1.9, 28mm (wide), 1/2.76\", 0.64µm, PDAF"
+    "50 MP, f/1.9, 28mm (wide), 1/2.76\", 0.64\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "5 MP, f/2.2, 28mm (wide), 1/5.0\", 1.12µm"
+    "5 MP, f/2.2, 28mm (wide), 1/5.0\", 1.12\u00b5m"
    ],
    [
     "Battery",
@@ -1437,7 +1437,7 @@
   ],
   "slug": "tcl-30-e",
   "source": "",
-  "tag": "6.52\" display · Mediatek MT6762G Helio G25 · 3 GB RAM · 5000 mAh",
+  "tag": "6.52\" display \u00b7 Mediatek MT6762G Helio G25 \u00b7 3 GB RAM \u00b7 5000 mAh",
   "year": 2022
  },
  {
@@ -1500,7 +1500,7 @@
    ],
    [
     "Sensors",
-    "Аccelerometer, proximity"
+    "\u0410ccelerometer, proximity"
    ],
    [
     "Wi-Fi",
@@ -1529,7 +1529,7 @@
   ],
   "slug": "tecno-camon-i-ace2",
   "source": "",
-  "tag": "5.5\" display · Mediatek MT6761 Helio A22 · 2 GB RAM · 3050 mAh",
+  "tag": "5.5\" display \u00b7 Mediatek MT6761 Helio A22 \u00b7 2 GB RAM \u00b7 3050 mAh",
   "year": 2019
  },
  {
@@ -1621,7 +1621,7 @@
   ],
   "slug": "tecno-camon-i-ace-2x",
   "source": "",
-  "tag": "5.5\" display · Mediatek MT6761 Helio A22 · 3 GB RAM · 3050 mAh",
+  "tag": "5.5\" display \u00b7 Mediatek MT6761 Helio A22 \u00b7 3 GB RAM \u00b7 3050 mAh",
   "year": 2019
  },
  {
@@ -1685,7 +1685,7 @@
   ],
   "slug": "asus-zenfone-5-2018",
   "source": "",
-  "tag": "6.2\" display · Qualcomm SDM636 Snapdragon 636 · 4 / 6 GB RAM · 3300 mAh",
+  "tag": "6.2\" display \u00b7 Qualcomm SDM636 Snapdragon 636 \u00b7 4 / 6 GB RAM \u00b7 3300 mAh",
   "year": 2018
  },
  {
@@ -1749,7 +1749,7 @@
   ],
   "slug": "motorola-moto-g-power-5g-2023",
   "source": "",
-  "tag": "6.5\" display · Mediatek Dimensity 930 · 4 / 6 GB RAM · 5000 mAh",
+  "tag": "6.5\" display \u00b7 Mediatek Dimensity 930 \u00b7 4 / 6 GB RAM \u00b7 5000 mAh",
   "year": 2023
  },
  {
@@ -1809,7 +1809,7 @@
   ],
   "slug": "doogee-s90",
   "source": "",
-  "tag": "6.18\" display · Mediatek Helio P60 · 6 GB RAM · 5050 mAh",
+  "tag": "6.18\" display \u00b7 Mediatek Helio P60 \u00b7 6 GB RAM \u00b7 5050 mAh",
   "year": null
  },
  {
@@ -1873,7 +1873,7 @@
   ],
   "slug": "asus-zenfone-5z",
   "source": "",
-  "tag": "6.2\" display · Qualcomm Snapdragon 845 · 4 / 6 / 8 GB RAM · 3300 mAh",
+  "tag": "6.2\" display \u00b7 Qualcomm Snapdragon 845 \u00b7 4 / 6 / 8 GB RAM \u00b7 3300 mAh",
   "year": 2018
  },
  {
@@ -1933,7 +1933,7 @@
   ],
   "slug": "lg-k11-alpha",
   "source": "",
-  "tag": "5.3\" display · Mediatek MT6750 · 2 GB RAM · 3000 mAh",
+  "tag": "5.3\" display \u00b7 Mediatek MT6750 \u00b7 2 GB RAM \u00b7 3000 mAh",
   "year": 2018
  },
  {
@@ -2020,7 +2020,7 @@
   ],
   "slug": "htc-touch-pro-2",
   "source": "",
-  "tag": "3.6\" display · Qualcomm MSM7200A · 1500 mAh",
+  "tag": "3.6\" display \u00b7 Qualcomm MSM7200A \u00b7 1500 mAh",
   "year": 2009
  },
  {
@@ -2080,7 +2080,7 @@
   ],
   "slug": "vivo-y10",
   "source": "",
-  "tag": "6.51\" display · Mediatek Helio P35 · 4 GB RAM · 5000 mAh",
+  "tag": "6.51\" display \u00b7 Mediatek Helio P35 \u00b7 4 GB RAM \u00b7 5000 mAh",
   "year": 2022
  },
  {
@@ -2144,7 +2144,7 @@
   ],
   "slug": "realme-14-pro-5g",
   "source": "",
-  "tag": "6.77\" display · Mediatek Dimensity 7300 Energy · 8 / 12 GB RAM · 6000 mAh",
+  "tag": "6.77\" display \u00b7 Mediatek Dimensity 7300 Energy \u00b7 8 / 12 GB RAM \u00b7 6000 mAh",
   "year": 2025
  },
  {
@@ -2208,7 +2208,7 @@
   ],
   "slug": "iqoo-z10x",
   "source": "",
-  "tag": "6.72\" display · Mediatek Dimensity 7300 · 6 / 8 / 12 GB RAM · 6500 mAh",
+  "tag": "6.72\" display \u00b7 Mediatek Dimensity 7300 \u00b7 6 / 8 / 12 GB RAM \u00b7 6500 mAh",
   "year": 2025
  },
  {
@@ -2259,11 +2259,11 @@
    ],
    [
     "Main Camera",
-    "48 MP, f/1.8, 28mm (wide), 1/2.0\", 0.8µm, PDAF"
+    "48 MP, f/1.8, 28mm (wide), 1/2.0\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "20 MP, f/2.0, (wide), 1/3\", 0.9µm"
+    "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m"
    ],
    [
     "Battery",
@@ -2304,7 +2304,7 @@
   ],
   "slug": "xiaomi-blackshark-2",
   "source": "",
-  "tag": "6.39\" display · Qualcomm SM8150 Snapdragon 855 · 6 / 8 / 12 GB RAM · 4000 mAh",
+  "tag": "6.39\" display \u00b7 Qualcomm SM8150 Snapdragon 855 \u00b7 6 / 8 / 12 GB RAM \u00b7 4000 mAh",
   "year": 2019
  },
  {
@@ -2368,7 +2368,7 @@
   ],
   "slug": "iqoo-z10-5g",
   "source": "",
-  "tag": "6.77\" display · Qualcomm Snapdragon 7s Gen 3 · 8 / 12 GB RAM · 7300 mAh",
+  "tag": "6.77\" display \u00b7 Qualcomm Snapdragon 7s Gen 3 \u00b7 8 / 12 GB RAM \u00b7 7300 mAh",
   "year": 2025
  },
  {
@@ -2428,7 +2428,7 @@
   ],
   "slug": "oppo-find-n5",
   "source": "",
-  "tag": "8.12\" display · Qualcomm Snapdragon 8 Elite · 12 / 16 GB RAM · 5600 mAh",
+  "tag": "8.12\" display \u00b7 Qualcomm Snapdragon 8 Elite \u00b7 12 / 16 GB RAM \u00b7 5600 mAh",
   "year": 2025
  },
  {
@@ -2492,7 +2492,7 @@
   ],
   "slug": "realme-neo7",
   "source": "",
-  "tag": "6.78\" display · Mediatek Dimensity 9300+ · 12 / 16 GB RAM · 7000 mAh",
+  "tag": "6.78\" display \u00b7 Mediatek Dimensity 9300+ \u00b7 12 / 16 GB RAM \u00b7 7000 mAh",
   "year": 2024
  },
  {
@@ -2552,7 +2552,7 @@
   ],
   "slug": "poco-xiaomi-poco-f7-ultra",
   "source": "",
-  "tag": "6.67\" display · Qualcomm Snapdragon 8 Elite · 12 / 16 GB RAM · 5300 mAh",
+  "tag": "6.67\" display \u00b7 Qualcomm Snapdragon 8 Elite \u00b7 12 / 16 GB RAM \u00b7 5300 mAh",
   "year": 2025
  },
  {
@@ -2616,7 +2616,7 @@
   ],
   "slug": "huawei-honor-20s",
   "source": "",
-  "tag": "6.26\" display · Kirin 810 · 6 / 8 GB RAM · 3750 mAh",
+  "tag": "6.26\" display \u00b7 Kirin 810 \u00b7 6 / 8 GB RAM \u00b7 3750 mAh",
   "year": 2019
  },
  {
@@ -2680,7 +2680,7 @@
   ],
   "slug": "vivo-x200-pro-mini",
   "source": "",
-  "tag": "6.31\" display · Mediatek Dimensity 9400 · 12 / 16 GB RAM · 5700 mAh",
+  "tag": "6.31\" display \u00b7 Mediatek Dimensity 9400 \u00b7 12 / 16 GB RAM \u00b7 5700 mAh",
   "year": 2024
  },
  {
@@ -2744,7 +2744,7 @@
   ],
   "slug": "huawei-mate-30-rs-porsche",
   "source": "",
-  "tag": "6.53\" display · Kirin 990 5G · 12 GB RAM · 4500 mAh",
+  "tag": "6.53\" display \u00b7 Kirin 990 5G \u00b7 12 GB RAM \u00b7 4500 mAh",
   "year": 2019
  },
  {
@@ -2808,7 +2808,7 @@
   ],
   "slug": "poco-m7-pro-5g",
   "source": "",
-  "tag": "6.67\" display · Mediatek Dimensity 7025 Ultra · 6 / 8 / 12 GB RAM · 5110 mAh",
+  "tag": "6.67\" display \u00b7 Mediatek Dimensity 7025 Ultra \u00b7 6 / 8 / 12 GB RAM \u00b7 5110 mAh",
   "year": 2024
  },
  {
@@ -2872,7 +2872,7 @@
   ],
   "slug": "realme-gt7-pro-racing",
   "source": "",
-  "tag": "6.78\" display · Qualcomm Snapdragon 8 Elite · 12 / 16 GB RAM · 6500 mAh",
+  "tag": "6.78\" display \u00b7 Qualcomm Snapdragon 8 Elite \u00b7 12 / 16 GB RAM \u00b7 6500 mAh",
   "year": 2025
  },
  {
@@ -2936,7 +2936,7 @@
   ],
   "slug": "poco-x5-pro-5g",
   "source": "",
-  "tag": "6.67\" display · Qualcomm Snapdragon 778G 5G · 6 / 8 GB RAM · 5000 mAh",
+  "tag": "6.67\" display \u00b7 Qualcomm Snapdragon 778G 5G \u00b7 6 / 8 GB RAM \u00b7 5000 mAh",
   "year": 2023
  },
  {
@@ -3000,7 +3000,7 @@
   ],
   "slug": "xiaomi-note-10-lite",
   "source": "",
-  "tag": "6.47\" display · Qualcomm Snapdragon 730G · 6 / 8 GB RAM · 5260 mAh",
+  "tag": "6.47\" display \u00b7 Qualcomm Snapdragon 730G \u00b7 6 / 8 GB RAM \u00b7 5260 mAh",
   "year": 2020
  },
  {
@@ -3060,7 +3060,7 @@
   ],
   "slug": "nubia-z70-ultra",
   "source": "",
-  "tag": "6.85\" display · Qualcomm Snapdragon 8 Elite · 12 / 16 / 24 GB RAM · 6150 mAh",
+  "tag": "6.85\" display \u00b7 Qualcomm Snapdragon 8 Elite \u00b7 12 / 16 / 24 GB RAM \u00b7 6150 mAh",
   "year": 2024
  },
  {
@@ -3120,7 +3120,7 @@
   ],
   "slug": "realme-p1-speed",
   "source": "",
-  "tag": "6.67\" display · Mediatek Dimensity 7300 Energy · 8 / 12 GB RAM · 5000 mAh",
+  "tag": "6.67\" display \u00b7 Mediatek Dimensity 7300 Energy \u00b7 8 / 12 GB RAM \u00b7 5000 mAh",
   "year": 2024
  },
  {
@@ -3184,7 +3184,7 @@
   ],
   "slug": "iqoo-z10-lite-5g",
   "source": "",
-  "tag": "6.74\" display · Mediatek Dimensity 6300 · 4 / 6 / 8 GB RAM · 6000 mAh",
+  "tag": "6.74\" display \u00b7 Mediatek Dimensity 6300 \u00b7 4 / 6 / 8 GB RAM \u00b7 6000 mAh",
   "year": 2025
  },
  {
@@ -3244,7 +3244,7 @@
   ],
   "slug": "redmi-k80-ultra",
   "source": "",
-  "tag": "6.83\" display · Mediatek Dimensity 9400+ · 12 / 16 GB RAM · 7410 mAh",
+  "tag": "6.83\" display \u00b7 Mediatek Dimensity 9400+ \u00b7 12 / 16 GB RAM \u00b7 7410 mAh",
   "year": 2025
  },
  {
@@ -3308,7 +3308,7 @@
   ],
   "slug": "honor-400-lite",
   "source": "",
-  "tag": "6.7\" display · Mediatek Dimensity 7025 Ultra · 8 / 12 GB RAM · 5230 mAh",
+  "tag": "6.7\" display \u00b7 Mediatek Dimensity 7025 Ultra \u00b7 8 / 12 GB RAM \u00b7 5230 mAh",
   "year": 2025
  },
  {
@@ -3363,7 +3363,7 @@
    ],
    [
     "Selfie Camera",
-    "24 MP, f/2.0, 26mm (wide), 1/2.8\", 0.9µm"
+    "24 MP, f/2.0, 26mm (wide), 1/2.8\", 0.9\u00b5m"
    ],
    [
     "Battery",
@@ -3404,7 +3404,7 @@
   ],
   "slug": "huawei-mate-20x-(5g)",
   "source": "",
-  "tag": "7.2\" display · Kirin 980 · 6 / 8 GB RAM · 4200 mAh",
+  "tag": "7.2\" display \u00b7 Kirin 980 \u00b7 6 / 8 GB RAM \u00b7 4200 mAh",
   "year": 2019
  },
  {
@@ -3468,7 +3468,7 @@
   ],
   "slug": "realme-neo7x",
   "source": "",
-  "tag": "6.67\" display · Qualcomm Snapdragon 6 Gen 4 · 8 / 12 GB RAM · 6000 mAh",
+  "tag": "6.67\" display \u00b7 Qualcomm Snapdragon 6 Gen 4 \u00b7 8 / 12 GB RAM \u00b7 6000 mAh",
   "year": 2025
  },
  {
@@ -3532,7 +3532,7 @@
   ],
   "slug": "honor-magic7-lite",
   "source": "",
-  "tag": "6.78\" display · Qualcomm Snapdragon 6 Gen 1 · 8 / 12 GB RAM · 6600 mAh",
+  "tag": "6.78\" display \u00b7 Qualcomm Snapdragon 6 Gen 1 \u00b7 8 / 12 GB RAM \u00b7 6600 mAh",
   "year": 2025
  },
  {
@@ -3595,7 +3595,7 @@
   ],
   "slug": "vivo-v40e-5g",
   "source": "",
-  "tag": "6.77\" display · Mediatek Dimensity 7300 · 8 GB RAM · 5500 mAh",
+  "tag": "6.77\" display \u00b7 Mediatek Dimensity 7300 \u00b7 8 GB RAM \u00b7 5500 mAh",
   "year": 2024
  },
  {
@@ -3658,7 +3658,7 @@
   ],
   "slug": "oneplus-9-pro-5g",
   "source": "",
-  "tag": "6.7\" display · Qualcomm Snapdragon 888 5G · 8 / 12 GB RAM · 4500 mAh",
+  "tag": "6.7\" display \u00b7 Qualcomm Snapdragon 888 5G \u00b7 8 / 12 GB RAM \u00b7 4500 mAh",
   "year": 2021
  },
  {
@@ -3750,7 +3750,7 @@
   ],
   "slug": "honor-play-6c",
   "source": "",
-  "tag": "6.5\" display · Qualcomm SM4350-AC Snapdragon 480+ 5G · 6 / 8 GB RAM · 5000 mAh",
+  "tag": "6.5\" display \u00b7 Qualcomm SM4350-AC Snapdragon 480+ 5G \u00b7 6 / 8 GB RAM \u00b7 5000 mAh",
   "year": 2022
  },
  {
@@ -3845,7 +3845,7 @@
   ],
   "slug": "vivo-iqoo-neo9s-pro",
   "source": "",
-  "tag": "6.78\" display · Mediatek Dimensity 9300+ · 12 / 16 GB RAM · 5160 mAh",
+  "tag": "6.78\" display \u00b7 Mediatek Dimensity 9300+ \u00b7 12 / 16 GB RAM \u00b7 5160 mAh",
   "year": 2024
  },
  {
@@ -3936,7 +3936,7 @@
   ],
   "slug": "vivo-y200-pro-5g",
   "source": "",
-  "tag": "6.78\" display · Qualcomm SM6375 Snapdragon 695 5G · 8 GB RAM · 5000 mAh",
+  "tag": "6.78\" display \u00b7 Qualcomm SM6375 Snapdragon 695 5G \u00b7 8 GB RAM \u00b7 5000 mAh",
   "year": 2024
  },
  {
@@ -3986,11 +3986,11 @@
    ],
    [
     "Main Camera",
-    "12 MP, f/2.0, 1/2.8\", 1.25µm, PDAF"
+    "12 MP, f/2.0, 1/2.8\", 1.25\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "8 MP, f/2.0, 1/3.2\", 1.4µm"
+    "8 MP, f/2.0, 1/3.2\", 1.4\u00b5m"
    ],
    [
     "Battery",
@@ -4031,7 +4031,7 @@
   ],
   "slug": "alcatel-idol-5s",
   "source": "",
-  "tag": "5.2\" display · Qualcomm MSM8953 Snapdragon 625 · 3 GB RAM · 2620 mAh",
+  "tag": "5.2\" display \u00b7 Qualcomm MSM8953 Snapdragon 625 \u00b7 3 GB RAM \u00b7 2620 mAh",
   "year": 2017
  },
  {
@@ -4123,7 +4123,7 @@
   ],
   "slug": "alcatel-1t-7-4g",
   "source": "",
-  "tag": "7.0\" display · Mediatek MT8321A/D · 1 GB RAM · 2580 mAh",
+  "tag": "7.0\" display \u00b7 Mediatek MT8321A/D \u00b7 1 GB RAM \u00b7 2580 mAh",
   "year": 2018
  },
  {
@@ -4215,7 +4215,7 @@
   ],
   "slug": "alcatel-1c-(2022)",
   "source": "",
-  "tag": "5.0\" display · Spreadtrum SC7731E · 1 GB RAM · 2000 mAh",
+  "tag": "5.0\" display \u00b7 Spreadtrum SC7731E \u00b7 1 GB RAM \u00b7 2000 mAh",
   "year": 2022
  },
  {
@@ -4289,7 +4289,7 @@
   ],
   "slug": "alcatel-go-flip-3",
   "source": "",
-  "tag": "2.8\" display · Qualcomm MSM8909 Snapdragon 210 · 1350 mAh",
+  "tag": "2.8\" display \u00b7 Qualcomm MSM8909 Snapdragon 210 \u00b7 1350 mAh",
   "year": 2019
  },
  {
@@ -4339,11 +4339,11 @@
    ],
    [
     "Main Camera",
-    "13 MP, f/2.2, (wide), 1/3.06\", 1.12µm, AF"
+    "13 MP, f/2.2, (wide), 1/3.06\", 1.12\u00b5m, AF"
    ],
    [
     "Selfie Camera",
-    "5 MP, f/2.2, (wide), 1/5.0\", 1.12µm"
+    "5 MP, f/2.2, (wide), 1/5.0\", 1.12\u00b5m"
    ],
    [
     "Battery",
@@ -4380,7 +4380,7 @@
   ],
   "slug": "alcatel-1se-(2020)",
   "source": "",
-  "tag": "6.22\" display · Unisoc SC9863A · 3 / 2 / 4 GB RAM · 4000 mAh",
+  "tag": "6.22\" display \u00b7 Unisoc SC9863A \u00b7 3 / 2 / 4 GB RAM \u00b7 4000 mAh",
   "year": 2020
  },
  {
@@ -4467,7 +4467,7 @@
   ],
   "slug": "meizu-m2",
   "source": "",
-  "tag": "5.0\" display · Mediatek MT6735 · 2 GB RAM · 2500 mAh",
+  "tag": "5.0\" display \u00b7 Mediatek MT6735 \u00b7 2 GB RAM \u00b7 2500 mAh",
   "year": 2015
  },
  {
@@ -4521,7 +4521,7 @@
    ],
    [
     "Selfie Camera",
-    "5 MP, f/2.0, 1/5.0\", 1.12µm"
+    "5 MP, f/2.0, 1/5.0\", 1.12\u00b5m"
    ],
    [
     "Battery",
@@ -4554,7 +4554,7 @@
   ],
   "slug": "meizu-m2-note",
   "source": "",
-  "tag": "5.5\" display · Mediatek MT6753 · 2 GB RAM · 3100 mAh",
+  "tag": "5.5\" display \u00b7 Mediatek MT6753 \u00b7 2 GB RAM \u00b7 3100 mAh",
   "year": 2015
  },
  {
@@ -4641,7 +4641,7 @@
   ],
   "slug": "meizu-m3-note",
   "source": "",
-  "tag": "5.5\" display · Mediatek MT6755 Helio P10 · 2 / 3 GB RAM · 4100 mAh",
+  "tag": "5.5\" display \u00b7 Mediatek MT6755 Helio P10 \u00b7 2 / 3 GB RAM \u00b7 4100 mAh",
   "year": 2016
  },
  {
@@ -4732,7 +4732,7 @@
   ],
   "slug": "asus-padfone-infinity-2",
   "source": "",
-  "tag": "5.0\" display · Qualcomm Snapdragon 800 · 2 GB RAM · 2400 mAh",
+  "tag": "5.0\" display \u00b7 Qualcomm Snapdragon 800 \u00b7 2 GB RAM \u00b7 2400 mAh",
   "year": 2013
  },
  {
@@ -4793,7 +4793,7 @@
   ],
   "slug": "asus-j501",
   "source": "",
-  "tag": "2.2\" display · 750 mAh",
+  "tag": "2.2\" display \u00b7 750 mAh",
   "year": 2007
  },
  {
@@ -4867,7 +4867,7 @@
   ],
   "slug": "asus-m530w",
   "source": "",
-  "tag": "2.4\" display · 32-bit Intel XScale PXA270 416 MHz · 1200 mAh",
+  "tag": "2.4\" display \u00b7 32-bit Intel XScale PXA270 416 MHz \u00b7 1200 mAh",
   "year": 2007
  },
  {
@@ -4944,7 +4944,7 @@
   ],
   "slug": "asus-p527",
   "source": "",
-  "tag": "2.6\" display · TI OMAP 850",
+  "tag": "2.6\" display \u00b7 TI OMAP 850",
   "year": 2007
  },
  {
@@ -5001,7 +5001,7 @@
   ],
   "slug": "asus-z801",
   "source": "",
-  "tag": "2.0\" display · 750 mAh",
+  "tag": "2.0\" display \u00b7 750 mAh",
   "year": null
  },
  {
@@ -5079,7 +5079,7 @@
   ],
   "slug": "asus-p750",
   "source": "",
-  "tag": "2.6\" display · Marvell PXA270M 520 MHz · 1300 mAh",
+  "tag": "2.6\" display \u00b7 Marvell PXA270M 520 MHz \u00b7 1300 mAh",
   "year": 2007
  },
  {
@@ -5153,7 +5153,7 @@
   ],
   "slug": "asus-p550",
   "source": "",
-  "tag": "3.5\" display · Marvell PXA270M 520 MHz · 1530 mAh",
+  "tag": "3.5\" display \u00b7 Marvell PXA270M 520 MHz \u00b7 1530 mAh",
   "year": 2007
  },
  {
@@ -5231,7 +5231,7 @@
   ],
   "slug": "asus-p565",
   "source": "",
-  "tag": "2.8\" display · 800 MHz Marvell TavorP · 1300 mAh",
+  "tag": "2.8\" display \u00b7 800 MHz Marvell TavorP \u00b7 1300 mAh",
   "year": 2008
  },
  {
@@ -5314,7 +5314,7 @@
   ],
   "slug": "asus-padfone",
   "source": "",
-  "tag": "4.3\" display · Qualcomm MSM8260A Snapdragon S4 Plus · 1 GB RAM · 1520 mAh",
+  "tag": "4.3\" display \u00b7 Qualcomm MSM8260A Snapdragon S4 Plus \u00b7 1 GB RAM \u00b7 1520 mAh",
   "year": 2012
  },
  {
@@ -5405,7 +5405,7 @@
   ],
   "slug": "asus-padfone-2",
   "source": "",
-  "tag": "4.7\" display · Qualcomm APQ8064 Snapdragon S4 Pro · 2 GB RAM · 2140 mAh",
+  "tag": "4.7\" display \u00b7 Qualcomm APQ8064 Snapdragon S4 Pro \u00b7 2 GB RAM \u00b7 2140 mAh",
   "year": 2012
  },
  {
@@ -5496,7 +5496,7 @@
   ],
   "slug": "asus-padfone-infinity",
   "source": "",
-  "tag": "5.0\" display · Qualcomm APQ8064T Snapdragon 600 · 2 GB RAM · 2400 mAh",
+  "tag": "5.0\" display \u00b7 Qualcomm APQ8064T Snapdragon 600 \u00b7 2 GB RAM \u00b7 2400 mAh",
   "year": 2013
  },
  {
@@ -5583,7 +5583,7 @@
   ],
   "slug": "asus-fonepad",
   "source": "",
-  "tag": "7.0\" display · Intel Atom Z2420 / Intel Atom Z2460 · 1 GB RAM · 4270 mAh",
+  "tag": "7.0\" display \u00b7 Intel Atom Z2420 / Intel Atom Z2460 \u00b7 1 GB RAM \u00b7 4270 mAh",
   "year": 2013
  },
  {
@@ -5670,7 +5670,7 @@
   ],
   "slug": "asus-padfone-e",
   "source": "",
-  "tag": "4.7\" display · Qualcomm Snapdragon 400 · 1 GB RAM · 1820 mAh",
+  "tag": "4.7\" display \u00b7 Qualcomm Snapdragon 400 \u00b7 1 GB RAM \u00b7 1820 mAh",
   "year": 2014
  },
  {
@@ -5757,7 +5757,7 @@
   ],
   "slug": "asus-padfone-s",
   "source": "",
-  "tag": "5.0\" display · Qualcomm MSM8974AB Snapdragon 801 · 2 GB RAM · 2300 mAh",
+  "tag": "5.0\" display \u00b7 Qualcomm MSM8974AB Snapdragon 801 \u00b7 2 GB RAM \u00b7 2300 mAh",
   "year": 2014
  },
  {
@@ -5844,7 +5844,7 @@
   ],
   "slug": "asus-padfone-x",
   "source": "",
-  "tag": "5.0\" display · Qualcomm Snapdragon 800 · 2 GB RAM · 2300 mAh",
+  "tag": "5.0\" display \u00b7 Qualcomm Snapdragon 800 \u00b7 2 GB RAM \u00b7 2300 mAh",
   "year": 2014
  },
  {
@@ -5935,7 +5935,7 @@
   ],
   "slug": "asus-padfone-x-mini",
   "source": "",
-  "tag": "4.5\" display · Intel Atom Z2560 · 1 GB RAM · 2060 mAh",
+  "tag": "4.5\" display \u00b7 Intel Atom Z2560 \u00b7 1 GB RAM \u00b7 2060 mAh",
   "year": 2014
  },
  {
@@ -6027,7 +6027,7 @@
   ],
   "slug": "asus-zenpad-z8",
   "source": "",
-  "tag": "7.9\" display · Qualcomm MSM8956 Snapdragon 650 · 2 GB RAM · 4680 mAh",
+  "tag": "7.9\" display \u00b7 Qualcomm MSM8956 Snapdragon 650 \u00b7 2 GB RAM \u00b7 4680 mAh",
   "year": 2016
  },
  {
@@ -6077,7 +6077,7 @@
    ],
    [
     "Main Camera",
-    "64 MP, f/1.8, 26mm (wide), 1/1.72\", 0.8µm, PDAF"
+    "64 MP, f/1.8, 26mm (wide), 1/1.72\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
@@ -6122,7 +6122,7 @@
   ],
   "slug": "asus-zenfone-7",
   "source": "",
-  "tag": "6.67\" display · Qualcomm SM8250 Snapdragon 865 5G · 6 / 8 GB RAM · 5000 mAh",
+  "tag": "6.67\" display \u00b7 Qualcomm SM8250 Snapdragon 865 5G \u00b7 6 / 8 GB RAM \u00b7 5000 mAh",
   "year": 2020
  },
  {
@@ -6135,8 +6135,8 @@
    "6000 mAh"
   ],
   "name": "Asus ROG Phone 5 Ultimate",
-  "price": 402999,
-  "price_src": "approx",
+  "price": 209999,
+  "price_src": "https://priceoye.pk/mobiles/asus/asus-rog-phone-5-ultimate",
   "rows": [
    [
     "Launch Year",
@@ -6172,11 +6172,11 @@
    ],
    [
     "Main Camera",
-    "64 MP, f/1.8, 26mm (wide), 1/1.73\", 0.8µm, PDAF"
+    "64 MP, f/1.8, 26mm (wide), 1/1.73\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "24 MP, f/2.5, 27mm (wide), 0.9µm"
+    "24 MP, f/2.5, 27mm (wide), 0.9\u00b5m"
    ],
    [
     "Battery",
@@ -6217,7 +6217,7 @@
   ],
   "slug": "asus-rog-phone-5-ultimate",
   "source": "",
-  "tag": "6.78\" display · Qualcomm SM8350 Snapdragon 888 5G · 18 GB RAM · 6000 mAh",
+  "tag": "6.78\" display \u00b7 Qualcomm SM8350 Snapdragon 888 5G \u00b7 18 GB RAM \u00b7 6000 mAh",
   "year": 2021
  },
  {
@@ -6230,8 +6230,8 @@
    "5000 mAh"
   ],
   "name": "Asus Zenfone 8 Flip",
-  "price": 117999,
-  "price_src": "approx",
+  "price": 114999,
+  "price_src": "https://priceoye.pk/mobiles/asus/asus-zenfone-8-flip",
   "rows": [
    [
     "Launch Year",
@@ -6267,7 +6267,7 @@
    ],
    [
     "Main Camera",
-    "64 MP, f/1.8, 26mm (wide), 1/1.73\", 0.8µm, PDAF"
+    "64 MP, f/1.8, 26mm (wide), 1/1.73\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
@@ -6312,7 +6312,7 @@
   ],
   "slug": "asus-zenfone-8-flip",
   "source": "",
-  "tag": "6.67\" display · Qualcomm SM8350 Snapdragon 888 5G · 8 GB RAM · 5000 mAh",
+  "tag": "6.67\" display \u00b7 Qualcomm SM8350 Snapdragon 888 5G \u00b7 8 GB RAM \u00b7 5000 mAh",
   "year": 2021
  },
  {
@@ -6362,11 +6362,11 @@
    ],
    [
     "Main Camera",
-    "64 MP, f/1.8, 26mm (wide), 1/1.73\", 0.8µm, PDAF"
+    "64 MP, f/1.8, 26mm (wide), 1/1.73\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "24 MP, f/2.5, 27mm (wide), 0.9µm"
+    "24 MP, f/2.5, 27mm (wide), 0.9\u00b5m"
    ],
    [
     "Battery",
@@ -6407,7 +6407,7 @@
   ],
   "slug": "asus-rog-phone-5s",
   "source": "",
-  "tag": "6.78\" display · Qualcomm SM8350 Snapdragon 888+ 5G · 8 / 12 / 16 / 18 GB RAM · 6000 mAh",
+  "tag": "6.78\" display \u00b7 Qualcomm SM8350 Snapdragon 888+ 5G \u00b7 8 / 12 / 16 / 18 GB RAM \u00b7 6000 mAh",
   "year": 2021
  },
  {
@@ -6457,11 +6457,11 @@
    ],
    [
     "Main Camera",
-    "64 MP, f/1.8, 26mm (wide), 1/1.73\", 0.8µm, PDAF"
+    "64 MP, f/1.8, 26mm (wide), 1/1.73\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "24 MP, f/2.5, 27mm (wide), 0.9µm"
+    "24 MP, f/2.5, 27mm (wide), 0.9\u00b5m"
    ],
    [
     "Battery",
@@ -6502,7 +6502,7 @@
   ],
   "slug": "asus-rog-phone-5s-pro",
   "source": "",
-  "tag": "6.78\" display · Qualcomm SM8350 Snapdragon 888+ 5G · 18 GB RAM · 6000 mAh",
+  "tag": "6.78\" display \u00b7 Qualcomm SM8350 Snapdragon 888+ 5G \u00b7 18 GB RAM \u00b7 6000 mAh",
   "year": 2021
  },
  {
@@ -6552,7 +6552,7 @@
    ],
    [
     "Main Camera",
-    "50 MP, f/1.9, (wide), 1/1.56\", 1.0µm, PDAF"
+    "50 MP, f/1.9, (wide), 1/1.56\", 1.0\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
@@ -6597,7 +6597,7 @@
   ],
   "slug": "asus-rog-phone-6-pro",
   "source": "",
-  "tag": "6.78\" display · Qualcomm SM8475 Snapdragon 8+ Gen 1 · 18 GB RAM · 6000 mAh",
+  "tag": "6.78\" display \u00b7 Qualcomm SM8475 Snapdragon 8+ Gen 1 \u00b7 18 GB RAM \u00b7 6000 mAh",
   "year": 2022
  },
  {
@@ -6647,11 +6647,11 @@
    ],
    [
     "Main Camera",
-    "50 MP, f/1.6, 35mm (standard), 1/1.49\", 1.0µm, PDAF, OIS"
+    "50 MP, f/1.6, 35mm (standard), 1/1.49\", 1.0\u00b5m, PDAF, OIS"
    ],
    [
     "Selfie Camera",
-    "16 MP, f/2.5, 26mm (wide), 1/3.06\", 1.0µm"
+    "16 MP, f/2.5, 26mm (wide), 1/3.06\", 1.0\u00b5m"
    ],
    [
     "Battery",
@@ -6696,7 +6696,7 @@
   ],
   "slug": "zte-nubia-z50s-pro",
   "source": "",
-  "tag": "6.8\" display · Qualcomm SM8550-AC Snapdragon 8+ Gen 2 · 12 / 16 GB RAM · 5100 mAh",
+  "tag": "6.8\" display \u00b7 Qualcomm SM8550-AC Snapdragon 8+ Gen 2 \u00b7 12 / 16 GB RAM \u00b7 5100 mAh",
   "year": 2023
  },
  {
@@ -6791,7 +6791,7 @@
   ],
   "slug": "zte-nubia-flip",
   "source": "",
-  "tag": "6.9\" display · Qualcomm SM7450-AB Snapdragon 7 Gen 1 · 8 / 12 GB RAM · 4310 mAh",
+  "tag": "6.9\" display \u00b7 Qualcomm SM7450-AB Snapdragon 7 Gen 1 \u00b7 8 / 12 GB RAM \u00b7 4310 mAh",
   "year": 2024
  },
  {
@@ -6874,7 +6874,7 @@
   ],
   "slug": "oppo-t29",
   "source": "",
-  "tag": "4.5\" display · Mediatek MT6577 · 1 GB RAM · 3150 mAh",
+  "tag": "4.5\" display \u00b7 Mediatek MT6577 \u00b7 1 GB RAM \u00b7 3150 mAh",
   "year": 2012
  },
  {
@@ -6944,7 +6944,7 @@
   ],
   "slug": "oppo-r601",
   "source": "",
-  "tag": "3.0\" display · Mediatek MT6515 · 1100 mAh",
+  "tag": "3.0\" display \u00b7 Mediatek MT6515 \u00b7 1100 mAh",
   "year": 2012
  },
  {
@@ -7035,7 +7035,7 @@
   ],
   "slug": "oppo-r5s",
   "source": "",
-  "tag": "5.2\" display · Qualcomm MSM8939 Snapdragon 615 · 3 GB RAM · 2000 mAh",
+  "tag": "5.2\" display \u00b7 Qualcomm MSM8939 Snapdragon 615 \u00b7 3 GB RAM \u00b7 2000 mAh",
   "year": 2015
  },
  {
@@ -7126,7 +7126,7 @@
   ],
   "slug": "oppo-a71-(2018)",
   "source": "",
-  "tag": "5.2\" display · Mediatek MT6750 · 3 GB RAM · 3000 mAh",
+  "tag": "5.2\" display \u00b7 Mediatek MT6750 \u00b7 3 GB RAM \u00b7 3000 mAh",
   "year": 2018
  },
  {
@@ -7176,11 +7176,11 @@
    ],
    [
     "Main Camera",
-    "64 MP, f/1.8, 26mm (wide), 1/1.72\", 0.8µm, PDAF, OIS"
+    "64 MP, f/1.8, 26mm (wide), 1/1.72\", 0.8\u00b5m, PDAF, OIS"
    ],
    [
     "Selfie Camera",
-    "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm"
+    "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m"
    ],
    [
     "Battery",
@@ -7217,7 +7217,7 @@
   ],
   "slug": "oppo-reno3-5g",
   "source": "",
-  "tag": "6.4\" display · Mediatek Dimensity 1000L · 8 / 12 GB RAM · 4025 mAh",
+  "tag": "6.4\" display \u00b7 Mediatek Dimensity 1000L \u00b7 8 / 12 GB RAM \u00b7 4025 mAh",
   "year": 2019
  },
  {
@@ -7293,7 +7293,7 @@
   ],
   "slug": "oppo-watch-(46mm)",
   "source": "",
-  "tag": "1.91\" display · Qualcomm Snapdragon Wear 3100 · 1 GB RAM · 430 mAh",
+  "tag": "1.91\" display \u00b7 Qualcomm Snapdragon Wear 3100 \u00b7 1 GB RAM \u00b7 430 mAh",
   "year": 2020
  },
  {
@@ -7343,11 +7343,11 @@
    ],
    [
     "Main Camera",
-    "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS"
+    "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0\u00b5m, multi-directional PDAF, OIS"
    ],
    [
     "Selfie Camera",
-    "32 MP, f/2.4, 26mm (wide), 1/2.8\", 0.8µm"
+    "32 MP, f/2.4, 26mm (wide), 1/2.8\", 0.8\u00b5m"
    ],
    [
     "Battery",
@@ -7388,7 +7388,7 @@
   ],
   "slug": "oppo-reno5-pro+-5g",
   "source": "",
-  "tag": "6.55\" display · Qualcomm SM8250 Snapdragon 865 5G · 8 / 12 GB RAM · 4500 mAh",
+  "tag": "6.55\" display \u00b7 Qualcomm SM8250 Snapdragon 865 5G \u00b7 8 / 12 GB RAM \u00b7 4500 mAh",
   "year": 2020
  },
  {
@@ -7480,7 +7480,7 @@
   ],
   "slug": "huawei-honor-3x-pro",
   "source": "",
-  "tag": "5.5\" display · Mediatek MT6592 · 2 GB RAM · 3000 mAh",
+  "tag": "5.5\" display \u00b7 Mediatek MT6592 \u00b7 2 GB RAM \u00b7 3000 mAh",
   "year": 2014
  },
  {
@@ -7568,7 +7568,7 @@
   ],
   "slug": "huawei-honor-pad-2",
   "source": "",
-  "tag": "8.0\" display · Qualcomm MSM8939 Snapdragon 615 · 3 GB RAM · 4800 mAh",
+  "tag": "8.0\" display \u00b7 Qualcomm MSM8939 Snapdragon 615 \u00b7 3 GB RAM \u00b7 4800 mAh",
   "year": 2016
  },
  {
@@ -7618,11 +7618,11 @@
    ],
    [
     "Main Camera",
-    "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF"
+    "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "13 MP, f/2.0, 26mm (wide), 1/3.1\", 1.12µm"
+    "13 MP, f/2.0, 26mm (wide), 1/3.1\", 1.12\u00b5m"
    ],
    [
     "Battery",
@@ -7663,7 +7663,7 @@
   ],
   "slug": "realme-5s",
   "source": "",
-  "tag": "6.5\" display · Qualcomm SDM665 Snapdragon 665 · 4 GB RAM · 5000 mAh",
+  "tag": "6.5\" display \u00b7 Qualcomm SDM665 Snapdragon 665 \u00b7 4 GB RAM \u00b7 5000 mAh",
   "year": 2019
  },
  {
@@ -7713,11 +7713,11 @@
    ],
    [
     "Main Camera",
-    "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF"
+    "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "16 MP, f/2.5, 29mm (standard), 1/3.06\", 1.0µm"
+    "16 MP, f/2.5, 29mm (standard), 1/3.06\", 1.0\u00b5m"
    ],
    [
     "Battery",
@@ -7758,7 +7758,7 @@
   ],
   "slug": "realme-x50-pro-player",
   "source": "",
-  "tag": "6.44\" display · Qualcomm SM8250 Snapdragon 865 5G · 6 / 8 / 12 GB RAM · 4200 mAh",
+  "tag": "6.44\" display \u00b7 Qualcomm SM8250 Snapdragon 865 5G \u00b7 6 / 8 / 12 GB RAM \u00b7 4200 mAh",
   "year": 2020
  },
  {
@@ -7808,11 +7808,11 @@
    ],
    [
     "Main Camera",
-    "48 MP, f/1.8, 25mm (wide), 1/2.0\", 0.8µm, PDAF"
+    "48 MP, f/1.8, 25mm (wide), 1/2.0\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "16 MP, f/2.1, 26mm (wide), 1/3.06\", 1.0µm"
+    "16 MP, f/2.1, 26mm (wide), 1/3.06\", 1.0\u00b5m"
    ],
    [
     "Battery",
@@ -7849,7 +7849,7 @@
   ],
   "slug": "realme-v5-5g",
   "source": "",
-  "tag": "6.5\" display · Mediatek Dimensity 720 · 6 / 8 GB RAM · 5000 mAh",
+  "tag": "6.5\" display \u00b7 Mediatek Dimensity 720 \u00b7 6 / 8 GB RAM \u00b7 5000 mAh",
   "year": 2020
  },
  {
@@ -7899,11 +7899,11 @@
    ],
    [
     "Main Camera",
-    "64 MP, f/1.8, 26mm (wide), 1/1.7\", 0.8µm, PDAF"
+    "64 MP, f/1.8, 26mm (wide), 1/1.7\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "16 MP, f/2.5, 26mm (wide), 1/3.1\", 1.0µm"
+    "16 MP, f/2.5, 26mm (wide), 1/3.1\", 1.0\u00b5m"
    ],
    [
     "Battery",
@@ -7940,7 +7940,7 @@
   ],
   "slug": "realme-v15-5g",
   "source": "",
-  "tag": "6.4\" display · Mediatek Dimensity 800U · 6 / 8 GB RAM · 4310 mAh",
+  "tag": "6.4\" display \u00b7 Mediatek Dimensity 800U \u00b7 6 / 8 GB RAM \u00b7 4310 mAh",
   "year": 2021
  },
  {
@@ -7995,7 +7995,7 @@
    ],
    [
     "Selfie Camera",
-    "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8µm"
+    "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m"
    ],
    [
     "Battery",
@@ -8032,7 +8032,7 @@
   ],
   "slug": "honor-view30-pro",
   "source": "",
-  "tag": "6.57\" display · Kirin 990 5G · 8 GB RAM · 4100 mAh",
+  "tag": "6.57\" display \u00b7 Kirin 990 5G \u00b7 8 GB RAM \u00b7 4100 mAh",
   "year": 2020
  },
  {
@@ -8082,11 +8082,11 @@
    ],
    [
     "Main Camera",
-    "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF"
+    "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "16 MP, f/2.1, 26mm (wide), 1/3.09\", 1.0µm"
+    "16 MP, f/2.1, 26mm (wide), 1/3.09\", 1.0\u00b5m"
    ],
    [
     "Battery",
@@ -8123,7 +8123,7 @@
   ],
   "slug": "realme-narzo-30-pro",
   "source": "",
-  "tag": "6.5\" display · Mediatek Dimensity 800U · 6 / 8 GB RAM · 5000 mAh",
+  "tag": "6.5\" display \u00b7 Mediatek Dimensity 800U \u00b7 6 / 8 GB RAM \u00b7 5000 mAh",
   "year": 2021
  },
  {
@@ -8219,7 +8219,7 @@
   ],
   "slug": "honor-pad-x6",
   "source": "",
-  "tag": "9.7\" display · Kirin 710A · 3 / 4 GB RAM · 5100 mAh",
+  "tag": "9.7\" display \u00b7 Kirin 710A \u00b7 3 / 4 GB RAM \u00b7 5100 mAh",
   "year": 2020
  },
  {
@@ -8269,11 +8269,11 @@
    ],
    [
     "Main Camera",
-    "50 MP, f/1.9, 23mm (wide), 1/1.28\", 1.22µm, multi-directional PDAF, OIS"
+    "50 MP, f/1.9, 23mm (wide), 1/1.28\", 1.22\u00b5m, multi-directional PDAF, OIS"
    ],
    [
     "Selfie Camera",
-    "13 MP, f/2.4, 100˚ (ultrawide)"
+    "13 MP, f/2.4, 100\u02da (ultrawide)"
    ],
    [
     "Battery",
@@ -8314,7 +8314,7 @@
   ],
   "slug": "honor-magic3-pro+",
   "source": "",
-  "tag": "6.76\" display · Qualcomm SM8350 Snapdragon 888+ 5G · 12 GB RAM · 4600 mAh",
+  "tag": "6.76\" display \u00b7 Qualcomm SM8350 Snapdragon 888+ 5G \u00b7 12 GB RAM \u00b7 4600 mAh",
   "year": 2021
  },
  {
@@ -8405,7 +8405,7 @@
   ],
   "slug": "honor-play5-youth",
   "source": "",
-  "tag": "6.67\" display · Mediatek Dimensity 900 · 8 GB RAM · 4300 mAh",
+  "tag": "6.67\" display \u00b7 Mediatek Dimensity 900 \u00b7 8 GB RAM \u00b7 4300 mAh",
   "year": 2021
  },
  {
@@ -8500,7 +8500,7 @@
   ],
   "slug": "realme-v23",
   "source": "",
-  "tag": "6.58\" display · Mediatek Dimensity 810 · 8 / 12 GB RAM · 5000 mAh",
+  "tag": "6.58\" display \u00b7 Mediatek Dimensity 810 \u00b7 8 / 12 GB RAM \u00b7 5000 mAh",
   "year": 2022
  },
  {
@@ -8591,7 +8591,7 @@
   ],
   "slug": "honor-x9-5g",
   "source": "",
-  "tag": "6.81\" display · Qualcomm SM6375 Snapdragon 695 5G · 8 GB RAM · 4800 mAh",
+  "tag": "6.81\" display \u00b7 Qualcomm SM6375 Snapdragon 695 5G \u00b7 8 GB RAM \u00b7 4800 mAh",
   "year": 2022
  },
  {
@@ -8641,7 +8641,7 @@
    ],
    [
     "Main Camera",
-    "54 MP, f/1.9, 27mm (wide), 1/1.49\", 1.0µm, PDAF"
+    "54 MP, f/1.9, 27mm (wide), 1/1.49\", 1.0\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
@@ -8686,7 +8686,7 @@
   ],
   "slug": "honor-magic-vs-ultimate",
   "source": "",
-  "tag": "7.9\" display · Qualcomm SM8475 Snapdragon 8+ Gen 1 · 16 GB RAM · 5000 mAh",
+  "tag": "7.9\" display \u00b7 Qualcomm SM8475 Snapdragon 8+ Gen 1 \u00b7 16 GB RAM \u00b7 5000 mAh",
   "year": 2022
  },
  {
@@ -8781,7 +8781,7 @@
   ],
   "slug": "oppo-pad-neo",
   "source": "",
-  "tag": "11.4\" display · Mediatek Helio G99 · 6 / 8 GB RAM · 8000 mAh",
+  "tag": "11.4\" display \u00b7 Mediatek Helio G99 \u00b7 6 / 8 GB RAM \u00b7 8000 mAh",
   "year": 2024
  },
  {
@@ -8831,11 +8831,11 @@
    ],
    [
     "Main Camera",
-    "64 MP, f/1.7, 25mm (wide), 1/2.0\", 0.7µm, PDAF"
+    "64 MP, f/1.7, 25mm (wide), 1/2.0\", 0.7\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "32 MP, f/2.4, 22mm (wide), 1/2.74\", 0.8µm"
+    "32 MP, f/2.4, 22mm (wide), 1/2.74\", 0.8\u00b5m"
    ],
    [
     "Battery",
@@ -8872,7 +8872,7 @@
   ],
   "slug": "oppo-reno11-f-5g",
   "source": "",
-  "tag": "6.7\" display · Mediatek Dimensity 7050 · 8 GB RAM · 5000 mAh",
+  "tag": "6.7\" display \u00b7 Mediatek Dimensity 7050 \u00b7 8 GB RAM \u00b7 5000 mAh",
   "year": 2024
  },
  {
@@ -8967,7 +8967,7 @@
   ],
   "slug": "honor-magic-vs2",
   "source": "",
-  "tag": "7.92\" display · Qualcomm SM8475 Snapdragon 8+ Gen 1 · 12 / 16 GB RAM · 5000 mAh",
+  "tag": "7.92\" display \u00b7 Qualcomm SM8475 Snapdragon 8+ Gen 1 \u00b7 12 / 16 GB RAM \u00b7 5000 mAh",
   "year": 2023
  },
  {
@@ -9066,7 +9066,7 @@
   ],
   "slug": "honor-magic6-ultimate",
   "source": "",
-  "tag": "6.8\" display · Qualcomm SM8650-AB Snapdragon 8 Gen 3 · 16 GB RAM · 5600 mAh",
+  "tag": "6.8\" display \u00b7 Qualcomm SM8650-AB Snapdragon 8 Gen 3 \u00b7 16 GB RAM \u00b7 5600 mAh",
   "year": 2024
  },
  {
@@ -9120,7 +9120,7 @@
    ],
    [
     "Selfie Camera",
-    "16 MP, f/2.2, 90˚, (wide)"
+    "16 MP, f/2.2, 90\u02da, (wide)"
    ],
    [
     "Battery",
@@ -9165,7 +9165,7 @@
   ],
   "slug": "honor-magic-vs3",
   "source": "",
-  "tag": "7.92\" display · Qualcomm SM8550-AB Snapdragon 8 Gen 2 · 12 / 16 GB RAM · 5000 mAh",
+  "tag": "7.92\" display \u00b7 Qualcomm SM8550-AB Snapdragon 8 Gen 2 \u00b7 12 / 16 GB RAM \u00b7 5000 mAh",
   "year": 2024
  },
  {
@@ -9253,7 +9253,7 @@
   ],
   "slug": "honor-pad-x8a-lte",
   "source": "",
-  "tag": "11.0\" display · Qualcomm SM6225 Snapdragon 680 4G · 4 GB RAM · 8300 mAh",
+  "tag": "11.0\" display \u00b7 Qualcomm SM6225 Snapdragon 680 4G \u00b7 4 GB RAM \u00b7 8300 mAh",
   "year": 2024
  },
  {
@@ -9304,11 +9304,11 @@
    ],
    [
     "Main Camera",
-    "48 MP, f/1.8, 25mm (wide), 1/2.0\", 0.8µm, PDAF, OIS"
+    "48 MP, f/1.8, 25mm (wide), 1/2.0\", 0.8\u00b5m, PDAF, OIS"
    ],
    [
     "Selfie Camera",
-    "16 MP, f/2.0, (wide), 1/3.06\", 1.0µm"
+    "16 MP, f/2.0, (wide), 1/3.06\", 1.0\u00b5m"
    ],
    [
     "Battery",
@@ -9349,7 +9349,7 @@
   ],
   "slug": "oneplus-8-5g-uw",
   "source": "",
-  "tag": "6.55\" display · Qualcomm SM8250 Snapdragon 865 5G · 8 GB RAM · 4300 mAh",
+  "tag": "6.55\" display \u00b7 Qualcomm SM8250 Snapdragon 865 5G \u00b7 8 GB RAM \u00b7 4300 mAh",
   "year": 2020
  },
  {
@@ -9444,7 +9444,7 @@
   ],
   "slug": "oneplus-nord-n300",
   "source": "",
-  "tag": "6.56\" display · Mediatek Dimensity 810 · 4 GB RAM · 5000 mAh",
+  "tag": "6.56\" display \u00b7 Mediatek Dimensity 810 \u00b7 4 GB RAM \u00b7 5000 mAh",
   "year": 2022
  },
  {
@@ -9494,11 +9494,11 @@
    ],
    [
     "Main Camera",
-    "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS"
+    "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0\u00b5m, PDAF, OIS"
    ],
    [
     "Selfie Camera",
-    "16 MP, f/2.4, 24mm (wide), 1/3\", 1.0µm"
+    "16 MP, f/2.4, 24mm (wide), 1/3\", 1.0\u00b5m"
    ],
    [
     "Battery",
@@ -9539,7 +9539,7 @@
   ],
   "slug": "oneplus-10t-5g",
   "source": "",
-  "tag": "6.7\" display · Qualcomm SM8475 Snapdragon 8+ Gen 1 · 8 / 12 / 16 GB RAM · 4800 mAh",
+  "tag": "6.7\" display \u00b7 Qualcomm SM8475 Snapdragon 8+ Gen 1 \u00b7 8 / 12 / 16 GB RAM \u00b7 4800 mAh",
   "year": 2022
  },
  {
@@ -9630,7 +9630,7 @@
   ],
   "slug": "oneplus-pad-go",
   "source": "",
-  "tag": "11.35\" display · Mediatek Helio G99 · 8 GB RAM · 8000 mAh",
+  "tag": "11.35\" display \u00b7 Mediatek Helio G99 \u00b7 8 GB RAM \u00b7 8000 mAh",
   "year": 2023
  },
  {
@@ -9721,7 +9721,7 @@
   ],
   "slug": "motorola-moto-e3",
   "source": "",
-  "tag": "5.0\" display · Mediatek MT6735P · 1 GB RAM · 2800 mAh",
+  "tag": "5.0\" display \u00b7 Mediatek MT6735P \u00b7 1 GB RAM \u00b7 2800 mAh",
   "year": 2016
  },
  {
@@ -9782,7 +9782,7 @@
   ],
   "slug": "lg-a230",
   "source": "",
-  "tag": "1.77\" display · 950 mAh",
+  "tag": "1.77\" display \u00b7 950 mAh",
   "year": 2011
  },
  {
@@ -9843,7 +9843,7 @@
   ],
   "slug": "lg-km380",
   "source": "",
-  "tag": "2.0\" display · 800 mAh",
+  "tag": "2.0\" display \u00b7 800 mAh",
   "year": 2008
  },
  {
@@ -10217,7 +10217,7 @@
   ],
   "slug": "lg-u8360",
   "source": "",
-  "tag": "2.0\" display · 1400 mAh",
+  "tag": "2.0\" display \u00b7 1400 mAh",
   "year": 2005
  },
  {
@@ -10446,7 +10446,7 @@
   ],
   "slug": "lg-s5200",
   "source": "",
-  "tag": "1.8\" display · 800 mAh",
+  "tag": "1.8\" display \u00b7 800 mAh",
   "year": 2005
  },
  {
@@ -10504,7 +10504,7 @@
   ],
   "slug": "lg-m6100",
   "source": "",
-  "tag": "1.3\" display · 800 mAh",
+  "tag": "1.3\" display \u00b7 800 mAh",
   "year": 2006
  },
  {
@@ -10623,7 +10623,7 @@
   ],
   "slug": "lg-u8550",
   "source": "",
-  "tag": "2.2\" display · 1440 mAh",
+  "tag": "2.2\" display \u00b7 1440 mAh",
   "year": 2006
  },
  {
@@ -10680,7 +10680,7 @@
   ],
   "slug": "lg-kg200",
   "source": "",
-  "tag": "1.8\" display · 800 mAh",
+  "tag": "1.8\" display \u00b7 800 mAh",
   "year": 2006
  },
  {
@@ -10741,7 +10741,7 @@
   ],
   "slug": "lg-kg300",
   "source": "",
-  "tag": "2.0\" display · 800 mAh",
+  "tag": "2.0\" display \u00b7 800 mAh",
   "year": 2006
  },
  {
@@ -10794,7 +10794,7 @@
   ],
   "slug": "lg-kg920",
   "source": "",
-  "tag": "2.0\" display · 820 mAh",
+  "tag": "2.0\" display \u00b7 820 mAh",
   "year": 2006
  },
  {
@@ -10907,7 +10907,7 @@
   ],
   "slug": "lg-kg810",
   "source": "",
-  "tag": "2.0\" display · 700 mAh",
+  "tag": "2.0\" display \u00b7 700 mAh",
   "year": 2006
  },
  {
@@ -11017,7 +11017,7 @@
   ],
   "slug": "lg-l600v",
   "source": "",
-  "tag": "2.0\" display · 800 mAh",
+  "tag": "2.0\" display \u00b7 800 mAh",
   "year": 2006
  },
  {
@@ -11138,7 +11138,7 @@
   ],
   "slug": "lg-ke800",
   "source": "",
-  "tag": "2.0\" display · 800 mAh",
+  "tag": "2.0\" display \u00b7 800 mAh",
   "year": 2006
  },
  {
@@ -11199,7 +11199,7 @@
   ],
   "slug": "lg-ku250",
   "source": "",
-  "tag": "1.7\" display · 950 mAh",
+  "tag": "1.7\" display \u00b7 950 mAh",
   "year": 2007
  },
  {
@@ -11312,7 +11312,7 @@
   ],
   "slug": "lg-ke770-shine",
   "source": "",
-  "tag": "1.77\" display · 800 mAh",
+  "tag": "1.77\" display \u00b7 800 mAh",
   "year": 2007
  },
  {
@@ -11369,7 +11369,7 @@
   ],
   "slug": "lg-cu720-shine",
   "source": "",
-  "tag": "2.2\" display · 900 mAh",
+  "tag": "2.2\" display \u00b7 900 mAh",
   "year": 2007
  },
  {
@@ -11430,7 +11430,7 @@
   ],
   "slug": "lg-ku970-shine",
   "source": "",
-  "tag": "2.2\" display · 800 mAh",
+  "tag": "2.2\" display \u00b7 800 mAh",
   "year": 2007
  },
  {
@@ -11491,7 +11491,7 @@
   ],
   "slug": "lg-ke850-prada",
   "source": "",
-  "tag": "3.0\" display · 800 mAh",
+  "tag": "3.0\" display \u00b7 800 mAh",
   "year": 2007
  },
  {
@@ -11544,7 +11544,7 @@
   ],
   "slug": "lg-kg280",
   "source": "",
-  "tag": "1.86\" display · 800 mAh",
+  "tag": "1.86\" display \u00b7 800 mAh",
   "year": 2007
  },
  {
@@ -11605,7 +11605,7 @@
   ],
   "slug": "lg-ke500",
   "source": "",
-  "tag": "2.0\" display · 800 mAh",
+  "tag": "2.0\" display \u00b7 800 mAh",
   "year": 2007
  },
  {
@@ -11666,7 +11666,7 @@
   ],
   "slug": "lg-ke590",
   "source": "",
-  "tag": "2.0\" display · 800 mAh",
+  "tag": "2.0\" display \u00b7 800 mAh",
   "year": 2007
  },
  {
@@ -11731,7 +11731,7 @@
   ],
   "slug": "lg-ku580",
   "source": "",
-  "tag": "2.0\" display · 860 mAh",
+  "tag": "2.0\" display \u00b7 860 mAh",
   "year": 2007
  },
  {
@@ -11809,7 +11809,7 @@
   ],
   "slug": "lg-ks20",
   "source": "",
-  "tag": "2.8\" display · Qualcomm MSM72000 · 1050 mAh",
+  "tag": "2.8\" display \u00b7 Qualcomm MSM72000 \u00b7 1050 mAh",
   "year": 2007
  },
  {
@@ -11866,7 +11866,7 @@
   ],
   "slug": "lg-kg290",
   "source": "",
-  "tag": "1.77\" display · 820 mAh",
+  "tag": "1.77\" display \u00b7 820 mAh",
   "year": 2007
  },
  {
@@ -11927,7 +11927,7 @@
   ],
   "slug": "lg-u960",
   "source": "",
-  "tag": "2.2\" display · 1000 mAh",
+  "tag": "2.2\" display \u00b7 1000 mAh",
   "year": 2007
  },
  {
@@ -11980,7 +11980,7 @@
   ],
   "slug": "lg-kp110",
   "source": "",
-  "tag": "1.5\" display · 900 mAh",
+  "tag": "1.5\" display \u00b7 900 mAh",
   "year": 2008
  },
  {
@@ -12041,7 +12041,7 @@
   ],
   "slug": "lg-kp220",
   "source": "",
-  "tag": "1.7\" display · 750 mAh",
+  "tag": "1.7\" display \u00b7 750 mAh",
   "year": 2008
  },
  {
@@ -12107,7 +12107,7 @@
   ],
   "slug": "motorola-a760",
   "source": "",
-  "tag": "206 MHz · 750 mAh",
+  "tag": "206 MHz \u00b7 750 mAh",
   "year": 2003
  },
  {
@@ -12177,7 +12177,7 @@
   ],
   "slug": "motorola-a925",
   "source": "",
-  "tag": "TI OMAP 1510 · 1050 mAh",
+  "tag": "TI OMAP 1510 \u00b7 1050 mAh",
   "year": 2003
  },
  {
@@ -12256,7 +12256,7 @@
   ],
   "slug": "motorola-a1000",
   "source": "",
-  "tag": "2.9\" display · TI OMAP 1510 · 1600 mAh",
+  "tag": "2.9\" display \u00b7 TI OMAP 1510 \u00b7 1600 mAh",
   "year": 2004
  },
  {
@@ -12314,7 +12314,7 @@
   ],
   "slug": "motorola-e398",
   "source": "",
-  "tag": "1.9\" display · 830 mAh",
+  "tag": "1.9\" display \u00b7 830 mAh",
   "year": 2004
  },
  {
@@ -12481,7 +12481,7 @@
   ],
   "slug": "motorola-v3x",
   "source": "",
-  "tag": "2.2\" display · 840 mAh",
+  "tag": "2.2\" display \u00b7 840 mAh",
   "year": 2005
  },
  {
@@ -12538,7 +12538,7 @@
   ],
   "slug": "motorola-rizr-z3",
   "source": "",
-  "tag": "1.9\" display · 720 mAh",
+  "tag": "1.9\" display \u00b7 720 mAh",
   "year": 2006
  },
  {
@@ -12599,7 +12599,7 @@
   ],
   "slug": "lg-kf310",
   "source": "",
-  "tag": "2.0\" display · 900 mAh",
+  "tag": "2.0\" display \u00b7 900 mAh",
   "year": 2008
  },
  {
@@ -12656,7 +12656,7 @@
   ],
   "slug": "lg-kf300",
   "source": "",
-  "tag": "2.2\" display · 800 mAh",
+  "tag": "2.2\" display \u00b7 800 mAh",
   "year": 2008
  },
  {
@@ -12725,7 +12725,7 @@
   ],
   "slug": "lg-kt610",
   "source": "",
-  "tag": "2.4\" display · 960 mAh",
+  "tag": "2.4\" display \u00b7 960 mAh",
   "year": 2008
  },
  {
@@ -12786,7 +12786,7 @@
   ],
   "slug": "lg-kf510",
   "source": "",
-  "tag": "2.2\" display · 800 mAh",
+  "tag": "2.2\" display \u00b7 800 mAh",
   "year": 2008
  },
  {
@@ -12847,7 +12847,7 @@
   ],
   "slug": "lg-kf600",
   "source": "",
-  "tag": "2.0\" display · 800 mAh",
+  "tag": "2.0\" display \u00b7 800 mAh",
   "year": 2008
  },
  {
@@ -12916,7 +12916,7 @@
   ],
   "slug": "lg-kf750-secret",
   "source": "",
-  "tag": "2.4\" display · 800 mAh",
+  "tag": "2.4\" display \u00b7 800 mAh",
   "year": 2008
  },
  {
@@ -12973,7 +12973,7 @@
   ],
   "slug": "lg-kt520",
   "source": "",
-  "tag": "2.2\" display · 800 mAh",
+  "tag": "2.2\" display \u00b7 800 mAh",
   "year": 2008
  },
  {
@@ -13038,7 +13038,7 @@
   ],
   "slug": "lg-kc550",
   "source": "",
-  "tag": "2.4\" display · 900 mAh",
+  "tag": "2.4\" display \u00b7 900 mAh",
   "year": 2008
  },
  {
@@ -13095,7 +13095,7 @@
   ],
   "slug": "lg-u370",
   "source": "",
-  "tag": "2.0\" display · 860 mAh",
+  "tag": "2.0\" display \u00b7 860 mAh",
   "year": 2008
  },
  {
@@ -13156,7 +13156,7 @@
   ],
   "slug": "lg-hb620t",
   "source": "",
-  "tag": "2.0\" display · 1000 mAh",
+  "tag": "2.0\" display \u00b7 1000 mAh",
   "year": 2008
  },
  {
@@ -13217,7 +13217,7 @@
   ],
   "slug": "lg-kf350",
   "source": "",
-  "tag": "2.2\" display · 800 mAh",
+  "tag": "2.2\" display \u00b7 800 mAh",
   "year": 2008
  },
  {
@@ -13342,7 +13342,7 @@
   ],
   "slug": "lg-gt365-neon",
   "source": "",
-  "tag": "2.4\" display · 800 mAh",
+  "tag": "2.4\" display \u00b7 800 mAh",
   "year": 2009
  },
  {
@@ -13399,7 +13399,7 @@
   ],
   "slug": "lg-kp170",
   "source": "",
-  "tag": "1.77\" display · 900 mAh",
+  "tag": "1.77\" display \u00b7 900 mAh",
   "year": 2008
  },
  {
@@ -13456,7 +13456,7 @@
   ],
   "slug": "lg-kp265",
   "source": "",
-  "tag": "1.77\" display · 900 mAh",
+  "tag": "1.77\" display \u00b7 900 mAh",
   "year": 2008
  },
  {
@@ -13577,7 +13577,7 @@
   ],
   "slug": "lg-kp502-cookie",
   "source": "",
-  "tag": "3.0\" display · 900 mAh",
+  "tag": "3.0\" display \u00b7 900 mAh",
   "year": 2009
  },
  {
@@ -13634,7 +13634,7 @@
   ],
   "slug": "lg-kp270",
   "source": "",
-  "tag": "2.0\" display · 900 mAh",
+  "tag": "2.0\" display \u00b7 900 mAh",
   "year": 2008
  },
  {
@@ -13707,7 +13707,7 @@
   ],
   "slug": "lg-km900-arena",
   "source": "",
-  "tag": "3.0\" display · 1000 mAh",
+  "tag": "3.0\" display \u00b7 1000 mAh",
   "year": 2009
  },
  {
@@ -13772,7 +13772,7 @@
   ],
   "slug": "lg-gw520",
   "source": "",
-  "tag": "2.8\" display · 950 mAh",
+  "tag": "2.8\" display \u00b7 950 mAh",
   "year": 2009
  },
  {
@@ -13825,7 +13825,7 @@
   ],
   "slug": "motorola-w360",
   "source": "",
-  "tag": "1.6\" display · 850 mAh",
+  "tag": "1.6\" display \u00b7 850 mAh",
   "year": 2007
  },
  {
@@ -13951,7 +13951,7 @@
   ],
   "slug": "motorola-rizr-z10",
   "source": "",
-  "tag": "2.2\" display · TI OMAP 2420 · 1130 mAh",
+  "tag": "2.2\" display \u00b7 TI OMAP 2420 \u00b7 1130 mAh",
   "year": 2007
  },
  {
@@ -14008,7 +14008,7 @@
   ],
   "slug": "motorola-z6c",
   "source": "",
-  "tag": "2.0\" display · 930 mAh",
+  "tag": "2.0\" display \u00b7 930 mAh",
   "year": 2007
  },
  {
@@ -14082,7 +14082,7 @@
   ],
   "slug": "motorola-zn5",
   "source": "",
-  "tag": "2.4\" display · Freescale 500 MHz · 950 mAh",
+  "tag": "2.4\" display \u00b7 Freescale 500 MHz \u00b7 950 mAh",
   "year": 2008
  },
  {
@@ -14156,7 +14156,7 @@
   ],
   "slug": "motorola-q-11",
   "source": "",
-  "tag": "2.4\" display · Freescale ARM 7 LTE · 1170 mAh",
+  "tag": "2.4\" display \u00b7 Freescale ARM 7 LTE \u00b7 1170 mAh",
   "year": 2008
  },
  {
@@ -14221,7 +14221,7 @@
   ],
   "slug": "motorola-em35",
   "source": "",
-  "tag": "2.2\" display · 810 mAh",
+  "tag": "2.2\" display \u00b7 810 mAh",
   "year": 2008
  },
  {
@@ -14291,7 +14291,7 @@
   ],
   "slug": "motorola-a3000",
   "source": "",
-  "tag": "2.8\" display · Qualcomm ESM7206A · 1130 mAh",
+  "tag": "2.8\" display \u00b7 Qualcomm ESM7206A \u00b7 1130 mAh",
   "year": 2009
  },
  {
@@ -14369,7 +14369,7 @@
   ],
   "slug": "motorola-a3100",
   "source": "",
-  "tag": "2.8\" display · Qualcomm MSM7201A · 1170 mAh",
+  "tag": "2.8\" display \u00b7 Qualcomm MSM7201A \u00b7 1170 mAh",
   "year": 2009
  },
  {
@@ -14451,7 +14451,7 @@
   ],
   "slug": "motorola-es400",
   "source": "",
-  "tag": "3.0\" display · Qualcomm MSM7627 · 1540 mAh",
+  "tag": "3.0\" display \u00b7 Qualcomm MSM7627 \u00b7 1540 mAh",
   "year": 2010
  },
  {
@@ -14529,7 +14529,7 @@
   ],
   "slug": "motorola-milestone-2",
   "source": "",
-  "tag": "3.7\" display · TI OMAP 3630 · 1400 mAh",
+  "tag": "3.7\" display \u00b7 TI OMAP 3630 \u00b7 1400 mAh",
   "year": 2010
  },
  {
@@ -14613,7 +14613,7 @@
   ],
   "slug": "htc-tiara",
   "source": "",
-  "tag": "4.3\" display · Dual-core 1.2 GHz · 1 GB RAM · 1800 mAh",
+  "tag": "4.3\" display \u00b7 Dual-core 1.2 GHz \u00b7 1 GB RAM \u00b7 1800 mAh",
   "year": 2013
  },
  {
@@ -14675,7 +14675,7 @@
   ],
   "slug": "htc-mteor",
   "source": "",
-  "tag": "2.2\" display · Samsung 2442 300 MHz · 1190 mAh",
+  "tag": "2.2\" display \u00b7 Samsung 2442 300 MHz \u00b7 1190 mAh",
   "year": 2006
  },
  {
@@ -14726,7 +14726,7 @@
    ],
    [
     "Main Camera",
-    "16 MP, f/1.7, (wide), 1.4µm, PDAF"
+    "16 MP, f/1.7, (wide), 1.4\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
@@ -14771,7 +14771,7 @@
   ],
   "slug": "htc-wildfire-r70",
   "source": "",
-  "tag": "6.53\" display · Mediatek MT6763 Helio P23 · 2 GB RAM · 4000 mAh",
+  "tag": "6.53\" display \u00b7 Mediatek MT6763 Helio P23 \u00b7 2 GB RAM \u00b7 4000 mAh",
   "year": 2020
  },
  {
@@ -14841,7 +14841,7 @@
   ],
   "slug": "htc-s710",
   "source": "",
-  "tag": "2.4\" display · TI OMAP 850 · 1050 mAh",
+  "tag": "2.4\" display \u00b7 TI OMAP 850 \u00b7 1050 mAh",
   "year": 2007
  },
  {
@@ -14919,7 +14919,7 @@
   ],
   "slug": "htc-tytn-ii",
   "source": "",
-  "tag": "2.8\" display · Qualcomm MSM7200 · 1350 mAh",
+  "tag": "2.8\" display \u00b7 Qualcomm MSM7200 \u00b7 1350 mAh",
   "year": 2007
  },
  {
@@ -14985,7 +14985,7 @@
   ],
   "slug": "htc-s630",
   "source": "",
-  "tag": "2.4\" display · Samsung SC32442 400 MHz · 1050 mAh",
+  "tag": "2.4\" display \u00b7 Samsung SC32442 400 MHz \u00b7 1050 mAh",
   "year": 2006
  },
  {
@@ -15063,7 +15063,7 @@
   ],
   "slug": "htc-p6500",
   "source": "",
-  "tag": "3.5\" display · Qualcomm MSM7200 · 1500 mAh",
+  "tag": "3.5\" display \u00b7 Qualcomm MSM7200 \u00b7 1500 mAh",
   "year": 2007
  },
  {
@@ -15133,7 +15133,7 @@
   ],
   "slug": "htc-touch-dual",
   "source": "",
-  "tag": "2.6\" display · Qualcomm MSM7200 · 1120 mAh",
+  "tag": "2.6\" display \u00b7 Qualcomm MSM7200 \u00b7 1120 mAh",
   "year": 2007
  },
  {
@@ -15203,7 +15203,7 @@
   ],
   "slug": "htc-touch-viva",
   "source": "",
-  "tag": "2.8\" display · TI OMAP 850 · 1100 mAh",
+  "tag": "2.8\" display \u00b7 TI OMAP 850 \u00b7 1100 mAh",
   "year": 2008
  },
  {
@@ -15289,7 +15289,7 @@
   ],
   "slug": "htc-pure",
   "source": "",
-  "tag": "3.2\" display · Qualcomm MSM7201A · 1100 mAh",
+  "tag": "3.2\" display \u00b7 Qualcomm MSM7201A \u00b7 1100 mAh",
   "year": 2009
  },
  {
@@ -15375,7 +15375,7 @@
   ],
   "slug": "htc-evo-4g",
   "source": "",
-  "tag": "4.3\" display · Qualcomm QSD8650 Snapdragon S1 · 1500 mAh",
+  "tag": "4.3\" display \u00b7 Qualcomm QSD8650 Snapdragon S1 \u00b7 1500 mAh",
   "year": 2010
  },
  {
@@ -15457,7 +15457,7 @@
   ],
   "slug": "htc-aria",
   "source": "",
-  "tag": "3.2\" display · Qualcomm MSM7227 Snapdragon S1 · 1200 mAh",
+  "tag": "3.2\" display \u00b7 Qualcomm MSM7227 Snapdragon S1 \u00b7 1200 mAh",
   "year": 2010
  },
  {
@@ -15539,7 +15539,7 @@
   ],
   "slug": "htc-hd-mini",
   "source": "",
-  "tag": "3.2\" display · Qualcomm MSM7227 Snapdragon S1 · 1200 mAh",
+  "tag": "3.2\" display \u00b7 Qualcomm MSM7227 Snapdragon S1 \u00b7 1200 mAh",
   "year": 2010
  },
  {
@@ -15621,7 +15621,7 @@
   ],
   "slug": "htc-desire-z",
   "source": "",
-  "tag": "3.7\" display · Qualcomm MSM7230 · 1300 mAh",
+  "tag": "3.7\" display \u00b7 Qualcomm MSM7230 \u00b7 1300 mAh",
   "year": 2010
  },
  {
@@ -15703,7 +15703,7 @@
   ],
   "slug": "htc-7-surround",
   "source": "",
-  "tag": "3.8\" display · Qualcomm QSD8250 Snapdragon S1 · 1230 mAh",
+  "tag": "3.8\" display \u00b7 Qualcomm QSD8250 Snapdragon S1 \u00b7 1230 mAh",
   "year": 2010
  },
  {
@@ -15785,7 +15785,7 @@
   ],
   "slug": "htc-7-mozart",
   "source": "",
-  "tag": "3.7\" display · Qualcomm QSD8250 Snapdragon S1 · 1300 mAh",
+  "tag": "3.7\" display \u00b7 Qualcomm QSD8250 Snapdragon S1 \u00b7 1300 mAh",
   "year": 2010
  },
  {
@@ -15867,7 +15867,7 @@
   ],
   "slug": "htc-gratia",
   "source": "",
-  "tag": "3.2\" display · Qualcomm MSM7227 Snapdragon S1 · 1200 mAh",
+  "tag": "3.2\" display \u00b7 Qualcomm MSM7227 Snapdragon S1 \u00b7 1200 mAh",
   "year": 2010
  },
  {
@@ -15933,7 +15933,7 @@
   ],
   "slug": "htc-freestyle",
   "source": "",
-  "tag": "3.2\" display · Qualcomm MSM7225 Snapdragon S1 · 1300 mAh",
+  "tag": "3.2\" display \u00b7 Qualcomm MSM7225 Snapdragon S1 \u00b7 1300 mAh",
   "year": 2011
  },
  {
@@ -16011,7 +16011,7 @@
   ],
   "slug": "htc-merge",
   "source": "",
-  "tag": "3.8\" display · Qualcomm MSM7630 · 1400 mAh",
+  "tag": "3.8\" display \u00b7 Qualcomm MSM7630 \u00b7 1400 mAh",
   "year": 2011
  },
  {
@@ -16102,7 +16102,7 @@
   ],
   "slug": "htc-jetstream",
   "source": "",
-  "tag": "10.1\" display · Qualcomm MSM8260 Snapdragon S3 · 1 GB RAM · 7300 mAh",
+  "tag": "10.1\" display \u00b7 Qualcomm MSM8260 Snapdragon S3 \u00b7 1 GB RAM \u00b7 7300 mAh",
   "year": 2011
  },
  {
@@ -16193,7 +16193,7 @@
   ],
   "slug": "htc-raider-4g",
   "source": "",
-  "tag": "4.5\" display · Dual-core 1.2 GHz · 1 GB RAM · 1620 mAh",
+  "tag": "4.5\" display \u00b7 Dual-core 1.2 GHz \u00b7 1 GB RAM \u00b7 1620 mAh",
   "year": 2011
  },
  {
@@ -16284,7 +16284,7 @@
   ],
   "slug": "htc-amaze-4g",
   "source": "",
-  "tag": "4.3\" display · Dual-core 1.5 GHz Scorpion · 1 GB RAM · 1730 mAh",
+  "tag": "4.3\" display \u00b7 Dual-core 1.5 GHz Scorpion \u00b7 1 GB RAM \u00b7 1730 mAh",
   "year": 2011
  },
  {
@@ -16375,7 +16375,7 @@
   ],
   "slug": "htc-vivid",
   "source": "",
-  "tag": "4.5\" display · Qualcomm APQ8060 Snapdragon S3 · 1 GB RAM · 1620 mAh",
+  "tag": "4.5\" display \u00b7 Qualcomm APQ8060 Snapdragon S3 \u00b7 1 GB RAM \u00b7 1620 mAh",
   "year": 2011
  },
  {
@@ -16461,7 +16461,7 @@
   ],
   "slug": "htc-titan-ii",
   "source": "",
-  "tag": "4.7\" display · Qualcomm Snapdragon S2 · 1730 mAh",
+  "tag": "4.7\" display \u00b7 Qualcomm Snapdragon S2 \u00b7 1730 mAh",
   "year": 2012
  },
  {
@@ -16552,7 +16552,7 @@
   ],
   "slug": "htc-velocity-4g",
   "source": "",
-  "tag": "4.5\" display · Qualcomm MSM8260 Snapdragon S3 · 1 GB RAM · 1620 mAh",
+  "tag": "4.5\" display \u00b7 Qualcomm MSM8260 Snapdragon S3 \u00b7 1 GB RAM \u00b7 1620 mAh",
   "year": 2012
  },
  {
@@ -16639,7 +16639,7 @@
   ],
   "slug": "htc-one-xc",
   "source": "",
-  "tag": "4.7\" display · Dual-core 1.5 GHz · 1 GB RAM · 2000 mAh",
+  "tag": "4.7\" display \u00b7 Dual-core 1.5 GHz \u00b7 1 GB RAM \u00b7 2000 mAh",
   "year": 2012
  },
  {
@@ -16717,7 +16717,7 @@
   ],
   "slug": "htc-lead",
   "source": "",
-  "tag": "4.3\" display · Broadcom BCM4329",
+  "tag": "4.3\" display \u00b7 Broadcom BCM4329",
   "year": null
  },
  {
@@ -16795,7 +16795,7 @@
   ],
   "slug": "htc-desire-xc",
   "source": "",
-  "tag": "4.0\" display · Dual-core 1.0 GHz · 1650 mAh",
+  "tag": "4.0\" display \u00b7 Dual-core 1.0 GHz \u00b7 1650 mAh",
   "year": 2013
  },
  {
@@ -16878,7 +16878,7 @@
   ],
   "slug": "htc-desire-q",
   "source": "",
-  "tag": "4.0\" display · Qualcomm MSM7227A Snapdragon S1 · 1650 mAh",
+  "tag": "4.0\" display \u00b7 Qualcomm MSM7227A Snapdragon S1 \u00b7 1650 mAh",
   "year": 2013
  },
  {
@@ -16928,7 +16928,7 @@
    ],
    [
     "Main Camera",
-    "5 MP, 1/4.0\", 1.4µm, AF"
+    "5 MP, 1/4.0\", 1.4\u00b5m, AF"
    ],
    [
     "Selfie Camera",
@@ -16973,7 +16973,7 @@
   ],
   "slug": "htc-desire-601-dual-sim",
   "source": "",
-  "tag": "4.5\" display · Quad-core 1.2 GHz Cortex-A7 · 1 GB RAM · 2100 mAh",
+  "tag": "4.5\" display \u00b7 Quad-core 1.2 GHz Cortex-A7 \u00b7 1 GB RAM \u00b7 2100 mAh",
   "year": 2013
  },
  {
@@ -17072,7 +17072,7 @@
   ],
   "slug": "htc-butterfly-2",
   "source": "",
-  "tag": "5.0\" display · Qualcomm Snapdragon 801 · 2 GB RAM · 2700 mAh",
+  "tag": "5.0\" display \u00b7 Qualcomm Snapdragon 801 \u00b7 2 GB RAM \u00b7 2700 mAh",
   "year": 2014
  },
  {
@@ -17163,7 +17163,7 @@
   ],
   "slug": "motorola-moto-g-4g-(2nd-gen)",
   "source": "",
-  "tag": "4.5\" display · Qualcomm MSM8926 Snapdragon 400 · 1 GB RAM · 2070 mAh",
+  "tag": "4.5\" display \u00b7 Qualcomm MSM8926 Snapdragon 400 \u00b7 1 GB RAM \u00b7 2070 mAh",
   "year": 2014
  },
  {
@@ -17237,7 +17237,7 @@
   ],
   "slug": "lg-fireweb",
   "source": "",
-  "tag": "4.0\" display · Qualcomm MSM7227A Snapdragon S1 · 1540 mAh",
+  "tag": "4.0\" display \u00b7 Qualcomm MSM7227A Snapdragon S1 \u00b7 1540 mAh",
   "year": 2013
  },
  {
@@ -17328,7 +17328,7 @@
   ],
   "slug": "lg-g2-mini-lte",
   "source": "",
-  "tag": "4.7\" display · Qualcomm MSM8926 Snapdragon 400 · 1 GB RAM · 2440 mAh",
+  "tag": "4.7\" display \u00b7 Qualcomm MSM8926 Snapdragon 400 \u00b7 1 GB RAM \u00b7 2440 mAh",
   "year": 2014
  },
  {
@@ -17415,7 +17415,7 @@
   ],
   "slug": "lg-g-pad-7.0",
   "source": "",
-  "tag": "7.0\" display · Qualcomm MSM8226 Snapdragon 400 · 1 GB RAM · 4000 mAh",
+  "tag": "7.0\" display \u00b7 Qualcomm MSM8226 Snapdragon 400 \u00b7 1 GB RAM \u00b7 4000 mAh",
   "year": 2014
  },
  {
@@ -17502,7 +17502,7 @@
   ],
   "slug": "lg-g-vista",
   "source": "",
-  "tag": "5.7\" display · Quad-core 1.2 GHz · 5 GB RAM · 3200 mAh",
+  "tag": "5.7\" display \u00b7 Quad-core 1.2 GHz \u00b7 5 GB RAM \u00b7 3200 mAh",
   "year": 2014
  },
  {
@@ -17589,7 +17589,7 @@
   ],
   "slug": "lg-g3-a",
   "source": "",
-  "tag": "5.2\" display · Qualcomm Snapdragon 800 · 2 GB RAM · 2610 mAh",
+  "tag": "5.2\" display \u00b7 Qualcomm Snapdragon 800 \u00b7 2 GB RAM \u00b7 2610 mAh",
   "year": 2014
  },
  {
@@ -17640,11 +17640,11 @@
    ],
    [
     "Main Camera",
-    "12 MP, f/1.8, 1/2.55\", 1.4µm, dual pixel PDAF"
+    "12 MP, f/1.8, 1/2.55\", 1.4\u00b5m, dual pixel PDAF"
    ],
    [
     "Selfie Camera",
-    "16 MP, f/2.0, 1/3.06\", 1.0µm"
+    "16 MP, f/2.0, 1/3.06\", 1.0\u00b5m"
    ],
    [
     "Battery",
@@ -17685,7 +17685,7 @@
   ],
   "slug": "motorola-moto-x5",
   "source": "",
-  "tag": "5.9\" display · Octa-core · 4 GB RAM · 3300 mAh",
+  "tag": "5.9\" display \u00b7 Octa-core \u00b7 4 GB RAM \u00b7 3300 mAh",
   "year": null
  },
  {
@@ -17767,7 +17767,7 @@
   ],
   "slug": "lenovo-a789",
   "source": "",
-  "tag": "4.0\" display · Mediatek MT6577 · 2000 mAh",
+  "tag": "4.0\" display \u00b7 Mediatek MT6577 \u00b7 2000 mAh",
   "year": 2012
  },
  {
@@ -17847,7 +17847,7 @@
   ],
   "slug": "lg-watch-urbane",
   "source": "",
-  "tag": "1.3\" display · Qualcomm Snapdragon 400 · 1 GB RAM · 700 mAh",
+  "tag": "1.3\" display \u00b7 Qualcomm Snapdragon 400 \u00b7 1 GB RAM \u00b7 700 mAh",
   "year": 2015
  },
  {
@@ -17934,7 +17934,7 @@
   ],
   "slug": "lg-g-pad-ii-8.0-lte",
   "source": "",
-  "tag": "8.0\" display · Qualcomm MSM8926 Snapdragon 400 · 5 GB RAM · 4200 mAh",
+  "tag": "8.0\" display \u00b7 Qualcomm MSM8926 Snapdragon 400 \u00b7 5 GB RAM \u00b7 4200 mAh",
   "year": 2015
  },
  {
@@ -18026,7 +18026,7 @@
   ],
   "slug": "lg-g-pad-ii-8.3",
   "source": "",
-  "tag": "8.3\" display · Qualcomm MSM8939 Snapdragon 615 · 2 GB RAM · 4800 mAh",
+  "tag": "8.3\" display \u00b7 Qualcomm MSM8939 Snapdragon 615 \u00b7 2 GB RAM \u00b7 4800 mAh",
   "year": 2015
  },
  {
@@ -18076,11 +18076,11 @@
    ],
    [
     "Main Camera",
-    "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF"
+    "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "16 MP, f/2.0, (wide), 1.0µm"
+    "16 MP, f/2.0, (wide), 1.0\u00b5m"
    ],
    [
     "Battery",
@@ -18121,7 +18121,7 @@
   ],
   "slug": "motorola-one-5g-uw",
   "source": "",
-  "tag": "6.7\" display · Qualcomm SM7250 Snapdragon 765 5G · 4 GB RAM · 5000 mAh",
+  "tag": "6.7\" display \u00b7 Qualcomm SM7250 Snapdragon 765 5G \u00b7 4 GB RAM \u00b7 5000 mAh",
   "year": 2020
  },
  {
@@ -18212,7 +18212,7 @@
   ],
   "slug": "lenovo-p780",
   "source": "",
-  "tag": "5.0\" display · Mediatek MT6589 · 1 GB RAM · 4000 mAh",
+  "tag": "5.0\" display \u00b7 Mediatek MT6589 \u00b7 1 GB RAM \u00b7 4000 mAh",
   "year": 2013
  },
  {
@@ -18303,7 +18303,7 @@
   ],
   "slug": "lenovo-a850",
   "source": "",
-  "tag": "5.5\" display · Mediatek MT6582M · 1 GB RAM · 2250 mAh",
+  "tag": "5.5\" display \u00b7 Mediatek MT6582M \u00b7 1 GB RAM \u00b7 2250 mAh",
   "year": 2013
  },
  {
@@ -18398,7 +18398,7 @@
   ],
   "slug": "lenovo-s930",
   "source": "",
-  "tag": "6.0\" display · Mediatek MT6582 · 1 GB RAM · 3000 mAh",
+  "tag": "6.0\" display \u00b7 Mediatek MT6582 \u00b7 1 GB RAM \u00b7 3000 mAh",
   "year": 2013
  },
  {
@@ -18489,7 +18489,7 @@
   ],
   "slug": "lenovo-s939",
   "source": "",
-  "tag": "6.0\" display · Mediatek MT6592 · 1 GB RAM · 3000 mAh",
+  "tag": "6.0\" display \u00b7 Mediatek MT6592 \u00b7 1 GB RAM \u00b7 3000 mAh",
   "year": 2014
  },
  {
@@ -18580,7 +18580,7 @@
   ],
   "slug": "lenovo-s856",
   "source": "",
-  "tag": "5.5\" display · Qualcomm MSM8926 Snapdragon 400 · 1 GB RAM · 2500 mAh",
+  "tag": "5.5\" display \u00b7 Qualcomm MSM8926 Snapdragon 400 \u00b7 1 GB RAM \u00b7 2500 mAh",
   "year": 2014
  },
  {
@@ -18671,7 +18671,7 @@
   ],
   "slug": "lenovo-a916",
   "source": "",
-  "tag": "5.5\" display · Mediatek MT6592 · 1 GB RAM · 2500 mAh",
+  "tag": "5.5\" display \u00b7 Mediatek MT6592 \u00b7 1 GB RAM \u00b7 2500 mAh",
   "year": 2014
  },
  {
@@ -18757,7 +18757,7 @@
   ],
   "slug": "lenovo-a319",
   "source": "",
-  "tag": "4.0\" display · Mediatek MT6572 · 1500 mAh",
+  "tag": "4.0\" display \u00b7 Mediatek MT6572 \u00b7 1500 mAh",
   "year": 2014
  },
  {
@@ -18807,11 +18807,11 @@
    ],
    [
     "Main Camera",
-    "200 MP, f/2.0, (wide), 1/1.22\", 0.64µm, PDAF, OIS"
+    "200 MP, f/2.0, (wide), 1/1.22\", 0.64\u00b5m, PDAF, OIS"
    ],
    [
     "Selfie Camera",
-    "60 MP, f/2.2, (wide), 0.64µm"
+    "60 MP, f/2.2, (wide), 0.64\u00b5m"
    ],
    [
     "Battery",
@@ -18852,7 +18852,7 @@
   ],
   "slug": "motorola-moto-x30-pro",
   "source": "",
-  "tag": "6.7\" display · Qualcomm SM8475 Snapdragon 8+ Gen 1 · 8 / 12 GB RAM · 4610 mAh",
+  "tag": "6.7\" display \u00b7 Qualcomm SM8475 Snapdragon 8+ Gen 1 \u00b7 8 / 12 GB RAM \u00b7 4610 mAh",
   "year": 2022
  },
  {
@@ -18902,7 +18902,7 @@
    ],
    [
     "Main Camera",
-    "50 MP, f/1.8, (wide), 1/1.55\", 1.0µm, PDAF, OIS"
+    "50 MP, f/1.8, (wide), 1/1.55\", 1.0\u00b5m, PDAF, OIS"
    ],
    [
     "Selfie Camera",
@@ -18943,7 +18943,7 @@
   ],
   "slug": "motorola-moto-s30-pro",
   "source": "",
-  "tag": "6.55\" display · Qualcomm SM8350 Snapdragon 888+ 5G · 8 / 12 GB RAM · 4400 mAh",
+  "tag": "6.55\" display \u00b7 Qualcomm SM8350 Snapdragon 888+ 5G \u00b7 8 / 12 GB RAM \u00b7 4400 mAh",
   "year": 2022
  },
  {
@@ -18993,11 +18993,11 @@
    ],
    [
     "Main Camera",
-    "50 MP, f/1.9, (wide), 1/1.55\", 1.0µm, dual pixel PDAF, OIS"
+    "50 MP, f/1.9, (wide), 1/1.55\", 1.0\u00b5m, dual pixel PDAF, OIS"
    ],
    [
     "Selfie Camera",
-    "60 MP, f/2.2, (wide), 1/2.8\", 0.61µm"
+    "60 MP, f/2.2, (wide), 1/2.8\", 0.61\u00b5m"
    ],
    [
     "Battery",
@@ -19038,7 +19038,7 @@
   ],
   "slug": "motorola-moto-x40",
   "source": "",
-  "tag": "6.7\" display · Qualcomm SM8550-AB Snapdragon 8 Gen 2 · 8 / 12 GB RAM · 4600 mAh",
+  "tag": "6.7\" display \u00b7 Qualcomm SM8550-AB Snapdragon 8 Gen 2 \u00b7 8 / 12 GB RAM \u00b7 4600 mAh",
   "year": 2022
  },
  {
@@ -19088,7 +19088,7 @@
    ],
    [
     "Main Camera",
-    "12.3 MP, f/2.0, 1.55µm, AF"
+    "12.3 MP, f/2.0, 1.55\u00b5m, AF"
    ],
    [
     "Selfie Camera",
@@ -19129,7 +19129,7 @@
   ],
   "slug": "lg-x-mach",
   "source": "",
-  "tag": "5.5\" display · Qualcomm MSM8992 Snapdragon 808 · 3 GB RAM · 3000 mAh",
+  "tag": "5.5\" display \u00b7 Qualcomm MSM8992 Snapdragon 808 \u00b7 3 GB RAM \u00b7 3000 mAh",
   "year": 2016
  },
  {
@@ -19220,7 +19220,7 @@
   ],
   "slug": "lg-x-skin",
   "source": "",
-  "tag": "5.0\" display · Quad-core 1.3 GHz · 5 GB RAM · 2100 mAh",
+  "tag": "5.0\" display \u00b7 Quad-core 1.3 GHz \u00b7 5 GB RAM \u00b7 2100 mAh",
   "year": 2016
  },
  {
@@ -19270,7 +19270,7 @@
    ],
    [
     "Main Camera",
-    "13 MP, 1/3.1\", 1.12µm, AF"
+    "13 MP, 1/3.1\", 1.12\u00b5m, AF"
    ],
    [
     "Selfie Camera",
@@ -19311,7 +19311,7 @@
   ],
   "slug": "lg-stylo-3+",
   "source": "",
-  "tag": "5.7\" display · Qualcomm MSM8940 Snapdragon 435 · 2 GB RAM · 3080 mAh",
+  "tag": "5.7\" display \u00b7 Qualcomm MSM8940 Snapdragon 435 \u00b7 2 GB RAM \u00b7 3080 mAh",
   "year": 2017
  },
  {
@@ -19361,7 +19361,7 @@
    ],
    [
     "Main Camera",
-    "16 MP, f/1.6, 31mm (standard), 1/3.1\", 1.0µm, PDAF, OIS"
+    "16 MP, f/1.6, 31mm (standard), 1/3.1\", 1.0\u00b5m, PDAF, OIS"
    ],
    [
     "Selfie Camera",
@@ -19406,7 +19406,7 @@
   ],
   "slug": "lg-g7-one",
   "source": "",
-  "tag": "6.1\" display · Qualcomm MSM8998 Snapdragon 835 · 4 GB RAM · 3000 mAh",
+  "tag": "6.1\" display \u00b7 Qualcomm MSM8998 Snapdragon 835 \u00b7 4 GB RAM \u00b7 3000 mAh",
   "year": 2018
  },
  {
@@ -19501,7 +19501,7 @@
   ],
   "slug": "htc-desire-820q-dual-sim",
   "source": "",
-  "tag": "5.5\" display · Qualcomm MSM8916 Snapdragon 410 · 1 GB RAM · 2600 mAh",
+  "tag": "5.5\" display \u00b7 Qualcomm MSM8916 Snapdragon 410 \u00b7 1 GB RAM \u00b7 2600 mAh",
   "year": 2014
  },
  {
@@ -19593,7 +19593,7 @@
   ],
   "slug": "htc-desire-520",
   "source": "",
-  "tag": "4.5\" display · Qualcomm MSM8909 Snapdragon 210 · 1 GB RAM · 2000 mAh",
+  "tag": "4.5\" display \u00b7 Qualcomm MSM8909 Snapdragon 210 \u00b7 1 GB RAM \u00b7 2000 mAh",
   "year": 2015
  },
  {
@@ -19647,7 +19647,7 @@
    ],
    [
     "Selfie Camera",
-    "4 MP, f/2.0, 27mm (wide), 1/3\", 2µm"
+    "4 MP, f/2.0, 27mm (wide), 1/3\", 2\u00b5m"
    ],
    [
     "Battery",
@@ -19680,7 +19680,7 @@
   ],
   "slug": "htc-one-e9s-dual-sim",
   "source": "",
-  "tag": "5.5\" display · Mediatek MT6752M · 2 GB RAM · 2600 mAh",
+  "tag": "5.5\" display \u00b7 Mediatek MT6752M \u00b7 2 GB RAM \u00b7 2600 mAh",
   "year": 2015
  },
  {
@@ -19783,7 +19783,7 @@
   ],
   "slug": "htc-one-x9",
   "source": "",
-  "tag": "5.5\" display · Mediatek MT6795 Helio X10 · 3 GB RAM · 3000 mAh",
+  "tag": "5.5\" display \u00b7 Mediatek MT6795 Helio X10 \u00b7 3 GB RAM \u00b7 3000 mAh",
   "year": 2015
  },
  {
@@ -19837,7 +19837,7 @@
    ],
    [
     "Selfie Camera",
-    "4 MP, f/2.0, 27mm (wide), 1/3\", 2µm"
+    "4 MP, f/2.0, 27mm (wide), 1/3\", 2\u00b5m"
    ],
    [
     "Battery",
@@ -19878,7 +19878,7 @@
   ],
   "slug": "htc-one-s9",
   "source": "",
-  "tag": "5.0\" display · Mediatek MT6795 Helio X10 · 2 GB RAM · 2840 mAh",
+  "tag": "5.0\" display \u00b7 Mediatek MT6795 Helio X10 \u00b7 2 GB RAM \u00b7 2840 mAh",
   "year": 2016
  },
  {
@@ -19969,7 +19969,7 @@
   ],
   "slug": "htc-desire-628",
   "source": "",
-  "tag": "5.0\" display · Mediatek MT6753 · 3 GB RAM · 2200 mAh",
+  "tag": "5.0\" display \u00b7 Mediatek MT6753 \u00b7 3 GB RAM \u00b7 2200 mAh",
   "year": 2016
  },
  {
@@ -20023,7 +20023,7 @@
    ],
    [
     "Selfie Camera",
-    "4 MP, f/2.0, 27mm (wide), 1/3\", 2µm"
+    "4 MP, f/2.0, 27mm (wide), 1/3\", 2\u00b5m"
    ],
    [
     "Battery",
@@ -20064,7 +20064,7 @@
   ],
   "slug": "htc-one-m9-prime-camera",
   "source": "",
-  "tag": "5.0\" display · Mediatek MT6795T Helio X10 · 2 GB RAM · 2840 mAh",
+  "tag": "5.0\" display \u00b7 Mediatek MT6795T Helio X10 \u00b7 2 GB RAM \u00b7 2840 mAh",
   "year": 2016
  },
  {
@@ -20114,11 +20114,11 @@
    ],
    [
     "Main Camera",
-    "50 MP, f/1.9, (wide), 1/1.5\", 1.0µm, multi-directional PDAF, OIS"
+    "50 MP, f/1.9, (wide), 1/1.5\", 1.0\u00b5m, multi-directional PDAF, OIS"
    ],
    [
     "Selfie Camera",
-    "32 MP, f/2.4, (wide), 0.7µm"
+    "32 MP, f/2.4, (wide), 0.7\u00b5m"
    ],
    [
     "Battery",
@@ -20159,7 +20159,7 @@
   ],
   "slug": "motorola-moto-s50",
   "source": "",
-  "tag": "6.36\" display · Mediatek Dimensity 7300 · 12 GB RAM · 4310 mAh",
+  "tag": "6.36\" display \u00b7 Mediatek Dimensity 7300 \u00b7 12 GB RAM \u00b7 4310 mAh",
   "year": 2024
  },
  {
@@ -20250,7 +20250,7 @@
   ],
   "slug": "htc-desire-10-compact",
   "source": "",
-  "tag": "5.0\" display · Mediatek MT6737T · 3 GB RAM · 3300 mAh",
+  "tag": "5.0\" display \u00b7 Mediatek MT6737T \u00b7 3 GB RAM \u00b7 3300 mAh",
   "year": 2017
  },
  {
@@ -20345,7 +20345,7 @@
   ],
   "slug": "htc-desire-10-lifestyle",
   "source": "",
-  "tag": "5.5\" display · Qualcomm MSM8928 Snapdragon 400 · 3 GB RAM · 2700 mAh",
+  "tag": "5.5\" display \u00b7 Qualcomm MSM8928 Snapdragon 400 \u00b7 3 GB RAM \u00b7 2700 mAh",
   "year": 2016
  },
  {
@@ -20436,7 +20436,7 @@
   ],
   "slug": "htc-10-evo",
   "source": "",
-  "tag": "5.5\" display · Qualcomm MSM8994 Snapdragon 810 · 3 GB RAM · 3200 mAh",
+  "tag": "5.5\" display \u00b7 Qualcomm MSM8994 Snapdragon 810 \u00b7 3 GB RAM \u00b7 3200 mAh",
   "year": 2016
  },
  {
@@ -20527,7 +20527,7 @@
   ],
   "slug": "htc-desire-12s",
   "source": "",
-  "tag": "5.7\" display · Qualcomm MSM8940 Snapdragon 435 · 3 / 4 GB RAM · 3075 mAh",
+  "tag": "5.7\" display \u00b7 Qualcomm MSM8940 Snapdragon 435 \u00b7 3 / 4 GB RAM \u00b7 3075 mAh",
   "year": 2018
  },
  {
@@ -20577,7 +20577,7 @@
    ],
    [
     "Main Camera",
-    "12 MP, (wide), 1/2.8\", 1.25µm, PDAF"
+    "12 MP, (wide), 1/2.8\", 1.25\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
@@ -20622,7 +20622,7 @@
   ],
   "slug": "htc-wildfire-x",
   "source": "",
-  "tag": "6.2\" display · Mediatek MT6762 Helio P22 · 3 / 4 GB RAM · 3300 mAh",
+  "tag": "6.2\" display \u00b7 Mediatek MT6762 Helio P22 \u00b7 3 / 4 GB RAM \u00b7 3300 mAh",
   "year": 2019
  },
  {
@@ -20672,7 +20672,7 @@
    ],
    [
     "Main Camera",
-    "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF"
+    "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
@@ -20717,7 +20717,7 @@
   ],
   "slug": "htc-desire-20-pro",
   "source": "",
-  "tag": "6.5\" display · Qualcomm SM6125 Snapdragon 665 · 6 GB RAM · 5000 mAh",
+  "tag": "6.5\" display \u00b7 Qualcomm SM6125 Snapdragon 665 \u00b7 6 GB RAM \u00b7 5000 mAh",
   "year": 2020
  },
  {
@@ -20771,7 +20771,7 @@
    ],
    [
     "Selfie Camera",
-    "16 MP, f/2.0, 27mm (wide), 1/3.06\", 1.0µm"
+    "16 MP, f/2.0, 27mm (wide), 1/3.06\", 1.0\u00b5m"
    ],
    [
     "Battery",
@@ -20812,7 +20812,7 @@
   ],
   "slug": "htc-desire-19s",
   "source": "",
-  "tag": "6.2\" display · Mediatek MT6762 Helio P22 · 3 GB RAM · 3850 mAh",
+  "tag": "6.2\" display \u00b7 Mediatek MT6762 Helio P22 \u00b7 3 GB RAM \u00b7 3850 mAh",
   "year": 2019
  },
  {
@@ -20899,7 +20899,7 @@
   ],
   "slug": "htc-wildfire-e",
   "source": "",
-  "tag": "5.45\" display · Unisoc SC9863A · 2 GB RAM · 3000 mAh",
+  "tag": "5.45\" display \u00b7 Unisoc SC9863A \u00b7 2 GB RAM \u00b7 3000 mAh",
   "year": 2019
  },
  {
@@ -20990,7 +20990,7 @@
   ],
   "slug": "htc-wildfire-e1+",
   "source": "",
-  "tag": "6.09\" display · Mediatek MT6763 Helio P23 · 3 GB RAM · 3000 mAh",
+  "tag": "6.09\" display \u00b7 Mediatek MT6763 Helio P23 \u00b7 3 GB RAM \u00b7 3000 mAh",
   "year": 2019
  },
  {
@@ -21081,7 +21081,7 @@
   ],
   "slug": "htc-wildfire-e1",
   "source": "",
-  "tag": "6.09\" display · Mediatek MT6763 Helio P23 · 3 GB RAM · 3000 mAh",
+  "tag": "6.09\" display \u00b7 Mediatek MT6763 Helio P23 \u00b7 3 GB RAM \u00b7 3000 mAh",
   "year": 2019
  },
  {
@@ -21176,7 +21176,7 @@
   ],
   "slug": "htc-wildfire-e2",
   "source": "",
-  "tag": "6.22\" display · Mediatek MT6762D Helio P22 · 4 GB RAM · 4000 mAh",
+  "tag": "6.22\" display \u00b7 Mediatek MT6762D Helio P22 \u00b7 4 GB RAM \u00b7 4000 mAh",
   "year": 2020
  },
  {
@@ -21226,7 +21226,7 @@
    ],
    [
     "Main Camera",
-    "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF"
+    "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
@@ -21267,7 +21267,7 @@
   ],
   "slug": "htc-desire-20+",
   "source": "",
-  "tag": "6.5\" display · Qualcomm SM7125 Snapdragon 720G · 6 GB RAM · 5000 mAh",
+  "tag": "6.5\" display \u00b7 Qualcomm SM7125 Snapdragon 720G \u00b7 6 GB RAM \u00b7 5000 mAh",
   "year": 2020
  },
  {
@@ -21321,7 +21321,7 @@
    ],
    [
     "Selfie Camera",
-    "13 MP, f/2.0, (wide), 1/3.1\", 1.12µm"
+    "13 MP, f/2.0, (wide), 1/3.1\", 1.12\u00b5m"
    ],
    [
     "Battery",
@@ -21362,7 +21362,7 @@
   ],
   "slug": "htc-wildfire-e3",
   "source": "",
-  "tag": "6.52\" display · Mediatek MT6762 Helio P22 · 4 GB RAM · 4000 mAh",
+  "tag": "6.52\" display \u00b7 Mediatek MT6762 Helio P22 \u00b7 4 GB RAM \u00b7 4000 mAh",
   "year": 2021
  },
  {
@@ -21453,7 +21453,7 @@
   ],
   "slug": "htc-wildfire-e2+",
   "source": "",
-  "tag": "6.82\" display · Unisoc T610 · 4 GB RAM · 4600 mAh",
+  "tag": "6.82\" display \u00b7 Unisoc T610 \u00b7 4 GB RAM \u00b7 4600 mAh",
   "year": 2021
  },
  {
@@ -21503,7 +21503,7 @@
    ],
    [
     "Main Camera",
-    "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF"
+    "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
@@ -21544,7 +21544,7 @@
   ],
   "slug": "htc-desire-21-pro-5g",
   "source": "",
-  "tag": "6.7\" display · Qualcomm SM6350 Snapdragon 690 5G · 8 GB RAM · 5000 mAh",
+  "tag": "6.7\" display \u00b7 Qualcomm SM6350 Snapdragon 690 5G \u00b7 8 GB RAM \u00b7 5000 mAh",
   "year": 2021
  },
  {
@@ -21631,7 +21631,7 @@
   ],
   "slug": "htc-wildfire-e+",
   "source": "",
-  "tag": "6.52\" display · Mediatek MT6739 · 2 GB RAM · 5150 mAh",
+  "tag": "6.52\" display \u00b7 Mediatek MT6739 \u00b7 2 GB RAM \u00b7 5150 mAh",
   "year": 2022
  },
  {
@@ -21723,7 +21723,7 @@
   ],
   "slug": "htc-wildfire-e3-lite",
   "source": "",
-  "tag": "6.52\" display · Unisoc SC9863A · 3 / 4 GB RAM · 5000 mAh",
+  "tag": "6.52\" display \u00b7 Unisoc SC9863A \u00b7 3 / 4 GB RAM \u00b7 5000 mAh",
   "year": 2023
  },
  {
@@ -21777,7 +21777,7 @@
    ],
    [
     "Selfie Camera",
-    "24 MP, f/2.0, 26mm (wide), 1/2.8\", 0.9µm"
+    "24 MP, f/2.0, 26mm (wide), 1/2.8\", 0.9\u00b5m"
    ],
    [
     "Battery",
@@ -21822,7 +21822,7 @@
   ],
   "slug": "htc-u19e",
   "source": "",
-  "tag": "6.0\" display · Qualcomm SDM710 Snapdragon 710 · 6 GB RAM · 3930 mAh",
+  "tag": "6.0\" display \u00b7 Qualcomm SDM710 Snapdragon 710 \u00b7 6 GB RAM \u00b7 3930 mAh",
   "year": 2019
  },
  {
@@ -21914,7 +21914,7 @@
   ],
   "slug": "htc-wildfire-e2-play",
   "source": "",
-  "tag": "6.82\" display · Unisoc T606 · 8 GB RAM · 4600 mAh",
+  "tag": "6.82\" display \u00b7 Unisoc T606 \u00b7 8 GB RAM \u00b7 4600 mAh",
   "year": 2023
  },
  {
@@ -22005,7 +22005,7 @@
   ],
   "slug": "htc-a102",
   "source": "",
-  "tag": "11.0\" display · Mediatek MT6769 Helio G85 · 8 GB RAM · 8000 mAh",
+  "tag": "11.0\" display \u00b7 Mediatek MT6769 Helio G85 \u00b7 8 GB RAM \u00b7 8000 mAh",
   "year": 2023
  },
  {
@@ -22100,7 +22100,7 @@
   ],
   "slug": "htc-a101",
   "source": "",
-  "tag": "10.1\" display · Unisoc Tiger T618 · 8 GB RAM · 7000 mAh",
+  "tag": "10.1\" display \u00b7 Unisoc Tiger T618 \u00b7 8 GB RAM \u00b7 7000 mAh",
   "year": 2022
  },
  {
@@ -22191,7 +22191,7 @@
   ],
   "slug": "htc-a103+",
   "source": "",
-  "tag": "10.1\" display · Mediatek MT8768A · 4 GB RAM · 6000 mAh",
+  "tag": "10.1\" display \u00b7 Mediatek MT8768A \u00b7 4 GB RAM \u00b7 6000 mAh",
   "year": 2023
  },
  {
@@ -22286,7 +22286,7 @@
   ],
   "slug": "htc-a104",
   "source": "",
-  "tag": "10.36\" display · Unisoc T606 · 8 GB RAM · 7000 mAh",
+  "tag": "10.36\" display \u00b7 Unisoc T606 \u00b7 8 GB RAM \u00b7 7000 mAh",
   "year": 2023
  },
  {
@@ -22373,7 +22373,7 @@
   ],
   "slug": "htc-a101+",
   "source": "",
-  "tag": "10.95\" display · Unisoc T606 · 8 GB RAM · 7000 mAh",
+  "tag": "10.95\" display \u00b7 Unisoc T606 \u00b7 8 GB RAM \u00b7 7000 mAh",
   "year": 2024
  },
  {
@@ -22460,7 +22460,7 @@
   ],
   "slug": "htc-wildfire-e-star",
   "source": "",
-  "tag": "6.52\" display · Unisoc SC9832E · 2 GB RAM · 3000 mAh",
+  "tag": "6.52\" display \u00b7 Unisoc SC9832E \u00b7 2 GB RAM \u00b7 3000 mAh",
   "year": 2023
  },
  {
@@ -22551,7 +22551,7 @@
   ],
   "slug": "lg-w10-alpha",
   "source": "",
-  "tag": "5.71\" display · Unisoc SC9863A · 3 GB RAM · 3450 mAh",
+  "tag": "5.71\" display \u00b7 Unisoc SC9863A \u00b7 3 GB RAM \u00b7 3450 mAh",
   "year": 2020
  },
  {
@@ -22617,7 +22617,7 @@
   ],
   "slug": "lg-folder-2",
   "source": "",
-  "tag": "2.8\" display · 1 GB RAM · 1470 mAh",
+  "tag": "2.8\" display \u00b7 1 GB RAM \u00b7 1470 mAh",
   "year": 2020
  },
  {
@@ -22667,11 +22667,11 @@
    ],
    [
     "Main Camera",
-    "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8µm, PDAF"
+    "48 MP, f/1.8, 26mm (wide), 1/2.0\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "16 MP, f/1.9, 29mm (standard), 1/3.06, 1.0µm"
+    "16 MP, f/1.9, 29mm (standard), 1/3.06, 1.0\u00b5m"
    ],
    [
     "Battery",
@@ -22712,7 +22712,7 @@
   ],
   "slug": "lg-velvet-5g-uw",
   "source": "",
-  "tag": "6.8\" display · Qualcomm SM7250 Snapdragon 765G 5G · 6 GB RAM · 4300 mAh",
+  "tag": "6.8\" display \u00b7 Qualcomm SM7250 Snapdragon 765G 5G \u00b7 6 GB RAM \u00b7 4300 mAh",
   "year": 2020
  },
  {
@@ -22762,11 +22762,11 @@
    ],
    [
     "Main Camera",
-    "64 MP, f/1.8, 25mm (wide), 1/1.97\", 0.7µm, PDAF"
+    "64 MP, f/1.8, 25mm (wide), 1/1.97\", 0.7\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "16 MP, f/2.0, 27mm (wide), 1/3.06, 1.0µm"
+    "16 MP, f/2.0, 27mm (wide), 1/3.06, 1.0\u00b5m"
    ],
    [
     "Battery",
@@ -22807,7 +22807,7 @@
   ],
   "slug": "lg-k92-5g",
   "source": "",
-  "tag": "6.7\" display · Qualcomm SM6350 Snapdragon 690 5G · 6 GB RAM · 4000 mAh",
+  "tag": "6.7\" display \u00b7 Qualcomm SM6350 Snapdragon 690 5G \u00b7 6 GB RAM \u00b7 4000 mAh",
   "year": 2020
  },
  {
@@ -22898,7 +22898,7 @@
   ],
   "slug": "lg-w11",
   "source": "",
-  "tag": "6.52\" display · Mediatek MT6762 Helio P22 · 3 GB RAM · 4000 mAh",
+  "tag": "6.52\" display \u00b7 Mediatek MT6762 Helio P22 \u00b7 3 GB RAM \u00b7 4000 mAh",
   "year": 2020
  },
  {
@@ -22948,7 +22948,7 @@
    ],
    [
     "Main Camera",
-    "13 MP, (wide), 1/3.0\", 1.12µm, PDAF"
+    "13 MP, (wide), 1/3.0\", 1.12\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
@@ -22989,7 +22989,7 @@
   ],
   "slug": "lg-w31",
   "source": "",
-  "tag": "6.52\" display · Mediatek MT6762 Helio P22 · 4 GB RAM · 4000 mAh",
+  "tag": "6.52\" display \u00b7 Mediatek MT6762 Helio P22 \u00b7 4 GB RAM \u00b7 4000 mAh",
   "year": 2020
  },
  {
@@ -23039,11 +23039,11 @@
    ],
    [
     "Main Camera",
-    "48 MP, f/1.8, (wide), 1/2.0\", 0.8µm, PDAF"
+    "48 MP, f/1.8, (wide), 1/2.0\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "8 MP, (wide), 1/4.0\", 1.12µm"
+    "8 MP, (wide), 1/4.0\", 1.12\u00b5m"
    ],
    [
     "Battery",
@@ -23080,7 +23080,7 @@
   ],
   "slug": "lg-w41-pro",
   "source": "",
-  "tag": "6.55\" display · Mediatek MT6765G Helio G35 · 6 GB RAM · 5000 mAh",
+  "tag": "6.55\" display \u00b7 Mediatek MT6765G Helio G35 \u00b7 6 GB RAM \u00b7 5000 mAh",
   "year": 2021
  },
  {
@@ -23175,7 +23175,7 @@
   ],
   "slug": "lenovo-tab-m9",
   "source": "",
-  "tag": "9.0\" display · Mediatek MT6769V/CU Helio G80 · 3 / 4 GB RAM · 5100 mAh",
+  "tag": "9.0\" display \u00b7 Mediatek MT6769V/CU Helio G80 \u00b7 3 / 4 GB RAM \u00b7 5100 mAh",
   "year": 2022
  },
  {
@@ -23270,7 +23270,7 @@
   ],
   "slug": "lenovo-tab-k11+",
   "source": "",
-  "tag": "11.45\" display · Qualcomm SM6225 Snapdragon 680 4G · 4 / 6 / 8 GB RAM · 8600 mAh",
+  "tag": "11.45\" display \u00b7 Qualcomm SM6225 Snapdragon 680 4G \u00b7 4 / 6 / 8 GB RAM \u00b7 8600 mAh",
   "year": 2024
  },
  {
@@ -23320,11 +23320,11 @@
    ],
    [
     "Main Camera",
-    "48 MP, f/1.8, 28mm (wide), 1/2.0\", 0.8µm, PDAF"
+    "48 MP, f/1.8, 28mm (wide), 1/2.0\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "20 MP, f/2.0, (wide), 1/3\", 0.9µm"
+    "20 MP, f/2.0, (wide), 1/3\", 0.9\u00b5m"
    ],
    [
     "Battery",
@@ -23365,7 +23365,7 @@
   ],
   "slug": "xiaomi-black-shark-2-pro",
   "source": "",
-  "tag": "6.39\" display · Qualcomm SM8150 Snapdragon 855+ · 8 / 12 GB RAM · 4000 mAh",
+  "tag": "6.39\" display \u00b7 Qualcomm SM8150 Snapdragon 855+ \u00b7 8 / 12 GB RAM \u00b7 4000 mAh",
   "year": 2019
  },
  {
@@ -23415,11 +23415,11 @@
    ],
    [
     "Main Camera",
-    "8 MP, f/2.0, 1/4.0\", 1.12µm, AF"
+    "8 MP, f/2.0, 1/4.0\", 1.12\u00b5m, AF"
    ],
    [
     "Selfie Camera",
-    "5 MP, f/2.2, 1/5.0\", 1.12µm"
+    "5 MP, f/2.2, 1/5.0\", 1.12\u00b5m"
    ],
    [
     "Battery",
@@ -23456,7 +23456,7 @@
   ],
   "slug": "xiaomi-redmi-go",
   "source": "",
-  "tag": "5.0\" display · Qualcomm MSM8917 Snapdragon 425 · 1 GB RAM · 3000 mAh",
+  "tag": "5.0\" display \u00b7 Qualcomm MSM8917 Snapdragon 425 \u00b7 1 GB RAM \u00b7 3000 mAh",
   "year": 2019
  },
  {
@@ -23535,7 +23535,7 @@
   ],
   "slug": "xiaomi-mi-watch",
   "source": "",
-  "tag": "1.78\" display · Qualcomm Snapdragon Wear 3100 · 1 GB RAM · 590 mAh",
+  "tag": "1.78\" display \u00b7 Qualcomm Snapdragon Wear 3100 \u00b7 1 GB RAM \u00b7 590 mAh",
   "year": 2019
  },
  {
@@ -23626,7 +23626,7 @@
   ],
   "slug": "sony-xperia-z-ultra",
   "source": "",
-  "tag": "6.4\" display · Qualcomm MSM8274 or MSM8974 Snapdragon 800 · 2 GB RAM · 3050 mAh",
+  "tag": "6.4\" display \u00b7 Qualcomm MSM8274 or MSM8974 Snapdragon 800 \u00b7 2 GB RAM \u00b7 3050 mAh",
   "year": 2013
  },
  {
@@ -23712,7 +23712,7 @@
   ],
   "slug": "huawei-u8510-ideos-x3",
   "source": "",
-  "tag": "3.2\" display · Qualcomm MSM7227 Snapdragon S1 · 1200 mAh",
+  "tag": "3.2\" display \u00b7 Qualcomm MSM7227 Snapdragon S1 \u00b7 1200 mAh",
   "year": 2011
  },
  {
@@ -23790,7 +23790,7 @@
   ],
   "slug": "huawei-activa-4g",
   "source": "",
-  "tag": "3.5\" display · Qualcomm MSM7627T · 1880 mAh",
+  "tag": "3.5\" display \u00b7 Qualcomm MSM7627T \u00b7 1880 mAh",
   "year": 2012
  },
  {
@@ -23872,7 +23872,7 @@
   ],
   "slug": "huawei-ascend-g300",
   "source": "",
-  "tag": "4.0\" display · Qualcomm MSM7227A Snapdragon S1 · 1500 mAh",
+  "tag": "4.0\" display \u00b7 Qualcomm MSM7227A Snapdragon S1 \u00b7 1500 mAh",
   "year": 2012
  },
  {
@@ -23963,7 +23963,7 @@
   ],
   "slug": "huawei-ascend-mate",
   "source": "",
-  "tag": "6.1\" display · Huawei K3V2 · 2 GB RAM · 4050 mAh",
+  "tag": "6.1\" display \u00b7 Huawei K3V2 \u00b7 2 GB RAM \u00b7 4050 mAh",
   "year": 2013
  },
  {
@@ -24049,7 +24049,7 @@
   ],
   "slug": "huawei-ascend-y511",
   "source": "",
-  "tag": "4.5\" display · Mediatek MT6572 · 1730 mAh",
+  "tag": "4.5\" display \u00b7 Mediatek MT6572 \u00b7 1730 mAh",
   "year": 2013
  },
  {
@@ -24140,7 +24140,7 @@
   ],
   "slug": "huawei-ascend-p6-s",
   "source": "",
-  "tag": "4.7\" display · Quad-core 1.6 GHz · 2 GB RAM · 2000 mAh",
+  "tag": "4.7\" display \u00b7 Quad-core 1.6 GHz \u00b7 2 GB RAM \u00b7 2000 mAh",
   "year": 2014
  },
  {
@@ -24231,7 +24231,7 @@
   ],
   "slug": "huawei-y625",
   "source": "",
-  "tag": "5.0\" display · Qualcomm MSM8212 Snapdragon 200 · 1 GB RAM · 2000 mAh",
+  "tag": "5.0\" display \u00b7 Qualcomm MSM8212 Snapdragon 200 \u00b7 1 GB RAM \u00b7 2000 mAh",
   "year": 2015
  },
  {
@@ -24326,7 +24326,7 @@
   ],
   "slug": "huawei-p-smart+-2019",
   "source": "",
-  "tag": "6.21\" display · Kirin 710 · 3 / 6 GB RAM · 3400 mAh",
+  "tag": "6.21\" display \u00b7 Kirin 710 \u00b7 3 / 6 GB RAM \u00b7 3400 mAh",
   "year": 2018
  },
  {
@@ -24422,7 +24422,7 @@
   ],
   "slug": "huawei-y6s",
   "source": "",
-  "tag": "6.09\" display · Mediatek MT6765 Helio P35 · 3 GB RAM · 3020 mAh",
+  "tag": "6.09\" display \u00b7 Mediatek MT6765 Helio P35 \u00b7 3 GB RAM \u00b7 3020 mAh",
   "year": 2020
  },
  {
@@ -24504,7 +24504,7 @@
   ],
   "slug": "sony-xperia-sola",
   "source": "",
-  "tag": "3.7\" display · NovaThor U8500 · 1320 mAh",
+  "tag": "3.7\" display \u00b7 NovaThor U8500 \u00b7 1320 mAh",
   "year": 2012
  },
  {
@@ -24595,7 +24595,7 @@
   ],
   "slug": "sony-xperia-p",
   "source": "",
-  "tag": "4.0\" display · NovaThor U8500 · 1 GB RAM · 1305 mAh",
+  "tag": "4.0\" display \u00b7 NovaThor U8500 \u00b7 1 GB RAM \u00b7 1305 mAh",
   "year": 2012
  },
  {
@@ -24686,7 +24686,7 @@
   ],
   "slug": "sony-xperia-acro-s",
   "source": "",
-  "tag": "4.3\" display · Qualcomm MSM8260 Snapdragon S3 · 1 GB RAM · 1910 mAh",
+  "tag": "4.3\" display \u00b7 Qualcomm MSM8260 Snapdragon S3 \u00b7 1 GB RAM \u00b7 1910 mAh",
   "year": 2012
  },
  {
@@ -24764,7 +24764,7 @@
   ],
   "slug": "sony-xperia-neo-l",
   "source": "",
-  "tag": "4.0\" display · Qualcomm MSM8255 Snapdragon S2 · 1500 mAh",
+  "tag": "4.0\" display \u00b7 Qualcomm MSM8255 Snapdragon S2 \u00b7 1500 mAh",
   "year": 2012
  },
  {
@@ -24846,7 +24846,7 @@
   ],
   "slug": "sony-xperia-go",
   "source": "",
-  "tag": "3.5\" display · NovaThor U8500 · 1305 mAh",
+  "tag": "3.5\" display \u00b7 NovaThor U8500 \u00b7 1305 mAh",
   "year": 2012
  },
  {
@@ -24937,7 +24937,7 @@
   ],
   "slug": "sony-xperia-sl",
   "source": "",
-  "tag": "4.3\" display · Qualcomm MSM8260 Snapdragon S3 · 1 GB RAM · 1750 mAh",
+  "tag": "4.3\" display \u00b7 Qualcomm MSM8260 Snapdragon S3 \u00b7 1 GB RAM \u00b7 1750 mAh",
   "year": 2012
  },
  {
@@ -25019,7 +25019,7 @@
   ],
   "slug": "sony-xperia-tipo",
   "source": "",
-  "tag": "3.2\" display · Qualcomm MSM7225AA Snapdragon S1 · 1500 mAh",
+  "tag": "3.2\" display \u00b7 Qualcomm MSM7225AA Snapdragon S1 \u00b7 1500 mAh",
   "year": 2012
  },
  {
@@ -25053,7 +25053,7 @@
    ],
    [
     "Operating System",
-    "Android 4.0.4 (Ice Cream Sandwich), upgradаble to 4.3 (Jelly Bean)"
+    "Android 4.0.4 (Ice Cream Sandwich), upgrad\u0430ble to 4.3 (Jelly Bean)"
    ],
    [
     "Chipset",
@@ -25110,7 +25110,7 @@
   ],
   "slug": "sony-xperia-tx",
   "source": "",
-  "tag": "4.55\" display · Qualcomm MSM8260A Snapdragon S4 Plus · 1 GB RAM · 1750 mAh",
+  "tag": "4.55\" display \u00b7 Qualcomm MSM8260A Snapdragon S4 Plus \u00b7 1 GB RAM \u00b7 1750 mAh",
   "year": 2012
  },
  {
@@ -25205,7 +25205,7 @@
   ],
   "slug": "huawei-nova-8-se-youth",
   "source": "",
-  "tag": "6.6\" display · Kirin 710A · 8 GB RAM · 4000 mAh",
+  "tag": "6.6\" display \u00b7 Kirin 710A \u00b7 8 GB RAM \u00b7 4000 mAh",
   "year": 2021
  },
  {
@@ -25291,7 +25291,7 @@
   ],
   "slug": "huawei-nova-10z",
   "source": "",
-  "tag": "6.6\" display · 8 GB RAM · 4000 mAh",
+  "tag": "6.6\" display \u00b7 8 GB RAM \u00b7 4000 mAh",
   "year": 2022
  },
  {
@@ -25386,7 +25386,7 @@
   ],
   "slug": "sony-xperia-z2a",
   "source": "",
-  "tag": "5.0\" display · Qualcomm MSM8974AB Snapdragon 801 · 3 GB RAM · 3000 mAh",
+  "tag": "5.0\" display \u00b7 Qualcomm MSM8974AB Snapdragon 801 \u00b7 3 GB RAM \u00b7 3000 mAh",
   "year": 2014
  },
  {
@@ -25477,7 +25477,7 @@
   ],
   "slug": "sony-xperia-e4g-dual",
   "source": "",
-  "tag": "4.7\" display · MediaTek MT6732 · 1 GB RAM · 2300 mAh",
+  "tag": "4.7\" display \u00b7 MediaTek MT6732 \u00b7 1 GB RAM \u00b7 2300 mAh",
   "year": 2015
  },
  {
@@ -25576,7 +25576,7 @@
   ],
   "slug": "sony-xperia-z5-dual",
   "source": "",
-  "tag": "5.2\" display · Qualcomm MSM8994 Snapdragon 810 · 3 GB RAM · 2900 mAh",
+  "tag": "5.2\" display \u00b7 Qualcomm MSM8994 Snapdragon 810 \u00b7 3 GB RAM \u00b7 2900 mAh",
   "year": 2015
  },
  {
@@ -25670,7 +25670,7 @@
   ],
   "slug": "huawei-nova-11-ultra",
   "source": "",
-  "tag": "6.78\" display · Qualcomm SM7325 Snapdragon 778G 4G · 4500 mAh",
+  "tag": "6.78\" display \u00b7 Qualcomm SM7325 Snapdragon 778G 4G \u00b7 4500 mAh",
   "year": 2023
  },
  {
@@ -25761,7 +25761,7 @@
   ],
   "slug": "huawei-nova-y71",
   "source": "",
-  "tag": "6.75\" display · Kirin 710A · 8 GB RAM · 6000 mAh",
+  "tag": "6.75\" display \u00b7 Kirin 710A \u00b7 8 GB RAM \u00b7 6000 mAh",
   "year": 2023
  },
  {
@@ -25848,7 +25848,7 @@
   ],
   "slug": "huawei-matepad-se-11",
   "source": "",
-  "tag": "11.0\" display · 4 / 6 / 8 GB RAM · 7700 mAh",
+  "tag": "11.0\" display \u00b7 4 / 6 / 8 GB RAM \u00b7 7700 mAh",
   "year": 2024
  },
  {
@@ -25935,7 +25935,7 @@
   ],
   "slug": "nokia-lumia-638",
   "source": "",
-  "tag": "4.5\" display · Qualcomm Snapdragon 400 · 1 GB RAM · 1830 mAh",
+  "tag": "4.5\" display \u00b7 Qualcomm Snapdragon 400 \u00b7 1 GB RAM \u00b7 1830 mAh",
   "year": 2014
  },
  {
@@ -26021,7 +26021,7 @@
   ],
   "slug": "nokia-701",
   "source": "",
-  "tag": "3.5\" display · 1.0 GHz ARM11 · 1300 mAh",
+  "tag": "3.5\" display \u00b7 1.0 GHz ARM11 \u00b7 1300 mAh",
   "year": 2011
  },
  {
@@ -26078,7 +26078,7 @@
   ],
   "slug": "nokia-7900-prism",
   "source": "",
-  "tag": "2.0\" display · 850 mAh",
+  "tag": "2.0\" display \u00b7 850 mAh",
   "year": 2007
  },
  {
@@ -26139,7 +26139,7 @@
   ],
   "slug": "nokia-6136",
   "source": "",
-  "tag": "1.8\" display · 820 mAh",
+  "tag": "1.8\" display \u00b7 820 mAh",
   "year": 2006
  },
  {
@@ -26204,7 +26204,7 @@
   ],
   "slug": "nokia-6708",
   "source": "",
-  "tag": "2.7\" display · TI OMAP 1510",
+  "tag": "2.7\" display \u00b7 TI OMAP 1510",
   "year": 2005
  },
  {
@@ -26265,7 +26265,7 @@
   ],
   "slug": "nokia-6282",
   "source": "",
-  "tag": "2.2\" display · 970 mAh",
+  "tag": "2.2\" display \u00b7 970 mAh",
   "year": 2005
  },
  {
@@ -26330,7 +26330,7 @@
   ],
   "slug": "nokia-6131-nfc",
   "source": "",
-  "tag": "2.2\" display · 860 mAh",
+  "tag": "2.2\" display \u00b7 860 mAh",
   "year": 2007
  },
  {
@@ -26408,7 +26408,7 @@
   ],
   "slug": "nokia-n93",
   "source": "",
-  "tag": "2.4\" display · 332 MHz Dual ARM 11 · 1100 mAh",
+  "tag": "2.4\" display \u00b7 332 MHz Dual ARM 11 \u00b7 1100 mAh",
   "year": 2006
  },
  {
@@ -26473,7 +26473,7 @@
   ],
   "slug": "nokia-6300i",
   "source": "",
-  "tag": "2.0\" display · 860 mAh",
+  "tag": "2.0\" display \u00b7 860 mAh",
   "year": 2008
  },
  {
@@ -26538,7 +26538,7 @@
   ],
   "slug": "nokia-6212-classic",
   "source": "",
-  "tag": "2.0\" display · 1000 mAh",
+  "tag": "2.0\" display \u00b7 1000 mAh",
   "year": 2008
  },
  {
@@ -26615,7 +26615,7 @@
   ],
   "slug": "nokia-6260-slide",
   "source": "",
-  "tag": "2.4\" display · 950 mAh",
+  "tag": "2.4\" display \u00b7 950 mAh",
   "year": 2008
  },
  {
@@ -26701,7 +26701,7 @@
   ],
   "slug": "nokia-6710-navigator",
   "source": "",
-  "tag": "2.6\" display · 600 MHz ARM 11 · 950 mAh",
+  "tag": "2.6\" display \u00b7 600 MHz ARM 11 \u00b7 950 mAh",
   "year": 2009
  },
  {
@@ -26787,7 +26787,7 @@
   ],
   "slug": "nokia-e55",
   "source": "",
-  "tag": "2.4\" display · 600 MHz ARM 11 · 1500 mAh",
+  "tag": "2.4\" display \u00b7 600 MHz ARM 11 \u00b7 1500 mAh",
   "year": 2009
  },
  {
@@ -26873,7 +26873,7 @@
   ],
   "slug": "nokia-5730-xpressmusic",
   "source": "",
-  "tag": "2.4\" display · 369 MHz ARM 11 · 1000 mAh",
+  "tag": "2.4\" display \u00b7 369 MHz ARM 11 \u00b7 1000 mAh",
   "year": 2009
  },
  {
@@ -26938,7 +26938,7 @@
   ],
   "slug": "nokia-6216-classic",
   "source": "",
-  "tag": "2.0\" display · 1000 mAh",
+  "tag": "2.0\" display \u00b7 1000 mAh",
   "year": 2009
  },
  {
@@ -27011,7 +27011,7 @@
   ],
   "slug": "nokia-6760-slide",
   "source": "",
-  "tag": "2.4\" display · 1500 mAh",
+  "tag": "2.4\" display \u00b7 1500 mAh",
   "year": 2009
  },
  {
@@ -27101,7 +27101,7 @@
   ],
   "slug": "nokia-n900",
   "source": "",
-  "tag": "3.5\" display · TI OMAP 3430 · 1320 mAh",
+  "tag": "3.5\" display \u00b7 TI OMAP 3430 \u00b7 1320 mAh",
   "year": 2009
  },
  {
@@ -27187,7 +27187,7 @@
   ],
   "slug": "nokia-702t",
   "source": "",
-  "tag": "2.46\" display · 680 MHz ARM 11 · 1200 mAh",
+  "tag": "2.46\" display \u00b7 680 MHz ARM 11 \u00b7 1200 mAh",
   "year": 2011
  },
  {
@@ -27265,7 +27265,7 @@
   ],
   "slug": "nokia-c5-04",
   "source": "",
-  "tag": "3.2\" display · 600 MHz · 1000 mAh",
+  "tag": "3.2\" display \u00b7 600 MHz \u00b7 1000 mAh",
   "year": 2011
  },
  {
@@ -27330,7 +27330,7 @@
   ],
   "slug": "nokia-asha-210",
   "source": "",
-  "tag": "2.4\" display · 1200 mAh",
+  "tag": "2.4\" display \u00b7 1200 mAh",
   "year": 2013
  },
  {
@@ -27413,7 +27413,7 @@
   ],
   "slug": "nokia-nokia-x",
   "source": "",
-  "tag": "4.0\" display · Qualcomm MSM8225 Snapdragon S4 Play · 1500 mAh",
+  "tag": "4.0\" display \u00b7 Qualcomm MSM8225 Snapdragon S4 Play \u00b7 1500 mAh",
   "year": 2014
  },
  {
@@ -27463,11 +27463,11 @@
    ],
    [
     "Main Camera",
-    "13 MP, f/2.2, 1/3.1\", 1.12µm, AF"
+    "13 MP, f/2.2, 1/3.1\", 1.12\u00b5m, AF"
    ],
    [
     "Selfie Camera",
-    "5 MP, f/2.2, 27mm (wide), 1/5.0\", 1.12µm"
+    "5 MP, f/2.2, 27mm (wide), 1/5.0\", 1.12\u00b5m"
    ],
    [
     "Battery",
@@ -27508,7 +27508,7 @@
   ],
   "slug": "nokia-3-v",
   "source": "",
-  "tag": "6.26\" display · Qualcomm SDM429 Snapdragon 429 · 2 GB RAM · 4000 mAh",
+  "tag": "6.26\" display \u00b7 Qualcomm SDM429 Snapdragon 429 \u00b7 2 GB RAM \u00b7 4000 mAh",
   "year": 2020
  },
  {
@@ -27604,7 +27604,7 @@
   ],
   "slug": "nokia-3.1-c",
   "source": "",
-  "tag": "5.45\" display · Qualcomm SDM429 Snapdragon 429 · 2 GB RAM · 2990 mAh",
+  "tag": "5.45\" display \u00b7 Qualcomm SDM429 Snapdragon 429 \u00b7 2 GB RAM \u00b7 2990 mAh",
   "year": 2019
  },
  {
@@ -27699,7 +27699,7 @@
   ],
   "slug": "nokia-c2-tennen",
   "source": "",
-  "tag": "5.45\" display · Mediatek MT6761 Helio A22 · 2 GB RAM · 3000 mAh",
+  "tag": "5.45\" display \u00b7 Mediatek MT6761 Helio A22 \u00b7 2 GB RAM \u00b7 3000 mAh",
   "year": 2020
  },
  {
@@ -27749,11 +27749,11 @@
    ],
    [
     "Main Camera",
-    "64 MP, f/1.8, (wide), 1/1.72\", 0.8µm, PDAF"
+    "64 MP, f/1.8, (wide), 1/1.72\", 0.8\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "24 MP, f/2.0, (wide), 1/2.8\", 0.9µm"
+    "24 MP, f/2.0, (wide), 1/2.8\", 0.9\u00b5m"
    ],
    [
     "Battery",
@@ -27794,7 +27794,7 @@
   ],
   "slug": "nokia-8-v-5g-uw",
   "source": "",
-  "tag": "6.81\" display · Qualcomm SM7250 Snapdragon 765G 5G · 6 GB RAM · 4500 mAh",
+  "tag": "6.81\" display \u00b7 Qualcomm SM7250 Snapdragon 765G 5G \u00b7 6 GB RAM \u00b7 4500 mAh",
   "year": 2020
  },
  {
@@ -27885,7 +27885,7 @@
   ],
   "slug": "nokia-g310-5g",
   "source": "",
-  "tag": "6.56\" display · Qualcomm SM4350-AC Snapdragon 480+ 5G · 4 GB RAM · 5000 mAh",
+  "tag": "6.56\" display \u00b7 Qualcomm SM4350-AC Snapdragon 480+ 5G \u00b7 4 GB RAM \u00b7 5000 mAh",
   "year": 2023
  },
  {
@@ -27935,7 +27935,7 @@
    ],
    [
     "Main Camera",
-    "19 MP, f/2.0, 25mm (wide), 1/2.3\", 1.22µm, predictive PDAF"
+    "19 MP, f/2.0, 25mm (wide), 1/2.3\", 1.22\u00b5m, predictive PDAF"
    ],
    [
     "Selfie Camera",
@@ -27980,7 +27980,7 @@
   ],
   "slug": "sony-xperia-xz1-compact",
   "source": "",
-  "tag": "4.6\" display · Qualcomm MSM8998 Snapdragon 835 · 4 GB RAM · 2700 mAh",
+  "tag": "4.6\" display \u00b7 Qualcomm MSM8998 Snapdragon 835 \u00b7 4 GB RAM \u00b7 2700 mAh",
   "year": 2017
  },
  {
@@ -28072,7 +28072,7 @@
   ],
   "slug": "sony-xperia-r1",
   "source": "",
-  "tag": "5.2\" display · Qualcomm MSM8937 Snapdragon 430 · 2 / 3 GB RAM · 2620 mAh",
+  "tag": "5.2\" display \u00b7 Qualcomm MSM8937 Snapdragon 430 \u00b7 2 / 3 GB RAM \u00b7 2620 mAh",
   "year": 2017
  },
  {
@@ -28163,7 +28163,7 @@
   ],
   "slug": "sony-xperia-10-iii-lite",
   "source": "",
-  "tag": "6.0\" display · Qualcomm SM6350 Snapdragon 690 5G · 6 GB RAM · 4500 mAh",
+  "tag": "6.0\" display \u00b7 Qualcomm SM6350 Snapdragon 690 5G \u00b7 6 GB RAM \u00b7 4500 mAh",
   "year": 2021
  },
  {
@@ -28250,7 +28250,7 @@
   ],
   "slug": "samsung-galaxy-j",
   "source": "",
-  "tag": "5.0\" display · Qualcomm MSM8974 Snapdragon 800 · 3 GB RAM · 2600 mAh",
+  "tag": "5.0\" display \u00b7 Qualcomm MSM8974 Snapdragon 800 \u00b7 3 GB RAM \u00b7 2600 mAh",
   "year": 2013
  },
  {
@@ -28410,7 +28410,7 @@
   ],
   "slug": "samsung-e350",
   "source": "",
-  "tag": "1.6\" display · 800 mAh",
+  "tag": "1.6\" display \u00b7 800 mAh",
   "year": 2005
  },
  {
@@ -28635,7 +28635,7 @@
   ],
   "slug": "samsung-z650i",
   "source": "",
-  "tag": "2.2\" display · 900 mAh",
+  "tag": "2.2\" display \u00b7 900 mAh",
   "year": 2006
  },
  {
@@ -28781,7 +28781,7 @@
   ],
   "slug": "samsung-i8510-innov8",
   "source": "",
-  "tag": "2.8\" display · 330 MHz ARM 11 · 1200 mAh",
+  "tag": "2.8\" display \u00b7 330 MHz ARM 11 \u00b7 1200 mAh",
   "year": 2008
  },
  {
@@ -28846,7 +28846,7 @@
   ],
   "slug": "samsung-m3510-beat-b",
   "source": "",
-  "tag": "2.0\" display · 800 mAh",
+  "tag": "2.0\" display \u00b7 800 mAh",
   "year": 2008
  },
  {
@@ -28907,7 +28907,7 @@
   ],
   "slug": "samsung-m7500-emporio-armani",
   "source": "",
-  "tag": "2.2\" display · 960 mAh",
+  "tag": "2.2\" display \u00b7 960 mAh",
   "year": 2008
  },
  {
@@ -28981,7 +28981,7 @@
   ],
   "slug": "samsung-m8800-pixon",
   "source": "",
-  "tag": "3.2\" display · Qualcomm MSM6281 · 1000 mAh",
+  "tag": "3.2\" display \u00b7 Qualcomm MSM6281 \u00b7 1000 mAh",
   "year": 2008
  },
  {
@@ -29042,7 +29042,7 @@
   ],
   "slug": "samsung-a867-eternity",
   "source": "",
-  "tag": "3.2\" display · 1330 mAh",
+  "tag": "3.2\" display \u00b7 1330 mAh",
   "year": 2008
  },
  {
@@ -29115,7 +29115,7 @@
   ],
   "slug": "samsung-m7600-beat-dj",
   "source": "",
-  "tag": "2.8\" display · 960 mAh",
+  "tag": "2.8\" display \u00b7 960 mAh",
   "year": 2009
  },
  {
@@ -29189,7 +29189,7 @@
   ],
   "slug": "samsung-s8300-ultratouch",
   "source": "",
-  "tag": "2.8\" display · Qualcomm MSM6281 · 880 mAh",
+  "tag": "2.8\" display \u00b7 Qualcomm MSM6281 \u00b7 880 mAh",
   "year": 2009
  },
  {
@@ -29275,7 +29275,7 @@
   ],
   "slug": "samsung-i8910-omnia-hd",
   "source": "",
-  "tag": "3.7\" display · 600 MHz Cortex-A8 · 1500 mAh",
+  "tag": "3.7\" display \u00b7 600 MHz Cortex-A8 \u00b7 1500 mAh",
   "year": 2009
  },
  {
@@ -29344,7 +29344,7 @@
   ],
   "slug": "samsung-s5600-preston",
   "source": "",
-  "tag": "2.8\" display · 1000 mAh",
+  "tag": "2.8\" display \u00b7 1000 mAh",
   "year": 2009
  },
  {
@@ -29406,7 +29406,7 @@
   ],
   "slug": "samsung-gravity-txt-t379",
   "source": "",
-  "tag": "2.44\" display · 1000 mAh",
+  "tag": "2.44\" display \u00b7 1000 mAh",
   "year": 2011
  },
  {
@@ -29488,7 +29488,7 @@
   ],
   "slug": "samsung-galaxy-m-style-m340s",
   "source": "",
-  "tag": "4.0\" display · 1.0 GHz Cortex-A8 · 1650 mAh",
+  "tag": "4.0\" display \u00b7 1.0 GHz Cortex-A8 \u00b7 1650 mAh",
   "year": 2012
  },
  {
@@ -29538,11 +29538,11 @@
    ],
    [
     "Main Camera",
-    "12 MP, f/1.7, 26mm (wide), 1/2.55\", 1.4µm, dual pixel PDAF, OIS"
+    "12 MP, f/1.7, 26mm (wide), 1/2.55\", 1.4\u00b5m, dual pixel PDAF, OIS"
    ],
    [
     "Selfie Camera",
-    "8 MP, f/1.7, 25mm (wide), 1/3.6\", 1.22µm, AF"
+    "8 MP, f/1.7, 25mm (wide), 1/3.6\", 1.22\u00b5m, AF"
    ],
    [
     "Battery",
@@ -29579,7 +29579,7 @@
   ],
   "slug": "samsung-galaxy-note8",
   "source": "",
-  "tag": "6.3\" display · Exynos 8895 · 6 GB RAM · 3300 mAh",
+  "tag": "6.3\" display \u00b7 Exynos 8895 \u00b7 6 GB RAM \u00b7 3300 mAh",
   "year": 2017
  },
  {
@@ -29633,7 +29633,7 @@
    ],
    [
     "Selfie Camera",
-    "12 MP, f/2.0, (wide), 1/2.8\", 1.25µm"
+    "12 MP, f/2.0, (wide), 1/2.8\", 1.25\u00b5m"
    ],
    [
     "Battery",
@@ -29670,7 +29670,7 @@
   ],
   "slug": "samsung-galaxy-a6s",
   "source": "",
-  "tag": "6.0\" display · Qualcomm SDM660 Snapdragon 660 · 6 GB RAM · 3300 mAh",
+  "tag": "6.0\" display \u00b7 Qualcomm SDM660 Snapdragon 660 \u00b7 6 GB RAM \u00b7 3300 mAh",
   "year": 2018
  },
  {
@@ -29743,7 +29743,7 @@
   ],
   "slug": "apple-watch-series-10",
   "source": "",
-  "tag": "1.96\" display · Apple S10",
+  "tag": "1.96\" display \u00b7 Apple S10",
   "year": 2024
  },
  {
@@ -29793,11 +29793,11 @@
    ],
    [
     "Main Camera",
-    "108 MP, f/1.9, (wide), 1/1.52\", 0.7µm, PDAF"
+    "108 MP, f/1.9, (wide), 1/1.52\", 0.7\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "32 MP, f/2.3, (wide), 0.7µm"
+    "32 MP, f/2.3, (wide), 0.7\u00b5m"
    ],
    [
     "Battery",
@@ -29834,7 +29834,7 @@
   ],
   "slug": "motorola-edge-(2021)",
   "source": "",
-  "tag": "6.8\" display · Qualcomm SM7325 Snapdragon 778G 5G · 8 GB RAM · 5000 mAh",
+  "tag": "6.8\" display \u00b7 Qualcomm SM7325 Snapdragon 778G 5G \u00b7 8 GB RAM \u00b7 5000 mAh",
   "year": 2021
  },
  {
@@ -29926,7 +29926,7 @@
   ],
   "slug": "sparx-neo-15-ultra",
   "source": "",
-  "tag": "6.75\" display · MediaTek · 6 GB RAM · 5000 mAh",
+  "tag": "6.75\" display \u00b7 MediaTek \u00b7 6 GB RAM \u00b7 5000 mAh",
   "year": null
  },
  {
@@ -30018,7 +30018,7 @@
   ],
   "slug": "sparx-neo-15",
   "source": "",
-  "tag": "6.56\" display · MediaTek · 4 GB RAM · 4500 mAh",
+  "tag": "6.56\" display \u00b7 MediaTek \u00b7 4 GB RAM \u00b7 4500 mAh",
   "year": null
  },
  {
@@ -30110,7 +30110,7 @@
   ],
   "slug": "sparx-neo-15-pro",
   "source": "",
-  "tag": "6.79\" display · MediaTek · 4 GB RAM · 5000 mAh",
+  "tag": "6.79\" display \u00b7 MediaTek \u00b7 4 GB RAM \u00b7 5000 mAh",
   "year": null
  },
  {
@@ -30196,7 +30196,7 @@
   ],
   "slug": "hmd-touch-4g",
   "source": "",
-  "tag": "Unisoc T127 · 13 GB RAM · 1950 mAh",
+  "tag": "Unisoc T127 \u00b7 13 GB RAM \u00b7 1950 mAh",
   "year": 2025
  },
  {
@@ -30253,11 +30253,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.6-ƒ/4 (Wide Angle) 23mm (wide), 1.0\"-type, dual pixel PDAF, OIS 48 MP ƒ/2.1 (Telephoto) 93mm (telephoto), PDAF (5cm - 8), OIS, 4x optical zoom 40 MP ƒ/2.2 (Ultra Wide) 13mm (ultrawide), AF"
+    "50 MP \u0192/1.6-\u0192/4 (Wide Angle) 23mm (wide), 1.0\"-type, dual pixel PDAF, OIS 48 MP \u0192/2.1 (Telephoto) 93mm (telephoto), PDAF (5cm - 8), OIS, 4x optical zoom 40 MP \u0192/2.2 (Ultra Wide) 13mm (ultrawide), AF"
    ],
    [
     "Selfie Camera",
-    "13 MP ƒ/2 (Ultra Wide) Punch Hole, Screen Flash"
+    "13 MP \u0192/2 (Ultra Wide) Punch Hole, Screen Flash"
    ],
    [
     "Battery",
@@ -30286,7 +30286,7 @@
   ],
   "slug": "huawei-lmr-al00",
   "source": "",
-  "tag": "Octa Core Processor · 12 GB RAM · 5700 mAh",
+  "tag": "Octa Core Processor \u00b7 12 GB RAM \u00b7 5700 mAh",
   "year": 2025
  },
  {
@@ -30364,7 +30364,7 @@
   ],
   "slug": "oukitel-wp5-pro",
   "source": "",
-  "tag": "Mediatek Helio P22 · 4 GB RAM · 8000 mAh",
+  "tag": "Mediatek Helio P22 \u00b7 4 GB RAM \u00b7 8000 mAh",
   "year": null
  },
  {
@@ -30450,7 +30450,7 @@
   ],
   "slug": "lava-blaze-amoled-2",
   "source": "",
-  "tag": "Mediatek Dimensity 7060 · 6 GB RAM · 5000 mAh",
+  "tag": "Mediatek Dimensity 7060 \u00b7 6 GB RAM \u00b7 5000 mAh",
   "year": 2025
  },
  {
@@ -30532,7 +30532,7 @@
   ],
   "slug": "tecno-pop-2s",
   "source": "",
-  "tag": "Mediatek Helio A22 · 2 GB RAM · 3500 mAh",
+  "tag": "Mediatek Helio A22 \u00b7 2 GB RAM \u00b7 3500 mAh",
   "year": 2019
  },
  {
@@ -30589,11 +30589,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.9 (Wide Angle) PDAF, OIS 2 MP ƒ/2.4 (Depth Sensor)"
+    "50 MP \u0192/1.9 (Wide Angle) PDAF, OIS 2 MP \u0192/2.4 (Depth Sensor)"
    ],
    [
     "Selfie Camera",
-    "16 MP ƒ/2.5 (Wide Angle) Punch Hole"
+    "16 MP \u0192/2.5 (Wide Angle) Punch Hole"
    ],
    [
     "Battery",
@@ -30626,7 +30626,7 @@
   ],
   "slug": "honor-agi-an00",
   "source": "",
-  "tag": "Qualcomm Snapdragon 8+ Gen1 · 12 GB RAM · 6300 mAh",
+  "tag": "Qualcomm Snapdragon 8+ Gen1 \u00b7 12 GB RAM \u00b7 6300 mAh",
   "year": 2025
  },
  {
@@ -30679,11 +30679,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.9 (Wide Angle) 24mm (wide), 1/1.56\", 1.0µm, PDAF, gimbal OIS 13 MP ƒ/2.2 (Ultra Wide) 13mm, 120° (ultrawide) 5 MP ƒ/2.4 (Macro)"
+    "50 MP \u0192/1.9 (Wide Angle) 24mm (wide), 1/1.56\", 1.0\u00b5m, PDAF, gimbal OIS 13 MP \u0192/2.2 (Ultra Wide) 13mm, 120\u00b0 (ultrawide) 5 MP \u0192/2.4 (Macro)"
    ],
    [
     "Selfie Camera",
-    "32 MP ƒ/2.5 (Wide Angle) Punch Hole"
+    "32 MP \u0192/2.5 (Wide Angle) Punch Hole"
    ],
    [
     "Battery",
@@ -30716,7 +30716,7 @@
   ],
   "slug": "asus-rog-phone-9",
   "source": "",
-  "tag": "Qualcomm Snapdragon 8 Elite · 12 GB RAM · 5800 mAh",
+  "tag": "Qualcomm Snapdragon 8 Elite \u00b7 12 GB RAM \u00b7 5800 mAh",
   "year": 2024
  },
  {
@@ -30790,7 +30790,7 @@
   ],
   "slug": "blackview-bv9000-pro",
   "source": "",
-  "tag": "MediaTek Helio MT6757CD · 6 GB RAM · 4180 mAh",
+  "tag": "MediaTek Helio MT6757CD \u00b7 6 GB RAM \u00b7 4180 mAh",
   "year": null
  },
  {
@@ -30834,11 +30834,11 @@
    ],
    [
     "Main Camera",
-    "13 MP ƒ/2.2 (Wide Angle) 2 MP"
+    "13 MP \u0192/2.2 (Wide Angle) 2 MP"
    ],
    [
     "Selfie Camera",
-    "5 MP ƒ/2.2 (Wide Angle)"
+    "5 MP \u0192/2.2 (Wide Angle)"
    ],
    [
     "Battery",
@@ -30871,7 +30871,7 @@
   ],
   "slug": "vivo-y04s",
   "source": "",
-  "tag": "4 GB RAM · 5100 mAh",
+  "tag": "4 GB RAM \u00b7 5100 mAh",
   "year": null
  },
  {
@@ -30928,11 +30928,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.4-ƒ/4 (Wide Angle) 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 12 MP ƒ/3.4 (Telephoto) 125mm (periscope telephoto), 1/3.6\", 1.0µm, PDAF, OIS, 5.5x optical zoom 12 MP ƒ/2.2 (Ultra Wide) 13mm, 120° (ultrawide), 1/2.9\", 1.24µm, PDAF"
+    "50 MP \u0192/1.4-\u0192/4 (Wide Angle) 24mm (wide), 1/1.56\", 1.0\u00b5m, PDAF, OIS 12 MP \u0192/3.4 (Telephoto) 125mm (periscope telephoto), 1/3.6\", 1.0\u00b5m, PDAF, OIS, 5.5x optical zoom 12 MP \u0192/2.2 (Ultra Wide) 13mm, 120\u00b0 (ultrawide), 1/2.9\", 1.24\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "8 MP ƒ/2.2 (Wide Angle)"
+    "8 MP \u0192/2.2 (Wide Angle)"
    ],
    [
     "Battery",
@@ -30961,7 +30961,7 @@
   ],
   "slug": "huawei-grl-al20",
   "source": "",
-  "tag": "HiSilicon Kirin 9020 · 16 GB RAM · 5600 mAh",
+  "tag": "HiSilicon Kirin 9020 \u00b7 16 GB RAM \u00b7 5600 mAh",
   "year": 2025
  },
  {
@@ -31018,11 +31018,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.9 (Wide Angle) 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS 64 MP ƒ/2.5 (Telephoto) PDAF, OIS, 3x optical zoom 50 MP ƒ/2 (Ultra Wide) 12mm, 122° (ultrawide), 1/2.88\", 0.61µm, dual pixel PDAF"
+    "50 MP \u0192/1.9 (Wide Angle) 24mm (wide), 1/1.56\", 1.0\u00b5m, multi-directional PDAF, OIS 64 MP \u0192/2.5 (Telephoto) PDAF, OIS, 3x optical zoom 50 MP \u0192/2 (Ultra Wide) 12mm, 122\u00b0 (ultrawide), 1/2.88\", 0.61\u00b5m, dual pixel PDAF"
    ],
    [
     "Selfie Camera",
-    "50 MP ƒ/2 (Wide Angle) Punch Hole"
+    "50 MP \u0192/2 (Wide Angle) Punch Hole"
    ],
    [
     "Battery",
@@ -31051,7 +31051,7 @@
   ],
   "slug": "honor-bkq-an00",
   "source": "",
-  "tag": "Qualcomm Snapdragon 8 Elite Gen 5 · 12 GB RAM · 7000 mAh",
+  "tag": "Qualcomm Snapdragon 8 Elite Gen 5 \u00b7 12 GB RAM \u00b7 7000 mAh",
   "year": 2025
  },
  {
@@ -31108,11 +31108,11 @@
    ],
    [
     "Main Camera",
-    "200 MP ƒ/1.9 (Wide Angle) 50 MP ƒ/2 (Ultra Wide)"
+    "200 MP \u0192/1.9 (Wide Angle) 50 MP \u0192/2 (Ultra Wide)"
    ],
    [
     "Selfie Camera",
-    "50 MP ƒ/2 (Wide Angle) Punch Hole"
+    "50 MP \u0192/2 (Wide Angle) Punch Hole"
    ],
    [
     "Battery",
@@ -31145,7 +31145,7 @@
   ],
   "slug": "honor-cle-an00",
   "source": "",
-  "tag": "Qualcomm Snapdragon 8 Gen3 · 12 GB RAM · 4800 mAh",
+  "tag": "Qualcomm Snapdragon 8 Gen3 \u00b7 12 GB RAM \u00b7 4800 mAh",
   "year": 2025
  },
  {
@@ -31223,7 +31223,7 @@
   ],
   "slug": "vivo-y29t-5g",
   "source": "",
-  "tag": "Octa Core Processor · 6 GB RAM · 5500 mAh",
+  "tag": "Octa Core Processor \u00b7 6 GB RAM \u00b7 5500 mAh",
   "year": null
  },
  {
@@ -31276,7 +31276,7 @@
    ],
    [
     "Selfie Camera",
-    "5 MP ƒ/2.2 (Main)"
+    "5 MP \u0192/2.2 (Main)"
    ],
    [
     "Battery",
@@ -31305,7 +31305,7 @@
   ],
   "slug": "htc-wildfire-e4+",
   "source": "",
-  "tag": "Unisoc T606 · 3 GB RAM · 5000 mAh",
+  "tag": "Unisoc T606 \u00b7 3 GB RAM \u00b7 5000 mAh",
   "year": null
  },
  {
@@ -31379,7 +31379,7 @@
   ],
   "slug": "oukitel-k10000-pro",
   "source": "",
-  "tag": "MediaTek Helio MT6750T · 3 GB RAM · 10000 mAh",
+  "tag": "MediaTek Helio MT6750T \u00b7 3 GB RAM \u00b7 10000 mAh",
   "year": 2017
  },
  {
@@ -31431,11 +31431,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.8 (Wide Angle) 26mm (wide), PDAF 2 MP ƒ/2.4 (Depth Sensor)"
+    "50 MP \u0192/1.8 (Wide Angle) 26mm (wide), PDAF 2 MP \u0192/2.4 (Depth Sensor)"
    ],
    [
     "Selfie Camera",
-    "8 MP ƒ/2 (Wide Angle)"
+    "8 MP \u0192/2 (Wide Angle)"
    ],
    [
     "Battery",
@@ -31464,7 +31464,7 @@
   ],
   "slug": "huawei-bre-al00a",
   "source": "",
-  "tag": "8 GB RAM · 6100 mAh",
+  "tag": "8 GB RAM \u00b7 6100 mAh",
   "year": 2025
  },
  {
@@ -31513,11 +31513,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.8 (Wide Angle) 2 MP ƒ/2.4 (Depth Sensor)"
+    "50 MP \u0192/1.8 (Wide Angle) 2 MP \u0192/2.4 (Depth Sensor)"
    ],
    [
     "Selfie Camera",
-    "16 MP ƒ/2 (Wide Angle)"
+    "16 MP \u0192/2 (Wide Angle)"
    ],
    [
     "Battery",
@@ -31550,7 +31550,7 @@
   ],
   "slug": "vivo-y57",
   "source": "",
-  "tag": "Mediatek Dimensity 6020 · 8 GB RAM · 5000 mAh",
+  "tag": "Mediatek Dimensity 6020 \u00b7 8 GB RAM \u00b7 5000 mAh",
   "year": null
  },
  {
@@ -31607,11 +31607,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.9 (Wide Angle) 23mm (wide), 1/1.56\", PDAF, OIS 8 MP, f/2.2, 112° (ultrawide) 8 MP ƒ/2.2 (Ultra Wide) 112° (ultrawide)"
+    "50 MP \u0192/1.9 (Wide Angle) 23mm (wide), 1/1.56\", PDAF, OIS 8 MP, f/2.2, 112\u00b0 (ultrawide) 8 MP \u0192/2.2 (Ultra Wide) 112\u00b0 (ultrawide)"
    ],
    [
     "Selfie Camera",
-    "32 MP ƒ/2.2 (Ultra Wide) Punch Hole"
+    "32 MP \u0192/2.2 (Ultra Wide) Punch Hole"
    ],
    [
     "Battery",
@@ -31644,7 +31644,7 @@
   ],
   "slug": "huawei-psd-al80",
   "source": "",
-  "tag": "HiSilicon Kirin 8030 · 12 GB RAM · 4400 mAh",
+  "tag": "HiSilicon Kirin 8030 \u00b7 12 GB RAM \u00b7 4400 mAh",
   "year": 2025
  },
  {
@@ -31697,7 +31697,7 @@
    ],
    [
     "Selfie Camera",
-    "5 MP ƒ/2.2 (Main)"
+    "5 MP \u0192/2.2 (Main)"
    ],
    [
     "Battery",
@@ -31726,7 +31726,7 @@
   ],
   "slug": "htc-wildfire-e6-star",
   "source": "",
-  "tag": "Quad Core Processor · 4 GB RAM · 5000 mAh",
+  "tag": "Quad Core Processor \u00b7 4 GB RAM \u00b7 5000 mAh",
   "year": null
  },
  {
@@ -31800,7 +31800,7 @@
   ],
   "slug": "oukitel-wp20-pro",
   "source": "",
-  "tag": "MediaTek Helio A22 · 4 GB RAM · 6300 mAh",
+  "tag": "MediaTek Helio A22 \u00b7 4 GB RAM \u00b7 6300 mAh",
   "year": null
  },
  {
@@ -31853,7 +31853,7 @@
    ],
    [
     "Main Camera",
-    "48 MP 8 MP ƒ/1.8 (Ultra Wide) 2 MP (Depth Sensor)"
+    "48 MP 8 MP \u0192/1.8 (Ultra Wide) 2 MP (Depth Sensor)"
    ],
    [
     "Selfie Camera",
@@ -31878,7 +31878,7 @@
   ],
   "slug": "honor-20-lite-(youth-edition)",
   "source": "",
-  "tag": "HiSilicon Kirin 710F · 4 GB RAM · 4000 mAh",
+  "tag": "HiSilicon Kirin 710F \u00b7 4 GB RAM \u00b7 4000 mAh",
   "year": 2019
  },
  {
@@ -31960,7 +31960,7 @@
   ],
   "slug": "oppo-a5i",
   "source": "",
-  "tag": "Qualcomm Snapdragon 6s Gen 1 · 8 GB RAM · 5100 mAh",
+  "tag": "Qualcomm Snapdragon 6s Gen 1 \u00b7 8 GB RAM \u00b7 5100 mAh",
   "year": null
  },
  {
@@ -32034,7 +32034,7 @@
   ],
   "slug": "oukitel-wp5",
   "source": "",
-  "tag": "MediaTek Helio MT6761 · 4 GB RAM · 8300 mAh",
+  "tag": "MediaTek Helio MT6761 \u00b7 4 GB RAM \u00b7 8300 mAh",
   "year": null
  },
  {
@@ -32078,11 +32078,11 @@
    ],
    [
     "Main Camera",
-    "8 MP ƒ/2.2 (Wide Angle)"
+    "8 MP \u0192/2.2 (Wide Angle)"
    ],
    [
     "Selfie Camera",
-    "5 MP ƒ/2.2 (Wide Angle)"
+    "5 MP \u0192/2.2 (Wide Angle)"
    ],
    [
     "Battery",
@@ -32115,7 +32115,7 @@
   ],
   "slug": "vivo-y04e",
   "source": "",
-  "tag": "4 GB RAM · 5000 mAh",
+  "tag": "4 GB RAM \u00b7 5000 mAh",
   "year": null
  },
  {
@@ -32205,7 +32205,7 @@
   ],
   "slug": "blackview-wave-8",
   "source": "",
-  "tag": "Unisoc T606 · 4 GB RAM · 5000 mAh",
+  "tag": "Unisoc T606 \u00b7 4 GB RAM \u00b7 5000 mAh",
   "year": 2024
  },
  {
@@ -32283,7 +32283,7 @@
   ],
   "slug": "blackview-bv5800",
   "source": "",
-  "tag": "MediaTek Helio MT6739 · 2 GB RAM · 5580 mAh",
+  "tag": "MediaTek Helio MT6739 \u00b7 2 GB RAM \u00b7 5580 mAh",
   "year": 2018
  },
  {
@@ -32353,7 +32353,7 @@
   ],
   "slug": "doogee-y7+",
   "source": "",
-  "tag": "MT6757 · 6 GB RAM · 5080 mAh",
+  "tag": "MT6757 \u00b7 6 GB RAM \u00b7 5080 mAh",
   "year": null
  },
  {
@@ -32419,7 +32419,7 @@
   ],
   "slug": "blackview-a60-pro",
   "source": "",
-  "tag": "MediaTek Helio A22 · 3 GB RAM · 4080 mAh",
+  "tag": "MediaTek Helio A22 \u00b7 3 GB RAM \u00b7 4080 mAh",
   "year": null
  },
  {
@@ -32501,7 +32501,7 @@
   ],
   "slug": "ulefone-armor-3",
   "source": "",
-  "tag": "MediaTek Helio MT6763 · 4 GB RAM · 10300 mAh",
+  "tag": "MediaTek Helio MT6763 \u00b7 4 GB RAM \u00b7 10300 mAh",
   "year": null
  },
  {
@@ -32555,7 +32555,7 @@
   ],
   "slug": "philips-e2221",
   "source": "",
-  "tag": "2.44\" display · 03 GB RAM · 2500 mAh",
+  "tag": "2.44\" display \u00b7 03 GB RAM \u00b7 2500 mAh",
   "year": null
  },
  {
@@ -32612,7 +32612,7 @@
   ],
   "slug": "hotline-turtle",
   "source": "",
-  "tag": "03 GB RAM · 1000 mAh",
+  "tag": "03 GB RAM \u00b7 1000 mAh",
   "year": null
  },
  {
@@ -32678,7 +32678,7 @@
   ],
   "slug": "oukitel-u22",
   "source": "",
-  "tag": "MediaTek Helio MT6580 · 2 GB RAM · 2700 mAh",
+  "tag": "MediaTek Helio MT6580 \u00b7 2 GB RAM \u00b7 2700 mAh",
   "year": null
  },
  {
@@ -32764,7 +32764,7 @@
   ],
   "slug": "lg-x-charge",
   "source": "",
-  "tag": "Mediatek Helio MT6750 · 2 GB RAM · 4500 mAh",
+  "tag": "Mediatek Helio MT6750 \u00b7 2 GB RAM \u00b7 4500 mAh",
   "year": 2017
  },
  {
@@ -32846,7 +32846,7 @@
   ],
   "slug": "doogee-bl12000",
   "source": "",
-  "tag": "MediaTek Helio MT6750T · 4 GB RAM · 12000 mAh",
+  "tag": "MediaTek Helio MT6750T \u00b7 4 GB RAM \u00b7 12000 mAh",
   "year": 2018
  },
  {
@@ -32904,7 +32904,7 @@
   ],
   "slug": "philips-e2103",
   "source": "",
-  "tag": "1.77\" display · 03 GB RAM · 1000 mAh",
+  "tag": "1.77\" display \u00b7 03 GB RAM \u00b7 1000 mAh",
   "year": null
  },
  {
@@ -32957,11 +32957,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.8 (Wide Angle) 2 MP ƒ/2.4 (Macro)"
+    "50 MP \u0192/1.8 (Wide Angle) 2 MP \u0192/2.4 (Macro)"
    ],
    [
     "Selfie Camera",
-    "8 MP ƒ/2.2 (Wide Angle)"
+    "8 MP \u0192/2.2 (Wide Angle)"
    ],
    [
     "Battery",
@@ -32990,7 +32990,7 @@
   ],
   "slug": "doogee-fire-6-power",
   "source": "",
-  "tag": "Unisoc T606 · 8 GB RAM · 15500 mAh",
+  "tag": "Unisoc T606 \u00b7 8 GB RAM \u00b7 15500 mAh",
   "year": 2024
  },
  {
@@ -33044,7 +33044,7 @@
   ],
   "slug": "philips-e2101c",
   "source": "",
-  "tag": "1.77\" display · 03 GB RAM · 1000 mAh",
+  "tag": "1.77\" display \u00b7 03 GB RAM \u00b7 1000 mAh",
   "year": null
  },
  {
@@ -33101,7 +33101,7 @@
    ],
    [
     "Selfie Camera",
-    "16 MP ƒ/2.2 (Main)"
+    "16 MP \u0192/2.2 (Main)"
    ],
    [
     "Battery",
@@ -33134,7 +33134,7 @@
   ],
   "slug": "htc-wildfire-e5+",
   "source": "",
-  "tag": "Unisoc T606 · 6 GB RAM · 5000 mAh",
+  "tag": "Unisoc T606 \u00b7 6 GB RAM \u00b7 5000 mAh",
   "year": 2025
  },
  {
@@ -33189,7 +33189,7 @@
   ],
   "slug": "karbonn-k103i",
   "source": "",
-  "tag": "1.8\" display · Mediatek Helio · 03 GB RAM · 1000 mAh",
+  "tag": "1.8\" display \u00b7 Mediatek Helio \u00b7 03 GB RAM \u00b7 1000 mAh",
   "year": null
  },
  {
@@ -33255,7 +33255,7 @@
   ],
   "slug": "oukitel-u18",
   "source": "",
-  "tag": "MediaTek Helio MT6750T · 4 GB RAM · 4000 mAh",
+  "tag": "MediaTek Helio MT6750T \u00b7 4 GB RAM \u00b7 4000 mAh",
   "year": null
  },
  {
@@ -33308,11 +33308,11 @@
    ],
    [
     "Main Camera",
-    "12 MP ƒ/1.8 8 MP ƒ/2.4"
+    "12 MP \u0192/1.8 8 MP \u0192/2.4"
    ],
    [
     "Selfie Camera",
-    "8 MP ƒ/2"
+    "8 MP \u0192/2"
    ],
    [
     "Battery",
@@ -33337,7 +33337,7 @@
   ],
   "slug": "sony-xperia-8-lite",
   "source": "",
-  "tag": "Qualcomm Snapdragon 630 · 4 GB RAM · 2870 mAh",
+  "tag": "Qualcomm Snapdragon 630 \u00b7 4 GB RAM \u00b7 2870 mAh",
   "year": 2020
  },
  {
@@ -33411,7 +33411,7 @@
   ],
   "slug": "blu-g95",
   "source": "",
-  "tag": "mediatek Helio G99 · 6 GB RAM · 5000 mAh",
+  "tag": "mediatek Helio G99 \u00b7 6 GB RAM \u00b7 5000 mAh",
   "year": null
  },
  {
@@ -33460,11 +33460,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.88 (Main) 13 MP ƒ/2.2 (Wide Angle)"
+    "50 MP \u0192/1.88 (Main) 13 MP \u0192/2.2 (Wide Angle)"
    ],
    [
     "Selfie Camera",
-    "32 MP ƒ/2.45 (Main)"
+    "32 MP \u0192/2.45 (Main)"
    ],
    [
     "Battery",
@@ -33489,7 +33489,7 @@
   ],
   "slug": "motorola-razr-2023",
   "source": "",
-  "tag": "Qualcomm Snapdragon 8 Gen2 · 12 GB RAM · 3500 mAh",
+  "tag": "Qualcomm Snapdragon 8 Gen2 \u00b7 12 GB RAM \u00b7 3500 mAh",
   "year": null
  },
  {
@@ -33543,7 +33543,7 @@
   ],
   "slug": "philips-e2112",
   "source": "",
-  "tag": "1.77\" display · 03 GB RAM · 2500 mAh",
+  "tag": "1.77\" display \u00b7 03 GB RAM \u00b7 2500 mAh",
   "year": null
  },
  {
@@ -33592,11 +33592,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.88 (Wide Angle) 50 MP ƒ/2.65 (Telephoto) 8 MP ƒ/2.2 (Ultra Wide)"
+    "50 MP \u0192/1.88 (Wide Angle) 50 MP \u0192/2.65 (Telephoto) 8 MP \u0192/2.2 (Ultra Wide)"
    ],
    [
     "Selfie Camera",
-    "50 MP ƒ/2 (Ultra Wide) Punch Hole, Screen Flash"
+    "50 MP \u0192/2 (Ultra Wide) Punch Hole, Screen Flash"
    ],
    [
     "Battery",
@@ -33625,7 +33625,7 @@
   ],
   "slug": "vivo-s50-pro-mini",
   "source": "",
-  "tag": "Mediatek Dimensity 9400 · 12 GB RAM · 6500 mAh",
+  "tag": "Mediatek Dimensity 9400 \u00b7 12 GB RAM \u00b7 6500 mAh",
   "year": null
  },
  {
@@ -33691,7 +33691,7 @@
   ],
   "slug": "doogee-x55",
   "source": "",
-  "tag": "MediaTek Helio MT6580 · 1 GB RAM · 2800 mAh",
+  "tag": "MediaTek Helio MT6580 \u00b7 1 GB RAM \u00b7 2800 mAh",
   "year": null
  },
  {
@@ -33777,7 +33777,7 @@
   ],
   "slug": "blackview-bv9900-pro",
   "source": "",
-  "tag": "MediaTek Helio P90 · 8 GB RAM · 4380 mAh",
+  "tag": "MediaTek Helio P90 \u00b7 8 GB RAM \u00b7 4380 mAh",
   "year": 2020
  },
  {
@@ -33830,11 +33830,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.8 (Wide Angle) FOV 79°; 5P lens; AF supported; 2-axis OIS supported 8 MP ƒ/2.2 (Ultra Wide) FOV 112°; 5P lens 2 MP ƒ/2.4 (Macro) FOV 89°; 3P lens"
+    "50 MP \u0192/1.8 (Wide Angle) FOV 79\u00b0; 5P lens; AF supported; 2-axis OIS supported 8 MP \u0192/2.2 (Ultra Wide) FOV 112\u00b0; 5P lens 2 MP \u0192/2.4 (Macro) FOV 89\u00b0; 3P lens"
    ],
    [
     "Selfie Camera",
-    "32 MP ƒ/2 (Wide Angle) Photo, Video, Portrait, Night, PANO, Dual-view video, TIME-LAPSE, STICKER, Retouch, Screen Fill Light Punch Hole"
+    "32 MP \u0192/2 (Wide Angle) Photo, Video, Portrait, Night, PANO, Dual-view video, TIME-LAPSE, STICKER, Retouch, Screen Fill Light Punch Hole"
    ],
    [
     "Battery",
@@ -33863,7 +33863,7 @@
   ],
   "slug": "oppo-reno-14f",
   "source": "",
-  "tag": "Qualcomm Snapdragon 6 Gen1 · 8 GB RAM · 6000 mAh",
+  "tag": "Qualcomm Snapdragon 6 Gen1 \u00b7 8 GB RAM \u00b7 6000 mAh",
   "year": 2025
  },
  {
@@ -33916,11 +33916,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.88 (Wide Angle) 50 MP ƒ/2.65 (Telephoto) 8 MP ƒ/2.2 (Ultra Wide)"
+    "50 MP \u0192/1.88 (Wide Angle) 50 MP \u0192/2.65 (Telephoto) 8 MP \u0192/2.2 (Ultra Wide)"
    ],
    [
     "Selfie Camera",
-    "50 MP ƒ/2 (Ultra Wide) Punch Hole, Screen Flash"
+    "50 MP \u0192/2 (Ultra Wide) Punch Hole, Screen Flash"
    ],
    [
     "Battery",
@@ -33953,7 +33953,7 @@
   ],
   "slug": "vivo-s30-pro-mini",
   "source": "",
-  "tag": "Mediatek Dimensity 9300 Plus · 12 GB RAM · 6500 mAh",
+  "tag": "Mediatek Dimensity 9300 Plus \u00b7 12 GB RAM \u00b7 6500 mAh",
   "year": 2025
  },
  {
@@ -34010,11 +34010,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.8 (Wide Angle) 2 MP ƒ/2.4 (Depth Sensor)"
+    "50 MP \u0192/1.8 (Wide Angle) 2 MP \u0192/2.4 (Depth Sensor)"
    ],
    [
     "Selfie Camera",
-    "16 MP ƒ/2.5 (Wide Angle) Punch Hole, Screen Flash"
+    "16 MP \u0192/2.5 (Wide Angle) Punch Hole, Screen Flash"
    ],
    [
     "Battery",
@@ -34047,7 +34047,7 @@
   ],
   "slug": "vivo-v2452ga",
   "source": "",
-  "tag": "Mediatek Dimensity 8400 · 8 GB RAM · 7620 mAh",
+  "tag": "Mediatek Dimensity 8400 \u00b7 8 GB RAM \u00b7 7620 mAh",
   "year": 2025
  },
  {
@@ -34100,11 +34100,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.6-ƒ/4 (Wide Angle) 23mm (wide), 1.0\"-type, dual pixel PDAF, OIS 50 MP ƒ/2.4 (Telephoto) 83mm (periscope telephoto), 1/1.28\", PDAF, sensor-shift OIS, 3.7x optical zoom, 12.5 MP 212mm (periscope telephoto), PDAF, sensor-shift OIS, 9.4x optical zoom 40 MP ƒ/2.2 (Ultra Wide) 13mm (ultrawide), AF"
+    "50 MP \u0192/1.6-\u0192/4 (Wide Angle) 23mm (wide), 1.0\"-type, dual pixel PDAF, OIS 50 MP \u0192/2.4 (Telephoto) 83mm (periscope telephoto), 1/1.28\", PDAF, sensor-shift OIS, 3.7x optical zoom, 12.5 MP 212mm (periscope telephoto), PDAF, sensor-shift OIS, 9.4x optical zoom 40 MP \u0192/2.2 (Ultra Wide) 13mm (ultrawide), AF"
    ],
    [
     "Selfie Camera",
-    "13 MP ƒ/2 (Ultra Wide) Punch Hole, Screen Flash"
+    "13 MP \u0192/2 (Ultra Wide) Punch Hole, Screen Flash"
    ],
    [
     "Battery",
@@ -34133,7 +34133,7 @@
   ],
   "slug": "huawei-pura-80-ultra",
   "source": "",
-  "tag": "HiSilicon Kirin 9020 · 16 GB RAM · 5700 mAh",
+  "tag": "HiSilicon Kirin 9020 \u00b7 16 GB RAM \u00b7 5700 mAh",
   "year": 2025
  },
  {
@@ -34238,11 +34238,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.8 8 MP ƒ/2.2 (Wide Angle) 2 MP ƒ/2.4 (Macro) Macro"
+    "50 MP \u0192/1.8 8 MP \u0192/2.2 (Wide Angle) 2 MP \u0192/2.4 (Macro) Macro"
    ],
    [
     "Selfie Camera",
-    "13 MP ƒ/2.2 Punch Hole"
+    "13 MP \u0192/2.2 Punch Hole"
    ],
    [
     "Battery",
@@ -34267,7 +34267,7 @@
   ],
   "slug": "motorola-moto-g52j-5g",
   "source": "",
-  "tag": "Qualcomm Snapdragon 695 · 6 GB RAM · 5000 mAh",
+  "tag": "Qualcomm Snapdragon 695 \u00b7 6 GB RAM \u00b7 5000 mAh",
   "year": 2022
  },
  {
@@ -34320,11 +34320,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.4-ƒ/4 (Wide Angle) 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 12 MP ƒ/3.4 (Telephoto) 125mm (periscope telephoto), 1/3.6\", 1.0µm, PDAF, OIS, 5.5x optical zoom 12 MP ƒ/2.2 (Ultra Wide) 13mm, 120° (ultrawide), 1/2.9\", 1.24µm, PDAF"
+    "50 MP \u0192/1.4-\u0192/4 (Wide Angle) 24mm (wide), 1/1.56\", 1.0\u00b5m, PDAF, OIS 12 MP \u0192/3.4 (Telephoto) 125mm (periscope telephoto), 1/3.6\", 1.0\u00b5m, PDAF, OIS, 5.5x optical zoom 12 MP \u0192/2.2 (Ultra Wide) 13mm, 120\u00b0 (ultrawide), 1/2.9\", 1.24\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "8 MP ƒ/2.2 (Wide Angle)"
+    "8 MP \u0192/2.2 (Wide Angle)"
    ],
    [
     "Battery",
@@ -34353,7 +34353,7 @@
   ],
   "slug": "huawei-mate-xts-ultimate",
   "source": "",
-  "tag": "HiSilicon Kirin 9020 · 16 GB RAM · 5600 mAh",
+  "tag": "HiSilicon Kirin 9020 \u00b7 16 GB RAM \u00b7 5600 mAh",
   "year": 2025
  },
  {
@@ -34435,7 +34435,7 @@
   ],
   "slug": "tecno-pova-7-ultra",
   "source": "",
-  "tag": "Mediatek Dimensity 8350 · 8 GB RAM · 6000 mAh",
+  "tag": "Mediatek Dimensity 8350 \u00b7 8 GB RAM \u00b7 6000 mAh",
   "year": 2025
  },
  {
@@ -34483,11 +34483,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.8 (Wide Angle)"
+    "50 MP \u0192/1.8 (Wide Angle)"
    ],
    [
     "Selfie Camera",
-    "8 MP ƒ/2 (Wide Angle) Punch Hole"
+    "8 MP \u0192/2 (Wide Angle) Punch Hole"
    ],
    [
     "Battery",
@@ -34516,7 +34516,7 @@
   ],
   "slug": "huawei-enjoy-80",
   "source": "",
-  "tag": "8 GB RAM · 6620 mAh",
+  "tag": "8 GB RAM \u00b7 6620 mAh",
   "year": 2025
  },
  {
@@ -34569,11 +34569,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.8 (Wide Angle) 26mm (wide), 1/2.5\", 0.7µm, PDAF 5 MP (Ultra Wide)"
+    "50 MP \u0192/1.8 (Wide Angle) 26mm (wide), 1/2.5\", 0.7\u00b5m, PDAF 5 MP (Ultra Wide)"
    ],
    [
     "Selfie Camera",
-    "8 MP ƒ/2 (Wide Angle) Punch Hole"
+    "8 MP \u0192/2 (Wide Angle) Punch Hole"
    ],
    [
     "Battery",
@@ -34606,7 +34606,7 @@
   ],
   "slug": "tcl-60-se-nxtpaper-5g",
   "source": "",
-  "tag": "Mediatek Dimensity 6300 · 8 GB RAM · 5200 mAh",
+  "tag": "Mediatek Dimensity 6300 \u00b7 8 GB RAM \u00b7 5200 mAh",
   "year": 2025
  },
  {
@@ -34659,11 +34659,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.8 (Main) 2 MP ƒ/2.4 (Macro) Macro"
+    "50 MP \u0192/1.8 (Main) 2 MP \u0192/2.4 (Macro) Macro"
    ],
    [
     "Selfie Camera",
-    "8 MP ƒ/2 Punch Hole"
+    "8 MP \u0192/2 Punch Hole"
    ],
    [
     "Battery",
@@ -34688,7 +34688,7 @@
   ],
   "slug": "vivo-y77-5g",
   "source": "",
-  "tag": "MediaTek Dimensity 930 · 6 GB RAM · 5000 mAh",
+  "tag": "MediaTek Dimensity 930 \u00b7 6 GB RAM \u00b7 5000 mAh",
   "year": 2022
  },
  {
@@ -34741,7 +34741,7 @@
    ],
    [
     "Selfie Camera",
-    "32 MP ƒ/2 (Wide Angle) Punch Hole, Screen Flash"
+    "32 MP \u0192/2 (Wide Angle) Punch Hole, Screen Flash"
    ],
    [
     "Battery",
@@ -34770,7 +34770,7 @@
   ],
   "slug": "lava-agni-4",
   "source": "",
-  "tag": "Mediatek Dimensity 8350 · 8 GB RAM · 7000 mAh",
+  "tag": "Mediatek Dimensity 8350 \u00b7 8 GB RAM \u00b7 7000 mAh",
   "year": null
  },
  {
@@ -34856,7 +34856,7 @@
   ],
   "slug": "acer-super-zx-pro",
   "source": "",
-  "tag": "Mediatek Dimensity 7400 · 12 GB RAM · 5000 mAh",
+  "tag": "Mediatek Dimensity 7400 \u00b7 12 GB RAM \u00b7 5000 mAh",
   "year": null
  },
  {
@@ -34930,7 +34930,7 @@
   ],
   "slug": "doogee-y8c",
   "source": "",
-  "tag": "MTK6580A · 3 GB RAM · 3400 mAh",
+  "tag": "MTK6580A \u00b7 3 GB RAM \u00b7 3400 mAh",
   "year": null
  },
  {
@@ -34983,11 +34983,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.7 (Wide Angle) 23mm (wide), 1/1.55\", 1.0µm, dual pixel PDAF, OIS 50 MP ƒ/2.2 (Ultra Wide) 14mm, 115° (ultrawide), PDAF"
+    "50 MP \u0192/1.7 (Wide Angle) 23mm (wide), 1/1.55\", 1.0\u00b5m, dual pixel PDAF, OIS 50 MP \u0192/2.2 (Ultra Wide) 14mm, 115\u00b0 (ultrawide), PDAF"
    ],
    [
     "Selfie Camera",
-    "32 MP ƒ/2 (Wide Angle) Punch Hole"
+    "32 MP \u0192/2 (Wide Angle) Punch Hole"
    ],
    [
     "Battery",
@@ -35016,7 +35016,7 @@
   ],
   "slug": "xiaomi-mix-flip-2",
   "source": "",
-  "tag": "Qualcomm Snapdragon 8 Elite · 12 GB RAM · 5165 mAh",
+  "tag": "Qualcomm Snapdragon 8 Elite \u00b7 12 GB RAM \u00b7 5165 mAh",
   "year": 2025
  },
  {
@@ -35094,7 +35094,7 @@
   ],
   "slug": "oukitel-c15-pro",
   "source": "",
-  "tag": "Mediatek Helio A22 · 2 GB RAM · 3200 mAh",
+  "tag": "Mediatek Helio A22 \u00b7 2 GB RAM \u00b7 3200 mAh",
   "year": null
  },
  {
@@ -35147,11 +35147,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.79 (Main) 2 MP ƒ/2.4 (Macro) Macro"
+    "50 MP \u0192/1.79 (Main) 2 MP \u0192/2.4 (Macro) Macro"
    ],
    [
     "Selfie Camera",
-    "16 MP ƒ/2.28 (Wide Angle) Punch Hole"
+    "16 MP \u0192/2.28 (Wide Angle) Punch Hole"
    ],
    [
     "Battery",
@@ -35180,7 +35180,7 @@
   ],
   "slug": "vivo-y200e-5g",
   "source": "",
-  "tag": "Qualcomm Snapdragon 4 Gen2 · 6 GB RAM · 5000 mAh",
+  "tag": "Qualcomm Snapdragon 4 Gen2 \u00b7 6 GB RAM \u00b7 5000 mAh",
   "year": 2024
  },
  {
@@ -35266,7 +35266,7 @@
   ],
   "slug": "nubia-z17-mini-s",
   "source": "",
-  "tag": "Qualcomm Snapdragon 653 · 6 GB RAM · 3200 mAh",
+  "tag": "Qualcomm Snapdragon 653 \u00b7 6 GB RAM \u00b7 3200 mAh",
   "year": 2017
  },
  {
@@ -35320,7 +35320,7 @@
   ],
   "slug": "philips-e2102",
   "source": "",
-  "tag": "1.77\" display · 03 GB RAM · 1000 mAh",
+  "tag": "1.77\" display \u00b7 03 GB RAM \u00b7 1000 mAh",
   "year": null
  },
  {
@@ -35373,11 +35373,11 @@
    ],
    [
     "Main Camera",
-    "50 MP ƒ/1.8 (Wide Angle) 23mm (wide), 1.0\"-type, 1.6µm, dual pixel PDAF, OIS 50 MP ƒ/2.1 (Telephoto) 70mm (periscope telephoto), 1/1.56\", 1.0µm, 3x optical zoom, multi-directional PDAF (10cm - 8), OIS 50 MP ƒ/3.1 (Telephoto) 135mm (periscope telephoto), 1/1/.95\", 0.8µm, 6x optical zoom, dual pixel PDAF (35cm - 8), OIS 50 MP ƒ/2 (Ultra Wide) 15mm, 120° (ultrawide), 1/2.75\", 0.64µm, PDAF"
+    "50 MP \u0192/1.8 (Wide Angle) 23mm (wide), 1.0\"-type, 1.6\u00b5m, dual pixel PDAF, OIS 50 MP \u0192/2.1 (Telephoto) 70mm (periscope telephoto), 1/1.56\", 1.0\u00b5m, 3x optical zoom, multi-directional PDAF (10cm - 8), OIS 50 MP \u0192/3.1 (Telephoto) 135mm (periscope telephoto), 1/1/.95\", 0.8\u00b5m, 6x optical zoom, dual pixel PDAF (35cm - 8), OIS 50 MP \u0192/2 (Ultra Wide) 15mm, 120\u00b0 (ultrawide), 1/2.75\", 0.64\u00b5m, PDAF"
    ],
    [
     "Selfie Camera",
-    "32 MP ƒ/2.4 (Wide Angle) Punch Hole"
+    "32 MP \u0192/2.4 (Wide Angle) Punch Hole"
    ],
    [
     "Battery",
@@ -35410,7 +35410,7 @@
   ],
   "slug": "oppo-find-x8-ultra",
   "source": "",
-  "tag": "Qualcomm Snapdragon 8 Elite · 12 GB RAM · 6100 mAh",
+  "tag": "Qualcomm Snapdragon 8 Elite \u00b7 12 GB RAM \u00b7 6100 mAh",
   "year": 2025
  },
  {
@@ -35477,7 +35477,7 @@
   ],
   "slug": "asus-zenfone-ar",
   "source": "",
-  "tag": "5.7\" display · Quad-core · 8 GB RAM · 3300 mAh",
+  "tag": "5.7\" display \u00b7 Quad-core \u00b7 8 GB RAM \u00b7 3300 mAh",
   "year": null
  },
  {
@@ -35544,7 +35544,7 @@
   ],
   "slug": "honor-8-lite",
   "source": "",
-  "tag": "5.2\" display · Octa-core · 4 GB RAM · 3000 mAh",
+  "tag": "5.2\" display \u00b7 Octa-core \u00b7 4 GB RAM \u00b7 3000 mAh",
   "year": null
  },
  {
@@ -35611,7 +35611,7 @@
   ],
   "slug": "lg-k7i",
   "source": "",
-  "tag": "5\" display · Quad-core · 2 GB RAM · 2500 mAh",
+  "tag": "5\" display \u00b7 Quad-core \u00b7 2 GB RAM \u00b7 2500 mAh",
   "year": null
  },
  {
@@ -35678,7 +35678,7 @@
   ],
   "slug": "asus-zenfone-4-selfie",
   "source": "",
-  "tag": "5.5\" display · Quad-core · 4 GB RAM · 3000 mAh",
+  "tag": "5.5\" display \u00b7 Quad-core \u00b7 4 GB RAM \u00b7 3000 mAh",
   "year": null
  },
  {
@@ -35745,7 +35745,7 @@
   ],
   "slug": "swipe-elite+",
   "source": "",
-  "tag": "5\" display · Octa-core · 2 GB RAM · 3050 mAh",
+  "tag": "5\" display \u00b7 Octa-core \u00b7 2 GB RAM \u00b7 3050 mAh",
   "year": null
  },
  {
@@ -35812,7 +35812,7 @@
   ],
   "slug": "intex-aqua-fish",
   "source": "",
-  "tag": "5\" display · Quad-core · 2 GB RAM · 2500 mAh",
+  "tag": "5\" display \u00b7 Quad-core \u00b7 2 GB RAM \u00b7 2500 mAh",
   "year": null
  }
 ]

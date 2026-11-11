@@ -2040,7 +2040,7 @@
 <a class="btn alt" href="compare.html?a=realme-c51s">Compare</a></div>
 </div></div><div class="card" data-name="realme c53 realme smartphones" data-brand="Realme" data-price="40999" data-year="2024">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/realme-c53/main-card.webp"><img class="cardimg" src="img/realme-c53/main-card.jpg" alt="Realme C53" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/realme-c53.html">Realme C53</a></p>
@@ -3300,7 +3300,7 @@
 <a class="btn alt" href="compare.html?a=vivo-y300-pro">Compare</a></div>
 </div></div><div class="card" data-name="vivo y300+ vivo smartphones" data-brand="Vivo" data-price="" data-year="2024">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/vivo-y300+/main-card.webp"><img class="cardimg" src="img/vivo-y300+/main-card.jpg" alt="Vivo Y300+" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/vivo-y300+.html">Vivo Y300+</a></p>

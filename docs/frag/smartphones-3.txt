@@ -2030,7 +2030,7 @@
 <a class="btn alt" href="compare.html?a=tecno-spark-20c">Compare</a></div>
 </div></div><div class="card" data-name="tecno spark go 2023 tecno smartphones" data-brand="Tecno" data-price="33999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/tecno-spark-go-2023/main-card.webp"><img class="cardimg" src="img/tecno-spark-go-2023/main-card.jpg" alt="Tecno Spark Go 2023" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/tecno-spark-go-2023.html">Tecno Spark Go 2023</a></p>
@@ -2420,7 +2420,7 @@
 <a class="btn alt" href="compare.html?a=vivo-y27">Compare</a></div>
 </div></div><div class="card" data-name="vivo y27 (2023) vivo smartphones" data-brand="Vivo" data-price="" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/vivo-y27-(2023)/main-card.webp"><img class="cardimg" src="img/vivo-y27-(2023)/main-card.jpg" alt="Vivo Y27 (2023)" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/vivo-y27-(2023).html">Vivo Y27 (2023)</a></p>

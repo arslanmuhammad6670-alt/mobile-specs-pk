@@ -1650,7 +1650,7 @@
 <a class="btn alt" href="compare.html?a=vivo-v80-5g">Compare</a></div>
 </div></div><div class="card" data-name="vivo v80 fe vivo smartphones" data-brand="Vivo" data-price="" data-year="2026">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/vivo-v80-fe-5g/main-card.webp"><img class="cardimg" src="img/vivo-v80-fe-5g/main-card.jpg" alt="vivo V80 FE" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/vivo-v80-fe-5g.html">vivo V80 FE</a></p>
@@ -2150,7 +2150,7 @@
 <a class="btn alt" href="compare.html?a=honor-magic-7-lite">Compare</a></div>
 </div></div><div class="card" data-name="honor magic v flip 2 honor smartphones" data-brand="Honor" data-price="217999" data-year="2025">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/honor-cle-an00/main-card.webp"><img class="cardimg" src="img/honor-cle-an00/main-card.jpg" alt="Honor Magic V Flip 2" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/honor-cle-an00.html">Honor Magic V Flip 2</a></p>
@@ -2200,7 +2200,7 @@
 <a class="btn alt" href="compare.html?a=honor-play-60a">Compare</a></div>
 </div></div><div class="card" data-name="honor power honor smartphones" data-brand="Honor" data-price="74999" data-year="2025">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/honor-dvd-an00/main-card.webp"><img class="cardimg" src="img/honor-dvd-an00/main-card.jpg" alt="Honor Power" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/honor-dvd-an00.html">Honor Power</a></p>
@@ -3320,7 +3320,7 @@
 <a class="btn alt" href="compare.html?a=redmi-15c-5g">Compare</a></div>
 </div></div><div class="card" data-name="redmi k80 ultra redmi smartphones" data-brand="Redmi" data-price="" data-year="2025">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/redmi-k80-ultra/main-card.webp"><img class="cardimg" src="img/redmi-k80-ultra/main-card.jpg" alt="Redmi K80 Ultra" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/redmi-k80-ultra.html">Redmi K80 Ultra</a></p>
@@ -3340,7 +3340,7 @@
 <a class="btn alt" href="compare.html?a=redmi-note-14">Compare</a></div>
 </div></div><div class="card" data-name="redmi note 15 4g redmi smartphones" data-brand="Redmi" data-price="" data-year="2025">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/redmi-note-15-4g/main-card.webp"><img class="cardimg" src="img/redmi-note-15-4g/main-card.jpg" alt="Redmi Note 15 4G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/redmi-note-15-4g.html">Redmi Note 15 4G</a></p>

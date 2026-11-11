@@ -2930,7 +2930,7 @@
 <a class="btn alt" href="compare.html?a=realme-11-5g">Compare</a></div>
 </div></div><div class="card" data-name="vivo s1 vivo smartphones" data-brand="Vivo" data-price="70999" data-year="2019">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/vivo-s1/main-card.webp"><img class="cardimg" src="img/vivo-s1/main-card.jpg" alt="Vivo S1" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/vivo-s1.html">Vivo S1</a></p>
@@ -3680,7 +3680,7 @@
 <a class="btn alt" href="compare.html?a=oppo-a6-pro">Compare</a></div>
 </div></div><div class="card" data-name="oppo k12+ oppo smartphones" data-brand="Oppo" data-price="71999" data-year="2024">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/oppo-k12+/main-card.webp"><img class="cardimg" src="img/oppo-k12+/main-card.jpg" alt="Oppo K12+" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/oppo-k12+.html">Oppo K12+</a></p>

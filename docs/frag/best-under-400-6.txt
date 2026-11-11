@@ -1060,7 +1060,7 @@
 <a class="btn alt" href="compare.html?a=asus-padfone-x">Compare</a></div>
 </div></div><div class="card" data-name="oppo r601 oppo smartphones" data-brand="Oppo" data-price="98999" data-year="2012">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/oppo-r601/main-card.webp"><img class="cardimg" src="img/oppo-r601/main-card.jpg" alt="Oppo R601" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/oppo-r601.html">Oppo R601</a></p>

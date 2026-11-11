@@ -3050,7 +3050,7 @@
 <a class="btn alt" href="compare.html?a=hmd-c21+">Compare</a></div>
 </div></div><div class="card" data-name="hmd g11+ hmd smartphones" data-brand="HMD" data-price="" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/hmd-g11+/main-card.webp"><img class="cardimg" src="img/hmd-g11+/main-card.jpg" alt="HMD G11+" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/hmd-g11+.html">HMD G11+</a></p>

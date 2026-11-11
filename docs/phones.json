@@ -2050,8 +2050,8 @@
   "name": "Apple iPhone 14 Pro Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 2114,
-  "price_pkr": 585000,
+  "price": 1973,
+  "price_pkr": 545999,
   "path": "phones/apple-iphone-14-pro-max.html",
   "sb": 14,
   "pl": "Official price"
@@ -4966,22 +4966,22 @@
   "name": "Apple iPhone XR",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 220,
-  "price_pkr": 60999,
+  "price": 557,
+  "price_pkr": 153999,
   "path": "phones/apple-iphone-xr.html",
   "sb": 4,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "apple-iphone-7",
   "name": "Apple iPhone 7",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 202,
-  "price_pkr": 55999,
+  "price": 235,
+  "price_pkr": 65000,
   "path": "phones/apple-iphone-7.html",
   "sb": 12,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-s21-fe-5g",
@@ -5087,11 +5087,11 @@
   "name": "Apple iPhone 13 Pro Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 734,
-  "price_pkr": 202999,
+  "price": 1336,
+  "price_pkr": 369600,
   "path": "phones/apple-iphone-13-pro-max.html",
   "sb": 15,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-s10",
@@ -5164,11 +5164,11 @@
   "name": "Apple iPhone XS Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 278,
-  "price_pkr": 76999,
+  "price": 614,
+  "price_pkr": 170000,
   "path": "phones/apple-iphone-xs-max.html",
   "sb": 0,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-s21+-5g",
@@ -5219,11 +5219,11 @@
   "name": "Apple iPhone 13 Pro",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 632,
-  "price_pkr": 174999,
+  "price": 1236,
+  "price_pkr": 342000,
   "path": "phones/apple-iphone-13-pro.html",
   "sb": 3,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-a13-4g",
@@ -5252,11 +5252,11 @@
   "name": "Apple iPhone 12 Pro Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 546,
-  "price_pkr": 150999,
+  "price": 871,
+  "price_pkr": 241000,
   "path": "phones/apple-iphone-12-pro-max.html",
   "sb": 12,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-s9+",
@@ -5384,11 +5384,11 @@
   "name": "Apple iPhone 12 Pro",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 473,
-  "price_pkr": 130999,
+  "price": 815,
+  "price_pkr": 225500,
   "path": "phones/apple-iphone-12-pro.html",
   "sb": 11,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-s5",
@@ -5428,22 +5428,22 @@
   "name": "Apple iPhone 11 Pro",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 314,
-  "price_pkr": 86999,
+  "price": 777,
+  "price_pkr": 215000,
   "path": "phones/apple-iphone-11-pro.html",
   "sb": 11,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "apple-iphone-11-pro-max",
   "name": "Apple iPhone 11 Pro Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 405,
-  "price_pkr": 111999,
+  "price": 847,
+  "price_pkr": 234500,
   "path": "phones/apple-iphone-11-pro-max.html",
   "sb": 9,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "oppo-a37",
@@ -5659,11 +5659,11 @@
   "name": "Apple iPhone 12 Mini",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 257,
-  "price_pkr": 70999,
+  "price": 580,
+  "price_pkr": 160400,
   "path": "phones/apple-iphone-12-mini.html",
   "sb": 15,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "apple-iphone-8+",
@@ -21461,11 +21461,11 @@
   "name": "Asus Zenfone Max Pro (M2)",
   "brand": "Asus",
   "cat": "Smartphones",
-  "price": 134,
-  "price_pkr": 36999,
+  "price": 123,
+  "price_pkr": 33999,
   "path": "phones/asus-zenfone-max-pro-(m2).html",
   "sb": 17,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "oppo-r17-pro",
@@ -25897,11 +25897,11 @@
   "name": "Alcatel Idol 4",
   "brand": "Alcatel",
   "cat": "Smartphones",
-  "price": 224,
-  "price_pkr": 61999,
+  "price": 97,
+  "price_pkr": 26750,
   "path": "phones/alcatel-idol-4.html",
   "sb": 16,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "vivo-x100s-5g",
@@ -25941,11 +25941,11 @@
   "name": "Alcatel 3x (2019)",
   "brand": "Alcatel",
   "cat": "Smartphones",
-  "price": 166,
-  "price_pkr": 45999,
+  "price": 123,
+  "price_pkr": 33999,
   "path": "phones/alcatel-3x-(2019).html",
   "sb": 12,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "nothing-(3a)",
@@ -28021,11 +28021,11 @@
   "name": "Asus Zenfone Max (M2)",
   "brand": "Asus",
   "cat": "Smartphones",
-  "price": 83,
-  "price_pkr": 22999,
+  "price": 137,
+  "price_pkr": 37999,
   "path": "phones/asus-zenfone-max-(m2).html",
   "sb": 5,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "vivo-v1max",
@@ -28659,11 +28659,11 @@
   "name": "Alcatel Idol 4s",
   "brand": "Alcatel",
   "cat": "Smartphones",
-  "price": 246,
-  "price_pkr": 67999,
+  "price": 181,
+  "price_pkr": 49999,
   "path": "phones/alcatel-idol-4s.html",
   "sb": 18,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "vivo-iqoo-z9-turbo+",
@@ -28681,11 +28681,11 @@
   "name": "Alcatel Idol 5",
   "brand": "Alcatel",
   "cat": "Smartphones",
-  "price": 134,
-  "price_pkr": 36999,
+  "price": 137,
+  "price_pkr": 37999,
   "path": "phones/alcatel-idol-5.html",
   "sb": 6,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "alcatel-3-(2025)",
@@ -28703,11 +28703,11 @@
   "name": "Alcatel 5v",
   "brand": "Alcatel",
   "cat": "Smartphones",
-  "price": 202,
-  "price_pkr": 55999,
+  "price": 123,
+  "price_pkr": 33999,
   "path": "phones/alcatel-5v.html",
   "sb": 12,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "alcatel-1l-pro",
@@ -28736,22 +28736,22 @@
   "name": "Asus ROG Phone 3",
   "brand": "Asus",
   "cat": "Smartphones",
-  "price": 730,
-  "price_pkr": 201999,
+  "price": 398,
+  "price_pkr": 109999,
   "path": "phones/asus-rog-phone-3.html",
   "sb": 21,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "asus-zenfone-8",
   "name": "Asus Zenfone 8",
   "brand": "Asus",
   "cat": "Smartphones",
-  "price": 419,
-  "price_pkr": 115999,
+  "price": 578,
+  "price_pkr": 159999,
   "path": "phones/asus-zenfone-8.html",
   "sb": 9,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "asus-zenfone-9",
@@ -38396,22 +38396,22 @@
   "name": "Asus ROG Phone 5 Ultimate",
   "brand": "Asus",
   "cat": "Smartphones",
-  "price": 1456,
-  "price_pkr": 402999,
+  "price": 759,
+  "price_pkr": 209999,
   "path": "phones/asus-rog-phone-5-ultimate.html",
   "sb": 15,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "asus-zenfone-8-flip",
   "name": "Asus Zenfone 8 Flip",
   "brand": "Asus",
   "cat": "Smartphones",
-  "price": 426,
-  "price_pkr": 117999,
+  "price": 416,
+  "price_pkr": 114999,
   "path": "phones/asus-zenfone-8-flip.html",
   "sb": 5,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "asus-rog-phone-5s",
@@ -45012,11 +45012,11 @@
   "name": "Apple iPhone Air",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 640,
-  "price_pkr": 176999,
+  "price": 1549,
+  "price_pkr": 428500,
   "path": "phones/apple-iphone-17-air.html",
   "sb": 7,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "apple-ipad-air-11-(2025)",
@@ -45034,33 +45034,33 @@
   "name": "Apple iPhone 15 Pro",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 441,
-  "price_pkr": 121999,
+  "price": 1463,
+  "price_pkr": 404700,
   "path": "phones/apple-iphone-15-pro.html",
   "sb": 11,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "apple-iphone-14-pro",
   "name": "Apple iPhone 14 Pro",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 379,
-  "price_pkr": 104999,
+  "price": 1919,
+  "price_pkr": 530999,
   "path": "phones/apple-iphone-14-pro.html",
   "sb": 11,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "apple-iphone-14-plus",
   "name": "Apple iPhone 14 Plus",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 289,
-  "price_pkr": 79999,
+  "price": 1612,
+  "price_pkr": 445999,
   "path": "phones/apple-iphone-14-plus.html",
   "sb": 19,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "xiaomi-redmi-k100-5g",

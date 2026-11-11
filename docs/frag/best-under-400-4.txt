@@ -1,4 +1,14 @@
-<div class="card" data-name="google pixel 3a google smartphones" data-brand="Google" data-price="60000" data-year="2019">
+<div class="card" data-name="google pixel 4a 5g google smartphones" data-brand="Google" data-price="60000" data-year="2020">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/google-pixel-4a-5g/main-card.webp"><img class="cardimg" src="img/google-pixel-4a-5g/main-card.jpg" alt="Google Pixel 4a 5G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/google-pixel-4a-5g.html">Google Pixel 4a 5G</a></p>
+<div class="price"><span class="prc" data-pkr="60000"><b class="pkrv">Rs 60,000</b> <span class="usdv">$217</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.2&quot; display</div><div class="spec">Qualcomm SM7250 Snapdragon 765G 5G</div><div class="spec">6 GB RAM</div><div class="spec">3885 mAh</div>
+<div class="spec">6.2&quot; display · Qualcomm SM7250 Snapdragon 765G 5G · 6 GB RAM · 3885 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/google-pixel-4a-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=google-pixel-4a-5g">Compare</a></div>
+</div></div><div class="card" data-name="google pixel 3a google smartphones" data-brand="Google" data-price="60000" data-year="2019">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/google-pixel-3a/main-card.webp"><img class="cardimg" src="img/google-pixel-3a/main-card.jpg" alt="Google Pixel 3a" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -58,16 +68,6 @@
 <div class="spec">6.7&quot; display · Mediatek Dimensity 810 · 6 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/infinix-note-12-5g.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=infinix-note-12-5g">Compare</a></div>
-</div></div><div class="card" data-name="apple iphone xr apple smartphones" data-brand="Apple" data-price="60999" data-year="2018">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/apple-iphone-xr/main-card.webp"><img class="cardimg" src="img/apple-iphone-xr/main-card.jpg" alt="Apple iPhone XR" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/apple-iphone-xr.html">Apple iPhone XR</a></p>
-<div class="price"><span class="prc" data-pkr="60999"><b class="pkrv">Rs 60,999</b> <span class="usdv">$220</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.1&quot; display</div><div class="spec">Apple A12 Bionic</div><div class="spec">3 GB RAM</div><div class="spec">2942 mAh</div>
-<div class="spec">6.1&quot; display · Apple A12 Bionic · 3 GB RAM · 2942 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/apple-iphone-xr.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=apple-iphone-xr">Compare</a></div>
 </div></div><div class="card" data-name="samsung galaxy a52s 5g samsung smartphones" data-brand="Samsung" data-price="60999" data-year="2021">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/samsung-galaxy-a52s-5g/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a52s-5g/main-card.jpg" alt="Samsung Galaxy A52s 5G" width="480" height="480" loading="lazy"></picture>
@@ -938,16 +938,6 @@
 <div class="spec">6.67&quot; display · Qualcomm SM4450 Snapdragon 4 Gen 2 · 6 / 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/vivo-y200e.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=vivo-y200e">Compare</a></div>
-</div></div><div class="card" data-name="alcatel idol 4 alcatel smartphones" data-brand="Alcatel" data-price="61999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/alcatel-idol-4/main-card.webp"><img class="cardimg" src="img/alcatel-idol-4/main-card.jpg" alt="Alcatel Idol 4" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/alcatel-idol-4.html">Alcatel Idol 4</a></p>
-<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.2&quot; display</div><div class="spec">Qualcomm MSM8952 Snapdragon 617</div><div class="spec">2 / 3 GB RAM</div><div class="spec">2610 mAh</div>
-<div class="spec">5.2&quot; display · Qualcomm MSM8952 Snapdragon 617 · 2 / 3 GB RAM · 2610 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/alcatel-idol-4.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=alcatel-idol-4">Compare</a></div>
 </div></div><div class="card" data-name="realme 6s realme smartphones" data-brand="Realme" data-price="61999" data-year="2020">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/realme-6s/main-card.webp"><img class="cardimg" src="img/realme-6s/main-card.jpg" alt="Realme 6s" width="480" height="480" loading="lazy"></picture>
@@ -1120,7 +1110,7 @@
 <a class="btn alt" href="compare.html?a=vivo-y78t">Compare</a></div>
 </div></div><div class="card" data-name="vivo iqoo z9s 5g vivo smartphones" data-brand="Vivo" data-price="61999" data-year="2024">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/vivo-iqoo-z9s-5g/main-card.webp"><img class="cardimg" src="img/vivo-iqoo-z9s-5g/main-card.jpg" alt="Vivo iQOO Z9s 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/vivo-iqoo-z9s-5g.html">Vivo iQOO Z9s 5G</a></p>
@@ -2038,6 +2028,16 @@
 <div class="spec">6.83&quot; display · Qualcomm SM6435-AA Snapdragon  · 8 GB RAM · 9000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/xiaomi-redmi-note-17-pro-5g-(china).html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=xiaomi-redmi-note-17-pro-5g-(china)">Compare</a></div>
+</div></div><div class="card" data-name="apple iphone 7 apple smartphones" data-brand="Apple" data-price="65000" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/apple-iphone-7/main-card.webp"><img class="cardimg" src="img/apple-iphone-7/main-card.jpg" alt="Apple iPhone 7" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/apple-iphone-7.html">Apple iPhone 7</a></p>
+<div class="price"><span class="prc" data-pkr="65000"><b class="pkrv">Rs 65,000</b> <span class="usdv">$235</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">4.7&quot; display</div><div class="spec">Apple A10 Fusion</div><div class="spec">2 GB RAM</div><div class="spec">1960 mAh</div>
+<div class="spec">4.7&quot; display · Apple A10 Fusion · 2 GB RAM · 1960 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/apple-iphone-7.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=apple-iphone-7">Compare</a></div>
 </div></div><div class="card" data-name="realme p4 realme smartphones" data-brand="Realme" data-price="65999" data-year="2025">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/realme-p4-5g/main-card.webp"><img class="cardimg" src="img/realme-p4-5g/main-card.jpg" alt="Realme P4" width="393" height="480" loading="lazy"></picture>
@@ -2488,16 +2488,6 @@
 <div class="spec">5.0&quot; display · Qualcomm MSM8916 Snapdragon 410 · 2 GB RAM · 2420 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/oppo-mirror-5.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=oppo-mirror-5">Compare</a></div>
-</div></div><div class="card" data-name="alcatel idol 4s alcatel smartphones" data-brand="Alcatel" data-price="67999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/alcatel-idol-4s/main-card.webp"><img class="cardimg" src="img/alcatel-idol-4s/main-card.jpg" alt="Alcatel Idol 4s" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/alcatel-idol-4s.html">Alcatel Idol 4s</a></p>
-<div class="price"><span class="prc" data-pkr="67999"><b class="pkrv">Rs 67,999</b> <span class="usdv">$246</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8976 Snapdragon 652</div><div class="spec">3 GB RAM</div><div class="spec">3000 mAh</div>
-<div class="spec">5.5&quot; display · Qualcomm MSM8976 Snapdragon 652 · 3 GB RAM · 3000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/alcatel-idol-4s.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=alcatel-idol-4s">Compare</a></div>
 </div></div><div class="card" data-name="oneplus 10r 5g oneplus smartphones" data-brand="OnePlus" data-price="67999" data-year="2022">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/oneplus-10r-5g/main-card.webp"><img class="cardimg" src="img/oneplus-10r-5g/main-card.jpg" alt="OnePlus 10r 5G" width="480" height="480" loading="lazy"></picture>
@@ -2610,7 +2600,7 @@
 <a class="btn alt" href="compare.html?a=blackview-bv7100">Compare</a></div>
 </div></div><div class="card" data-name="vivo iqoo z3 5g vivo smartphones" data-brand="Vivo" data-price="67999" data-year="2021">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/vivo-iqoo-z3-5g/main-card.webp"><img class="cardimg" src="img/vivo-iqoo-z3-5g/main-card.jpg" alt="Vivo iQOO Z3 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/vivo-iqoo-z3-5g.html">Vivo iQOO Z3 5G</a></p>
@@ -2908,16 +2898,6 @@
 <div class="spec">5.8&quot; display · Exynos 8895 · 4 GB RAM · 3000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/samsung-galaxy-s8.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=samsung-galaxy-s8">Compare</a></div>
-</div></div><div class="card" data-name="apple iphone 12 mini apple smartphones" data-brand="Apple" data-price="70999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/apple-iphone-12-mini/main-card.webp"><img class="cardimg" src="img/apple-iphone-12-mini/main-card.jpg" alt="Apple iPhone 12 Mini" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/apple-iphone-12-mini.html">Apple iPhone 12 Mini</a></p>
-<div class="price"><span class="prc" data-pkr="70999"><b class="pkrv">Rs 70,999</b> <span class="usdv">$257</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.4&quot; display</div><div class="spec">Apple A14 Bionic</div><div class="spec">4 GB RAM</div><div class="spec">2227 mAh</div>
-<div class="spec">5.4&quot; display · Apple A14 Bionic · 4 GB RAM · 2227 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/apple-iphone-12-mini.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=apple-iphone-12-mini">Compare</a></div>
 </div></div><div class="card" data-name="realme 11 5g realme smartphones" data-brand="Realme" data-price="70999" data-year="2023">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/realme-11-5g/main-card.webp"><img class="cardimg" src="img/realme-11-5g/main-card.jpg" alt="Realme 11 5G" width="480" height="480" loading="lazy"></picture>
@@ -3998,4 +3978,24 @@
 <div class="spec">6.59&quot; display · Qualcomm SM6375 Snapdragon 695 5G · 6 / 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/oneplus-nord-ce-2-lite-5g.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=oneplus-nord-ce-2-lite-5g">Compare</a></div>
+</div></div><div class="card" data-name="honor x20 se honor smartphones" data-brand="Honor" data-price="73999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/honor-x20-se/main-card.webp"><img class="cardimg" src="img/honor-x20-se/main-card.jpg" alt="Honor X20 SE" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-x20-se.html">Honor X20 SE</a></p>
+<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Mediatek Dimensity 700</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.6&quot; display · Mediatek Dimensity 700 · 6 / 8 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/honor-x20-se.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-x20-se">Compare</a></div>
+</div></div><div class="card" data-name="lg g3 stylus lg smartphones" data-brand="LG" data-price="73999" data-year="2014">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/lg-g3-stylus/main-card.webp"><img class="cardimg" src="img/lg-g3-stylus/main-card.jpg" alt="LG G3 Stylus" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/lg-g3-stylus.html">LG G3 Stylus</a></p>
+<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Mediatek MT6582</div><div class="spec">1 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">5.5&quot; display · Mediatek MT6582 · 1 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/lg-g3-stylus.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=lg-g3-stylus">Compare</a></div>
 </div></div>

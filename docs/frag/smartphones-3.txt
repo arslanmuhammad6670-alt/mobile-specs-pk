@@ -1300,7 +1300,7 @@
 <a class="btn alt" href="compare.html?a=poco-x5-5g">Compare</a></div>
 </div></div><div class="card" data-name="poco x5 pro 5g poco smartphones" data-brand="Poco" data-price="" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/poco-x5-pro-5g/main-card.webp"><img class="cardimg" src="img/poco-x5-pro-5g/main-card.jpg" alt="Poco X5 Pro 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/poco-x5-pro-5g.html">Poco X5 Pro 5G</a></p>
@@ -2210,7 +2210,7 @@
 <a class="btn alt" href="compare.html?a=vivo-s18e">Compare</a></div>
 </div></div><div class="card" data-name="vivo t2 pro 5g vivo smartphones" data-brand="Vivo" data-price="77999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/vivo-t2-pro-5g/main-card.webp"><img class="cardimg" src="img/vivo-t2-pro-5g/main-card.jpg" alt="Vivo T2 Pro 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/vivo-t2-pro-5g.html">Vivo T2 Pro 5G</a></p>
@@ -2470,7 +2470,7 @@
 <a class="btn alt" href="compare.html?a=vivo-y56-5g">Compare</a></div>
 </div></div><div class="card" data-name="vivo y78 5g vivo smartphones" data-brand="Vivo" data-price="" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/vivo-y78-5g/main-card.webp"><img class="cardimg" src="img/vivo-y78-5g/main-card.jpg" alt="Vivo Y78 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/vivo-y78-5g.html">Vivo Y78 5G</a></p>
@@ -2540,7 +2540,7 @@
 <a class="btn alt" href="compare.html?a=vivo-iqoo-neo9-pro">Compare</a></div>
 </div></div><div class="card" data-name="vivo iqoo z7 pro 5g vivo smartphones" data-brand="Vivo" data-price="58999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/vivo-iqoo-z7-pro-5g/main-card.webp"><img class="cardimg" src="img/vivo-iqoo-z7-pro-5g/main-card.jpg" alt="Vivo iQOO Z7 Pro 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/vivo-iqoo-z7-pro-5g.html">Vivo iQOO Z7 Pro 5G</a></p>
@@ -2748,33 +2748,33 @@
 <div class="spec">5.0&quot; display · Spreadtrum SC7731E · 1 GB RAM · 2000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/alcatel-1c-(2022).html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=alcatel-1c-(2022)">Compare</a></div>
-</div></div><div class="card" data-name="apple iphone 14 plus apple smartphones" data-brand="Apple" data-price="79999" data-year="2022">
+</div></div><div class="card" data-name="apple iphone 14 plus apple smartphones" data-brand="Apple" data-price="445999" data-year="2022">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/apple-iphone-14-plus/main-card.webp"><img class="cardimg" src="img/apple-iphone-14-plus/main-card.jpg" alt="Apple iPhone 14 Plus" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/apple-iphone-14-plus.html">Apple iPhone 14 Plus</a></p>
-<div class="price"><span class="prc" data-pkr="79999"><b class="pkrv">Rs 79,999</b> <span class="usdv">$289</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Apple A15 Bionic</div><div class="spec">6 GB RAM</div><div class="spec">4323 mAh</div>
+<div class="price"><span class="prc" data-pkr="445999"><b class="pkrv">Rs 445,999</b> <span class="usdv">$1,612</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.7&quot; display</div><div class="spec">Apple A15 Bionic</div><div class="spec">6 GB RAM</div><div class="spec">4323 mAh</div>
 <div class="spec">6.7&quot; display · Apple A15 Bionic · 6 GB RAM · 4323 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/apple-iphone-14-plus.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=apple-iphone-14-plus">Compare</a></div>
-</div></div><div class="card" data-name="apple iphone 14 pro apple smartphones" data-brand="Apple" data-price="104999" data-year="2022">
+</div></div><div class="card" data-name="apple iphone 14 pro apple smartphones" data-brand="Apple" data-price="530999" data-year="2022">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/apple-iphone-14-pro/main-card.webp"><img class="cardimg" src="img/apple-iphone-14-pro/main-card.jpg" alt="Apple iPhone 14 Pro" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/apple-iphone-14-pro.html">Apple iPhone 14 Pro</a></p>
-<div class="price"><span class="prc" data-pkr="104999"><b class="pkrv">Rs 104,999</b> <span class="usdv">$379</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.1&quot; display</div><div class="spec">Apple A16 Bionic</div><div class="spec">6 GB RAM</div><div class="spec">3200 mAh</div>
+<div class="price"><span class="prc" data-pkr="530999"><b class="pkrv">Rs 530,999</b> <span class="usdv">$1,919</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.1&quot; display</div><div class="spec">Apple A16 Bionic</div><div class="spec">6 GB RAM</div><div class="spec">3200 mAh</div>
 <div class="spec">6.1&quot; display · Apple A16 Bionic · 6 GB RAM · 3200 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/apple-iphone-14-pro.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=apple-iphone-14-pro">Compare</a></div>
-</div></div><div class="card" data-name="apple iphone 14 pro max apple smartphones" data-brand="Apple" data-price="585000" data-year="2022">
+</div></div><div class="card" data-name="apple iphone 14 pro max apple smartphones" data-brand="Apple" data-price="545999" data-year="2022">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/apple-iphone-14-pro-max/main-card.webp"><img class="cardimg" src="img/apple-iphone-14-pro-max/main-card.jpg" alt="Apple iPhone 14 Pro Max" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/apple-iphone-14-pro-max.html">Apple iPhone 14 Pro Max</a></p>
-<div class="price"><span class="prc" data-pkr="585000"><b class="pkrv">Rs 585,000</b> <span class="usdv">$2,114</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.7&quot; LTPO Super Retina XDR OLED 120Hz</div><div class="spec">Apple A16 Bionic</div><div class="spec">6 GB RAM</div><div class="spec">4323 mAh</div>
+<div class="price"><span class="prc" data-pkr="545999"><b class="pkrv">Rs 545,999</b> <span class="usdv">$1,973</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.7&quot; LTPO Super Retina XDR OLED 120Hz</div><div class="spec">Apple A16 Bionic</div><div class="spec">6 GB RAM</div><div class="spec">4323 mAh</div>
 <div class="spec">Dynamic Island aur 48MP camera wala Apple flagship</div>
 <div class="btnrow"><a class="btn" href="phones/apple-iphone-14-pro-max.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=apple-iphone-14-pro-max">Compare</a></div>

@@ -600,7 +600,7 @@
 <a class="btn alt" href="../compare.html?a=lg-u8180">Compare</a></div>
 </div></div><div class="card" data-name="lg u8360 lg keypad phones" data-brand="LG" data-price="" data-year="2005">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/lg-u8360/main-card.webp"><img class="cardimg" src="../img/lg-u8360/main-card.jpg" alt="LG U8360" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Keypad Phones</span>
 <p class="ct"><a href="../keypad/lg-u8360.html">LG U8360</a></p>

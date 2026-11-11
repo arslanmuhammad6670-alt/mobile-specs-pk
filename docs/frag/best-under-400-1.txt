@@ -248,16 +248,6 @@
 <div class="spec">6.56&quot; display · Unisoc T606 · 2 / 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/motorola-moto-e14.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=motorola-moto-e14">Compare</a></div>
-</div></div><div class="card" data-name="asus zenfone max (m2) asus smartphones" data-brand="Asus" data-price="22999" data-year="0">
-
-<picture><source type="image/webp" srcset="img/asus-zenfone-max-(m2)/main-card.webp"><img class="cardimg" src="img/asus-zenfone-max-(m2)/main-card.jpg" alt="Asus Zenfone Max (M2)" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/asus-zenfone-max-(m2).html">Asus Zenfone Max (M2)</a></p>
-<div class="price"><span class="prc" data-pkr="22999"><b class="pkrv">Rs 22,999</b> <span class="usdv">$83</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.26&quot; display</div><div class="spec">Octa-core</div><div class="spec">3 GB RAM</div><div class="spec">4000 mAh</div>
-<div class="spec">6.26&quot; display · Octa-core · 3 GB RAM · 4000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/asus-zenfone-max-(m2).html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=asus-zenfone-max-(m2)">Compare</a></div>
 </div></div><div class="card" data-name="tecno camon iclick tecno smartphones" data-brand="Tecno" data-price="22999" data-year="0">
 
 <picture><source type="image/webp" srcset="img/tecno-camon-iclick/main-card.webp"><img class="cardimg" src="img/tecno-camon-iclick/main-card.jpg" alt="Tecno Camon Iclick" width="480" height="480" loading="lazy"></picture>
@@ -878,6 +868,16 @@
 <div class="spec">5.2&quot; display · Kirin 650 · 2 GB RAM · 3000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/huawei-honor-5c.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=huawei-honor-5c">Compare</a></div>
+</div></div><div class="card" data-name="alcatel idol 4 alcatel smartphones" data-brand="Alcatel" data-price="26750" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/alcatel-idol-4/main-card.webp"><img class="cardimg" src="img/alcatel-idol-4/main-card.jpg" alt="Alcatel Idol 4" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/alcatel-idol-4.html">Alcatel Idol 4</a></p>
+<div class="price"><span class="prc" data-pkr="26750"><b class="pkrv">Rs 26,750</b> <span class="usdv">$97</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">5.2&quot; display</div><div class="spec">Qualcomm MSM8952 Snapdragon 617</div><div class="spec">2 / 3 GB RAM</div><div class="spec">2610 mAh</div>
+<div class="spec">5.2&quot; display · Qualcomm MSM8952 Snapdragon 617 · 2 / 3 GB RAM · 2610 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/alcatel-idol-4.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=alcatel-idol-4">Compare</a></div>
 </div></div><div class="card" data-name="infinix smart 9 infinix smartphones" data-brand="Infinix" data-price="26999" data-year="2024">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/infinix-smart-9/main-card.webp"><img class="cardimg" src="img/infinix-smart-9/main-card.jpg" alt="Infinix Smart 9" width="480" height="480" loading="lazy"></picture>
@@ -3098,6 +3098,16 @@
 <div class="spec">3.5&quot; display · 600 MHz Cortex-A8 · 1400 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/apple-iphone-3gs.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=apple-iphone-3gs">Compare</a></div>
+</div></div><div class="card" data-name="asus zenfone max pro (m2) asus smartphones" data-brand="Asus" data-price="33999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/asus-zenfone-max-pro-(m2)/main-card.webp"><img class="cardimg" src="img/asus-zenfone-max-pro-(m2)/main-card.jpg" alt="Asus Zenfone Max Pro (M2)" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/asus-zenfone-max-pro-(m2).html">Asus Zenfone Max Pro (M2)</a></p>
+<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.26&quot; display</div><div class="spec">Octa-core</div><div class="spec">3 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.26&quot; display · Octa-core · 3 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/asus-zenfone-max-pro-(m2).html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=asus-zenfone-max-pro-(m2)">Compare</a></div>
 </div></div><div class="card" data-name="vivo y02a vivo smartphones" data-brand="Vivo" data-price="33999" data-year="2023">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/vivo-y02a/main-card.webp"><img class="cardimg" src="img/vivo-y02a/main-card.jpg" alt="Vivo Y02a" width="480" height="480" loading="lazy"></picture>
@@ -3158,6 +3168,16 @@
 <div class="spec">5.5&quot; display · Mediatek MT6737T · 2 GB RAM · 2620 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/sony-xperia-l1.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=sony-xperia-l1">Compare</a></div>
+</div></div><div class="card" data-name="alcatel 3x (2019) alcatel smartphones" data-brand="Alcatel" data-price="33999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/alcatel-3x-(2019)/main-card.webp"><img class="cardimg" src="img/alcatel-3x-(2019)/main-card.jpg" alt="Alcatel 3x (2019)" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/alcatel-3x-(2019).html">Alcatel 3x (2019)</a></p>
+<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">5.7&quot; display</div><div class="spec">Mediatek MT6739</div><div class="spec">2 / 3 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">5.7&quot; display · Mediatek MT6739 · 2 / 3 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/alcatel-3x-(2019).html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=alcatel-3x-(2019)">Compare</a></div>
 </div></div><div class="card" data-name="motorola rizr z8 motorola smartphones" data-brand="Motorola" data-price="33999" data-year="2007">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/motorola-rizr-z8/main-card.webp"><img class="cardimg" src="img/motorola-rizr-z8/main-card.jpg" alt="Motorola Rizr Z8" width="480" height="480" loading="lazy"></picture>
@@ -3198,6 +3218,16 @@
 <div class="spec">5.0&quot; display · Mediatek MT6592 · 1 GB RAM · 2000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/vivo-x3s.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=vivo-x3s">Compare</a></div>
+</div></div><div class="card" data-name="alcatel 5v alcatel smartphones" data-brand="Alcatel" data-price="33999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/alcatel-5v/main-card.webp"><img class="cardimg" src="img/alcatel-5v/main-card.jpg" alt="Alcatel 5v" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/alcatel-5v.html">Alcatel 5v</a></p>
+<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.2&quot; display</div><div class="spec">Mediatek MT6762 Helio P22</div><div class="spec">3 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.2&quot; display · Mediatek MT6762 Helio P22 · 3 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/alcatel-5v.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=alcatel-5v">Compare</a></div>
 </div></div><div class="card" data-name="asus zenfone 2e asus smartphones" data-brand="Asus" data-price="33999" data-year="2015">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/asus-zenfone-2e/main-card.webp"><img class="cardimg" src="img/asus-zenfone-2e/main-card.jpg" alt="Asus Zenfone 2e" width="480" height="480" loading="lazy"></picture>
@@ -3948,16 +3978,6 @@
 <div class="spec">6.4&quot; display · Qualcomm SM6225 Snapdragon 680 4G · 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/motorola-moto-g42.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=motorola-moto-g42">Compare</a></div>
-</div></div><div class="card" data-name="asus zenfone max pro (m2) asus smartphones" data-brand="Asus" data-price="36999" data-year="0">
-
-<picture><source type="image/webp" srcset="img/asus-zenfone-max-pro-(m2)/main-card.webp"><img class="cardimg" src="img/asus-zenfone-max-pro-(m2)/main-card.jpg" alt="Asus Zenfone Max Pro (M2)" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/asus-zenfone-max-pro-(m2).html">Asus Zenfone Max Pro (M2)</a></p>
-<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.26&quot; display</div><div class="spec">Octa-core</div><div class="spec">3 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.26&quot; display · Octa-core · 3 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/asus-zenfone-max-pro-(m2).html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=asus-zenfone-max-pro-(m2)">Compare</a></div>
 </div></div><div class="card" data-name="tecno spark 8t tecno smartphones" data-brand="Tecno" data-price="36999" data-year="2021">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/tecno-spark-8t/main-card.webp"><img class="cardimg" src="img/tecno-spark-8t/main-card.jpg" alt="Tecno Spark 8t" width="480" height="480" loading="lazy"></picture>
@@ -3978,24 +3998,4 @@
 <div class="spec">6.35&quot; display · Qualcomm SDM665 Snapdragon 665 · 3 / 4 / 6 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/vivo-u10.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=vivo-u10">Compare</a></div>
-</div></div><div class="card" data-name="vivo t3 lite 5g vivo smartphones" data-brand="Vivo" data-price="36999" data-year="2024">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/vivo-t3-lite-5g/main-card.webp"><img class="cardimg" src="img/vivo-t3-lite-5g/main-card.jpg" alt="Vivo T3 Lite 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/vivo-t3-lite-5g.html">Vivo T3 Lite 5G</a></p>
-<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.56&quot; display</div><div class="spec">Mediatek Dimensity 6300</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.56&quot; display · Mediatek Dimensity 6300 · 4 / 6 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/vivo-t3-lite-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=vivo-t3-lite-5g">Compare</a></div>
-</div></div><div class="card" data-name="htc s740 htc smartphones" data-brand="HTC" data-price="36999" data-year="2008">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-s740/main-card.webp"><img class="cardimg" src="img/htc-s740/main-card.jpg" alt="HTC S740" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-s740.html">HTC S740</a></p>
-<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.4&quot; display</div><div class="spec">Qualcomm MSM7225 Snapdragon S1</div><div class="spec">1050 mAh</div>
-<div class="spec">2.4&quot; display · Qualcomm MSM7225 Snapdragon S1 · 1050 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-s740.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-s740">Compare</a></div>
 </div></div>

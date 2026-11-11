@@ -390,7 +390,7 @@
 <a class="btn alt" href="../compare.html?a=honor-dvd-an00">Compare</a></div>
 </div></div><div class="card" data-name="honor 400 smart 5g honor smartphones" data-brand="Honor" data-price="65999" data-year="2025">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/honor-lgn-nx1/main-card.webp"><img class="cardimg" src="../img/honor-lgn-nx1/main-card.jpg" alt="Honor 400 Smart 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/honor-lgn-nx1.html">Honor 400 Smart 5G</a></p>
@@ -420,7 +420,7 @@
 <a class="btn alt" href="../compare.html?a=honor-20-lite-10i">Compare</a></div>
 </div></div><div class="card" data-name="honor 400 lite honor smartphones" data-brand="Honor" data-price="" data-year="2025">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/honor-400-lite/main-card.webp"><img class="cardimg" src="../img/honor-400-lite/main-card.jpg" alt="Honor 400 Lite" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/honor-400-lite.html">Honor 400 Lite</a></p>

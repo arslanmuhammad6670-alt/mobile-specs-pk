@@ -2110,7 +2110,7 @@
 <a class="btn alt" href="compare.html?a=nothing-a001t">Compare</a></div>
 </div></div><div class="card" data-name="honor 400 smart 5g honor smartphones" data-brand="Honor" data-price="65999" data-year="2025">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/honor-lgn-nx1/main-card.webp"><img class="cardimg" src="img/honor-lgn-nx1/main-card.jpg" alt="Honor 400 Smart 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/honor-lgn-nx1.html">Honor 400 Smart 5G</a></p>

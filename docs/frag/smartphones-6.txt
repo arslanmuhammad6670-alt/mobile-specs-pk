@@ -780,7 +780,7 @@
 <a class="btn alt" href="compare.html?a=vivo-y51s">Compare</a></div>
 </div></div><div class="card" data-name="vivo y52s 5g vivo smartphones" data-brand="Vivo" data-price="61999" data-year="2020">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/vivo-y52s-5g/main-card.webp"><img class="cardimg" src="img/vivo-y52s-5g/main-card.jpg" alt="Vivo Y52s 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/vivo-y52s-5g.html">Vivo Y52s 5G</a></p>
@@ -1190,7 +1190,7 @@
 <a class="btn alt" href="compare.html?a=hmd-7.2">Compare</a></div>
 </div></div><div class="card" data-name="htc desire 19s htc smartphones" data-brand="HTC" data-price="55999" data-year="2019">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/htc-desire-19s/main-card.webp"><img class="cardimg" src="img/htc-desire-19s/main-card.jpg" alt="HTC Desire 19s" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/htc-desire-19s.html">HTC Desire 19s</a></p>
@@ -1540,7 +1540,7 @@
 <a class="btn alt" href="compare.html?a=huawei-p-smart-z">Compare</a></div>
 </div></div><div class="card" data-name="huawei p30 huawei smartphones" data-brand="Huawei" data-price="68999" data-year="2019">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/huawei-p30/main-card.webp"><img class="cardimg" src="img/huawei-p30/main-card.jpg" alt="Huawei P30" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-p30.html">Huawei P30</a></p>

@@ -1050,7 +1050,7 @@
 <a class="btn alt" href="../compare.html?a=htc-desire-20-pro">Compare</a></div>
 </div></div><div class="card" data-name="htc desire 19s htc smartphones" data-brand="HTC" data-price="55999" data-year="2019">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/htc-desire-19s/main-card.webp"><img class="cardimg" src="../img/htc-desire-19s/main-card.jpg" alt="HTC Desire 19s" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/htc-desire-19s.html">HTC Desire 19s</a></p>
@@ -1200,7 +1200,7 @@
 <a class="btn alt" href="../compare.html?a=htc-a101">Compare</a></div>
 </div></div><div class="card" data-name="htc a103+ htc tablets" data-brand="HTC" data-price="58999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/htc-a103+/main-card.webp"><img class="cardimg" src="../img/htc-a103+/main-card.jpg" alt="HTC A103+" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Tablets</span>
 <p class="ct"><a href="../tablets/htc-a103+.html">HTC A103+</a></p>

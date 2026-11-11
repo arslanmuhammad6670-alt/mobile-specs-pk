@@ -360,7 +360,7 @@
 <a class="btn alt" href="../compare.html?a=infinix-hot-60-pro+">Compare</a></div>
 </div></div><div class="card" data-name="infinix hot 60 5g infinix smartphones" data-brand="Infinix" data-price="" data-year="2025">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="../img/infinix-hot-60-5g/main-card.webp"><img class="cardimg" src="../img/infinix-hot-60-5g/main-card.jpg" alt="Infinix Hot 60 5G" width="480" height="320" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/infinix-hot-60-5g/main-card.webp"><img class="cardimg" src="../img/infinix-hot-60-5g/main-card.jpg" alt="Infinix Hot 60 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-hot-60-5g.html">Infinix Hot 60 5G</a></p>
@@ -370,7 +370,7 @@
 <a class="btn alt" href="../compare.html?a=infinix-hot-60-5g">Compare</a></div>
 </div></div><div class="card" data-name="infinix smart 20e infinix smartphones" data-brand="Infinix" data-price="" data-year="0">
 
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-smart-20e/main-card.webp"><img class="cardimg" src="../img/infinix-smart-20e/main-card.jpg" alt="Infinix Smart 20e" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-smart-20e.html">Infinix Smart 20e</a></p>

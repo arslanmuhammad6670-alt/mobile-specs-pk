@@ -1630,7 +1630,7 @@
 <a class="btn alt" href="../compare.html?a=nokia-e90">Compare</a></div>
 </div></div><div class="card" data-name="nokia 5700 nokia smartphones" data-brand="Nokia" data-price="55999" data-year="2007">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/nokia-5700/main-card.webp"><img class="cardimg" src="../img/nokia-5700/main-card.jpg" alt="Nokia 5700" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/nokia-5700.html">Nokia 5700</a></p>

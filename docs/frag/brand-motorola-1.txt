@@ -1830,7 +1830,7 @@
 <a class="btn alt" href="../compare.html?a=motorola-moto-g-4g-(2nd-gen)">Compare</a></div>
 </div></div><div class="card" data-name="motorola moto x5 motorola smartphones" data-brand="Motorola" data-price="" data-year="0">
 
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/motorola-moto-x5/main-card.webp"><img class="cardimg" src="../img/motorola-moto-x5/main-card.jpg" alt="Motorola Moto X5" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/motorola-moto-x5.html">Motorola Moto X5</a></p>

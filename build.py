@@ -186,7 +186,7 @@ EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide
     # officially launched in Pakistan; S8/S8+ now carry MobileInto PK expected
     # prices, S8 Ultra keeps its EUR conversion — see memory 2026-11-09)
     "samsung-galaxy-tab-s8", "samsung-galaxy-tab-s8+", "samsung-galaxy-tab-s8-ultra",
-    "xiaomi-14-pro", "redmi-k80", "xiaomi-redmi-k90-5g", "poco-f7",
+    "redmi-k80", "xiaomi-redmi-k90-5g", "poco-f7",
     "oneplus-nord-5-5g", "oneplus-ace-6-5g", "oneplus-15r-5g",
     "huawei-nova-15-5g", "huawei-nova-15-pro-5g", "huawei-nova-15-ultra-5g",
     "oneplus-pad-lite", "oneplus-pad-3", "oneplus-ace-5-racing-5g", "huawei-mate-x7-5g",

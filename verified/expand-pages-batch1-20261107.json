@@ -11899,17 +11899,17 @@
   "cat": "Smartphones",
   "hl": [
    "6.5\" display",
-   "Mediatek MT6761 Helio A22",
-   "3 GB RAM",
-   "5080 mAh"
+   "Snapdragon 460",
+   "4 / 6 / 8 GB RAM",
+   "5000 mAh"
   ],
   "name": "Oppo A53",
-  "price": 52999,
-  "price_src": "approx",
+  "price": 27999,
+  "price_src": "https://www.whatmobile.com.pk/Oppo_A53",
   "rows": [
    [
     "Launch Year",
-    "2023 (announced 2023, March 03)"
+    "2020 (announced 2020, August 20)"
    ],
    [
     "Region",
@@ -11917,51 +11917,55 @@
    ],
    [
     "Body",
-    "164.6 x 76.9 x 9.4 mm (6.48 x 3.03 x 0.37 in); 193 g (6.81 oz); Glass front, plastic frame, plastic back; Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+    "163.9 x 75.1 x 8.4 mm (6.45 x 2.96 x 0.33 in); 186 g (6.56 oz); Dual SIM (Nano-SIM, dual stand-by)"
    ],
    [
     "Display",
-    "IPS LCD; 6.5 inches, 102.0 cm; 720 x 1600 pixels, 20:9 ratio (~270 ppi density)"
+    "IPS LCD, 90Hz; 6.5 inches, 102.0 cm; 720 x 1600 pixels, 20:9 ratio (~270 ppi density); Corning Gorilla Glass 3"
    ],
    [
     "Operating System",
-    "Android 12, Doke OS 3.0"
+    "Android 10, upgradable to Android 11"
    ],
    [
     "Chipset",
-    "Mediatek MT6761 Helio A22 (12 nm); Quad-core 2.0 GHz Cortex-A53; PowerVR GE8320"
+    "Qualcomm SM4250 Snapdragon 460 (11 nm); Octa-core (4x1.8 GHz Kryo 240 & 4x1.6 GHz Kryo 240); Adreno 610"
    ],
    [
     "RAM",
-    "3 GB"
+    "4 / 6 / 8 GB"
    ],
    [
     "Storage",
-    "16GB; Card: microSDXC (uses shared SIM slot)"
+    "64GB, 128GB, 256GB; Card: microSDXC (dedicated slot)"
    ],
    [
     "Main Camera",
-    "12 MP"
+    "13 MP, f/2.2, 25mm (wide), 1/3.06\", 1.12\u00b5m, PDAF; 2 MP (macro); auxiliary lens"
    ],
    [
     "Selfie Camera",
-    "5 MP"
+    "16 MP, f/2.0, (wide), 1/3.06\", 1.0\u00b5m"
    ],
    [
     "Battery",
-    "5080 mAh, non-removable"
+    "Li-Po 5000 mAh, non-removable"
    ],
    [
     "Charging",
-    "10W wired"
+    "18W wired"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (rear-mounted), accelerometer, proximity, compass"
    ],
    [
     "Wi-Fi",
-    "Wi-Fi 802.11 a/b/g/n/ac"
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
    ],
    [
     "Bluetooth",
-    "5.0, A2DP, LE"
+    "5.0, A2DP, LE, aptX HD"
    ],
    [
     "GPS",
@@ -11973,17 +11977,17 @@
    ],
    [
     "USB",
-    "USB Type-C, OTG"
+    "USB Type-C 2.0, OTG"
    ],
    [
     "Colors",
-    "Rock Grey, Murky Black, Starry Blue"
+    "Fairy White, Electric Black, Fancy Blue"
    ]
   ],
   "slug": "oppo-a53",
   "source": "",
-  "tag": "6.5\" display \u00b7 Mediatek MT6761 Helio A22 \u00b7 3 GB RAM \u00b7 5080 mAh",
-  "year": 2023
+  "tag": "6.5\" display \u00b7 Snapdragon 460 \u00b7 4 / 6 / 8 GB RAM \u00b7 5000 mAh",
+  "year": 2020
  },
  {
   "brand": "Oppo",
@@ -34293,19 +34297,18 @@
   "brand": "Nokia",
   "cat": "Smartphones",
   "hl": [
-   "6.4\" display",
-   "Qualcomm SDM730 Snapdragon 730G",
-   "4 / 6 / 8 GB RAM",
-   "4000 mAh"
+   "4.3\" display",
+   "Snapdragon 200",
+   "1 GB RAM",
+   "1800 mAh"
   ],
   "name": "Nokia X2",
-  "price": null,
+  "price": 27999,
   "price_src": "approx",
-  "price_unverified": true,
   "rows": [
    [
     "Launch Year",
-    "2019 (announced 2019, September 24)"
+    "2014 (announced 2014, June. Released 2014, July)"
    ],
    [
     "Region",
@@ -34313,73 +34316,73 @@
    ],
    [
     "Body",
-    "158.7 x 75.2 x 8.6 mm (6.25 x 2.96 x 0.34 in); 182 g (6.42 oz); Glass front (Gorilla Glass 5), glass back (Gorilla Glass 5), plastic frame; Dual SIM (Nano-SIM, dual stand-by)"
+    "121.7 x 68.3 x 11.1 mm (4.79 x 2.69 x 0.44 in); 150 g (5.29 oz); Dual SIM (Micro-SIM, dual stand-by)"
    ],
    [
     "Display",
-    "Super AMOLED; 6.4 inches, 100.5 cm; 1080 x 2340 pixels, 19.5:9 ratio (~403 ppi density)"
+    "IPS LCD; 4.3 inches, 52.6 cm; 480 x 800 pixels, 5:3 ratio (~217 ppi density); Scratch-resistant glass, ClearBlack display"
    ],
    [
     "Operating System",
-    "Android 9.0 (Pie), upgradable to Android 10, Realme UI"
+    "Android 4.3 (Jelly Bean), X platform 2"
    ],
    [
     "Chipset",
-    "Qualcomm SDM730 Snapdragon 730G (8 nm); Octa-core (2x2.2 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver); Adreno 618"
+    "Qualcomm Snapdragon 200 (28 nm); Dual-core 1.2 GHz Cortex-A7; Adreno 302"
    ],
    [
     "RAM",
-    "4 / 6 / 8 GB"
+    "1 GB"
    ],
    [
     "Storage",
-    "64GB, 128GB, 256GB; Card: microSDXC (dedicated slot)"
+    "4GB; Card: microSDHC (dedicated slot)"
    ],
    [
     "Main Camera",
-    "64 MP, f/1.8, (wide), 1/1.72\", 0.8\u00b5m, PDAF"
+    "5 MP, 1/4.0\", AF; LED flash"
    ],
    [
     "Selfie Camera",
-    "32 MP, f/2.0, 26mm (wide), 1/2.8\", 0.8\u00b5m"
+    "VGA"
    ],
    [
     "Battery",
-    "4000 mAh, non-removable"
-   ],
-   [
-    "Charging",
-    "30W wired, 67% in 30 min (advertised)"
+    "Li-Ion 1800 mAh, removable (BV-5S)"
    ],
    [
     "Sensors",
-    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+    "Accelerometer, proximity"
    ],
    [
     "Wi-Fi",
-    "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+    "Wi-Fi 802.11 b/g/n, hotspot"
    ],
    [
     "Bluetooth",
-    "5.0, A2DP, LE"
+    "4.0, A2DP"
    ],
    [
     "GPS",
-    "GPS, GLONASS, GALILEO, BDS"
+    "GPS, GLONASS, BDS"
+   ],
+   [
+    "Radio",
+    "Stereo FM radio, RDS"
    ],
    [
     "USB",
-    "USB Type-C 2.0, OTG"
+    "microUSB 2.0"
    ],
    [
     "Colors",
-    "Pearl White, Pearl Blue, Pearl Green"
+    "Glossy green, orange, black, yellow, white, matt dark grey"
    ]
   ],
   "slug": "nokia-x2",
   "source": "",
-  "tag": "6.4\" display \u00b7 Qualcomm SDM730 Snapdragon 730G \u00b7 4 / 6 / 8 GB RAM \u00b7 4000 mAh",
-  "year": 2019
+  "tag": "4.3\" display \u00b7 Snapdragon 200 \u00b7 1 GB RAM \u00b7 1800 mAh",
+  "year": 2014
  },
  {
   "brand": "Huawei",

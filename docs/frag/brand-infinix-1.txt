@@ -1,16 +1,16 @@
-<div class="card" data-name="infinix hot 20 play infinix smartphones" data-brand="Infinix" data-price="41999" data-year="2022">
+<div class="card" data-name="infinix hot 20 play infinix smartphones" data-brand="Infinix" data-price="29999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-hot-20-play/main-card.webp"><img class="cardimg" src="../img/infinix-hot-20-play/main-card.jpg" alt="Infinix Hot 20 Play" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-hot-20-play.html">Infinix Hot 20 Play</a></p>
-<div class="price"><span class="prc" data-pkr="41999"><b class="pkrv">Rs 41,999</b> <span class="usdv">$152</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.82&quot; display</div><div class="spec">Mediatek MT6765 Helio G37</div><div class="spec">4 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="price"><span class="prc" data-pkr="29999"><b class="pkrv">Rs 29,999</b> <span class="usdv">$108</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.82&quot; display</div><div class="spec">Mediatek MT6765 Helio G37</div><div class="spec">4 GB RAM</div><div class="spec">6000 mAh</div>
 <div class="spec">6.82&quot; display · Mediatek MT6765 Helio G37 · 4 GB RAM · 6000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-hot-20-play.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-hot-20-play">Compare</a></div>
 </div></div><div class="card" data-name="infinix hot 20s infinix smartphones" data-brand="Infinix" data-price="34999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-hot-20s/main-card.webp"><img class="cardimg" src="../img/infinix-hot-20s/main-card.jpg" alt="Infinix Hot 20S" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-hot-20s.html">Infinix Hot 20S</a></p>
@@ -20,7 +20,7 @@
 <a class="btn alt" href="../compare.html?a=infinix-hot-20s">Compare</a></div>
 </div></div><div class="card" data-name="infinix hot 20 infinix smartphones" data-brand="Infinix" data-price="60999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-hot-20/main-card.webp"><img class="cardimg" src="../img/infinix-hot-20/main-card.jpg" alt="Infinix Hot 20" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-hot-20.html">Infinix Hot 20</a></p>
@@ -30,7 +30,7 @@
 <a class="btn alt" href="../compare.html?a=infinix-hot-20">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 12 (2023) infinix smartphones" data-brand="Infinix" data-price="69999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-note-12-(2023)/main-card.webp"><img class="cardimg" src="../img/infinix-note-12-(2023)/main-card.jpg" alt="Infinix Note 12 (2023)" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-note-12-(2023).html">Infinix Note 12 (2023)</a></p>
@@ -38,19 +38,19 @@
 <div class="spec">6.7&quot; display · Mediatek Helio G99 · 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-note-12-(2023).html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-note-12-(2023)">Compare</a></div>
-</div></div><div class="card" data-name="infinix zero ultra infinix smartphones" data-brand="Infinix" data-price="159999" data-year="2022">
+</div></div><div class="card" data-name="infinix zero ultra infinix smartphones" data-brand="Infinix" data-price="99999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-zero-ultra/main-card.webp"><img class="cardimg" src="../img/infinix-zero-ultra/main-card.jpg" alt="Infinix Zero Ultra" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-zero-ultra.html">Infinix Zero Ultra</a></p>
-<div class="price"><span class="prc" data-pkr="159999"><b class="pkrv">Rs 159,999</b> <span class="usdv">$578</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.8&quot; display</div><div class="spec">Mediatek Dimensity 920</div><div class="spec">8 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="price"><span class="prc" data-pkr="99999"><b class="pkrv">Rs 99,999</b> <span class="usdv">$361</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.8&quot; display</div><div class="spec">Mediatek Dimensity 920</div><div class="spec">8 GB RAM</div><div class="spec">4500 mAh</div>
 <div class="spec">6.8&quot; display · Mediatek Dimensity 920 · 8 GB RAM · 4500 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-zero-ultra.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-zero-ultra">Compare</a></div>
 </div></div><div class="card" data-name="infinix hot 20 5g infinix smartphones" data-brand="Infinix" data-price="76999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-hot-20-5g/main-card.webp"><img class="cardimg" src="../img/infinix-hot-20-5g/main-card.jpg" alt="Infinix Hot 20 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-hot-20-5g.html">Infinix Hot 20 5G</a></p>
@@ -60,7 +60,7 @@
 <a class="btn alt" href="../compare.html?a=infinix-hot-20-5g">Compare</a></div>
 </div></div><div class="card" data-name="infinix hot 20i infinix smartphones" data-brand="Infinix" data-price="37999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-hot-20i/main-card.webp"><img class="cardimg" src="../img/infinix-hot-20i/main-card.jpg" alt="Infinix Hot 20i" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-hot-20i.html">Infinix Hot 20i</a></p>
@@ -68,29 +68,29 @@
 <div class="spec">6.6&quot; display · Mediatek MT6762G Helio G25 · 2 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-hot-20i.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-hot-20i">Compare</a></div>
-</div></div><div class="card" data-name="infinix zero 20 infinix smartphones" data-brand="Infinix" data-price="63999" data-year="2022">
+</div></div><div class="card" data-name="infinix zero 20 infinix smartphones" data-brand="Infinix" data-price="79999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-zero-20/main-card.webp"><img class="cardimg" src="../img/infinix-zero-20/main-card.jpg" alt="Infinix Zero 20" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-zero-20.html">Infinix Zero 20</a></p>
-<div class="price"><span class="prc" data-pkr="63999"><b class="pkrv">Rs 63,999</b> <span class="usdv">$231</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek Helio G99</div><div class="spec">8 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="price"><span class="prc" data-pkr="79999"><b class="pkrv">Rs 79,999</b> <span class="usdv">$289</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek Helio G99</div><div class="spec">8 GB RAM</div><div class="spec">4500 mAh</div>
 <div class="spec">6.7&quot; display · Mediatek Helio G99 · 8 GB RAM · 4500 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-zero-20.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-zero-20">Compare</a></div>
-</div></div><div class="card" data-name="infinix note 12i 2022 infinix smartphones" data-brand="Infinix" data-price="47999" data-year="2022">
+</div></div><div class="card" data-name="infinix note 12i 2022 infinix smartphones" data-brand="Infinix" data-price="34999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-note-12i-2022/main-card.webp"><img class="cardimg" src="../img/infinix-note-12i-2022/main-card.jpg" alt="Infinix Note 12i 2022" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-note-12i-2022.html">Infinix Note 12i 2022</a></p>
-<div class="price"><span class="prc" data-pkr="47999"><b class="pkrv">Rs 47,999</b> <span class="usdv">$173</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek MT6769Z Helio G85</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="price"><span class="prc" data-pkr="34999"><b class="pkrv">Rs 34,999</b> <span class="usdv">$126</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek MT6769Z Helio G85</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
 <div class="spec">6.7&quot; display · Mediatek MT6769Z Helio G85 · 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-note-12i-2022.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-note-12i-2022">Compare</a></div>
 </div></div><div class="card" data-name="infinix hot 12 pro infinix smartphones" data-brand="Infinix" data-price="57999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-hot-12-pro/main-card.webp"><img class="cardimg" src="../img/infinix-hot-12-pro/main-card.jpg" alt="Infinix Hot 12 Pro" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-hot-12-pro.html">Infinix Hot 12 Pro</a></p>
@@ -100,7 +100,7 @@
 <a class="btn alt" href="../compare.html?a=infinix-hot-12-pro">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 12 pro infinix smartphones" data-brand="Infinix" data-price="44999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-note-12-pro/main-card.webp"><img class="cardimg" src="../img/infinix-note-12-pro/main-card.jpg" alt="Infinix Note 12 Pro" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-note-12-pro.html">Infinix Note 12 Pro</a></p>
@@ -110,7 +110,7 @@
 <a class="btn alt" href="../compare.html?a=infinix-note-12-pro">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 12 pro 5g infinix smartphones" data-brand="Infinix" data-price="44999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-note-12-pro-5g/main-card.webp"><img class="cardimg" src="../img/infinix-note-12-pro-5g/main-card.jpg" alt="Infinix Note 12 Pro 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-note-12-pro-5g.html">Infinix Note 12 Pro 5G</a></p>
@@ -120,7 +120,7 @@
 <a class="btn alt" href="../compare.html?a=infinix-note-12-pro-5g">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 12 5g infinix smartphones" data-brand="Infinix" data-price="60999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-note-12-5g/main-card.webp"><img class="cardimg" src="../img/infinix-note-12-5g/main-card.jpg" alt="Infinix Note 12 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-note-12-5g.html">Infinix Note 12 5G</a></p>
@@ -130,7 +130,7 @@
 <a class="btn alt" href="../compare.html?a=infinix-note-12-5g">Compare</a></div>
 </div></div><div class="card" data-name="infinix hot 11s nfc infinix smartphones" data-brand="Infinix" data-price="73999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-hot-11s-nfc/main-card.webp"><img class="cardimg" src="../img/infinix-hot-11s-nfc/main-card.jpg" alt="Infinix Hot 11s NFC" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-hot-11s-nfc.html">Infinix Hot 11s NFC</a></p>
@@ -138,19 +138,19 @@
 <div class="spec">6.78&quot; display · Mediatek MT6769H Helio G88 · 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-hot-11s-nfc.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-hot-11s-nfc">Compare</a></div>
-</div></div><div class="card" data-name="infinix hot 12 play infinix smartphones" data-brand="Infinix" data-price="18999" data-year="2022">
+</div></div><div class="card" data-name="infinix hot 12 play infinix smartphones" data-brand="Infinix" data-price="35999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-hot-12-play/main-card.webp"><img class="cardimg" src="../img/infinix-hot-12-play/main-card.jpg" alt="Infinix Hot 12 Play" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-hot-12-play.html">Infinix Hot 12 Play</a></p>
-<div class="price"><span class="prc" data-pkr="18999"><b class="pkrv">Rs 18,999</b> <span class="usdv">$69</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.82&quot; display</div><div class="spec">Mediatek MT6765V/CB Helio G37</div><div class="spec">4 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="price"><span class="prc" data-pkr="35999"><b class="pkrv">Rs 35,999</b> <span class="usdv">$130</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.82&quot; display</div><div class="spec">Mediatek MT6765V/CB Helio G37</div><div class="spec">4 GB RAM</div><div class="spec">6000 mAh</div>
 <div class="spec">6.82&quot; display · Mediatek MT6765V/CB Helio G37 · 4 GB RAM · 6000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-hot-12-play.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-hot-12-play">Compare</a></div>
 </div></div><div class="card" data-name="infinix hot 12 play nfc infinix smartphones" data-brand="Infinix" data-price="" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-hot-12-play-nfc/main-card.webp"><img class="cardimg" src="../img/infinix-hot-12-play-nfc/main-card.jpg" alt="Infinix Hot 12 Play NFC" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-hot-12-play-nfc.html">Infinix Hot 12 Play NFC</a></p>
@@ -158,19 +158,19 @@
 <div class="spec">6.82&quot; display · Unisoc T610 · 4 GB RAM · 6000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-hot-12-play-nfc.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-hot-12-play-nfc">Compare</a></div>
-</div></div><div class="card" data-name="infinix note 12 vip infinix smartphones" data-brand="Infinix" data-price="92999" data-year="2022">
+</div></div><div class="card" data-name="infinix note 12 vip infinix smartphones" data-brand="Infinix" data-price="64999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-note-12-vip/main-card.webp"><img class="cardimg" src="../img/infinix-note-12-vip/main-card.jpg" alt="Infinix Note 12 VIP" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-note-12-vip.html">Infinix Note 12 VIP</a></p>
-<div class="price"><span class="prc" data-pkr="92999"><b class="pkrv">Rs 92,999</b> <span class="usdv">$336</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek MT6781 Helio G96</div><div class="spec">4 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="price"><span class="prc" data-pkr="64999"><b class="pkrv">Rs 64,999</b> <span class="usdv">$235</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek MT6781 Helio G96</div><div class="spec">4 GB RAM</div><div class="spec">4500 mAh</div>
 <div class="spec">6.7&quot; display · Mediatek MT6781 Helio G96 · 4 GB RAM · 4500 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-note-12-vip.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-note-12-vip">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 12 g96 infinix smartphones" data-brand="Infinix" data-price="66999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-note-12-g96/main-card.webp"><img class="cardimg" src="../img/infinix-note-12-g96/main-card.jpg" alt="Infinix Note 12 G96" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-note-12-g96.html">Infinix Note 12 G96</a></p>
@@ -180,7 +180,7 @@
 <a class="btn alt" href="../compare.html?a=infinix-note-12-g96">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 12i infinix smartphones" data-brand="Infinix" data-price="53999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-note-12i/main-card.webp"><img class="cardimg" src="../img/infinix-note-12i/main-card.jpg" alt="Infinix Note 12i" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-note-12i.html">Infinix Note 12i</a></p>
@@ -188,29 +188,29 @@
 <div class="spec">6.82&quot; display · Mediatek MT6769Z Helio G85 · 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-note-12i.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-note-12i">Compare</a></div>
-</div></div><div class="card" data-name="infinix note 12 infinix smartphones" data-brand="Infinix" data-price="60999" data-year="2022">
+</div></div><div class="card" data-name="infinix note 12 infinix smartphones" data-brand="Infinix" data-price="54999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-note-12/main-card.webp"><img class="cardimg" src="../img/infinix-note-12/main-card.jpg" alt="Infinix Note 12" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-note-12.html">Infinix Note 12</a></p>
-<div class="price"><span class="prc" data-pkr="60999"><b class="pkrv">Rs 60,999</b> <span class="usdv">$220</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek MT6769H Helio G88</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="price"><span class="prc" data-pkr="54999"><b class="pkrv">Rs 54,999</b> <span class="usdv">$199</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek MT6769H Helio G88</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
 <div class="spec">6.7&quot; display · Mediatek MT6769H Helio G88 · 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-note-12.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-note-12">Compare</a></div>
-</div></div><div class="card" data-name="infinix hot 12 infinix smartphones" data-brand="Infinix" data-price="47999" data-year="2022">
+</div></div><div class="card" data-name="infinix hot 12 infinix smartphones" data-brand="Infinix" data-price="44999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-hot-12/main-card.webp"><img class="cardimg" src="../img/infinix-hot-12/main-card.jpg" alt="Infinix Hot 12" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-hot-12.html">Infinix Hot 12</a></p>
-<div class="price"><span class="prc" data-pkr="47999"><b class="pkrv">Rs 47,999</b> <span class="usdv">$173</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.82&quot; display</div><div class="spec">Mediatek MT6769Z Helio G85</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="price"><span class="prc" data-pkr="44999"><b class="pkrv">Rs 44,999</b> <span class="usdv">$163</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.82&quot; display</div><div class="spec">Mediatek MT6769Z Helio G85</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
 <div class="spec">6.82&quot; display · Mediatek MT6769Z Helio G85 · 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-hot-12.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-hot-12">Compare</a></div>
 </div></div><div class="card" data-name="infinix smart 6 hd infinix smartphones" data-brand="Infinix" data-price="25999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-smart-6-hd/main-card.webp"><img class="cardimg" src="../img/infinix-smart-6-hd/main-card.jpg" alt="Infinix Smart 6 HD" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-smart-6-hd.html">Infinix Smart 6 HD</a></p>
@@ -220,7 +220,7 @@
 <a class="btn alt" href="../compare.html?a=infinix-smart-6-hd">Compare</a></div>
 </div></div><div class="card" data-name="infinix hot 11 2022 infinix smartphones" data-brand="Infinix" data-price="34999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-hot-11-2022/main-card.webp"><img class="cardimg" src="../img/infinix-hot-11-2022/main-card.jpg" alt="Infinix Hot 11 2022" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-hot-11-2022.html">Infinix Hot 11 2022</a></p>
@@ -228,49 +228,49 @@
 <div class="spec">6.7&quot; display · Unisoc T610 · 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-hot-11-2022.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-hot-11-2022">Compare</a></div>
-</div></div><div class="card" data-name="infinix hot 12i infinix smartphones" data-brand="Infinix" data-price="44999" data-year="2022">
+</div></div><div class="card" data-name="infinix hot 12i infinix smartphones" data-brand="Infinix" data-price="41999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-hot-12i/main-card.webp"><img class="cardimg" src="../img/infinix-hot-12i/main-card.jpg" alt="Infinix Hot 12i" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-hot-12i.html">Infinix Hot 12i</a></p>
-<div class="price"><span class="prc" data-pkr="44999"><b class="pkrv">Rs 44,999</b> <span class="usdv">$163</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Mediatek MT6761 Helio A22</div><div class="spec">2 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="price"><span class="prc" data-pkr="41999"><b class="pkrv">Rs 41,999</b> <span class="usdv">$152</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.6&quot; display</div><div class="spec">Mediatek MT6761 Helio A22</div><div class="spec">2 GB RAM</div><div class="spec">5000 mAh</div>
 <div class="spec">6.6&quot; display · Mediatek MT6761 Helio A22 · 2 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-hot-12i.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-hot-12i">Compare</a></div>
-</div></div><div class="card" data-name="infinix zero 5g infinix smartphones" data-brand="Infinix" data-price="79999" data-year="2022">
+</div></div><div class="card" data-name="infinix zero 5g infinix smartphones" data-brand="Infinix" data-price="49999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-zero-5g/main-card.webp"><img class="cardimg" src="../img/infinix-zero-5g/main-card.jpg" alt="Infinix Zero 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-zero-5g.html">Infinix Zero 5G</a></p>
-<div class="price"><span class="prc" data-pkr="79999"><b class="pkrv">Rs 79,999</b> <span class="usdv">$289</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.78&quot; display</div><div class="spec">Mediatek Dimensity 900</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="price"><span class="prc" data-pkr="49999"><b class="pkrv">Rs 49,999</b> <span class="usdv">$181</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.78&quot; display</div><div class="spec">Mediatek Dimensity 900</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
 <div class="spec">6.78&quot; display · Mediatek Dimensity 900 · 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-zero-5g.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-zero-5g">Compare</a></div>
-</div></div><div class="card" data-name="infinix smart 5 pro infinix smartphones" data-brand="Infinix" data-price="21999" data-year="2021">
+</div></div><div class="card" data-name="infinix smart 5 pro infinix smartphones" data-brand="Infinix" data-price="15999" data-year="2021">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-smart-5-pro/main-card.webp"><img class="cardimg" src="../img/infinix-smart-5-pro/main-card.jpg" alt="Infinix Smart 5 Pro" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-smart-5-pro.html">Infinix Smart 5 Pro</a></p>
-<div class="price"><span class="prc" data-pkr="21999"><b class="pkrv">Rs 21,999</b> <span class="usdv">$80</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.52&quot; display</div><div class="spec">Unisoc SC9863A</div><div class="spec">2 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="price"><span class="prc" data-pkr="15999"><b class="pkrv">Rs 15,999</b> <span class="usdv">$58</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.52&quot; display</div><div class="spec">Unisoc SC9863A</div><div class="spec">2 GB RAM</div><div class="spec">6000 mAh</div>
 <div class="spec">6.52&quot; display · Unisoc SC9863A · 2 GB RAM · 6000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-smart-5-pro.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-smart-5-pro">Compare</a></div>
-</div></div><div class="card" data-name="infinix hot 11 play infinix smartphones" data-brand="Infinix" data-price="37999" data-year="2021">
+</div></div><div class="card" data-name="infinix hot 11 play infinix smartphones" data-brand="Infinix" data-price="39999" data-year="2021">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-hot-11-play/main-card.webp"><img class="cardimg" src="../img/infinix-hot-11-play/main-card.jpg" alt="Infinix Hot 11 Play" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-hot-11-play.html">Infinix Hot 11 Play</a></p>
-<div class="price"><span class="prc" data-pkr="37999"><b class="pkrv">Rs 37,999</b> <span class="usdv">$137</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.82&quot; display</div><div class="spec">Mediatek MT6765G Helio G35</div><div class="spec">4 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.82&quot; display</div><div class="spec">Mediatek MT6765G Helio G35</div><div class="spec">4 GB RAM</div><div class="spec">6000 mAh</div>
 <div class="spec">6.82&quot; display · Mediatek MT6765G Helio G35 · 4 GB RAM · 6000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-hot-11-play.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-hot-11-play">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 11i infinix smartphones" data-brand="Infinix" data-price="44999" data-year="2021">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-note-11i/main-card.webp"><img class="cardimg" src="../img/infinix-note-11i/main-card.jpg" alt="Infinix Note 11i" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-note-11i.html">Infinix Note 11i</a></p>
@@ -280,7 +280,7 @@
 <a class="btn alt" href="../compare.html?a=infinix-note-11i">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 11s infinix smartphones" data-brand="Infinix" data-price="57999" data-year="2021">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-note-11s/main-card.webp"><img class="cardimg" src="../img/infinix-note-11s/main-card.jpg" alt="Infinix Note 11s" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-note-11s.html">Infinix Note 11s</a></p>
@@ -290,7 +290,7 @@
 <a class="btn alt" href="../compare.html?a=infinix-note-11s">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 11 pro infinix smartphones" data-brand="Infinix" data-price="35999" data-year="2021">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-note-11-pro/main-card.webp"><img class="cardimg" src="../img/infinix-note-11-pro/main-card.jpg" alt="Infinix Note 11 Pro" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-note-11-pro.html">Infinix Note 11 Pro</a></p>
@@ -298,13 +298,13 @@
 <div class="spec">6.95&quot; display · Mediatek MT6781 Helio G96 · 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-note-11-pro.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-note-11-pro">Compare</a></div>
-</div></div><div class="card" data-name="infinix note 11 infinix smartphones" data-brand="Infinix" data-price="31999" data-year="2021">
+</div></div><div class="card" data-name="infinix note 11 infinix smartphones" data-brand="Infinix" data-price="28999" data-year="2021">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="../img/infinix-note-11/main-card.webp"><img class="cardimg" src="../img/infinix-note-11/main-card.jpg" alt="Infinix Note 11" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/infinix-note-11.html">Infinix Note 11</a></p>
-<div class="price"><span class="prc" data-pkr="31999"><b class="pkrv">Rs 31,999</b> <span class="usdv">$116</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek MT6769H Helio G88</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="price"><span class="prc" data-pkr="28999"><b class="pkrv">Rs 28,999</b> <span class="usdv">$105</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek MT6769H Helio G88</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
 <div class="spec">6.7&quot; display · Mediatek MT6769H Helio G88 · 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/infinix-note-11.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=infinix-note-11">Compare</a></div>

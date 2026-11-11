@@ -1324,11 +1324,11 @@
   "name": "Infinix Smart 9 HD",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 76,
-  "price_pkr": 20999,
+  "price": 87,
+  "price_pkr": 23999,
   "path": "phones/infinix-smart-9-hd.html",
   "sb": 9,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "infinix-smart-8-plus",
@@ -4165,11 +4165,11 @@
   "name": "Infinix Smart 10 HD",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 69,
-  "price_pkr": 18999,
+  "price": 85,
+  "price_pkr": 23499,
   "path": "phones/infinix-smart-10-hd.html",
   "sb": 18,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-note-40-pro-plus",
@@ -4220,11 +4220,11 @@
   "name": "Infinix GT 10 Pro",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 300,
-  "price_pkr": 82999,
+  "price": 289,
+  "price_pkr": 79999,
   "path": "phones/infinix-gt-10-pro.html",
   "sb": 8,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-hot-30-5g",
@@ -4242,11 +4242,11 @@
   "name": "Infinix Note 30 VIP",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 325,
-  "price_pkr": 89999,
+  "price": 307,
+  "price_pkr": 84999,
   "path": "phones/infinix-note-30-vip.html",
   "sb": 7,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-hot-30-play-nfc",
@@ -4340,33 +4340,33 @@
   "name": "Infinix Smart 7",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 105,
-  "price_pkr": 28999,
+  "price": 94,
+  "price_pkr": 25999,
   "path": "phones/infinix-smart-7.html",
   "sb": 2,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-zero-5g-2023",
   "name": "Infinix Zero 5G 2023",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 289,
-  "price_pkr": 79999,
+  "price": 199,
+  "price_pkr": 54999,
   "path": "phones/infinix-zero-5g-2023.html",
   "sb": 23,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-hot-20-play",
   "name": "Infinix Hot 20 Play",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 152,
-  "price_pkr": 41999,
+  "price": 108,
+  "price_pkr": 29999,
   "path": "phones/infinix-hot-20-play.html",
   "sb": 11,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-hot-20s",
@@ -4406,11 +4406,11 @@
   "name": "Infinix Zero Ultra",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 578,
-  "price_pkr": 159999,
+  "price": 361,
+  "price_pkr": 99999,
   "path": "phones/infinix-zero-ultra.html",
   "sb": 11,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-hot-20-5g",
@@ -4439,22 +4439,22 @@
   "name": "Infinix Zero 20",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 231,
-  "price_pkr": 63999,
+  "price": 289,
+  "price_pkr": 79999,
   "path": "phones/infinix-zero-20.html",
   "sb": 14,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-note-12i-2022",
   "name": "Infinix Note 12i 2022",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 173,
-  "price_pkr": 47999,
+  "price": 126,
+  "price_pkr": 34999,
   "path": "phones/infinix-note-12i-2022.html",
   "sb": 9,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-hot-12-pro",
@@ -4516,11 +4516,11 @@
   "name": "Infinix Hot 12 Play",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 69,
-  "price_pkr": 18999,
+  "price": 130,
+  "price_pkr": 35999,
   "path": "phones/infinix-hot-12-play.html",
   "sb": 21,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-hot-12-play-nfc",
@@ -4537,11 +4537,11 @@
   "name": "Infinix Note 12 VIP",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 336,
-  "price_pkr": 92999,
+  "price": 235,
+  "price_pkr": 64999,
   "path": "phones/infinix-note-12-vip.html",
   "sb": 12,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-note-12-g96",
@@ -4570,22 +4570,22 @@
   "name": "Infinix Note 12",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 220,
-  "price_pkr": 60999,
+  "price": 199,
+  "price_pkr": 54999,
   "path": "phones/infinix-note-12.html",
   "sb": 6,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-hot-12",
   "name": "Infinix Hot 12",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 173,
-  "price_pkr": 47999,
+  "price": 163,
+  "price_pkr": 44999,
   "path": "phones/infinix-hot-12.html",
   "sb": 9,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-smart-6-hd",
@@ -4614,44 +4614,44 @@
   "name": "Infinix Hot 12i",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 163,
-  "price_pkr": 44999,
+  "price": 152,
+  "price_pkr": 41999,
   "path": "phones/infinix-hot-12i.html",
   "sb": 21,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-zero-5g",
   "name": "Infinix Zero 5G",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 289,
-  "price_pkr": 79999,
+  "price": 181,
+  "price_pkr": 49999,
   "path": "phones/infinix-zero-5g.html",
   "sb": 22,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-smart-5-pro",
   "name": "Infinix Smart 5 Pro",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 80,
-  "price_pkr": 21999,
+  "price": 58,
+  "price_pkr": 15999,
   "path": "phones/infinix-smart-5-pro.html",
   "sb": 8,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-hot-11-play",
   "name": "Infinix Hot 11 Play",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 137,
-  "price_pkr": 37999,
+  "price": 145,
+  "price_pkr": 39999,
   "path": "phones/infinix-hot-11-play.html",
   "sb": 3,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "infinix-note-11i",
@@ -4691,11 +4691,11 @@
   "name": "Infinix Note 11",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 116,
-  "price_pkr": 31999,
+  "price": 105,
+  "price_pkr": 28999,
   "path": "phones/infinix-note-11.html",
   "sb": 20,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "honor-400",

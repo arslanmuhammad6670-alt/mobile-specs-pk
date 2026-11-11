@@ -3778,16 +3778,6 @@
 <div class="spec">6.55&quot; display · Qualcomm SM8350 Snapdragon 888 5G · 8 / 12 GB RAM · 4800 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/oppo-find-x5.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=oppo-find-x5">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy a17 samsung smartphones" data-brand="Samsung" data-price="72999" data-year="2025">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-a17-5g/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a17-5g/main-card.jpg" alt="Samsung Galaxy A17" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-a17-5g.html">Samsung Galaxy A17</a></p>
-<div class="price"><span class="prc" data-pkr="72999"><b class="pkrv">Rs 72,999</b> <span class="usdv">$264</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.7&quot; display</div><div class="spec">Exynos 1330</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.7&quot; display · Exynos 1330 · 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a17-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-a17-5g">Compare</a></div>
 </div></div><div class="card" data-name="tecno spark 40 pro tecno smartphones" data-brand="Tecno" data-price="73999" data-year="2025">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/tecno-spark-40-pro/main-card.webp"><img class="cardimg" src="img/tecno-spark-40-pro/main-card.jpg" alt="Tecno Spark 40 Pro" width="480" height="480" loading="lazy"></picture>
@@ -3998,4 +3988,14 @@
 <div class="spec">6.67&quot; display · Mediatek Dimensity 7300 · 6 / 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/nothing-cmf-phone-1.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=nothing-cmf-phone-1">Compare</a></div>
+</div></div><div class="card" data-name="oneplus nord ce 2 lite 5g oneplus smartphones" data-brand="OnePlus" data-price="73999" data-year="2022">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/oneplus-nord-ce-2-lite-5g/main-card.webp"><img class="cardimg" src="img/oneplus-nord-ce-2-lite-5g/main-card.jpg" alt="OnePlus Nord Ce 2 Lite 5G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oneplus-nord-ce-2-lite-5g.html">OnePlus Nord Ce 2 Lite 5G</a></p>
+<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.59&quot; display</div><div class="spec">Qualcomm SM6375 Snapdragon 695 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.59&quot; display · Qualcomm SM6375 Snapdragon 695 5G · 6 / 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oneplus-nord-ce-2-lite-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oneplus-nord-ce-2-lite-5g">Compare</a></div>
 </div></div>

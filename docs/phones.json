@@ -59,8 +59,8 @@
   "name": "Samsung Galaxy S25 Ultra",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 1500,
-  "price_pkr": 414999,
+  "price": 1662,
+  "price_pkr": 459999,
   "path": "phones/samsung-galaxy-s25-ultra.html",
   "sb": 0,
   "pl": "Market price"
@@ -235,8 +235,8 @@
   "name": "Infinix Hot 40i",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 112,
-  "price_pkr": 30999,
+  "price": 134,
+  "price_pkr": 36999,
   "path": "phones/infinix-hot-40i.html",
   "sb": 20,
   "pl": "Market price"
@@ -279,8 +279,8 @@
   "name": "Tecno Spark 20",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 119,
-  "price_pkr": 32999,
+  "price": 126,
+  "price_pkr": 34999,
   "path": "phones/tecno-spark-20.html",
   "sb": 7,
   "pl": "Market price"
@@ -796,11 +796,11 @@
   "name": "Infinix Note 40 Pro",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": 271,
-  "price_pkr": 74999,
+  "price": 289,
+  "price_pkr": 79999,
   "path": "phones/infinix-note-40-pro.html",
   "sb": 18,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "infinix-hot-50-pro-plus",
@@ -851,11 +851,11 @@
   "name": "Tecno Spark 30 Pro",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 145,
-  "price_pkr": 39999,
+  "price": 150,
+  "price_pkr": 41499,
   "path": "phones/tecno-spark-30-pro.html",
   "sb": 6,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "tecno-pova-6",
@@ -1027,11 +1027,11 @@
   "name": "Tecno Camon 40 Pro 4G",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 275,
-  "price_pkr": 75999,
+  "price": 311,
+  "price_pkr": 85999,
   "path": "phones/tecno-camon-40-pro.html",
   "sb": 21,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "tecno-camon-50-ultra-5g",
@@ -1874,11 +1874,11 @@
   "name": "Realme C75",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 170,
-  "price_pkr": 46999,
+  "price": 188,
+  "price_pkr": 51999,
   "path": "phones/realme-c75.html",
   "sb": 16,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "realme-note-60",
@@ -1962,11 +1962,11 @@
   "name": "Nothing Phone (2a)",
   "brand": "Nothing",
   "cat": "Smartphones",
-  "price": 423,
-  "price_pkr": 116999,
+  "price": 434,
+  "price_pkr": 119999,
   "path": "phones/nothing-phone-2a.html",
   "sb": 20,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "motorola-edge-50-fusion",
@@ -2050,22 +2050,22 @@
   "name": "Apple iPhone 14 Pro Max",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 2046,
-  "price_pkr": 565999,
+  "price": 2114,
+  "price_pkr": 585000,
   "path": "phones/apple-iphone-14-pro-max.html",
   "sb": 14,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "iphone-12",
   "name": "iPhone 12",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 632,
-  "price_pkr": 174999,
+  "price": 647,
+  "price_pkr": 179000,
   "path": "phones/iphone-12.html",
   "sb": 8,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "iphone-11",
@@ -2171,11 +2171,11 @@
   "name": "Realme C67",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 163,
-  "price_pkr": 44999,
+  "price": 145,
+  "price_pkr": 39999,
   "path": "phones/realme-c67.html",
   "sb": 13,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "honor-x6b",
@@ -2226,11 +2226,11 @@
   "name": "Tecno Pova 6 Neo",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 199,
-  "price_pkr": 54999,
+  "price": 181,
+  "price_pkr": 49999,
   "path": "phones/tecno-pova-6-neo.html",
   "sb": 9,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "vivo-y05",
@@ -4889,11 +4889,11 @@
   "name": "Redmi 14C",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 98,
-  "price_pkr": 26999,
+  "price": 108,
+  "price_pkr": 29999,
   "path": "phones/redmi-14c.html",
   "sb": 5,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "realme-c61",
@@ -43624,8 +43624,8 @@
   "name": "Samsung Galaxy A17",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 264,
-  "price_pkr": 72999,
+  "price": 379,
+  "price_pkr": 104999,
   "path": "phones/samsung-galaxy-a17-5g.html",
   "sb": 19,
   "pl": "Official price"

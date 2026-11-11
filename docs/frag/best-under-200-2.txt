@@ -1,4 +1,34 @@
-<div class="card" data-name="vivo t3 lite 5g vivo smartphones" data-brand="Vivo" data-price="36999" data-year="2024">
+<div class="card" data-name="motorola moto g42 motorola smartphones" data-brand="Motorola" data-price="36999" data-year="2022">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/motorola-moto-g42/main-card.webp"><img class="cardimg" src="img/motorola-moto-g42/main-card.jpg" alt="Motorola Moto G42" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-moto-g42.html">Motorola Moto G42</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.4&quot; display</div><div class="spec">Qualcomm SM6225 Snapdragon 680 4G</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.4&quot; display · Qualcomm SM6225 Snapdragon 680 4G · 4 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-moto-g42.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-moto-g42">Compare</a></div>
+</div></div><div class="card" data-name="tecno spark 8t tecno smartphones" data-brand="Tecno" data-price="36999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/tecno-spark-8t/main-card.webp"><img class="cardimg" src="img/tecno-spark-8t/main-card.jpg" alt="Tecno Spark 8t" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/tecno-spark-8t.html">Tecno Spark 8t</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Mediatek MT6765G Helio G35</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.6&quot; display · Mediatek MT6765G Helio G35 · 4 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/tecno-spark-8t.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=tecno-spark-8t">Compare</a></div>
+</div></div><div class="card" data-name="vivo u10 vivo smartphones" data-brand="Vivo" data-price="36999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/vivo-u10/main-card.webp"><img class="cardimg" src="img/vivo-u10/main-card.jpg" alt="Vivo U10" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/vivo-u10.html">Vivo U10</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.35&quot; display</div><div class="spec">Qualcomm SDM665 Snapdragon 665</div><div class="spec">3 / 4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.35&quot; display · Qualcomm SDM665 Snapdragon 665 · 3 / 4 / 6 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/vivo-u10.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=vivo-u10">Compare</a></div>
+</div></div><div class="card" data-name="vivo t3 lite 5g vivo smartphones" data-brand="Vivo" data-price="36999" data-year="2024">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/vivo-t3-lite-5g/main-card.webp"><img class="cardimg" src="img/vivo-t3-lite-5g/main-card.jpg" alt="Vivo T3 Lite 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -3968,34 +3998,4 @@
 <div class="spec">Octa Core Processor · 8 GB RAM · 5200 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/motorola-moto-g47.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=motorola-moto-g47">Compare</a></div>
-</div></div><div class="card" data-name="huawei enjoy 50 huawei smartphones" data-brand="Huawei" data-price="46999" data-year="0">
-
-<picture><source type="image/webp" srcset="img/huawei-enjoy-50/main-card.webp"><img class="cardimg" src="img/huawei-enjoy-50/main-card.jpg" alt="Huawei Enjoy 50" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-enjoy-50.html">Huawei Enjoy 50</a></p>
-<div class="price"><span class="prc" data-pkr="46999"><b class="pkrv">Rs 46,999</b> <span class="usdv">$170</span></span><span class="plabel">Estimated price</span></div><div class="spec">HiSilicon Kirin 710A</div><div class="spec">6 GB RAM</div><div class="spec">6000 mAh</div>
-<div class="spec">HiSilicon Kirin 710A · 6 GB RAM · 6000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-enjoy-50.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-enjoy-50">Compare</a></div>
-</div></div><div class="card" data-name="oneplus nord n200 5g oneplus smartphones" data-brand="OnePlus" data-price="46999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/oneplus-nord-n200-5g/main-card.webp"><img class="cardimg" src="img/oneplus-nord-n200-5g/main-card.jpg" alt="OnePlus Nord N200 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/oneplus-nord-n200-5g.html">OnePlus Nord N200 5G</a></p>
-<div class="price"><span class="prc" data-pkr="46999"><b class="pkrv">Rs 46,999</b> <span class="usdv">$170</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.49&quot; display</div><div class="spec">Qualcomm SM4350 Snapdragon 480 5G</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.49&quot; display · Qualcomm SM4350 Snapdragon 480 5G · 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/oneplus-nord-n200-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=oneplus-nord-n200-5g">Compare</a></div>
-</div></div><div class="card" data-name="tecno phantom 9 tecno smartphones" data-brand="Tecno" data-price="46999" data-year="2019">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/tecno-phantom-9/main-card.webp"><img class="cardimg" src="img/tecno-phantom-9/main-card.jpg" alt="Tecno Phantom 9" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/tecno-phantom-9.html">Tecno Phantom 9</a></p>
-<div class="price"><span class="prc" data-pkr="46999"><b class="pkrv">Rs 46,999</b> <span class="usdv">$170</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.39&quot; display</div><div class="spec">Mediatek MT6765 Helio P35</div><div class="spec">6 GB RAM</div><div class="spec">3500 mAh</div>
-<div class="spec">6.39&quot; display · Mediatek MT6765 Helio P35 · 6 GB RAM · 3500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/tecno-phantom-9.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=tecno-phantom-9">Compare</a></div>
 </div></div>

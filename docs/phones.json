@@ -6297,11 +6297,11 @@
   "name": "Oppo A53",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 192,
-  "price_pkr": 52999,
+  "price": 101,
+  "price_pkr": 27999,
   "path": "phones/oppo-a53.html",
   "sb": 4,
-  "pl": "Estimated price"
+  "pl": "Market price"
  },
  {
   "slug": "oppo-a16",
@@ -9069,11 +9069,11 @@
   "name": "Nokia X2",
   "brand": "Nokia",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 101,
+  "price_pkr": 27999,
   "path": "phones/nokia-x2.html",
   "sb": 2,
-  "unv": 1
+  "pl": "Estimated price"
  },
  {
   "slug": "huawei-honor-8",
@@ -41311,11 +41311,11 @@
   "name": "Nokia Nokia_X",
   "brand": "Nokia",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 112,
+  "price_pkr": 30999,
   "path": "phones/nokia-nokia-x.html",
   "sb": 23,
-  "unv": 1
+  "pl": "Estimated price"
  },
  {
   "slug": "nokia-3-v",

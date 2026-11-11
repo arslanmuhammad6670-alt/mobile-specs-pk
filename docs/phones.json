@@ -257,8 +257,8 @@
   "name": "Tecno Camon 30",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 199,
-  "price_pkr": 54999,
+  "price": 228,
+  "price_pkr": 62999,
   "path": "phones/tecno-camon-30.html",
   "sb": 21,
   "pl": "Market price"
@@ -884,11 +884,11 @@
   "name": "Redmi Note 13 Pro Plus 5G",
   "brand": "Xiaomi",
   "cat": "Smartphones",
-  "price": 506,
-  "price_pkr": 139999,
+  "price": 531,
+  "price_pkr": 146999,
   "path": "phones/redmi-note-13-pro-plus.html",
   "sb": 10,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "poco-x7",
@@ -4073,11 +4073,11 @@
   "name": "Nothing Phone (3a) Lite",
   "brand": "Nothing",
   "cat": "Smartphones",
-  "price": 397,
-  "price_pkr": 109899,
+  "price": 419,
+  "price_pkr": 115999,
   "path": "phones/nothing-phone-3a-lite-5g.html",
   "sb": 0,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "google-pixel",
@@ -4252,10 +4252,11 @@
   "name": "Infinix Hot 30 Play NFC",
   "brand": "Infinix",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 108,
+  "price_pkr": 29999,
   "path": "phones/infinix-hot-30-play-nfc.html",
-  "sb": 22
+  "sb": 22,
+  "pl": "Official price"
  },
  {
   "slug": "infinix-note-30-pro",
@@ -8067,11 +8068,11 @@
   "name": "Samsung Galaxy Z Fold 3",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 1016,
-  "price_pkr": 280999,
+  "price": 1138,
+  "price_pkr": 314999,
   "path": "phones/samsung-galaxy-z-fold-3.html",
   "sb": 8,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "tecno-spark-10-pro",
@@ -9079,11 +9080,12 @@
   "name": "Huawei Honor 8",
   "brand": "Huawei",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 97,
+  "price_pkr": 26750,
   "path": "phones/huawei-honor-8.html",
   "sb": 7,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "realme-c17",
@@ -10982,11 +10984,12 @@
   "name": "Huawei Honor 5x",
   "brand": "Huawei",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 54,
+  "price_pkr": 14999,
   "path": "phones/huawei-honor-5x.html",
   "sb": 15,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "oppo-a16s",
@@ -11950,11 +11953,11 @@
   "name": "Oppo A93s 5G",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 293,
-  "price_pkr": 80999,
+  "price": 220,
+  "price_pkr": 60999,
   "path": "phones/oppo-a93s-5g.html",
   "sb": 17,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "realme-narzo",
@@ -12632,11 +12635,12 @@
   "name": "Huawei Honor 5c",
   "brand": "Huawei",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 97,
+  "price_pkr": 26750,
   "path": "phones/huawei-honor-5c.html",
   "sb": 3,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "realme-x50-pro-5g",
@@ -16526,22 +16530,24 @@
   "name": "Huawei Honor 6",
   "brand": "Huawei",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 87,
+  "price_pkr": 23999,
   "path": "phones/huawei-honor-6.html",
   "sb": 8,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "huawei-honor-7",
   "name": "Huawei Honor 7",
   "brand": "Huawei",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 155,
+  "price_pkr": 42999,
   "path": "phones/huawei-honor-7.html",
   "sb": 14,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "oppo-a54s",
@@ -18880,11 +18886,12 @@
   "name": "Huawei Honor 7i",
   "brand": "Huawei",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 123,
+  "price_pkr": 33999,
   "path": "phones/huawei-honor-7i.html",
   "sb": 23,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "realme-7-5g",
@@ -22092,11 +22099,12 @@
   "name": "Huawei Honor V8",
   "brand": "Huawei",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 155,
+  "price_pkr": 42999,
   "path": "phones/huawei-honor-v8.html",
   "sb": 9,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "oppo-reno10-pro",
@@ -22653,11 +22661,12 @@
   "name": "Google Huawei Nexus 6p",
   "brand": "Google",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 137,
+  "price_pkr": 37999,
   "path": "phones/google-huawei-nexus-6p.html",
   "sb": 12,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "huawei-nova+",
@@ -25876,11 +25885,12 @@
   "name": "Alcatel Pop Star",
   "brand": "Alcatel",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 54,
+  "price_pkr": 14999,
   "path": "phones/alcatel-pop-star.html",
   "sb": 14,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "alcatel-idol-4",
@@ -26052,11 +26062,12 @@
   "name": "Huawei Honor 3x G750",
   "brand": "Huawei",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 87,
+  "price_pkr": 23999,
   "path": "phones/huawei-honor-3x-g750.html",
   "sb": 23,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "huawei-honor-holly",
@@ -33764,11 +33775,11 @@
   "name": "Nokia G400 5G",
   "brand": "Nokia",
   "cat": "Smartphones",
-  "price": 72,
-  "price_pkr": 19999,
+  "price": 235,
+  "price_pkr": 64999,
   "path": "phones/nokia-g400-5g.html",
   "sb": 10,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "nokia-g42-5g",
@@ -37394,11 +37405,12 @@
   "name": "Alcatel Pop Up",
   "brand": "Alcatel",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 54,
+  "price_pkr": 14999,
   "path": "phones/alcatel-pop-up.html",
   "sb": 9,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "alcatel-pop-4-(7)",
@@ -42696,11 +42708,12 @@
   "name": "Huawei Ascend Mate 7",
   "brand": "Huawei",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 220,
+  "price_pkr": 60999,
   "path": "phones/huawei-ascend-mate-7.html",
   "sb": 1,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "huawei-honor-7a",
@@ -43391,8 +43404,8 @@
   "name": "Samsung Galaxy A27",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 434,
-  "price_pkr": 119999,
+  "price": 461,
+  "price_pkr": 127500,
   "path": "phones/samsung-galaxy-a27-5g.html",
   "sb": 3,
   "pl": "Official price"
@@ -43402,8 +43415,8 @@
   "name": "Samsung Galaxy A57",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 604,
-  "price_pkr": 166999,
+  "price": 632,
+  "price_pkr": 174999,
   "path": "phones/samsung-galaxy-a57-5g.html",
   "sb": 19,
   "pl": "Official price"
@@ -43413,8 +43426,8 @@
   "name": "Samsung Galaxy A37",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 542,
-  "price_pkr": 149999,
+  "price": 560,
+  "price_pkr": 154999,
   "path": "phones/samsung-galaxy-a37-5g.html",
   "sb": 11,
   "pl": "Official price"

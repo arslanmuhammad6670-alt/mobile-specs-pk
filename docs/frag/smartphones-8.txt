@@ -398,23 +398,23 @@
 <div class="spec">4.0&quot; display · Spreadtrum 7731 · 1450 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/alcatel-pixi-first.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=alcatel-pixi-first">Compare</a></div>
-</div></div><div class="card" data-name="alcatel pop star alcatel smartphones" data-brand="Alcatel" data-price="" data-year="2015">
+</div></div><div class="card" data-name="alcatel pop star alcatel smartphones" data-brand="Alcatel" data-price="14999" data-year="2015">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/alcatel-pop-star/main-card.webp"><img class="cardimg" src="img/alcatel-pop-star/main-card.jpg" alt="Alcatel Pop Star" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/alcatel-pop-star.html">Alcatel Pop Star</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.0&quot; display</div><div class="spec">Mediatek MT6735P</div><div class="spec">1 GB RAM</div><div class="spec">2000 mAh</div>
+<div class="price"><span class="prc" data-pkr="14999"><b class="pkrv">Rs 14,999</b> <span class="usdv">$54</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">5.0&quot; display</div><div class="spec">Mediatek MT6735P</div><div class="spec">1 GB RAM</div><div class="spec">2000 mAh</div>
 <div class="spec">5.0&quot; display · Mediatek MT6735P · 1 GB RAM · 2000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/alcatel-pop-star.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=alcatel-pop-star">Compare</a></div>
-</div></div><div class="card" data-name="alcatel pop up alcatel smartphones" data-brand="Alcatel" data-price="" data-year="2015">
+</div></div><div class="card" data-name="alcatel pop up alcatel smartphones" data-brand="Alcatel" data-price="14999" data-year="2015">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/alcatel-pop-up/main-card.webp"><img class="cardimg" src="img/alcatel-pop-up/main-card.jpg" alt="Alcatel Pop Up" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/alcatel-pop-up.html">Alcatel Pop Up</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8929 Snapdragon 610</div><div class="spec">2 GB RAM</div><div class="spec">2000 mAh</div>
+<div class="price"><span class="prc" data-pkr="14999"><b class="pkrv">Rs 14,999</b> <span class="usdv">$54</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8929 Snapdragon 610</div><div class="spec">2 GB RAM</div><div class="spec">2000 mAh</div>
 <div class="spec">5.0&quot; display · Qualcomm MSM8929 Snapdragon 610 · 2 GB RAM · 2000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/alcatel-pop-up.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=alcatel-pop-up">Compare</a></div>
@@ -468,13 +468,13 @@
 <div class="spec">5.0&quot; display · MediaTek MT6580 · 2 GB RAM · 2070 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/asus-zenfone-go.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=asus-zenfone-go">Compare</a></div>
-</div></div><div class="card" data-name="google huawei nexus 6p google smartphones" data-brand="Google" data-price="" data-year="2015">
+</div></div><div class="card" data-name="google huawei nexus 6p google smartphones" data-brand="Google" data-price="37999" data-year="2015">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/google-huawei-nexus-6p/main-card.webp"><img class="cardimg" src="img/google-huawei-nexus-6p/main-card.jpg" alt="Google Huawei Nexus 6p" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/google-huawei-nexus-6p.html">Google Huawei Nexus 6p</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.7&quot; display</div><div class="spec">Qualcomm MSM8994 Snapdragon 810</div><div class="spec">3 GB RAM</div><div class="spec">3450 mAh</div>
+<div class="price"><span class="prc" data-pkr="37999"><b class="pkrv">Rs 37,999</b> <span class="usdv">$137</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">5.7&quot; display</div><div class="spec">Qualcomm MSM8994 Snapdragon 810</div><div class="spec">3 GB RAM</div><div class="spec">3450 mAh</div>
 <div class="spec">5.7&quot; display · Qualcomm MSM8994 Snapdragon 810 · 3 GB RAM · 3450 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/google-huawei-nexus-6p.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=google-huawei-nexus-6p">Compare</a></div>
@@ -688,33 +688,33 @@
 <div class="spec">5.0&quot; display · Kirin 620 · 2 GB RAM · 2550 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/huawei-honor-4c.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=huawei-honor-4c">Compare</a></div>
-</div></div><div class="card" data-name="huawei honor 5x huawei smartphones" data-brand="Huawei" data-price="" data-year="2015">
+</div></div><div class="card" data-name="huawei honor 5x huawei smartphones" data-brand="Huawei" data-price="14999" data-year="2015">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/huawei-honor-5x/main-card.webp"><img class="cardimg" src="img/huawei-honor-5x/main-card.jpg" alt="Huawei Honor 5x" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-honor-5x.html">Huawei Honor 5x</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8939v2 Snapdragon 616</div><div class="spec">2 / 3 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="price"><span class="prc" data-pkr="14999"><b class="pkrv">Rs 14,999</b> <span class="usdv">$54</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8939v2 Snapdragon 616</div><div class="spec">2 / 3 GB RAM</div><div class="spec">3000 mAh</div>
 <div class="spec">5.5&quot; display · Qualcomm MSM8939v2 Snapdragon 616 · 2 / 3 GB RAM · 3000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/huawei-honor-5x.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=huawei-honor-5x">Compare</a></div>
-</div></div><div class="card" data-name="huawei honor 7 huawei smartphones" data-brand="Huawei" data-price="" data-year="2015">
+</div></div><div class="card" data-name="huawei honor 7 huawei smartphones" data-brand="Huawei" data-price="42999" data-year="2015">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/huawei-honor-7/main-card.webp"><img class="cardimg" src="img/huawei-honor-7/main-card.jpg" alt="Huawei Honor 7" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-honor-7.html">Huawei Honor 7</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.2&quot; display</div><div class="spec">Kirin 935</div><div class="spec">3 GB RAM</div><div class="spec">3100 mAh</div>
+<div class="price"><span class="prc" data-pkr="42999"><b class="pkrv">Rs 42,999</b> <span class="usdv">$155</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">5.2&quot; display</div><div class="spec">Kirin 935</div><div class="spec">3 GB RAM</div><div class="spec">3100 mAh</div>
 <div class="spec">5.2&quot; display · Kirin 935 · 3 GB RAM · 3100 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/huawei-honor-7.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=huawei-honor-7">Compare</a></div>
-</div></div><div class="card" data-name="huawei honor 7i huawei smartphones" data-brand="Huawei" data-price="" data-year="2015">
+</div></div><div class="card" data-name="huawei honor 7i huawei smartphones" data-brand="Huawei" data-price="33999" data-year="2015">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/huawei-honor-7i/main-card.webp"><img class="cardimg" src="img/huawei-honor-7i/main-card.jpg" alt="Huawei Honor 7i" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-honor-7i.html">Huawei Honor 7i</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.2&quot; display</div><div class="spec">Qualcomm MSM8939v2 Snapdragon 616</div><div class="spec">2 / 3 GB RAM</div><div class="spec">3100 mAh</div>
+<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">5.2&quot; display</div><div class="spec">Qualcomm MSM8939v2 Snapdragon 616</div><div class="spec">2 / 3 GB RAM</div><div class="spec">3100 mAh</div>
 <div class="spec">5.2&quot; display · Qualcomm MSM8939v2 Snapdragon 616 · 2 / 3 GB RAM · 3100 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/huawei-honor-7i.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=huawei-honor-7i">Compare</a></div>
@@ -2008,13 +2008,13 @@
 <div class="spec">5.5&quot; display · Qualcomm MSM8916 Snapdragon 410 · 2 GB RAM · 3000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/huawei-ascend-g7.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=huawei-ascend-g7">Compare</a></div>
-</div></div><div class="card" data-name="huawei ascend mate 7 huawei smartphones" data-brand="Huawei" data-price="" data-year="2014">
+</div></div><div class="card" data-name="huawei ascend mate 7 huawei smartphones" data-brand="Huawei" data-price="60999" data-year="2014">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/huawei-ascend-mate-7/main-card.webp"><img class="cardimg" src="img/huawei-ascend-mate-7/main-card.jpg" alt="Huawei Ascend Mate 7" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-ascend-mate-7.html">Huawei Ascend Mate 7</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.0&quot; display</div><div class="spec">Kirin 925</div><div class="spec">2 / 3 GB RAM</div><div class="spec">4100 mAh</div>
+<div class="price"><span class="prc" data-pkr="60999"><b class="pkrv">Rs 60,999</b> <span class="usdv">$220</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.0&quot; display</div><div class="spec">Kirin 925</div><div class="spec">2 / 3 GB RAM</div><div class="spec">4100 mAh</div>
 <div class="spec">6.0&quot; display · Kirin 925 · 2 / 3 GB RAM · 4100 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/huawei-ascend-mate-7.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=huawei-ascend-mate-7">Compare</a></div>
@@ -2068,13 +2068,13 @@
 <div class="spec">5.5&quot; display · Kirin 620 · 2 GB RAM · 3000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/huawei-honor-4x.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=huawei-honor-4x">Compare</a></div>
-</div></div><div class="card" data-name="huawei honor 6 huawei smartphones" data-brand="Huawei" data-price="" data-year="2014">
+</div></div><div class="card" data-name="huawei honor 6 huawei smartphones" data-brand="Huawei" data-price="23999" data-year="2014">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/huawei-honor-6/main-card.webp"><img class="cardimg" src="img/huawei-honor-6/main-card.jpg" alt="Huawei Honor 6" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-honor-6.html">Huawei Honor 6</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.0&quot; display</div><div class="spec">Kirin 920</div><div class="spec">3 GB RAM</div><div class="spec">3100 mAh</div>
+<div class="price"><span class="prc" data-pkr="23999"><b class="pkrv">Rs 23,999</b> <span class="usdv">$87</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">5.0&quot; display</div><div class="spec">Kirin 920</div><div class="spec">3 GB RAM</div><div class="spec">3100 mAh</div>
 <div class="spec">5.0&quot; display · Kirin 920 · 3 GB RAM · 3100 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/huawei-honor-6.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=huawei-honor-6">Compare</a></div>
@@ -3278,13 +3278,13 @@
 <div class="spec">5.0&quot; display · Mediatek MT6582 · 2 GB RAM · 2300 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/huawei-honor-3c.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=huawei-honor-3c">Compare</a></div>
-</div></div><div class="card" data-name="huawei honor 3x g750 huawei smartphones" data-brand="Huawei" data-price="" data-year="2013">
+</div></div><div class="card" data-name="huawei honor 3x g750 huawei smartphones" data-brand="Huawei" data-price="23999" data-year="2013">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/huawei-honor-3x-g750/main-card.webp"><img class="cardimg" src="img/huawei-honor-3x-g750/main-card.jpg" alt="Huawei Honor 3x G750" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-honor-3x-g750.html">Huawei Honor 3x G750</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.5&quot; display</div><div class="spec">Mediatek MT6592</div><div class="spec">2 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="price"><span class="prc" data-pkr="23999"><b class="pkrv">Rs 23,999</b> <span class="usdv">$87</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">5.5&quot; display</div><div class="spec">Mediatek MT6592</div><div class="spec">2 GB RAM</div><div class="spec">3000 mAh</div>
 <div class="spec">5.5&quot; display · Mediatek MT6592 · 2 GB RAM · 3000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/huawei-honor-3x-g750.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=huawei-honor-3x-g750">Compare</a></div>

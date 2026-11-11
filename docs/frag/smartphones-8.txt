@@ -1,4 +1,274 @@
-<div class="card" data-name="sony xperia xa dual sony smartphones" data-brand="Sony" data-price="61999" data-year="2016">
+<div class="card" data-name="oppo f1+ oppo smartphones" data-brand="Oppo" data-price="107999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/oppo-f1+/main-card.webp"><img class="cardimg" src="img/oppo-f1+/main-card.jpg" alt="Oppo F1+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-f1+.html">Oppo F1+</a></p>
+<div class="price"><span class="prc" data-pkr="107999"><b class="pkrv">Rs 107,999</b> <span class="usdv">$390</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Mediatek MT6755 Helio P10</div><div class="spec">4 GB RAM</div><div class="spec">2850 mAh</div>
+<div class="spec">5.5&quot; display · Mediatek MT6755 Helio P10 · 4 GB RAM · 2850 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-f1+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-f1+">Compare</a></div>
+</div></div><div class="card" data-name="oppo f1s oppo smartphones" data-brand="Oppo" data-price="45999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/oppo-f1s/main-card.webp"><img class="cardimg" src="img/oppo-f1s/main-card.jpg" alt="Oppo F1s" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-f1s.html">Oppo F1s</a></p>
+<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Mediatek MT6755</div><div class="spec">3 / 4 GB RAM</div><div class="spec">3075 mAh</div>
+<div class="spec">5.5&quot; display · Mediatek MT6755 · 3 / 4 GB RAM · 3075 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-f1s.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-f1s">Compare</a></div>
+</div></div><div class="card" data-name="oppo r9 oppo smartphones" data-brand="Oppo" data-price="" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/oppo-r9/main-card.webp"><img class="cardimg" src="img/oppo-r9/main-card.jpg" alt="Oppo R9" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-r9.html">Oppo R9</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.5&quot; display</div><div class="spec">MediaTek Helio P10</div><div class="spec">4 GB RAM</div><div class="spec">2850 mAh</div>
+<div class="spec">5.5&quot; display · MediaTek Helio P10 · 4 GB RAM · 2850 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-r9.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-r9">Compare</a></div>
+</div></div><div class="card" data-name="oppo r9+ oppo smartphones" data-brand="Oppo" data-price="169999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/oppo-r9+/main-card.webp"><img class="cardimg" src="img/oppo-r9+/main-card.jpg" alt="Oppo R9+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-r9+.html">Oppo R9+</a></p>
+<div class="price"><span class="prc" data-pkr="169999"><b class="pkrv">Rs 169,999</b> <span class="usdv">$614</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.0&quot; display</div><div class="spec">Qualcomm MSM8976 Snapdragon 652</div><div class="spec">4 GB RAM</div><div class="spec">4120 mAh</div>
+<div class="spec">6.0&quot; display · Qualcomm MSM8976 Snapdragon 652 · 4 GB RAM · 4120 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-r9+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-r9+">Compare</a></div>
+</div></div><div class="card" data-name="oppo r9s oppo smartphones" data-brand="Oppo" data-price="139999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/oppo-r9s/main-card.webp"><img class="cardimg" src="img/oppo-r9s/main-card.jpg" alt="Oppo R9s" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-r9s.html">Oppo R9s</a></p>
+<div class="price"><span class="prc" data-pkr="139999"><b class="pkrv">Rs 139,999</b> <span class="usdv">$506</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8953 Snapdragon 625</div><div class="spec">4 GB RAM</div><div class="spec">3010 mAh</div>
+<div class="spec">5.5&quot; display · Qualcomm MSM8953 Snapdragon 625 · 4 GB RAM · 3010 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-r9s.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-r9s">Compare</a></div>
+</div></div><div class="card" data-name="oppo r9s+ oppo smartphones" data-brand="Oppo" data-price="176999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/oppo-r9s+/main-card.webp"><img class="cardimg" src="img/oppo-r9s+/main-card.jpg" alt="Oppo R9s+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-r9s+.html">Oppo R9s+</a></p>
+<div class="price"><span class="prc" data-pkr="176999"><b class="pkrv">Rs 176,999</b> <span class="usdv">$640</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.0&quot; display</div><div class="spec">Qualcomm MSM8976 Pro Snapdragon 653</div><div class="spec">6 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.0&quot; display · Qualcomm MSM8976 Pro Snapdragon 653 · 6 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-r9s+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-r9s+">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy a3 (2016) samsung smartphones" data-brand="Samsung" data-price="39999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-a3-(2016)/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a3-(2016)/main-card.jpg" alt="Samsung Galaxy A3 (2016)" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-a3-(2016).html">Samsung Galaxy A3 (2016)</a></p>
+<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.7&quot; display</div><div class="spec">Exynos 7870 Octa</div><div class="spec">2 GB RAM</div><div class="spec">2350 mAh</div>
+<div class="spec">4.7&quot; display · Exynos 7870 Octa · 2 GB RAM · 2350 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a3-(2016).html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-a3-(2016)">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy a9 pro (2016) samsung smartphones" data-brand="Samsung" data-price="92999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-a9-pro-(2016)/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a9-pro-(2016)/main-card.jpg" alt="Samsung Galaxy A9 Pro (2016)" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-a9-pro-(2016).html">Samsung Galaxy A9 Pro (2016)</a></p>
+<div class="price"><span class="prc" data-pkr="92999"><b class="pkrv">Rs 92,999</b> <span class="usdv">$336</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.0&quot; display</div><div class="spec">Qualcomm MSM8976 Snapdragon 652</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.0&quot; display · Qualcomm MSM8976 Snapdragon 652 · 4 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a9-pro-(2016).html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-a9-pro-(2016)">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy c5 samsung smartphones" data-brand="Samsung" data-price="67999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-c5/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-c5/main-card.jpg" alt="Samsung Galaxy C5" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-c5.html">Samsung Galaxy C5</a></p>
+<div class="price"><span class="prc" data-pkr="67999"><b class="pkrv">Rs 67,999</b> <span class="usdv">$246</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.2&quot; display</div><div class="spec">Qualcomm MSM8952 Snapdragon 617</div><div class="spec">4 GB RAM</div><div class="spec">2600 mAh</div>
+<div class="spec">5.2&quot; display · Qualcomm MSM8952 Snapdragon 617 · 4 GB RAM · 2600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-c5.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-c5">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy c7 samsung smartphones" data-brand="Samsung" data-price="77999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-c7/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-c7/main-card.jpg" alt="Samsung Galaxy C7" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-c7.html">Samsung Galaxy C7</a></p>
+<div class="price"><span class="prc" data-pkr="77999"><b class="pkrv">Rs 77,999</b> <span class="usdv">$282</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Qualcomm MSM8953 Snapdragon 625</div><div class="spec">4 GB RAM</div><div class="spec">3300 mAh</div>
+<div class="spec">5.7&quot; display · Qualcomm MSM8953 Snapdragon 625 · 4 GB RAM · 3300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-c7.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-c7">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy c9 pro samsung smartphones" data-brand="Samsung" data-price="117999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-c9-pro/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-c9-pro/main-card.jpg" alt="Samsung Galaxy C9 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-c9-pro.html">Samsung Galaxy C9 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="117999"><b class="pkrv">Rs 117,999</b> <span class="usdv">$426</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.0&quot; display</div><div class="spec">Qualcomm MSM8976 Pro Snapdragon 653</div><div class="spec">6 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.0&quot; display · Qualcomm MSM8976 Pro Snapdragon 653 · 6 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-c9-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-c9-pro">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy j1 mini (2016) samsung smartphones" data-brand="Samsung" data-price="" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-j1-mini-(2016)/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-j1-mini-(2016)/main-card.jpg" alt="Samsung Galaxy J1 Mini (2016)" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-j1-mini-(2016).html">Samsung Galaxy J1 Mini (2016)</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">4.0&quot; display</div><div class="spec">Spreadtrum SC9830</div><div class="spec">1 GB RAM</div><div class="spec">1500 mAh</div>
+<div class="spec">4.0&quot; display · Spreadtrum SC9830 · 1 GB RAM · 1500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-j1-mini-(2016).html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-j1-mini-(2016)">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy j1 mini prime samsung smartphones" data-brand="Samsung" data-price="33999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-j1-mini-prime/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-j1-mini-prime/main-card.jpg" alt="Samsung Galaxy J1 Mini Prime" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-j1-mini-prime.html">Samsung Galaxy J1 Mini Prime</a></p>
+<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.0&quot; display</div><div class="spec">Spreadtrum SC9830</div><div class="spec">1 GB RAM</div><div class="spec">1500 mAh</div>
+<div class="spec">4.0&quot; display · Spreadtrum SC9830 · 1 GB RAM · 1500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-j1-mini-prime.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-j1-mini-prime">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy j2 prime lte samsung smartphones" data-brand="Samsung" data-price="" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-j2-prime-lte/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-j2-prime-lte/main-card.jpg" alt="Samsung Galaxy J2 Prime LTE" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-j2-prime-lte.html">Samsung Galaxy J2 Prime LTE</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.0&quot; display</div><div class="spec">Mediatek MT6737T</div><div class="spec">5 GB RAM</div><div class="spec">2600 mAh</div>
+<div class="spec">5.0&quot; display · Mediatek MT6737T · 5 GB RAM · 2600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-j2-prime-lte.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-j2-prime-lte">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy j2 pro samsung smartphones" data-brand="Samsung" data-price="" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-j2-pro/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-j2-pro/main-card.jpg" alt="Samsung Galaxy J2 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-j2-pro.html">Samsung Galaxy J2 Pro</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.0&quot; display</div><div class="spec">Spreadtrum SC8830</div><div class="spec">2 GB RAM</div><div class="spec">2600 mAh</div>
+<div class="spec">5.0&quot; display · Spreadtrum SC8830 · 2 GB RAM · 2600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-j2-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-j2-pro">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy j3 pro samsung smartphones" data-brand="Samsung" data-price="39999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-j3-pro/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-j3-pro/main-card.jpg" alt="Samsung Galaxy J3 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-j3-pro.html">Samsung Galaxy J3 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8916 Snapdragon 410</div><div class="spec">2 GB RAM</div><div class="spec">2600 mAh</div>
+<div class="spec">5.0&quot; display · Qualcomm MSM8916 Snapdragon 410 · 2 GB RAM · 2600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-j3-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-j3-pro">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy j5 prime samsung smartphones" data-brand="Samsung" data-price="36999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-j5-prime/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-j5-prime/main-card.jpg" alt="Samsung Galaxy J5 Prime" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-j5-prime.html">Samsung Galaxy J5 Prime</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Exynos 7570 Quad</div><div class="spec">3 GB RAM</div><div class="spec">2500 mAh</div>
+<div class="spec">5.0&quot; display · Exynos 7570 Quad · 3 GB RAM · 2500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-j5-prime.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-j5-prime">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy j7 prime samsung smartphones" data-brand="Samsung" data-price="64999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-j7-prime/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-j7-prime/main-card.jpg" alt="Samsung Galaxy J7 Prime" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-j7-prime.html">Samsung Galaxy J7 Prime</a></p>
+<div class="price"><span class="prc" data-pkr="64999"><b class="pkrv">Rs 64,999</b> <span class="usdv">$235</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Exynos 7870 Octa</div><div class="spec">3 GB RAM</div><div class="spec">3300 mAh</div>
+<div class="spec">5.5&quot; display · Exynos 7870 Octa · 3 GB RAM · 3300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-j7-prime.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-j7-prime">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy note 7 samsung smartphones" data-brand="Samsung" data-price="" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-note-7/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-note-7/main-card.jpg" alt="Samsung Galaxy Note 7" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-note-7.html">Samsung Galaxy Note 7</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.7&quot; display</div><div class="spec">Octa-core</div><div class="spec">4 GB RAM</div><div class="spec">3500 mAh</div>
+<div class="spec">5.7&quot; display · Octa-core · 4 GB RAM · 3500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-note-7.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-note-7">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy s7 samsung smartphones" data-brand="Samsung" data-price="58999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-s7/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-s7/main-card.jpg" alt="Samsung Galaxy S7" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-s7.html">Samsung Galaxy S7</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.1&quot; display</div><div class="spec">Qualcomm MSM8996 Snapdragon 820</div><div class="spec">4 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">5.1&quot; display · Qualcomm MSM8996 Snapdragon 820 · 4 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-s7.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-s7">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy s7 active samsung smartphones" data-brand="Samsung" data-price="111999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-s7-active/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-s7-active/main-card.jpg" alt="Samsung Galaxy S7 Active" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-s7-active.html">Samsung Galaxy S7 Active</a></p>
+<div class="price"><span class="prc" data-pkr="111999"><b class="pkrv">Rs 111,999</b> <span class="usdv">$405</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.1&quot; display</div><div class="spec">Qualcomm MSM8996 Snapdragon 820</div><div class="spec">4 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">5.1&quot; display · Qualcomm MSM8996 Snapdragon 820 · 4 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-s7-active.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-s7-active">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy s7 edge samsung smartphones" data-brand="Samsung" data-price="101999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-s7-edge/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-s7-edge/main-card.jpg" alt="Samsung Galaxy S7 Edge" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-s7-edge.html">Samsung Galaxy S7 Edge</a></p>
+<div class="price"><span class="prc" data-pkr="101999"><b class="pkrv">Rs 101,999</b> <span class="usdv">$369</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8996 Snapdragon 820</div><div class="spec">4 GB RAM</div><div class="spec">3600 mAh</div>
+<div class="spec">5.5&quot; display · Qualcomm MSM8996 Snapdragon 820 · 4 GB RAM · 3600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-s7-edge.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-s7-edge">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia e5 sony smartphones" data-brand="Sony" data-price="36999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-e5/main-card.webp"><img class="cardimg" src="img/sony-xperia-e5/main-card.jpg" alt="Sony Xperia E5" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-e5.html">Sony Xperia E5</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Mediatek MT6735</div><div class="spec">5 GB RAM</div><div class="spec">2300 mAh</div>
+<div class="spec">5.0&quot; display · Mediatek MT6735 · 5 GB RAM · 2300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-e5.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-e5">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia x sony smartphones" data-brand="Sony" data-price="45999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-x/main-card.webp"><img class="cardimg" src="img/sony-xperia-x/main-card.jpg" alt="Sony Xperia X" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-x.html">Sony Xperia X</a></p>
+<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8956 Snapdragon 650</div><div class="spec">3 GB RAM</div><div class="spec">2620 mAh</div>
+<div class="spec">5.0&quot; display · Qualcomm MSM8956 Snapdragon 650 · 3 GB RAM · 2620 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-x.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-x">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia x compact sony smartphones" data-brand="Sony" data-price="67999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-x-compact/main-card.webp"><img class="cardimg" src="img/sony-xperia-x-compact/main-card.jpg" alt="Sony Xperia X Compact" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-x-compact.html">Sony Xperia X Compact</a></p>
+<div class="price"><span class="prc" data-pkr="67999"><b class="pkrv">Rs 67,999</b> <span class="usdv">$246</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.6&quot; display</div><div class="spec">Qualcomm MSM8956 Snapdragon 650</div><div class="spec">3 GB RAM</div><div class="spec">2700 mAh</div>
+<div class="spec">4.6&quot; display · Qualcomm MSM8956 Snapdragon 650 · 3 GB RAM · 2700 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-x-compact.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-x-compact">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia x performance sony smartphones" data-brand="Sony" data-price="52999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-x-performance/main-card.webp"><img class="cardimg" src="img/sony-xperia-x-performance/main-card.jpg" alt="Sony Xperia X Performance" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-x-performance.html">Sony Xperia X Performance</a></p>
+<div class="price"><span class="prc" data-pkr="52999"><b class="pkrv">Rs 52,999</b> <span class="usdv">$192</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8996 Snapdragon 820</div><div class="spec">3 GB RAM</div><div class="spec">2700 mAh</div>
+<div class="spec">5.0&quot; display · Qualcomm MSM8996 Snapdragon 820 · 3 GB RAM · 2700 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-x-performance.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-x-performance">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia xa sony smartphones" data-brand="Sony" data-price="30999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-xa/main-card.webp"><img class="cardimg" src="img/sony-xperia-xa/main-card.jpg" alt="Sony Xperia Xa" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-xa.html">Sony Xperia Xa</a></p>
+<div class="price"><span class="prc" data-pkr="30999"><b class="pkrv">Rs 30,999</b> <span class="usdv">$112</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Mediatek MT6755 Helio P10</div><div class="spec">2 GB RAM</div><div class="spec">2300 mAh</div>
+<div class="spec">5.0&quot; display · Mediatek MT6755 Helio P10 · 2 GB RAM · 2300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-xa.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-xa">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia xa dual sony smartphones" data-brand="Sony" data-price="61999" data-year="2016">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/sony-xperia-xa-dual/main-card.webp"><img class="cardimg" src="img/sony-xperia-xa-dual/main-card.jpg" alt="Sony Xperia Xa Dual" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -3728,274 +3998,4 @@
 <div class="spec">5.0&quot; display · Qualcomm MSM8274AB Snapdragon 800 · 2 GB RAM · 3050 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/xiaomi-mi-3.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=xiaomi-mi-3">Compare</a></div>
-</div></div><div class="card" data-name="apple iphone 5 apple smartphones" data-brand="Apple" data-price="104999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/apple-iphone-5/main-card.webp"><img class="cardimg" src="img/apple-iphone-5/main-card.jpg" alt="Apple iPhone 5" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/apple-iphone-5.html">Apple iPhone 5</a></p>
-<div class="price"><span class="prc" data-pkr="104999"><b class="pkrv">Rs 104,999</b> <span class="usdv">$379</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.0&quot; display</div><div class="spec">Apple A6</div><div class="spec">1 GB RAM</div><div class="spec">1440 mAh</div>
-<div class="spec">4.0&quot; display · Apple A6 · 1 GB RAM · 1440 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/apple-iphone-5.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=apple-iphone-5">Compare</a></div>
-</div></div><div class="card" data-name="asus padfone asus smartphones" data-brand="Asus" data-price="92999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/asus-padfone/main-card.webp"><img class="cardimg" src="img/asus-padfone/main-card.jpg" alt="Asus Padfone" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/asus-padfone.html">Asus Padfone</a></p>
-<div class="price"><span class="prc" data-pkr="92999"><b class="pkrv">Rs 92,999</b> <span class="usdv">$336</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.3&quot; display</div><div class="spec">Qualcomm MSM8260A Snapdragon S4 Plus</div><div class="spec">1 GB RAM</div><div class="spec">1520 mAh</div>
-<div class="spec">4.3&quot; display · Qualcomm MSM8260A Snapdragon S4 Plus · 1 GB RAM · 1520 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/asus-padfone.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=asus-padfone">Compare</a></div>
-</div></div><div class="card" data-name="asus padfone 2 asus smartphones" data-brand="Asus" data-price="139999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/asus-padfone-2/main-card.webp"><img class="cardimg" src="img/asus-padfone-2/main-card.jpg" alt="Asus Padfone 2" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/asus-padfone-2.html">Asus Padfone 2</a></p>
-<div class="price"><span class="prc" data-pkr="139999"><b class="pkrv">Rs 139,999</b> <span class="usdv">$506</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.7&quot; display</div><div class="spec">Qualcomm APQ8064 Snapdragon S4 Pro</div><div class="spec">2 GB RAM</div><div class="spec">2140 mAh</div>
-<div class="spec">4.7&quot; display · Qualcomm APQ8064 Snapdragon S4 Pro · 2 GB RAM · 2140 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/asus-padfone-2.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=asus-padfone-2">Compare</a></div>
-</div></div><div class="card" data-name="htc butterfly htc smartphones" data-brand="HTC" data-price="101999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-butterfly/main-card.webp"><img class="cardimg" src="img/htc-butterfly/main-card.jpg" alt="HTC Butterfly" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-butterfly.html">HTC Butterfly</a></p>
-<div class="price"><span class="prc" data-pkr="101999"><b class="pkrv">Rs 101,999</b> <span class="usdv">$369</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm APQ8064 Snapdragon 600</div><div class="spec">2 GB RAM</div><div class="spec">2020 mAh</div>
-<div class="spec">5.0&quot; display · Qualcomm APQ8064 Snapdragon 600 · 2 GB RAM · 2020 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-butterfly.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-butterfly">Compare</a></div>
-</div></div><div class="card" data-name="htc desire 400 dual sim htc smartphones" data-brand="HTC" data-price="73999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-desire-400-dual-sim/main-card.webp"><img class="cardimg" src="img/htc-desire-400-dual-sim/main-card.jpg" alt="HTC Desire 400 Dual Sim" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-desire-400-dual-sim.html">HTC Desire 400 Dual Sim</a></p>
-<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.3&quot; display</div><div class="spec">Dual-core 1.0 GHz</div><div class="spec">1 GB RAM</div><div class="spec">1800 mAh</div>
-<div class="spec">4.3&quot; display · Dual-core 1.0 GHz · 1 GB RAM · 1800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-desire-400-dual-sim.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-desire-400-dual-sim">Compare</a></div>
-</div></div><div class="card" data-name="htc desire c htc smartphones" data-brand="HTC" data-price="36999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-desire-c/main-card.webp"><img class="cardimg" src="img/htc-desire-c/main-card.jpg" alt="HTC Desire C" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-desire-c.html">HTC Desire C</a></p>
-<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">3.5&quot; display</div><div class="spec">Qualcomm MSM7225A Snapdragon S1</div><div class="spec">1230 mAh</div>
-<div class="spec">3.5&quot; display · Qualcomm MSM7225A Snapdragon S1 · 1230 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-desire-c.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-desire-c">Compare</a></div>
-</div></div><div class="card" data-name="htc desire sv htc smartphones" data-brand="HTC" data-price="83999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-desire-sv/main-card.webp"><img class="cardimg" src="img/htc-desire-sv/main-card.jpg" alt="HTC Desire Sv" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-desire-sv.html">HTC Desire Sv</a></p>
-<div class="price"><span class="prc" data-pkr="83999"><b class="pkrv">Rs 83,999</b> <span class="usdv">$304</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.3&quot; display</div><div class="spec">Qualcomm MSM8225 Snapdragon S4 Play</div><div class="spec">1620 mAh</div>
-<div class="spec">4.3&quot; display · Qualcomm MSM8225 Snapdragon S4 Play · 1620 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-desire-sv.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-desire-sv">Compare</a></div>
-</div></div><div class="card" data-name="htc desire v htc smartphones" data-brand="HTC" data-price="49999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-desire-v/main-card.webp"><img class="cardimg" src="img/htc-desire-v/main-card.jpg" alt="HTC Desire V" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-desire-v.html">HTC Desire V</a></p>
-<div class="price"><span class="prc" data-pkr="49999"><b class="pkrv">Rs 49,999</b> <span class="usdv">$181</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.0&quot; display</div><div class="spec">Qualcomm MSM7227A Snapdragon S1</div><div class="spec">1650 mAh</div>
-<div class="spec">4.0&quot; display · Qualcomm MSM7227A Snapdragon S1 · 1650 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-desire-v.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-desire-v">Compare</a></div>
-</div></div><div class="card" data-name="htc desire vc htc smartphones" data-brand="HTC" data-price="45999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-desire-vc/main-card.webp"><img class="cardimg" src="img/htc-desire-vc/main-card.jpg" alt="HTC Desire Vc" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-desire-vc.html">HTC Desire Vc</a></p>
-<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.0&quot; display</div><div class="spec">Qualcomm MSM7227A Snapdragon S1</div><div class="spec">1650 mAh</div>
-<div class="spec">4.0&quot; display · Qualcomm MSM7227A Snapdragon S1 · 1650 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-desire-vc.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-desire-vc">Compare</a></div>
-</div></div><div class="card" data-name="htc desire vt htc smartphones" data-brand="HTC" data-price="61999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-desire-vt/main-card.webp"><img class="cardimg" src="img/htc-desire-vt/main-card.jpg" alt="HTC Desire Vt" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-desire-vt.html">HTC Desire Vt</a></p>
-<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.0&quot; display</div><div class="spec">Qualcomm MSM7227A Snapdragon S1</div><div class="spec">1650 mAh</div>
-<div class="spec">4.0&quot; display · Qualcomm MSM7227A Snapdragon S1 · 1650 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-desire-vt.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-desire-vt">Compare</a></div>
-</div></div><div class="card" data-name="htc desire x htc smartphones" data-brand="HTC" data-price="58999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-desire-x/main-card.webp"><img class="cardimg" src="img/htc-desire-x/main-card.jpg" alt="HTC Desire X" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-desire-x.html">HTC Desire X</a></p>
-<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.0&quot; display</div><div class="spec">Qualcomm MSM8225 Snapdragon S4 Play</div><div class="spec">1650 mAh</div>
-<div class="spec">4.0&quot; display · Qualcomm MSM8225 Snapdragon S4 Play · 1650 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-desire-x.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-desire-x">Compare</a></div>
-</div></div><div class="card" data-name="htc j htc smartphones" data-brand="HTC" data-price="67999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-j/main-card.webp"><img class="cardimg" src="img/htc-j/main-card.jpg" alt="HTC J" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-j.html">HTC J</a></p>
-<div class="price"><span class="prc" data-pkr="67999"><b class="pkrv">Rs 67,999</b> <span class="usdv">$246</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.3&quot; display</div><div class="spec">Dual-core 1.5 GHz</div><div class="spec">1 GB RAM</div><div class="spec">1810 mAh</div>
-<div class="spec">4.3&quot; display · Dual-core 1.5 GHz · 1 GB RAM · 1810 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-j.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-j">Compare</a></div>
-</div></div><div class="card" data-name="htc one s htc smartphones" data-brand="HTC" data-price="67999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-one-s/main-card.webp"><img class="cardimg" src="img/htc-one-s/main-card.jpg" alt="HTC One S" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-one-s.html">HTC One S</a></p>
-<div class="price"><span class="prc" data-pkr="67999"><b class="pkrv">Rs 67,999</b> <span class="usdv">$246</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.3&quot; display</div><div class="spec">Qualcomm MSM8290</div><div class="spec">1 GB RAM</div><div class="spec">1650 mAh</div>
-<div class="spec">4.3&quot; display · Qualcomm MSM8290 · 1 GB RAM · 1650 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-one-s.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-one-s">Compare</a></div>
-</div></div><div class="card" data-name="htc one sc htc smartphones" data-brand="HTC" data-price="67999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-one-sc/main-card.webp"><img class="cardimg" src="img/htc-one-sc/main-card.jpg" alt="HTC One Sc" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-one-sc.html">HTC One Sc</a></p>
-<div class="price"><span class="prc" data-pkr="67999"><b class="pkrv">Rs 67,999</b> <span class="usdv">$246</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.3&quot; display</div><div class="spec">Dual-core 1.0 GHz</div><div class="spec">1 GB RAM</div><div class="spec">1800 mAh</div>
-<div class="spec">4.3&quot; display · Dual-core 1.0 GHz · 1 GB RAM · 1800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-one-sc.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-one-sc">Compare</a></div>
-</div></div><div class="card" data-name="htc one sv lte htc smartphones" data-brand="HTC" data-price="" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-one-sv-lte/main-card.webp"><img class="cardimg" src="img/htc-one-sv-lte/main-card.jpg" alt="HTC One Sv LTE" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-one-sv-lte.html">HTC One Sv LTE</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">4.3&quot; display</div><div class="spec">Qualcomm MSM8960 Snapdragon S4 Plus</div><div class="spec">1 GB RAM</div><div class="spec">1800 mAh</div>
-<div class="spec">4.3&quot; display · Qualcomm MSM8960 Snapdragon S4 Plus · 1 GB RAM · 1800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-one-sv-lte.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-one-sv-lte">Compare</a></div>
-</div></div><div class="card" data-name="htc one v htc smartphones" data-brand="HTC" data-price="39999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-one-v/main-card.webp"><img class="cardimg" src="img/htc-one-v/main-card.jpg" alt="HTC One V" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-one-v.html">HTC One V</a></p>
-<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">3.7&quot; display</div><div class="spec">Qualcomm MSM8255 Snapdragon S2</div><div class="spec">1500 mAh</div>
-<div class="spec">3.7&quot; display · Qualcomm MSM8255 Snapdragon S2 · 1500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-one-v.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-one-v">Compare</a></div>
-</div></div><div class="card" data-name="htc one x htc smartphones" data-brand="HTC" data-price="52999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-one-x/main-card.webp"><img class="cardimg" src="img/htc-one-x/main-card.jpg" alt="HTC One X" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-one-x.html">HTC One X</a></p>
-<div class="price"><span class="prc" data-pkr="52999"><b class="pkrv">Rs 52,999</b> <span class="usdv">$192</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.7&quot; display</div><div class="spec">Nvidia Tegra 3</div><div class="spec">1 GB RAM</div><div class="spec">1800 mAh</div>
-<div class="spec">4.7&quot; display · Nvidia Tegra 3 · 1 GB RAM · 1800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-one-x.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-one-x">Compare</a></div>
-</div></div><div class="card" data-name="htc one x+ htc smartphones" data-brand="HTC" data-price="67999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-one-x+/main-card.webp"><img class="cardimg" src="img/htc-one-x+/main-card.jpg" alt="HTC One X+" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-one-x+.html">HTC One X+</a></p>
-<div class="price"><span class="prc" data-pkr="67999"><b class="pkrv">Rs 67,999</b> <span class="usdv">$246</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.7&quot; display</div><div class="spec">NVIDIA Tegra 3 AP37</div><div class="spec">1 GB RAM</div><div class="spec">2100 mAh</div>
-<div class="spec">4.7&quot; display · NVIDIA Tegra 3 AP37 · 1 GB RAM · 2100 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-one-x+.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-one-x+">Compare</a></div>
-</div></div><div class="card" data-name="htc one xl htc smartphones" data-brand="HTC" data-price="55999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-one-xl/main-card.webp"><img class="cardimg" src="img/htc-one-xl/main-card.jpg" alt="HTC One XL" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-one-xl.html">HTC One XL</a></p>
-<div class="price"><span class="prc" data-pkr="55999"><b class="pkrv">Rs 55,999</b> <span class="usdv">$202</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.7&quot; display</div><div class="spec">Qualcomm MSM8960 Snapdragon S4 Plus</div><div class="spec">1 GB RAM</div><div class="spec">1800 mAh</div>
-<div class="spec">4.7&quot; display · Qualcomm MSM8960 Snapdragon S4 Plus · 1 GB RAM · 1800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-one-xl.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-one-xl">Compare</a></div>
-</div></div><div class="card" data-name="htc one xc htc smartphones" data-brand="HTC" data-price="61999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-one-xc/main-card.webp"><img class="cardimg" src="img/htc-one-xc/main-card.jpg" alt="HTC One Xc" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-one-xc.html">HTC One Xc</a></p>
-<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.7&quot; display</div><div class="spec">Dual-core 1.5 GHz</div><div class="spec">1 GB RAM</div><div class="spec">2000 mAh</div>
-<div class="spec">4.7&quot; display · Dual-core 1.5 GHz · 1 GB RAM · 2000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-one-xc.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-one-xc">Compare</a></div>
-</div></div><div class="card" data-name="htc titan ii htc smartphones" data-brand="HTC" data-price="61999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-titan-ii/main-card.webp"><img class="cardimg" src="img/htc-titan-ii/main-card.jpg" alt="HTC Titan Ii" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-titan-ii.html">HTC Titan Ii</a></p>
-<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.7&quot; display</div><div class="spec">Qualcomm Snapdragon S2</div><div class="spec">1730 mAh</div>
-<div class="spec">4.7&quot; display · Qualcomm Snapdragon S2 · 1730 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-titan-ii.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-titan-ii">Compare</a></div>
-</div></div><div class="card" data-name="htc velocity 4g htc smartphones" data-brand="HTC" data-price="61999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-velocity-4g/main-card.webp"><img class="cardimg" src="img/htc-velocity-4g/main-card.jpg" alt="HTC Velocity 4G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-velocity-4g.html">HTC Velocity 4G</a></p>
-<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.5&quot; display</div><div class="spec">Qualcomm MSM8260 Snapdragon S3</div><div class="spec">1 GB RAM</div><div class="spec">1620 mAh</div>
-<div class="spec">4.5&quot; display · Qualcomm MSM8260 Snapdragon S3 · 1 GB RAM · 1620 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-velocity-4g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-velocity-4g">Compare</a></div>
-</div></div><div class="card" data-name="htc windows phone 8s htc smartphones" data-brand="HTC" data-price="45999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-windows-phone-8s/main-card.webp"><img class="cardimg" src="img/htc-windows-phone-8s/main-card.jpg" alt="HTC Windows Phone 8s" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-windows-phone-8s.html">HTC Windows Phone 8s</a></p>
-<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.0&quot; display</div><div class="spec">Qualcomm  Snapdragon S4</div><div class="spec">1700 mAh</div>
-<div class="spec">4.0&quot; display · Qualcomm  Snapdragon S4 · 1700 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-windows-phone-8s.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-windows-phone-8s">Compare</a></div>
-</div></div><div class="card" data-name="htc windows phone 8x htc smartphones" data-brand="HTC" data-price="52999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-windows-phone-8x/main-card.webp"><img class="cardimg" src="img/htc-windows-phone-8x/main-card.jpg" alt="HTC Windows Phone 8x" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-windows-phone-8x.html">HTC Windows Phone 8x</a></p>
-<div class="price"><span class="prc" data-pkr="52999"><b class="pkrv">Rs 52,999</b> <span class="usdv">$192</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.3&quot; display</div><div class="spec">Qualcomm MSM8960 Snapdragon S4 Plus</div><div class="spec">1 GB RAM</div><div class="spec">1800 mAh</div>
-<div class="spec">4.3&quot; display · Qualcomm MSM8960 Snapdragon S4 Plus · 1 GB RAM · 1800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-windows-phone-8x.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-windows-phone-8x">Compare</a></div>
-</div></div><div class="card" data-name="huawei activa 4g huawei smartphones" data-brand="Huawei" data-price="33999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-activa-4g/main-card.webp"><img class="cardimg" src="img/huawei-activa-4g/main-card.jpg" alt="Huawei Activa 4G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-activa-4g.html">Huawei Activa 4G</a></p>
-<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">3.5&quot; display</div><div class="spec">Qualcomm MSM7627T</div><div class="spec">1880 mAh</div>
-<div class="spec">3.5&quot; display · Qualcomm MSM7627T · 1880 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-activa-4g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-activa-4g">Compare</a></div>
-</div></div><div class="card" data-name="huawei ascend d quad huawei smartphones" data-brand="Huawei" data-price="89999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-ascend-d-quad/main-card.webp"><img class="cardimg" src="img/huawei-ascend-d-quad/main-card.jpg" alt="Huawei Ascend D Quad" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-ascend-d-quad.html">Huawei Ascend D Quad</a></p>
-<div class="price"><span class="prc" data-pkr="89999"><b class="pkrv">Rs 89,999</b> <span class="usdv">$325</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.5&quot; display</div><div class="spec">Huawei K3V2</div><div class="spec">1 GB RAM</div><div class="spec">1800 mAh</div>
-<div class="spec">4.5&quot; display · Huawei K3V2 · 1 GB RAM · 1800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-ascend-d-quad.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-ascend-d-quad">Compare</a></div>
-</div></div><div class="card" data-name="huawei ascend d1 huawei smartphones" data-brand="Huawei" data-price="64999" data-year="2012">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-ascend-d1/main-card.webp"><img class="cardimg" src="img/huawei-ascend-d1/main-card.jpg" alt="Huawei Ascend D1" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-ascend-d1.html">Huawei Ascend D1</a></p>
-<div class="price"><span class="prc" data-pkr="64999"><b class="pkrv">Rs 64,999</b> <span class="usdv">$235</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.5&quot; display</div><div class="spec">TI OMAP 4460</div><div class="spec">1 GB RAM</div><div class="spec">1800 mAh</div>
-<div class="spec">4.5&quot; display · TI OMAP 4460 · 1 GB RAM · 1800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-ascend-d1.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-ascend-d1">Compare</a></div>
 </div></div>

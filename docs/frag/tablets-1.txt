@@ -1,4 +1,14 @@
-<div class="card" data-name="lenovo tab m11 lenovo tablets" data-brand="Lenovo" data-price="47999" data-year="2024">
+<div class="card" data-name="lenovo tab k11+ lenovo tablets" data-brand="Lenovo" data-price="61999" data-year="2024">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/lenovo-tab-k11+/main-card.webp"><img class="cardimg" src="img/lenovo-tab-k11+/main-card.jpg" alt="Lenovo Tab K11+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Tablets</span>
+<p class="ct"><a href="tablets/lenovo-tab-k11+.html">Lenovo Tab K11+</a></p>
+<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">11.45&quot; display</div><div class="spec">Qualcomm SM6225 Snapdragon 680 4G</div><div class="spec">4 / 6 / 8 GB RAM</div><div class="spec">8600 mAh</div>
+<div class="spec">11.45&quot; display · Qualcomm SM6225 Snapdragon 680 4G · 4 / 6 / 8 GB RAM · 8600 mAh</div>
+<div class="btnrow"><a class="btn" href="tablets/lenovo-tab-k11+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=lenovo-tab-k11+">Compare</a></div>
+</div></div><div class="card" data-name="lenovo tab m11 lenovo tablets" data-brand="Lenovo" data-price="47999" data-year="2024">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/lenovo-tab-m11/main-card.webp"><img class="cardimg" src="img/lenovo-tab-m11/main-card.jpg" alt="Lenovo Tab M11" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">

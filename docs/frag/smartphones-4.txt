@@ -1,4 +1,14 @@
-<div class="card" data-name="oneplus nord n300 oneplus smartphones" data-brand="OnePlus" data-price="70999" data-year="2022">
+<div class="card" data-name="oneplus nord n20 se oneplus smartphones" data-brand="OnePlus" data-price="41999" data-year="2022">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/oneplus-nord-n20-se/main-card.webp"><img class="cardimg" src="img/oneplus-nord-n20-se/main-card.jpg" alt="OnePlus Nord N20 SE" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oneplus-nord-n20-se.html">OnePlus Nord N20 SE</a></p>
+<div class="price"><span class="prc" data-pkr="41999"><b class="pkrv">Rs 41,999</b> <span class="usdv">$152</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.56&quot; display</div><div class="spec">Mediatek MT6765G Helio G35</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.56&quot; display · Mediatek MT6765G Helio G35 · 4 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oneplus-nord-n20-se.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oneplus-nord-n20-se">Compare</a></div>
+</div></div><div class="card" data-name="oneplus nord n300 oneplus smartphones" data-brand="OnePlus" data-price="70999" data-year="2022">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/oneplus-nord-n300/main-card.webp"><img class="cardimg" src="img/oneplus-nord-n300/main-card.jpg" alt="OnePlus Nord N300" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -2858,6 +2868,26 @@
 <div class="spec">6.6&quot; display · Kirin 9000 · 8 / 12 GB RAM · 4360 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/huawei-p50-pro.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=huawei-p50-pro">Compare</a></div>
+</div></div><div class="card" data-name="infinix hot 10 play infinix smartphones" data-brand="Infinix" data-price="15999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-hot-10-play.html">Infinix Hot 10 Play</a></p>
+<div class="price"><span class="prc" data-pkr="15999"><b class="pkrv">Rs 15,999</b> <span class="usdv">$58</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.82&quot; display</div><div class="spec">Mediatek MT6762G Helio G25</div><div class="spec">2 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="spec">6.82&quot; display · Mediatek MT6762G Helio G25 · 2 GB RAM · 6000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-hot-10-play.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-hot-10-play">Compare</a></div>
+</div></div><div class="card" data-name="infinix hot 10i infinix smartphones" data-brand="Infinix" data-price="20999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-hot-10i.html">Infinix Hot 10i</a></p>
+<div class="price"><span class="prc" data-pkr="20999"><b class="pkrv">Rs 20,999</b> <span class="usdv">$76</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.52&quot; display</div><div class="spec">Mediatek MT6769V Helio G70</div><div class="spec">2 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="spec">6.52&quot; display · Mediatek MT6769V Helio G70 · 2 GB RAM · 6000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-hot-10i.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-hot-10i">Compare</a></div>
 </div></div><div class="card" data-name="infinix hot 11 play infinix smartphones" data-brand="Infinix" data-price="39999" data-year="2021">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/infinix-hot-11-play/main-card.webp"><img class="cardimg" src="img/infinix-hot-11-play/main-card.jpg" alt="Infinix Hot 11 Play" width="480" height="480" loading="lazy"></picture>
@@ -2868,6 +2898,36 @@
 <div class="spec">6.82&quot; display · Mediatek MT6765G Helio G35 · 4 GB RAM · 6000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/infinix-hot-11-play.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=infinix-hot-11-play">Compare</a></div>
+</div></div><div class="card" data-name="infinix note 10 infinix smartphones" data-brand="Infinix" data-price="27999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-note-10.html">Infinix Note 10</a></p>
+<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.95&quot; display</div><div class="spec">Mediatek MT6769Z Helio G85</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.95&quot; display · Mediatek MT6769Z Helio G85 · 4 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-note-10.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-note-10">Compare</a></div>
+</div></div><div class="card" data-name="infinix note 10 pro infinix smartphones" data-brand="Infinix" data-price="34999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-note-10-pro.html">Infinix Note 10 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="34999"><b class="pkrv">Rs 34,999</b> <span class="usdv">$126</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.95&quot; display</div><div class="spec">Mediatek MT6785V/CD Helio G95</div><div class="spec">6 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.95&quot; display · Mediatek MT6785V/CD Helio G95 · 6 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-note-10-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-note-10-pro">Compare</a></div>
+</div></div><div class="card" data-name="infinix note 10 pro nfc infinix smartphones" data-brand="Infinix" data-price="" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-note-10-pro-nfc.html">Infinix Note 10 Pro NFC</a></p>
+<div class="price"><span class="usdv">Price not announced</span></div><div class="spec">6.95&quot; display</div><div class="spec">Mediatek MT6785V/CD Helio G95</div><div class="spec">6 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.95&quot; display · Mediatek MT6785V/CD Helio G95 · 6 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-note-10-pro-nfc.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-note-10-pro-nfc">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 11 infinix smartphones" data-brand="Infinix" data-price="28999" data-year="2021">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/infinix-note-11/main-card.webp"><img class="cardimg" src="img/infinix-note-11/main-card.jpg" alt="Infinix Note 11" width="480" height="480" loading="lazy"></picture>
@@ -2908,6 +2968,16 @@
 <div class="spec">6.95&quot; display · Mediatek MT6781 Helio G96 · 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/infinix-note-11s.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=infinix-note-11s">Compare</a></div>
+</div></div><div class="card" data-name="infinix smart 5 (india) infinix smartphones" data-brand="Infinix" data-price="25999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-smart-5-(india).html">Infinix Smart 5 (India)</a></p>
+<div class="price"><span class="prc" data-pkr="25999"><b class="pkrv">Rs 25,999</b> <span class="usdv">$94</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.82&quot; display</div><div class="spec">Mediatek MT6762G Helio G25</div><div class="spec">2 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="spec">6.82&quot; display · Mediatek MT6762G Helio G25 · 2 GB RAM · 6000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-smart-5-(india).html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-smart-5-(india)">Compare</a></div>
 </div></div><div class="card" data-name="infinix smart 5 pro infinix smartphones" data-brand="Infinix" data-price="15999" data-year="2021">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/infinix-smart-5-pro/main-card.webp"><img class="cardimg" src="img/infinix-smart-5-pro/main-card.jpg" alt="Infinix Smart 5 Pro" width="480" height="480" loading="lazy"></picture>
@@ -2918,6 +2988,46 @@
 <div class="spec">6.52&quot; display · Unisoc SC9863A · 2 GB RAM · 6000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/infinix-smart-5-pro.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=infinix-smart-5-pro">Compare</a></div>
+</div></div><div class="card" data-name="infinix smart 6 infinix smartphones" data-brand="Infinix" data-price="31999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-smart-6.html">Infinix Smart 6</a></p>
+<div class="price"><span class="prc" data-pkr="31999"><b class="pkrv">Rs 31,999</b> <span class="usdv">$116</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Unisoc SC9863A</div><div class="spec">2 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.6&quot; display · Unisoc SC9863A · 2 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-smart-6.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-smart-6">Compare</a></div>
+</div></div><div class="card" data-name="infinix zero x infinix smartphones" data-brand="Infinix" data-price="101999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-zero-x.html">Infinix Zero X</a></p>
+<div class="price"><span class="prc" data-pkr="101999"><b class="pkrv">Rs 101,999</b> <span class="usdv">$369</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.67&quot; display</div><div class="spec">Mediatek MT6785V/CD Helio G95</div><div class="spec">8 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="spec">6.67&quot; display · Mediatek MT6785V/CD Helio G95 · 8 GB RAM · 4500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-zero-x.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-zero-x">Compare</a></div>
+</div></div><div class="card" data-name="infinix zero x neo infinix smartphones" data-brand="Infinix" data-price="34999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-zero-x-neo.html">Infinix Zero X Neo</a></p>
+<div class="price"><span class="prc" data-pkr="34999"><b class="pkrv">Rs 34,999</b> <span class="usdv">$126</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.78&quot; display</div><div class="spec">Mediatek MT6785V/CD Helio G95</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.78&quot; display · Mediatek MT6785V/CD Helio G95 · 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-zero-x-neo.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-zero-x-neo">Compare</a></div>
+</div></div><div class="card" data-name="infinix zero x pro infinix smartphones" data-brand="Infinix" data-price="57999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-zero-x-pro.html">Infinix Zero X Pro</a></p>
+<div class="price"><span class="prc" data-pkr="57999"><b class="pkrv">Rs 57,999</b> <span class="usdv">$210</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.67&quot; display</div><div class="spec">Mediatek MT6785V/CD Helio G95</div><div class="spec">8 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="spec">6.67&quot; display · Mediatek MT6785V/CD Helio G95 · 8 GB RAM · 4500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-zero-x-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-zero-x-pro">Compare</a></div>
 </div></div><div class="card" data-name="invens note 12p invens smartphones" data-brand="Invens" data-price="" data-year="2021">
 <span class="badge disc">Discontinued</span>
 <div class="cardph">📱</div>
@@ -3888,114 +3998,4 @@
 <div class="spec">6.43&quot; display · Mediatek Dimensity 1200 · 8 / 12 GB RAM · 4500 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/realme-gt-neo2t.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=realme-gt-neo2t">Compare</a></div>
-</div></div><div class="card" data-name="realme gt neo realme smartphones" data-brand="Realme" data-price="80999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-gt-neo/main-card.webp"><img class="cardimg" src="img/realme-gt-neo/main-card.jpg" alt="Realme Gt Neo" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-gt-neo.html">Realme Gt Neo</a></p>
-<div class="price"><span class="prc" data-pkr="80999"><b class="pkrv">Rs 80,999</b> <span class="usdv">$293</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.43&quot; display</div><div class="spec">Mediatek Dimensity 1200</div><div class="spec">6 / 8 / 12 GB RAM</div><div class="spec">4500 mAh</div>
-<div class="spec">6.43&quot; display · Mediatek Dimensity 1200 · 6 / 8 / 12 GB RAM · 4500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-gt-neo.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-gt-neo">Compare</a></div>
-</div></div><div class="card" data-name="realme gt neo2 realme smartphones" data-brand="Realme" data-price="54999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-gt-neo2/main-card.webp"><img class="cardimg" src="img/realme-gt-neo2/main-card.jpg" alt="Realme Gt Neo2" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-gt-neo2.html">Realme Gt Neo2</a></p>
-<div class="price"><span class="prc" data-pkr="54999"><b class="pkrv">Rs 54,999</b> <span class="usdv">$199</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.62&quot; display</div><div class="spec">Qualcomm SM8250-AC Snapdragon 870 5G</div><div class="spec">8 / 12 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.62&quot; display · Qualcomm SM8250-AC Snapdragon 870 5G · 8 / 12 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-gt-neo2.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-gt-neo2">Compare</a></div>
-</div></div><div class="card" data-name="realme narzo 30 5g realme smartphones" data-brand="Realme" data-price="33999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-narzo-30-5g/main-card.webp"><img class="cardimg" src="img/realme-narzo-30-5g/main-card.jpg" alt="Realme Narzo 30 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-narzo-30-5g.html">Realme Narzo 30 5G</a></p>
-<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek Dimensity 700</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Mediatek Dimensity 700 · 4 / 6 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-narzo-30-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-narzo-30-5g">Compare</a></div>
-</div></div><div class="card" data-name="realme narzo 30 pro realme smartphones" data-brand="Realme" data-price="61999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-narzo-30-pro/main-card.webp"><img class="cardimg" src="img/realme-narzo-30-pro/main-card.jpg" alt="Realme Narzo 30 Pro" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-narzo-30-pro.html">Realme Narzo 30 Pro</a></p>
-<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek Dimensity 800U</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Mediatek Dimensity 800U · 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-narzo-30-pro.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-narzo-30-pro">Compare</a></div>
-</div></div><div class="card" data-name="realme narzo 30a realme smartphones" data-brand="Realme" data-price="139999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-narzo-30a/main-card.webp"><img class="cardimg" src="img/realme-narzo-30a/main-card.jpg" alt="Realme Narzo 30a" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-narzo-30a.html">Realme Narzo 30a</a></p>
-<div class="price"><span class="prc" data-pkr="139999"><b class="pkrv">Rs 139,999</b> <span class="usdv">$506</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek MT6769Z Helio G85</div><div class="spec">3 / 4 GB RAM</div><div class="spec">6000 mAh</div>
-<div class="spec">6.5&quot; display · Mediatek MT6769Z Helio G85 · 3 / 4 GB RAM · 6000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-narzo-30a.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-narzo-30a">Compare</a></div>
-</div></div><div class="card" data-name="realme narzo 50a realme smartphones" data-brand="Realme" data-price="39999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-narzo-50a/main-card.webp"><img class="cardimg" src="img/realme-narzo-50a/main-card.jpg" alt="Realme Narzo 50a" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-narzo-50a.html">Realme Narzo 50a</a></p>
-<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek MT6769Z Helio G85</div><div class="spec">4 GB RAM</div><div class="spec">6000 mAh</div>
-<div class="spec">6.5&quot; display · Mediatek MT6769Z Helio G85 · 4 GB RAM · 6000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-narzo-50a.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-narzo-50a">Compare</a></div>
-</div></div><div class="card" data-name="realme narzo 50i realme smartphones" data-brand="Realme" data-price="27999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-narzo-50i/main-card.webp"><img class="cardimg" src="img/realme-narzo-50i/main-card.jpg" alt="Realme Narzo 50i" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-narzo-50i.html">Realme Narzo 50i</a></p>
-<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Octa-core 1.6 GHz</div><div class="spec">2 / 4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Octa-core 1.6 GHz · 2 / 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-narzo-50i.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-narzo-50i">Compare</a></div>
-</div></div><div class="card" data-name="realme q3 5g realme smartphones" data-brand="Realme" data-price="52999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-q3-5g/main-card.webp"><img class="cardimg" src="img/realme-q3-5g/main-card.jpg" alt="Realme Q3 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-q3-5g.html">Realme Q3 5G</a></p>
-<div class="price"><span class="prc" data-pkr="52999"><b class="pkrv">Rs 52,999</b> <span class="usdv">$192</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Qualcomm SM7225 Snapdragon 750G 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Qualcomm SM7225 Snapdragon 750G 5G · 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-q3-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-q3-5g">Compare</a></div>
-</div></div><div class="card" data-name="realme q3 pro 5g realme smartphones" data-brand="Realme" data-price="64999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-q3-pro-5g/main-card.webp"><img class="cardimg" src="img/realme-q3-pro-5g/main-card.jpg" alt="Realme Q3 Pro 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-q3-pro-5g.html">Realme Q3 Pro 5G</a></p>
-<div class="price"><span class="prc" data-pkr="64999"><b class="pkrv">Rs 64,999</b> <span class="usdv">$235</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.43&quot; display</div><div class="spec">Mediatek Dimensity 1100</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4500 mAh</div>
-<div class="spec">6.43&quot; display · Mediatek Dimensity 1100 · 6 / 8 GB RAM · 4500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-q3-pro-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-q3-pro-5g">Compare</a></div>
-</div></div><div class="card" data-name="realme q3t realme smartphones" data-brand="Realme" data-price="89999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-q3t/main-card.webp"><img class="cardimg" src="img/realme-q3t/main-card.jpg" alt="Realme Q3t" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-q3t.html">Realme Q3t</a></p>
-<div class="price"><span class="prc" data-pkr="89999"><b class="pkrv">Rs 89,999</b> <span class="usdv">$325</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Qualcomm SM7325 Snapdragon 778G 5G</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Qualcomm SM7325 Snapdragon 778G 5G · 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-q3t.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-q3t">Compare</a></div>
-</div></div><div class="card" data-name="realme v11 5g realme smartphones" data-brand="Realme" data-price="49999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-v11-5g/main-card.webp"><img class="cardimg" src="img/realme-v11-5g/main-card.jpg" alt="Realme V11 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-v11-5g.html">Realme V11 5G</a></p>
-<div class="price"><span class="prc" data-pkr="49999"><b class="pkrv">Rs 49,999</b> <span class="usdv">$181</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek Dimensity 700</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Mediatek Dimensity 700 · 4 / 6 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-v11-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-v11-5g">Compare</a></div>
 </div></div>

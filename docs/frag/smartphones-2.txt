@@ -1,4 +1,14 @@
-<div class="card" data-name="vivo y19s pro vivo smartphones" data-brand="Vivo" data-price="43999" data-year="2025">
+<div class="card" data-name="vivo y04 vivo smartphones" data-brand="Vivo" data-price="27999" data-year="2025">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/vivo-y04/main-card.webp"><img class="cardimg" src="img/vivo-y04/main-card.jpg" alt="Vivo Y04" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/vivo-y04.html">Vivo Y04</a></p>
+<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Estimated price</span></div><div class="spec">Unisoc T7225</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">Unisoc T7225 · 4 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/vivo-y04.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=vivo-y04">Compare</a></div>
+</div></div><div class="card" data-name="vivo y19s pro vivo smartphones" data-brand="Vivo" data-price="43999" data-year="2025">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/vivo-y19s-pro/main-card.webp"><img class="cardimg" src="img/vivo-y19s-pro/main-card.jpg" alt="Vivo Y19s Pro" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -1968,13 +1978,13 @@
 <div class="spec">6.72&quot; display · Mediatek Dimensity 6100+ · 4 / 6 / 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/realme-12x-5g.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=realme-12x-5g">Compare</a></div>
-</div></div><div class="card" data-name="realme 13 4g realme smartphones" data-brand="Realme" data-price="58999" data-year="2024">
+</div></div><div class="card" data-name="realme 13 4g realme smartphones" data-brand="Realme" data-price="64999" data-year="2024">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/realme-13-4g/main-card.webp"><img class="cardimg" src="img/realme-13-4g/main-card.jpg" alt="Realme 13 4G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/realme-13-4g.html">Realme 13 4G</a></p>
-<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.67&quot; AMOLED 120Hz</div><div class="spec">Snapdragon 685</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="price"><span class="prc" data-pkr="64999"><b class="pkrv">Rs 64,999</b> <span class="usdv">$235</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.67&quot; AMOLED 120Hz</div><div class="spec">Snapdragon 685</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
 <div class="spec">120Hz OLED display aur 67W charging — mid-range mein full package</div>
 <div class="btnrow"><a class="btn" href="phones/realme-13-4g.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=realme-13-4g">Compare</a></div>
@@ -3988,14 +3998,4 @@
 <div class="spec">6.78&quot; display · Qualcomm SM6450 Snapdragon 6 Gen 1 · 8 GB RAM · 5300 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/honor-magic6-lite.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=honor-magic6-lite">Compare</a></div>
-</div></div><div class="card" data-name="honor play7t honor smartphones" data-brand="Honor" data-price="45999" data-year="2023">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/honor-play7t/main-card.webp"><img class="cardimg" src="img/honor-play7t/main-card.jpg" alt="Honor PLAY7T" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/honor-play7t.html">Honor PLAY7T</a></p>
-<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.74&quot; display</div><div class="spec">Mediatek Dimensity 6020</div><div class="spec">8 GB RAM</div><div class="spec">6000 mAh</div>
-<div class="spec">6.74&quot; display · Mediatek Dimensity 6020 · 8 GB RAM · 6000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/honor-play7t.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=honor-play7t">Compare</a></div>
 </div></div>

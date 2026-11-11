@@ -2208,7 +2208,7 @@
   "price_pkr": 44999,
   "path": "phones/poco-c65.html",
   "sb": 1,
-  "pl": "Market price"
+  "pl": "Official price"
  },
  {
   "slug": "infinix-note-30",
@@ -2490,11 +2490,11 @@
   "name": "Realme 13 4G",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 213,
-  "price_pkr": 58999,
+  "price": 235,
+  "price_pkr": 64999,
   "path": "phones/realme-13-4g.html",
   "sb": 6,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "infinix-note-40s",
@@ -4696,6 +4696,312 @@
   "path": "phones/infinix-note-11.html",
   "sb": 20,
   "pl": "Market price"
+ },
+ {
+  "slug": "infinix-smart-6",
+  "name": "Infinix Smart 6",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 116,
+  "price_pkr": 31999,
+  "path": "phones/infinix-smart-6.html",
+  "sb": 12,
+  "pl": "Estimated price"
+ },
+ {
+  "slug": "infinix-zero-x-pro",
+  "name": "Infinix Zero X Pro",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 210,
+  "price_pkr": 57999,
+  "path": "phones/infinix-zero-x-pro.html",
+  "sb": 9,
+  "pl": "Estimated price"
+ },
+ {
+  "slug": "infinix-smart-20-hd",
+  "name": "Infinix Smart 20 HD",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 116,
+  "price_pkr": 31999,
+  "path": "phones/infinix-smart-20-hd.html",
+  "sb": 2,
+  "pl": "Estimated price"
+ },
+ {
+  "slug": "infinix-xpad-30e",
+  "name": "Infinix Xpad 30E",
+  "brand": "Infinix",
+  "cat": "Tablets",
+  "price": 289,
+  "price_pkr": 79999,
+  "path": "tablets/infinix-xpad-30e.html",
+  "sb": 18,
+  "pl": "Estimated price"
+ },
+ {
+  "slug": "infinix-zero-x-neo",
+  "name": "Infinix Zero X Neo",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 126,
+  "price_pkr": 34999,
+  "path": "phones/infinix-zero-x-neo.html",
+  "sb": 5,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-zero-x",
+  "name": "Infinix Zero X",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 369,
+  "price_pkr": 101999,
+  "path": "phones/infinix-zero-x.html",
+  "sb": 1,
+  "pl": "Estimated price"
+ },
+ {
+  "slug": "infinix-hot-10i",
+  "name": "Infinix Hot 10i",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 76,
+  "price_pkr": 20999,
+  "path": "phones/infinix-hot-10i.html",
+  "sb": 15,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-note-10",
+  "name": "Infinix Note 10",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 101,
+  "price_pkr": 27999,
+  "path": "phones/infinix-note-10.html",
+  "sb": 10,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-note-10-pro",
+  "name": "Infinix Note 10 Pro",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 126,
+  "price_pkr": 34999,
+  "path": "phones/infinix-note-10-pro.html",
+  "sb": 1,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-smart-5-(india)",
+  "name": "Infinix Smart 5 (India)",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 94,
+  "price_pkr": 25999,
+  "path": "phones/infinix-smart-5-(india).html",
+  "sb": 10,
+  "pl": "Estimated price"
+ },
+ {
+  "slug": "infinix-note-10-pro-nfc",
+  "name": "Infinix Note 10 Pro NFC",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/infinix-note-10-pro-nfc.html",
+  "sb": 21
+ },
+ {
+  "slug": "infinix-hot-10-play",
+  "name": "Infinix Hot 10 Play",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 58,
+  "price_pkr": 15999,
+  "path": "phones/infinix-hot-10-play.html",
+  "sb": 14,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-zero-8i",
+  "name": "Infinix Zero 8i",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 126,
+  "price_pkr": 34999,
+  "path": "phones/infinix-zero-8i.html",
+  "sb": 12,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-note-8i",
+  "name": "Infinix Note 8i",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 98,
+  "price_pkr": 26999,
+  "path": "phones/infinix-note-8i.html",
+  "sb": 3,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-note-8",
+  "name": "Infinix Note 8",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 108,
+  "price_pkr": 29999,
+  "path": "phones/infinix-note-8.html",
+  "sb": 23,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-zero-8",
+  "name": "Infinix Zero 8",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 134,
+  "price_pkr": 36999,
+  "path": "phones/infinix-zero-8.html",
+  "sb": 17,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-note-7-lite",
+  "name": "Infinix Note 7 Lite",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 80,
+  "price_pkr": 21999,
+  "path": "phones/infinix-note-7-lite.html",
+  "sb": 8,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-note-7",
+  "name": "Infinix Note 7",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 90,
+  "price_pkr": 24999,
+  "path": "phones/infinix-note-7.html",
+  "sb": 14,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-hot-10-lite",
+  "name": "Infinix Hot 10 Lite",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 54,
+  "price_pkr": 14999,
+  "path": "phones/infinix-hot-10-lite.html",
+  "sb": 1,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-smart-5",
+  "name": "Infinix Smart 5",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 58,
+  "price_pkr": 15999,
+  "path": "phones/infinix-smart-5.html",
+  "sb": 22,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-s2-pro",
+  "name": "Infinix S2 Pro",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/infinix-s2-pro.html",
+  "sb": 15
+ },
+ {
+  "slug": "infinix-hot-s3",
+  "name": "Infinix Hot S3",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 69,
+  "price_pkr": 18999,
+  "path": "phones/infinix-hot-s3.html",
+  "sb": 0,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-s3x",
+  "name": "Infinix S3X",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 71,
+  "price_pkr": 19600,
+  "path": "phones/infinix-s3x.html",
+  "sb": 12,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-note-4-pro",
+  "name": "Infinix Note 4 Pro",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 95,
+  "price_pkr": 26400,
+  "path": "phones/infinix-note-4-pro.html",
+  "sb": 20,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-note-4",
+  "name": "Infinix Note 4",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 69,
+  "price_pkr": 18999,
+  "path": "phones/infinix-note-4.html",
+  "sb": 12,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-note-5",
+  "name": "Infinix Note 5",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 119,
+  "price_pkr": 32999,
+  "path": "phones/infinix-note-5.html",
+  "sb": 18,
+  "pl": "Official price"
+ },
+ {
+  "slug": "infinix-note-5-stylus",
+  "name": "Infinix Note 5 Stylus",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 137,
+  "price_pkr": 37899,
+  "path": "phones/infinix-note-5-stylus.html",
+  "sb": 15,
+  "pl": "Official price"
+ },
+ {
+  "slug": "vivo-v23e",
+  "name": "vivo V23e",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 235,
+  "price_pkr": 64999,
+  "path": "phones/vivo-v23e.html",
+  "sb": 3,
+  "pl": "Official price"
  },
  {
   "slug": "honor-400",

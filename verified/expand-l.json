@@ -1,752 +1,752 @@
 [
- {
-  "slug": "iphone-16e",
-  "name": "Apple iPhone 16e",
-  "brand": "Apple",
-  "price": 289999,
-  "price_src": "https://www.whatmobile.com.pk/Apple_iPhone-16E",
-  "year": 2025,
-  "cat": "Smartphones",
-  "tag": "Sab se sasta naya iPhone — A18 chip aur Apple Intelligence ke sath",
-  "hl": [
-   "6.1\" Super Retina XDR OLED",
-   "Apple A18",
-   "8 GB RAM",
-   "4005 mAh"
-  ],
-  "source": "https://www.gsmarena.com/apple_iphone_16e-13395.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2025 (announced 19 February 2025, released 28 February 2025)"
-   ],
-   [
-    "Network",
-    "GSM / HSPA / LTE / 5G"
-   ],
-   [
-    "Body",
-    "146.7 x 71.5 x 7.8 mm, 167 g; glass front (Ceramic Shield), glass back, aluminum frame; Nano-SIM + eSIM (International); IP68 dust tight and water resistant (immersible up to 6m for 30 min)"
-   ],
-   [
-    "Display",
-    "Super Retina XDR OLED, HDR10, 800 nits (HBM), 1200 nits (peak); 6.1 inches; 1170 x 2532 pixels; Ceramic Shield glass protection"
-   ],
-   [
-    "Chipset",
-    "Apple A18 (3 nm); CPU Hexa-core (2x4.04 GHz + 4x2.20 GHz); GPU Apple GPU (4-core graphics)"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB / 512 GB (NVMe); no card slot"
-   ],
-   [
-    "Main Camera",
-    "48 MP f/1.6 wide, 1/2.55\", PDAF, OIS; dual-LED dual-tone flash, HDR, panorama, 3D (spatial) audio; video 4K@24/25/30/60fps, 1080p@120/240fps, Dolby Vision HDR"
-   ],
-   [
-    "Selfie Camera",
-    "12 MP f/1.9 wide, PDAF, SL 3D (depth/biometrics sensor); HDR, Dolby Vision HDR; video 4K@24/25/30/60fps, 1080p@120fps"
-   ],
-   [
-    "Battery",
-    "Li-Ion 4005 mAh"
-   ],
-   [
-    "Charging",
-    "Wired, 50% in 30 min; 7.5W wireless (Qi)"
-   ],
-   [
-    "Operating System",
-    "iOS 18.3.1, upgradable to iOS 27.2"
-   ],
-   [
-    "Sensors/Features",
-    "Face ID, accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; Emergency SOS and Messages via satellite; USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Black, White"
-   ]
-  ]
- },
- {
-  "slug": "google-pixel-9a",
-  "name": "Google Pixel 9a",
-  "brand": "Google",
-  "price": 151999,
-  "price_src": "approx",
-  "year": 2025,
-  "cat": "Smartphones",
-  "tag": "Google ka budget Pixel — Tensor G4 chip aur zabardast AI camera",
-  "hl": [
-   "6.3\" P-OLED 120Hz",
-   "Google Tensor G4",
-   "8 GB RAM",
-   "5100 mAh"
-  ],
-  "source": "https://www.gsmarena.com/google_pixel_9a-13478.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2025 (announced 19 March 2025, released 10 April 2025)"
-   ],
-   [
-    "Network",
-    "GSM / HSPA / LTE / 5G"
-   ],
-   [
-    "Body",
-    "154.7 x 73.3 x 8.9 mm, 186 g; glass front (Gorilla Glass 3), aluminum frame, plastic back; Nano-SIM + eSIM; IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
-   ],
-   [
-    "Display",
-    "P-OLED, HDR, 120Hz, 1800 nits (HBM), 2700 nits (peak); 6.3 inches; 1080 x 2424 pixels; Corning Gorilla Glass 3 protection"
-   ],
-   [
-    "Chipset",
-    "Google Tensor G4 (4 nm); CPU Octa-core (1x3.1 GHz Cortex-X4 & 3x2.6 GHz Cortex-A720 & 4x1.9 GHz Cortex-A520); GPU Mali-G715 MP7"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB (UFS 3.1); no card slot"
-   ],
-   [
-    "Main Camera",
-    "48 MP f/1.7 wide, 1/2.0\", dual pixel PDAF, OIS + 13 MP f/2.2 120° ultrawide; dual-LED flash, Pixel Shift, Ultra HDR, panorama, Best Take; video 4K@30/60fps, 1080p@120/240fps, gyro-EIS, OIS"
-   ],
-   [
-    "Selfie Camera",
-    "13 MP f/2.2 ultrawide, 1/3.1\"; HDR, panorama; video 4K@30fps, 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "Li-Po 5100 mAh"
-   ],
-   [
-    "Charging",
-    "23W wired (PD3.0); 7.5W wireless; bypass charging"
-   ],
-   [
-    "Operating System",
-    "Android 15, upgradable to Android 16 (up to 7 major OS updates)"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; USB Type-C 3.2"
-   ],
-   [
-    "Colors",
-    "Obsidian, Porcelain, Iris, Peony"
-   ]
-  ]
- },
- {
-  "slug": "samsung-galaxy-s25",
-  "name": "Samsung Galaxy S25",
-  "brand": "Samsung",
-  "price": 284999,
-  "price_src": "https://www.WhatMobile.com.pk/Samsung_Galaxy-S25",
-  "year": 2025,
-  "cat": "Smartphones",
-  "tag": "Compact flagship — Snapdragon 8 Elite aur Galaxy AI ke sath",
-  "hl": [
-   "6.2\" Dynamic LTPO AMOLED 2X 120Hz",
-   "Snapdragon 8 Elite",
-   "12 GB RAM",
-   "4000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/samsung_galaxy_s25-13610.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2025 (announced 22 January 2025, released 03 February 2025)"
-   ],
-   [
-    "Network",
-    "GSM / CDMA / HSPA / EVDO / LTE / 5G"
-   ],
-   [
-    "Body",
-    "146.9 x 70.5 x 7.2 mm, 162 g; glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame (Armor Aluminum 2); Nano-SIM + eSIM options; IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
-   ],
-   [
-    "Display",
-    "Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.2 inches; 1080 x 2340 pixels; Corning Gorilla Glass Victus 2 protection"
-   ],
-   [
-    "Chipset",
-    "Qualcomm Snapdragon 8 Elite (3 nm); CPU Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); GPU Adreno 830"
-   ],
-   [
-    "RAM",
-    "12 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB / 512 GB (UFS 4.0; UFS 3.1 on 128GB only); no card slot"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.8 wide (dual pixel PDAF, OIS) + 10 MP f/2.4 telephoto (PDAF, OIS, 3x optical zoom) + 12 MP f/2.2 120° ultrawide; Best Face, LED flash, auto-HDR, panorama; video 8K@24/30fps, 4K@30/60fps, 1080p@120/240fps, 10-bit HDR"
-   ],
-   [
-    "Selfie Camera",
-    "12 MP f/2.2 wide, dual pixel PDAF; HDR, HDR10+; video 4K@30/60fps, 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "Li-Ion 4000 mAh"
-   ],
-   [
-    "Charging",
-    "25W wired (PD3.0, 50% in 30 min); 15W wireless (Qi2 Ready); 4.5W reverse wireless"
-   ],
-   [
-    "Operating System",
-    "Android 15, One UI (up to 7 major OS updates)"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; Samsung DeX / Wireless DeX; USB Type-C 3.2 with DisplayPort 1.2"
-   ],
-   [
-    "Colors",
-    "Icy Blue, Mint, Navy, Silver Shadow, Pink Gold, Coral Red, Blue Black"
-   ]
-  ]
- },
- {
-  "slug": "samsung-galaxy-a16-5g",
-  "name": "Samsung Galaxy A16 5G",
-  "brand": "Samsung",
-  "price": 59999,
-  "price_src": "approx",
-  "year": 2024,
-  "cat": "Smartphones",
-  "tag": "Budget 5G Samsung — bari AMOLED screen aur 6 saal OS updates",
-  "hl": [
-   "6.7\" Super AMOLED 90Hz",
-   "Exynos 1330 / Dimensity 6300",
-   "4/6/8 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/samsung_galaxy_a16_5g-13346.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2024 (announced 07 October 2024, released 25 October 2024)"
-   ],
-   [
-    "Network",
-    "GSM / HSPA / LTE / 5G"
-   ],
-   [
-    "Body",
-    "164.4 x 77.9 x 7.9 mm, 200 g; glass front, plastic back, plastic frame; Nano-SIM / Nano-SIM + eSIM / Nano-SIM + Nano-SIM options; IP54 dust protected and water resistant (water splashes)"
-   ],
-   [
-    "Display",
-    "Super AMOLED, 90Hz, 800 nits (HBM); 6.7 inches; 1080 x 2340 pixels"
-   ],
-   [
-    "Chipset",
-    "Exynos 1330 (5 nm) or Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55) or (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G68 MP2 or Mali-G57 MC2"
-   ],
-   [
-    "RAM",
-    "4 GB / 6 GB / 8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB; microSDXC card slot (uses shared SIM slot)"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.8 wide, AF + 5 MP f/2.2 ultrawide + 2 MP macro; LED flash, panorama, HDR; video 1080p@30fps, gyro-EIS"
-   ],
-   [
-    "Selfie Camera",
-    "13 MP f/2.0 wide; video 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "5000 mAh"
-   ],
-   [
-    "Charging",
-    "25W wired"
-   ],
-   [
-    "Operating System",
-    "Android 14, One UI (up to 6 major OS updates)"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (side-mounted), accelerometer, gyro, compass; NFC (market/region dependent); USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Blue Black, Light Gray, Gold, Light Green"
-   ]
-  ]
- },
- {
-  "slug": "poco-f6",
-  "name": "Poco F6",
-  "brand": "Xiaomi",
-  "price": 134999,
-  "price_src": "https://www.whatmobile.com.pk/Xiaomi_Poco-F6",
-  "year": 2024,
-  "cat": "Smartphones",
-  "tag": "Gaming beast — Snapdragon 8s Gen 3 flagship power, budget price mein",
-  "hl": [
-   "6.67\" AMOLED 120Hz",
-   "Snapdragon 8s Gen 3",
-   "8/12 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/xiaomi_poco_f6-13000.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2024 (announced 23 May 2024, released 23 May 2024)"
-   ],
-   [
-    "Network",
-    "GSM / HSPA / LTE / 5G"
-   ],
-   [
-    "Body",
-    "160.5 x 74.5 x 8 mm, 179 g; glass front (Gorilla Glass Victus), plastic frame, plastic back; Nano-SIM + Nano-SIM; IP64 dust tight and water resistant (water splashes)"
-   ],
-   [
-    "Display",
-    "AMOLED, 68B colors, 120Hz, 1920Hz PWM, HDR10+, Dolby Vision, 500 nits (typ), 1200 nits (HBM), 2400 nits (peak); 6.67 inches; 1220 x 2712 pixels; Corning Gorilla Glass Victus protection"
-   ],
-   [
-    "Chipset",
-    "Qualcomm Snapdragon 8s Gen 3 (4 nm); CPU Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520); GPU Adreno 735"
-   ],
-   [
-    "RAM",
-    "8 GB / 12 GB"
-   ],
-   [
-    "Storage",
-    "256 GB / 512 GB (UFS 4.0); no card slot"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.6 wide, 1/1.95\", multi-directional PDAF, OIS + 8 MP ultrawide; LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS"
-   ],
-   [
-    "Selfie Camera",
-    "20 MP f/2.2 wide; HDR; video 1080p@30/60fps"
-   ],
-   [
-    "Battery",
-    "5000 mAh"
-   ],
-   [
-    "Charging",
-    "90W wired (PD3.0, 2-100% in 35 min)"
-   ],
-   [
-    "Operating System",
-    "Android 14, HyperOS (up to 3 major OS updates)"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC (market/region dependent); infrared port; USB Type-C 2.0, OTG"
-   ],
-   [
-    "Colors",
-    "Black, Green, Titanium"
-   ]
-  ]
- },
- {
-  "slug": "xiaomi-14t",
-  "name": "Xiaomi 14T",
-  "brand": "Xiaomi",
-  "price": 175999,
-  "price_src": "https://www.whatmobile.com.pk/Xiaomi_14T",
-  "year": 2024,
-  "cat": "Smartphones",
-  "tag": "Leica camera wala all-rounder — 144Hz AMOLED aur tez performance",
-  "hl": [
-   "6.67\" AMOLED 144Hz",
-   "Dimensity 8300 Ultra",
-   "12/16 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/xiaomi_14t-13329.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2024 (announced 26 September 2024, released 26 September 2024)"
-   ],
-   [
-    "Network",
-    "GSM / HSPA / LTE / 5G"
-   ],
-   [
-    "Body",
-    "160.5 x 75.1 x 7.8 mm or 8.0 mm, 193 g or 195 g; glass front (Gorilla Glass 5), plastic frame, glass back (Panda X); Nano-SIM + eSIM / eSIM + eSIM / Nano-SIM + Nano-SIM options; IP68 dust tight and water resistant (immersible up to 2m for 30 min)"
-   ],
-   [
-    "Display",
-    "AMOLED, 68B colors, 144Hz, 2880Hz PWM, Dolby Vision, HDR10+, 1600 nits (HBM), 4000 nits (peak); 6.67 inches; 1220 x 2712 pixels; Corning Gorilla Glass 5 protection"
-   ],
-   [
-    "Chipset",
-    "Mediatek Dimensity 8300 Ultra (4 nm); CPU Octa-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510); GPU Mali G615-MC6"
-   ],
-   [
-    "RAM",
-    "12 GB / 16 GB"
-   ],
-   [
-    "Storage",
-    "256 GB / 512 GB / 1 TB (UFS 4.0); no card slot"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.7 wide, 1/1.56\", PDAF, OIS + 50 MP f/1.9 telephoto (PDAF, 2x optical zoom) + 12 MP f/2.2 ultrawide; Leica lens, Ultra HDR, LED flash, HDR, panorama; video 4K@24/30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
-   ],
-   [
-    "Selfie Camera",
-    "32 MP f/2.0 wide; HDR; video 4K@30fps, 1080p@30/60fps, HDR10+"
-   ],
-   [
-    "Battery",
-    "Li-Po 5000 mAh"
-   ],
-   [
-    "Charging",
-    "67W wired (PD3.0, 100% in 45 min)"
-   ],
-   [
-    "Operating System",
-    "Android 14, upgradable to Android 15, HyperOS 2"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC (market/region dependent); infrared port; USB Type-C 2.0, OTG"
-   ],
-   [
-    "Colors",
-    "Titan Gray, Titan Blue, Titan Black, Lemon Green"
-   ]
-  ]
- },
- {
-  "slug": "vivo-y200-4g",
-  "name": "Vivo Y200 4G",
-  "brand": "Vivo",
-  "price": 57999,
-  "price_src": "https://www.whatmobile.com.pk/Vivo_Y200",
-  "year": 2025,
-  "cat": "Smartphones",
-  "tag": "Style aur battery ka combo — 120Hz AMOLED aur 80W fast charging",
-  "hl": [
-   "6.67\" AMOLED 120Hz",
-   "Snapdragon 685",
-   "8 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/vivo_y200_4g-13655.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2025 (announced January 2025, released January 2025)"
-   ],
-   [
-    "Network",
-    "GSM / HSPA / LTE"
-   ],
-   [
-    "Body",
-    "163.2 x 75.9 x 7.8 mm, 188 g or 190 g; glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM; IP64 dust tight and water resistant (water splashes)"
-   ],
-   [
-    "Display",
-    "AMOLED, 1B colors, 120Hz, 1200 nits (HBM), 1800 nits (peak); 6.67 inches; 1080 x 2400 pixels"
-   ],
-   [
-    "Chipset",
-    "Qualcomm Snapdragon 685 (6 nm); CPU Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53); GPU Adreno 610"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB (UFS 2.2); microSDXC card slot (uses shared SIM slot)"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.8 wide, PDAF + auxiliary lens; ring-LED flash, panorama, HDR; video 1080p@30fps"
-   ],
-   [
-    "Selfie Camera",
-    "32 MP f/2.5 wide; video 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "Li-Ion 5000 mAh"
-   ],
-   [
-    "Charging",
-    "80W wired (80% in 30 min); reverse wired"
-   ],
-   [
-    "Operating System",
-    "Android 14, Funtouch 14"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; Hi-Res audio; USB Type-C 2.0, OTG"
-   ],
-   [
-    "Colors",
-    "Titanium Silver, Emerald Green"
-   ]
-  ]
- },
- {
-  "slug": "realme-13-4g",
-  "name": "Realme 13 4G",
-  "brand": "Realme",
-  "price": 64999,
-  "price_src": "approx",
-  "year": 2024,
-  "cat": "Smartphones",
-  "tag": "120Hz OLED display aur 67W charging — mid-range mein full package",
-  "hl": [
-   "6.67\" AMOLED 120Hz",
-   "Snapdragon 685",
-   "8 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/realme_13_4g-13252.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2024 (announced 07 August 2024, released 08 August 2024)"
-   ],
-   [
-    "Network",
-    "GSM / HSPA / LTE"
-   ],
-   [
-    "Body",
-    "163 x 75.5 x 7.9 mm, 187 g; Nano-SIM + Nano-SIM; IP64 dust tight and water resistant (water splashes)"
-   ],
-   [
-    "Display",
-    "AMOLED, 120Hz, 600 nits (typ), 2000 nits (peak); 6.67 inches; 1080 x 2400 pixels"
-   ],
-   [
-    "Chipset",
-    "Qualcomm Snapdragon 685 (6 nm); CPU Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53); GPU Adreno 610"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB; microSDXC card slot (uses shared SIM slot)"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.9 wide, 1/1.95\", PDAF, OIS + auxiliary lens; LED flash, HDR, panorama; video 1080p@30fps, gyro-EIS"
-   ],
-   [
-    "Selfie Camera",
-    "16 MP f/2.5 wide; panorama; video 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "5000 mAh"
-   ],
-   [
-    "Charging",
-    "67W wired (50% in 19 min, 100% in 47 min)"
-   ],
-   [
-    "Operating System",
-    "Android 14, Realme UI 5.0"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; dual speakers; 3.5mm jack; NFC (360°); USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Skyline Blue, Pioneer Green"
-   ]
-  ]
- },
- {
-  "slug": "infinix-note-40s",
-  "name": "Infinix Note 40S",
-  "brand": "Infinix",
-  "price": 49999,
-  "price_src": "approx",
-  "year": 2024,
-  "cat": "Smartphones",
-  "tag": "Curved AMOLED aur 108MP camera — wireless MagCharge ke sath",
-  "hl": [
-   "6.78\" AMOLED 120Hz",
-   "Helio G99 Ultimate",
-   "8 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/infinix_note_40s-13460.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2024 (announced September 2024, released October 2024)"
-   ],
-   [
-    "Network",
-    "GSM / HSPA / LTE"
-   ],
-   [
-    "Body",
-    "164.1 x 74.6 x 7.8 mm, 176 g; Nano-SIM + Nano-SIM; IP54 dust protected and water resistant (water splashes)"
-   ],
-   [
-    "Display",
-    "AMOLED, 1B colors, 120Hz, 550 nits (typ), 1300 nits (peak); 6.78 inches; 1080 x 2436 pixels; Corning Gorilla Glass protection"
-   ],
-   [
-    "Chipset",
-    "Mediatek Helio G99 Ultimate; CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Storage",
-    "256 GB (UFS 2.2)"
-   ],
-   [
-    "Main Camera",
-    "108 MP f/1.9 wide, 1/1.52\", PDAF + 2 MP macro + 3rd unspecified camera; quad-LED flash, HDR, panorama; video 1440p@30fps, 1080p@30/60fps"
-   ],
-   [
-    "Selfie Camera",
-    "32 MP f/2.2 wide; dual-LED flash; video 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "5000 mAh"
-   ],
-   [
-    "Charging",
-    "33W wired (50% in 31 min); 20W wireless MagCharge; reverse wired; reverse wireless; bypass charging"
-   ],
-   [
-    "Operating System",
-    "Android 14, XOS 14 (up to 2 major OS updates)"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers tuned by JBL; NFC (market/region dependent); FM radio; USB Type-C 2.0, OTG"
-   ],
-   [
-    "Colors",
-    "Obsidian Black, Vintage Green"
-   ]
-  ]
- },
- {
-  "slug": "tecno-camon-40-pro-4g",
-  "name": "Tecno Camon 40 Pro 4G",
-  "brand": "Tecno",
-  "price": 75999,
-  "price_src": "https://www.whatmobile.com.pk/Tecno_Camon-40-Pro",
-  "year": 2025,
-  "cat": "Smartphones",
-  "tag": "Selfie king — 50MP front camera aur OIS main camera ke sath",
-  "hl": [
-   "6.78\" AMOLED 120Hz",
-   "Helio G100 Ultimate",
-   "8 GB RAM",
-   "5200 mAh"
-  ],
-  "source": "https://www.gsmarena.com/tecno_camon_40_pro-13696.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2025 (announced 03 March 2025, released May 2025)"
-   ],
-   [
-    "Network",
-    "GSM / HSPA / LTE"
-   ],
-   [
-    "Body",
-    "164.4 x 74.3 x 7.3 mm, 178 g; Nano-SIM + Nano-SIM; IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
-   ],
-   [
-    "Display",
-    "AMOLED, 120Hz; 6.78 inches; 1080 x 2436 pixels; Corning Gorilla Glass 7i protection; HDR image support"
-   ],
-   [
-    "Chipset",
-    "Mediatek Helio G100 Ultimate (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Storage",
-    "256 GB"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.9 wide, 1/1.56\", PDAF, OIS + 8 MP ultrawide; dual-LED flash, HDR, panorama; video 4K@30/60fps (HDR), 1080p@30fps"
-   ],
-   [
-    "Selfie Camera",
-    "50 MP f/2.5 wide, 1/2.8\", PDAF; video supported"
-   ],
-   [
-    "Battery",
-    "5200 mAh"
-   ],
-   [
-    "Charging",
-    "45W wired (50% in 23 min, 100% in 43 min)"
-   ],
-   [
-    "Operating System",
-    "Android 15, HIOS 15 (up to 3 major OS updates)"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC; infrared port; FM radio; USB Type-C 2.0, OTG"
-   ],
-   [
-    "Colors",
-    "Emerald Lake Green, Galaxy Black, Glacier White"
-   ]
-  ]
- }
+{
+"slug": "iphone-16e",
+"name": "Apple iPhone 16e",
+"brand": "Apple",
+"price": 289999,
+"price_src": "https://www.whatmobile.com.pk/Apple_iPhone-16E",
+"year": 2025,
+"cat": "Smartphones",
+"tag": "Sab se sasta naya iPhone — A18 chip aur Apple Intelligence ke sath",
+"hl": [
+"6.1\" Super Retina XDR OLED",
+"Apple A18",
+"8 GB RAM",
+"4005 mAh"
+],
+"source": "https://www.gsmarena.com/apple_iphone_16e-13395.php",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 19 February 2025, released 28 February 2025)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"146.7 x 71.5 x 7.8 mm, 167 g; glass front (Ceramic Shield), glass back, aluminum frame; Nano-SIM + eSIM (International); IP68 dust tight and water resistant (immersible up to 6m for 30 min)"
+],
+[
+"Display",
+"Super Retina XDR OLED, HDR10, 800 nits (HBM), 1200 nits (peak); 6.1 inches; 1170 x 2532 pixels; Ceramic Shield glass protection"
+],
+[
+"Chipset",
+"Apple A18 (3 nm); CPU Hexa-core (2x4.04 GHz + 4x2.20 GHz); GPU Apple GPU (4-core graphics)"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB / 512 GB (NVMe); no card slot"
+],
+[
+"Main Camera",
+"48 MP f/1.6 wide, 1/2.55\", PDAF, OIS; dual-LED dual-tone flash, HDR, panorama, 3D (spatial) audio; video 4K@24/25/30/60fps, 1080p@120/240fps, Dolby Vision HDR"
+],
+[
+"Selfie Camera",
+"12 MP f/1.9 wide, PDAF, SL 3D (depth/biometrics sensor); HDR, Dolby Vision HDR; video 4K@24/25/30/60fps, 1080p@120fps"
+],
+[
+"Battery",
+"Li-Ion 4005 mAh"
+],
+[
+"Charging",
+"Wired, 50% in 30 min; 7.5W wireless (Qi)"
+],
+[
+"Operating System",
+"iOS 18.3.1, upgradable to iOS 27.2"
+],
+[
+"Sensors/Features",
+"Face ID, accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; Emergency SOS and Messages via satellite; USB Type-C 2.0"
+],
+[
+"Colors",
+"Black, White"
+]
+]
+},
+{
+"slug": "google-pixel-9a",
+"name": "Google Pixel 9a",
+"brand": "Google",
+"price": 151999,
+"price_src": "approx",
+"year": 2025,
+"cat": "Smartphones",
+"tag": "Google ka budget Pixel — Tensor G4 chip aur zabardast AI camera",
+"hl": [
+"6.3\" P-OLED 120Hz",
+"Google Tensor G4",
+"8 GB RAM",
+"5100 mAh"
+],
+"source": "https://www.gsmarena.com/google_pixel_9a-13478.php",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 19 March 2025, released 10 April 2025)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"154.7 x 73.3 x 8.9 mm, 186 g; glass front (Gorilla Glass 3), aluminum frame, plastic back; Nano-SIM + eSIM; IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+],
+[
+"Display",
+"P-OLED, HDR, 120Hz, 1800 nits (HBM), 2700 nits (peak); 6.3 inches; 1080 x 2424 pixels; Corning Gorilla Glass 3 protection"
+],
+[
+"Chipset",
+"Google Tensor G4 (4 nm); CPU Octa-core (1x3.1 GHz Cortex-X4 & 3x2.6 GHz Cortex-A720 & 4x1.9 GHz Cortex-A520); GPU Mali-G715 MP7"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB (UFS 3.1); no card slot"
+],
+[
+"Main Camera",
+"48 MP f/1.7 wide, 1/2.0\", dual pixel PDAF, OIS + 13 MP f/2.2 120° ultrawide; dual-LED flash, Pixel Shift, Ultra HDR, panorama, Best Take; video 4K@30/60fps, 1080p@120/240fps, gyro-EIS, OIS"
+],
+[
+"Selfie Camera",
+"13 MP f/2.2 ultrawide, 1/3.1\"; HDR, panorama; video 4K@30fps, 1080p@30fps"
+],
+[
+"Battery",
+"Li-Po 5100 mAh"
+],
+[
+"Charging",
+"23W wired (PD3.0); 7.5W wireless; bypass charging"
+],
+[
+"Operating System",
+"Android 15, upgradable to Android 16 (up to 7 major OS updates)"
+],
+[
+"Sensors/Features",
+"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; USB Type-C 3.2"
+],
+[
+"Colors",
+"Obsidian, Porcelain, Iris, Peony"
+]
+]
+},
+{
+"slug": "samsung-galaxy-s25",
+"name": "Samsung Galaxy S25",
+"brand": "Samsung",
+"price": 284999,
+"price_src": "https://www.WhatMobile.com.pk/Samsung_Galaxy-S25",
+"year": 2025,
+"cat": "Smartphones",
+"tag": "Compact flagship — Snapdragon 8 Elite aur Galaxy AI ke sath",
+"hl": [
+"6.2\" Dynamic LTPO AMOLED 2X 120Hz",
+"Snapdragon 8 Elite",
+"12 GB RAM",
+"4000 mAh"
+],
+"source": "https://www.gsmarena.com/samsung_galaxy_s25-13610.php",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 22 January 2025, released 03 February 2025)"
+],
+[
+"Network",
+"GSM / CDMA / HSPA / EVDO / LTE / 5G"
+],
+[
+"Body",
+"146.9 x 70.5 x 7.2 mm, 162 g; glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame (Armor Aluminum 2); Nano-SIM + eSIM options; IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+],
+[
+"Display",
+"Dynamic LTPO AMOLED 2X, 120Hz, HDR10+, 2600 nits (peak); 6.2 inches; 1080 x 2340 pixels; Corning Gorilla Glass Victus 2 protection"
+],
+[
+"Chipset",
+"Qualcomm Snapdragon 8 Elite (3 nm); CPU Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M); GPU Adreno 830"
+],
+[
+"RAM",
+"12 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB / 512 GB (UFS 4.0; UFS 3.1 on 128GB only); no card slot"
+],
+[
+"Main Camera",
+"50 MP f/1.8 wide (dual pixel PDAF, OIS) + 10 MP f/2.4 telephoto (PDAF, OIS, 3x optical zoom) + 12 MP f/2.2 120° ultrawide; Best Face, LED flash, auto-HDR, panorama; video 8K@24/30fps, 4K@30/60fps, 1080p@120/240fps, 10-bit HDR"
+],
+[
+"Selfie Camera",
+"12 MP f/2.2 wide, dual pixel PDAF; HDR, HDR10+; video 4K@30/60fps, 1080p@30fps"
+],
+[
+"Battery",
+"Li-Ion 4000 mAh"
+],
+[
+"Charging",
+"25W wired (PD3.0, 50% in 30 min); 15W wireless (Qi2 Ready); 4.5W reverse wireless"
+],
+[
+"Operating System",
+"Android 15, One UI (up to 7 major OS updates)"
+],
+[
+"Sensors/Features",
+"Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass, barometer; stereo speakers; NFC; Samsung DeX / Wireless DeX; USB Type-C 3.2 with DisplayPort 1.2"
+],
+[
+"Colors",
+"Icy Blue, Mint, Navy, Silver Shadow, Pink Gold, Coral Red, Blue Black"
+]
+]
+},
+{
+"slug": "samsung-galaxy-a16-5g",
+"name": "Samsung Galaxy A16 5G",
+"brand": "Samsung",
+"price": 59999,
+"price_src": "approx",
+"year": 2024,
+"cat": "Smartphones",
+"tag": "Budget 5G Samsung — bari AMOLED screen aur 6 saal OS updates",
+"hl": [
+"6.7\" Super AMOLED 90Hz",
+"Exynos 1330 / Dimensity 6300",
+"4/6/8 GB RAM",
+"5000 mAh"
+],
+"source": "https://www.gsmarena.com/samsung_galaxy_a16_5g-13346.php",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 07 October 2024, released 25 October 2024)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"164.4 x 77.9 x 7.9 mm, 200 g; glass front, plastic back, plastic frame; Nano-SIM / Nano-SIM + eSIM / Nano-SIM + Nano-SIM options; IP54 dust protected and water resistant (water splashes)"
+],
+[
+"Display",
+"Super AMOLED, 90Hz, 800 nits (HBM); 6.7 inches; 1080 x 2340 pixels"
+],
+[
+"Chipset",
+"Exynos 1330 (5 nm) or Mediatek Dimensity 6300 (6 nm); CPU Octa-core (2x2.4 GHz Cortex-A78 & 6x2.0 GHz Cortex-A55) or (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G68 MP2 or Mali-G57 MC2"
+],
+[
+"RAM",
+"4 GB / 6 GB / 8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC card slot (uses shared SIM slot)"
+],
+[
+"Main Camera",
+"50 MP f/1.8 wide, AF + 5 MP f/2.2 ultrawide + 2 MP macro; LED flash, panorama, HDR; video 1080p@30fps, gyro-EIS"
+],
+[
+"Selfie Camera",
+"13 MP f/2.0 wide; video 1080p@30fps"
+],
+[
+"Battery",
+"5000 mAh"
+],
+[
+"Charging",
+"25W wired"
+],
+[
+"Operating System",
+"Android 14, One UI (up to 6 major OS updates)"
+],
+[
+"Sensors/Features",
+"Fingerprint (side-mounted), accelerometer, gyro, compass; NFC (market/region dependent); USB Type-C 2.0"
+],
+[
+"Colors",
+"Blue Black, Light Gray, Gold, Light Green"
+]
+]
+},
+{
+"slug": "poco-f6",
+"name": "Poco F6",
+"brand": "Xiaomi",
+"price": 134999,
+"price_src": "https://www.whatmobile.com.pk/Xiaomi_Poco-F6",
+"year": 2024,
+"cat": "Smartphones",
+"tag": "Gaming beast — Snapdragon 8s Gen 3 flagship power, budget price mein",
+"hl": [
+"6.67\" AMOLED 120Hz",
+"Snapdragon 8s Gen 3",
+"8/12 GB RAM",
+"5000 mAh"
+],
+"source": "https://www.gsmarena.com/xiaomi_poco_f6-13000.php",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 23 May 2024, released 23 May 2024)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"160.5 x 74.5 x 8 mm, 179 g; glass front (Gorilla Glass Victus), plastic frame, plastic back; Nano-SIM + Nano-SIM; IP64 dust tight and water resistant (water splashes)"
+],
+[
+"Display",
+"AMOLED, 68B colors, 120Hz, 1920Hz PWM, HDR10+, Dolby Vision, 500 nits (typ), 1200 nits (HBM), 2400 nits (peak); 6.67 inches; 1220 x 2712 pixels; Corning Gorilla Glass Victus protection"
+],
+[
+"Chipset",
+"Qualcomm Snapdragon 8s Gen 3 (4 nm); CPU Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520); GPU Adreno 735"
+],
+[
+"RAM",
+"8 GB / 12 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB (UFS 4.0); no card slot"
+],
+[
+"Main Camera",
+"50 MP f/1.6 wide, 1/1.95\", multi-directional PDAF, OIS + 8 MP ultrawide; LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS"
+],
+[
+"Selfie Camera",
+"20 MP f/2.2 wide; HDR; video 1080p@30/60fps"
+],
+[
+"Battery",
+"5000 mAh"
+],
+[
+"Charging",
+"90W wired (PD3.0, 2-100% in 35 min)"
+],
+[
+"Operating System",
+"Android 14, HyperOS (up to 3 major OS updates)"
+],
+[
+"Sensors/Features",
+"Fingerprint (under display, optical), accelerometer, gyro, compass; stereo speakers; NFC (market/region dependent); infrared port; USB Type-C 2.0, OTG"
+],
+[
+"Colors",
+"Black, Green, Titanium"
+]
+]
+},
+{
+"slug": "xiaomi-14t",
+"name": "Xiaomi 14T",
+"brand": "Xiaomi",
+"price": 175999,
+"price_src": "https://www.whatmobile.com.pk/Xiaomi_14T",
+"year": 2024,
+"cat": "Smartphones",
+"tag": "Leica camera wala all-rounder — 144Hz AMOLED aur tez performance",
+"hl": [
+"6.67\" AMOLED 144Hz",
+"Dimensity 8300 Ultra",
+"12/16 GB RAM",
+"5000 mAh"
+],
+"source": "https://www.gsmarena.com/xiaomi_14t-13329.php",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 26 September 2024, released 26 September 2024)"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"160.5 x 75.1 x 7.8 mm or 8.0 mm, 193 g or 195 g; glass front (Gorilla Glass 5), plastic frame, glass back (Panda X); Nano-SIM + eSIM / eSIM + eSIM / Nano-SIM + Nano-SIM options; IP68 dust tight and water resistant (immersible up to 2m for 30 min)"
+],
+[
+"Display",
+"AMOLED, 68B colors, 144Hz, 2880Hz PWM, Dolby Vision, HDR10+, 1600 nits (HBM), 4000 nits (peak); 6.67 inches; 1220 x 2712 pixels; Corning Gorilla Glass 5 protection"
+],
+[
+"Chipset",
+"Mediatek Dimensity 8300 Ultra (4 nm); CPU Octa-core (1x3.35 GHz Cortex-A715 & 3x3.20 GHz Cortex-A715 & 4x2.20 GHz Cortex-A510); GPU Mali G615-MC6"
+],
+[
+"RAM",
+"12 GB / 16 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB / 1 TB (UFS 4.0); no card slot"
+],
+[
+"Main Camera",
+"50 MP f/1.7 wide, 1/1.56\", PDAF, OIS + 50 MP f/1.9 telephoto (PDAF, 2x optical zoom) + 12 MP f/2.2 ultrawide; Leica lens, Ultra HDR, LED flash, HDR, panorama; video 4K@24/30/60fps, 1080p@30/60/120/240/960fps, gyro-EIS, HDR10+"
+],
+[
+"Selfie Camera",
+"32 MP f/2.0 wide; HDR; video 4K@30fps, 1080p@30/60fps, HDR10+"
+],
+[
+"Battery",
+"Li-Po 5000 mAh"
+],
+[
+"Charging",
+"67W wired (PD3.0, 100% in 45 min)"
+],
+[
+"Operating System",
+"Android 14, upgradable to Android 15, HyperOS 2"
+],
+[
+"Sensors/Features",
+"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC (market/region dependent); infrared port; USB Type-C 2.0, OTG"
+],
+[
+"Colors",
+"Titan Gray, Titan Blue, Titan Black, Lemon Green"
+]
+]
+},
+{
+"slug": "vivo-y200-4g",
+"name": "Vivo Y200 4G",
+"brand": "Vivo",
+"price": 57999,
+"price_src": "https://www.whatmobile.com.pk/Vivo_Y200",
+"year": 2025,
+"cat": "Smartphones",
+"tag": "Style aur battery ka combo — 120Hz AMOLED aur 80W fast charging",
+"hl": [
+"6.67\" AMOLED 120Hz",
+"Snapdragon 685",
+"8 GB RAM",
+"5000 mAh"
+],
+"source": "https://www.gsmarena.com/vivo_y200_4g-13655.php",
+"rows": [
+[
+"Launch Year",
+"2025 (announced January 2025, released January 2025)"
+],
+[
+"Network",
+"GSM / HSPA / LTE"
+],
+[
+"Body",
+"163.2 x 75.9 x 7.8 mm, 188 g or 190 g; glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM; IP64 dust tight and water resistant (water splashes)"
+],
+[
+"Display",
+"AMOLED, 1B colors, 120Hz, 1200 nits (HBM), 1800 nits (peak); 6.67 inches; 1080 x 2400 pixels"
+],
+[
+"Chipset",
+"Qualcomm Snapdragon 685 (6 nm); CPU Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53); GPU Adreno 610"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB (UFS 2.2); microSDXC card slot (uses shared SIM slot)"
+],
+[
+"Main Camera",
+"50 MP f/1.8 wide, PDAF + auxiliary lens; ring-LED flash, panorama, HDR; video 1080p@30fps"
+],
+[
+"Selfie Camera",
+"32 MP f/2.5 wide; video 1080p@30fps"
+],
+[
+"Battery",
+"Li-Ion 5000 mAh"
+],
+[
+"Charging",
+"80W wired (80% in 30 min); reverse wired"
+],
+[
+"Operating System",
+"Android 14, Funtouch 14"
+],
+[
+"Sensors/Features",
+"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; Hi-Res audio; USB Type-C 2.0, OTG"
+],
+[
+"Colors",
+"Titanium Silver, Emerald Green"
+]
+]
+},
+{
+"slug": "realme-13-4g",
+"name": "Realme 13 4G",
+"brand": "Realme",
+"price": 64999,
+"price_src": "https://priceoye.pk/mobiles/realme/realme-13",
+"year": 2024,
+"cat": "Smartphones",
+"tag": "120Hz OLED display aur 67W charging — mid-range mein full package",
+"hl": [
+"6.67\" AMOLED 120Hz",
+"Snapdragon 685",
+"8 GB RAM",
+"5000 mAh"
+],
+"source": "https://www.gsmarena.com/realme_13_4g-13252.php",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 07 August 2024, released 08 August 2024)"
+],
+[
+"Network",
+"GSM / HSPA / LTE"
+],
+[
+"Body",
+"163 x 75.5 x 7.9 mm, 187 g; Nano-SIM + Nano-SIM; IP64 dust tight and water resistant (water splashes)"
+],
+[
+"Display",
+"AMOLED, 120Hz, 600 nits (typ), 2000 nits (peak); 6.67 inches; 1080 x 2400 pixels"
+],
+[
+"Chipset",
+"Qualcomm Snapdragon 685 (6 nm); CPU Octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53); GPU Adreno 610"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC card slot (uses shared SIM slot)"
+],
+[
+"Main Camera",
+"50 MP f/1.9 wide, 1/1.95\", PDAF, OIS + auxiliary lens; LED flash, HDR, panorama; video 1080p@30fps, gyro-EIS"
+],
+[
+"Selfie Camera",
+"16 MP f/2.5 wide; panorama; video 1080p@30fps"
+],
+[
+"Battery",
+"5000 mAh"
+],
+[
+"Charging",
+"67W wired (50% in 19 min, 100% in 47 min)"
+],
+[
+"Operating System",
+"Android 14, Realme UI 5.0"
+],
+[
+"Sensors/Features",
+"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; dual speakers; 3.5mm jack; NFC (360°); USB Type-C 2.0"
+],
+[
+"Colors",
+"Skyline Blue, Pioneer Green"
+]
+]
+},
+{
+"slug": "infinix-note-40s",
+"name": "Infinix Note 40S",
+"brand": "Infinix",
+"price": 49999,
+"price_src": "approx",
+"year": 2024,
+"cat": "Smartphones",
+"tag": "Curved AMOLED aur 108MP camera — wireless MagCharge ke sath",
+"hl": [
+"6.78\" AMOLED 120Hz",
+"Helio G99 Ultimate",
+"8 GB RAM",
+"5000 mAh"
+],
+"source": "https://www.gsmarena.com/infinix_note_40s-13460.php",
+"rows": [
+[
+"Launch Year",
+"2024 (announced September 2024, released October 2024)"
+],
+[
+"Network",
+"GSM / HSPA / LTE"
+],
+[
+"Body",
+"164.1 x 74.6 x 7.8 mm, 176 g; Nano-SIM + Nano-SIM; IP54 dust protected and water resistant (water splashes)"
+],
+[
+"Display",
+"AMOLED, 1B colors, 120Hz, 550 nits (typ), 1300 nits (peak); 6.78 inches; 1080 x 2436 pixels; Corning Gorilla Glass protection"
+],
+[
+"Chipset",
+"Mediatek Helio G99 Ultimate; CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"256 GB (UFS 2.2)"
+],
+[
+"Main Camera",
+"108 MP f/1.9 wide, 1/1.52\", PDAF + 2 MP macro + 3rd unspecified camera; quad-LED flash, HDR, panorama; video 1440p@30fps, 1080p@30/60fps"
+],
+[
+"Selfie Camera",
+"32 MP f/2.2 wide; dual-LED flash; video 1080p@30fps"
+],
+[
+"Battery",
+"5000 mAh"
+],
+[
+"Charging",
+"33W wired (50% in 31 min); 20W wireless MagCharge; reverse wired; reverse wireless; bypass charging"
+],
+[
+"Operating System",
+"Android 14, XOS 14 (up to 2 major OS updates)"
+],
+[
+"Sensors/Features",
+"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers tuned by JBL; NFC (market/region dependent); FM radio; USB Type-C 2.0, OTG"
+],
+[
+"Colors",
+"Obsidian Black, Vintage Green"
+]
+]
+},
+{
+"slug": "tecno-camon-40-pro-4g",
+"name": "Tecno Camon 40 Pro 4G",
+"brand": "Tecno",
+"price": 75999,
+"price_src": "https://www.whatmobile.com.pk/Tecno_Camon-40-Pro",
+"year": 2025,
+"cat": "Smartphones",
+"tag": "Selfie king — 50MP front camera aur OIS main camera ke sath",
+"hl": [
+"6.78\" AMOLED 120Hz",
+"Helio G100 Ultimate",
+"8 GB RAM",
+"5200 mAh"
+],
+"source": "https://www.gsmarena.com/tecno_camon_40_pro-13696.php",
+"rows": [
+[
+"Launch Year",
+"2025 (announced 03 March 2025, released May 2025)"
+],
+[
+"Network",
+"GSM / HSPA / LTE"
+],
+[
+"Body",
+"164.4 x 74.3 x 7.3 mm, 178 g; Nano-SIM + Nano-SIM; IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+],
+[
+"Display",
+"AMOLED, 120Hz; 6.78 inches; 1080 x 2436 pixels; Corning Gorilla Glass 7i protection; HDR image support"
+],
+[
+"Chipset",
+"Mediatek Helio G100 Ultimate (6 nm); CPU Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"256 GB"
+],
+[
+"Main Camera",
+"50 MP f/1.9 wide, 1/1.56\", PDAF, OIS + 8 MP ultrawide; dual-LED flash, HDR, panorama; video 4K@30/60fps (HDR), 1080p@30fps"
+],
+[
+"Selfie Camera",
+"50 MP f/2.5 wide, 1/2.8\", PDAF; video supported"
+],
+[
+"Battery",
+"5200 mAh"
+],
+[
+"Charging",
+"45W wired (50% in 23 min, 100% in 43 min)"
+],
+[
+"Operating System",
+"Android 15, HIOS 15 (up to 3 major OS updates)"
+],
+[
+"Sensors/Features",
+"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC; infrared port; FM radio; USB Type-C 2.0, OTG"
+],
+[
+"Colors",
+"Emerald Lake Green, Galaxy Black, Glacier White"
+]
+]
+}
 ]

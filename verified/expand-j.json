@@ -1,752 +1,752 @@
 [
- {
-  "slug": "vivo-v29",
-  "name": "Vivo V29",
-  "brand": "Vivo",
-  "price": 159999,
-  "price_src": "https://www.whatmobile.com.pk/Vivo_V29",
-  "year": 2023,
-  "cat": "Smartphones",
-  "tag": "50MP OIS camera aur 80W charging wala stylish premium phone",
-  "hl": [
-   "6.78\" AMOLED 120Hz",
-   "Snapdragon 778G 5G",
-   "8/12 GB RAM",
-   "4600 mAh"
-  ],
-  "source": "https://www.gsmarena.com/vivo_v29-12461.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2023 (announced 31 July 2023, released September 2023)"
-   ],
-   [
-    "Network",
-    "5G (GSM / CDMA / HSPA / LTE / 5G)"
-   ],
-   [
-    "Body",
-    "164.2 x 74.4 x 7.5 mm, 186 g; glass front, glass back, plastic frame; Nano-SIM + Nano-SIM / eSIM; IP68 dust and water resistant"
-   ],
-   [
-    "Display",
-    "AMOLED, 1B colors, 120Hz, HDR10+; 6.78 inches; 1260 x 2800 pixels"
-   ],
-   [
-    "Chipset",
-    "Qualcomm Snapdragon 778G 5G (6 nm); CPU octa-core (1x2.4 GHz Cortex-A78 & 3x2.2 GHz Cortex-A78 & 4x1.9 GHz Cortex-A55); GPU Adreno 642L"
-   ],
-   [
-    "RAM",
-    "8 GB / 12 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB / 512 GB (UFS 2.2); no card slot"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.9 wide (PDAF, OIS) + 8 MP f/2.2 ultrawide + auxiliary lens, Ring-LED flash; video 4K@30fps"
-   ],
-   [
-    "Selfie Camera",
-    "50 MP f/2.0 (AF); video 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "4600 mAh"
-   ],
-   [
-    "Charging",
-    "80W wired (50% in 17 min)"
-   ],
-   [
-    "Operating System",
-    "Android 13, Funtouch 13 (up to 3 major OS updates)"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; NFC; 24-bit/192kHz Hi-Res audio; USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Space Black, Himalayan Blue, Purple Fairy, Majestic Red"
-   ]
-  ]
- },
- {
-  "slug": "vivo-y36",
-  "name": "Vivo Y36",
-  "brand": "Vivo",
-  "price": 59999,
-  "price_src": "https://www.whatmobile.com.pk/Vivo_Y36",
-  "year": 2023,
-  "cat": "Smartphones",
-  "tag": "50MP camera aur 44W charging wala budget dost phone",
-  "hl": [
-   "6.64\" IPS LCD 90Hz",
-   "Snapdragon 680 4G",
-   "4/8 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/vivo_y36-12374.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2023 (announced 27 May 2023, released 27 May 2023)"
-   ],
-   [
-    "Network",
-    "4G LTE (GSM / HSPA / LTE)"
-   ],
-   [
-    "Body",
-    "164.1 x 76.2 x 8.1 mm, 202 g; glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM; IP54 splash resistant"
-   ],
-   [
-    "Display",
-    "IPS LCD, 90Hz, 650 nits (peak); 6.64 inches; 1080 x 2388 pixels"
-   ],
-   [
-    "Chipset",
-    "Qualcomm Snapdragon 680 4G (6 nm); CPU octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver); GPU Adreno 610"
-   ],
-   [
-    "RAM",
-    "4 GB / 8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB; microSDXC (dedicated slot)"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.8 wide (PDAF) + 2 MP macro + auxiliary lens, LED flash; video 1080p@30fps"
-   ],
-   [
-    "Selfie Camera",
-    "16 MP f/2.5; video 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "5000 mAh"
-   ],
-   [
-    "Charging",
-    "44W wired (30% in 15 min); reverse wired"
-   ],
-   [
-    "Operating System",
-    "Android 13, Funtouch 13"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (side-mounted), accelerometer, proximity, gyro, compass; FM radio; 3.5mm jack; NFC (market dependent); USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Meteor Black, Gold, Aqua Glitter"
-   ]
-  ]
- },
- {
-  "slug": "oppo-a60",
-  "name": "Oppo A60",
-  "brand": "Oppo",
-  "price": 54999,
-  "price_src": "https://www.WhatMobile.com.pk/Oppo_A60",
-  "year": 2024,
-  "cat": "Smartphones",
-  "tag": "Mazboot body aur 45W charging wala rozmarra ka saathi",
-  "hl": [
-   "6.67\" IPS LCD 90Hz",
-   "Snapdragon 680 4G",
-   "8 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/oppo_a60-12964.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2024 (announced 26 April 2024, released 26 April 2024)"
-   ],
-   [
-    "Network",
-    "4G LTE (GSM / HSPA / LTE)"
-   ],
-   [
-    "Body",
-    "165.7 x 76 x 7.7 mm, 186 g; Nano-SIM + Nano-SIM; IP54 splash resistant, MIL-STD-810H compliant"
-   ],
-   [
-    "Display",
-    "IPS LCD, 90Hz, 950 nits (peak); 6.67 inches; 720 x 1604 pixels"
-   ],
-   [
-    "Chipset",
-    "Qualcomm Snapdragon 680 4G (6 nm); CPU octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver); GPU Adreno 610"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB (UFS 2.2); microSDXC"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.8 wide (PDAF) + auxiliary lens, LED flash; video 1080p@30fps"
-   ],
-   [
-    "Selfie Camera",
-    "8 MP f/2.0; video 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "5000 mAh (Li-Ion)"
-   ],
-   [
-    "Charging",
-    "45W wired (50% in 30 min)"
-   ],
-   [
-    "Operating System",
-    "Android 14, ColorOS 15 (upgradable to Android 15)"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (side-mounted), accelerometer, proximity, compass; stereo speakers; 3.5mm jack; USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Midnight Purple, Ripple Blue"
-   ]
-  ]
- },
- {
-  "slug": "oppo-a78-4g",
-  "name": "Oppo A78 4G",
-  "brand": "Oppo",
-  "price": 64999,
-  "price_src": "https://m.whatmobile.com.pk/amp/Oppo_A78",
-  "year": 2023,
-  "cat": "Smartphones",
-  "tag": "AMOLED display aur 67W charging wala tez mid-range phone",
-  "hl": [
-   "6.43\" AMOLED 90Hz",
-   "Snapdragon 680 4G",
-   "8 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/oppo_a78_4g-12387.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2023 (announced 10 July 2023, released 10 July 2023)"
-   ],
-   [
-    "Network",
-    "4G LTE (GSM / HSPA / LTE)"
-   ],
-   [
-    "Body",
-    "160 x 73.2 x 7.9 mm, 180 g; Nano-SIM + Nano-SIM; IP54 splash resistant"
-   ],
-   [
-    "Display",
-    "AMOLED, 90Hz, 430 nits; 6.43 inches; 1080 x 2400 pixels; Corning Gorilla Glass 5 protection"
-   ],
-   [
-    "Chipset",
-    "Qualcomm Snapdragon 680 4G (6 nm); CPU octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver); GPU Adreno 610"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB; microSDXC"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.8 wide (PDAF) + auxiliary lens, LED flash; video 1080p@30fps"
-   ],
-   [
-    "Selfie Camera",
-    "8 MP f/2.0; video 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "5000 mAh (Li-Po)"
-   ],
-   [
-    "Charging",
-    "67W wired (PD, 76% in 30 min)"
-   ],
-   [
-    "Operating System",
-    "Android 13, ColorOS 13.1"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC (market dependent); 3.5mm jack; USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Mist Black, Aqua Green"
-   ]
-  ]
- },
- {
-  "slug": "realme-c67",
-  "name": "Realme C67",
-  "brand": "Realme",
-  "price": 39999,
-  "price_src": "https://priceoye.pk/mobiles/realme/realme-c67",
-  "year": 2023,
-  "cat": "Smartphones",
-  "tag": "108MP camera wala sasta aur powerful budget phone",
-  "hl": [
-   "6.72\" IPS LCD 90Hz",
-   "Snapdragon 685",
-   "6/8 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/realme_c67_4g-12741.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2023 (announced 19 December 2023, released 19 December 2023)"
-   ],
-   [
-    "Network",
-    "4G LTE (GSM / HSPA / LTE)"
-   ],
-   [
-    "Body",
-    "164.6 x 75.4 x 7.6 mm, 185 g; Nano-SIM + Nano-SIM; IP54 splash resistant"
-   ],
-   [
-    "Display",
-    "IPS LCD, 90Hz, 800 nits (typ), 950 nits (HBM); 6.72 inches; 1080 x 2400 pixels"
-   ],
-   [
-    "Chipset",
-    "Qualcomm Snapdragon 685 (6 nm); CPU octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53); GPU Adreno 610"
-   ],
-   [
-    "RAM",
-    "6 GB / 8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB; microSDXC (dedicated slot)"
-   ],
-   [
-    "Main Camera",
-    "108 MP f/1.8 wide (PDAF) + auxiliary lens, LED flash; video 1080p@30fps, gyro-EIS"
-   ],
-   [
-    "Selfie Camera",
-    "8 MP f/2.1; video 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "5000 mAh"
-   ],
-   [
-    "Charging",
-    "33W wired"
-   ],
-   [
-    "Operating System",
-    "Android 14, Realme UI"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass; stereo speakers; NFC 360°; 3.5mm jack; USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Sunny Oasis, Black Rock"
-   ]
-  ]
- },
- {
-  "slug": "honor-x6b",
-  "name": "Honor X6b",
-  "brand": "Honor",
-  "price": 23999,
-  "price_src": "approx",
-  "year": 2024,
-  "cat": "Smartphones",
-  "tag": "5200 mAh battery aur 50MP camera wala budget dost",
-  "hl": [
-   "6.56\" TFT LCD 90Hz",
-   "Helio G85",
-   "4/6/8 GB RAM",
-   "5200 mAh"
-  ],
-  "source": "https://www.gsmarena.com/honor_x6b-13143.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2024 (announced 13 June 2024, released June 2024)"
-   ],
-   [
-    "Network",
-    "4G LTE (GSM / HSPA / LTE)"
-   ],
-   [
-    "Body",
-    "163.6 x 75.3 x 8.4 mm, 192 g; Nano-SIM + Nano-SIM"
-   ],
-   [
-    "Display",
-    "TFT LCD, 90Hz, 780 nits (peak); 6.56 inches; 720 x 1612 pixels"
-   ],
-   [
-    "Chipset",
-    "MediaTek Helio G85 (12 nm); CPU octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MC2"
-   ],
-   [
-    "RAM",
-    "4 GB / 6 GB / 8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB; microSDXC"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.8 wide (PDAF) + auxiliary lens, LED flash; video 1080p@30fps"
-   ],
-   [
-    "Selfie Camera",
-    "5 MP f/2.2 wide; video 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "5200 mAh (Li-Po)"
-   ],
-   [
-    "Charging",
-    "35W wired (31% in 20 min)"
-   ],
-   [
-    "Operating System",
-    "Android 14, Magic OS 8"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (side-mounted), accelerometer, proximity; NFC (JDY-LX1 only); 3.5mm jack; USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Forest Green, Starry Purple, Ocean Cyan, Midnight Black"
-   ]
-  ]
- },
- {
-  "slug": "xiaomi-13t",
-  "name": "Xiaomi 13T",
-  "brand": "Xiaomi",
-  "price": 169999,
-  "price_src": "https://mobileinto.com/pk/Xiaomi-13T/",
-  "year": 2023,
-  "cat": "Smartphones",
-  "tag": "Leica cameras aur 144Hz AMOLED wala flagship killer",
-  "hl": [
-   "6.67\" AMOLED 144Hz",
-   "Dimensity 8200 Ultra",
-   "8/12 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/xiaomi_13t-12389.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2023 (announced 26 September 2023, released 26 September 2023)"
-   ],
-   [
-    "Network",
-    "5G (GSM / HSPA / LTE / 5G)"
-   ],
-   [
-    "Body",
-    "162.2 x 75.7 x 8.5 mm, 193 g or 197 g; glass front (Gorilla Glass 5), glass back or silicone polymer back, plastic frame; Nano-SIM + eSIM / Nano-SIM + Nano-SIM; IP68 dust and water resistant"
-   ],
-   [
-    "Display",
-    "AMOLED, 68B colors, 144Hz, Dolby Vision, HDR10+, 1200 nits (HBM), 2600 nits (peak); 6.67 inches; 1220 x 2712 pixels; Corning Gorilla Glass 5 protection"
-   ],
-   [
-    "Chipset",
-    "MediaTek Dimensity 8200 Ultra (4 nm); CPU octa-core (1x3.1 GHz Cortex-A78 & 3x3.0 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G610 MC6"
-   ],
-   [
-    "RAM",
-    "8 GB / 12 GB"
-   ],
-   [
-    "Storage",
-    "256 GB (UFS 3.1); no card slot"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.9 wide (PDAF, OIS) + 50 MP f/1.9 telephoto (2x optical zoom) + 12 MP f/2.2 ultrawide, Leica lens; video 4K@30fps (HDR10+)"
-   ],
-   [
-    "Selfie Camera",
-    "20 MP f/2.2 wide; video 1080p@30fps (HDR10+)"
-   ],
-   [
-    "Battery",
-    "5000 mAh (Li-Po)"
-   ],
-   [
-    "Charging",
-    "67W wired (PD3.0, QC4, 100% in 42 min)"
-   ],
-   [
-    "Operating System",
-    "Android 13, up to 4 major OS updates, HyperOS"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC (market dependent); infrared port; USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Alpine Blue, Meadow Green, Black"
-   ]
-  ]
- },
- {
-  "slug": "poco-c65",
-  "name": "Poco C65",
-  "brand": "Xiaomi",
-  "price": 44999,
-  "price_src": "https://www.whatmobile.com.pk/Xiaomi_Poco-C65",
-  "year": 2023,
-  "cat": "Smartphones",
-  "tag": "Barri 6.74 inch screen aur 50MP camera sasti qeemat mein",
-  "hl": [
-   "6.74\" IPS LCD 90Hz",
-   "Helio G85",
-   "4/6/8 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/xiaomi_poco_c65-12684.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2023 (announced 5 November 2023, released 6 November 2023)"
-   ],
-   [
-    "Network",
-    "4G LTE (GSM / HSPA / LTE)"
-   ],
-   [
-    "Body",
-    "168 x 78 x 8.1 mm, 192 g; glass front (Gorilla Glass), plastic frame, plastic back; Nano-SIM + Nano-SIM"
-   ],
-   [
-    "Display",
-    "IPS LCD, 90Hz, 450 nits (typ), 600 nits (HBM); 6.74 inches; 720 x 1600 pixels; Corning Gorilla Glass protection"
-   ],
-   [
-    "Chipset",
-    "MediaTek MT6769Z Helio G85 (12 nm); CPU octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MC2"
-   ],
-   [
-    "RAM",
-    "4 GB / 6 GB / 8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB (eMMC 5.1); microSDXC (dedicated slot)"
-   ],
-   [
-    "Main Camera",
-    "50 MP f/1.8 wide (PDAF) + 2 MP macro + auxiliary lens, LED flash; video 1080p@30fps"
-   ],
-   [
-    "Selfie Camera",
-    "8 MP f/2.0; video 1080p@30fps"
-   ],
-   [
-    "Battery",
-    "5000 mAh (Li-Po)"
-   ],
-   [
-    "Charging",
-    "18W wired (PD)"
-   ],
-   [
-    "Operating System",
-    "Android 13, upgradable to Android 15, HyperOS 2"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (side-mounted), accelerometer, compass; NFC (market dependent); FM radio; 3.5mm jack; USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Black, Blue, Purple"
-   ]
-  ]
- },
- {
-  "slug": "infinix-note-30",
-  "name": "Infinix Note 30",
-  "brand": "Infinix",
-  "price": 44999,
-  "price_src": "https://www.whatmobile.com.pk/Infinix_Note-30",
-  "year": 2023,
-  "cat": "Smartphones",
-  "tag": "120Hz display, Helio G99 aur 45W charging wala all-rounder",
-  "hl": [
-   "6.78\" IPS LCD 120Hz",
-   "Helio G99",
-   "8 GB RAM",
-   "5000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/infinix_note_30-12288.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2023 (announced 22 May 2023, released 22 May 2023)"
-   ],
-   [
-    "Network",
-    "4G LTE (GSM / HSPA / LTE)"
-   ],
-   [
-    "Body",
-    "168.6 x 76.6 x 8.6 mm, 219 g; glass front, plastic frame, glass or leather back; Nano-SIM + Nano-SIM"
-   ],
-   [
-    "Display",
-    "IPS LCD, 120Hz, 580 nits (peak); 6.78 inches; 1080 x 2460 pixels"
-   ],
-   [
-    "Chipset",
-    "MediaTek Helio G99 (6 nm); CPU octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB (UFS); microSDXC (dedicated slot)"
-   ],
-   [
-    "Main Camera",
-    "64 MP f/1.7 wide (PDAF) + auxiliary lenses, Quad-LED flash; video 1440p@30fps, 1080p@30/60fps"
-   ],
-   [
-    "Selfie Camera",
-    "16 MP f/2.0 wide, LED flash; video 1440p@30fps, 1080p@30/60fps"
-   ],
-   [
-    "Battery",
-    "5000 mAh"
-   ],
-   [
-    "Charging",
-    "45W wired"
-   ],
-   [
-    "Operating System",
-    "Android 13"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass; stereo speakers tuned by JBL; NFC (market dependent); FM radio; 3.5mm jack; USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Obsidian Black, Interstellar Blue, Sunset Gold"
-   ]
-  ]
- },
- {
-  "slug": "tecno-pova-6-neo",
-  "name": "Tecno Pova 6 Neo",
-  "brand": "Tecno",
-  "price": 49999,
-  "price_src": "https://priceoye.pk/mobiles/tecno/tecno-pova-6-neo",
-  "year": 2024,
-  "cat": "Smartphones",
-  "tag": "7000 mAh ki monster battery, gaming ke liye best",
-  "hl": [
-   "6.78\" IPS LCD 120Hz",
-   "Helio G99 Ultimate",
-   "8 GB RAM",
-   "7000 mAh"
-  ],
-  "source": "https://www.gsmarena.com/tecno_pova_6_neo-12911.php",
-  "rows": [
-   [
-    "Launch Year",
-    "2024 (announced 4 April 2024, released May 2024)"
-   ],
-   [
-    "Network",
-    "4G LTE (GSM / HSPA / LTE)"
-   ],
-   [
-    "Body",
-    "168.6 x 76.6 x 9.2 mm; glass front; Nano-SIM + Nano-SIM; IP53 dust and water resistant"
-   ],
-   [
-    "Display",
-    "IPS LCD, 1B colors, 120Hz, 580 nits (typ); 6.78 inches; 1080 x 2460 pixels"
-   ],
-   [
-    "Chipset",
-    "MediaTek Helio G99 Ultimate (6 nm); CPU octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
-   ],
-   [
-    "RAM",
-    "8 GB"
-   ],
-   [
-    "Storage",
-    "128 GB / 256 GB; no card slot"
-   ],
-   [
-    "Main Camera",
-    "50 MP wide (PDAF), Quad-LED flash; video 1440p@30fps, 1080p@30/60fps"
-   ],
-   [
-    "Selfie Camera",
-    "8 MP wide, Dual-LED dual-tone flash; video 1440p@30fps, 1080p@30/60fps"
-   ],
-   [
-    "Battery",
-    "7000 mAh"
-   ],
-   [
-    "Charging",
-    "33W wired"
-   ],
-   [
-    "Operating System",
-    "Android 14, HIOS 14"
-   ],
-   [
-    "Sensors/Features",
-    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass; stereo speakers; NFC; FM radio; 3.5mm jack; USB Type-C 2.0"
-   ],
-   [
-    "Colors",
-    "Starry Silver, Speed Black, Comet Green"
-   ]
-  ]
- }
+{
+"slug": "vivo-v29",
+"name": "Vivo V29",
+"brand": "Vivo",
+"price": 159999,
+"price_src": "https://www.whatmobile.com.pk/Vivo_V29",
+"year": 2023,
+"cat": "Smartphones",
+"tag": "50MP OIS camera aur 80W charging wala stylish premium phone",
+"hl": [
+"6.78\" AMOLED 120Hz",
+"Snapdragon 778G 5G",
+"8/12 GB RAM",
+"4600 mAh"
+],
+"source": "https://www.gsmarena.com/vivo_v29-12461.php",
+"rows": [
+[
+"Launch Year",
+"2023 (announced 31 July 2023, released September 2023)"
+],
+[
+"Network",
+"5G (GSM / CDMA / HSPA / LTE / 5G)"
+],
+[
+"Body",
+"164.2 x 74.4 x 7.5 mm, 186 g; glass front, glass back, plastic frame; Nano-SIM + Nano-SIM / eSIM; IP68 dust and water resistant"
+],
+[
+"Display",
+"AMOLED, 1B colors, 120Hz, HDR10+; 6.78 inches; 1260 x 2800 pixels"
+],
+[
+"Chipset",
+"Qualcomm Snapdragon 778G 5G (6 nm); CPU octa-core (1x2.4 GHz Cortex-A78 & 3x2.2 GHz Cortex-A78 & 4x1.9 GHz Cortex-A55); GPU Adreno 642L"
+],
+[
+"RAM",
+"8 GB / 12 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB / 512 GB (UFS 2.2); no card slot"
+],
+[
+"Main Camera",
+"50 MP f/1.9 wide (PDAF, OIS) + 8 MP f/2.2 ultrawide + auxiliary lens, Ring-LED flash; video 4K@30fps"
+],
+[
+"Selfie Camera",
+"50 MP f/2.0 (AF); video 1080p@30fps"
+],
+[
+"Battery",
+"4600 mAh"
+],
+[
+"Charging",
+"80W wired (50% in 17 min)"
+],
+[
+"Operating System",
+"Android 13, Funtouch 13 (up to 3 major OS updates)"
+],
+[
+"Sensors/Features",
+"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; NFC; 24-bit/192kHz Hi-Res audio; USB Type-C 2.0"
+],
+[
+"Colors",
+"Space Black, Himalayan Blue, Purple Fairy, Majestic Red"
+]
+]
+},
+{
+"slug": "vivo-y36",
+"name": "Vivo Y36",
+"brand": "Vivo",
+"price": 59999,
+"price_src": "https://www.whatmobile.com.pk/Vivo_Y36",
+"year": 2023,
+"cat": "Smartphones",
+"tag": "50MP camera aur 44W charging wala budget dost phone",
+"hl": [
+"6.64\" IPS LCD 90Hz",
+"Snapdragon 680 4G",
+"4/8 GB RAM",
+"5000 mAh"
+],
+"source": "https://www.gsmarena.com/vivo_y36-12374.php",
+"rows": [
+[
+"Launch Year",
+"2023 (announced 27 May 2023, released 27 May 2023)"
+],
+[
+"Network",
+"4G LTE (GSM / HSPA / LTE)"
+],
+[
+"Body",
+"164.1 x 76.2 x 8.1 mm, 202 g; glass front, plastic back, plastic frame; Nano-SIM + Nano-SIM; IP54 splash resistant"
+],
+[
+"Display",
+"IPS LCD, 90Hz, 650 nits (peak); 6.64 inches; 1080 x 2388 pixels"
+],
+[
+"Chipset",
+"Qualcomm Snapdragon 680 4G (6 nm); CPU octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver); GPU Adreno 610"
+],
+[
+"RAM",
+"4 GB / 8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC (dedicated slot)"
+],
+[
+"Main Camera",
+"50 MP f/1.8 wide (PDAF) + 2 MP macro + auxiliary lens, LED flash; video 1080p@30fps"
+],
+[
+"Selfie Camera",
+"16 MP f/2.5; video 1080p@30fps"
+],
+[
+"Battery",
+"5000 mAh"
+],
+[
+"Charging",
+"44W wired (30% in 15 min); reverse wired"
+],
+[
+"Operating System",
+"Android 13, Funtouch 13"
+],
+[
+"Sensors/Features",
+"Fingerprint (side-mounted), accelerometer, proximity, gyro, compass; FM radio; 3.5mm jack; NFC (market dependent); USB Type-C 2.0"
+],
+[
+"Colors",
+"Meteor Black, Gold, Aqua Glitter"
+]
+]
+},
+{
+"slug": "oppo-a60",
+"name": "Oppo A60",
+"brand": "Oppo",
+"price": 54999,
+"price_src": "https://www.WhatMobile.com.pk/Oppo_A60",
+"year": 2024,
+"cat": "Smartphones",
+"tag": "Mazboot body aur 45W charging wala rozmarra ka saathi",
+"hl": [
+"6.67\" IPS LCD 90Hz",
+"Snapdragon 680 4G",
+"8 GB RAM",
+"5000 mAh"
+],
+"source": "https://www.gsmarena.com/oppo_a60-12964.php",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 26 April 2024, released 26 April 2024)"
+],
+[
+"Network",
+"4G LTE (GSM / HSPA / LTE)"
+],
+[
+"Body",
+"165.7 x 76 x 7.7 mm, 186 g; Nano-SIM + Nano-SIM; IP54 splash resistant, MIL-STD-810H compliant"
+],
+[
+"Display",
+"IPS LCD, 90Hz, 950 nits (peak); 6.67 inches; 720 x 1604 pixels"
+],
+[
+"Chipset",
+"Qualcomm Snapdragon 680 4G (6 nm); CPU octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver); GPU Adreno 610"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB (UFS 2.2); microSDXC"
+],
+[
+"Main Camera",
+"50 MP f/1.8 wide (PDAF) + auxiliary lens, LED flash; video 1080p@30fps"
+],
+[
+"Selfie Camera",
+"8 MP f/2.0; video 1080p@30fps"
+],
+[
+"Battery",
+"5000 mAh (Li-Ion)"
+],
+[
+"Charging",
+"45W wired (50% in 30 min)"
+],
+[
+"Operating System",
+"Android 14, ColorOS 15 (upgradable to Android 15)"
+],
+[
+"Sensors/Features",
+"Fingerprint (side-mounted), accelerometer, proximity, compass; stereo speakers; 3.5mm jack; USB Type-C 2.0"
+],
+[
+"Colors",
+"Midnight Purple, Ripple Blue"
+]
+]
+},
+{
+"slug": "oppo-a78-4g",
+"name": "Oppo A78 4G",
+"brand": "Oppo",
+"price": 64999,
+"price_src": "https://m.whatmobile.com.pk/amp/Oppo_A78",
+"year": 2023,
+"cat": "Smartphones",
+"tag": "AMOLED display aur 67W charging wala tez mid-range phone",
+"hl": [
+"6.43\" AMOLED 90Hz",
+"Snapdragon 680 4G",
+"8 GB RAM",
+"5000 mAh"
+],
+"source": "https://www.gsmarena.com/oppo_a78_4g-12387.php",
+"rows": [
+[
+"Launch Year",
+"2023 (announced 10 July 2023, released 10 July 2023)"
+],
+[
+"Network",
+"4G LTE (GSM / HSPA / LTE)"
+],
+[
+"Body",
+"160 x 73.2 x 7.9 mm, 180 g; Nano-SIM + Nano-SIM; IP54 splash resistant"
+],
+[
+"Display",
+"AMOLED, 90Hz, 430 nits; 6.43 inches; 1080 x 2400 pixels; Corning Gorilla Glass 5 protection"
+],
+[
+"Chipset",
+"Qualcomm Snapdragon 680 4G (6 nm); CPU octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver); GPU Adreno 610"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC"
+],
+[
+"Main Camera",
+"50 MP f/1.8 wide (PDAF) + auxiliary lens, LED flash; video 1080p@30fps"
+],
+[
+"Selfie Camera",
+"8 MP f/2.0; video 1080p@30fps"
+],
+[
+"Battery",
+"5000 mAh (Li-Po)"
+],
+[
+"Charging",
+"67W wired (PD, 76% in 30 min)"
+],
+[
+"Operating System",
+"Android 13, ColorOS 13.1"
+],
+[
+"Sensors/Features",
+"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC (market dependent); 3.5mm jack; USB Type-C 2.0"
+],
+[
+"Colors",
+"Mist Black, Aqua Green"
+]
+]
+},
+{
+"slug": "realme-c67",
+"name": "Realme C67",
+"brand": "Realme",
+"price": 39999,
+"price_src": "https://priceoye.pk/mobiles/realme/realme-c67",
+"year": 2023,
+"cat": "Smartphones",
+"tag": "108MP camera wala sasta aur powerful budget phone",
+"hl": [
+"6.72\" IPS LCD 90Hz",
+"Snapdragon 685",
+"6/8 GB RAM",
+"5000 mAh"
+],
+"source": "https://www.gsmarena.com/realme_c67_4g-12741.php",
+"rows": [
+[
+"Launch Year",
+"2023 (announced 19 December 2023, released 19 December 2023)"
+],
+[
+"Network",
+"4G LTE (GSM / HSPA / LTE)"
+],
+[
+"Body",
+"164.6 x 75.4 x 7.6 mm, 185 g; Nano-SIM + Nano-SIM; IP54 splash resistant"
+],
+[
+"Display",
+"IPS LCD, 90Hz, 800 nits (typ), 950 nits (HBM); 6.72 inches; 1080 x 2400 pixels"
+],
+[
+"Chipset",
+"Qualcomm Snapdragon 685 (6 nm); CPU octa-core (4x2.8 GHz Cortex-A73 & 4x1.9 GHz Cortex-A53); GPU Adreno 610"
+],
+[
+"RAM",
+"6 GB / 8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC (dedicated slot)"
+],
+[
+"Main Camera",
+"108 MP f/1.8 wide (PDAF) + auxiliary lens, LED flash; video 1080p@30fps, gyro-EIS"
+],
+[
+"Selfie Camera",
+"8 MP f/2.1; video 1080p@30fps"
+],
+[
+"Battery",
+"5000 mAh"
+],
+[
+"Charging",
+"33W wired"
+],
+[
+"Operating System",
+"Android 14, Realme UI"
+],
+[
+"Sensors/Features",
+"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass; stereo speakers; NFC 360°; 3.5mm jack; USB Type-C 2.0"
+],
+[
+"Colors",
+"Sunny Oasis, Black Rock"
+]
+]
+},
+{
+"slug": "honor-x6b",
+"name": "Honor X6b",
+"brand": "Honor",
+"price": 23999,
+"price_src": "approx",
+"year": 2024,
+"cat": "Smartphones",
+"tag": "5200 mAh battery aur 50MP camera wala budget dost",
+"hl": [
+"6.56\" TFT LCD 90Hz",
+"Helio G85",
+"4/6/8 GB RAM",
+"5200 mAh"
+],
+"source": "https://www.gsmarena.com/honor_x6b-13143.php",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 13 June 2024, released June 2024)"
+],
+[
+"Network",
+"4G LTE (GSM / HSPA / LTE)"
+],
+[
+"Body",
+"163.6 x 75.3 x 8.4 mm, 192 g; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"TFT LCD, 90Hz, 780 nits (peak); 6.56 inches; 720 x 1612 pixels"
+],
+[
+"Chipset",
+"MediaTek Helio G85 (12 nm); CPU octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MC2"
+],
+[
+"RAM",
+"4 GB / 6 GB / 8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC"
+],
+[
+"Main Camera",
+"50 MP f/1.8 wide (PDAF) + auxiliary lens, LED flash; video 1080p@30fps"
+],
+[
+"Selfie Camera",
+"5 MP f/2.2 wide; video 1080p@30fps"
+],
+[
+"Battery",
+"5200 mAh (Li-Po)"
+],
+[
+"Charging",
+"35W wired (31% in 20 min)"
+],
+[
+"Operating System",
+"Android 14, Magic OS 8"
+],
+[
+"Sensors/Features",
+"Fingerprint (side-mounted), accelerometer, proximity; NFC (JDY-LX1 only); 3.5mm jack; USB Type-C 2.0"
+],
+[
+"Colors",
+"Forest Green, Starry Purple, Ocean Cyan, Midnight Black"
+]
+]
+},
+{
+"slug": "xiaomi-13t",
+"name": "Xiaomi 13T",
+"brand": "Xiaomi",
+"price": 169999,
+"price_src": "https://mobileinto.com/pk/Xiaomi-13T/",
+"year": 2023,
+"cat": "Smartphones",
+"tag": "Leica cameras aur 144Hz AMOLED wala flagship killer",
+"hl": [
+"6.67\" AMOLED 144Hz",
+"Dimensity 8200 Ultra",
+"8/12 GB RAM",
+"5000 mAh"
+],
+"source": "https://www.gsmarena.com/xiaomi_13t-12389.php",
+"rows": [
+[
+"Launch Year",
+"2023 (announced 26 September 2023, released 26 September 2023)"
+],
+[
+"Network",
+"5G (GSM / HSPA / LTE / 5G)"
+],
+[
+"Body",
+"162.2 x 75.7 x 8.5 mm, 193 g or 197 g; glass front (Gorilla Glass 5), glass back or silicone polymer back, plastic frame; Nano-SIM + eSIM / Nano-SIM + Nano-SIM; IP68 dust and water resistant"
+],
+[
+"Display",
+"AMOLED, 68B colors, 144Hz, Dolby Vision, HDR10+, 1200 nits (HBM), 2600 nits (peak); 6.67 inches; 1220 x 2712 pixels; Corning Gorilla Glass 5 protection"
+],
+[
+"Chipset",
+"MediaTek Dimensity 8200 Ultra (4 nm); CPU octa-core (1x3.1 GHz Cortex-A78 & 3x3.0 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55); GPU Mali-G610 MC6"
+],
+[
+"RAM",
+"8 GB / 12 GB"
+],
+[
+"Storage",
+"256 GB (UFS 3.1); no card slot"
+],
+[
+"Main Camera",
+"50 MP f/1.9 wide (PDAF, OIS) + 50 MP f/1.9 telephoto (2x optical zoom) + 12 MP f/2.2 ultrawide, Leica lens; video 4K@30fps (HDR10+)"
+],
+[
+"Selfie Camera",
+"20 MP f/2.2 wide; video 1080p@30fps (HDR10+)"
+],
+[
+"Battery",
+"5000 mAh (Li-Po)"
+],
+[
+"Charging",
+"67W wired (PD3.0, QC4, 100% in 42 min)"
+],
+[
+"Operating System",
+"Android 13, up to 4 major OS updates, HyperOS"
+],
+[
+"Sensors/Features",
+"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass; stereo speakers; NFC (market dependent); infrared port; USB Type-C 2.0"
+],
+[
+"Colors",
+"Alpine Blue, Meadow Green, Black"
+]
+]
+},
+{
+"slug": "poco-c65",
+"name": "Poco C65",
+"brand": "Xiaomi",
+"price": 44999,
+"price_src": "https://priceoye.pk/mobiles/xiaomi/xiaomi-poco-c65",
+"year": 2023,
+"cat": "Smartphones",
+"tag": "Barri 6.74 inch screen aur 50MP camera sasti qeemat mein",
+"hl": [
+"6.74\" IPS LCD 90Hz",
+"Helio G85",
+"4/6/8 GB RAM",
+"5000 mAh"
+],
+"source": "https://www.gsmarena.com/xiaomi_poco_c65-12684.php",
+"rows": [
+[
+"Launch Year",
+"2023 (announced 5 November 2023, released 6 November 2023)"
+],
+[
+"Network",
+"4G LTE (GSM / HSPA / LTE)"
+],
+[
+"Body",
+"168 x 78 x 8.1 mm, 192 g; glass front (Gorilla Glass), plastic frame, plastic back; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"IPS LCD, 90Hz, 450 nits (typ), 600 nits (HBM); 6.74 inches; 720 x 1600 pixels; Corning Gorilla Glass protection"
+],
+[
+"Chipset",
+"MediaTek MT6769Z Helio G85 (12 nm); CPU octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55); GPU Mali-G52 MC2"
+],
+[
+"RAM",
+"4 GB / 6 GB / 8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB (eMMC 5.1); microSDXC (dedicated slot)"
+],
+[
+"Main Camera",
+"50 MP f/1.8 wide (PDAF) + 2 MP macro + auxiliary lens, LED flash; video 1080p@30fps"
+],
+[
+"Selfie Camera",
+"8 MP f/2.0; video 1080p@30fps"
+],
+[
+"Battery",
+"5000 mAh (Li-Po)"
+],
+[
+"Charging",
+"18W wired (PD)"
+],
+[
+"Operating System",
+"Android 13, upgradable to Android 15, HyperOS 2"
+],
+[
+"Sensors/Features",
+"Fingerprint (side-mounted), accelerometer, compass; NFC (market dependent); FM radio; 3.5mm jack; USB Type-C 2.0"
+],
+[
+"Colors",
+"Black, Blue, Purple"
+]
+]
+},
+{
+"slug": "infinix-note-30",
+"name": "Infinix Note 30",
+"brand": "Infinix",
+"price": 44999,
+"price_src": "https://www.whatmobile.com.pk/Infinix_Note-30",
+"year": 2023,
+"cat": "Smartphones",
+"tag": "120Hz display, Helio G99 aur 45W charging wala all-rounder",
+"hl": [
+"6.78\" IPS LCD 120Hz",
+"Helio G99",
+"8 GB RAM",
+"5000 mAh"
+],
+"source": "https://www.gsmarena.com/infinix_note_30-12288.php",
+"rows": [
+[
+"Launch Year",
+"2023 (announced 22 May 2023, released 22 May 2023)"
+],
+[
+"Network",
+"4G LTE (GSM / HSPA / LTE)"
+],
+[
+"Body",
+"168.6 x 76.6 x 8.6 mm, 219 g; glass front, plastic frame, glass or leather back; Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"IPS LCD, 120Hz, 580 nits (peak); 6.78 inches; 1080 x 2460 pixels"
+],
+[
+"Chipset",
+"MediaTek Helio G99 (6 nm); CPU octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB (UFS); microSDXC (dedicated slot)"
+],
+[
+"Main Camera",
+"64 MP f/1.7 wide (PDAF) + auxiliary lenses, Quad-LED flash; video 1440p@30fps, 1080p@30/60fps"
+],
+[
+"Selfie Camera",
+"16 MP f/2.0 wide, LED flash; video 1440p@30fps, 1080p@30/60fps"
+],
+[
+"Battery",
+"5000 mAh"
+],
+[
+"Charging",
+"45W wired"
+],
+[
+"Operating System",
+"Android 13"
+],
+[
+"Sensors/Features",
+"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass; stereo speakers tuned by JBL; NFC (market dependent); FM radio; 3.5mm jack; USB Type-C 2.0"
+],
+[
+"Colors",
+"Obsidian Black, Interstellar Blue, Sunset Gold"
+]
+]
+},
+{
+"slug": "tecno-pova-6-neo",
+"name": "Tecno Pova 6 Neo",
+"brand": "Tecno",
+"price": 49999,
+"price_src": "https://priceoye.pk/mobiles/tecno/tecno-pova-6-neo",
+"year": 2024,
+"cat": "Smartphones",
+"tag": "7000 mAh ki monster battery, gaming ke liye best",
+"hl": [
+"6.78\" IPS LCD 120Hz",
+"Helio G99 Ultimate",
+"8 GB RAM",
+"7000 mAh"
+],
+"source": "https://www.gsmarena.com/tecno_pova_6_neo-12911.php",
+"rows": [
+[
+"Launch Year",
+"2024 (announced 4 April 2024, released May 2024)"
+],
+[
+"Network",
+"4G LTE (GSM / HSPA / LTE)"
+],
+[
+"Body",
+"168.6 x 76.6 x 9.2 mm; glass front; Nano-SIM + Nano-SIM; IP53 dust and water resistant"
+],
+[
+"Display",
+"IPS LCD, 1B colors, 120Hz, 580 nits (typ); 6.78 inches; 1080 x 2460 pixels"
+],
+[
+"Chipset",
+"MediaTek Helio G99 Ultimate (6 nm); CPU octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; no card slot"
+],
+[
+"Main Camera",
+"50 MP wide (PDAF), Quad-LED flash; video 1440p@30fps, 1080p@30/60fps"
+],
+[
+"Selfie Camera",
+"8 MP wide, Dual-LED dual-tone flash; video 1440p@30fps, 1080p@30/60fps"
+],
+[
+"Battery",
+"7000 mAh"
+],
+[
+"Charging",
+"33W wired"
+],
+[
+"Operating System",
+"Android 14, HIOS 14"
+],
+[
+"Sensors/Features",
+"Fingerprint (side-mounted), accelerometer, gyro, proximity, compass; stereo speakers; NFC; FM radio; 3.5mm jack; USB Type-C 2.0"
+],
+[
+"Colors",
+"Starry Silver, Speed Black, Comet Green"
+]
+]
+}
 ]

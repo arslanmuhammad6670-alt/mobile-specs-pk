@@ -1,0 +1,113 @@
+[
+{
+"brand": "Vivo",
+"cat": "Smartphones",
+"hl": [
+"6.44\" display",
+"Mediatek MT6781 Helio G96",
+"8 GB RAM",
+"4050 mAh"
+],
+"name": "vivo V23e",
+"price": 64999,
+"price_src": "https://priceoye.pk/mobiles/vivo/vivo-v23e",
+"rows": [
+[
+"Launch Year",
+"2021 (announced 2021, November 09, released 2021, November 09)"
+],
+[
+"Region",
+"Global"
+],
+[
+"Network",
+"GSM / CDMA / HSPA / LTE"
+],
+[
+"Body",
+"160.9 x 74.3 x 7.4 mm (6.33 x 2.93 x 0.29 in); 172 g (6.07 oz); Nano-SIM + Nano-SIM"
+],
+[
+"Display",
+"AMOLED; 6.44 inches, 100.1 cm2 (~83.8% screen-to-body ratio); 1080 x 2400 pixels, 20:9 ratio (~409 ppi density)"
+],
+[
+"OS",
+"Android 11, Funtouch 12"
+],
+[
+"Chipset",
+"Mediatek MT6781 Helio G96 (12 nm); CPU Octa-core (2x2.05 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); GPU Mali-G57 MC2"
+],
+[
+"RAM",
+"8 GB"
+],
+[
+"Storage",
+"128 GB / 256 GB; microSDXC (uses shared SIM slot)"
+],
+[
+"Main Camera",
+"64 MP, f/1.8, 26mm (wide), PDAF 8 MP, f/2.2, 120˚, 16mm (ultrawide), 1/4.0\", 1.12µm 2 MP (macro); Dual-LED dual-tone flash, HDR, panorama; video 1080p@30/60fps, gyro-EIS"
+],
+[
+"Selfie Camera",
+"50 MP, f/2.0, (wide), AF; HDR; video 1080p@30fps"
+],
+[
+"Sensors",
+"Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+],
+[
+"Loudspeaker",
+"Yes"
+],
+[
+"3.5mm Jack",
+"No"
+],
+[
+"Wi-Fi",
+"Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct"
+],
+[
+"Bluetooth",
+"5.2, A2DP, LE, aptX HD"
+],
+[
+"GPS",
+"GPS, GLONASS, GALILEO, BDS"
+],
+[
+"NFC",
+"No"
+],
+[
+"Radio",
+"No"
+],
+[
+"USB",
+"USB Type-C, OTG"
+],
+[
+"Battery",
+"4050 mAh"
+],
+[
+"Charging",
+"44W wired, 69% in 30 min"
+],
+[
+"Colors",
+"Black, Aurora"
+]
+],
+"slug": "vivo-v23e",
+"source": "https://www.gsmarena.com/vivo_v23e-11204.php",
+"tag": "6.44\" display · Mediatek MT6781 Helio G96 · 8 GB RAM · 4050 mAh",
+"year": 2021
+}
+]

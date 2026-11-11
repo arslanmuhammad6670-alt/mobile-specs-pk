@@ -9829,11 +9829,11 @@
   "name": "Vivo X60",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 314,
-  "price_pkr": 86999,
+  "price": 271,
+  "price_pkr": 74999,
   "path": "phones/vivo-x60.html",
   "sb": 2,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "oppo-a91",

@@ -270,7 +270,7 @@
 <a class="btn alt" href="compare.html?a=huawei-nova-11i">Compare</a></div>
 </div></div><div class="card" data-name="huawei nova 12 5g huawei smartphones" data-brand="Huawei" data-price="117999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/huawei-nova-12-5g/main-card.webp"><img class="cardimg" src="img/huawei-nova-12-5g/main-card.jpg" alt="Huawei Nova 12 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-nova-12-5g.html">Huawei Nova 12 5G</a></p>

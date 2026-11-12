@@ -779,7 +779,7 @@ CATS = list(CATFOLDER.keys())
 def bslug(b): return b.lower().replace(" ", "-")
 
 CSS = """
-*{box-sizing:border-box}body{margin:0;font-family:system-ui,Segoe UI,Arial,sans-serif;background:#f6f7f9;color:#17202a}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,Segoe UI,Arial,sans-serif;background:#f6f7f9;color:#17202a;overflow-x:clip}
 header{background:linear-gradient(90deg,#081230,#0b1e3f);color:#fff;position:sticky;top:0;z-index:9}
 .hwrap{display:flex;align-items:center;gap:10px}
 .logo-ic{background:#1677ff;border-radius:8px;padding:2px 6px;margin-right:7px;font-size:17px}
@@ -791,8 +791,9 @@ header .wrap{padding:11px 16px}
 .logo{font-size:22px;font-weight:800;vertical-align:middle}.logo span{color:#38bdf8}
 .menubtn{display:none;background:none;border:0;color:#fff;font-size:22px;line-height:1;cursor:pointer;padding:4px 10px 4px 0;vertical-align:middle}
 .navbar{background:#060d24;border-bottom:1px solid #ffffff1f}
-.navbar .wrap{display:flex;gap:20px;overflow-x:auto;padding-top:0;padding-bottom:0;scrollbar-width:none}
-.navbar a{color:#dbe7ff;font-size:13.5px;font-weight:700;padding:10px 2px;white-space:nowrap;text-transform:uppercase;letter-spacing:.02em}
+.navbar .wrap{display:flex;gap:12px;overflow-x:auto;padding-top:0;padding-bottom:0;scrollbar-width:none}
+.navbar a{color:#dbe7ff;font-size:12px;font-weight:700;padding:10px 1px;white-space:nowrap;text-transform:uppercase;letter-spacing:0}
+@media(max-width:1150px){.navbar .wrap{gap:9px}.navbar a{font-size:11.5px}}
 @media(max-width:700px){.menubtn{display:inline-block}.navbar{display:none}.navbar.open{display:block}.navbar .wrap{flex-direction:column;gap:0}.navbar a{padding:12px 2px;border-top:1px solid #cfdcd6}}
 .sec{text-transform:uppercase;letter-spacing:.03em;color:#0b1e3f;border-bottom:2px solid #0b1e3f;padding-bottom:6px}
 .glabel{font-weight:800;color:#0b1e3f;font-size:17px;margin:20px 0 6px}
@@ -843,7 +844,7 @@ main{padding:18px 14px 40px}
 .postbody{font-size:16px;line-height:1.7;color:#243447;max-width:820px}
 .postbody h2{color:#0b1e3f;margin:26px 0 8px}
 .postbody p{margin:0 0 12px}
-.postbody table{margin:14px 0}
+.postbody table{margin:14px 0;display:block;overflow-x:auto;max-width:100%;-webkit-overflow-scrolling:touch}
 .postbody td,.postbody th{font-size:14px}
 .cardph{height:175px;display:flex;align-items:center;justify-content:center;font-size:56px;background:linear-gradient(180deg,#eef3fb,#dbe7f7)}
 .cbody{padding:12px 16px 16px;display:flex;flex-direction:column;gap:6px;flex:1}

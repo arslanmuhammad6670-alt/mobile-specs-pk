@@ -805,7 +805,7 @@ header .wrap{padding:11px 16px}
 .hsearch button{background:#0f62d8;color:#fff;border:0;border-radius:999px;padding:11px 26px;font-size:15px;font-weight:800;cursor:pointer}
 .pills{margin-top:16px;display:flex;gap:10px;flex-wrap:wrap}
 .pill{background:#ffffff14;border:1px solid #ffffff30;color:#fff;border-radius:999px;padding:7px 15px;font-size:13.5px;font-weight:700;text-decoration:none}
-.hero-phone{position:absolute;right:26px;top:50%;transform:translateY(-50%);height:250px;filter:drop-shadow(0 18px 28px #0009);z-index:0;pointer-events:none}
+.hero-phone{position:absolute;right:26px;top:50%;transform:translateY(-50%);height:250px;filter:drop-shadow(0 18px 28px #0009);z-index:0;pointer-events:none;background:#fff;border-radius:18px;padding:10px}
 .hero2 h1,.hero2 p,.hsearch,.pills{position:relative;z-index:1}
 @media(max-width:820px){.hero-phone{display:none}.hero2{padding:24px 18px}.hero2 h1{font-size:29px}}
 .brands{display:grid;grid-template-columns:repeat(auto-fill,minmax(118px,1fr));gap:12px;margin:12px 0 6px}
@@ -827,7 +827,7 @@ header .wrap{padding:11px 16px}
 .highlights div{font-size:13px;color:#667}.highlights b{display:block;font-size:15px;color:#0b1e3f;margin-bottom:2px}
 .feat{display:flex;gap:14px;overflow-x:auto;padding:8px 2px 16px;scroll-snap-type:x mandatory}
 .fcard{min-width:225px;max-width:225px;scroll-snap-align:start;background:#fff;border-radius:14px;box-shadow:0 1px 4px #0001;overflow:hidden;text-decoration:none;color:#17202a;display:flex;flex-direction:column}
-.fthumb{height:150px;display:flex;align-items:center;justify-content:center;font-size:50px;background:linear-gradient(180deg,#f2f6fb,#e4ecf7);overflow:hidden}
+.fthumb{height:150px;display:flex;align-items:center;justify-content:center;font-size:50px;background:#fff;overflow:hidden}
 .fthumb img{width:100%;height:100%;object-fit:contain;padding:8px}
 .fbody{padding:12px 14px}.fbody b{font-size:15.5px;display:block;margin-bottom:4px}
 main{padding:18px 14px 40px}
@@ -838,7 +838,13 @@ main{padding:18px 14px 40px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:16px;margin-top:16px}
 .card{background:#fff;border-radius:16px;padding:0;box-shadow:0 2px 10px #00000014;display:flex;flex-direction:column;position:relative;overflow:hidden;transition:transform .15s ease,box-shadow .15s ease}
 .card:hover{transform:translateY(-3px);box-shadow:0 10px 24px #00000022}
-.cardimg{width:100%;height:175px;object-fit:contain;background:linear-gradient(180deg,#f2f6fb,#e4ecf7);padding:12px}
+.cardimg{width:100%;height:195px;object-fit:contain;background:#fff;padding:8px}
+.blogmeta{color:#5d6878;font-size:13px;font-weight:600;margin:2px 0 10px}
+.postbody{font-size:16px;line-height:1.7;color:#243447;max-width:820px}
+.postbody h2{color:#0b1e3f;margin:26px 0 8px}
+.postbody p{margin:0 0 12px}
+.postbody table{margin:14px 0}
+.postbody td,.postbody th{font-size:14px}
 .cardph{height:175px;display:flex;align-items:center;justify-content:center;font-size:56px;background:linear-gradient(180deg,#eef3fb,#dbe7f7)}
 .cbody{padding:12px 16px 16px;display:flex;flex-direction:column;gap:6px;flex:1}
 .rsp{color:#666;font-size:13.5px;font-weight:600}
@@ -1017,7 +1023,7 @@ def head(title, desc, path="", depth=0, image="", ld_extra=""):
 <link rel="stylesheet" href="{pre}style.css">
 <script type="application/ld+json">{json.dumps(ld)}</script>{ld_extra}</head><body>
 <header><div class="wrap hwrap"><button class="menubtn" aria-label="Menu" onclick="document.querySelector('.navbar').classList.toggle('open')">&#9776;</button><a class="logo" href="{BASE}"><span class="logo-ic">📱</span>Check <span>Specs</span></a><span class="tagline">Explore • Compare • Choose</span><select id="cursel" class="cursel" aria-label="Currency"><option value="PKR">🇵🇰 Pakistan · PKR</option><option value="INR">🇮🇳 India · INR</option><option value="BDT">🇧🇩 Bangladesh · BDT</option><option value="AED">🇦🇪 UAE · AED</option><option value="SAR">🇸🇦 Saudi Arabia · SAR</option><option value="QAR">🇶🇦 Qatar · QAR</option><option value="KWD">🇰🇼 Kuwait · KWD</option><option value="OMR">🇴🇲 Oman · OMR</option><option value="BHD">🇧🇭 Bahrain · BHD</option><option value="USD">🇺🇸 USA · USD</option><option value="GBP">🇬🇧 UK · GBP</option><option value="EUR">🇪🇺 Europe · EUR</option><option value="TRY">🇹🇷 Türkiye · TRY</option><option value="CNY">🇨🇳 China · CNY</option><option value="JPY">🇯🇵 Japan · JPY</option><option value="KRW">🇰🇷 South Korea · KRW</option><option value="RUB">🇷🇺 Russia · RUB</option><option value="CAD">🇨🇦 Canada · CAD</option><option value="AUD">🇦🇺 Australia · AUD</option><option value="SGD">🇸🇬 Singapore · SGD</option><option value="MYR">🇲🇾 Malaysia · MYR</option><option value="IDR">🇮🇩 Indonesia · IDR</option><option value="THB">🇹🇭 Thailand · THB</option><option value="PHP">🇵🇭 Philippines · PHP</option><option value="ZAR">🇿🇦 South Africa · ZAR</option><option value="NGN">🇳🇬 Nigeria · NGN</option><option value="KES">🇰🇪 Kenya · KES</option><option value="EGP">🇪🇬 Egypt · EGP</option><option value="LKR">🇱🇰 Sri Lanka · LKR</option><option value="NPR">🇳🇵 Nepal · NPR</option><option value="AFN">🇦🇫 Afghanistan · AFN</option><option value="ILS">🇮🇱 Israel · ILS</option><option value="CHF">🇨🇭 Switzerland · CHF</option><option value="VND">🇻🇳 Vietnam · VND</option><option value="MMK">🇲🇲 Myanmar · MMK</option><option value="KHR">🇰🇭 Cambodia · KHR</option><option value="UZS">🇺🇿 Uzbekistan · UZS</option><option value="KZT">🇰🇿 Kazakhstan · KZT</option><option value="TZS">🇹🇿 Tanzania · TZS</option><option value="GHS">🇬🇭 Ghana · GHS</option><option value="MAD">🇲🇦 Morocco · MAD</option><option value="IQD">🇮🇶 Iraq · IQD</option><option value="JOD">🇯🇴 Jordan · JOD</option><option value="AZN">🇦🇿 Azerbaijan · AZN</option><option value="GEL">🇬🇪 Georgia · GEL</option></select></div>
-<div class="navbar"><div class="wrap"><a href="{BASE}">Home</a>{nav}<a href="{BASE}compare.html">Compare</a><a href="{BASE}az.html">A–Z Models</a><a href="{BASE}mobile-analyser.html">Mobile Analyser</a><a href="{BASE}best-under-200.html">Under $200</a><a href="{BASE}best-under-400.html">Under $400</a></div></div></header><main>"""
+<div class="navbar"><div class="wrap"><a href="{BASE}">Home</a>{nav}<a href="{BASE}compare.html">Compare</a><a href="{BASE}az.html">A–Z Models</a><a href="{BASE}mobile-analyser.html">Mobile Analyser</a><a href="{BASE}blog.html">Blog</a><a href="{BASE}best-under-200.html">Under $200</a><a href="{BASE}best-under-400.html">Under $400</a></div></div></header><main>"""
 
 def foot(depth=0):
     pre = "../" * depth
@@ -1025,7 +1031,7 @@ def foot(depth=0):
 Check Specs — Mobile phones, keypad phones, tablets, laptops and smartwatches: full specifications, latest prices in Pakistan (PKR &amp; USD) and comparisons.
 Prices are approximate market prices; currency figures are converted from PKR at mid-market rates last checked 09 November 2026 (Rs 276.7 = $1); converted figures are estimates, not local shop prices — use the currency selector at the top of the page to see prices in your own country's currency. Prices can change; always confirm from your local shop before buying.<br>
 <a href="{pre}best-phones-under-30000.html">Best Under Rs 30,000</a> · <a href="{pre}best-phones-under-50000.html">Best Under Rs 50,000</a> · <a href="{pre}best-phones-under-100000.html">Best Under Rs 100,000</a> · <a href="{pre}best-camera-phones.html">Best Camera Phones</a> · <a href="{pre}best-battery-phones.html">Best Battery Phones</a> · <a href="{pre}best-gaming-phones.html">Best Gaming Phones</a><br>
-<a href="{pre}mobile-analyser.html">Mobile Analyser</a> · <a href="{pre}about.html">About Us</a> · <a href="{pre}contact.html">Contact Us</a> · <a href="{pre}privacy-policy.html">Privacy Policy</a> · <a href="{pre}terms.html">Terms</a> · <a href="{pre}editorial-policy.html">Editorial Policy</a> · <a href="{pre}sources.html">Data Sources</a> · <a href="{pre}sitemap.xml">Sitemap</a> · <a href="https://x.com/checkspecsinfo" rel="noopener"><svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" style="vertical-align:-2px" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg> @Checkspecsinfo</a> · <a href="mailto:checkspecs.info@gmail.com">checkspecs.info@gmail.com</a></div></footer><script src="{pre}app.js"></script></body></html>"""
+<a href="{pre}mobile-analyser.html">Mobile Analyser</a> · <a href="{pre}blog.html">Blog</a> · <a href="{pre}about.html">About Us</a> · <a href="{pre}contact.html">Contact Us</a> · <a href="{pre}privacy-policy.html">Privacy Policy</a> · <a href="{pre}terms.html">Terms</a> · <a href="{pre}editorial-policy.html">Editorial Policy</a> · <a href="{pre}sources.html">Data Sources</a> · <a href="{pre}sitemap.xml">Sitemap</a> · <a href="https://x.com/checkspecsinfo" rel="noopener"><svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor" style="vertical-align:-2px" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg> @Checkspecsinfo</a> · <a href="mailto:checkspecs.info@gmail.com">checkspecs.info@gmail.com</a></div></footer><script src="{pre}app.js"></script></body></html>"""
 
 BRANDWM = {"Apple": "#111111", "Samsung": "#1428a0", "Google": "#3367d6", "Vivo": "#415fff",
            "Oppo": "#087a4d", "Xiaomi": "#b54d00", "Realme": "#8a6500", "Infinix": "#17202a",
@@ -1546,6 +1552,45 @@ def main():
 <h2 class="sec">Popular Brands</h2><div class="chips">{chips}</div>
 <h2 class="sec">Browse</h2><div class="chips"><a class="chip" href="{BASE}smartphones.html">Smartphones</a><a class="chip" href="{BASE}keypad-phones.html">Keypad Phones</a><a class="chip" href="{BASE}tablets.html">Tablets</a><a class="chip" href="{BASE}laptops.html">Laptops</a><a class="chip" href="{BASE}smartwatches.html">Smartwatches</a><a class="chip" href="{BASE}compare.html">Compare</a><a class="chip" href="{BASE}az.html">A–Z Models</a></div>"""
     pg += foot(); write("404.html", pg)
+    # Blog — posts live in blog.json; written around real search queries
+    blog_posts = []
+    try:
+        blog_posts = json.load(open("blog.json", encoding="utf-8"))
+    except Exception:
+        blog_posts = []
+    if blog_posts:
+        os.makedirs(os.path.join(OUT, "blog"), exist_ok=True)
+    for bp in blog_posts:
+        bld = {"@context": "https://schema.org", "@type": "BlogPosting",
+               "headline": bp["title"], "description": bp["desc"],
+               "datePublished": bp["date"], "dateModified": bp.get("updated", bp["date"]),
+               "author": {"@type": "Organization", "name": "Check Specs"},
+               "publisher": {"@type": "Organization", "name": "Check Specs"},
+               "mainEntityOfPage": f"{BASE}blog/{bp['slug']}.html"}
+        if bp.get("image"): bld["image"] = bp["image"]
+        pg = head(f"{bp['title']} | {SITE}", bp["desc"], f"blog/{bp['slug']}.html", depth=1,
+                  image=bp.get("image", ""),
+                  ld_extra=f'<script type="application/ld+json">{json.dumps(bld)}</script>')
+        pg += f"""<p class="crumbs"><a href="{BASE}">Home</a> › <a href="{BASE}blog.html">Blog</a> › {esc(bp['title'])}</p>
+<h1>{esc(bp['title'])}</h1>
+<p class="blogmeta">Published {bp['date']} · Check Specs</p>
+<div class="postbody">{bp['body']}</div>"""
+        pg += foot(1); write(f"blog/{bp['slug']}.html", pg)
+    bcards = ""
+    for bp in blog_posts:
+        bimg = f'<a href="blog/{bp["slug"]}.html"><img class="cardimg" src="{bp["thumb"]}" alt="{esc(bp["title"])}" loading="lazy"></a>' if bp.get("thumb") else ""
+        bcards += f"""<div class="card">{bimg}<div class="cbody"><span class="cat">Blog</span>
+<p class="ct"><a href="blog/{bp['slug']}.html">{esc(bp['title'])}</a></p>
+<div class="spec">{esc(bp['desc'])}</div>
+<p class="blogmeta">{bp['date']}</p>
+<div class="btnrow"><a class="btn" href="blog/{bp['slug']}.html">Read</a></div></div></div>"""
+    pg = head(f"Blog — Phone Guides, Buying Advice and Comparisons | {SITE}",
+              "The Check Specs blog: phone buying guides, comparisons and plain-English advice for Pakistan, written around the questions readers actually search for.",
+              "blog.html")
+    pg += f"""<h1>Check Specs Blog</h1>
+<p>Buying guides, comparisons and plain-English advice to help you choose the right phone — based on the prices and specifications we track every day.</p>
+<div class="grid">{bcards}</div>"""
+    pg += foot(); write("blog.html", pg)
     # SEO files
     urls = ["", "compare.html", "az.html", "best-under-200.html", "best-under-400.html",
             "best-phones-under-30000.html", "best-phones-under-50000.html", "best-phones-under-100000.html",
@@ -1553,6 +1598,7 @@ def main():
             "about.html", "contact.html", "privacy-policy.html", "terms.html", "mobile-analyser.html",
             "editorial-policy.html", "sources.html"] + [CATPAGE[c] for c in CATS]
     urls += [f"{d['folder']}/{d['slug']}.html" for d in ALL]
+    urls += ["blog.html"] + [f"blog/{bp['slug']}.html" for bp in blog_posts]
     urls += [f"brands/{bslug(b)}.html" for b in BRANDS]
     sm = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     sm += "".join(f"<url><loc>{BASE}{u}</loc></url>\n" for u in urls) + "</urlset>\n"

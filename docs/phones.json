@@ -3148,7 +3148,7 @@
   "price_pkr": 209999,
   "path": "phones/xiaomi-14-pro.html",
   "sb": 8,
-  "pl": "Official price"
+  "pl": "Estimated price"
  },
  {
   "slug": "xiaomi-13",
@@ -5002,6 +5002,27 @@
   "path": "phones/vivo-v23e.html",
   "sb": 3,
   "pl": "Official price"
+ },
+ {
+  "slug": "infinix-hot-60-pro-plus",
+  "name": "Infinix Hot 60 Pro+",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/infinix-hot-60-pro-plus.html",
+  "sb": 11
+ },
+ {
+  "slug": "infinix-smart-10-plus",
+  "name": "Infinix Smart 10 Plus",
+  "brand": "Infinix",
+  "cat": "Smartphones",
+  "price": 80,
+  "price_pkr": 21999,
+  "path": "phones/infinix-smart-10-plus.html",
+  "sb": 23,
+  "pl": "Estimated price"
  },
  {
   "slug": "honor-400",

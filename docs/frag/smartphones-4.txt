@@ -1,4 +1,24 @@
-<div class="card" data-name="oneplus nord n20 se oneplus smartphones" data-brand="OnePlus" data-price="41999" data-year="2022">
+<div class="card" data-name="oneplus nord ce 2 lite 5g oneplus smartphones" data-brand="OnePlus" data-price="73999" data-year="2022">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/oneplus-nord-ce-2-lite-5g/main-card.webp"><img class="cardimg" src="img/oneplus-nord-ce-2-lite-5g/main-card.jpg" alt="OnePlus Nord Ce 2 Lite 5G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oneplus-nord-ce-2-lite-5g.html">OnePlus Nord Ce 2 Lite 5G</a></p>
+<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.59&quot; display</div><div class="spec">Qualcomm SM6375 Snapdragon 695 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.59&quot; display · Qualcomm SM6375 Snapdragon 695 5G · 6 / 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oneplus-nord-ce-2-lite-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oneplus-nord-ce-2-lite-5g">Compare</a></div>
+</div></div><div class="card" data-name="oneplus nord n20 5g oneplus smartphones" data-brand="OnePlus" data-price="45999" data-year="2022">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/oneplus-nord-n20-5g/main-card.webp"><img class="cardimg" src="img/oneplus-nord-n20-5g/main-card.jpg" alt="OnePlus Nord N20 5G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oneplus-nord-n20-5g.html">OnePlus Nord N20 5G</a></p>
+<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.43&quot; display</div><div class="spec">Qualcomm SM6375 Snapdragon 695 5G</div><div class="spec">6 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="spec">6.43&quot; display · Qualcomm SM6375 Snapdragon 695 5G · 6 GB RAM · 4500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oneplus-nord-n20-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oneplus-nord-n20-5g">Compare</a></div>
+</div></div><div class="card" data-name="oneplus nord n20 se oneplus smartphones" data-brand="OnePlus" data-price="41999" data-year="2022">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/oneplus-nord-n20-se/main-card.webp"><img class="cardimg" src="img/oneplus-nord-n20-se/main-card.jpg" alt="OnePlus Nord N20 SE" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -3978,24 +3998,4 @@
 <div class="spec">6.43&quot; display · Qualcomm SM8350 Snapdragon 888 5G · 8 / 12 GB RAM · 4500 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/realme-gt-5g.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=realme-gt-5g">Compare</a></div>
-</div></div><div class="card" data-name="realme gt master edition realme smartphones" data-brand="Realme" data-price="" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-gt-master-edition/main-card.webp"><img class="cardimg" src="img/realme-gt-master-edition/main-card.jpg" alt="Realme Gt Master Edition" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-gt-master-edition.html">Realme Gt Master Edition</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.43&quot; display</div><div class="spec">Qualcomm Snapdragon 778G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4300 mAh</div>
-<div class="spec">6.43&quot; display · Qualcomm Snapdragon 778G · 6 / 8 GB RAM · 4300 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-gt-master-edition.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-gt-master-edition">Compare</a></div>
-</div></div><div class="card" data-name="realme gt neo2t realme smartphones" data-brand="Realme" data-price="80999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-gt-neo2t/main-card.webp"><img class="cardimg" src="img/realme-gt-neo2t/main-card.jpg" alt="Realme Gt NEO2T" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-gt-neo2t.html">Realme Gt NEO2T</a></p>
-<div class="price"><span class="prc" data-pkr="80999"><b class="pkrv">Rs 80,999</b> <span class="usdv">$293</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.43&quot; display</div><div class="spec">Mediatek Dimensity 1200</div><div class="spec">8 / 12 GB RAM</div><div class="spec">4500 mAh</div>
-<div class="spec">6.43&quot; display · Mediatek Dimensity 1200 · 8 / 12 GB RAM · 4500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-gt-neo2t.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-gt-neo2t">Compare</a></div>
 </div></div>

@@ -1,4 +1,14 @@
-<div class="card" data-name="apple iphone 5c apple smartphones" data-brand="Apple" data-price="92999" data-year="2013">
+<div class="card" data-name="infinix note 40 pro+ infinix smartphones" data-brand="Infinix" data-price="92999" data-year="2024">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/infinix-note-40-pro-plus/main-card.webp"><img class="cardimg" src="img/infinix-note-40-pro-plus/main-card.jpg" alt="Infinix Note 40 Pro+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-note-40-pro-plus.html">Infinix Note 40 Pro+</a></p>
+<div class="price"><span class="prc" data-pkr="92999"><b class="pkrv">Rs 92,999</b> <span class="usdv">$336</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.78&quot; display</div><div class="spec">Mediatek Dimensity 7020</div><div class="spec">12 GB RAM</div><div class="spec">4600 mAh</div>
+<div class="spec">6.78&quot; display · Mediatek Dimensity 7020 · 12 GB RAM · 4600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-note-40-pro-plus.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-note-40-pro-plus">Compare</a></div>
+</div></div><div class="card" data-name="apple iphone 5c apple smartphones" data-brand="Apple" data-price="92999" data-year="2013">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/apple-iphone-5c/main-card.webp"><img class="cardimg" src="img/apple-iphone-5c/main-card.jpg" alt="Apple iPhone 5c" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">

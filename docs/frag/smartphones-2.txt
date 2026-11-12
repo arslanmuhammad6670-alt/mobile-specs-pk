@@ -1,4 +1,24 @@
-<div class="card" data-name="vivo y04 vivo smartphones" data-brand="Vivo" data-price="27999" data-year="2025">
+<div class="card" data-name="vivo v60 lite vivo smartphones" data-brand="Vivo" data-price="77999" data-year="2025">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/vivo-v60-lite/main-card.webp"><img class="cardimg" src="img/vivo-v60-lite/main-card.jpg" alt="Vivo V60 Lite" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/vivo-v60-lite.html">Vivo V60 Lite</a></p>
+<div class="price"><span class="prc" data-pkr="77999"><b class="pkrv">Rs 77,999</b> <span class="usdv">$282</span></span><span class="plabel">Estimated price</span></div><div class="spec">Mediatek Dimensity 7360 Turbo</div><div class="spec">8 GB RAM</div><div class="spec">6500 mAh</div>
+<div class="spec">Mediatek Dimensity 7360 Turbo · 8 GB RAM · 6500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/vivo-v60-lite.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=vivo-v60-lite">Compare</a></div>
+</div></div><div class="card" data-name="vivo v60 lite 5g vivo smartphones" data-brand="Vivo" data-price="77999" data-year="2025">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/vivo-v60-lite-5g/main-card.webp"><img class="cardimg" src="img/vivo-v60-lite-5g/main-card.jpg" alt="Vivo V60 Lite 5G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/vivo-v60-lite-5g.html">Vivo V60 Lite 5G</a></p>
+<div class="price"><span class="prc" data-pkr="77999"><b class="pkrv">Rs 77,999</b> <span class="usdv">$282</span></span><span class="plabel">Estimated price</span></div><div class="spec">Mediatek Dimensity 7360 Turbo</div><div class="spec">8 GB RAM</div><div class="spec">6500 mAh</div>
+<div class="spec">Mediatek Dimensity 7360 Turbo · 8 GB RAM · 6500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/vivo-v60-lite-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=vivo-v60-lite-5g">Compare</a></div>
+</div></div><div class="card" data-name="vivo y04 vivo smartphones" data-brand="Vivo" data-price="27999" data-year="2025">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/vivo-y04/main-card.webp"><img class="cardimg" src="img/vivo-y04/main-card.jpg" alt="Vivo Y04" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -3978,24 +3998,4 @@
 <div class="spec">6.81&quot; display · Qualcomm SM8550-AB Snapdragon 8 Gen 2 · 8 / 12 / 16 GB RAM · 5100 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/honor-magic5-pro.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=honor-magic5-pro">Compare</a></div>
-</div></div><div class="card" data-name="honor magic5 ultimate honor smartphones" data-brand="Honor" data-price="278999" data-year="2023">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/honor-magic5-ultimate/main-card.webp"><img class="cardimg" src="img/honor-magic5-ultimate/main-card.jpg" alt="Honor Magic5 Ultimate" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/honor-magic5-ultimate.html">Honor Magic5 Ultimate</a></p>
-<div class="price"><span class="prc" data-pkr="278999"><b class="pkrv">Rs 278,999</b> <span class="usdv">$1,008</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.81&quot; display</div><div class="spec">Qualcomm SM8550-AB Snapdragon 8 Gen 2</div><div class="spec">16 GB RAM</div><div class="spec">5450 mAh</div>
-<div class="spec">6.81&quot; display · Qualcomm SM8550-AB Snapdragon 8 Gen 2 · 16 GB RAM · 5450 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/honor-magic5-ultimate.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=honor-magic5-ultimate">Compare</a></div>
-</div></div><div class="card" data-name="honor magic6 lite honor smartphones" data-brand="Honor" data-price="70999" data-year="2023">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/honor-magic6-lite/main-card.webp"><img class="cardimg" src="img/honor-magic6-lite/main-card.jpg" alt="Honor Magic6 Lite" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/honor-magic6-lite.html">Honor Magic6 Lite</a></p>
-<div class="price"><span class="prc" data-pkr="70999"><b class="pkrv">Rs 70,999</b> <span class="usdv">$257</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.78&quot; display</div><div class="spec">Qualcomm SM6450 Snapdragon 6 Gen 1</div><div class="spec">8 GB RAM</div><div class="spec">5300 mAh</div>
-<div class="spec">6.78&quot; display · Qualcomm SM6450 Snapdragon 6 Gen 1 · 8 GB RAM · 5300 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/honor-magic6-lite.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=honor-magic6-lite">Compare</a></div>
 </div></div>

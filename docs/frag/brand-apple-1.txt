@@ -70,7 +70,7 @@
 <a class="btn alt" href="../compare.html?a=apple-ipad-(2022)">Compare</a></div>
 </div></div><div class="card" data-name="apple iphone 17e apple smartphones" data-brand="Apple" data-price="289000" data-year="2026">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="../img/apple-iphone-17e/main-card.webp"><img class="cardimg" src="../img/apple-iphone-17e/main-card.jpg" alt="Apple iPhone 17e" width="480" height="480" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/apple-iphone-17e/main-card.webp"><img class="cardimg" src="../img/apple-iphone-17e/main-card.jpg" alt="Apple iPhone 17e" width="480" height="440" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/apple-iphone-17e.html">Apple iPhone 17e</a></p>
@@ -80,7 +80,7 @@
 <a class="btn alt" href="../compare.html?a=apple-iphone-17e">Compare</a></div>
 </div></div><div class="card" data-name="apple ipad air 11 (2026) apple tablets" data-brand="Apple" data-price="201999" data-year="2026">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="../img/apple-ipad-air-11-5g-(2026)/main-card.webp"><img class="cardimg" src="../img/apple-ipad-air-11-5g-(2026)/main-card.jpg" alt="Apple iPad Air 11 (2026)" width="480" height="480" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/apple-ipad-air-11-5g-(2026)/main-card.webp"><img class="cardimg" src="../img/apple-ipad-air-11-5g-(2026)/main-card.jpg" alt="Apple iPad Air 11 (2026)" width="425" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Tablets</span>
 <p class="ct"><a href="../tablets/apple-ipad-air-11-5g-(2026).html">Apple iPad Air 11 (2026)</a></p>
@@ -180,7 +180,7 @@
 <a class="btn alt" href="../compare.html?a=apple-ipad-air-11-(2024)">Compare</a></div>
 </div></div><div class="card" data-name="apple iphone 18 pro apple smartphones" data-brand="Apple" data-price="581999" data-year="2026">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="../img/apple-iphone-18-pro/main-card.webp"><img class="cardimg" src="../img/apple-iphone-18-pro/main-card.jpg" alt="Apple iPhone 18 Pro" width="480" height="480" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/apple-iphone-18-pro/main-card.webp"><img class="cardimg" src="../img/apple-iphone-18-pro/main-card.jpg" alt="Apple iPhone 18 Pro" width="480" height="437" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/apple-iphone-18-pro.html">Apple iPhone 18 Pro</a></p>
@@ -190,7 +190,7 @@
 <a class="btn alt" href="../compare.html?a=apple-iphone-18-pro">Compare</a></div>
 </div></div><div class="card" data-name="apple ipad air 13 (2026) apple tablets" data-brand="Apple" data-price="263999" data-year="2026">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="../img/apple-ipad-air-13-5g-(2026)/main-card.webp"><img class="cardimg" src="../img/apple-ipad-air-13-5g-(2026)/main-card.jpg" alt="Apple iPad Air 13 (2026)" width="480" height="480" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/apple-ipad-air-13-5g-(2026)/main-card.webp"><img class="cardimg" src="../img/apple-ipad-air-13-5g-(2026)/main-card.jpg" alt="Apple iPad Air 13 (2026)" width="437" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Tablets</span>
 <p class="ct"><a href="../tablets/apple-ipad-air-13-5g-(2026).html">Apple iPad Air 13 (2026)</a></p>

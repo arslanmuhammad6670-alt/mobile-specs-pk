@@ -450,7 +450,7 @@
 <a class="btn alt" href="compare.html?a=infinix-hot-40i">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 30 infinix smartphones" data-brand="Infinix" data-price="44999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/infinix-note-30/main-card.webp"><img class="cardimg" src="img/infinix-note-30/main-card.jpg" alt="Infinix Note 30" width="480" height="480" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="img/infinix-note-30/main-card.webp"><img class="cardimg" src="img/infinix-note-30/main-card.jpg" alt="Infinix Note 30" width="337" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/infinix-note-30.html">Infinix Note 30</a></p>

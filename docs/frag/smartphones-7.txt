@@ -360,7 +360,7 @@
 <a class="btn alt" href="compare.html?a=huawei-y7-prime-nova-2-lite">Compare</a></div>
 </div></div><div class="card" data-name="infinix hot s3 infinix smartphones" data-brand="Infinix" data-price="18999" data-year="2018">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/infinix-hot-s3/main-card.webp"><img class="cardimg" src="img/infinix-hot-s3/main-card.jpg" alt="Infinix Hot S3" width="480" height="475" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="img/infinix-hot-s3/main-card.webp"><img class="cardimg" src="img/infinix-hot-s3/main-card.jpg" alt="Infinix Hot S3" width="480" height="360" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/infinix-hot-s3.html">Infinix Hot S3</a></p>
@@ -370,7 +370,7 @@
 <a class="btn alt" href="compare.html?a=infinix-hot-s3">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 4 infinix smartphones" data-brand="Infinix" data-price="18999" data-year="2018">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/infinix-note-4/main-card.webp"><img class="cardimg" src="img/infinix-note-4/main-card.jpg" alt="Infinix Note 4" width="480" height="480" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="img/infinix-note-4/main-card.webp"><img class="cardimg" src="img/infinix-note-4/main-card.jpg" alt="Infinix Note 4" width="480" height="276" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/infinix-note-4.html">Infinix Note 4</a></p>
@@ -380,7 +380,7 @@
 <a class="btn alt" href="compare.html?a=infinix-note-4">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 5 infinix smartphones" data-brand="Infinix" data-price="32999" data-year="2018">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/infinix-note-5/main-card.webp"><img class="cardimg" src="img/infinix-note-5/main-card.jpg" alt="Infinix Note 5" width="471" height="480" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="img/infinix-note-5/main-card.webp"><img class="cardimg" src="img/infinix-note-5/main-card.jpg" alt="Infinix Note 5" width="480" height="360" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/infinix-note-5.html">Infinix Note 5</a></p>
@@ -400,7 +400,7 @@
 <a class="btn alt" href="compare.html?a=infinix-note-5-stylus">Compare</a></div>
 </div></div><div class="card" data-name="infinix s3x infinix smartphones" data-brand="Infinix" data-price="19600" data-year="2018">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/infinix-s3x/main-card.webp"><img class="cardimg" src="img/infinix-s3x/main-card.jpg" alt="Infinix S3X" width="480" height="476" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="img/infinix-s3x/main-card.webp"><img class="cardimg" src="img/infinix-s3x/main-card.jpg" alt="Infinix S3X" width="476" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/infinix-s3x.html">Infinix S3X</a></p>
@@ -2280,7 +2280,7 @@
 <a class="btn alt" href="compare.html?a=hyma-a10">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 4 pro infinix smartphones" data-brand="Infinix" data-price="26400" data-year="2017">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/infinix-note-4-pro/main-card.webp"><img class="cardimg" src="img/infinix-note-4-pro/main-card.jpg" alt="Infinix Note 4 Pro" width="480" height="480" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="img/infinix-note-4-pro/main-card.webp"><img class="cardimg" src="img/infinix-note-4-pro/main-card.jpg" alt="Infinix Note 4 Pro" width="480" height="360" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/infinix-note-4-pro.html">Infinix Note 4 Pro</a></p>

@@ -2440,7 +2440,7 @@
 <a class="btn alt" href="compare.html?a=infinix-gt-30-5g">Compare</a></div>
 </div></div><div class="card" data-name="infinix gt 30 pro infinix smartphones" data-brand="Infinix" data-price="83999" data-year="2025">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/infinix-gt-30-pro-5g/main-card.webp"><img class="cardimg" src="img/infinix-gt-30-pro-5g/main-card.jpg" alt="Infinix GT 30 Pro" width="480" height="480" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="img/infinix-gt-30-pro-5g/main-card.webp"><img class="cardimg" src="img/infinix-gt-30-pro-5g/main-card.jpg" alt="Infinix GT 30 Pro" width="385" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/infinix-gt-30-pro-5g.html">Infinix GT 30 Pro</a></p>
@@ -2480,7 +2480,7 @@
 <a class="btn alt" href="compare.html?a=infinix-hot-60-pro">Compare</a></div>
 </div></div><div class="card" data-name="infinix hot 60 pro+ infinix smartphones" data-brand="Infinix" data-price="" data-year="2025">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/infinix-hot-60-pro-plus/main-card.webp"><img class="cardimg" src="img/infinix-hot-60-pro-plus/main-card.jpg" alt="Infinix Hot 60 Pro+" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/infinix-hot-60-pro-plus.html">Infinix Hot 60 Pro+</a></p>
@@ -2540,7 +2540,7 @@
 <a class="btn alt" href="compare.html?a=infinix-note-50-pro-plus">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 50s infinix smartphones" data-brand="Infinix" data-price="49999" data-year="2025">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/infinix-note-50s-5g/main-card.webp"><img class="cardimg" src="img/infinix-note-50s-5g/main-card.jpg" alt="Infinix Note 50s" width="453" height="480" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="img/infinix-note-50s-5g/main-card.webp"><img class="cardimg" src="img/infinix-note-50s-5g/main-card.jpg" alt="Infinix Note 50s" width="468" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/infinix-note-50s-5g.html">Infinix Note 50s</a></p>
@@ -2580,7 +2580,7 @@
 <a class="btn alt" href="compare.html?a=infinix-smart-10-hd">Compare</a></div>
 </div></div><div class="card" data-name="infinix smart 10 plus infinix smartphones" data-brand="Infinix" data-price="21999" data-year="2025">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/infinix-smart-10-plus/main-card.webp"><img class="cardimg" src="img/infinix-smart-10-plus/main-card.jpg" alt="Infinix Smart 10 Plus" width="480" height="377" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="img/infinix-smart-10-plus/main-card.webp"><img class="cardimg" src="img/infinix-smart-10-plus/main-card.jpg" alt="Infinix Smart 10 Plus" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/infinix-smart-10-plus.html">Infinix Smart 10 Plus</a></p>

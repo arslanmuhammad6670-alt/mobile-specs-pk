@@ -1213,8 +1213,7 @@ def main():
         if _img: _prod["image"] = _img
         if d["price"] is not None:
             _prod["offers"] = {"@type": "Offer", "url": _purl, "priceCurrency": "PKR",
-                               "price": d["price"],
-                               "availability": "https://schema.org/Discontinued" if d["status"] == "Discontinued" else "https://schema.org/InStock"}
+                               "price": d["price"]}
         _crumbs = {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": "Home", "item": BASE},
             {"@type": "ListItem", "position": 2, "name": d["cat"], "item": f"{BASE}{CATPAGE[d['cat']]}"},

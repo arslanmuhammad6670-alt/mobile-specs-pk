@@ -460,7 +460,7 @@
 <a class="btn alt" href="compare.html?a=infinix-note-12-5g">Compare</a></div>
 </div></div><div class="card" data-name="honor play11 honor smartphones" data-brand="Honor" data-price="60999" data-year="2026">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/honor-play11-5g/main-card.webp"><img class="cardimg" src="img/honor-play11-5g/main-card.jpg" alt="Honor Play11" width="465" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/honor-play11-5g.html">Honor Play11</a></p>
@@ -1880,7 +1880,7 @@
 <a class="btn alt" href="compare.html?a=xiaomi-redmi-17">Compare</a></div>
 </div></div><div class="card" data-name="oscal bolt 2 oscal smartphones" data-brand="Oscal" data-price="63999" data-year="2026">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/oscal-bolt-2/main-card.webp"><img class="cardimg" src="img/oscal-bolt-2/main-card.jpg" alt="Oscal Bolt 2" width="425" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/oscal-bolt-2.html">Oscal Bolt 2</a></p>

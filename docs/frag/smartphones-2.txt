@@ -3920,7 +3920,7 @@
 <a class="btn alt" href="compare.html?a=zte-nubia-neo-2-5g">Compare</a></div>
 </div></div><div class="card" data-name="zte nubia a75 zte smartphones" data-brand="ZTE" data-price="25999" data-year="2024">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/zte-nubia-a75/main.webp"><img class="cardimg" src="img/zte-nubia-a75/main.jpg" alt="ZTE nubia A75" width="439" height="460" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/zte-nubia-a75.html">ZTE nubia A75</a></p>

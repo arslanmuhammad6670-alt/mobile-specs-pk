@@ -1,4 +1,144 @@
-<div class="card" data-name="htc desire 501 dual sim htc smartphones" data-brand="HTC" data-price="58999" data-year="2013">
+<div class="card" data-name="motorola moto m motorola smartphones" data-brand="Motorola" data-price="58999" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/motorola-moto-m/main-card.webp"><img class="cardimg" src="img/motorola-moto-m/main-card.jpg" alt="Motorola Moto M" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-moto-m.html">Motorola Moto M</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Mediatek MT6755 Helio P10</div><div class="spec">3 / 4 GB RAM</div><div class="spec">3050 mAh</div>
+<div class="spec">5.5&quot; display · Mediatek MT6755 Helio P10 · 3 / 4 GB RAM · 3050 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-moto-m.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-moto-m">Compare</a></div>
+</div></div><div class="card" data-name="lg zero lg smartphones" data-brand="LG" data-price="58999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/lg-zero/main-card.webp"><img class="cardimg" src="img/lg-zero/main-card.jpg" alt="LG Zero" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/lg-zero.html">LG Zero</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8916 Snapdragon 410</div><div class="spec">5 / 2 GB RAM</div><div class="spec">2050 mAh</div>
+<div class="spec">5.0&quot; display · Qualcomm MSM8916 Snapdragon 410 · 5 / 2 GB RAM · 2050 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/lg-zero.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=lg-zero">Compare</a></div>
+</div></div><div class="card" data-name="huawei p40 lite 5g huawei smartphones" data-brand="Huawei" data-price="58999" data-year="2020">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-p40-lite-5g/main-card.webp"><img class="cardimg" src="img/huawei-p40-lite-5g/main-card.jpg" alt="Huawei P40 Lite 5G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-p40-lite-5g.html">Huawei P40 Lite 5G</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Kirin 820 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.5&quot; display · Kirin 820 5G · 6 / 8 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-p40-lite-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-p40-lite-5g">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia e3 dual sony smartphones" data-brand="Sony" data-price="58999" data-year="2014">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-e3-dual/main-card.webp"><img class="cardimg" src="img/sony-xperia-e3-dual/main-card.jpg" alt="Sony Xperia E3 Dual" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-e3-dual.html">Sony Xperia E3 Dual</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.5&quot; display</div><div class="spec">Qualcomm MSM8226-2 Snapdragon 400</div><div class="spec">1 GB RAM</div><div class="spec">2330 mAh</div>
+<div class="spec">4.5&quot; display · Qualcomm MSM8226-2 Snapdragon 400 · 1 GB RAM · 2330 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-e3-dual.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-e3-dual">Compare</a></div>
+</div></div><div class="card" data-name="oppo f15 oppo smartphones" data-brand="Oppo" data-price="58999" data-year="2020">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/oppo-f15/main-card.webp"><img class="cardimg" src="img/oppo-f15/main-card.jpg" alt="Oppo F15" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-f15.html">Oppo F15</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.4&quot; display</div><div class="spec">Mediatek MT6771V Helio P70</div><div class="spec">4 / 8 GB RAM</div><div class="spec">4025 mAh</div>
+<div class="spec">6.4&quot; display · Mediatek MT6771V Helio P70 · 4 / 8 GB RAM · 4025 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-f15.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-f15">Compare</a></div>
+</div></div><div class="card" data-name="oneplus nord n30 se oneplus smartphones" data-brand="OnePlus" data-price="58999" data-year="2024">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/oneplus-nord-n30-se/main-card.webp"><img class="cardimg" src="img/oneplus-nord-n30-se/main-card.jpg" alt="OnePlus Nord N30 SE" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oneplus-nord-n30-se.html">OnePlus Nord N30 SE</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.72&quot; display</div><div class="spec">Mediatek Dimensity 6020</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.72&quot; display · Mediatek Dimensity 6020 · 4 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oneplus-nord-n30-se.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oneplus-nord-n30-se">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi 12t xiaomi smartphones" data-brand="Xiaomi" data-price="58999" data-year="2022">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-12t/main-card.webp"><img class="cardimg" src="img/xiaomi-12t/main-card.jpg" alt="Xiaomi 12t" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-12t.html">Xiaomi 12t</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.67&quot; display</div><div class="spec">Mediatek Dimensity 8100 Ultra</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.67&quot; display · Mediatek Dimensity 8100 Ultra · 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-12t.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-12t">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia z5 premium sony smartphones" data-brand="Sony" data-price="58999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-z5-premium/main-card.webp"><img class="cardimg" src="img/sony-xperia-z5-premium/main-card.jpg" alt="Sony Xperia Z5 Premium" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-z5-premium.html">Sony Xperia Z5 Premium</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8994 Snapdragon 810</div><div class="spec">3 GB RAM</div><div class="spec">3430 mAh</div>
+<div class="spec">5.5&quot; display · Qualcomm MSM8994 Snapdragon 810 · 3 GB RAM · 3430 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-z5-premium.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-z5-premium">Compare</a></div>
+</div></div><div class="card" data-name="huawei y6 pro huawei smartphones" data-brand="Huawei" data-price="58999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-y6-pro/main-card.webp"><img class="cardimg" src="img/huawei-y6-pro/main-card.jpg" alt="Huawei Y6 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-y6-pro.html">Huawei Y6 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.09&quot; display</div><div class="spec">Mediatek MT6761 Helio A22</div><div class="spec">3 GB RAM</div><div class="spec">3020 mAh</div>
+<div class="spec">6.09&quot; display · Mediatek MT6761 Helio A22 · 3 GB RAM · 3020 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-y6-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-y6-pro">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia c3 sony smartphones" data-brand="Sony" data-price="58999" data-year="2014">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-c3/main-card.webp"><img class="cardimg" src="img/sony-xperia-c3/main-card.jpg" alt="Sony Xperia C3" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-c3.html">Sony Xperia C3</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8926 Snapdragon 400</div><div class="spec">1 GB RAM</div><div class="spec">2500 mAh</div>
+<div class="spec">5.5&quot; display · Qualcomm MSM8926 Snapdragon 400 · 1 GB RAM · 2500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-c3.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-c3">Compare</a></div>
+</div></div><div class="card" data-name="nokia 6290 nokia smartphones" data-brand="Nokia" data-price="58999" data-year="2006">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/nokia-6290/main-card.webp"><img class="cardimg" src="img/nokia-6290/main-card.jpg" alt="Nokia 6290" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/nokia-6290.html">Nokia 6290</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.2&quot; display</div><div class="spec">369 MHz ARM 11</div><div class="spec">950 mAh</div>
+<div class="spec">2.2&quot; display · 369 MHz ARM 11 · 950 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/nokia-6290.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=nokia-6290">Compare</a></div>
+</div></div><div class="card" data-name="vivo y50t vivo smartphones" data-brand="Vivo" data-price="58999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/vivo-y50t/main-card.webp"><img class="cardimg" src="img/vivo-y50t/main-card.jpg" alt="Vivo Y50t" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/vivo-y50t.html">Vivo Y50t</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.53&quot; display</div><div class="spec">Qualcomm SM7125 Snapdragon 720G</div><div class="spec">8 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="spec">6.53&quot; display · Qualcomm SM7125 Snapdragon 720G · 8 GB RAM · 4500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/vivo-y50t.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=vivo-y50t">Compare</a></div>
+</div></div><div class="card" data-name="vivo iqoo z7 pro 5g vivo smartphones" data-brand="Vivo" data-price="58999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/vivo-iqoo-z7-pro-5g/main-card.webp"><img class="cardimg" src="img/vivo-iqoo-z7-pro-5g/main-card.jpg" alt="Vivo iQOO Z7 Pro 5G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/vivo-iqoo-z7-pro-5g.html">Vivo iQOO Z7 Pro 5G</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.78&quot; display</div><div class="spec">Mediatek Dimensity 7200</div><div class="spec">8 GB RAM</div><div class="spec">4600 mAh</div>
+<div class="spec">6.78&quot; display · Mediatek Dimensity 7200 · 8 GB RAM · 4600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/vivo-iqoo-z7-pro-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=vivo-iqoo-z7-pro-5g">Compare</a></div>
+</div></div><div class="card" data-name="oneplus nord n30 oneplus smartphones" data-brand="OnePlus" data-price="58999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/oneplus-nord-n30/main-card.webp"><img class="cardimg" src="img/oneplus-nord-n30/main-card.jpg" alt="OnePlus Nord N30" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oneplus-nord-n30.html">OnePlus Nord N30</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.72&quot; display</div><div class="spec">Qualcomm SM6375 Snapdragon 695 5G</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.72&quot; display · Qualcomm SM6375 Snapdragon 695 5G · 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oneplus-nord-n30.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oneplus-nord-n30">Compare</a></div>
+</div></div><div class="card" data-name="htc desire 501 dual sim htc smartphones" data-brand="HTC" data-price="58999" data-year="2013">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/htc-desire-501-dual-sim/main-card.webp"><img class="cardimg" src="img/htc-desire-501-dual-sim/main-card.jpg" alt="HTC Desire 501 Dual Sim" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -318,6 +458,16 @@
 <div class="spec">6.7&quot; display · Mediatek Dimensity 810 · 6 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/infinix-note-12-5g.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=infinix-note-12-5g">Compare</a></div>
+</div></div><div class="card" data-name="honor play11 honor smartphones" data-brand="Honor" data-price="60999" data-year="2026">
+<span class="badge cont">Continued</span>
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-play11-5g.html">Honor Play11</a></p>
+<div class="price"><span class="prc" data-pkr="60999"><b class="pkrv">Rs 60,999</b> <span class="usdv">$220</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.87&quot; display</div><div class="spec">Qualcomm SM4450-AF Snapdragon </div><div class="spec">6 GB RAM</div><div class="spec">8300 mAh</div>
+<div class="spec">6.87&quot; display · Qualcomm SM4450-AF Snapdragon  · 6 GB RAM · 8300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/honor-play11-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-play11-5g">Compare</a></div>
 </div></div><div class="card" data-name="samsung galaxy a52s 5g samsung smartphones" data-brand="Samsung" data-price="60999" data-year="2021">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/samsung-galaxy-a52s-5g/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a52s-5g/main-card.jpg" alt="Samsung Galaxy A52s 5G" width="480" height="480" loading="lazy"></picture>
@@ -1728,6 +1878,16 @@
 <div class="spec">6.9&quot; display · Mediatek Helio G91 Ultra · 4 GB RAM · 7500 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/xiaomi-redmi-17.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=xiaomi-redmi-17">Compare</a></div>
+</div></div><div class="card" data-name="oscal bolt 2 oscal smartphones" data-brand="Oscal" data-price="63999" data-year="2026">
+<span class="badge cont">Continued</span>
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oscal-bolt-2.html">Oscal Bolt 2</a></p>
+<div class="price"><span class="prc" data-pkr="63999"><b class="pkrv">Rs 63,999</b> <span class="usdv">$231</span></span><span class="plabel">Estimated price</span></div><div class="spec">11.0&quot; display</div><div class="spec">Unisoc T7250</div><div class="spec">3 GB RAM</div><div class="spec">8300 mAh</div>
+<div class="spec">11.0&quot; display · Unisoc T7250 · 3 GB RAM · 8300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oscal-bolt-2.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oscal-bolt-2">Compare</a></div>
 </div></div><div class="card" data-name="realme 9 pro+ realme smartphones" data-brand="Realme" data-price="63999" data-year="2022">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/realme-9-pro+/main-card.webp"><img class="cardimg" src="img/realme-9-pro+/main-card.jpg" alt="Realme 9 Pro+" width="480" height="480" loading="lazy"></picture>
@@ -2428,6 +2588,16 @@
 <div class="spec">6.7&quot; display · Mediatek MT6781 Helio G96 · 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/infinix-note-12-g96.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=infinix-note-12-g96">Compare</a></div>
+</div></div><div class="card" data-name="realme c01 realme smartphones" data-brand="Realme" data-price="66999" data-year="2026">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/realme-c01/main-card.webp"><img class="cardimg" src="img/realme-c01/main-card.jpg" alt="Realme C01" width="480" height="449" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/realme-c01.html">Realme C01</a></p>
+<div class="price"><span class="prc" data-pkr="66999"><b class="pkrv">Rs 66,999</b> <span class="usdv">$242</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.81&quot; display</div><div class="spec">Unisoc T7250</div><div class="spec">4 GB RAM</div><div class="spec">6500 mAh</div>
+<div class="spec">6.81&quot; display · Unisoc T7250 · 4 GB RAM · 6500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/realme-c01.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=realme-c01">Compare</a></div>
 </div></div><div class="card" data-name="motorola edge 30 fusion motorola smartphones" data-brand="Motorola" data-price="66999" data-year="2022">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/motorola-edge-30-fusion/main-card.webp"><img class="cardimg" src="img/motorola-edge-30-fusion/main-card.jpg" alt="Motorola Edge 30 Fusion" width="480" height="480" loading="lazy"></picture>
@@ -3828,174 +3998,4 @@
 <div class="spec">4.3&quot; display · Qualcomm MSM8260 Snapdragon S3 · 1 GB RAM · 1910 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/sony-xperia-acro-s.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=sony-xperia-acro-s">Compare</a></div>
-</div></div><div class="card" data-name="nokia 6708 nokia smartphones" data-brand="Nokia" data-price="70999" data-year="2005">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-6708/main-card.webp"><img class="cardimg" src="img/nokia-6708/main-card.jpg" alt="Nokia 6708" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-6708.html">Nokia 6708</a></p>
-<div class="price"><span class="prc" data-pkr="70999"><b class="pkrv">Rs 70,999</b> <span class="usdv">$257</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.7&quot; display</div><div class="spec">TI OMAP 1510</div>
-<div class="spec">2.7&quot; display · TI OMAP 1510</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-6708.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-6708">Compare</a></div>
-</div></div><div class="card" data-name="xiaomi redmi m100 xiaomi smartphones" data-brand="Xiaomi" data-price="70999" data-year="2026">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/xiaomi-redmi-m100-5g/main-card.webp"><img class="cardimg" src="img/xiaomi-redmi-m100-5g/main-card.jpg" alt="Xiaomi Redmi M100" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/xiaomi-redmi-m100-5g.html">Xiaomi Redmi M100</a></p>
-<div class="price"><span class="prc" data-pkr="70999"><b class="pkrv">Rs 70,999</b> <span class="usdv">$257</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.9&quot; display</div><div class="spec">Qualcomm Snapdragon 4 Gen 5</div><div class="spec">6 GB RAM</div><div class="spec">7900 mAh</div>
-<div class="spec">6.9&quot; display · Qualcomm Snapdragon 4 Gen 5 · 6 GB RAM · 7900 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/xiaomi-redmi-m100-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=xiaomi-redmi-m100-5g">Compare</a></div>
-</div></div><div class="card" data-name="vivo y60 vivo smartphones" data-brand="Vivo" data-price="70999" data-year="2026">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/vivo-y60-5g/main-card.webp"><img class="cardimg" src="img/vivo-y60-5g/main-card.jpg" alt="vivo Y60" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/vivo-y60-5g.html">vivo Y60</a></p>
-<div class="price"><span class="prc" data-pkr="70999"><b class="pkrv">Rs 70,999</b> <span class="usdv">$257</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.74&quot; display</div><div class="spec">Qualcomm SM4450 Snapdragon 4 G</div><div class="spec">6 GB RAM</div><div class="spec">6500 mAh</div>
-<div class="spec">6.74&quot; display · Qualcomm SM4450 Snapdragon 4 G · 6 GB RAM · 6500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/vivo-y60-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=vivo-y60-5g">Compare</a></div>
-</div></div><div class="card" data-name="oppo k15x oppo smartphones" data-brand="Oppo" data-price="70999" data-year="2026">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/oppo-k15x-5g/main-card.webp"><img class="cardimg" src="img/oppo-k15x-5g/main-card.jpg" alt="Oppo K15x" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/oppo-k15x-5g.html">Oppo K15x</a></p>
-<div class="price"><span class="prc" data-pkr="70999"><b class="pkrv">Rs 70,999</b> <span class="usdv">$257</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.75&quot; display</div><div class="spec">Mediatek Dimensity 6300</div><div class="spec">6 GB RAM</div><div class="spec">6500 mAh</div>
-<div class="spec">6.75&quot; display · Mediatek Dimensity 6300 · 6 GB RAM · 6500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/oppo-k15x-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=oppo-k15x-5g">Compare</a></div>
-</div></div><div class="card" data-name="oneplus turbo 6v oneplus smartphones" data-brand="OnePlus" data-price="70999" data-year="2026">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/oneplus-turbo-6v-5g/main-card.webp"><img class="cardimg" src="img/oneplus-turbo-6v-5g/main-card.jpg" alt="OnePlus Turbo 6V" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/oneplus-turbo-6v-5g.html">OnePlus Turbo 6V</a></p>
-<div class="price"><span class="prc" data-pkr="70999"><b class="pkrv">Rs 70,999</b> <span class="usdv">$257</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.78&quot; display</div><div class="spec">Qualcomm SM7635-AC Snapdragon </div><div class="spec">8 GB RAM</div><div class="spec">9000 mAh</div>
-<div class="spec">6.78&quot; display · Qualcomm SM7635-AC Snapdragon  · 8 GB RAM · 9000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/oneplus-turbo-6v-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=oneplus-turbo-6v-5g">Compare</a></div>
-</div></div><div class="card" data-name="realme 16x realme smartphones" data-brand="Realme" data-price="71999" data-year="2026">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/realme-16x-5g/main.webp"><img class="cardimg" src="img/realme-16x-5g/main.jpg" alt="Realme 16x" width="160" height="212" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-16x-5g.html">Realme 16x</a></p>
-<div class="price"><span class="prc" data-pkr="71999"><b class="pkrv">Rs 71,999</b> <span class="expw">(Expected)</span> <span class="usdv">$260</span></span><span class="plabel">Expected price · Pakistan (expected)</span></div><div class="spec">6.81&quot; display</div><div class="spec">Dimensity 6300</div><div class="spec">6 GB RAM</div><div class="spec">7000 mAh</div>
-<div class="spec">6.81&quot; display · Dimensity 6300 · 6 GB RAM · 7000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-16x-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-16x-5g">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy m35 5g samsung smartphones" data-brand="Samsung" data-price="71999" data-year="2024">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-m35-5g/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-m35-5g/main-card.jpg" alt="Samsung Galaxy M35 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-m35-5g.html">Samsung Galaxy M35 5G</a></p>
-<div class="price"><span class="prc" data-pkr="71999"><b class="pkrv">Rs 71,999</b> <span class="usdv">$260</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Exynos 1380</div><div class="spec">6 / 8 GB RAM</div><div class="spec">6000 mAh</div>
-<div class="spec">6.6&quot; display · Exynos 1380 · 6 / 8 GB RAM · 6000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-m35-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-m35-5g">Compare</a></div>
-</div></div><div class="card" data-name="tecno pova 5 pro 5g tecno smartphones" data-brand="Tecno" data-price="71999" data-year="2023">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/tecno-pova-5-pro-5g/main-card.webp"><img class="cardimg" src="img/tecno-pova-5-pro-5g/main-card.jpg" alt="Tecno Pova 5 Pro 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/tecno-pova-5-pro-5g.html">Tecno Pova 5 Pro 5G</a></p>
-<div class="price"><span class="prc" data-pkr="71999"><b class="pkrv">Rs 71,999</b> <span class="usdv">$260</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.78&quot; display</div><div class="spec">Mediatek Dimensity 6080</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.78&quot; display · Mediatek Dimensity 6080 · 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/tecno-pova-5-pro-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=tecno-pova-5-pro-5g">Compare</a></div>
-</div></div><div class="card" data-name="oneplus ace racing edition oneplus smartphones" data-brand="OnePlus" data-price="71999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/oneplus-ace-racing-edition/main-card.webp"><img class="cardimg" src="img/oneplus-ace-racing-edition/main-card.jpg" alt="OnePlus Ace Racing Edition" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/oneplus-ace-racing-edition.html">OnePlus Ace Racing Edition</a></p>
-<div class="price"><span class="prc" data-pkr="71999"><b class="pkrv">Rs 71,999</b> <span class="usdv">$260</span></span><span class="plabel">Estimated price</span></div><div class="spec">MediaTek Dimensity 8100 Max</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">MediaTek Dimensity 8100 Max · 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/oneplus-ace-racing-edition.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=oneplus-ace-racing-edition">Compare</a></div>
-</div></div><div class="card" data-name="oppo a6 pro oppo smartphones" data-brand="Oppo" data-price="71999" data-year="2025">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/oppo-a6-pro/main-card.webp"><img class="cardimg" src="img/oppo-a6-pro/main-card.jpg" alt="Oppo A6 Pro" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/oppo-a6-pro.html">Oppo A6 Pro</a></p>
-<div class="price"><span class="prc" data-pkr="71999"><b class="pkrv">Rs 71,999</b> <span class="usdv">$260</span></span><span class="plabel">Estimated price</span></div><div class="spec">Mediatek Dimensity 7300</div><div class="spec">8 GB RAM</div><div class="spec">7000 mAh</div>
-<div class="spec">Mediatek Dimensity 7300 · 8 GB RAM · 7000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/oppo-a6-pro.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=oppo-a6-pro">Compare</a></div>
-</div></div><div class="card" data-name="oppo k12+ oppo smartphones" data-brand="Oppo" data-price="71999" data-year="2024">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/oppo-k12+/main-card.webp"><img class="cardimg" src="img/oppo-k12+/main-card.jpg" alt="Oppo K12+" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/oppo-k12+.html">Oppo K12+</a></p>
-<div class="price"><span class="prc" data-pkr="71999"><b class="pkrv">Rs 71,999</b> <span class="usdv">$260</span></span><span class="plabel">Estimated price</span></div><div class="spec">Qualcomm Snapdragon 7 Gen3</div><div class="spec">8 GB RAM</div><div class="spec">6400 mAh</div>
-<div class="spec">Qualcomm Snapdragon 7 Gen3 · 8 GB RAM · 6400 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/oppo-k12+.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=oppo-k12+">Compare</a></div>
-</div></div><div class="card" data-name="vivo y200 pro 5g vivo smartphones" data-brand="Vivo" data-price="71999" data-year="2024">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/vivo-y200-pro-5g/main-card.webp"><img class="cardimg" src="img/vivo-y200-pro-5g/main-card.jpg" alt="Vivo Y200 Pro 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/vivo-y200-pro-5g.html">Vivo Y200 Pro 5G</a></p>
-<div class="price"><span class="prc" data-pkr="71999"><b class="pkrv">Rs 71,999</b> <span class="usdv">$260</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.78&quot; display</div><div class="spec">Qualcomm SM6375 Snapdragon 695 5G</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.78&quot; display · Qualcomm SM6375 Snapdragon 695 5G · 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/vivo-y200-pro-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=vivo-y200-pro-5g">Compare</a></div>
-</div></div><div class="card" data-name="vivo v2452ga vivo smartphones" data-brand="Vivo" data-price="71999" data-year="2025">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/vivo-v2452ga/main-card.webp"><img class="cardimg" src="img/vivo-v2452ga/main-card.jpg" alt="Vivo V2452GA" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/vivo-v2452ga.html">Vivo V2452GA</a></p>
-<div class="price"><span class="prc" data-pkr="71999"><b class="pkrv">Rs 71,999</b> <span class="usdv">$260</span></span><span class="plabel">Estimated price</span></div><div class="spec">Mediatek Dimensity 8400</div><div class="spec">8 GB RAM</div><div class="spec">7620 mAh</div>
-<div class="spec">Mediatek Dimensity 8400 · 8 GB RAM · 7620 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/vivo-v2452ga.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=vivo-v2452ga">Compare</a></div>
-</div></div><div class="card" data-name="tecno pova 7 ultra tecno smartphones" data-brand="Tecno" data-price="71999" data-year="2025">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/tecno-pova-7-ultra/main-card.webp"><img class="cardimg" src="img/tecno-pova-7-ultra/main-card.jpg" alt="Tecno Pova 7 Ultra" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/tecno-pova-7-ultra.html">Tecno Pova 7 Ultra</a></p>
-<div class="price"><span class="prc" data-pkr="71999"><b class="pkrv">Rs 71,999</b> <span class="usdv">$260</span></span><span class="plabel">Estimated price</span></div><div class="spec">Mediatek Dimensity 8350</div><div class="spec">8 GB RAM</div><div class="spec">6000 mAh</div>
-<div class="spec">Mediatek Dimensity 8350 · 8 GB RAM · 6000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/tecno-pova-7-ultra.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=tecno-pova-7-ultra">Compare</a></div>
-</div></div><div class="card" data-name="oneplus n6 oneplus smartphones" data-brand="OnePlus" data-price="71999" data-year="2026">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/oneplus-n6/main-card.webp"><img class="cardimg" src="img/oneplus-n6/main-card.jpg" alt="OnePlus N6" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/oneplus-n6.html">OnePlus N6</a></p>
-<div class="price"><span class="prc" data-pkr="71999"><b class="pkrv">Rs 71,999</b> <span class="usdv">$260</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.8&quot; display</div><div class="spec">Mediatek Dimensity 6360 Apex</div><div class="spec">4 GB RAM</div><div class="spec">8000 mAh</div>
-<div class="spec">6.8&quot; display · Mediatek Dimensity 6360 Apex · 4 GB RAM · 8000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/oneplus-n6.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=oneplus-n6">Compare</a></div>
-</div></div><div class="card" data-name="vivo y31d vivo smartphones" data-brand="Vivo" data-price="72999" data-year="2026">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/vivo-y31d/main-card.webp"><img class="cardimg" src="img/vivo-y31d/main-card.jpg" alt="vivo Y31d" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/vivo-y31d.html">vivo Y31d</a></p>
-<div class="price"><span class="prc" data-pkr="72999"><b class="pkrv">Rs 72,999</b> <span class="usdv">$264</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.75&quot; display</div><div class="spec">Qualcomm SM6225-AF Snapdragon </div><div class="spec">6 GB RAM</div><div class="spec">7200 mAh</div>
-<div class="spec">6.75&quot; display · Qualcomm SM6225-AF Snapdragon  · 6 GB RAM · 7200 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/vivo-y31d.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=vivo-y31d">Compare</a></div>
-</div></div><div class="card" data-name="motorola moto g67 motorola smartphones" data-brand="Motorola" data-price="72999" data-year="2026">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/motorola-moto-g67-5g/main-card.webp"><img class="cardimg" src="img/motorola-moto-g67-5g/main-card.jpg" alt="Motorola Moto G67" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/motorola-moto-g67-5g.html">Motorola Moto G67</a></p>
-<div class="price"><span class="prc" data-pkr="72999"><b class="pkrv">Rs 72,999</b> <span class="expw">(Expected)</span> <span class="usdv">$264</span></span><span class="plabel">Expected price · Pakistan (expected)</span></div><div class="spec">6.78&quot; display</div><div class="spec">Dimensity 6300</div><div class="spec">8 GB RAM</div><div class="spec">5200 mAh</div>
-<div class="spec">6.78&quot; display · Dimensity 6300 · 8 GB RAM · 5200 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/motorola-moto-g67-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=motorola-moto-g67-5g">Compare</a></div>
 </div></div>

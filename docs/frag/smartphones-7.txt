@@ -1,4 +1,374 @@
-<div class="card" data-name="htc u12+ htc smartphones" data-brand="HTC" data-price="139999" data-year="2018">
+<div class="card" data-name="xiaomi mi 9 pro 5g xiaomi smartphones" data-brand="Xiaomi" data-price="185999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-mi-9-pro-5g/main-card.webp"><img class="cardimg" src="img/xiaomi-mi-9-pro-5g/main-card.jpg" alt="Xiaomi Mi 9 Pro 5G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-mi-9-pro-5g.html">Xiaomi Mi 9 Pro 5G</a></p>
+<div class="price"><span class="prc" data-pkr="185999"><b class="pkrv">Rs 185,999</b> <span class="usdv">$672</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.39&quot; display</div><div class="spec">Qualcomm SM8150 Snapdragon 855+</div><div class="spec">8 / 12 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.39&quot; display · Qualcomm SM8150 Snapdragon 855+ · 8 / 12 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-mi-9-pro-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-mi-9-pro-5g">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi mi 9 se xiaomi smartphones" data-brand="Xiaomi" data-price="142999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-mi-9-se/main-card.webp"><img class="cardimg" src="img/xiaomi-mi-9-se/main-card.jpg" alt="Xiaomi Mi 9 SE" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-mi-9-se.html">Xiaomi Mi 9 SE</a></p>
+<div class="price"><span class="prc" data-pkr="142999"><b class="pkrv">Rs 142,999</b> <span class="usdv">$517</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.97&quot; display</div><div class="spec">Qualcomm SDM712 Snapdragon 712</div><div class="spec">6 GB RAM</div><div class="spec">3070 mAh</div>
+<div class="spec">5.97&quot; display · Qualcomm SDM712 Snapdragon 712 · 6 GB RAM · 3070 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-mi-9-se.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-mi-9-se">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi mi 9t xiaomi smartphones" data-brand="Xiaomi" data-price="142999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-mi-9t/main-card.webp"><img class="cardimg" src="img/xiaomi-mi-9t/main-card.jpg" alt="Xiaomi Mi 9t" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-mi-9t.html">Xiaomi Mi 9t</a></p>
+<div class="price"><span class="prc" data-pkr="142999"><b class="pkrv">Rs 142,999</b> <span class="usdv">$517</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.39&quot; display</div><div class="spec">Qualcomm SDM730 Snapdragon 730</div><div class="spec">6 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.39&quot; display · Qualcomm SDM730 Snapdragon 730 · 6 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-mi-9t.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-mi-9t">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi mi 9t pro xiaomi smartphones" data-brand="Xiaomi" data-price="34999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-mi-9t-pro/main-card.webp"><img class="cardimg" src="img/xiaomi-mi-9t-pro/main-card.jpg" alt="Xiaomi Mi 9t Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-mi-9t-pro.html">Xiaomi Mi 9t Pro</a></p>
+<div class="price"><span class="prc" data-pkr="34999"><b class="pkrv">Rs 34,999</b> <span class="usdv">$126</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.39&quot; display</div><div class="spec">Qualcomm SM8150 Snapdragon 855</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.39&quot; display · Qualcomm SM8150 Snapdragon 855 · 6 / 8 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-mi-9t-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-mi-9t-pro">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi mi a3 xiaomi smartphones" data-brand="Xiaomi" data-price="70999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-mi-a3/main-card.webp"><img class="cardimg" src="img/xiaomi-mi-a3/main-card.jpg" alt="Xiaomi Mi A3" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-mi-a3.html">Xiaomi Mi A3</a></p>
+<div class="price"><span class="prc" data-pkr="70999"><b class="pkrv">Rs 70,999</b> <span class="usdv">$257</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.09&quot; display</div><div class="spec">Qualcomm SDM665 Snapdragon 665</div><div class="spec">4 / 6 GB RAM</div><div class="spec">4030 mAh</div>
+<div class="spec">6.09&quot; display · Qualcomm SDM665 Snapdragon 665 · 4 / 6 GB RAM · 4030 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-mi-a3.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-mi-a3">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi mi cc 9 xiaomi smartphones" data-brand="Xiaomi" data-price="" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-mi-cc-9/main-card.webp"><img class="cardimg" src="img/xiaomi-mi-cc-9/main-card.jpg" alt="Xiaomi Mi Cc 9" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-mi-cc-9.html">Xiaomi Mi Cc 9</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.39&quot; display</div><div class="spec">Qualcomm SDM710 Snapdragon 710</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4030 mAh</div>
+<div class="spec">6.39&quot; display · Qualcomm SDM710 Snapdragon 710 · 6 / 8 GB RAM · 4030 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-mi-cc-9.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-mi-cc-9">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi mi mix 3 5g xiaomi smartphones" data-brand="Xiaomi" data-price="126999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-mi-mix-3-5g/main-card.webp"><img class="cardimg" src="img/xiaomi-mi-mix-3-5g/main-card.jpg" alt="Xiaomi Mi Mix 3 5G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-mi-mix-3-5g.html">Xiaomi Mi Mix 3 5G</a></p>
+<div class="price"><span class="prc" data-pkr="126999"><b class="pkrv">Rs 126,999</b> <span class="usdv">$459</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.39&quot; display</div><div class="spec">Qualcomm SM8150 Snapdragon 855</div><div class="spec">6 GB RAM</div><div class="spec">3800 mAh</div>
+<div class="spec">6.39&quot; display · Qualcomm SM8150 Snapdragon 855 · 6 GB RAM · 3800 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-mi-mix-3-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-mi-mix-3-5g">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi mi note 10 xiaomi smartphones" data-brand="Xiaomi" data-price="117999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-mi-note-10/main-card.webp"><img class="cardimg" src="img/xiaomi-mi-note-10/main-card.jpg" alt="Xiaomi Mi Note 10" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-mi-note-10.html">Xiaomi Mi Note 10</a></p>
+<div class="price"><span class="prc" data-pkr="117999"><b class="pkrv">Rs 117,999</b> <span class="usdv">$426</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.47&quot; display</div><div class="spec">Qualcomm SDM730 Snapdragon 730G</div><div class="spec">6 GB RAM</div><div class="spec">5260 mAh</div>
+<div class="spec">6.47&quot; display · Qualcomm SDM730 Snapdragon 730G · 6 GB RAM · 5260 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-mi-note-10.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-mi-note-10">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi mi note 10 pro xiaomi smartphones" data-brand="Xiaomi" data-price="148999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-mi-note-10-pro/main-card.webp"><img class="cardimg" src="img/xiaomi-mi-note-10-pro/main-card.jpg" alt="Xiaomi Mi Note 10 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-mi-note-10-pro.html">Xiaomi Mi Note 10 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="148999"><b class="pkrv">Rs 148,999</b> <span class="usdv">$538</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.47&quot; display</div><div class="spec">Qualcomm SDM730 Snapdragon 730G</div><div class="spec">8 GB RAM</div><div class="spec">5260 mAh</div>
+<div class="spec">6.47&quot; display · Qualcomm SDM730 Snapdragon 730G · 8 GB RAM · 5260 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-mi-note-10-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-mi-note-10-pro">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi redmi 7 xiaomi smartphones" data-brand="Xiaomi" data-price="45999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-redmi-7/main-card.webp"><img class="cardimg" src="img/xiaomi-redmi-7/main-card.jpg" alt="Xiaomi Redmi 7" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-redmi-7.html">Xiaomi Redmi 7</a></p>
+<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.26&quot; display</div><div class="spec">Qualcomm SDM632 Snapdragon 632</div><div class="spec">2 / 3 / 4 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.26&quot; display · Qualcomm SDM632 Snapdragon 632 · 2 / 3 / 4 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-redmi-7.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-redmi-7">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi redmi 8 xiaomi smartphones" data-brand="Xiaomi" data-price="64999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-redmi-8/main-card.webp"><img class="cardimg" src="img/xiaomi-redmi-8/main-card.jpg" alt="Xiaomi Redmi 8" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-redmi-8.html">Xiaomi Redmi 8</a></p>
+<div class="price"><span class="prc" data-pkr="64999"><b class="pkrv">Rs 64,999</b> <span class="usdv">$235</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.22&quot; display</div><div class="spec">Qualcomm SDM439 Snapdragon 439</div><div class="spec">3 / 4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.22&quot; display · Qualcomm SDM439 Snapdragon 439 · 3 / 4 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-redmi-8.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-redmi-8">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi redmi 8a xiaomi smartphones" data-brand="Xiaomi" data-price="36999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-redmi-8a/main-card.webp"><img class="cardimg" src="img/xiaomi-redmi-8a/main-card.jpg" alt="Xiaomi Redmi 8a" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-redmi-8a.html">Xiaomi Redmi 8a</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.22&quot; display</div><div class="spec">Qualcomm SDM439 Snapdragon 439</div><div class="spec">2 / 3 / 4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.22&quot; display · Qualcomm SDM439 Snapdragon 439 · 2 / 3 / 4 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-redmi-8a.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-redmi-8a">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi redmi go xiaomi smartphones" data-brand="Xiaomi" data-price="30999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-redmi-go/main-card.webp"><img class="cardimg" src="img/xiaomi-redmi-go/main-card.jpg" alt="Xiaomi Redmi Go" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-redmi-go.html">Xiaomi Redmi Go</a></p>
+<div class="price"><span class="prc" data-pkr="30999"><b class="pkrv">Rs 30,999</b> <span class="usdv">$112</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8917 Snapdragon 425</div><div class="spec">1 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">5.0&quot; display · Qualcomm MSM8917 Snapdragon 425 · 1 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-redmi-go.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-redmi-go">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi redmi k30 5g xiaomi smartphones" data-brand="Xiaomi" data-price="80999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-redmi-k30-5g/main-card.webp"><img class="cardimg" src="img/xiaomi-redmi-k30-5g/main-card.jpg" alt="Xiaomi Redmi K30 5G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-redmi-k30-5g.html">Xiaomi Redmi K30 5G</a></p>
+<div class="price"><span class="prc" data-pkr="80999"><b class="pkrv">Rs 80,999</b> <span class="usdv">$293</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.67&quot; display</div><div class="spec">Qualcomm SM7250 Snapdragon 765G 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="spec">6.67&quot; display · Qualcomm SM7250 Snapdragon 765G 5G · 6 / 8 GB RAM · 4500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-redmi-k30-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-redmi-k30-5g">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi redmi note 8t xiaomi smartphones" data-brand="Xiaomi" data-price="77999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-redmi-note-8t/main-card.webp"><img class="cardimg" src="img/xiaomi-redmi-note-8t/main-card.jpg" alt="Xiaomi Redmi Note 8t" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/xiaomi-redmi-note-8t.html">Xiaomi Redmi Note 8t</a></p>
+<div class="price"><span class="prc" data-pkr="77999"><b class="pkrv">Rs 77,999</b> <span class="usdv">$282</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.3&quot; display</div><div class="spec">Qualcomm SDM665 Snapdragon 665</div><div class="spec">3 / 4 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.3&quot; display · Qualcomm SDM665 Snapdragon 665 · 3 / 4 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/xiaomi-redmi-note-8t.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-redmi-note-8t">Compare</a></div>
+</div></div><div class="card" data-name="iphone 11 apple smartphones" data-brand="Apple" data-price="144999" data-year="2019">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/iphone-11/main-card.webp"><img class="cardimg" src="img/iphone-11/main-card.jpg" alt="iPhone 11" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/iphone-11.html">iPhone 11</a></p>
+<div class="price"><span class="prc" data-pkr="144999"><b class="pkrv">Rs 144,999</b> <span class="usdv">$524</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.1&quot; Liquid Retina IPS LCD</div><div class="spec">Apple A13 Bionic</div><div class="spec">4 GB RAM</div><div class="spec">3110 mAh</div>
+<div class="spec">Kam qeemat mein Apple experience — aaj bhi best seller</div>
+<div class="btnrow"><a class="btn" href="phones/iphone-11.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=iphone-11">Compare</a></div>
+</div></div><div class="card" data-name="alcatel 3c alcatel smartphones" data-brand="Alcatel" data-price="39999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/alcatel-3c/main-card.webp"><img class="cardimg" src="img/alcatel-3c/main-card.jpg" alt="Alcatel 3c" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/alcatel-3c.html">Alcatel 3c</a></p>
+<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.0&quot; display</div><div class="spec">Mediatek MT8321</div><div class="spec">1 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">6.0&quot; display · Mediatek MT8321 · 1 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/alcatel-3c.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=alcatel-3c">Compare</a></div>
+</div></div><div class="card" data-name="alcatel 3x alcatel smartphones" data-brand="Alcatel" data-price="39999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/alcatel-3x/main-card.webp"><img class="cardimg" src="img/alcatel-3x/main-card.jpg" alt="Alcatel 3x" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/alcatel-3x.html">Alcatel 3x</a></p>
+<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Mediatek MT6739</div><div class="spec">2 / 3 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">5.7&quot; display · Mediatek MT6739 · 2 / 3 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/alcatel-3x.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=alcatel-3x">Compare</a></div>
+</div></div><div class="card" data-name="alcatel 5v alcatel smartphones" data-brand="Alcatel" data-price="33999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/alcatel-5v/main-card.webp"><img class="cardimg" src="img/alcatel-5v/main-card.jpg" alt="Alcatel 5v" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/alcatel-5v.html">Alcatel 5v</a></p>
+<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.2&quot; display</div><div class="spec">Mediatek MT6762 Helio P22</div><div class="spec">3 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.2&quot; display · Mediatek MT6762 Helio P22 · 3 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/alcatel-5v.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=alcatel-5v">Compare</a></div>
+</div></div><div class="card" data-name="apple iphone xr apple smartphones" data-brand="Apple" data-price="153999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/apple-iphone-xr/main-card.webp"><img class="cardimg" src="img/apple-iphone-xr/main-card.jpg" alt="Apple iPhone XR" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/apple-iphone-xr.html">Apple iPhone XR</a></p>
+<div class="price"><span class="prc" data-pkr="153999"><b class="pkrv">Rs 153,999</b> <span class="usdv">$557</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.1&quot; display</div><div class="spec">Apple A12 Bionic</div><div class="spec">3 GB RAM</div><div class="spec">2942 mAh</div>
+<div class="spec">6.1&quot; display · Apple A12 Bionic · 3 GB RAM · 2942 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/apple-iphone-xr.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=apple-iphone-xr">Compare</a></div>
+</div></div><div class="card" data-name="apple iphone xs apple smartphones" data-brand="Apple" data-price="57999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/apple-iphone-xs/main-card.webp"><img class="cardimg" src="img/apple-iphone-xs/main-card.jpg" alt="Apple iPhone XS" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/apple-iphone-xs.html">Apple iPhone XS</a></p>
+<div class="price"><span class="prc" data-pkr="57999"><b class="pkrv">Rs 57,999</b> <span class="usdv">$210</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.8&quot; display</div><div class="spec">Apple A12 Bionic</div><div class="spec">4 GB RAM</div><div class="spec">2658 mAh</div>
+<div class="spec">5.8&quot; display · Apple A12 Bionic · 4 GB RAM · 2658 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/apple-iphone-xs.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=apple-iphone-xs">Compare</a></div>
+</div></div><div class="card" data-name="apple iphone xs max apple smartphones" data-brand="Apple" data-price="170000" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/apple-iphone-xs-max/main-card.webp"><img class="cardimg" src="img/apple-iphone-xs-max/main-card.jpg" alt="Apple iPhone XS Max" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/apple-iphone-xs-max.html">Apple iPhone XS Max</a></p>
+<div class="price"><span class="prc" data-pkr="170000"><b class="pkrv">Rs 170,000</b> <span class="usdv">$614</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.5&quot; display</div><div class="spec">Apple A12 Bionic</div><div class="spec">4 GB RAM</div><div class="spec">3174 mAh</div>
+<div class="spec">6.5&quot; display · Apple A12 Bionic · 4 GB RAM · 3174 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/apple-iphone-xs-max.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=apple-iphone-xs-max">Compare</a></div>
+</div></div><div class="card" data-name="asus zenfone 5 2018 asus smartphones" data-brand="Asus" data-price="" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/asus-zenfone-5-2018/main-card.webp"><img class="cardimg" src="img/asus-zenfone-5-2018/main-card.jpg" alt="Asus Zenfone 5 2018" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/asus-zenfone-5-2018.html">Asus Zenfone 5 2018</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.2&quot; display</div><div class="spec">Qualcomm SDM636 Snapdragon 636</div><div class="spec">4 / 6 GB RAM</div><div class="spec">3300 mAh</div>
+<div class="spec">6.2&quot; display · Qualcomm SDM636 Snapdragon 636 · 4 / 6 GB RAM · 3300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/asus-zenfone-5-2018.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=asus-zenfone-5-2018">Compare</a></div>
+</div></div><div class="card" data-name="asus zenfone 5z asus smartphones" data-brand="Asus" data-price="" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/asus-zenfone-5z/main-card.webp"><img class="cardimg" src="img/asus-zenfone-5z/main-card.jpg" alt="Asus Zenfone 5z" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/asus-zenfone-5z.html">Asus Zenfone 5z</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.2&quot; display</div><div class="spec">Qualcomm Snapdragon 845</div><div class="spec">4 / 6 / 8 GB RAM</div><div class="spec">3300 mAh</div>
+<div class="spec">6.2&quot; display · Qualcomm Snapdragon 845 · 4 / 6 / 8 GB RAM · 3300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/asus-zenfone-5z.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=asus-zenfone-5z">Compare</a></div>
+</div></div><div class="card" data-name="asus zenfone max pro (m1) asus smartphones" data-brand="Asus" data-price="30999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/asus-zenfone-max-pro-(m1)/main-card.webp"><img class="cardimg" src="img/asus-zenfone-max-pro-(m1)/main-card.jpg" alt="Asus Zenfone Max Pro (M1)" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/asus-zenfone-max-pro-(m1).html">Asus Zenfone Max Pro (M1)</a></p>
+<div class="price"><span class="prc" data-pkr="30999"><b class="pkrv">Rs 30,999</b> <span class="usdv">$112</span></span><span class="plabel">Estimated price</span></div><div class="spec">Qualcomm Snapdragon 636</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">Qualcomm Snapdragon 636 · 4 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/asus-zenfone-max-pro-(m1).html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=asus-zenfone-max-pro-(m1)">Compare</a></div>
+</div></div><div class="card" data-name="blackview bv5800 blackview smartphones" data-brand="Blackview" data-price="26999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/blackview-bv5800/main-card.webp"><img class="cardimg" src="img/blackview-bv5800/main-card.jpg" alt="Blackview Bv5800" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/blackview-bv5800.html">Blackview Bv5800</a></p>
+<div class="price"><span class="prc" data-pkr="26999"><b class="pkrv">Rs 26,999</b> <span class="usdv">$98</span></span><span class="plabel">Estimated price</span></div><div class="spec">MediaTek Helio MT6739</div><div class="spec">2 GB RAM</div><div class="spec">5580 mAh</div>
+<div class="spec">MediaTek Helio MT6739 · 2 GB RAM · 5580 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/blackview-bv5800.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=blackview-bv5800">Compare</a></div>
+</div></div><div class="card" data-name="doogee bl12000 doogee smartphones" data-brand="Doogee" data-price="31999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/doogee-bl12000/main-card.webp"><img class="cardimg" src="img/doogee-bl12000/main-card.jpg" alt="Doogee Bl12000" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/doogee-bl12000.html">Doogee Bl12000</a></p>
+<div class="price"><span class="prc" data-pkr="31999"><b class="pkrv">Rs 31,999</b> <span class="usdv">$116</span></span><span class="plabel">Estimated price</span></div><div class="spec">MediaTek Helio MT6750T</div><div class="spec">4 GB RAM</div><div class="spec">12000 mAh</div>
+<div class="spec">MediaTek Helio MT6750T · 4 GB RAM · 12000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/doogee-bl12000.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=doogee-bl12000">Compare</a></div>
+</div></div><div class="card" data-name="google pixel 3 google smartphones" data-brand="Google" data-price="139999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/google-pixel-3/main-card.webp"><img class="cardimg" src="img/google-pixel-3/main-card.jpg" alt="Google Pixel 3" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/google-pixel-3.html">Google Pixel 3</a></p>
+<div class="price"><span class="prc" data-pkr="139999"><b class="pkrv">Rs 139,999</b> <span class="usdv">$506</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm SDM845 Snapdragon 845</div><div class="spec">4 GB RAM</div><div class="spec">2915 mAh</div>
+<div class="spec">5.5&quot; display · Qualcomm SDM845 Snapdragon 845 · 4 GB RAM · 2915 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/google-pixel-3.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=google-pixel-3">Compare</a></div>
+</div></div><div class="card" data-name="google pixel 3 xl google smartphones" data-brand="Google" data-price="145700" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/google-pixel-3-xl/main-card.webp"><img class="cardimg" src="img/google-pixel-3-xl/main-card.jpg" alt="Google Pixel 3 XL" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/google-pixel-3-xl.html">Google Pixel 3 XL</a></p>
+<div class="price"><span class="prc" data-pkr="145700"><b class="pkrv">Rs 145,700</b> <span class="usdv">$527</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.3&quot; display</div><div class="spec">Qualcomm SDM845 Snapdragon 845</div><div class="spec">4 GB RAM</div><div class="spec">3430 mAh</div>
+<div class="spec">6.3&quot; display · Qualcomm SDM845 Snapdragon 845 · 4 GB RAM · 3430 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/google-pixel-3-xl.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=google-pixel-3-xl">Compare</a></div>
+</div></div><div class="card" data-name="hmd 3.1+ hmd smartphones" data-brand="HMD" data-price="" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/hmd-3.1+/main-card.webp"><img class="cardimg" src="img/hmd-3.1+/main-card.jpg" alt="HMD 3.1+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/hmd-3.1+.html">HMD 3.1+</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.0&quot; display</div><div class="spec">Mediatek MT6762 Helio P22</div><div class="spec">2 / 3 GB RAM</div><div class="spec">3500 mAh</div>
+<div class="spec">6.0&quot; display · Mediatek MT6762 Helio P22 · 2 / 3 GB RAM · 3500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/hmd-3.1+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=hmd-3.1+">Compare</a></div>
+</div></div><div class="card" data-name="hmd 6.1+ hmd smartphones" data-brand="HMD" data-price="" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/hmd-6.1+/main-card.webp"><img class="cardimg" src="img/hmd-6.1+/main-card.jpg" alt="HMD 6.1+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/hmd-6.1+.html">HMD 6.1+</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.8&quot; display</div><div class="spec">Qualcomm SDM636 Snapdragon 636</div><div class="spec">4 / 6 GB RAM</div><div class="spec">3060 mAh</div>
+<div class="spec">5.8&quot; display · Qualcomm SDM636 Snapdragon 636 · 4 / 6 GB RAM · 3060 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/hmd-6.1+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=hmd-6.1+">Compare</a></div>
+</div></div><div class="card" data-name="hmd 7.1 hmd smartphones" data-brand="HMD" data-price="" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/hmd-7.1/main-card.webp"><img class="cardimg" src="img/hmd-7.1/main-card.jpg" alt="HMD 7.1" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/hmd-7.1.html">HMD 7.1</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.84&quot; display</div><div class="spec">Qualcomm SDM636 Snapdragon 636</div><div class="spec">3 / 4 GB RAM</div><div class="spec">3060 mAh</div>
+<div class="spec">5.84&quot; display · Qualcomm SDM636 Snapdragon 636 · 3 / 4 GB RAM · 3060 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/hmd-7.1.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=hmd-7.1">Compare</a></div>
+</div></div><div class="card" data-name="hmd 8.1 hmd smartphones" data-brand="HMD" data-price="" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/hmd-8.1/main-card.webp"><img class="cardimg" src="img/hmd-8.1/main-card.jpg" alt="HMD 8.1" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/hmd-8.1.html">HMD 8.1</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.18&quot; display</div><div class="spec">Qualcomm SDM710 Snapdragon 710</div><div class="spec">4 / 6 GB RAM</div><div class="spec">3500 mAh</div>
+<div class="spec">6.18&quot; display · Qualcomm SDM710 Snapdragon 710 · 4 / 6 GB RAM · 3500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/hmd-8.1.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=hmd-8.1">Compare</a></div>
+</div></div><div class="card" data-name="htc desire 12 htc smartphones" data-brand="HTC" data-price="39999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/htc-desire-12/main-card.webp"><img class="cardimg" src="img/htc-desire-12/main-card.jpg" alt="HTC Desire 12" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/htc-desire-12.html">HTC Desire 12</a></p>
+<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Mediatek MT6739</div><div class="spec">2 / 3 GB RAM</div><div class="spec">2730 mAh</div>
+<div class="spec">5.5&quot; display · Mediatek MT6739 · 2 / 3 GB RAM · 2730 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/htc-desire-12.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=htc-desire-12">Compare</a></div>
+</div></div><div class="card" data-name="htc desire 12+ htc smartphones" data-brand="HTC" data-price="52999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/htc-desire-12+/main-card.webp"><img class="cardimg" src="img/htc-desire-12+/main-card.jpg" alt="HTC Desire 12+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/htc-desire-12+.html">HTC Desire 12+</a></p>
+<div class="price"><span class="prc" data-pkr="52999"><b class="pkrv">Rs 52,999</b> <span class="usdv">$192</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.0&quot; display</div><div class="spec">Qualcomm SDM450 Snapdragon 450</div><div class="spec">3 GB RAM</div><div class="spec">2965 mAh</div>
+<div class="spec">6.0&quot; display · Qualcomm SDM450 Snapdragon 450 · 3 GB RAM · 2965 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/htc-desire-12+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=htc-desire-12+">Compare</a></div>
+</div></div><div class="card" data-name="htc desire 12s htc smartphones" data-brand="HTC" data-price="61999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/htc-desire-12s/main-card.webp"><img class="cardimg" src="img/htc-desire-12s/main-card.jpg" alt="HTC Desire 12s" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/htc-desire-12s.html">HTC Desire 12s</a></p>
+<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Qualcomm MSM8940 Snapdragon 435</div><div class="spec">3 / 4 GB RAM</div><div class="spec">3075 mAh</div>
+<div class="spec">5.7&quot; display · Qualcomm MSM8940 Snapdragon 435 · 3 / 4 GB RAM · 3075 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/htc-desire-12s.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=htc-desire-12s">Compare</a></div>
+</div></div><div class="card" data-name="htc u12 life htc smartphones" data-brand="HTC" data-price="70999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/htc-u12-life/main-card.webp"><img class="cardimg" src="img/htc-u12-life/main-card.jpg" alt="HTC U12 Life" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/htc-u12-life.html">HTC U12 Life</a></p>
+<div class="price"><span class="prc" data-pkr="70999"><b class="pkrv">Rs 70,999</b> <span class="usdv">$257</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.0&quot; display</div><div class="spec">Qualcomm SDM636 Snapdragon 636</div><div class="spec">4 / 6 GB RAM</div><div class="spec">3600 mAh</div>
+<div class="spec">6.0&quot; display · Qualcomm SDM636 Snapdragon 636 · 4 / 6 GB RAM · 3600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/htc-u12-life.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=htc-u12-life">Compare</a></div>
+</div></div><div class="card" data-name="htc u12+ htc smartphones" data-brand="HTC" data-price="139999" data-year="2018">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/htc-u12+/main-card.webp"><img class="cardimg" src="img/htc-u12+/main-card.jpg" alt="HTC U12+" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -3628,374 +3998,4 @@
 <div class="spec">5.5&quot; display · Kirin 960 · 4 / 6 GB RAM · 4000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/huawei-mate-9-pro.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=huawei-mate-9-pro">Compare</a></div>
-</div></div><div class="card" data-name="huawei nova huawei smartphones" data-brand="Huawei" data-price="61999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-nova/main-card.webp"><img class="cardimg" src="img/huawei-nova/main-card.jpg" alt="Huawei Nova" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-nova.html">Huawei Nova</a></p>
-<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8953 Snapdragon 625</div><div class="spec">3 GB RAM</div><div class="spec">3020 mAh</div>
-<div class="spec">5.0&quot; display · Qualcomm MSM8953 Snapdragon 625 · 3 GB RAM · 3020 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-nova.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-nova">Compare</a></div>
-</div></div><div class="card" data-name="huawei nova+ huawei smartphones" data-brand="Huawei" data-price="77999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-nova+/main-card.webp"><img class="cardimg" src="img/huawei-nova+/main-card.jpg" alt="Huawei Nova+" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-nova+.html">Huawei Nova+</a></p>
-<div class="price"><span class="prc" data-pkr="77999"><b class="pkrv">Rs 77,999</b> <span class="usdv">$282</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8953 Snapdragon 625</div><div class="spec">3 GB RAM</div><div class="spec">3340 mAh</div>
-<div class="spec">5.5&quot; display · Qualcomm MSM8953 Snapdragon 625 · 3 GB RAM · 3340 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-nova+.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-nova+">Compare</a></div>
-</div></div><div class="card" data-name="huawei p9 huawei smartphones" data-brand="Huawei" data-price="104999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-p9/main-card.webp"><img class="cardimg" src="img/huawei-p9/main-card.jpg" alt="Huawei P9" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-p9.html">Huawei P9</a></p>
-<div class="price"><span class="prc" data-pkr="104999"><b class="pkrv">Rs 104,999</b> <span class="usdv">$379</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.2&quot; display</div><div class="spec">Kirin 955</div><div class="spec">3 / 4 GB RAM</div><div class="spec">3000 mAh</div>
-<div class="spec">5.2&quot; display · Kirin 955 · 3 / 4 GB RAM · 3000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-p9.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-p9">Compare</a></div>
-</div></div><div class="card" data-name="huawei p9 lite huawei smartphones" data-brand="Huawei" data-price="64999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-p9-lite/main-card.webp"><img class="cardimg" src="img/huawei-p9-lite/main-card.jpg" alt="Huawei P9 Lite" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-p9-lite.html">Huawei P9 Lite</a></p>
-<div class="price"><span class="prc" data-pkr="64999"><b class="pkrv">Rs 64,999</b> <span class="usdv">$235</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.2&quot; display</div><div class="spec">Kirin 650</div><div class="spec">2 / 3 GB RAM</div><div class="spec">3000 mAh</div>
-<div class="spec">5.2&quot; display · Kirin 650 · 2 / 3 GB RAM · 3000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-p9-lite.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-p9-lite">Compare</a></div>
-</div></div><div class="card" data-name="huawei p9+ huawei smartphones" data-brand="Huawei" data-price="132999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-p9+/main-card.webp"><img class="cardimg" src="img/huawei-p9+/main-card.jpg" alt="Huawei P9+" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-p9+.html">Huawei P9+</a></p>
-<div class="price"><span class="prc" data-pkr="132999"><b class="pkrv">Rs 132,999</b> <span class="usdv">$481</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Kirin 955</div><div class="spec">4 GB RAM</div><div class="spec">3400 mAh</div>
-<div class="spec">5.5&quot; display · Kirin 955 · 4 GB RAM · 3400 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-p9+.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-p9+">Compare</a></div>
-</div></div><div class="card" data-name="huawei y3ii huawei smartphones" data-brand="Huawei" data-price="24999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-y3ii/main-card.webp"><img class="cardimg" src="img/huawei-y3ii/main-card.jpg" alt="Huawei Y3II" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-y3ii.html">Huawei Y3II</a></p>
-<div class="price"><span class="prc" data-pkr="24999"><b class="pkrv">Rs 24,999</b> <span class="usdv">$90</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.5&quot; display</div><div class="spec">Mediatek MT6735M - 4G model</div><div class="spec">1 GB RAM</div><div class="spec">2100 mAh</div>
-<div class="spec">4.5&quot; display · Mediatek MT6735M - 4G model · 1 GB RAM · 2100 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-y3ii.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-y3ii">Compare</a></div>
-</div></div><div class="card" data-name="huawei y5ii huawei smartphones" data-brand="Huawei" data-price="33999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-y5ii/main-card.webp"><img class="cardimg" src="img/huawei-y5ii/main-card.jpg" alt="Huawei Y5II" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-y5ii.html">Huawei Y5II</a></p>
-<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Mediatek MT6735P</div><div class="spec">1 GB RAM</div><div class="spec">2200 mAh</div>
-<div class="spec">5.0&quot; display · Mediatek MT6735P · 1 GB RAM · 2200 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-y5ii.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-y5ii">Compare</a></div>
-</div></div><div class="card" data-name="lg g5 lg smartphones" data-brand="LG" data-price="92999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-g5/main-card.webp"><img class="cardimg" src="img/lg-g5/main-card.jpg" alt="LG G5" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-g5.html">LG G5</a></p>
-<div class="price"><span class="prc" data-pkr="92999"><b class="pkrv">Rs 92,999</b> <span class="usdv">$336</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.3&quot; display</div><div class="spec">Qualcomm MSM8996 Snapdragon 820</div><div class="spec">4 GB RAM</div><div class="spec">2800 mAh</div>
-<div class="spec">5.3&quot; display · Qualcomm MSM8996 Snapdragon 820 · 4 GB RAM · 2800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-g5.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-g5">Compare</a></div>
-</div></div><div class="card" data-name="lg g5 se lg smartphones" data-brand="LG" data-price="107999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-g5-se/main-card.webp"><img class="cardimg" src="img/lg-g5-se/main-card.jpg" alt="LG G5 SE" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-g5-se.html">LG G5 SE</a></p>
-<div class="price"><span class="prc" data-pkr="107999"><b class="pkrv">Rs 107,999</b> <span class="usdv">$390</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.3&quot; display</div><div class="spec">Qualcomm MSM8976 Snapdragon 652</div><div class="spec">3 GB RAM</div><div class="spec">2800 mAh</div>
-<div class="spec">5.3&quot; display · Qualcomm MSM8976 Snapdragon 652 · 3 GB RAM · 2800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-g5-se.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-g5-se">Compare</a></div>
-</div></div><div class="card" data-name="lg k10 lg smartphones" data-brand="LG" data-price="52999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-k10/main-card.webp"><img class="cardimg" src="img/lg-k10/main-card.jpg" alt="LG K10" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-k10.html">LG K10</a></p>
-<div class="price"><span class="prc" data-pkr="52999"><b class="pkrv">Rs 52,999</b> <span class="usdv">$192</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.3&quot; display</div><div class="spec">Qualcomm MSM8916 Snapdragon 410</div><div class="spec">1 / 5 / 2 GB RAM</div><div class="spec">2300 mAh</div>
-<div class="spec">5.3&quot; display · Qualcomm MSM8916 Snapdragon 410 · 1 / 5 / 2 GB RAM · 2300 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-k10.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-k10">Compare</a></div>
-</div></div><div class="card" data-name="lg k20+ lg smartphones" data-brand="LG" data-price="49999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-k20+/main-card.webp"><img class="cardimg" src="img/lg-k20+/main-card.jpg" alt="LG K20+" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-k20+.html">LG K20+</a></p>
-<div class="price"><span class="prc" data-pkr="49999"><b class="pkrv">Rs 49,999</b> <span class="usdv">$181</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.3&quot; display</div><div class="spec">Qualcomm MSM8917 Snapdragon 425</div><div class="spec">2 GB RAM</div><div class="spec">2700 mAh</div>
-<div class="spec">5.3&quot; display · Qualcomm MSM8917 Snapdragon 425 · 2 GB RAM · 2700 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-k20+.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-k20+">Compare</a></div>
-</div></div><div class="card" data-name="lg k4 lg smartphones" data-brand="LG" data-price="30999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-k4/main-card.webp"><img class="cardimg" src="img/lg-k4/main-card.jpg" alt="LG K4" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-k4.html">LG K4</a></p>
-<div class="price"><span class="prc" data-pkr="30999"><b class="pkrv">Rs 30,999</b> <span class="usdv">$112</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.5&quot; display</div><div class="spec">Mediatek MT6735M - K120E</div><div class="spec">1 GB RAM</div><div class="spec">1940 mAh</div>
-<div class="spec">4.5&quot; display · Mediatek MT6735M - K120E · 1 GB RAM · 1940 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-k4.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-k4">Compare</a></div>
-</div></div><div class="card" data-name="lg k8 4g lg smartphones" data-brand="LG" data-price="" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-k8-4g/main-card.webp"><img class="cardimg" src="img/lg-k8-4g/main-card.jpg" alt="LG K8 4G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-k8-4g.html">LG K8 4G</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.0&quot; display</div><div class="spec">Mediatek MT6735</div><div class="spec">5 GB RAM</div><div class="spec">2125 mAh</div>
-<div class="spec">5.0&quot; display · Mediatek MT6735 · 5 GB RAM · 2125 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-k8-4g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-k8-4g">Compare</a></div>
-</div></div><div class="card" data-name="lg stylo 2 lg smartphones" data-brand="LG" data-price="45999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-stylo-2/main-card.webp"><img class="cardimg" src="img/lg-stylo-2/main-card.jpg" alt="LG Stylo 2" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-stylo-2.html">LG Stylo 2</a></p>
-<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Qualcomm MSM8916 Snapdragon 410</div><div class="spec">2 GB RAM</div><div class="spec">3000 mAh</div>
-<div class="spec">5.7&quot; display · Qualcomm MSM8916 Snapdragon 410 · 2 GB RAM · 3000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-stylo-2.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-stylo-2">Compare</a></div>
-</div></div><div class="card" data-name="lg stylus 2 lg smartphones" data-brand="LG" data-price="52999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-stylus-2/main-card.webp"><img class="cardimg" src="img/lg-stylus-2/main-card.jpg" alt="LG Stylus 2" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-stylus-2.html">LG Stylus 2</a></p>
-<div class="price"><span class="prc" data-pkr="52999"><b class="pkrv">Rs 52,999</b> <span class="usdv">$192</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Qualcomm MSM8916 Snapdragon 410</div><div class="spec">5 / 2 GB RAM</div><div class="spec">3000 mAh</div>
-<div class="spec">5.7&quot; display · Qualcomm MSM8916 Snapdragon 410 · 5 / 2 GB RAM · 3000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-stylus-2.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-stylus-2">Compare</a></div>
-</div></div><div class="card" data-name="lg stylus 2+ lg smartphones" data-brand="LG" data-price="55999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-stylus-2+/main-card.webp"><img class="cardimg" src="img/lg-stylus-2+/main-card.jpg" alt="LG Stylus 2+" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-stylus-2+.html">LG Stylus 2+</a></p>
-<div class="price"><span class="prc" data-pkr="55999"><b class="pkrv">Rs 55,999</b> <span class="usdv">$202</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Qualcomm MSM8937 Snapdragon 430</div><div class="spec">2 / 3 GB RAM</div><div class="spec">2900 mAh</div>
-<div class="spec">5.7&quot; display · Qualcomm MSM8937 Snapdragon 430 · 2 / 3 GB RAM · 2900 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-stylus-2+.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-stylus-2+">Compare</a></div>
-</div></div><div class="card" data-name="lg stylus 3 lg smartphones" data-brand="LG" data-price="52999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-stylus-3/main-card.webp"><img class="cardimg" src="img/lg-stylus-3/main-card.jpg" alt="LG Stylus 3" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-stylus-3.html">LG Stylus 3</a></p>
-<div class="price"><span class="prc" data-pkr="52999"><b class="pkrv">Rs 52,999</b> <span class="usdv">$192</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Mediatek MT6750 - M400DK</div><div class="spec">2 / 3 GB RAM</div><div class="spec">3200 mAh</div>
-<div class="spec">5.7&quot; display · Mediatek MT6750 - M400DK · 2 / 3 GB RAM · 3200 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-stylus-3.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-stylus-3">Compare</a></div>
-</div></div><div class="card" data-name="lg x cam lg smartphones" data-brand="LG" data-price="64999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-x-cam/main-card.webp"><img class="cardimg" src="img/lg-x-cam/main-card.jpg" alt="LG X Cam" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-x-cam.html">LG X Cam</a></p>
-<div class="price"><span class="prc" data-pkr="64999"><b class="pkrv">Rs 64,999</b> <span class="usdv">$235</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.2&quot; display</div><div class="spec">Mediatek MT6753</div><div class="spec">2 GB RAM</div><div class="spec">2520 mAh</div>
-<div class="spec">5.2&quot; display · Mediatek MT6753 · 2 GB RAM · 2520 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-x-cam.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-x-cam">Compare</a></div>
-</div></div><div class="card" data-name="lg x mach lg smartphones" data-brand="LG" data-price="73999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-x-mach/main-card.webp"><img class="cardimg" src="img/lg-x-mach/main-card.jpg" alt="LG X Mach" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-x-mach.html">LG X Mach</a></p>
-<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8992 Snapdragon 808</div><div class="spec">3 GB RAM</div><div class="spec">3000 mAh</div>
-<div class="spec">5.5&quot; display · Qualcomm MSM8992 Snapdragon 808 · 3 GB RAM · 3000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-x-mach.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-x-mach">Compare</a></div>
-</div></div><div class="card" data-name="lg x max lg smartphones" data-brand="LG" data-price="61999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-x-max/main-card.webp"><img class="cardimg" src="img/lg-x-max/main-card.jpg" alt="LG X Max" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-x-max.html">LG X Max</a></p>
-<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Mediatek MT6735</div><div class="spec">5 GB RAM</div><div class="spec">2800 mAh</div>
-<div class="spec">5.5&quot; display · Mediatek MT6735 · 5 GB RAM · 2800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-x-max.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-x-max">Compare</a></div>
-</div></div><div class="card" data-name="lg x power lg smartphones" data-brand="LG" data-price="39999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-x-power/main-card.webp"><img class="cardimg" src="img/lg-x-power/main-card.jpg" alt="LG X Power" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-x-power.html">LG X Power</a></p>
-<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.3&quot; display</div><div class="spec">Mediatek MT6735</div><div class="spec">2 GB RAM</div><div class="spec">4100 mAh</div>
-<div class="spec">5.3&quot; display · Mediatek MT6735 · 2 GB RAM · 4100 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-x-power.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-x-power">Compare</a></div>
-</div></div><div class="card" data-name="lg x screen lg smartphones" data-brand="LG" data-price="39999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-x-screen/main-card.webp"><img class="cardimg" src="img/lg-x-screen/main-card.jpg" alt="LG X Screen" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-x-screen.html">LG X Screen</a></p>
-<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.93&quot; display</div><div class="spec">Qualcomm MSM8916 Snapdragon 410</div><div class="spec">2 GB RAM</div><div class="spec">2300 mAh</div>
-<div class="spec">4.93&quot; display · Qualcomm MSM8916 Snapdragon 410 · 2 GB RAM · 2300 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-x-screen.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-x-screen">Compare</a></div>
-</div></div><div class="card" data-name="lg x skin lg smartphones" data-brand="LG" data-price="55999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-x-skin/main-card.webp"><img class="cardimg" src="img/lg-x-skin/main-card.jpg" alt="LG X Skin" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-x-skin.html">LG X Skin</a></p>
-<div class="price"><span class="prc" data-pkr="55999"><b class="pkrv">Rs 55,999</b> <span class="usdv">$202</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Quad-core 1.3 GHz</div><div class="spec">5 GB RAM</div><div class="spec">2100 mAh</div>
-<div class="spec">5.0&quot; display · Quad-core 1.3 GHz · 5 GB RAM · 2100 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-x-skin.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-x-skin">Compare</a></div>
-</div></div><div class="card" data-name="lg x style lg smartphones" data-brand="LG" data-price="21999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-x-style/main-card.webp"><img class="cardimg" src="img/lg-x-style/main-card.jpg" alt="LG X Style" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-x-style.html">LG X Style</a></p>
-<div class="price"><span class="prc" data-pkr="21999"><b class="pkrv">Rs 21,999</b> <span class="usdv">$80</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8909 Snapdragon 210</div><div class="spec">5 GB RAM</div><div class="spec">2100 mAh</div>
-<div class="spec">5.0&quot; display · Qualcomm MSM8909 Snapdragon 210 · 5 GB RAM · 2100 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-x-style.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-x-style">Compare</a></div>
-</div></div><div class="card" data-name="meizu m3 note meizu smartphones" data-brand="Meizu" data-price="55999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/meizu-m3-note/main-card.webp"><img class="cardimg" src="img/meizu-m3-note/main-card.jpg" alt="Meizu M3 Note" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/meizu-m3-note.html">Meizu M3 Note</a></p>
-<div class="price"><span class="prc" data-pkr="55999"><b class="pkrv">Rs 55,999</b> <span class="usdv">$202</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Mediatek MT6755 Helio P10</div><div class="spec">2 / 3 GB RAM</div><div class="spec">4100 mAh</div>
-<div class="spec">5.5&quot; display · Mediatek MT6755 Helio P10 · 2 / 3 GB RAM · 4100 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/meizu-m3-note.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=meizu-m3-note">Compare</a></div>
-</div></div><div class="card" data-name="microsoft lumia 650 microsoft smartphones" data-brand="Microsoft" data-price="45999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/microsoft-lumia-650/main-card.webp"><img class="cardimg" src="img/microsoft-lumia-650/main-card.jpg" alt="Microsoft Lumia 650" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/microsoft-lumia-650.html">Microsoft Lumia 650</a></p>
-<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8909v2 Snapdragon 212</div><div class="spec">1 GB RAM</div><div class="spec">2000 mAh</div>
-<div class="spec">5.0&quot; display · Qualcomm MSM8909v2 Snapdragon 212 · 1 GB RAM · 2000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/microsoft-lumia-650.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=microsoft-lumia-650">Compare</a></div>
-</div></div><div class="card" data-name="motorola moto e3 motorola smartphones" data-brand="Motorola" data-price="30999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-moto-e3/main-card.webp"><img class="cardimg" src="img/motorola-moto-e3/main-card.jpg" alt="Motorola Moto E3" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/motorola-moto-e3.html">Motorola Moto E3</a></p>
-<div class="price"><span class="prc" data-pkr="30999"><b class="pkrv">Rs 30,999</b> <span class="usdv">$112</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Mediatek MT6735P</div><div class="spec">1 GB RAM</div><div class="spec">2800 mAh</div>
-<div class="spec">5.0&quot; display · Mediatek MT6735P · 1 GB RAM · 2800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/motorola-moto-e3.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=motorola-moto-e3">Compare</a></div>
-</div></div><div class="card" data-name="motorola moto e3 power motorola smartphones" data-brand="Motorola" data-price="39999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-moto-e3-power/main-card.webp"><img class="cardimg" src="img/motorola-moto-e3-power/main-card.jpg" alt="Motorola Moto E3 Power" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/motorola-moto-e3-power.html">Motorola Moto E3 Power</a></p>
-<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Mediatek MT6735P</div><div class="spec">2 GB RAM</div><div class="spec">3500 mAh</div>
-<div class="spec">5.0&quot; display · Mediatek MT6735P · 2 GB RAM · 3500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/motorola-moto-e3-power.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=motorola-moto-e3-power">Compare</a></div>
-</div></div><div class="card" data-name="motorola moto g4 motorola smartphones" data-brand="Motorola" data-price="39999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-moto-g4/main-card.webp"><img class="cardimg" src="img/motorola-moto-g4/main-card.jpg" alt="Motorola Moto G4" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/motorola-moto-g4.html">Motorola Moto G4</a></p>
-<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8952 Snapdragon 617</div><div class="spec">2 GB RAM</div><div class="spec">3000 mAh</div>
-<div class="spec">5.5&quot; display · Qualcomm MSM8952 Snapdragon 617 · 2 GB RAM · 3000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/motorola-moto-g4.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=motorola-moto-g4">Compare</a></div>
-</div></div><div class="card" data-name="motorola moto g4 play motorola smartphones" data-brand="Motorola" data-price="39999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-moto-g4-play/main-card.webp"><img class="cardimg" src="img/motorola-moto-g4-play/main-card.jpg" alt="Motorola Moto G4 Play" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/motorola-moto-g4-play.html">Motorola Moto G4 Play</a></p>
-<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8916 Snapdragon 410</div><div class="spec">1 / 2 GB RAM</div><div class="spec">2800 mAh</div>
-<div class="spec">5.0&quot; display · Qualcomm MSM8916 Snapdragon 410 · 1 / 2 GB RAM · 2800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/motorola-moto-g4-play.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=motorola-moto-g4-play">Compare</a></div>
-</div></div><div class="card" data-name="motorola moto g4+ motorola smartphones" data-brand="Motorola" data-price="49999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-moto-g4+/main-card.webp"><img class="cardimg" src="img/motorola-moto-g4+/main-card.jpg" alt="Motorola Moto G4+" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/motorola-moto-g4+.html">Motorola Moto G4+</a></p>
-<div class="price"><span class="prc" data-pkr="49999"><b class="pkrv">Rs 49,999</b> <span class="usdv">$181</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8952 Snapdragon 617</div><div class="spec">2 / 3 / 4 GB RAM</div><div class="spec">3000 mAh</div>
-<div class="spec">5.5&quot; display · Qualcomm MSM8952 Snapdragon 617 · 2 / 3 / 4 GB RAM · 3000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/motorola-moto-g4+.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=motorola-moto-g4+">Compare</a></div>
-</div></div><div class="card" data-name="motorola moto m motorola smartphones" data-brand="Motorola" data-price="58999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-moto-m/main-card.webp"><img class="cardimg" src="img/motorola-moto-m/main-card.jpg" alt="Motorola Moto M" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/motorola-moto-m.html">Motorola Moto M</a></p>
-<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Mediatek MT6755 Helio P10</div><div class="spec">3 / 4 GB RAM</div><div class="spec">3050 mAh</div>
-<div class="spec">5.5&quot; display · Mediatek MT6755 Helio P10 · 3 / 4 GB RAM · 3050 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/motorola-moto-m.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=motorola-moto-m">Compare</a></div>
-</div></div><div class="card" data-name="motorola moto z motorola smartphones" data-brand="Motorola" data-price="67999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-moto-z/main-card.webp"><img class="cardimg" src="img/motorola-moto-z/main-card.jpg" alt="Motorola Moto Z" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/motorola-moto-z.html">Motorola Moto Z</a></p>
-<div class="price"><span class="prc" data-pkr="67999"><b class="pkrv">Rs 67,999</b> <span class="usdv">$246</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8996 Snapdragon 820</div><div class="spec">4 GB RAM</div><div class="spec">2600 mAh</div>
-<div class="spec">5.5&quot; display · Qualcomm MSM8996 Snapdragon 820 · 4 GB RAM · 2600 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/motorola-moto-z.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=motorola-moto-z">Compare</a></div>
-</div></div><div class="card" data-name="motorola moto z play motorola smartphones" data-brand="Motorola" data-price="67999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-moto-z-play/main-card.webp"><img class="cardimg" src="img/motorola-moto-z-play/main-card.jpg" alt="Motorola Moto Z Play" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/motorola-moto-z-play.html">Motorola Moto Z Play</a></p>
-<div class="price"><span class="prc" data-pkr="67999"><b class="pkrv">Rs 67,999</b> <span class="usdv">$246</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8953 Snapdragon 625</div><div class="spec">3 GB RAM</div><div class="spec">3510 mAh</div>
-<div class="spec">5.5&quot; display · Qualcomm MSM8953 Snapdragon 625 · 3 GB RAM · 3510 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/motorola-moto-z-play.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=motorola-moto-z-play">Compare</a></div>
-</div></div><div class="card" data-name="oneplus 3t oneplus smartphones" data-brand="OnePlus" data-price="135999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/oneplus-3t/main-card.webp"><img class="cardimg" src="img/oneplus-3t/main-card.jpg" alt="OnePlus 3t" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/oneplus-3t.html">OnePlus 3t</a></p>
-<div class="price"><span class="prc" data-pkr="135999"><b class="pkrv">Rs 135,999</b> <span class="usdv">$492</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8996 Snapdragon 821</div><div class="spec">6 GB RAM</div><div class="spec">3400 mAh</div>
-<div class="spec">5.5&quot; display · Qualcomm MSM8996 Snapdragon 821 · 6 GB RAM · 3400 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/oneplus-3t.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=oneplus-3t">Compare</a></div>
-</div></div><div class="card" data-name="oppo a37 oppo smartphones" data-brand="Oppo" data-price="67999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/oppo-a37/main-card.webp"><img class="cardimg" src="img/oppo-a37/main-card.jpg" alt="Oppo A37" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/oppo-a37.html">Oppo A37</a></p>
-<div class="price"><span class="prc" data-pkr="67999"><b class="pkrv">Rs 67,999</b> <span class="usdv">$246</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8916 Snapdragon 410</div><div class="spec">2 GB RAM</div><div class="spec">2630 mAh</div>
-<div class="spec">5.0&quot; display · Qualcomm MSM8916 Snapdragon 410 · 2 GB RAM · 2630 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/oppo-a37.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=oppo-a37">Compare</a></div>
-</div></div><div class="card" data-name="oppo a57 4g oppo smartphones" data-brand="Oppo" data-price="47999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/oppo-a57-4g/main-card.webp"><img class="cardimg" src="img/oppo-a57-4g/main-card.jpg" alt="Oppo A57 4G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/oppo-a57-4g.html">Oppo A57 4G</a></p>
-<div class="price"><span class="prc" data-pkr="47999"><b class="pkrv">Rs 47,999</b> <span class="usdv">$173</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.2&quot; display</div><div class="spec">Qualcomm MSM8940 Snapdragon 435</div><div class="spec">3 GB RAM</div><div class="spec">2900 mAh</div>
-<div class="spec">5.2&quot; display · Qualcomm MSM8940 Snapdragon 435 · 3 GB RAM · 2900 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/oppo-a57-4g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=oppo-a57-4g">Compare</a></div>
 </div></div>

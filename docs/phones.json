@@ -3005,6 +3005,36 @@
   "sb": 15
  },
  {
+  "slug": "honor-700-5g",
+  "name": "Honor 700",
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/honor-700-5g.html",
+  "sb": 12
+ },
+ {
+  "slug": "honor-700-pro-5g",
+  "name": "Honor 700 Pro",
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/honor-700-pro-5g.html",
+  "sb": 21
+ },
+ {
+  "slug": "honor-700s-5g",
+  "name": "Honor 700S",
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/honor-700s-5g.html",
+  "sb": 20
+ },
+ {
   "slug": "samsung-galaxy-tab-s8",
   "name": "Samsung Galaxy Tab S8",
   "brand": "Samsung",

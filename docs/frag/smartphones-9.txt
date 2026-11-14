@@ -1,4 +1,34 @@
-<div class="card" data-name="lenovo a850 lenovo smartphones" data-brand="Lenovo" data-price="45999" data-year="2013">
+<div class="card" data-name="lg g pro lite lg smartphones" data-brand="LG" data-price="77999" data-year="2013">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/lg-g-pro-lite/main-card.webp"><img class="cardimg" src="img/lg-g-pro-lite/main-card.jpg" alt="LG G Pro Lite" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/lg-g-pro-lite.html">LG G Pro Lite</a></p>
+<div class="price"><span class="prc" data-pkr="77999"><b class="pkrv">Rs 77,999</b> <span class="usdv">$282</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Mediatek MT6577</div><div class="spec">1 GB RAM</div><div class="spec">3140 mAh</div>
+<div class="spec">5.5&quot; display · Mediatek MT6577 · 1 GB RAM · 3140 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/lg-g-pro-lite.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=lg-g-pro-lite">Compare</a></div>
+</div></div><div class="card" data-name="lg g pro lite dual lg smartphones" data-brand="LG" data-price="73999" data-year="2013">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/lg-g-pro-lite-dual/main-card.webp"><img class="cardimg" src="img/lg-g-pro-lite-dual/main-card.jpg" alt="LG G Pro Lite Dual" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/lg-g-pro-lite-dual.html">LG G Pro Lite Dual</a></p>
+<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Mediatek MT6577</div><div class="spec">1 GB RAM</div><div class="spec">3140 mAh</div>
+<div class="spec">5.5&quot; display · Mediatek MT6577 · 1 GB RAM · 3140 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/lg-g-pro-lite-dual.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=lg-g-pro-lite-dual">Compare</a></div>
+</div></div><div class="card" data-name="lg nexus 5 lg smartphones" data-brand="LG" data-price="80999" data-year="2013">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/lg-nexus-5/main-card.webp"><img class="cardimg" src="img/lg-nexus-5/main-card.jpg" alt="LG Nexus 5" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/lg-nexus-5.html">LG Nexus 5</a></p>
+<div class="price"><span class="prc" data-pkr="80999"><b class="pkrv">Rs 80,999</b> <span class="usdv">$293</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.95&quot; display</div><div class="spec">Qualcomm MSM8974 Snapdragon 800</div><div class="spec">2 GB RAM</div><div class="spec">2300 mAh</div>
+<div class="spec">4.95&quot; display · Qualcomm MSM8974 Snapdragon 800 · 2 GB RAM · 2300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/lg-nexus-5.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=lg-nexus-5">Compare</a></div>
+</div></div><div class="card" data-name="lenovo a850 lenovo smartphones" data-brand="Lenovo" data-price="45999" data-year="2013">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/lenovo-a850/main-card.webp"><img class="cardimg" src="img/lenovo-a850/main-card.jpg" alt="Lenovo A850" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -3968,34 +3998,4 @@
 <div class="spec">6.77&quot; display · MediaTek Helio G200 Ultra · 8 / 12 GB RAM · 6500 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/redmi-note-15-pro.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=redmi-note-15-pro">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy a5 3g samsung smartphones" data-brand="Samsung" data-price="" data-year="0">
-
-<picture><source type="image/webp" srcset="img/samsung-galaxy-a5-3g/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a5-3g/main-card.jpg" alt="Samsung Galaxy A5 3g" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-a5-3g.html">Samsung Galaxy A5 3g</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.0&quot; display</div><div class="spec">Snapdragon 410</div><div class="spec">2 GB RAM</div><div class="spec">2300 mAh</div>
-<div class="spec">5.0&quot; display · Snapdragon 410 · 2 GB RAM · 2300 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a5-3g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-a5-3g">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy a9 pro samsung smartphones" data-brand="Samsung" data-price="61999" data-year="0">
-
-<picture><source type="image/webp" srcset="img/samsung-galaxy-a9-pro/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a9-pro/main-card.jpg" alt="Samsung Galaxy A9 Pro" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-a9-pro.html">Samsung Galaxy A9 Pro</a></p>
-<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">6&quot; display</div><div class="spec">Octa-core</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6&quot; display · Octa-core · 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a9-pro.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-a9-pro">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy a91 samsung smartphones" data-brand="Samsung" data-price="" data-year="0">
-
-<picture><source type="image/webp" srcset="img/samsung-galaxy-a91/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a91/main-card.jpg" alt="Samsung Galaxy A91" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-a91.html">Samsung Galaxy A91</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.7&quot; display</div><div class="spec">Qualcomm SM8150 Snapdragon 855</div><div class="spec">8 GB RAM</div><div class="spec">4500 mAh</div>
-<div class="spec">6.7&quot; display · Qualcomm SM8150 Snapdragon 855 · 8 GB RAM · 4500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a91.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-a91">Compare</a></div>
 </div></div>

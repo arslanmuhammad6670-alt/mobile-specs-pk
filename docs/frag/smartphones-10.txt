@@ -1,4 +1,454 @@
-<div class="card" data-name="samsung galaxy a5 3g samsung smartphones" data-brand="Samsung" data-price="" data-year="0">
+<div class="card" data-name="huawei mate 70 huawei smartphones" data-brand="Huawei" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/huawei-mate-70/main-card.webp"><img class="cardimg" src="img/huawei-mate-70/main-card.jpg" alt="Huawei Mate 70" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-mate-70.html">Huawei Mate 70</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.7&quot; display</div><div class="spec">Kirin 9010</div><div class="spec">12 GB RAM</div><div class="spec">5300 mAh</div>
+<div class="spec">6.7&quot; display · Kirin 9010 · 12 GB RAM · 5300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-mate-70.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-mate-70">Compare</a></div>
+</div></div><div class="card" data-name="huawei mate 70 air huawei smartphones" data-brand="Huawei" data-price="186999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/huawei-mate-70-air/main-card.webp"><img class="cardimg" src="img/huawei-mate-70-air/main-card.jpg" alt="Huawei Mate 70 Air" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-mate-70-air.html">Huawei Mate 70 Air</a></p>
+<div class="price"><span class="prc" data-pkr="186999"><b class="pkrv">Rs 186,999</b> <span class="usdv">$676</span></span><span class="plabel">Estimated price</span></div><div class="spec">Octa Core Processor</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">Octa Core Processor · 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-mate-70-air.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-mate-70-air">Compare</a></div>
+</div></div><div class="card" data-name="huawei mate 80 huawei smartphones" data-brand="Huawei" data-price="217999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/huawei-mate-80/main-card.webp"><img class="cardimg" src="img/huawei-mate-80/main-card.jpg" alt="Huawei Mate 80" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-mate-80.html">Huawei Mate 80</a></p>
+<div class="price"><span class="prc" data-pkr="217999"><b class="pkrv">Rs 217,999</b> <span class="usdv">$788</span></span><span class="plabel">Estimated price</span></div><div class="spec">Octa Core Processor</div><div class="spec">12 GB RAM</div><div class="spec">7000 mAh</div>
+<div class="spec">Octa Core Processor · 12 GB RAM · 7000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-mate-80.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-mate-80">Compare</a></div>
+</div></div><div class="card" data-name="huawei nova 2i huawei smartphones" data-brand="Huawei" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/huawei-nova-2i/main-card.webp"><img class="cardimg" src="img/huawei-nova-2i/main-card.jpg" alt="Huawei Nova 2i" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-nova-2i.html">Huawei Nova 2i</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.9&quot; display</div><div class="spec">Kirin 659</div><div class="spec">4 GB RAM</div><div class="spec">3340 mAh</div>
+<div class="spec">5.9&quot; display · Kirin 659 · 4 GB RAM · 3340 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-nova-2i.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-nova-2i">Compare</a></div>
+</div></div><div class="card" data-name="huawei nova 3e huawei smartphones" data-brand="Huawei" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/huawei-nova-3e/main-card.webp"><img class="cardimg" src="img/huawei-nova-3e/main-card.jpg" alt="Huawei Nova 3e" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-nova-3e.html">Huawei Nova 3e</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.84&quot; display</div><div class="spec">HiSilicon Kirin 659</div><div class="spec">4 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">5.84&quot; display · HiSilicon Kirin 659 · 4 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-nova-3e.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-nova-3e">Compare</a></div>
+</div></div><div class="card" data-name="huawei p30 lite nova 4e huawei smartphones" data-brand="Huawei" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/huawei-p30-lite-nova-4e/main-card.webp"><img class="cardimg" src="img/huawei-p30-lite-nova-4e/main-card.jpg" alt="Huawei P30 Lite Nova 4e" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-p30-lite-nova-4e.html">Huawei P30 Lite Nova 4e</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.15&quot; display</div><div class="spec">Kirin 710</div><div class="spec">6 GB RAM</div><div class="spec">3340 mAh</div>
+<div class="spec">6.15&quot; display · Kirin 710 · 6 GB RAM · 3340 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-p30-lite-nova-4e.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-p30-lite-nova-4e">Compare</a></div>
+</div></div><div class="card" data-name="huawei y6ii huawei smartphones" data-brand="Huawei" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/huawei-y6ii/main-card.webp"><img class="cardimg" src="img/huawei-y6ii/main-card.jpg" alt="Huawei Y6II" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-y6ii.html">Huawei Y6II</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.5&quot; display</div><div class="spec">Kirin 620</div><div class="spec">2 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">5.5&quot; display · Kirin 620 · 2 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-y6ii.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-y6ii">Compare</a></div>
+</div></div><div class="card" data-name="infinix smart 20e infinix smartphones" data-brand="Infinix" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/infinix-smart-20e/main-card.webp"><img class="cardimg" src="img/infinix-smart-20e/main-card.jpg" alt="Infinix Smart 20e" width="360" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-smart-20e.html">Infinix Smart 20e</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.75&quot; display</div><div class="spec">Unisoc T7250</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.75&quot; display · Unisoc T7250 · 4 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-smart-20e.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-smart-20e">Compare</a></div>
+</div></div><div class="card" data-name="intex aqua fish intex smartphones" data-brand="Intex" data-price="14999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/intex-aqua-fish/main-card.webp"><img class="cardimg" src="img/intex-aqua-fish/main-card.jpg" alt="Intex Aqua Fish" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/intex-aqua-fish.html">Intex Aqua Fish</a></p>
+<div class="price"><span class="prc" data-pkr="14999"><b class="pkrv">Rs 14,999</b> <span class="usdv">$54</span></span><span class="plabel">Estimated price</span></div><div class="spec">5&quot; display</div><div class="spec">Quad-core</div><div class="spec">2 GB RAM</div><div class="spec">2500 mAh</div>
+<div class="spec">5&quot; display · Quad-core · 2 GB RAM · 2500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/intex-aqua-fish.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=intex-aqua-fish">Compare</a></div>
+</div></div><div class="card" data-name="itel a06s itel smartphones" data-brand="Itel" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/itel-a06s/main-card.webp"><img class="cardimg" src="img/itel-a06s/main-card.jpg" alt="Itel A06s" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/itel-a06s.html">Itel A06s</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.5&quot; display</div><div class="spec">Quad-core</div><div class="spec">2 / 4 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.5&quot; display · Quad-core · 2 / 4 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/itel-a06s.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=itel-a06s">Compare</a></div>
+</div></div><div class="card" data-name="lg g3 beat lg smartphones" data-brand="LG" data-price="18999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/lg-g3-beat/main-card.webp"><img class="cardimg" src="img/lg-g3-beat/main-card.jpg" alt="LG G3 Beat" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/lg-g3-beat.html">LG G3 Beat</a></p>
+<div class="price"><span class="prc" data-pkr="18999"><b class="pkrv">Rs 18,999</b> <span class="usdv">$69</span></span><span class="plabel">Estimated price</span></div><div class="spec">5&quot; display</div><div class="spec">Quad-core</div><div class="spec">1 GB RAM</div><div class="spec">2540 mAh</div>
+<div class="spec">5&quot; display · Quad-core · 1 GB RAM · 2540 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/lg-g3-beat.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=lg-g3-beat">Compare</a></div>
+</div></div><div class="card" data-name="lg k7i lg smartphones" data-brand="LG" data-price="12999" data-year="0">
+
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/lg-k7i.html">LG K7i</a></p>
+<div class="price"><span class="prc" data-pkr="12999"><b class="pkrv">Rs 12,999</b> <span class="usdv">$47</span></span><span class="plabel">Estimated price</span></div><div class="spec">5&quot; display</div><div class="spec">Quad-core</div><div class="spec">2 GB RAM</div><div class="spec">2500 mAh</div>
+<div class="spec">5&quot; display · Quad-core · 2 GB RAM · 2500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/lg-k7i.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=lg-k7i">Compare</a></div>
+</div></div><div class="card" data-name="lg q stylus+ lg smartphones" data-brand="LG" data-price="52999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/lg-q-stylus+/main-card.webp"><img class="cardimg" src="img/lg-q-stylus+/main-card.jpg" alt="LG Q STYLUS+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/lg-q-stylus+.html">LG Q STYLUS+</a></p>
+<div class="price"><span class="prc" data-pkr="52999"><b class="pkrv">Rs 52,999</b> <span class="usdv">$192</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.2&quot; display</div><div class="spec">Octa-core</div><div class="spec">4 GB RAM</div><div class="spec">3300 mAh</div>
+<div class="spec">6.2&quot; display · Octa-core · 4 GB RAM · 3300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/lg-q-stylus+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=lg-q-stylus+">Compare</a></div>
+</div></div><div class="card" data-name="lg q6+ lg smartphones" data-brand="LG" data-price="30999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/lg-q6+/main-card.webp"><img class="cardimg" src="img/lg-q6+/main-card.jpg" alt="LG Q6+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/lg-q6+.html">LG Q6+</a></p>
+<div class="price"><span class="prc" data-pkr="30999"><b class="pkrv">Rs 30,999</b> <span class="usdv">$112</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Octa-core</div><div class="spec">4 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">5.5&quot; display · Octa-core · 4 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/lg-q6+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=lg-q6+">Compare</a></div>
+</div></div><div class="card" data-name="lg velvet 2 pro lg smartphones" data-brand="LG" data-price="155999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/lg-velvet-2-pro/main-card.webp"><img class="cardimg" src="img/lg-velvet-2-pro/main-card.jpg" alt="LG Velvet 2 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/lg-velvet-2-pro.html">LG Velvet 2 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="155999"><b class="pkrv">Rs 155,999</b> <span class="usdv">$564</span></span><span class="plabel">Estimated price</span></div><div class="spec">Qualcomm Snapdragon 765G</div><div class="spec">6 GB RAM</div><div class="spec">4300 mAh</div>
+<div class="spec">Qualcomm Snapdragon 765G · 6 GB RAM · 4300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/lg-velvet-2-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=lg-velvet-2-pro">Compare</a></div>
+</div></div><div class="card" data-name="lava agni 4 lava smartphones" data-brand="Lava" data-price="77999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/lava-agni-4/main-card.webp"><img class="cardimg" src="img/lava-agni-4/main-card.jpg" alt="Lava Agni 4" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/lava-agni-4.html">Lava Agni 4</a></p>
+<div class="price"><span class="prc" data-pkr="77999"><b class="pkrv">Rs 77,999</b> <span class="usdv">$282</span></span><span class="plabel">Estimated price</span></div><div class="spec">Mediatek Dimensity 8350</div><div class="spec">8 GB RAM</div><div class="spec">7000 mAh</div>
+<div class="spec">Mediatek Dimensity 8350 · 8 GB RAM · 7000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/lava-agni-4.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=lava-agni-4">Compare</a></div>
+</div></div><div class="card" data-name="lava yuva smart 2 lava smartphones" data-brand="Lava" data-price="19999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/lava-yuva-smart-2/main-card.webp"><img class="cardimg" src="img/lava-yuva-smart-2/main-card.jpg" alt="Lava Yuva Smart 2" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/lava-yuva-smart-2.html">Lava Yuva Smart 2</a></p>
+<div class="price"><span class="prc" data-pkr="19999"><b class="pkrv">Rs 19,999</b> <span class="usdv">$72</span></span><span class="plabel">Estimated price</span></div><div class="spec">Unisoc 98663a</div><div class="spec">3 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">Unisoc 98663a · 3 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/lava-yuva-smart-2.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=lava-yuva-smart-2">Compare</a></div>
+</div></div><div class="card" data-name="motorola edge 70 pro motorola smartphones" data-brand="Motorola" data-price="99999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/motorola-edge-70-pro/main-card.webp"><img class="cardimg" src="img/motorola-edge-70-pro/main-card.jpg" alt="Motorola Edge 70 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-edge-70-pro.html">Motorola Edge 70 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="99999"><b class="pkrv">Rs 99,999</b> <span class="usdv">$361</span></span><span class="plabel">Estimated price</span></div><div class="spec">Octa Core Processor</div><div class="spec">8 GB RAM</div><div class="spec">6500 mAh</div>
+<div class="spec">Octa Core Processor · 8 GB RAM · 6500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-edge-70-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-edge-70-pro">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto e 2nd gen 4g motorola smartphones" data-brand="Motorola" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/motorola-moto-e-2nd-gen-4g/main-card.webp"><img class="cardimg" src="img/motorola-moto-e-2nd-gen-4g/main-card.jpg" alt="Motorola Moto E 2nd Gen 4G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-moto-e-2nd-gen-4g.html">Motorola Moto E 2nd Gen 4G</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">4.5&quot; display</div><div class="spec">Snapdragon 410</div><div class="spec">1 GB RAM</div><div class="spec">2390 mAh</div>
+<div class="spec">4.5&quot; display · Snapdragon 410 · 1 GB RAM · 2390 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-moto-e-2nd-gen-4g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-moto-e-2nd-gen-4g">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto g turbo edition motorola smartphones" data-brand="Motorola" data-price="52999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/motorola-moto-g-turbo-edition/main-card.webp"><img class="cardimg" src="img/motorola-moto-g-turbo-edition/main-card.jpg" alt="Motorola Moto G Turbo Edition" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-moto-g-turbo-edition.html">Motorola Moto G Turbo Edition</a></p>
+<div class="price"><span class="prc" data-pkr="52999"><b class="pkrv">Rs 52,999</b> <span class="usdv">$192</span></span><span class="plabel">Estimated price</span></div><div class="spec">5&quot; display</div><div class="spec">Octa-core</div><div class="spec">2 GB RAM</div><div class="spec">2470 mAh</div>
+<div class="spec">5&quot; display · Octa-core · 2 GB RAM · 2470 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-moto-g-turbo-edition.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-moto-g-turbo-edition">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto g47 motorola smartphones" data-brand="Motorola" data-price="46999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/motorola-moto-g47/main-card.webp"><img class="cardimg" src="img/motorola-moto-g47/main-card.jpg" alt="Motorola Moto G47" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-moto-g47.html">Motorola Moto G47</a></p>
+<div class="price"><span class="prc" data-pkr="46999"><b class="pkrv">Rs 46,999</b> <span class="usdv">$170</span></span><span class="plabel">Estimated price</span></div><div class="spec">Octa Core Processor</div><div class="spec">8 GB RAM</div><div class="spec">5200 mAh</div>
+<div class="spec">Octa Core Processor · 8 GB RAM · 5200 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-moto-g47.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-moto-g47">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto x5 motorola smartphones" data-brand="Motorola" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/motorola-moto-x5/main-card.webp"><img class="cardimg" src="img/motorola-moto-x5/main-card.jpg" alt="Motorola Moto X5" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-moto-x5.html">Motorola Moto X5</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.9&quot; display</div><div class="spec">Octa-core</div><div class="spec">4 GB RAM</div><div class="spec">3300 mAh</div>
+<div class="spec">5.9&quot; display · Octa-core · 4 GB RAM · 3300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-moto-x5.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-moto-x5">Compare</a></div>
+</div></div><div class="card" data-name="motorola razr 2023 motorola smartphones" data-brand="Motorola" data-price="405999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/motorola-razr-2023/main-card.webp"><img class="cardimg" src="img/motorola-razr-2023/main-card.jpg" alt="Motorola Razr 2023" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-razr-2023.html">Motorola Razr 2023</a></p>
+<div class="price"><span class="prc" data-pkr="405999"><b class="pkrv">Rs 405,999</b> <span class="usdv">$1,467</span></span><span class="plabel">Estimated price</span></div><div class="spec">Qualcomm Snapdragon 8 Gen2</div><div class="spec">12 GB RAM</div><div class="spec">3500 mAh</div>
+<div class="spec">Qualcomm Snapdragon 8 Gen2 · 12 GB RAM · 3500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-razr-2023.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-razr-2023">Compare</a></div>
+</div></div><div class="card" data-name="motorola razr+ 2023 motorola smartphones" data-brand="Motorola" data-price="249999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/motorola-razr+-2023/main-card.webp"><img class="cardimg" src="img/motorola-razr+-2023/main-card.jpg" alt="Motorola Razr+ 2023" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-razr+-2023.html">Motorola Razr+ 2023</a></p>
+<div class="price"><span class="prc" data-pkr="249999"><b class="pkrv">Rs 249,999</b> <span class="usdv">$904</span></span><span class="plabel">Estimated price</span></div><div class="spec">Qualcomm Snapdragon 8+ Gen1</div><div class="spec">8 GB RAM</div><div class="spec">3800 mAh</div>
+<div class="spec">Qualcomm Snapdragon 8+ Gen1 · 8 GB RAM · 3800 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-razr+-2023.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-razr+-2023">Compare</a></div>
+</div></div><div class="card" data-name="nubia z80 ultra nubia smartphones" data-brand="Nubia" data-price="186999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/nubia-z80-ultra/main-card.webp"><img class="cardimg" src="img/nubia-z80-ultra/main-card.jpg" alt="Nubia Z80 Ultra" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/nubia-z80-ultra.html">Nubia Z80 Ultra</a></p>
+<div class="price"><span class="prc" data-pkr="186999"><b class="pkrv">Rs 186,999</b> <span class="usdv">$676</span></span><span class="plabel">Estimated price</span></div><div class="spec">Qualcomm Snapdragon 8 Elite Gen 5</div><div class="spec">12 GB RAM</div><div class="spec">7100 mAh</div>
+<div class="spec">Qualcomm Snapdragon 8 Elite Gen 5 · 12 GB RAM · 7100 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/nubia-z80-ultra.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=nubia-z80-ultra">Compare</a></div>
+</div></div><div class="card" data-name="oppo a1 energy edition oppo smartphones" data-brand="Oppo" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/oppo-a1-energy-edition/main-card.webp"><img class="cardimg" src="img/oppo-a1-energy-edition/main-card.jpg" alt="Oppo A1 Energy Edition" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-a1-energy-edition.html">Oppo A1 Energy Edition</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.56&quot; display</div><div class="spec">MediaTek Dimensity 6020</div><div class="spec">12 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.56&quot; display · MediaTek Dimensity 6020 · 12 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-a1-energy-edition.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-a1-energy-edition">Compare</a></div>
+</div></div><div class="card" data-name="oppo a3-a40m oppo smartphones" data-brand="Oppo" data-price="" data-year="0">
+
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-a3-a40m.html">Oppo A3-A40M</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.67&quot; display</div><div class="spec">Snapdragon 6s 4G Gen 1</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5100 mAh</div>
+<div class="spec">6.67&quot; display · Snapdragon 6s 4G Gen 1 · 6 / 8 GB RAM · 5100 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-a3-a40m.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-a3-a40m">Compare</a></div>
+</div></div><div class="card" data-name="oppo a5 energy oppo smartphones" data-brand="Oppo" data-price="55999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/oppo-a5-energy/main-card.webp"><img class="cardimg" src="img/oppo-a5-energy/main-card.jpg" alt="Oppo A5 Energy" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-a5-energy.html">Oppo A5 Energy</a></p>
+<div class="price"><span class="prc" data-pkr="55999"><b class="pkrv">Rs 55,999</b> <span class="usdv">$202</span></span><span class="plabel">Estimated price</span></div><div class="spec">Mediatek Dimensity 6300</div><div class="spec">8 GB RAM</div><div class="spec">5800 mAh</div>
+<div class="spec">Mediatek Dimensity 6300 · 8 GB RAM · 5800 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-a5-energy.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-a5-energy">Compare</a></div>
+</div></div><div class="card" data-name="oppo a5i oppo smartphones" data-brand="Oppo" data-price="40999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/oppo-a5i/main-card.webp"><img class="cardimg" src="img/oppo-a5i/main-card.jpg" alt="Oppo A5i" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-a5i.html">Oppo A5i</a></p>
+<div class="price"><span class="prc" data-pkr="40999"><b class="pkrv">Rs 40,999</b> <span class="usdv">$148</span></span><span class="plabel">Estimated price</span></div><div class="spec">Qualcomm Snapdragon 6s Gen 1</div><div class="spec">8 GB RAM</div><div class="spec">5100 mAh</div>
+<div class="spec">Qualcomm Snapdragon 6s Gen 1 · 8 GB RAM · 5100 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-a5i.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-a5i">Compare</a></div>
+</div></div><div class="card" data-name="oppo ax7 oppo smartphones" data-brand="Oppo" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/oppo-ax7/main-card.webp"><img class="cardimg" src="img/oppo-ax7/main-card.jpg" alt="Oppo Ax7" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-ax7.html">Oppo Ax7</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.2&quot; display</div><div class="spec">Qualcomm Snapdragon 450</div><div class="spec">4 GB RAM</div><div class="spec">4230 mAh</div>
+<div class="spec">6.2&quot; display · Qualcomm Snapdragon 450 · 4 GB RAM · 4230 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-ax7.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-ax7">Compare</a></div>
+</div></div><div class="card" data-name="oppo r1 oppo smartphones" data-brand="Oppo" data-price="36999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/oppo-r1/main-card.webp"><img class="cardimg" src="img/oppo-r1/main-card.jpg" alt="Oppo R1" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-r1.html">Oppo R1</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">5&quot; display</div><div class="spec">Quad-core</div><div class="spec">1 GB RAM</div><div class="spec">2410 mAh</div>
+<div class="spec">5&quot; display · Quad-core · 1 GB RAM · 2410 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-r1.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-r1">Compare</a></div>
+</div></div><div class="card" data-name="oppo r17 pro oppo smartphones" data-brand="Oppo" data-price="65999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/oppo-r17-pro/main-card.webp"><img class="cardimg" src="img/oppo-r17-pro/main-card.jpg" alt="Oppo R17 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-r17-pro.html">Oppo R17 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="65999"><b class="pkrv">Rs 65,999</b> <span class="usdv">$239</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.4&quot; display</div><div class="spec">Octa-core</div><div class="spec">8 GB RAM</div><div class="spec">3700 mAh</div>
+<div class="spec">6.4&quot; display · Octa-core · 8 GB RAM · 3700 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-r17-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-r17-pro">Compare</a></div>
+</div></div><div class="card" data-name="oppo reno13 f oppo smartphones" data-brand="Oppo" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/oppo-reno13-f/main-card.webp"><img class="cardimg" src="img/oppo-reno13-f/main-card.jpg" alt="Oppo Reno13 F" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-reno13-f.html">Oppo Reno13 F</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.67&quot; display</div><div class="spec">Qualcomm Snapdragon 6 Gen 1</div><div class="spec">8 / 12 GB RAM</div><div class="spec">5800 mAh</div>
+<div class="spec">6.67&quot; display · Qualcomm Snapdragon 6 Gen 1 · 8 / 12 GB RAM · 5800 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-reno13-f.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-reno13-f">Compare</a></div>
+</div></div><div class="card" data-name="oukitel c15 pro oukitel smartphones" data-brand="Oukitel" data-price="21999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/oukitel-c15-pro/main-card.webp"><img class="cardimg" src="img/oukitel-c15-pro/main-card.jpg" alt="Oukitel C15 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oukitel-c15-pro.html">Oukitel C15 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="21999"><b class="pkrv">Rs 21,999</b> <span class="usdv">$80</span></span><span class="plabel">Estimated price</span></div><div class="spec">Mediatek Helio A22</div><div class="spec">2 GB RAM</div><div class="spec">3200 mAh</div>
+<div class="spec">Mediatek Helio A22 · 2 GB RAM · 3200 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oukitel-c15-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oukitel-c15-pro">Compare</a></div>
+</div></div><div class="card" data-name="oukitel u18 oukitel smartphones" data-brand="Oukitel" data-price="26999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/oukitel-u18/main-card.webp"><img class="cardimg" src="img/oukitel-u18/main-card.jpg" alt="Oukitel U18" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oukitel-u18.html">Oukitel U18</a></p>
+<div class="price"><span class="prc" data-pkr="26999"><b class="pkrv">Rs 26,999</b> <span class="usdv">$98</span></span><span class="plabel">Estimated price</span></div><div class="spec">MediaTek Helio MT6750T</div><div class="spec">4 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">MediaTek Helio MT6750T · 4 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oukitel-u18.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oukitel-u18">Compare</a></div>
+</div></div><div class="card" data-name="oukitel u22 oukitel smartphones" data-brand="Oukitel" data-price="15999" data-year="0">
+
+<div class="cardph">📱</div>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oukitel-u22.html">Oukitel U22</a></p>
+<div class="price"><span class="prc" data-pkr="15999"><b class="pkrv">Rs 15,999</b> <span class="usdv">$58</span></span><span class="plabel">Estimated price</span></div><div class="spec">MediaTek Helio MT6580</div><div class="spec">2 GB RAM</div><div class="spec">2700 mAh</div>
+<div class="spec">MediaTek Helio MT6580 · 2 GB RAM · 2700 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oukitel-u22.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oukitel-u22">Compare</a></div>
+</div></div><div class="card" data-name="oukitel wp20 pro oukitel smartphones" data-brand="Oukitel" data-price="50999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/oukitel-wp20-pro/main-card.webp"><img class="cardimg" src="img/oukitel-wp20-pro/main-card.jpg" alt="Oukitel Wp20 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oukitel-wp20-pro.html">Oukitel Wp20 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="50999"><b class="pkrv">Rs 50,999</b> <span class="usdv">$184</span></span><span class="plabel">Estimated price</span></div><div class="spec">MediaTek Helio A22</div><div class="spec">4 GB RAM</div><div class="spec">6300 mAh</div>
+<div class="spec">MediaTek Helio A22 · 4 GB RAM · 6300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oukitel-wp20-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oukitel-wp20-pro">Compare</a></div>
+</div></div><div class="card" data-name="oukitel wp5 oukitel smartphones" data-brand="Oukitel" data-price="50999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/oukitel-wp5/main-card.webp"><img class="cardimg" src="img/oukitel-wp5/main-card.jpg" alt="Oukitel Wp5" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oukitel-wp5.html">Oukitel Wp5</a></p>
+<div class="price"><span class="prc" data-pkr="50999"><b class="pkrv">Rs 50,999</b> <span class="usdv">$184</span></span><span class="plabel">Estimated price</span></div><div class="spec">MediaTek Helio MT6761</div><div class="spec">4 GB RAM</div><div class="spec">8300 mAh</div>
+<div class="spec">MediaTek Helio MT6761 · 4 GB RAM · 8300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oukitel-wp5.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oukitel-wp5">Compare</a></div>
+</div></div><div class="card" data-name="oukitel wp5 pro oukitel smartphones" data-brand="Oukitel" data-price="46999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/oukitel-wp5-pro/main-card.webp"><img class="cardimg" src="img/oukitel-wp5-pro/main-card.jpg" alt="Oukitel Wp5 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oukitel-wp5-pro.html">Oukitel Wp5 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="46999"><b class="pkrv">Rs 46,999</b> <span class="usdv">$170</span></span><span class="plabel">Estimated price</span></div><div class="spec">Mediatek Helio P22</div><div class="spec">4 GB RAM</div><div class="spec">8000 mAh</div>
+<div class="spec">Mediatek Helio P22 · 4 GB RAM · 8000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oukitel-wp5-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oukitel-wp5-pro">Compare</a></div>
+</div></div><div class="card" data-name="poco f8 pro poco smartphones" data-brand="Poco" data-price="139999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/poco-f8-pro/main-card.webp"><img class="cardimg" src="img/poco-f8-pro/main-card.jpg" alt="Poco F8 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/poco-f8-pro.html">Poco F8 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="139999"><b class="pkrv">Rs 139,999</b> <span class="usdv">$506</span></span><span class="plabel">Estimated price</span></div><div class="spec">Qualcomm Snapdragon 8 Elite</div><div class="spec">12 GB RAM</div><div class="spec">7000 mAh</div>
+<div class="spec">Qualcomm Snapdragon 8 Elite · 12 GB RAM · 7000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/poco-f8-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=poco-f8-pro">Compare</a></div>
+</div></div><div class="card" data-name="poco m8 pro 5g poco smartphones" data-brand="Poco" data-price="55999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/poco-m8-pro-5g/main-card.webp"><img class="cardimg" src="img/poco-m8-pro-5g/main-card.jpg" alt="Poco M8 Pro 5G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/poco-m8-pro-5g.html">Poco M8 Pro 5G</a></p>
+<div class="price"><span class="prc" data-pkr="55999"><b class="pkrv">Rs 55,999</b> <span class="usdv">$202</span></span><span class="plabel">Estimated price</span></div><div class="spec">Mediatek Dimensity 7300</div><div class="spec">6 GB RAM</div><div class="spec">5500 mAh</div>
+<div class="spec">Mediatek Dimensity 7300 · 6 GB RAM · 5500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/poco-m8-pro-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=poco-m8-pro-5g">Compare</a></div>
+</div></div><div class="card" data-name="realme c100 4g realme smartphones" data-brand="Realme" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/realme-c100-4g/main-card.webp"><img class="cardimg" src="img/realme-c100-4g/main-card.jpg" alt="Realme C100 4G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/realme-c100-4g.html">Realme C100 4G</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.8&quot; display</div><div class="spec">MediaTek Helio G92 Max</div><div class="spec">8 GB RAM</div><div class="spec">8000 mAh</div>
+<div class="spec">6.8&quot; display · MediaTek Helio G92 Max · 8 GB RAM · 8000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/realme-c100-4g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=realme-c100-4g">Compare</a></div>
+</div></div><div class="card" data-name="realme note 80 realme smartphones" data-brand="Realme" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/realme-note-80/main-card.webp"><img class="cardimg" src="img/realme-note-80/main-card.jpg" alt="Realme Note 80" width="363" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/realme-note-80.html">Realme Note 80</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.74&quot; display</div><div class="spec">Unisoc T7250</div><div class="spec">4 GB RAM</div><div class="spec">6300 mAh</div>
+<div class="spec">6.74&quot; display · Unisoc T7250 · 4 GB RAM · 6300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/realme-note-80.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=realme-note-80">Compare</a></div>
+</div></div><div class="card" data-name="realme p4r 5g realme smartphones" data-brand="Realme" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/realme-p4r-5g/main-card.webp"><img class="cardimg" src="img/realme-p4r-5g/main-card.jpg" alt="Realme P4r 5G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/realme-p4r-5g.html">Realme P4r 5G</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.81&quot; display</div><div class="spec">Dimensity 6300</div><div class="spec">6 GB RAM</div><div class="spec">8000 mAh</div>
+<div class="spec">6.81&quot; display · Dimensity 6300 · 6 GB RAM · 8000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/realme-p4r-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=realme-p4r-5g">Compare</a></div>
+</div></div><div class="card" data-name="redmi note 15 pro redmi smartphones" data-brand="Redmi" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="img/redmi-note-15-pro/main-card.webp"><img class="cardimg" src="img/redmi-note-15-pro/main-card.jpg" alt="Redmi Note 15 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/redmi-note-15-pro.html">Redmi Note 15 Pro</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.77&quot; display</div><div class="spec">MediaTek Helio G200 Ultra</div><div class="spec">8 / 12 GB RAM</div><div class="spec">6500 mAh</div>
+<div class="spec">6.77&quot; display · MediaTek Helio G200 Ultra · 8 / 12 GB RAM · 6500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/redmi-note-15-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=redmi-note-15-pro">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy a5 3g samsung smartphones" data-brand="Samsung" data-price="" data-year="0">
 
 <picture><source type="image/webp" srcset="img/samsung-galaxy-a5-3g/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a5-3g/main-card.jpg" alt="Samsung Galaxy A5 3g" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">

@@ -1,14 +1,4 @@
-<div class="card" data-name="blackview bv6600e blackview smartphones" data-brand="Blackview" data-price="45999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/blackview-bv6600e/main-card.webp"><img class="cardimg" src="img/blackview-bv6600e/main-card.jpg" alt="Blackview BV6600E" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/blackview-bv6600e.html">Blackview BV6600E</a></p>
-<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Unisoc SC9863A</div><div class="spec">4 GB RAM</div><div class="spec">8580 mAh</div>
-<div class="spec">5.7&quot; display · Unisoc SC9863A · 4 GB RAM · 8580 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/blackview-bv6600e.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=blackview-bv6600e">Compare</a></div>
-</div></div><div class="card" data-name="microsoft lumia 650 microsoft smartphones" data-brand="Microsoft" data-price="45999" data-year="2016">
+<div class="card" data-name="microsoft lumia 650 microsoft smartphones" data-brand="Microsoft" data-price="45999" data-year="2016">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/microsoft-lumia-650/main-card.webp"><img class="cardimg" src="img/microsoft-lumia-650/main-card.jpg" alt="Microsoft Lumia 650" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -478,6 +468,16 @@
 <div class="spec">6.74&quot; display · Unisoc T7225 · 4 GB RAM · 5500 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/vivo-t5e.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=vivo-t5e">Compare</a></div>
+</div></div><div class="card" data-name="infinix hot 20i infinix smartphones" data-brand="Infinix" data-price="47499" data-year="2022">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/infinix-hot-20i/main-card.webp"><img class="cardimg" src="img/infinix-hot-20i/main-card.jpg" alt="Infinix Hot 20i" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-hot-20i.html">Infinix Hot 20i</a></p>
+<div class="price"><span class="prc" data-pkr="47499"><b class="pkrv">Rs 47,499</b> <span class="usdv">$172</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.6&quot; display</div><div class="spec">Mediatek MT6762G Helio G25</div><div class="spec">2 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.6&quot; display · Mediatek MT6762G Helio G25 · 2 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-hot-20i.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-hot-20i">Compare</a></div>
 </div></div><div class="card" data-name="tecno pop x tecno smartphones" data-brand="Tecno" data-price="47999" data-year="2026">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/tecno-pop-x-5g/main-card.webp"><img class="cardimg" src="img/tecno-pop-x-5g/main-card.jpg" alt="Tecno Pop X" width="480" height="480" loading="lazy"></picture>
@@ -498,6 +498,16 @@
 <div class="spec">6.75&quot; display · Unisoc T7250 · 4 GB RAM · 7000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/realme-p4s-lite.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=realme-p4s-lite">Compare</a></div>
+</div></div><div class="card" data-name="honor x6e honor smartphones" data-brand="Honor" data-price="47999" data-year="2026">
+<span class="badge cont">Continued</span>
+<img class="cardimg" src="img/honor-x6e/main.jpg" alt="Honor X6e" width="160" height="212" loading="lazy">
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-x6e.html">Honor X6e</a></p>
+<div class="price"><span class="prc" data-pkr="47999"><b class="pkrv">Rs 47,999</b> <span class="usdv">$173</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.61&quot; display</div><div class="spec">Mediatek Helio G81 Ultra</div><div class="spec">4 GB RAM</div><div class="spec">7500 mAh</div>
+<div class="spec">6.61&quot; display · Mediatek Helio G81 Ultra · 4 GB RAM · 7500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/honor-x6e.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-x6e">Compare</a></div>
 </div></div><div class="card" data-name="samsung galaxy a07 samsung smartphones" data-brand="Samsung" data-price="47999" data-year="2025">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/samsung-galaxy-a07/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-a07/main-card.jpg" alt="Samsung Galaxy A07" width="480" height="480" loading="lazy"></picture>
@@ -1688,6 +1698,16 @@
 <div class="spec">6.67&quot; display · Mediatek Helio G99 · 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/infinix-note-30-pro.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=infinix-note-30-pro">Compare</a></div>
+</div></div><div class="card" data-name="cubot kingkong dura cubot smartphones" data-brand="Cubot" data-price="52999" data-year="2026">
+<span class="badge cont">Continued</span>
+<img class="cardimg" src="img/cubot-kingkong-dura/main.jpg" alt="Cubot KingKong Dura" width="160" height="212" loading="lazy">
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/cubot-kingkong-dura.html">Cubot KingKong Dura</a></p>
+<div class="price"><span class="prc" data-pkr="52999"><b class="pkrv">Rs 52,999</b> <span class="usdv">$192</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.88&quot; display</div><div class="spec">Unisoc T620</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.88&quot; display · Unisoc T620 · 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/cubot-kingkong-dura.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=cubot-kingkong-dura">Compare</a></div>
 </div></div><div class="card" data-name="samsung galaxy m12 samsung smartphones" data-brand="Samsung" data-price="52999" data-year="2021">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/samsung-galaxy-m12/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-m12/main-card.jpg" alt="Samsung Galaxy M12" width="480" height="480" loading="lazy"></picture>
@@ -2428,6 +2448,16 @@
 <div class="spec">6.78&quot; display · Mediatek Dimensity 1080Mediate · 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/infinix-zero-5g-2023.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=infinix-zero-5g-2023">Compare</a></div>
+</div></div><div class="card" data-name="infinix note 12 g96 infinix smartphones" data-brand="Infinix" data-price="54999" data-year="2022">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/infinix-note-12-g96/main-card.webp"><img class="cardimg" src="img/infinix-note-12-g96/main-card.jpg" alt="Infinix Note 12 G96" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/infinix-note-12-g96.html">Infinix Note 12 G96</a></p>
+<div class="price"><span class="prc" data-pkr="54999"><b class="pkrv">Rs 54,999</b> <span class="usdv">$199</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.7&quot; display</div><div class="spec">Mediatek MT6781 Helio G96</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.7&quot; display · Mediatek MT6781 Helio G96 · 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/infinix-note-12-g96.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=infinix-note-12-g96">Compare</a></div>
 </div></div><div class="card" data-name="infinix note 12 infinix smartphones" data-brand="Infinix" data-price="54999" data-year="2022">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/infinix-note-12/main-card.webp"><img class="cardimg" src="img/infinix-note-12/main-card.jpg" alt="Infinix Note 12" width="480" height="480" loading="lazy"></picture>

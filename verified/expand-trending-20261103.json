@@ -3,18 +3,22 @@
   "brand": "Oppo",
   "cat": "Smartphones",
   "hl": [
-   "6.32\" AMOLED 120Hz",
-   "Dimensity 8550 Super",
-   "12/16 GB RAM",
-   "7000 mAh"
+   "6.32\" display",
+   "Mediatek Dimensity 8550 Super",
+   "8 GB RAM",
+   "7250 mAh"
   ],
   "name": "Oppo Reno17 Pro (China)",
-  "price": null,
+  "price": 207999,
   "price_src": "approx",
   "rows": [
    [
     "Launch Year",
-    "2026 (not announced yet — Rumored; expected release November 2026, China)"
+    "2026 (announced 2026, November 16)"
+   ],
+   [
+    "Region",
+    "China"
    ],
    [
     "Network",
@@ -22,11 +26,11 @@
    ],
    [
     "Body",
-    "Glass front, aluminum frame; Nano-SIM + Nano-SIM; IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+    "151.2 x 72.4 x 8.3 mm (5.95 x 2.85 x 0.33 in); 192 g (6.77 oz); Glass front, aluminum frame; Nano-SIM + Nano-SIM; IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
    ],
    [
     "Display",
-    "AMOLED, 1B colors, 120Hz, 3840Hz PWM; 6.32 inches, 97.9 cm2; 1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density)"
+    "AMOLED, 1B colors, 120Hz, 3840Hz PWM, 800 nits (typ), 1800 nits (HBM), 3600 nits (peak); 6.32 inches, 97.9 cm2 (~89.5% screen-to-body ratio); 1216 x 2640 pixels, 19.5:9 ratio (~460 ppi density); Crystal Shield Glass"
    ],
    [
     "OS",
@@ -38,7 +42,7 @@
    ],
    [
     "RAM",
-    "12 GB / 16 GB"
+    "8 GB / 12 GB"
    ],
    [
     "Storage",
@@ -46,7 +50,7 @@
    ],
    [
     "Main Camera",
-    "200 MP, f/1.8, 24mm (wide), PDAF, gimbal OIS 50 MP, f/2.8, 80mm (telephoto), PDAF, OIS, 3.5x optical zoom 50 MP, f/2.0, 16mm, 116˚ (ultrawide), AF; Color spectrum sensor, Multi-focus LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, HDR"
+    "200 MP, f/1.8, 24mm (wide), 1/1.56\", PDAF, OIS 50 MP, f/2.8, 80mm (telephoto), PDAF, OIS, 3.5x optical zoom 50 MP, f/2.0, 16mm, 116˚ (ultrawide), AF; Color spectrum sensor, Multi-focus LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120/240fps, gyro-EIS, HDR"
    ],
    [
     "Selfie Camera",
@@ -66,7 +70,7 @@
    ],
    [
     "Wi-Fi",
-    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
    ],
    [
     "Bluetooth",
@@ -74,10 +78,14 @@
    ],
    [
     "GPS",
-    "GPS (L1+L5), GALILEO (E1+E5a+E5b), QZSS (L1+L5), BDS (B1l+B1C+B2a+B2b), GLONASS, NavIC (L5)"
+    "GPS (L1+L5), BDS (B1I+B1C+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS, NavIC (L5)"
    ],
    [
     "NFC",
+    "Yes"
+   ],
+   [
+    "Infrared port",
     "Yes"
    ],
    [
@@ -90,11 +98,11 @@
    ],
    [
     "Battery",
-    "7000 mAh"
+    "Si/C Li-Ion 7250 mAh"
    ],
    [
     "Charging",
-    "80W wired, 55W PPS, 44W UFCS, 13.5W PD 50W wireless Reverse wired Bypass charging"
+    "80W wired, 55W PPS, 44W/80W UFCS, 13.5W PD Reverse wired"
    ],
    [
     "Colors",
@@ -103,7 +111,7 @@
   ],
   "slug": "oppo-reno17-pro-5g-(china)",
   "source": "https://www.gsmarena.com/oppo_reno17_pro_5g_(china)-15024.php",
-  "tag": "Upcoming — expected Nov 2026: 200MP gimbal camera, Dimensity 8550 Super aur 7000 mAh battery wala rumored Reno flagship",
+  "tag": "6.32\" display · Mediatek Dimensity 8550 Super · 8 GB RAM · 7250 mAh",
   "year": 2026
  }
 ]

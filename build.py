@@ -191,7 +191,7 @@ EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide
     "huawei-nova-15-5g", "huawei-nova-15-pro-5g", "huawei-nova-15-ultra-5g",
     "oneplus-pad-lite", "oneplus-pad-3", "oneplus-ace-5-racing-5g", "huawei-mate-x7-5g",
     "google-pixel-10-pro-xl-5g", "nothing-phone-3-5g", "realme-gt-8-pro-5g-(china)",
-    "vivo-iqoo-15t-5g", "oppo-reno16-pro-5g-(china)", "infinix-gt-30-5g",
+    "vivo-iqoo-15t-5g", "oppo-reno16-pro-5g-(china)", "oppo-reno17-5g-(china)", "oppo-reno17-pro-5g-(china)", "infinix-gt-30-5g",
     "apple-ipad-pro-12-9-(2022)", "nothing-phone-3a-pro-5g",
     "hmd-pulse", "motorola-edge-70",
     # batch C 2026-11-09: RedMagic 12 Pro — global launch 3 Nov 2026 at the

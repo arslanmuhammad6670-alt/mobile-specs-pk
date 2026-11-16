@@ -1,0 +1,117 @@
+[
+ {
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.56\" display",
+   "Qualcomm Snapdragon 7 Gen 4",
+   "8 GB RAM",
+   "8000 mAh"
+  ],
+  "name": "Oppo Reno17 (China)",
+  "price": 157999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, November 16)"
+   ],
+   [
+    "Region",
+    "China"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "157.6 x 75.3 x 8.3 mm (6.21 x 2.96 x 0.33 in); 206 g (7.27 oz); Nano-SIM + Nano-SIM; IP69K dust/water resistant"
+   ],
+   [
+    "Display",
+    "AMOLED, 1B colors, 120Hz, 3840Hz PWM, 800 nits (typ), 1800 nits (HBM), 3600 nits (peak); 6.56 inches, 105.4 cm2; 1208 x 2624 pixels, 19.5:9 ratio (~440 ppi density)"
+   ],
+   [
+    "OS",
+    "Android 17, ColorOS 17"
+   ],
+   [
+    "Chipset",
+    "Qualcomm Snapdragon 7 Gen 4 (4 nm); CPU Octa-core (1x2.8 GHz Cortex-A720 & 4x2.4 GHz Cortex-A720 & 3x1.8 GHz Cortex-A520); GPU Adreno 722"
+   ],
+   [
+    "RAM",
+    "8 GB / 12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; no card slot"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 26mm (wide), PDAF, OIS 50 MP, f/2.0, 16mm, 116˚ (ultrawide), AF 50 MP, f/2.8, 80mm (telephoto), PDAF, OIS, 3.5x optical zoom; LED flash, HDR, panorama; video 4K@30/60fps, 1080p@30/60/120fps, gyro-EIS, HDR"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.0, 18mm (ultrawide), AF; Panorama, HDR; video 4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Loudspeaker",
+    "Yes, with stereo speakers"
+   ],
+   [
+    "3.5mm Jack",
+    "No"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4, A2DP, LE, aptX HD, LHDC 5"
+   ],
+   [
+    "GPS",
+    "GPS (L1+L5), BDS (B1I+B1C+B2a), GALILEO (E1+E5a), QZSS (L1+L5), GLONASS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "Infrared port",
+    "Yes"
+   ],
+   [
+    "Radio",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "Si/C Li-Ion 8000 mAh"
+   ],
+   [
+    "Charging",
+    "80W wired, 55W PPS, 44W/80W UFCS, 13.5W PD"
+   ],
+   [
+    "Colors",
+    "Cocoa Brown, Ice Moon White, Encounter Cat"
+   ]
+  ],
+  "slug": "oppo-reno17-5g-(china)",
+  "source": "https://www.oppo.com/cn/smartphones/series-reno/reno17/specs/",
+  "tag": "6.56\" display · Qualcomm Snapdragon 7 Gen 4 · 8 GB RAM · 8000 mAh",
+  "year": 2026
+ }
+]

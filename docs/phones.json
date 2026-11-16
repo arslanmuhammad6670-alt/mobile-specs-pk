@@ -46910,6 +46910,18 @@
   "pl": "Expected price"
  },
  {
+  "slug": "oppo-reno17-5g-(china)",
+  "name": "Oppo Reno17 (China)",
+  "brand": "Oppo",
+  "cat": "Smartphones",
+  "price": 571,
+  "price_pkr": 157999,
+  "path": "phones/oppo-reno17-5g-(china).html",
+  "sb": 17,
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
   "slug": "samsung-galaxy-s25-edge",
   "name": "Samsung Galaxy S25 Edge",
   "brand": "Samsung",
@@ -47585,10 +47597,12 @@
   "name": "Oppo Reno17 Pro (China)",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 752,
+  "price_pkr": 207999,
   "path": "phones/oppo-reno17-pro-5g-(china).html",
-  "sb": 15
+  "sb": 15,
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "google-pixel-6",

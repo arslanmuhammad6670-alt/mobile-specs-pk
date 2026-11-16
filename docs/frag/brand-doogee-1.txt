@@ -1,6 +1,6 @@
 <div class="card" data-name="doogee s90 doogee smartphones" data-brand="Doogee" data-price="" data-year="0">
 
-<picture><source type="image/webp" srcset="../img/doogee-s90/main.webp"><img class="cardimg" src="../img/doogee-s90/main.jpg" alt="Doogee S90" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/doogee-s90/main-card.webp"><img class="cardimg" src="../img/doogee-s90/main-card.jpg" alt="Doogee S90" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/doogee-s90.html">Doogee S90</a></p>
@@ -10,7 +10,7 @@
 <a class="btn alt" href="../compare.html?a=doogee-s90">Compare</a></div>
 </div></div><div class="card" data-name="doogee y7+ doogee smartphones" data-brand="Doogee" data-price="81999" data-year="0">
 
-<picture><source type="image/webp" srcset="../img/doogee-y7+/main.webp"><img class="cardimg" src="../img/doogee-y7+/main.jpg" alt="Doogee Y7+" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/doogee-y7+/main-card.webp"><img class="cardimg" src="../img/doogee-y7+/main-card.jpg" alt="Doogee Y7+" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/doogee-y7+.html">Doogee Y7+</a></p>
@@ -20,7 +20,7 @@
 <a class="btn alt" href="../compare.html?a=doogee-y7+">Compare</a></div>
 </div></div><div class="card" data-name="doogee bl12000 doogee smartphones" data-brand="Doogee" data-price="31999" data-year="2018">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="../img/doogee-bl12000/main.webp"><img class="cardimg" src="../img/doogee-bl12000/main.jpg" alt="Doogee Bl12000" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/doogee-bl12000/main-card.webp"><img class="cardimg" src="../img/doogee-bl12000/main-card.jpg" alt="Doogee Bl12000" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/doogee-bl12000.html">Doogee Bl12000</a></p>
@@ -30,7 +30,7 @@
 <a class="btn alt" href="../compare.html?a=doogee-bl12000">Compare</a></div>
 </div></div><div class="card" data-name="doogee fire 6 power doogee smartphones" data-brand="Doogee" data-price="77999" data-year="2024">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="../img/doogee-fire-6-power/main.webp"><img class="cardimg" src="../img/doogee-fire-6-power/main.jpg" alt="Doogee Fire 6 Power" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/doogee-fire-6-power/main-card.webp"><img class="cardimg" src="../img/doogee-fire-6-power/main-card.jpg" alt="Doogee Fire 6 Power" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/doogee-fire-6-power.html">Doogee Fire 6 Power</a></p>
@@ -40,7 +40,7 @@
 <a class="btn alt" href="../compare.html?a=doogee-fire-6-power">Compare</a></div>
 </div></div><div class="card" data-name="doogee x55 doogee smartphones" data-brand="Doogee" data-price="13999" data-year="0">
 
-<picture><source type="image/webp" srcset="../img/doogee-x55/main.webp"><img class="cardimg" src="../img/doogee-x55/main.jpg" alt="Doogee X55" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/doogee-x55/main-card.webp"><img class="cardimg" src="../img/doogee-x55/main-card.jpg" alt="Doogee X55" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/doogee-x55.html">Doogee X55</a></p>
@@ -50,7 +50,7 @@
 <a class="btn alt" href="../compare.html?a=doogee-x55">Compare</a></div>
 </div></div><div class="card" data-name="doogee y8c doogee smartphones" data-brand="Doogee" data-price="17999" data-year="0">
 
-<picture><source type="image/webp" srcset="../img/doogee-y8c/main.webp"><img class="cardimg" src="../img/doogee-y8c/main.jpg" alt="Doogee Y8c" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/doogee-y8c/main-card.webp"><img class="cardimg" src="../img/doogee-y8c/main-card.jpg" alt="Doogee Y8c" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/doogee-y8c.html">Doogee Y8c</a></p>

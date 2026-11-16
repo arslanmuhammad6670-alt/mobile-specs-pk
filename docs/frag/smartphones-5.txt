@@ -1,4 +1,434 @@
-<div class="card" data-name="honor magic3 pro+ honor smartphones" data-brand="Honor" data-price="331999" data-year="2021">
+<div class="card" data-name="alcatel 1 (2021) alcatel smartphones" data-brand="Alcatel" data-price="18999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/alcatel-1-(2021)/main-card.webp"><img class="cardimg" src="img/alcatel-1-(2021)/main-card.jpg" alt="Alcatel 1 (2021)" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/alcatel-1-(2021).html">Alcatel 1 (2021)</a></p>
+<div class="price"><span class="prc" data-pkr="18999"><b class="pkrv">Rs 18,999</b> <span class="usdv">$69</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Mediatek MT6739</div><div class="spec">1 GB RAM</div><div class="spec">2000 mAh</div>
+<div class="spec">5.0&quot; display · Mediatek MT6739 · 1 GB RAM · 2000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/alcatel-1-(2021).html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=alcatel-1-(2021)">Compare</a></div>
+</div></div><div class="card" data-name="alcatel 1l pro alcatel smartphones" data-brand="Alcatel" data-price="" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/alcatel-1l-pro/main-card.webp"><img class="cardimg" src="img/alcatel-1l-pro/main-card.jpg" alt="Alcatel 1l Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/alcatel-1l-pro.html">Alcatel 1l Pro</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.1&quot; display</div><div class="spec">Unisoc SC9863A</div><div class="spec">2 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">6.1&quot; display · Unisoc SC9863A · 2 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/alcatel-1l-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=alcatel-1l-pro">Compare</a></div>
+</div></div><div class="card" data-name="alcatel 1v (2021) alcatel smartphones" data-brand="Alcatel" data-price="30999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/alcatel-1v-(2021)/main-card.webp"><img class="cardimg" src="img/alcatel-1v-(2021)/main-card.jpg" alt="Alcatel 1v (2021)" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/alcatel-1v-(2021).html">Alcatel 1v (2021)</a></p>
+<div class="price"><span class="prc" data-pkr="30999"><b class="pkrv">Rs 30,999</b> <span class="usdv">$112</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Unisoc SC9863A</div><div class="spec">1 / 2 / 3 GB RAM</div><div class="spec">2460 mAh</div>
+<div class="spec">5.5&quot; display · Unisoc SC9863A · 1 / 2 / 3 GB RAM · 2460 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/alcatel-1v-(2021).html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=alcatel-1v-(2021)">Compare</a></div>
+</div></div><div class="card" data-name="apple iphone 13 pro apple smartphones" data-brand="Apple" data-price="342000" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/apple-iphone-13-pro/main-card.webp"><img class="cardimg" src="img/apple-iphone-13-pro/main-card.jpg" alt="Apple iPhone 13 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/apple-iphone-13-pro.html">Apple iPhone 13 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="342000"><b class="pkrv">Rs 342,000</b> <span class="usdv">$1,236</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.1&quot; display</div><div class="spec">Apple A15 Bionic</div><div class="spec">6 GB RAM</div><div class="spec">3095 mAh</div>
+<div class="spec">6.1&quot; display · Apple A15 Bionic · 6 GB RAM · 3095 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/apple-iphone-13-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=apple-iphone-13-pro">Compare</a></div>
+</div></div><div class="card" data-name="apple iphone 13 pro max apple smartphones" data-brand="Apple" data-price="369600" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/apple-iphone-13-pro-max/main-card.webp"><img class="cardimg" src="img/apple-iphone-13-pro-max/main-card.jpg" alt="Apple iPhone 13 Pro Max" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/apple-iphone-13-pro-max.html">Apple iPhone 13 Pro Max</a></p>
+<div class="price"><span class="prc" data-pkr="369600"><b class="pkrv">Rs 369,600</b> <span class="usdv">$1,336</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.7&quot; display</div><div class="spec">Apple A15 Bionic</div><div class="spec">6 GB RAM</div><div class="spec">4352 mAh</div>
+<div class="spec">6.7&quot; display · Apple A15 Bionic · 6 GB RAM · 4352 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/apple-iphone-13-pro-max.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=apple-iphone-13-pro-max">Compare</a></div>
+</div></div><div class="card" data-name="apple iphone 13 mini apple smartphones" data-brand="Apple" data-price="223400" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/apple-iphone-13-mini/main-card.webp"><img class="cardimg" src="img/apple-iphone-13-mini/main-card.jpg" alt="Apple iPhone 13 mini" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/apple-iphone-13-mini.html">Apple iPhone 13 mini</a></p>
+<div class="price"><span class="prc" data-pkr="223400"><b class="pkrv">Rs 223,400</b> <span class="usdv">$807</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">5.4 inches</div><div class="spec">Apple A15 Bionic</div><div class="spec">4 GB RAM</div><div class="spec">2438 mAh</div>
+<div class="spec">Chota size, poori iPhone taqat — mini lovers ke liye</div>
+<div class="btnrow"><a class="btn" href="phones/apple-iphone-13-mini.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=apple-iphone-13-mini">Compare</a></div>
+</div></div><div class="card" data-name="asus rog phone 5 asus smartphones" data-brand="Asus" data-price="" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/asus-rog-phone-5/main-card.webp"><img class="cardimg" src="img/asus-rog-phone-5/main-card.jpg" alt="Asus ROG Phone 5" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/asus-rog-phone-5.html">Asus ROG Phone 5</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.78&quot; display</div><div class="spec">Qualcomm SM8350 Snapdragon 888 5G</div><div class="spec">8 / 12 / 16 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="spec">6.78&quot; display · Qualcomm SM8350 Snapdragon 888 5G · 8 / 12 / 16 GB RAM · 6000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/asus-rog-phone-5.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=asus-rog-phone-5">Compare</a></div>
+</div></div><div class="card" data-name="asus rog phone 5 ultimate asus smartphones" data-brand="Asus" data-price="209999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/asus-rog-phone-5-ultimate/main-card.webp"><img class="cardimg" src="img/asus-rog-phone-5-ultimate/main-card.jpg" alt="Asus ROG Phone 5 Ultimate" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/asus-rog-phone-5-ultimate.html">Asus ROG Phone 5 Ultimate</a></p>
+<div class="price"><span class="prc" data-pkr="209999"><b class="pkrv">Rs 209,999</b> <span class="usdv">$759</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.78&quot; display</div><div class="spec">Qualcomm SM8350 Snapdragon 888 5G</div><div class="spec">18 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="spec">6.78&quot; display · Qualcomm SM8350 Snapdragon 888 5G · 18 GB RAM · 6000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/asus-rog-phone-5-ultimate.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=asus-rog-phone-5-ultimate">Compare</a></div>
+</div></div><div class="card" data-name="asus rog phone 5s asus smartphones" data-brand="Asus" data-price="318999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/asus-rog-phone-5s/main-card.webp"><img class="cardimg" src="img/asus-rog-phone-5s/main-card.jpg" alt="Asus ROG Phone 5s" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/asus-rog-phone-5s.html">Asus ROG Phone 5s</a></p>
+<div class="price"><span class="prc" data-pkr="318999"><b class="pkrv">Rs 318,999</b> <span class="usdv">$1,153</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.78&quot; display</div><div class="spec">Qualcomm SM8350 Snapdragon 888+ 5G</div><div class="spec">8 / 12 / 16 / 18 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="spec">6.78&quot; display · Qualcomm SM8350 Snapdragon 888+ 5G · 8 / 12 / 16 / 18 GB RAM · 6000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/asus-rog-phone-5s.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=asus-rog-phone-5s">Compare</a></div>
+</div></div><div class="card" data-name="asus rog phone 5s pro asus smartphones" data-brand="Asus" data-price="619999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/asus-rog-phone-5s-pro/main-card.webp"><img class="cardimg" src="img/asus-rog-phone-5s-pro/main-card.jpg" alt="Asus ROG Phone 5s Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/asus-rog-phone-5s-pro.html">Asus ROG Phone 5s Pro</a></p>
+<div class="price"><span class="prc" data-pkr="619999"><b class="pkrv">Rs 619,999</b> <span class="usdv">$2,241</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.78&quot; display</div><div class="spec">Qualcomm SM8350 Snapdragon 888+ 5G</div><div class="spec">18 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="spec">6.78&quot; display · Qualcomm SM8350 Snapdragon 888+ 5G · 18 GB RAM · 6000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/asus-rog-phone-5s-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=asus-rog-phone-5s-pro">Compare</a></div>
+</div></div><div class="card" data-name="asus zenfone 8 asus smartphones" data-brand="Asus" data-price="159999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/asus-zenfone-8/main-card.webp"><img class="cardimg" src="img/asus-zenfone-8/main-card.jpg" alt="Asus Zenfone 8" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/asus-zenfone-8.html">Asus Zenfone 8</a></p>
+<div class="price"><span class="prc" data-pkr="159999"><b class="pkrv">Rs 159,999</b> <span class="usdv">$578</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">5.9&quot; display</div><div class="spec">Qualcomm SM8350 Snapdragon 888 5G</div><div class="spec">6 / 8 / 12 / 16 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">5.9&quot; display · Qualcomm SM8350 Snapdragon 888 5G · 6 / 8 / 12 / 16 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/asus-zenfone-8.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=asus-zenfone-8">Compare</a></div>
+</div></div><div class="card" data-name="asus zenfone 8 flip asus smartphones" data-brand="Asus" data-price="114999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/asus-zenfone-8-flip/main-card.webp"><img class="cardimg" src="img/asus-zenfone-8-flip/main-card.jpg" alt="Asus Zenfone 8 Flip" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/asus-zenfone-8-flip.html">Asus Zenfone 8 Flip</a></p>
+<div class="price"><span class="prc" data-pkr="114999"><b class="pkrv">Rs 114,999</b> <span class="usdv">$416</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.67&quot; display</div><div class="spec">Qualcomm SM8350 Snapdragon 888 5G</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.67&quot; display · Qualcomm SM8350 Snapdragon 888 5G · 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/asus-zenfone-8-flip.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=asus-zenfone-8-flip">Compare</a></div>
+</div></div><div class="card" data-name="blackview a70 pro blackview smartphones" data-brand="Blackview" data-price="36999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/blackview-a70-pro/main-card.webp"><img class="cardimg" src="img/blackview-a70-pro/main-card.jpg" alt="Blackview A70 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/blackview-a70-pro.html">Blackview A70 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.52&quot; display</div><div class="spec">Unisoc Tiger T310</div><div class="spec">4 GB RAM</div><div class="spec">5380 mAh</div>
+<div class="spec">6.52&quot; display · Unisoc Tiger T310 · 4 GB RAM · 5380 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/blackview-a70-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=blackview-a70-pro">Compare</a></div>
+</div></div><div class="card" data-name="blackview a80s blackview smartphones" data-brand="Blackview" data-price="39999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/blackview-a80s/main-card.webp"><img class="cardimg" src="img/blackview-a80s/main-card.jpg" alt="Blackview A80s" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/blackview-a80s.html">Blackview A80s</a></p>
+<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.22&quot; display</div><div class="spec">Mediatek MT6762V/WD Helio A25</div><div class="spec">4 GB RAM</div><div class="spec">4200 mAh</div>
+<div class="spec">6.22&quot; display · Mediatek MT6762V/WD Helio A25 · 4 GB RAM · 4200 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/blackview-a80s.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=blackview-a80s">Compare</a></div>
+</div></div><div class="card" data-name="blackview bv4900s blackview smartphones" data-brand="Blackview" data-price="36999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/blackview-bv4900s/main-card.webp"><img class="cardimg" src="img/blackview-bv4900s/main-card.jpg" alt="Blackview BV4900S" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/blackview-bv4900s.html">Blackview BV4900S</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Unisoc SC9863A</div><div class="spec">2 GB RAM</div><div class="spec">5580 mAh</div>
+<div class="spec">5.7&quot; display · Unisoc SC9863A · 2 GB RAM · 5580 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/blackview-bv4900s.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=blackview-bv4900s">Compare</a></div>
+</div></div><div class="card" data-name="blackview bv6600e blackview smartphones" data-brand="Blackview" data-price="45999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/blackview-bv6600e/main-card.webp"><img class="cardimg" src="img/blackview-bv6600e/main-card.jpg" alt="Blackview BV6600E" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/blackview-bv6600e.html">Blackview BV6600E</a></p>
+<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Unisoc SC9863A</div><div class="spec">4 GB RAM</div><div class="spec">8580 mAh</div>
+<div class="spec">5.7&quot; display · Unisoc SC9863A · 4 GB RAM · 8580 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/blackview-bv6600e.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=blackview-bv6600e">Compare</a></div>
+</div></div><div class="card" data-name="blackview bl5000 blackview smartphones" data-brand="Blackview" data-price="80999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/blackview-bl5000/main-card.webp"><img class="cardimg" src="img/blackview-bl5000/main-card.jpg" alt="Blackview Bl5000" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/blackview-bl5000.html">Blackview Bl5000</a></p>
+<div class="price"><span class="prc" data-pkr="80999"><b class="pkrv">Rs 80,999</b> <span class="usdv">$293</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.36&quot; display</div><div class="spec">Mediatek Dimensity 700</div><div class="spec">8 GB RAM</div><div class="spec">4980 mAh</div>
+<div class="spec">6.36&quot; display · Mediatek Dimensity 700 · 8 GB RAM · 4980 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/blackview-bl5000.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=blackview-bl5000">Compare</a></div>
+</div></div><div class="card" data-name="blackview bv6600 blackview smartphones" data-brand="Blackview" data-price="49999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/blackview-bv6600/main-card.webp"><img class="cardimg" src="img/blackview-bv6600/main-card.jpg" alt="Blackview Bv6600" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/blackview-bv6600.html">Blackview Bv6600</a></p>
+<div class="price"><span class="prc" data-pkr="49999"><b class="pkrv">Rs 49,999</b> <span class="usdv">$181</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Mediatek MT6762V/WD Helio A25</div><div class="spec">4 GB RAM</div><div class="spec">8580 mAh</div>
+<div class="spec">5.7&quot; display · Mediatek MT6762V/WD Helio A25 · 4 GB RAM · 8580 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/blackview-bv6600.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=blackview-bv6600">Compare</a></div>
+</div></div><div class="card" data-name="blackview bv6600 pro blackview smartphones" data-brand="Blackview" data-price="80999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/blackview-bv6600-pro/main-card.webp"><img class="cardimg" src="img/blackview-bv6600-pro/main-card.jpg" alt="Blackview Bv6600 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/blackview-bv6600-pro.html">Blackview Bv6600 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="80999"><b class="pkrv">Rs 80,999</b> <span class="usdv">$293</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Mediatek MT6765V/CA Helio P35</div><div class="spec">4 GB RAM</div><div class="spec">8580 mAh</div>
+<div class="spec">5.7&quot; display · Mediatek MT6765V/CA Helio P35 · 4 GB RAM · 8580 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/blackview-bv6600-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=blackview-bv6600-pro">Compare</a></div>
+</div></div><div class="card" data-name="blackview bv8800 blackview smartphones" data-brand="Blackview" data-price="107999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/blackview-bv8800/main-card.webp"><img class="cardimg" src="img/blackview-bv8800/main-card.jpg" alt="Blackview Bv8800" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/blackview-bv8800.html">Blackview Bv8800</a></p>
+<div class="price"><span class="prc" data-pkr="107999"><b class="pkrv">Rs 107,999</b> <span class="usdv">$390</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.58&quot; display</div><div class="spec">Mediatek MT6781 Helio G96</div><div class="spec">8 GB RAM</div><div class="spec">8380 mAh</div>
+<div class="spec">6.58&quot; display · Mediatek MT6781 Helio G96 · 8 GB RAM · 8380 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/blackview-bv8800.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=blackview-bv8800">Compare</a></div>
+</div></div><div class="card" data-name="doogee n40 pro doogee smartphones" data-brand="Doogee" data-price="58999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/doogee-n40-pro/main-card.webp"><img class="cardimg" src="img/doogee-n40-pro/main-card.jpg" alt="Doogee N40 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/doogee-n40-pro.html">Doogee N40 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.52&quot; display</div><div class="spec">Mediatek MT6771 Helio P60</div><div class="spec">6 GB RAM</div><div class="spec">6380 mAh</div>
+<div class="spec">6.52&quot; display · Mediatek MT6771 Helio P60 · 6 GB RAM · 6380 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/doogee-n40-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=doogee-n40-pro">Compare</a></div>
+</div></div><div class="card" data-name="doogee s35 doogee smartphones" data-brand="Doogee" data-price="36999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/doogee-s35/main-card.webp"><img class="cardimg" src="img/doogee-s35/main-card.jpg" alt="Doogee S35" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/doogee-s35.html">Doogee S35</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Mediatek MT6761D Helio A20</div><div class="spec">3 GB RAM</div><div class="spec">4350 mAh</div>
+<div class="spec">5.0&quot; display · Mediatek MT6761D Helio A20 · 3 GB RAM · 4350 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/doogee-s35.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=doogee-s35">Compare</a></div>
+</div></div><div class="card" data-name="doogee s59 pro doogee smartphones" data-brand="Doogee" data-price="64999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/doogee-s59-pro/main-card.webp"><img class="cardimg" src="img/doogee-s59-pro/main-card.jpg" alt="Doogee S59 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/doogee-s59-pro.html">Doogee S59 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="64999"><b class="pkrv">Rs 64,999</b> <span class="usdv">$235</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.71&quot; display</div><div class="spec">Mediatek MT6762 Helio P22</div><div class="spec">4 GB RAM</div><div class="spec">10050 mAh</div>
+<div class="spec">5.71&quot; display · Mediatek MT6762 Helio P22 · 4 GB RAM · 10050 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/doogee-s59-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=doogee-s59-pro">Compare</a></div>
+</div></div><div class="card" data-name="doogee s86 doogee smartphones" data-brand="Doogee" data-price="64999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/doogee-s86/main-card.webp"><img class="cardimg" src="img/doogee-s86/main-card.jpg" alt="Doogee S86" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/doogee-s86.html">Doogee S86</a></p>
+<div class="price"><span class="prc" data-pkr="64999"><b class="pkrv">Rs 64,999</b> <span class="usdv">$235</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.1&quot; display</div><div class="spec">Mediatek MT6771 Helio P60</div><div class="spec">6 GB RAM</div><div class="spec">8500 mAh</div>
+<div class="spec">6.1&quot; display · Mediatek MT6771 Helio P60 · 6 GB RAM · 8500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/doogee-s86.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=doogee-s86">Compare</a></div>
+</div></div><div class="card" data-name="doogee s86 pro doogee smartphones" data-brand="Doogee" data-price="70999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/doogee-s86-pro/main-card.webp"><img class="cardimg" src="img/doogee-s86-pro/main-card.jpg" alt="Doogee S86 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/doogee-s86-pro.html">Doogee S86 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="70999"><b class="pkrv">Rs 70,999</b> <span class="usdv">$257</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.1&quot; display</div><div class="spec">Mediatek MT6771 Helio P60</div><div class="spec">8 GB RAM</div><div class="spec">8500 mAh</div>
+<div class="spec">6.1&quot; display · Mediatek MT6771 Helio P60 · 8 GB RAM · 8500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/doogee-s86-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=doogee-s86-pro">Compare</a></div>
+</div></div><div class="card" data-name="doogee s88+ doogee smartphones" data-brand="Doogee" data-price="86999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/doogee-s88+/main-card.webp"><img class="cardimg" src="img/doogee-s88+/main-card.jpg" alt="Doogee S88+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/doogee-s88+.html">Doogee S88+</a></p>
+<div class="price"><span class="prc" data-pkr="86999"><b class="pkrv">Rs 86,999</b> <span class="usdv">$314</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.3&quot; display</div><div class="spec">Mediatek MT6771 Helio P70</div><div class="spec">8 GB RAM</div><div class="spec">10000 mAh</div>
+<div class="spec">6.3&quot; display · Mediatek MT6771 Helio P70 · 8 GB RAM · 10000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/doogee-s88+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=doogee-s88+">Compare</a></div>
+</div></div><div class="card" data-name="doogee x93 doogee smartphones" data-brand="Doogee" data-price="27999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/doogee-x93/main-card.webp"><img class="cardimg" src="img/doogee-x93/main-card.jpg" alt="Doogee X93" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/doogee-x93.html">Doogee X93</a></p>
+<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.1&quot; display</div><div class="spec">Mediatek MT6580</div><div class="spec">2 GB RAM</div><div class="spec">4350 mAh</div>
+<div class="spec">6.1&quot; display · Mediatek MT6580 · 2 GB RAM · 4350 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/doogee-x93.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=doogee-x93">Compare</a></div>
+</div></div><div class="card" data-name="doogee x95 pro doogee smartphones" data-brand="Doogee" data-price="36999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/doogee-x95-pro/main-card.webp"><img class="cardimg" src="img/doogee-x95-pro/main-card.jpg" alt="Doogee X95 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/doogee-x95-pro.html">Doogee X95 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.52&quot; display</div><div class="spec">Mediatek MT6761V/WE Helio A22</div><div class="spec">4 GB RAM</div><div class="spec">4350 mAh</div>
+<div class="spec">6.52&quot; display · Mediatek MT6761V/WE Helio A22 · 4 GB RAM · 4350 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/doogee-x95-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=doogee-x95-pro">Compare</a></div>
+</div></div><div class="card" data-name="doogee x96 doogee smartphones" data-brand="Doogee" data-price="39999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/doogee-x96/main-card.webp"><img class="cardimg" src="img/doogee-x96/main-card.jpg" alt="Doogee X96" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/doogee-x96.html">Doogee X96</a></p>
+<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.52&quot; display</div><div class="spec">Unisoc SC9863A</div><div class="spec">2 GB RAM</div><div class="spec">5400 mAh</div>
+<div class="spec">6.52&quot; display · Unisoc SC9863A · 2 GB RAM · 5400 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/doogee-x96.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=doogee-x96">Compare</a></div>
+</div></div><div class="card" data-name="doogee x96 pro doogee smartphones" data-brand="Doogee" data-price="42999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/doogee-x96-pro/main-card.webp"><img class="cardimg" src="img/doogee-x96-pro/main-card.jpg" alt="Doogee X96 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/doogee-x96-pro.html">Doogee X96 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="42999"><b class="pkrv">Rs 42,999</b> <span class="usdv">$155</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.52&quot; display</div><div class="spec">Unisoc SC9863A</div><div class="spec">4 GB RAM</div><div class="spec">5400 mAh</div>
+<div class="spec">6.52&quot; display · Unisoc SC9863A · 4 GB RAM · 5400 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/doogee-x96-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=doogee-x96-pro">Compare</a></div>
+</div></div><div class="card" data-name="google pixel 5a google smartphones" data-brand="Google" data-price="99999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/google-pixel-5a/main-card.webp"><img class="cardimg" src="img/google-pixel-5a/main-card.jpg" alt="Google Pixel 5a" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/google-pixel-5a.html">Google Pixel 5a</a></p>
+<div class="price"><span class="prc" data-pkr="99999"><b class="pkrv">Rs 99,999</b> <span class="usdv">$361</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.34&quot; display</div><div class="spec">Qualcomm SM7250 Snapdragon 765G 5G</div><div class="spec">6 GB RAM</div><div class="spec">4680 mAh</div>
+<div class="spec">6.34&quot; display · Qualcomm SM7250 Snapdragon 765G 5G · 6 GB RAM · 4680 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/google-pixel-5a.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=google-pixel-5a">Compare</a></div>
+</div></div><div class="card" data-name="google pixel 6 google smartphones" data-brand="Google" data-price="47999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/google-pixel-6/main-card.webp"><img class="cardimg" src="img/google-pixel-6/main-card.jpg" alt="Google Pixel 6" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/google-pixel-6.html">Google Pixel 6</a></p>
+<div class="price"><span class="prc" data-pkr="47999"><b class="pkrv">Rs 47,999</b> <span class="usdv">$173</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.4&quot; display</div><div class="spec">Google Tensor</div><div class="spec">8 GB RAM</div><div class="spec">4614 mAh</div>
+<div class="spec">6.4&quot; display · Google Tensor · 8 GB RAM · 4614 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/google-pixel-6.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=google-pixel-6">Compare</a></div>
+</div></div><div class="card" data-name="google pixel 6 pro google smartphones" data-brand="Google" data-price="168000" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/google-pixel-6-pro/main-card.webp"><img class="cardimg" src="img/google-pixel-6-pro/main-card.jpg" alt="Google Pixel 6 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/google-pixel-6-pro.html">Google Pixel 6 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="168000"><b class="pkrv">Rs 168,000</b> <span class="usdv">$607</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.7&quot; display</div><div class="spec">Google Tensor</div><div class="spec">12 GB RAM</div><div class="spec">5003 mAh</div>
+<div class="spec">6.7&quot; display · Google Tensor · 12 GB RAM · 5003 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/google-pixel-6-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=google-pixel-6-pro">Compare</a></div>
+</div></div><div class="card" data-name="hmd g20 hmd smartphones" data-brand="HMD" data-price="" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/hmd-g20/main-card.webp"><img class="cardimg" src="img/hmd-g20/main-card.jpg" alt="HMD G20" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/hmd-g20.html">HMD G20</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.52&quot; display</div><div class="spec">Mediatek MT6765G Helio G35</div><div class="spec">4 GB RAM</div><div class="spec">5050 mAh</div>
+<div class="spec">6.52&quot; display · Mediatek MT6765G Helio G35 · 4 GB RAM · 5050 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/hmd-g20.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=hmd-g20">Compare</a></div>
+</div></div><div class="card" data-name="htc desire 21 pro 5g htc smartphones" data-brand="HTC" data-price="107999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/htc-desire-21-pro-5g/main-card.webp"><img class="cardimg" src="img/htc-desire-21-pro-5g/main-card.jpg" alt="HTC Desire 21 Pro 5G" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/htc-desire-21-pro-5g.html">HTC Desire 21 Pro 5G</a></p>
+<div class="price"><span class="prc" data-pkr="107999"><b class="pkrv">Rs 107,999</b> <span class="usdv">$390</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.7&quot; display</div><div class="spec">Qualcomm SM6350 Snapdragon 690 5G</div><div class="spec">8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.7&quot; display · Qualcomm SM6350 Snapdragon 690 5G · 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/htc-desire-21-pro-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=htc-desire-21-pro-5g">Compare</a></div>
+</div></div><div class="card" data-name="htc wildfire e2+ htc smartphones" data-brand="HTC" data-price="49999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/htc-wildfire-e2+/main-card.webp"><img class="cardimg" src="img/htc-wildfire-e2+/main-card.jpg" alt="HTC Wildfire E2+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/htc-wildfire-e2+.html">HTC Wildfire E2+</a></p>
+<div class="price"><span class="prc" data-pkr="49999"><b class="pkrv">Rs 49,999</b> <span class="usdv">$181</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.82&quot; display</div><div class="spec">Unisoc T610</div><div class="spec">4 GB RAM</div><div class="spec">4600 mAh</div>
+<div class="spec">6.82&quot; display · Unisoc T610 · 4 GB RAM · 4600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/htc-wildfire-e2+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=htc-wildfire-e2+">Compare</a></div>
+</div></div><div class="card" data-name="htc wildfire e3 htc smartphones" data-brand="HTC" data-price="39999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/htc-wildfire-e3/main-card.webp"><img class="cardimg" src="img/htc-wildfire-e3/main-card.jpg" alt="HTC Wildfire E3" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/htc-wildfire-e3.html">HTC Wildfire E3</a></p>
+<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.52&quot; display</div><div class="spec">Mediatek MT6762 Helio P22</div><div class="spec">4 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.52&quot; display · Mediatek MT6762 Helio P22 · 4 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/htc-wildfire-e3.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=htc-wildfire-e3">Compare</a></div>
+</div></div><div class="card" data-name="honor 50 honor smartphones" data-brand="Honor" data-price="52999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/honor-50/main-card.webp"><img class="cardimg" src="img/honor-50/main-card.jpg" alt="Honor 50" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-50.html">Honor 50</a></p>
+<div class="price"><span class="prc" data-pkr="52999"><b class="pkrv">Rs 52,999</b> <span class="usdv">$192</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.57&quot; display</div><div class="spec">Qualcomm SM7325 Snapdragon 778G 5G</div><div class="spec">6 / 8 / 12 GB RAM</div><div class="spec">4300 mAh</div>
+<div class="spec">6.57&quot; display · Qualcomm SM7325 Snapdragon 778G 5G · 6 / 8 / 12 GB RAM · 4300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/honor-50.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-50">Compare</a></div>
+</div></div><div class="card" data-name="honor 50 lite honor smartphones" data-brand="Honor" data-price="49999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/honor-50-lite/main-card.webp"><img class="cardimg" src="img/honor-50-lite/main-card.jpg" alt="Honor 50 Lite" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-50-lite.html">Honor 50 Lite</a></p>
+<div class="price"><span class="prc" data-pkr="49999"><b class="pkrv">Rs 49,999</b> <span class="usdv">$181</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.67&quot; display</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4300 mAh</div>
+<div class="spec">6.67&quot; display · 6 / 8 GB RAM · 4300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/honor-50-lite.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-50-lite">Compare</a></div>
+</div></div><div class="card" data-name="honor 50 pro honor smartphones" data-brand="Honor" data-price="148999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/honor-50-pro/main-card.webp"><img class="cardimg" src="img/honor-50-pro/main-card.jpg" alt="Honor 50 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-50-pro.html">Honor 50 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="148999"><b class="pkrv">Rs 148,999</b> <span class="usdv">$538</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.72&quot; display</div><div class="spec">Qualcomm SM7325 Snapdragon 778G 5G</div><div class="spec">8 / 12 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.72&quot; display · Qualcomm SM7325 Snapdragon 778G 5G · 8 / 12 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/honor-50-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-50-pro">Compare</a></div>
+</div></div><div class="card" data-name="honor 60 pro honor smartphones" data-brand="Honor" data-price="" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/huawei-60-pro/main-card.webp"><img class="cardimg" src="img/huawei-60-pro/main-card.jpg" alt="Honor 60 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/huawei-60-pro.html">Honor 60 Pro</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.78&quot; display</div><div class="spec">Qualcomm Snapdragon 778G+ 5G</div><div class="spec">8 / 12 GB RAM</div><div class="spec">4800 mAh</div>
+<div class="spec">6.78&quot; display · Qualcomm Snapdragon 778G+ 5G · 8 / 12 GB RAM · 4800 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/huawei-60-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-60-pro">Compare</a></div>
+</div></div><div class="card" data-name="honor magic3 honor smartphones" data-brand="Honor" data-price="207999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/honor-magic3/main-card.webp"><img class="cardimg" src="img/honor-magic3/main-card.jpg" alt="Honor Magic3" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-magic3.html">Honor Magic3</a></p>
+<div class="price"><span class="prc" data-pkr="207999"><b class="pkrv">Rs 207,999</b> <span class="usdv">$752</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.76&quot; display</div><div class="spec">Qualcomm SM8350 Snapdragon 888 5G</div><div class="spec">8 GB RAM</div><div class="spec">4600 mAh</div>
+<div class="spec">6.76&quot; display · Qualcomm SM8350 Snapdragon 888 5G · 8 GB RAM · 4600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/honor-magic3.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-magic3">Compare</a></div>
+</div></div><div class="card" data-name="honor magic3 pro honor smartphones" data-brand="Honor" data-price="247999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/honor-magic3-pro/main-card.webp"><img class="cardimg" src="img/honor-magic3-pro/main-card.jpg" alt="Honor Magic3 Pro" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/honor-magic3-pro.html">Honor Magic3 Pro</a></p>
+<div class="price"><span class="prc" data-pkr="247999"><b class="pkrv">Rs 247,999</b> <span class="usdv">$896</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.76&quot; display</div><div class="spec">Qualcomm SM8350 Snapdragon 888+ 5G</div><div class="spec">8 / 12 GB RAM</div><div class="spec">4600 mAh</div>
+<div class="spec">6.76&quot; display · Qualcomm SM8350 Snapdragon 888+ 5G · 8 / 12 GB RAM · 4600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/honor-magic3-pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=honor-magic3-pro">Compare</a></div>
+</div></div><div class="card" data-name="honor magic3 pro+ honor smartphones" data-brand="Honor" data-price="331999" data-year="2021">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/honor-magic3-pro+/main-card.webp"><img class="cardimg" src="img/honor-magic3-pro+/main-card.jpg" alt="Honor Magic3 Pro+" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -3568,434 +3998,4 @@
 <div class="spec">6.3&quot; display · Mediatek MT6765 Helio P35 · 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/honor-play-9a.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=honor-play-9a">Compare</a></div>
-</div></div><div class="card" data-name="honor view30 pro honor smartphones" data-brand="Honor" data-price="" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/honor-view30-pro/main-card.webp"><img class="cardimg" src="img/honor-view30-pro/main-card.jpg" alt="Honor View30 Pro" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/honor-view30-pro.html">Honor View30 Pro</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.57&quot; display</div><div class="spec">Kirin 990 5G</div><div class="spec">8 GB RAM</div><div class="spec">4100 mAh</div>
-<div class="spec">6.57&quot; display · Kirin 990 5G · 8 GB RAM · 4100 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/honor-view30-pro.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=honor-view30-pro">Compare</a></div>
-</div></div><div class="card" data-name="honor x10 5g honor smartphones" data-brand="Honor" data-price="77999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/honor-x10-5g/main-card.webp"><img class="cardimg" src="img/honor-x10-5g/main-card.jpg" alt="Honor X10 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/honor-x10-5g.html">Honor X10 5G</a></p>
-<div class="price"><span class="prc" data-pkr="77999"><b class="pkrv">Rs 77,999</b> <span class="usdv">$282</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.63&quot; display</div><div class="spec">Kirin 820 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4300 mAh</div>
-<div class="spec">6.63&quot; display · Kirin 820 5G · 6 / 8 GB RAM · 4300 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/honor-x10-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=honor-x10-5g">Compare</a></div>
-</div></div><div class="card" data-name="honor x50 honor smartphones" data-brand="Honor" data-price="55999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/honor-x50/main-card.webp"><img class="cardimg" src="img/honor-x50/main-card.jpg" alt="Honor X50" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/honor-x50.html">Honor X50</a></p>
-<div class="price"><span class="prc" data-pkr="55999"><b class="pkrv">Rs 55,999</b> <span class="usdv">$202</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.56&quot; display</div><div class="spec">Qualcomm SDM730 Snapdragon 730</div><div class="spec">8 GB RAM</div><div class="spec">4200 mAh</div>
-<div class="spec">6.56&quot; display · Qualcomm SDM730 Snapdragon 730 · 8 GB RAM · 4200 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/honor-x50.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=honor-x50">Compare</a></div>
-</div></div><div class="card" data-name="huawei 30s huawei smartphones" data-brand="Huawei" data-price="" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-30s/main-card.webp"><img class="cardimg" src="img/huawei-30s/main-card.jpg" alt="Huawei 30s" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-30s.html">Huawei 30s</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.5&quot; display</div><div class="spec">Kirin 820 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4000 mAh</div>
-<div class="spec">6.5&quot; display · Kirin 820 5G · 6 / 8 GB RAM · 4000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-30s.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-30s">Compare</a></div>
-</div></div><div class="card" data-name="huawei enjoy 10e huawei smartphones" data-brand="Huawei" data-price="36999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-enjoy-10e/main-card.webp"><img class="cardimg" src="img/huawei-enjoy-10e/main-card.jpg" alt="Huawei Enjoy 10e" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-enjoy-10e.html">Huawei Enjoy 10e</a></p>
-<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.3&quot; display</div><div class="spec">Mediatek MT6765 Helio P35</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.3&quot; display · Mediatek MT6765 Helio P35 · 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-enjoy-10e.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-enjoy-10e">Compare</a></div>
-</div></div><div class="card" data-name="huawei enjoy 20 5g huawei smartphones" data-brand="Huawei" data-price="64999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-enjoy-20-5g/main-card.webp"><img class="cardimg" src="img/huawei-enjoy-20-5g/main-card.jpg" alt="Huawei Enjoy 20 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-enjoy-20-5g.html">Huawei Enjoy 20 5G</a></p>
-<div class="price"><span class="prc" data-pkr="64999"><b class="pkrv">Rs 64,999</b> <span class="usdv">$235</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Mediatek Dimensity 720</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Mediatek Dimensity 720 · 4 / 6 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-enjoy-20-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-enjoy-20-5g">Compare</a></div>
-</div></div><div class="card" data-name="huawei enjoy 20 pro huawei smartphones" data-brand="Huawei" data-price="77999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-enjoy-20-pro/main-card.webp"><img class="cardimg" src="img/huawei-enjoy-20-pro/main-card.jpg" alt="Huawei Enjoy 20 Pro" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-enjoy-20-pro.html">Huawei Enjoy 20 Pro</a></p>
-<div class="price"><span class="prc" data-pkr="77999"><b class="pkrv">Rs 77,999</b> <span class="usdv">$282</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek Dimensity 800</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4000 mAh</div>
-<div class="spec">6.5&quot; display · Mediatek Dimensity 800 · 6 / 8 GB RAM · 4000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-enjoy-20-pro.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-enjoy-20-pro">Compare</a></div>
-</div></div><div class="card" data-name="huawei enjoy 20 pro 5g huawei smartphones" data-brand="Huawei" data-price="77999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-enjoy-20-pro-5g/main-card.webp"><img class="cardimg" src="img/huawei-enjoy-20-pro-5g/main-card.jpg" alt="Huawei Enjoy 20 Pro 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-enjoy-20-pro-5g.html">Huawei Enjoy 20 Pro 5G</a></p>
-<div class="price"><span class="prc" data-pkr="77999"><b class="pkrv">Rs 77,999</b> <span class="usdv">$282</span></span><span class="plabel">Estimated price</span></div><div class="spec">Mediatek Dimensity 800 5G</div><div class="spec">6 GB RAM</div><div class="spec">4000 mAh</div>
-<div class="spec">Mediatek Dimensity 800 5G · 6 GB RAM · 4000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-enjoy-20-pro-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-enjoy-20-pro-5g">Compare</a></div>
-</div></div><div class="card" data-name="huawei enjoy 20 se huawei smartphones" data-brand="Huawei" data-price="49999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-enjoy-20-se/main-card.webp"><img class="cardimg" src="img/huawei-enjoy-20-se/main-card.jpg" alt="Huawei Enjoy 20 SE" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-enjoy-20-se.html">Huawei Enjoy 20 SE</a></p>
-<div class="price"><span class="prc" data-pkr="49999"><b class="pkrv">Rs 49,999</b> <span class="usdv">$181</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.67&quot; display</div><div class="spec">Kirin 710A</div><div class="spec">4 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.67&quot; display · Kirin 710A · 4 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-enjoy-20-se.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-enjoy-20-se">Compare</a></div>
-</div></div><div class="card" data-name="huawei enjoy 20+ 5g huawei smartphones" data-brand="Huawei" data-price="86999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-enjoy-20+-5g/main-card.webp"><img class="cardimg" src="img/huawei-enjoy-20+-5g/main-card.jpg" alt="Huawei Enjoy 20+ 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-enjoy-20+-5g.html">Huawei Enjoy 20+ 5G</a></p>
-<div class="price"><span class="prc" data-pkr="86999"><b class="pkrv">Rs 86,999</b> <span class="usdv">$314</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.63&quot; display</div><div class="spec">Mediatek Dimensity 720</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4200 mAh</div>
-<div class="spec">6.63&quot; display · Mediatek Dimensity 720 · 6 / 8 GB RAM · 4200 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-enjoy-20+-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-enjoy-20+-5g">Compare</a></div>
-</div></div><div class="card" data-name="huawei honor 30 huawei smartphones" data-brand="Huawei" data-price="" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-honor-30/main-card.webp"><img class="cardimg" src="img/huawei-honor-30/main-card.jpg" alt="Huawei Honor 30" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-honor-30.html">Huawei Honor 30</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.53&quot; display</div><div class="spec">Kirin 985 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4000 mAh</div>
-<div class="spec">6.53&quot; display · Kirin 985 5G · 6 / 8 GB RAM · 4000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-honor-30.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-honor-30">Compare</a></div>
-</div></div><div class="card" data-name="huawei honor 30 pro + huawei smartphones" data-brand="Huawei" data-price="" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-honor-30-pro-+/main-card.webp"><img class="cardimg" src="img/huawei-honor-30-pro-+/main-card.jpg" alt="Huawei Honor 30 Pro +" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-honor-30-pro-+.html">Huawei Honor 30 Pro +</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.57&quot; display</div><div class="spec">Kirin 990 5G</div><div class="spec">8 / 12 GB RAM</div><div class="spec">4000 mAh</div>
-<div class="spec">6.57&quot; display · Kirin 990 5G · 8 / 12 GB RAM · 4000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-honor-30-pro-+.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-honor-30-pro-+">Compare</a></div>
-</div></div><div class="card" data-name="huawei mate 30e pro huawei smartphones" data-brand="Huawei" data-price="210999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-mate-30e-pro/main-card.webp"><img class="cardimg" src="img/huawei-mate-30e-pro/main-card.jpg" alt="Huawei Mate 30e Pro" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-mate-30e-pro.html">Huawei Mate 30e Pro</a></p>
-<div class="price"><span class="prc" data-pkr="210999"><b class="pkrv">Rs 210,999</b> <span class="usdv">$763</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.53&quot; display</div><div class="spec">Kirin 990E 5G</div><div class="spec">8 GB RAM</div><div class="spec">4500 mAh</div>
-<div class="spec">6.53&quot; display · Kirin 990E 5G · 8 GB RAM · 4500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-mate-30e-pro.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-mate-30e-pro">Compare</a></div>
-</div></div><div class="card" data-name="huawei mate 40 huawei smartphones" data-brand="Huawei" data-price="194999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-mate-40/main-card.webp"><img class="cardimg" src="img/huawei-mate-40/main-card.jpg" alt="Huawei Mate 40" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-mate-40.html">Huawei Mate 40</a></p>
-<div class="price"><span class="prc" data-pkr="194999"><b class="pkrv">Rs 194,999</b> <span class="usdv">$705</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Kirin 9000E 5G</div><div class="spec">8 GB RAM</div><div class="spec">4200 mAh</div>
-<div class="spec">6.5&quot; display · Kirin 9000E 5G · 8 GB RAM · 4200 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-mate-40.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-mate-40">Compare</a></div>
-</div></div><div class="card" data-name="huawei mate 40 pro+ huawei smartphones" data-brand="Huawei" data-price="433999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-mate-40-pro+/main-card.webp"><img class="cardimg" src="img/huawei-mate-40-pro+/main-card.jpg" alt="Huawei Mate 40 PRO+" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-mate-40-pro+.html">Huawei Mate 40 PRO+</a></p>
-<div class="price"><span class="prc" data-pkr="433999"><b class="pkrv">Rs 433,999</b> <span class="usdv">$1,568</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.76&quot; display</div><div class="spec">Kirin 9000 5G</div><div class="spec">8 / 12 GB RAM</div><div class="spec">4400 mAh</div>
-<div class="spec">6.76&quot; display · Kirin 9000 5G · 8 / 12 GB RAM · 4400 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-mate-40-pro+.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-mate-40-pro+">Compare</a></div>
-</div></div><div class="card" data-name="huawei mate 40 pro 4g huawei smartphones" data-brand="Huawei" data-price="247999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-mate-40-pro-4g/main-card.webp"><img class="cardimg" src="img/huawei-mate-40-pro-4g/main-card.jpg" alt="Huawei Mate 40 Pro 4G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-mate-40-pro-4g.html">Huawei Mate 40 Pro 4G</a></p>
-<div class="price"><span class="prc" data-pkr="247999"><b class="pkrv">Rs 247,999</b> <span class="usdv">$896</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.76&quot; display</div><div class="spec">Kirin 9000 5G</div><div class="spec">8 GB RAM</div><div class="spec">4400 mAh</div>
-<div class="spec">6.76&quot; display · Kirin 9000 5G · 8 GB RAM · 4400 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-mate-40-pro-4g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-mate-40-pro-4g">Compare</a></div>
-</div></div><div class="card" data-name="huawei mate 40 pro 5g huawei smartphones" data-brand="Huawei" data-price="244999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-mate-40-pro-5g/main-card.webp"><img class="cardimg" src="img/huawei-mate-40-pro-5g/main-card.jpg" alt="Huawei Mate 40 Pro 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-mate-40-pro-5g.html">Huawei Mate 40 Pro 5G</a></p>
-<div class="price"><span class="prc" data-pkr="244999"><b class="pkrv">Rs 244,999</b> <span class="usdv">$885</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.76&quot; display</div><div class="spec">Kirin 9000 5G</div><div class="spec">8 GB RAM</div><div class="spec">4400 mAh</div>
-<div class="spec">6.76&quot; display · Kirin 9000 5G · 8 GB RAM · 4400 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-mate-40-pro-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-mate-40-pro-5g">Compare</a></div>
-</div></div><div class="card" data-name="huawei mate xs huawei smartphones" data-brand="Huawei" data-price="603999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-mate-xs/main-card.webp"><img class="cardimg" src="img/huawei-mate-xs/main-card.jpg" alt="Huawei Mate XS" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-mate-xs.html">Huawei Mate XS</a></p>
-<div class="price"><span class="prc" data-pkr="603999"><b class="pkrv">Rs 603,999</b> <span class="usdv">$2,183</span></span><span class="plabel">Estimated price</span></div><div class="spec">8.0&quot; display</div><div class="spec">Kirin 990 5G</div><div class="spec">8 GB RAM</div><div class="spec">4500 mAh</div>
-<div class="spec">8.0&quot; display · Kirin 990 5G · 8 GB RAM · 4500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-mate-xs.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-mate-xs">Compare</a></div>
-</div></div><div class="card" data-name="huawei nova 7 5g huawei smartphones" data-brand="Huawei" data-price="120999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-nova-7-5g/main-card.webp"><img class="cardimg" src="img/huawei-nova-7-5g/main-card.jpg" alt="Huawei Nova 7 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-nova-7-5g.html">Huawei Nova 7 5G</a></p>
-<div class="price"><span class="prc" data-pkr="120999"><b class="pkrv">Rs 120,999</b> <span class="usdv">$437</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.53&quot; display</div><div class="spec">Kirin 985 5G</div><div class="spec">8 GB RAM</div><div class="spec">4000 mAh</div>
-<div class="spec">6.53&quot; display · Kirin 985 5G · 8 GB RAM · 4000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-nova-7-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-nova-7-5g">Compare</a></div>
-</div></div><div class="card" data-name="huawei nova 7 pro 5g huawei smartphones" data-brand="Huawei" data-price="148999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-nova-7-pro-5g/main-card.webp"><img class="cardimg" src="img/huawei-nova-7-pro-5g/main-card.jpg" alt="Huawei Nova 7 Pro 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-nova-7-pro-5g.html">Huawei Nova 7 Pro 5G</a></p>
-<div class="price"><span class="prc" data-pkr="148999"><b class="pkrv">Rs 148,999</b> <span class="usdv">$538</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.57&quot; display</div><div class="spec">Kirin 985 5G</div><div class="spec">8 GB RAM</div><div class="spec">4000 mAh</div>
-<div class="spec">6.57&quot; display · Kirin 985 5G · 8 GB RAM · 4000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-nova-7-pro-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-nova-7-pro-5g">Compare</a></div>
-</div></div><div class="card" data-name="huawei nova 7 se 5g huawei smartphones" data-brand="Huawei" data-price="98999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-nova-7-se-5g/main-card.webp"><img class="cardimg" src="img/huawei-nova-7-se-5g/main-card.jpg" alt="Huawei Nova 7 SE 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-nova-7-se-5g.html">Huawei Nova 7 SE 5G</a></p>
-<div class="price"><span class="prc" data-pkr="98999"><b class="pkrv">Rs 98,999</b> <span class="usdv">$358</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Kirin 820 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4000 mAh</div>
-<div class="spec">6.5&quot; display · Kirin 820 5G · 6 / 8 GB RAM · 4000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-nova-7-se-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-nova-7-se-5g">Compare</a></div>
-</div></div><div class="card" data-name="huawei nova 7 se 5g youth huawei smartphones" data-brand="Huawei" data-price="89999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-nova-7-se-5g-youth/main-card.webp"><img class="cardimg" src="img/huawei-nova-7-se-5g-youth/main-card.jpg" alt="Huawei Nova 7 SE 5G Youth" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-nova-7-se-5g-youth.html">Huawei Nova 7 SE 5G Youth</a></p>
-<div class="price"><span class="prc" data-pkr="89999"><b class="pkrv">Rs 89,999</b> <span class="usdv">$325</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek Dimensity 800U</div><div class="spec">8 GB RAM</div><div class="spec">4000 mAh</div>
-<div class="spec">6.5&quot; display · Mediatek Dimensity 800U · 8 GB RAM · 4000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-nova-7-se-5g-youth.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-nova-7-se-5g-youth">Compare</a></div>
-</div></div><div class="card" data-name="huawei nova 7i huawei smartphones" data-brand="Huawei" data-price="73999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-nova-7i/main-card.webp"><img class="cardimg" src="img/huawei-nova-7i/main-card.jpg" alt="Huawei Nova 7i" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-nova-7i.html">Huawei Nova 7i</a></p>
-<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.4&quot; display</div><div class="spec">Kirin 810</div><div class="spec">8 GB RAM</div><div class="spec">4200 mAh</div>
-<div class="spec">6.4&quot; display · Kirin 810 · 8 GB RAM · 4200 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-nova-7i.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-nova-7i">Compare</a></div>
-</div></div><div class="card" data-name="huawei nova 8 5g huawei smartphones" data-brand="Huawei" data-price="126999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-nova-8-5g/main-card.webp"><img class="cardimg" src="img/huawei-nova-8-5g/main-card.jpg" alt="Huawei Nova 8 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-nova-8-5g.html">Huawei Nova 8 5G</a></p>
-<div class="price"><span class="prc" data-pkr="126999"><b class="pkrv">Rs 126,999</b> <span class="usdv">$459</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.57&quot; display</div><div class="spec">Kirin 985 5G</div><div class="spec">8 GB RAM</div><div class="spec">3800 mAh</div>
-<div class="spec">6.57&quot; display · Kirin 985 5G · 8 GB RAM · 3800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-nova-8-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-nova-8-5g">Compare</a></div>
-</div></div><div class="card" data-name="huawei nova 8 pro 5g huawei smartphones" data-brand="Huawei" data-price="185999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-nova-8-pro-5g/main-card.webp"><img class="cardimg" src="img/huawei-nova-8-pro-5g/main-card.jpg" alt="Huawei Nova 8 Pro 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-nova-8-pro-5g.html">Huawei Nova 8 Pro 5G</a></p>
-<div class="price"><span class="prc" data-pkr="185999"><b class="pkrv">Rs 185,999</b> <span class="usdv">$672</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.72&quot; display</div><div class="spec">Kirin 985 5G</div><div class="spec">8 GB RAM</div><div class="spec">4000 mAh</div>
-<div class="spec">6.72&quot; display · Kirin 985 5G · 8 GB RAM · 4000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-nova-8-pro-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-nova-8-pro-5g">Compare</a></div>
-</div></div><div class="card" data-name="huawei nova 8 se huawei smartphones" data-brand="Huawei" data-price="101999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-nova-8-se/main-card.webp"><img class="cardimg" src="img/huawei-nova-8-se/main-card.jpg" alt="Huawei Nova 8 SE" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-nova-8-se.html">Huawei Nova 8 SE</a></p>
-<div class="price"><span class="prc" data-pkr="101999"><b class="pkrv">Rs 101,999</b> <span class="usdv">$369</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.53&quot; display</div><div class="spec">Mediatek Dimensity 720</div><div class="spec">8 GB RAM</div><div class="spec">3800 mAh</div>
-<div class="spec">6.53&quot; display · Mediatek Dimensity 720 · 8 GB RAM · 3800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-nova-8-se.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-nova-8-se">Compare</a></div>
-</div></div><div class="card" data-name="huawei p smart 2020 huawei smartphones" data-brand="Huawei" data-price="61999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-p-smart-2020/main-card.webp"><img class="cardimg" src="img/huawei-p-smart-2020/main-card.jpg" alt="Huawei P Smart 2020" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-p-smart-2020.html">Huawei P Smart 2020</a></p>
-<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.21&quot; display</div><div class="spec">Kirin 710</div><div class="spec">4 GB RAM</div><div class="spec">3400 mAh</div>
-<div class="spec">6.21&quot; display · Kirin 710 · 4 GB RAM · 3400 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-p-smart-2020.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-p-smart-2020">Compare</a></div>
-</div></div><div class="card" data-name="huawei p smart 2021 huawei smartphones" data-brand="Huawei" data-price="70999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-p-smart-2021/main-card.webp"><img class="cardimg" src="img/huawei-p-smart-2021/main-card.jpg" alt="Huawei P Smart 2021" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-p-smart-2021.html">Huawei P Smart 2021</a></p>
-<div class="price"><span class="prc" data-pkr="70999"><b class="pkrv">Rs 70,999</b> <span class="usdv">$257</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.67&quot; display</div><div class="spec">Kirin 710A</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.67&quot; display · Kirin 710A · 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-p-smart-2021.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-p-smart-2021">Compare</a></div>
-</div></div><div class="card" data-name="huawei p30 lite new edition huawei smartphones" data-brand="Huawei" data-price="111999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-p30-lite-new-edition/main-card.webp"><img class="cardimg" src="img/huawei-p30-lite-new-edition/main-card.jpg" alt="Huawei P30 Lite New Edition" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-p30-lite-new-edition.html">Huawei P30 Lite New Edition</a></p>
-<div class="price"><span class="prc" data-pkr="111999"><b class="pkrv">Rs 111,999</b> <span class="usdv">$405</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.15&quot; display</div><div class="spec">Kirin 710</div><div class="spec">6 GB RAM</div><div class="spec">3340 mAh</div>
-<div class="spec">6.15&quot; display · Kirin 710 · 6 GB RAM · 3340 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-p30-lite-new-edition.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-p30-lite-new-edition">Compare</a></div>
-</div></div><div class="card" data-name="huawei p40 huawei smartphones" data-brand="Huawei" data-price="160999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-p40/main-card.webp"><img class="cardimg" src="img/huawei-p40/main-card.jpg" alt="Huawei P40" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-p40.html">Huawei P40</a></p>
-<div class="price"><span class="prc" data-pkr="160999"><b class="pkrv">Rs 160,999</b> <span class="usdv">$582</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.1&quot; display</div><div class="spec">Kirin 990 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">3800 mAh</div>
-<div class="spec">6.1&quot; display · Kirin 990 5G · 6 / 8 GB RAM · 3800 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-p40.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-p40">Compare</a></div>
-</div></div><div class="card" data-name="huawei p40 lite 5g huawei smartphones" data-brand="Huawei" data-price="58999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-p40-lite-5g/main-card.webp"><img class="cardimg" src="img/huawei-p40-lite-5g/main-card.jpg" alt="Huawei P40 Lite 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-p40-lite-5g.html">Huawei P40 Lite 5G</a></p>
-<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Kirin 820 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4000 mAh</div>
-<div class="spec">6.5&quot; display · Kirin 820 5G · 6 / 8 GB RAM · 4000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-p40-lite-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-p40-lite-5g">Compare</a></div>
-</div></div><div class="card" data-name="huawei p40 pro+ huawei smartphones" data-brand="Huawei" data-price="309999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-p40-pro+/main-card.webp"><img class="cardimg" src="img/huawei-p40-pro+/main-card.jpg" alt="Huawei P40 PRO+" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-p40-pro+.html">Huawei P40 PRO+</a></p>
-<div class="price"><span class="prc" data-pkr="309999"><b class="pkrv">Rs 309,999</b> <span class="usdv">$1,120</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.58&quot; display</div><div class="spec">Kirin 990 5G</div><div class="spec">8 GB RAM</div><div class="spec">4200 mAh</div>
-<div class="spec">6.58&quot; display · Kirin 990 5G · 8 GB RAM · 4200 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-p40-pro+.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-p40-pro+">Compare</a></div>
-</div></div><div class="card" data-name="huawei p40 pro huawei smartphones" data-brand="Huawei" data-price="107999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-p40-pro/main-card.webp"><img class="cardimg" src="img/huawei-p40-pro/main-card.jpg" alt="Huawei P40 Pro" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-p40-pro.html">Huawei P40 Pro</a></p>
-<div class="price"><span class="prc" data-pkr="107999"><b class="pkrv">Rs 107,999</b> <span class="usdv">$390</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.58&quot; display</div><div class="spec">Kirin 990 5G</div><div class="spec">8 GB RAM</div><div class="spec">4200 mAh</div>
-<div class="spec">6.58&quot; display · Kirin 990 5G · 8 GB RAM · 4200 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-p40-pro.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-p40-pro">Compare</a></div>
-</div></div><div class="card" data-name="huawei y6p huawei smartphones" data-brand="Huawei" data-price="49999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-y6p/main-card.webp"><img class="cardimg" src="img/huawei-y6p/main-card.jpg" alt="Huawei Y6p" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-y6p.html">Huawei Y6p</a></p>
-<div class="price"><span class="prc" data-pkr="49999"><b class="pkrv">Rs 49,999</b> <span class="usdv">$181</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.3&quot; display</div><div class="spec">Mediatek MT6762R Helio P22</div><div class="spec">3 / 4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.3&quot; display · Mediatek MT6762R Helio P22 · 3 / 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-y6p.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-y6p">Compare</a></div>
-</div></div><div class="card" data-name="huawei y7p huawei smartphones" data-brand="Huawei" data-price="42999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-y7p/main-card.webp"><img class="cardimg" src="img/huawei-y7p/main-card.jpg" alt="Huawei Y7p" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-y7p.html">Huawei Y7p</a></p>
-<div class="price"><span class="prc" data-pkr="42999"><b class="pkrv">Rs 42,999</b> <span class="usdv">$155</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.39&quot; display</div><div class="spec">Kirin 710F</div><div class="spec">4 GB RAM</div><div class="spec">4000 mAh</div>
-<div class="spec">6.39&quot; display · Kirin 710F · 4 GB RAM · 4000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-y7p.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-y7p">Compare</a></div>
-</div></div><div class="card" data-name="huawei y8p huawei smartphones" data-brand="Huawei" data-price="73999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-y8p/main-card.webp"><img class="cardimg" src="img/huawei-y8p/main-card.jpg" alt="Huawei Y8p" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-y8p.html">Huawei Y8p</a></p>
-<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.3&quot; display</div><div class="spec">Kirin 710F</div><div class="spec">4 / 6 GB RAM</div><div class="spec">4000 mAh</div>
-<div class="spec">6.3&quot; display · Kirin 710F · 4 / 6 GB RAM · 4000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-y8p.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-y8p">Compare</a></div>
-</div></div><div class="card" data-name="huawei y8s huawei smartphones" data-brand="Huawei" data-price="42999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-y8s/main-card.webp"><img class="cardimg" src="img/huawei-y8s/main-card.jpg" alt="Huawei Y8s" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-y8s.html">Huawei Y8s</a></p>
-<div class="price"><span class="prc" data-pkr="42999"><b class="pkrv">Rs 42,999</b> <span class="usdv">$155</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Kirin 710</div><div class="spec">4 GB RAM</div><div class="spec">4000 mAh</div>
-<div class="spec">6.5&quot; display · Kirin 710 · 4 GB RAM · 4000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-y8s.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-y8s">Compare</a></div>
-</div></div><div class="card" data-name="huawei y9a huawei smartphones" data-brand="Huawei" data-price="61999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-y9a/main-card.webp"><img class="cardimg" src="img/huawei-y9a/main-card.jpg" alt="Huawei Y9a" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/huawei-y9a.html">Huawei Y9a</a></p>
-<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.63&quot; display</div><div class="spec">Mediatek MT6769V/CU Helio G80</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4200 mAh</div>
-<div class="spec">6.63&quot; display · Mediatek MT6769V/CU Helio G80 · 6 / 8 GB RAM · 4200 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/huawei-y9a.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=huawei-y9a">Compare</a></div>
-</div></div><div class="card" data-name="infinix hot 10 lite infinix smartphones" data-brand="Infinix" data-price="14999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/infinix-hot-10-lite/main-card.webp"><img class="cardimg" src="img/infinix-hot-10-lite/main-card.jpg" alt="Infinix Hot 10 Lite" width="480" height="464" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/infinix-hot-10-lite.html">Infinix Hot 10 Lite</a></p>
-<div class="price"><span class="prc" data-pkr="14999"><b class="pkrv">Rs 14,999</b> <span class="usdv">$54</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.6&quot; display</div><div class="spec">Mediatek MT6761D Helio A20</div><div class="spec">2 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Mediatek MT6761D Helio A20 · 2 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/infinix-hot-10-lite.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=infinix-hot-10-lite">Compare</a></div>
-</div></div><div class="card" data-name="infinix note 7 infinix smartphones" data-brand="Infinix" data-price="24999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/infinix-note-7/main-card.webp"><img class="cardimg" src="img/infinix-note-7/main-card.jpg" alt="Infinix Note 7" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/infinix-note-7.html">Infinix Note 7</a></p>
-<div class="price"><span class="prc" data-pkr="24999"><b class="pkrv">Rs 24,999</b> <span class="usdv">$90</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.95&quot; display</div><div class="spec">Mediatek MT6769V/CB Helio G70</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.95&quot; display · Mediatek MT6769V/CB Helio G70 · 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/infinix-note-7.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=infinix-note-7">Compare</a></div>
-</div></div><div class="card" data-name="infinix note 7 lite infinix smartphones" data-brand="Infinix" data-price="21999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/infinix-note-7-lite/main-card.webp"><img class="cardimg" src="img/infinix-note-7-lite/main-card.jpg" alt="Infinix Note 7 Lite" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/infinix-note-7-lite.html">Infinix Note 7 Lite</a></p>
-<div class="price"><span class="prc" data-pkr="21999"><b class="pkrv">Rs 21,999</b> <span class="usdv">$80</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.6&quot; display</div><div class="spec">Mediatek MT6769V/CB Helio G70</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Mediatek MT6769V/CB Helio G70 · 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/infinix-note-7-lite.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=infinix-note-7-lite">Compare</a></div>
-</div></div><div class="card" data-name="infinix note 8 infinix smartphones" data-brand="Infinix" data-price="29999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/infinix-note-8/main-card.webp"><img class="cardimg" src="img/infinix-note-8/main-card.jpg" alt="Infinix Note 8" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/infinix-note-8.html">Infinix Note 8</a></p>
-<div class="price"><span class="prc" data-pkr="29999"><b class="pkrv">Rs 29,999</b> <span class="usdv">$108</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.95&quot; display</div><div class="spec">Mediatek MT6769V/CU Helio G80</div><div class="spec">6 GB RAM</div><div class="spec">5200 mAh</div>
-<div class="spec">6.95&quot; display · Mediatek MT6769V/CU Helio G80 · 6 GB RAM · 5200 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/infinix-note-8.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=infinix-note-8">Compare</a></div>
-</div></div><div class="card" data-name="infinix note 8i infinix smartphones" data-brand="Infinix" data-price="26999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/infinix-note-8i/main-card.webp"><img class="cardimg" src="img/infinix-note-8i/main-card.jpg" alt="Infinix Note 8i" width="470" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/infinix-note-8i.html">Infinix Note 8i</a></p>
-<div class="price"><span class="prc" data-pkr="26999"><b class="pkrv">Rs 26,999</b> <span class="usdv">$98</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.78&quot; display</div><div class="spec">Mediatek MT6769V/CU Helio G80</div><div class="spec">4 GB RAM</div><div class="spec">5200 mAh</div>
-<div class="spec">6.78&quot; display · Mediatek MT6769V/CU Helio G80 · 4 GB RAM · 5200 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/infinix-note-8i.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=infinix-note-8i">Compare</a></div>
 </div></div>

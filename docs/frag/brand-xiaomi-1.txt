@@ -1,4 +1,24 @@
-<div class="card" data-name="xiaomi mi 8 xiaomi smartphones" data-brand="Xiaomi" data-price="132999" data-year="2018">
+<div class="card" data-name="xiaomi redmi note 5a xiaomi smartphones" data-brand="Xiaomi" data-price="" data-year="2017">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/xiaomi-redmi-note-5a/main-card.webp"><img class="cardimg" src="../img/xiaomi-redmi-note-5a/main-card.jpg" alt="Xiaomi Redmi Note 5a" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/xiaomi-redmi-note-5a.html">Xiaomi Redmi Note 5a</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm Snapdragon 425</div><div class="spec">2 GB RAM</div><div class="spec">3080 mAh</div>
+<div class="spec">5.5&quot; display · Qualcomm Snapdragon 425 · 2 GB RAM · 3080 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/xiaomi-redmi-note-5a.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=xiaomi-redmi-note-5a">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi mi 3 xiaomi smartphones" data-brand="Xiaomi" data-price="61999" data-year="2013">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/xiaomi-mi-3/main-card.webp"><img class="cardimg" src="../img/xiaomi-mi-3/main-card.jpg" alt="Xiaomi Mi 3" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/xiaomi-mi-3.html">Xiaomi Mi 3</a></p>
+<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8274AB Snapdragon 800</div><div class="spec">2 GB RAM</div><div class="spec">3050 mAh</div>
+<div class="spec">5.0&quot; display · Qualcomm MSM8274AB Snapdragon 800 · 2 GB RAM · 3050 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/xiaomi-mi-3.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=xiaomi-mi-3">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi mi 8 xiaomi smartphones" data-brand="Xiaomi" data-price="132999" data-year="2018">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="../img/xiaomi-mi-8/main-card.webp"><img class="cardimg" src="../img/xiaomi-mi-8/main-card.jpg" alt="Xiaomi Mi 8" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">

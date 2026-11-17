@@ -1,4 +1,54 @@
-<div class="card" data-name="motorola moto g5 motorola smartphones" data-brand="Motorola" data-price="45999" data-year="2017">
+<div class="card" data-name="motorola moto e5 play motorola smartphones" data-brand="Motorola" data-price="24999" data-year="2018">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/motorola-moto-e5-play/main-card.webp"><img class="cardimg" src="../img/motorola-moto-e5-play/main-card.jpg" alt="Motorola Moto E5 Play" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/motorola-moto-e5-play.html">Motorola Moto E5 Play</a></p>
+<div class="price"><span class="prc" data-pkr="24999"><b class="pkrv">Rs 24,999</b> <span class="usdv">$90</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.2&quot; display</div><div class="spec">Qualcomm MSM8917 Snapdragon 425</div><div class="spec">2 GB RAM</div><div class="spec">2800 mAh</div>
+<div class="spec">5.2&quot; display · Qualcomm MSM8917 Snapdragon 425 · 2 GB RAM · 2800 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/motorola-moto-e5-play.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=motorola-moto-e5-play">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto e7 motorola smartphones" data-brand="Motorola" data-price="33999" data-year="2020">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/motorola-moto-e7/main-card.webp"><img class="cardimg" src="../img/motorola-moto-e7/main-card.jpg" alt="Motorola Moto E7" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/motorola-moto-e7.html">Motorola Moto E7</a></p>
+<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek MT6762G Helio G25</div><div class="spec">2 / 4 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.5&quot; display · Mediatek MT6762G Helio G25 · 2 / 4 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/motorola-moto-e7.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=motorola-moto-e7">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto e20 motorola smartphones" data-brand="Motorola" data-price="26999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/motorola-moto-e20/main-card.webp"><img class="cardimg" src="../img/motorola-moto-e20/main-card.jpg" alt="Motorola Moto E20" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/motorola-moto-e20.html">Motorola Moto E20</a></p>
+<div class="price"><span class="prc" data-pkr="26999"><b class="pkrv">Rs 26,999</b> <span class="usdv">$98</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Unisoc T606</div><div class="spec">2 / 3 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.5&quot; display · Unisoc T606 · 2 / 3 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/motorola-moto-e20.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=motorola-moto-e20">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto e motorola smartphones" data-brand="Motorola" data-price="30999" data-year="2014">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/motorola-moto-e/main-card.webp"><img class="cardimg" src="../img/motorola-moto-e/main-card.jpg" alt="Motorola Moto E" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/motorola-moto-e.html">Motorola Moto E</a></p>
+<div class="price"><span class="prc" data-pkr="30999"><b class="pkrv">Rs 30,999</b> <span class="usdv">$112</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.3&quot; display</div><div class="spec">Qualcomm Snapdragon 200</div><div class="spec">1 GB RAM</div><div class="spec">1980 mAh</div>
+<div class="spec">4.3&quot; display · Qualcomm Snapdragon 200 · 1 GB RAM · 1980 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/motorola-moto-e.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=motorola-moto-e">Compare</a></div>
+</div></div><div class="card" data-name="motorola krzr k1 motorola keypad phones" data-brand="Motorola" data-price="33999" data-year="2006">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/motorola-krzr-k1/main-card.webp"><img class="cardimg" src="../img/motorola-krzr-k1/main-card.jpg" alt="Motorola Krzr K1" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Keypad Phones</span>
+<p class="ct"><a href="../keypad/motorola-krzr-k1.html">Motorola Krzr K1</a></p>
+<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">1.9&quot; display</div><div class="spec">700 mAh</div>
+<div class="spec">1.9&quot; display · 700 mAh</div>
+<div class="btnrow"><a class="btn" href="../keypad/motorola-krzr-k1.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=motorola-krzr-k1">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto g5 motorola smartphones" data-brand="Motorola" data-price="45999" data-year="2017">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="../img/motorola-moto-g5/main-card.webp"><img class="cardimg" src="../img/motorola-moto-g5/main-card.jpg" alt="Motorola Moto G5" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">

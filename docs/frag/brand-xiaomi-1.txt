@@ -1,4 +1,54 @@
-<div class="card" data-name="xiaomi redmi note 5a xiaomi smartphones" data-brand="Xiaomi" data-price="" data-year="2017">
+<div class="card" data-name="xiaomi note 8 xiaomi smartphones" data-brand="Xiaomi" data-price="" data-year="2020">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/xiaomi-note-8/main-card.webp"><img class="cardimg" src="../img/xiaomi-note-8/main-card.jpg" alt="Xiaomi Note 8" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/xiaomi-note-8.html">Xiaomi Note 8</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.5&quot; display</div><div class="spec">Mediatek MT6580</div><div class="spec">2 GB RAM</div><div class="spec">2700 mAh</div>
+<div class="spec">5.5&quot; display · Mediatek MT6580 · 2 GB RAM · 2700 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/xiaomi-note-8.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=xiaomi-note-8">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi note 10 xiaomi smartphones" data-brand="Xiaomi" data-price="" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/xiaomi-note-10/main-card.webp"><img class="cardimg" src="../img/xiaomi-note-10/main-card.jpg" alt="Xiaomi Note 10" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/xiaomi-note-10.html">Xiaomi Note 10</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.52&quot; display</div><div class="spec">Unisoc SC9863A</div><div class="spec">2 GB RAM</div><div class="spec">5500 mAh</div>
+<div class="spec">6.52&quot; display · Unisoc SC9863A · 2 GB RAM · 5500 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/xiaomi-note-10.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=xiaomi-note-10">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi redmi 1s xiaomi smartphones" data-brand="Xiaomi" data-price="27999" data-year="2014">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/xiaomi-redmi-1s/main-card.webp"><img class="cardimg" src="../img/xiaomi-redmi-1s/main-card.jpg" alt="Xiaomi Redmi 1s" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/xiaomi-redmi-1s.html">Xiaomi Redmi 1s</a></p>
+<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.7&quot; display</div><div class="spec">Qualcomm MSM8228 Snapdragon 400</div><div class="spec">1 GB RAM</div><div class="spec">2000 mAh</div>
+<div class="spec">4.7&quot; display · Qualcomm MSM8228 Snapdragon 400 · 1 GB RAM · 2000 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/xiaomi-redmi-1s.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=xiaomi-redmi-1s">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi redmi 5 xiaomi smartphones" data-brand="Xiaomi" data-price="49999" data-year="2017">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/xiaomi-redmi-5/main-card.webp"><img class="cardimg" src="../img/xiaomi-redmi-5/main-card.jpg" alt="Xiaomi Redmi 5" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/xiaomi-redmi-5.html">Xiaomi Redmi 5</a></p>
+<div class="price"><span class="prc" data-pkr="49999"><b class="pkrv">Rs 49,999</b> <span class="usdv">$181</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Qualcomm SDM450 Snapdragon 450</div><div class="spec">2 / 3 / 4 GB RAM</div><div class="spec">3300 mAh</div>
+<div class="spec">5.7&quot; display · Qualcomm SDM450 Snapdragon 450 · 2 / 3 / 4 GB RAM · 3300 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/xiaomi-redmi-5.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=xiaomi-redmi-5">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi 10a xiaomi smartphones" data-brand="Xiaomi" data-price="" data-year="0">
+
+<picture><source type="image/webp" srcset="../img/xiaomi-10a/main-card.webp"><img class="cardimg" src="../img/xiaomi-10a/main-card.jpg" alt="Xiaomi 10a" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="../phones/xiaomi-10a.html">Xiaomi 10a</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.53&quot; display</div><div class="spec">MediaTek Helio G25</div><div class="spec">2 / 3 / 4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.53&quot; display · MediaTek Helio G25 · 2 / 3 / 4 / 6 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="../phones/xiaomi-10a.html">Full Specs</a>
+<a class="btn alt" href="../compare.html?a=xiaomi-10a">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi redmi note 5a xiaomi smartphones" data-brand="Xiaomi" data-price="" data-year="2017">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="../img/xiaomi-redmi-note-5a/main-card.webp"><img class="cardimg" src="../img/xiaomi-redmi-note-5a/main-card.jpg" alt="Xiaomi Redmi Note 5a" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -1528,13 +1578,13 @@
 <div class="spec">6.83&quot; display · Qualcomm SM6435-AA Snapdragon  · 6 GB RAM · 9000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/xiaomi-redmi-note-17-pro-refresh-5g-(china.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=xiaomi-redmi-note-17-pro-refresh-5g-(china">Compare</a></div>
-</div></div><div class="card" data-name="xiaomi 18 pro max xiaomi smartphones" data-brand="Xiaomi" data-price="284999" data-year="2026">
+</div></div><div class="card" data-name="xiaomi 18 pro max xiaomi smartphones" data-brand="Xiaomi" data-price="511999" data-year="2026">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="../img/xiaomi-18-pro-max-5g/main-card.webp"><img class="cardimg" src="../img/xiaomi-18-pro-max-5g/main-card.jpg" alt="Xiaomi 18 Pro Max" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/xiaomi-18-pro-max-5g.html">Xiaomi 18 Pro Max</a></p>
-<div class="price"><span class="prc" data-pkr="284999"><b class="pkrv">Rs 284,999</b> <span class="usdv">$1,030</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.9&quot; display</div><div class="spec">Qualcomm SM8975 Snapdragon 8 E</div><div class="spec">12 GB RAM</div><div class="spec">8500 mAh</div>
+<div class="price"><span class="prc" data-pkr="511999"><b class="pkrv">Rs 511,999</b> <span class="expw">(Expected)</span> <span class="usdv">$1,850</span></span><span class="plabel">Expected price · Pakistan (expected)</span></div><div class="spec">6.9&quot; display</div><div class="spec">Qualcomm SM8975 Snapdragon 8 E</div><div class="spec">12 GB RAM</div><div class="spec">8500 mAh</div>
 <div class="spec">6.9&quot; display · Qualcomm SM8975 Snapdragon 8 E · 12 GB RAM · 8500 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/xiaomi-18-pro-max-5g.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=xiaomi-18-pro-max-5g">Compare</a></div>
@@ -1798,13 +1848,13 @@
 <div class="spec">6.35&quot; display · Qualcomm SM7750-AB Snapdragon  · 8 GB RAM · 6330 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/xiaomi-poco-x8s-5g.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=xiaomi-poco-x8s-5g">Compare</a></div>
-</div></div><div class="card" data-name="xiaomi 18 pro xiaomi smartphones" data-brand="Xiaomi" data-price="244999" data-year="2026">
+</div></div><div class="card" data-name="xiaomi 18 pro xiaomi smartphones" data-brand="Xiaomi" data-price="447999" data-year="2026">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="../img/xiaomi-18-pro-5g/main-card.webp"><img class="cardimg" src="../img/xiaomi-18-pro-5g/main-card.jpg" alt="Xiaomi 18 Pro" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="../phones/xiaomi-18-pro-5g.html">Xiaomi 18 Pro</a></p>
-<div class="price"><span class="prc" data-pkr="244999"><b class="pkrv">Rs 244,999</b> <span class="usdv">$885</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.4&quot; display</div><div class="spec">Qualcomm Snapdragon 8 Elite Ge</div><div class="spec">12 GB RAM</div><div class="spec">7000 mAh</div>
+<div class="price"><span class="prc" data-pkr="447999"><b class="pkrv">Rs 447,999</b> <span class="expw">(Expected)</span> <span class="usdv">$1,619</span></span><span class="plabel">Expected price · Pakistan (expected)</span></div><div class="spec">6.4&quot; display</div><div class="spec">Qualcomm Snapdragon 8 Elite Ge</div><div class="spec">12 GB RAM</div><div class="spec">7000 mAh</div>
 <div class="spec">6.4&quot; display · Qualcomm Snapdragon 8 Elite Ge · 12 GB RAM · 7000 mAh</div>
 <div class="btnrow"><a class="btn" href="../phones/xiaomi-18-pro-5g.html">Full Specs</a>
 <a class="btn alt" href="../compare.html?a=xiaomi-18-pro-5g">Compare</a></div>

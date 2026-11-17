@@ -3035,6 +3035,29 @@
   "sb": 20
  },
  {
+  "slug": "huawei-mate-x8-5g",
+  "name": "Huawei Mate X8",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-mate-x8-5g.html",
+  "sb": 9,
+  "exp": 1
+ },
+ {
+  "slug": "oppo-watch-5",
+  "name": "Oppo Watch 5",
+  "brand": "Oppo",
+  "cat": "Smartwatches",
+  "price": 135,
+  "price_pkr": 37299,
+  "path": "smartwatches/oppo-watch-5.html",
+  "sb": 19,
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
   "slug": "samsung-galaxy-tab-s8",
   "name": "Samsung Galaxy Tab S8",
   "brand": "Samsung",

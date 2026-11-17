@@ -1,4 +1,14 @@
-<div class="card" data-name="htc mteor htc smartphones" data-brand="HTC" data-price="55999" data-year="2006">
+<div class="card" data-name="asus p525 asus smartphones" data-brand="Asus" data-price="" data-year="2006">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/asus-p525/main-card.webp"><img class="cardimg" src="img/asus-p525/main-card.jpg" alt="Asus P525" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/asus-p525.html">Asus P525</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">2.8&quot; display</div><div class="spec">Intel XScale 416 MHz</div><div class="spec">1300 mAh</div>
+<div class="spec">2.8&quot; display · Intel XScale 416 MHz · 1300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/asus-p525.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=asus-p525">Compare</a></div>
+</div></div><div class="card" data-name="htc mteor htc smartphones" data-brand="HTC" data-price="55999" data-year="2006">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/htc-mteor/main-card.webp"><img class="cardimg" src="img/htc-mteor/main-card.jpg" alt="HTC Mteor" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">

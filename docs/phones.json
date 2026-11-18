@@ -3058,6 +3058,30 @@
   "pl": "Expected price"
  },
  {
+  "slug": "xiaomi-watch-s5-41mm",
+  "name": "Xiaomi Watch S5 41mm",
+  "brand": "Xiaomi",
+  "cat": "Smartwatches",
+  "price": 188,
+  "price_pkr": 51999,
+  "path": "smartwatches/xiaomi-watch-s5-41mm.html",
+  "sb": 12,
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "vivo-y6k-5g",
+  "name": "vivo Y6k",
+  "brand": "Vivo",
+  "cat": "Smartphones",
+  "price": 242,
+  "price_pkr": 66999,
+  "path": "phones/vivo-y6k-5g.html",
+  "sb": 1,
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
   "slug": "samsung-galaxy-tab-s8",
   "name": "Samsung Galaxy Tab S8",
   "brand": "Samsung",

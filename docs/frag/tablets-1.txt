@@ -1,4 +1,14 @@
-<div class="card" data-name="infinix xpad 20 infinix tablets" data-brand="Infinix" data-price="40999" data-year="2025">
+<div class="card" data-name="huawei matepad 11.5 (2026) huawei tablets" data-brand="Huawei" data-price="69999" data-year="2025">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/huawei-matepad-11-5-(2026)/main-card.webp"><img class="cardimg" src="img/huawei-matepad-11-5-(2026)/main-card.jpg" alt="Huawei MatePad 11.5 (2026)" width="350" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Tablets</span>
+<p class="ct"><a href="tablets/huawei-matepad-11-5-(2026).html">Huawei MatePad 11.5 (2026)</a></p>
+<div class="price"><span class="prc" data-pkr="69999"><b class="pkrv">Rs 69,999</b> <span class="usdv">$253</span></span><span class="plabel">Estimated price</span></div><div class="spec">11.5&quot; display</div><div class="spec">Kirin T82B</div><div class="spec">8 GB RAM</div><div class="spec">10100 mAh</div>
+<div class="spec">11.5&quot; display · Kirin T82B · 8 GB RAM · 10100 mAh</div>
+<div class="btnrow"><a class="btn" href="tablets/huawei-matepad-11-5-(2026).html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=huawei-matepad-11-5-(2026)">Compare</a></div>
+</div></div><div class="card" data-name="infinix xpad 20 infinix tablets" data-brand="Infinix" data-price="40999" data-year="2025">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/infinix-xpad-20/main-card.webp"><img class="cardimg" src="img/infinix-xpad-20/main-card.jpg" alt="Infinix Xpad 20" width="363" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -178,6 +188,26 @@
 <div class="spec">12.0&quot; display · 8 GB RAM · 10000 mAh</div>
 <div class="btnrow"><a class="btn" href="tablets/tecno-megapad-pro.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=tecno-megapad-pro">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi poco pad x1 xiaomi tablets" data-brand="Xiaomi" data-price="" data-year="2025">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/xiaomi-poco-pad-x1/main-card.webp"><img class="cardimg" src="img/xiaomi-poco-pad-x1/main-card.jpg" alt="Xiaomi Poco Pad X1" width="345" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Tablets</span>
+<p class="ct"><a href="tablets/xiaomi-poco-pad-x1.html">Xiaomi Poco Pad X1</a></p>
+<div class="price"><span class="usdv">Price not announced</span></div><div class="spec">11.2&quot; display</div><div class="spec">Qualcomm SM7675-AB Snapdragon </div><div class="spec">8 GB RAM</div><div class="spec">8850 mAh</div>
+<div class="spec">11.2&quot; display · Qualcomm SM7675-AB Snapdragon  · 8 GB RAM · 8850 mAh</div>
+<div class="btnrow"><a class="btn" href="tablets/xiaomi-poco-pad-x1.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=xiaomi-poco-pad-x1">Compare</a></div>
+</div></div><div class="card" data-name="zte pad zte tablets" data-brand="ZTE" data-price="73999" data-year="2025">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/zte-pad-5g-x1102n/main-card.webp"><img class="cardimg" src="img/zte-pad-5g-x1102n/main-card.jpg" alt="ZTE Pad" width="480" height="455" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Tablets</span>
+<p class="ct"><a href="tablets/zte-pad-5g-x1102n.html">ZTE Pad</a></p>
+<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">11.0&quot; display</div><div class="spec">Unisoc T8100</div><div class="spec">6 GB RAM</div><div class="spec">7670 mAh</div>
+<div class="spec">11.0&quot; display · Unisoc T8100 · 6 GB RAM · 7670 mAh</div>
+<div class="btnrow"><a class="btn" href="tablets/zte-pad-5g-x1102n.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=zte-pad-5g-x1102n">Compare</a></div>
 </div></div><div class="card" data-name="airtab u24 pro airtab tablets" data-brand="Airtab" data-price="" data-year="2024">
 <span class="badge cont">Continued</span>
 <div class="cardph">📱</div>

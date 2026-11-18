@@ -1878,13 +1878,13 @@
 <div class="spec">6.81&quot; display · Unisoc T7250 · 4 GB RAM · 6500 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/realme-c01.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=realme-c01">Compare</a></div>
-</div></div><div class="card" data-name="realme c100 realme smartphones" data-brand="Realme" data-price="63999" data-year="2026">
+</div></div><div class="card" data-name="realme c100 realme smartphones" data-brand="Realme" data-price="99999" data-year="2026">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/realme-c100-5g/main-card.webp"><img class="cardimg" src="img/realme-c100-5g/main-card.jpg" alt="Realme C100" width="399" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/realme-c100-5g.html">Realme C100</a></p>
-<div class="price"><span class="prc" data-pkr="63999"><b class="pkrv">Rs 63,999</b> <span class="usdv">$231</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.8&quot; display</div><div class="spec">Mediatek Dimensity 6300</div><div class="spec">4 GB RAM</div><div class="spec">7000 mAh</div>
+<div class="price"><span class="prc" data-pkr="99999"><b class="pkrv">Rs 99,999</b> <span class="usdv">$361</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.8&quot; display</div><div class="spec">Mediatek Dimensity 6300</div><div class="spec">4 GB RAM</div><div class="spec">7000 mAh</div>
 <div class="spec">6.8&quot; display · Mediatek Dimensity 6300 · 4 GB RAM · 7000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/realme-c100-5g.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=realme-c100-5g">Compare</a></div>
@@ -3188,13 +3188,13 @@
 <div class="spec">7.5&quot; display · Mediatek Dimensity 7100 · 8 GB RAM · 7100 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/zte-nubia-neo-5-max-5g.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=zte-nubia-neo-5-max-5g">Compare</a></div>
-</div></div><div class="card" data-name="zte nubia neo 5 pro zte smartphones" data-brand="ZTE" data-price="" data-year="2026">
+</div></div><div class="card" data-name="zte nubia neo 5 pro zte smartphones" data-brand="ZTE" data-price="119999" data-year="2026">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/zte-nubia-neo-5-pro-5g/main-card.webp"><img class="cardimg" src="img/zte-nubia-neo-5-pro-5g/main-card.jpg" alt="ZTE nubia Neo 5 Pro" width="397" height="480" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/zte-nubia-neo-5-pro-5g.html">ZTE nubia Neo 5 Pro</a></p>
-<div class="price"><span class="usdv">Price not announced</span></div><div class="spec">6.8&quot; display</div><div class="spec">Unisoc T9100</div><div class="spec">8 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="price"><span class="prc" data-pkr="119999"><b class="pkrv">Rs 119,999</b> <span class="usdv">$434</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.8&quot; display</div><div class="spec">Unisoc T9100</div><div class="spec">8 GB RAM</div><div class="spec">6000 mAh</div>
 <div class="spec">6.8&quot; display · Unisoc T9100 · 8 GB RAM · 6000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/zte-nubia-neo-5-pro-5g.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=zte-nubia-neo-5-pro-5g">Compare</a></div>
@@ -3498,6 +3498,16 @@
 <div class="spec">8.02&quot; display · Mediatek Dimensity 9500 Super · 12 GB RAM · 6900 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/vivo-x-fold6-5g.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=vivo-x-fold6-5g">Compare</a></div>
+</div></div><div class="card" data-name="vivo x200t vivo smartphones" data-brand="Vivo" data-price="175999" data-year="2026">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/vivo-x200t-5g/main-card.webp"><img class="cardimg" src="img/vivo-x200t-5g/main-card.jpg" alt="vivo X200T" width="437" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/vivo-x200t-5g.html">vivo X200T</a></p>
+<div class="price"><span class="prc" data-pkr="175999"><b class="pkrv">Rs 175,999</b> <span class="usdv">$636</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.67&quot; display</div><div class="spec">Mediatek Dimensity 9400+</div><div class="spec">12 GB RAM</div><div class="spec">6200 mAh</div>
+<div class="spec">6.67&quot; display · Mediatek Dimensity 9400+ · 12 GB RAM · 6200 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/vivo-x200t-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=vivo-x200t-5g">Compare</a></div>
 </div></div><div class="card" data-name="vivo x300 e vivo smartphones" data-brand="Vivo" data-price="191999" data-year="2026">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/vivo-x300-e-5g/main-card.webp"><img class="cardimg" src="img/vivo-x300-e-5g/main-card.jpg" alt="vivo X300 E" width="480" height="480" loading="lazy"></picture>
@@ -3700,7 +3710,7 @@
 <a class="btn alt" href="compare.html?a=vivo-y600i-5g">Compare</a></div>
 </div></div><div class="card" data-name="vivo y6k vivo smartphones" data-brand="Vivo" data-price="66999" data-year="2026">
 <span class="badge cont">Continued</span>
-<div class="cardph">📱</div>
+<picture><source type="image/webp" srcset="img/vivo-y6k-5g/main-card.webp"><img class="cardimg" src="img/vivo-y6k-5g/main-card.jpg" alt="vivo Y6k" width="480" height="339" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/vivo-y6k-5g.html">vivo Y6k</a></p>
@@ -3988,14 +3998,4 @@
 <div class="spec">6.56&quot; display · Mediatek Helio G81 · 6 GB RAM · 15000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/blackview-rock-1.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=blackview-rock-1">Compare</a></div>
-</div></div><div class="card" data-name="blackview rock 1 pro blackview smartphones" data-brand="Blackview" data-price="" data-year="2025">
-<span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/blackview-rock-1-pro/main-card.webp"><img class="cardimg" src="img/blackview-rock-1-pro/main-card.jpg" alt="Blackview Rock 1 Pro" width="455" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/blackview-rock-1-pro.html">Blackview Rock 1 Pro</a></p>
-<div class="price"><span class="usdv">Price not announced</span></div><div class="spec">6.56&quot; display</div><div class="spec">Mediatek Helio G81</div><div class="spec">8 GB RAM</div><div class="spec">15000 mAh</div>
-<div class="spec">6.56&quot; display · Mediatek Helio G81 · 8 GB RAM · 15000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/blackview-rock-1-pro.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=blackview-rock-1-pro">Compare</a></div>
 </div></div>

@@ -1,4 +1,294 @@
-<div class="card" data-name="vivo x6 vivo smartphones" data-brand="Vivo" data-price="" data-year="2015">
+<div class="card" data-name="samsung galaxy j2 duos samsung smartphones" data-brand="Samsung" data-price="" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-j2-duos/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-j2-duos/main-card.jpg" alt="Samsung Galaxy J2 Duos" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-j2-duos.html">Samsung Galaxy J2 Duos</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">4.7&quot; display</div><div class="spec">Samsung Exynos 3475 Quad</div><div class="spec">1 GB RAM</div><div class="spec">2000 mAh</div>
+<div class="spec">4.7&quot; display · Samsung Exynos 3475 Quad · 1 GB RAM · 2000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-j2-duos.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-j2-duos">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy j7 samsung smartphones" data-brand="Samsung" data-price="61999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-j7/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-j7/main-card.jpg" alt="Samsung Galaxy J7" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-j7.html">Samsung Galaxy J7</a></p>
+<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8939 Snapdragon 615</div><div class="spec">5 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">5.5&quot; display · Qualcomm MSM8939 Snapdragon 615 · 5 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-j7.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-j7">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy note5 duos samsung smartphones" data-brand="Samsung" data-price="139999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-note5-duos/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-note5-duos/main-card.jpg" alt="Samsung Galaxy Note5 Duos" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-note5-duos.html">Samsung Galaxy Note5 Duos</a></p>
+<div class="price"><span class="prc" data-pkr="139999"><b class="pkrv">Rs 139,999</b> <span class="usdv">$506</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Exynos 7420 Octa</div><div class="spec">4 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">5.7&quot; display · Exynos 7420 Octa · 4 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-note5-duos.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-note5-duos">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy s5 neo samsung smartphones" data-brand="Samsung" data-price="92999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-s5-neo/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-s5-neo/main-card.jpg" alt="Samsung Galaxy S5 Neo" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-s5-neo.html">Samsung Galaxy S5 Neo</a></p>
+<div class="price"><span class="prc" data-pkr="92999"><b class="pkrv">Rs 92,999</b> <span class="usdv">$336</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.1&quot; display</div><div class="spec">Exynos 7580 Octa</div><div class="spec">2 GB RAM</div><div class="spec">2800 mAh</div>
+<div class="spec">5.1&quot; display · Exynos 7580 Octa · 2 GB RAM · 2800 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-s5-neo.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-s5-neo">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy s6 samsung smartphones" data-brand="Samsung" data-price="73999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-s6/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-s6/main-card.jpg" alt="Samsung Galaxy S6" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-s6.html">Samsung Galaxy S6</a></p>
+<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.1&quot; display</div><div class="spec">Exynos 7420 Octa</div><div class="spec">3 GB RAM</div><div class="spec">2550 mAh</div>
+<div class="spec">5.1&quot; display · Exynos 7420 Octa · 3 GB RAM · 2550 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-s6.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-s6">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy s6 active samsung smartphones" data-brand="Samsung" data-price="107999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-s6-active/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-s6-active/main-card.jpg" alt="Samsung Galaxy S6 Active" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-s6-active.html">Samsung Galaxy S6 Active</a></p>
+<div class="price"><span class="prc" data-pkr="107999"><b class="pkrv">Rs 107,999</b> <span class="usdv">$390</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.1&quot; display</div><div class="spec">Exynos 7420 Octa</div><div class="spec">3 GB RAM</div><div class="spec">3500 mAh</div>
+<div class="spec">5.1&quot; display · Exynos 7420 Octa · 3 GB RAM · 3500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-s6-active.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-s6-active">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy s6 duos samsung smartphones" data-brand="Samsung" data-price="123999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-s6-duos/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-s6-duos/main-card.jpg" alt="Samsung Galaxy S6 Duos" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-s6-duos.html">Samsung Galaxy S6 Duos</a></p>
+<div class="price"><span class="prc" data-pkr="123999"><b class="pkrv">Rs 123,999</b> <span class="usdv">$448</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.1&quot; display</div><div class="spec">Exynos 7420 Octa</div><div class="spec">3 GB RAM</div><div class="spec">2550 mAh</div>
+<div class="spec">5.1&quot; display · Exynos 7420 Octa · 3 GB RAM · 2550 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-s6-duos.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-s6-duos">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy s6 edge+ samsung smartphones" data-brand="Samsung" data-price="139999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-s6-edge+/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-s6-edge+/main-card.jpg" alt="Samsung Galaxy S6 EDGE+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-s6-edge+.html">Samsung Galaxy S6 EDGE+</a></p>
+<div class="price"><span class="prc" data-pkr="139999"><b class="pkrv">Rs 139,999</b> <span class="usdv">$506</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.7&quot; display</div><div class="spec">Exynos 7420 Octa</div><div class="spec">4 GB RAM</div><div class="spec">3000 mAh</div>
+<div class="spec">5.7&quot; display · Exynos 7420 Octa · 4 GB RAM · 3000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-s6-edge+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-s6-edge+">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy s6 edge samsung smartphones" data-brand="Samsung" data-price="86999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-s6-edge/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-s6-edge/main-card.jpg" alt="Samsung Galaxy S6 Edge" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-s6-edge.html">Samsung Galaxy S6 Edge</a></p>
+<div class="price"><span class="prc" data-pkr="86999"><b class="pkrv">Rs 86,999</b> <span class="usdv">$314</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.1&quot; display</div><div class="spec">Exynos 7420 Octa</div><div class="spec">3 GB RAM</div><div class="spec">2600 mAh</div>
+<div class="spec">5.1&quot; display · Exynos 7420 Octa · 3 GB RAM · 2600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-s6-edge.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-s6-edge">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy xcover 3 samsung smartphones" data-brand="Samsung" data-price="67999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/samsung-galaxy-xcover-3/main-card.webp"><img class="cardimg" src="img/samsung-galaxy-xcover-3/main-card.jpg" alt="Samsung Galaxy Xcover 3" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/samsung-galaxy-xcover-3.html">Samsung Galaxy Xcover 3</a></p>
+<div class="price"><span class="prc" data-pkr="67999"><b class="pkrv">Rs 67,999</b> <span class="usdv">$246</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.5&quot; display</div><div class="spec">Marvell Armada PXA1908</div><div class="spec">5 GB RAM</div><div class="spec">2200 mAh</div>
+<div class="spec">4.5&quot; display · Marvell Armada PXA1908 · 5 GB RAM · 2200 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-xcover-3.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=samsung-galaxy-xcover-3">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia c4 sony smartphones" data-brand="Sony" data-price="67999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-c4/main-card.webp"><img class="cardimg" src="img/sony-xperia-c4/main-card.jpg" alt="Sony Xperia C4" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-c4.html">Sony Xperia C4</a></p>
+<div class="price"><span class="prc" data-pkr="67999"><b class="pkrv">Rs 67,999</b> <span class="usdv">$246</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Mediatek MT6752</div><div class="spec">2 GB RAM</div><div class="spec">2600 mAh</div>
+<div class="spec">5.5&quot; display · Mediatek MT6752 · 2 GB RAM · 2600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-c4.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-c4">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia c5 ultra sony smartphones" data-brand="Sony" data-price="61999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-c5-ultra/main-card.webp"><img class="cardimg" src="img/sony-xperia-c5-ultra/main-card.jpg" alt="Sony Xperia C5 Ultra" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-c5-ultra.html">Sony Xperia C5 Ultra</a></p>
+<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.0&quot; display</div><div class="spec">Mediatek MT6752</div><div class="spec">2 GB RAM</div><div class="spec">2930 mAh</div>
+<div class="spec">6.0&quot; display · Mediatek MT6752 · 2 GB RAM · 2930 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-c5-ultra.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-c5-ultra">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia c5 ultra dual sony smartphones" data-brand="Sony" data-price="61999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-c5-ultra-dual/main-card.webp"><img class="cardimg" src="img/sony-xperia-c5-ultra-dual/main-card.jpg" alt="Sony Xperia C5 Ultra Dual" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-c5-ultra-dual.html">Sony Xperia C5 Ultra Dual</a></p>
+<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.0&quot; display</div><div class="spec">Mediatek MT6752</div><div class="spec">2 GB RAM</div><div class="spec">2930 mAh</div>
+<div class="spec">6.0&quot; display · Mediatek MT6752 · 2 GB RAM · 2930 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-c5-ultra-dual.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-c5-ultra-dual">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia e4 sony smartphones" data-brand="Sony" data-price="36999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-e4/main-card.webp"><img class="cardimg" src="img/sony-xperia-e4/main-card.jpg" alt="Sony Xperia E4" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-e4.html">Sony Xperia E4</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Mediatek MT6582</div><div class="spec">1 GB RAM</div><div class="spec">2300 mAh</div>
+<div class="spec">5.0&quot; display · Mediatek MT6582 · 1 GB RAM · 2300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-e4.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-e4">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia e4 dual sony smartphones" data-brand="Sony" data-price="36999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-e4-dual/main-card.webp"><img class="cardimg" src="img/sony-xperia-e4-dual/main-card.jpg" alt="Sony Xperia E4 Dual" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-e4-dual.html">Sony Xperia E4 Dual</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Mediatek MT6582</div><div class="spec">1 GB RAM</div><div class="spec">2300 mAh</div>
+<div class="spec">5.0&quot; display · Mediatek MT6582 · 1 GB RAM · 2300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-e4-dual.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-e4-dual">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia e4g sony smartphones" data-brand="Sony" data-price="39999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-e4g/main-card.webp"><img class="cardimg" src="img/sony-xperia-e4g/main-card.jpg" alt="Sony Xperia E4g" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-e4g.html">Sony Xperia E4g</a></p>
+<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.7&quot; display</div><div class="spec">MediaTek MT6732</div><div class="spec">1 GB RAM</div><div class="spec">2300 mAh</div>
+<div class="spec">4.7&quot; display · MediaTek MT6732 · 1 GB RAM · 2300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-e4g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-e4g">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia e4g dual sony smartphones" data-brand="Sony" data-price="45999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-e4g-dual/main-card.webp"><img class="cardimg" src="img/sony-xperia-e4g-dual/main-card.jpg" alt="Sony Xperia E4g Dual" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-e4g-dual.html">Sony Xperia E4g Dual</a></p>
+<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.7&quot; display</div><div class="spec">MediaTek MT6732</div><div class="spec">1 GB RAM</div><div class="spec">2300 mAh</div>
+<div class="spec">4.7&quot; display · MediaTek MT6732 · 1 GB RAM · 2300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-e4g-dual.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-e4g-dual">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia m4 aqua sony smartphones" data-brand="Sony" data-price="58999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-m4-aqua/main-card.webp"><img class="cardimg" src="img/sony-xperia-m4-aqua/main-card.jpg" alt="Sony Xperia M4 Aqua" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-m4-aqua.html">Sony Xperia M4 Aqua</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8939 Snapdragon 615</div><div class="spec">2 GB RAM</div><div class="spec">2400 mAh</div>
+<div class="spec">5.0&quot; display · Qualcomm MSM8939 Snapdragon 615 · 2 GB RAM · 2400 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-m4-aqua.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-m4-aqua">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia m4 aqua dual sony smartphones" data-brand="Sony" data-price="61999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-m4-aqua-dual/main-card.webp"><img class="cardimg" src="img/sony-xperia-m4-aqua-dual/main-card.jpg" alt="Sony Xperia M4 Aqua Dual" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-m4-aqua-dual.html">Sony Xperia M4 Aqua Dual</a></p>
+<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8939 Snapdragon 615</div><div class="spec">2 GB RAM</div><div class="spec">2400 mAh</div>
+<div class="spec">5.0&quot; display · Qualcomm MSM8939 Snapdragon 615 · 2 GB RAM · 2400 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-m4-aqua-dual.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-m4-aqua-dual">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia m5 sony smartphones" data-brand="Sony" data-price="33999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-m5/main-card.webp"><img class="cardimg" src="img/sony-xperia-m5/main-card.jpg" alt="Sony Xperia M5" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-m5.html">Sony Xperia M5</a></p>
+<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Mediatek MT6795 Helio X10</div><div class="spec">3 GB RAM</div><div class="spec">2600 mAh</div>
+<div class="spec">5.0&quot; display · Mediatek MT6795 Helio X10 · 3 GB RAM · 2600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-m5.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-m5">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia m5 dual sony smartphones" data-brand="Sony" data-price="33999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-m5-dual/main-card.webp"><img class="cardimg" src="img/sony-xperia-m5-dual/main-card.jpg" alt="Sony Xperia M5 Dual" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-m5-dual.html">Sony Xperia M5 Dual</a></p>
+<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.0&quot; display</div><div class="spec">Mediatek MT6795 Helio X10</div><div class="spec">3 GB RAM</div><div class="spec">2600 mAh</div>
+<div class="spec">5.0&quot; display · Mediatek MT6795 Helio X10 · 3 GB RAM · 2600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-m5-dual.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-m5-dual">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia z3+ sony smartphones" data-brand="Sony" data-price="89999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-z3+/main-card.webp"><img class="cardimg" src="img/sony-xperia-z3+/main-card.jpg" alt="Sony Xperia Z3+" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-z3+.html">Sony Xperia Z3+</a></p>
+<div class="price"><span class="prc" data-pkr="89999"><b class="pkrv">Rs 89,999</b> <span class="usdv">$325</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.2&quot; display</div><div class="spec">Qualcomm MSM8994 Snapdragon 810</div><div class="spec">3 GB RAM</div><div class="spec">2930 mAh</div>
+<div class="spec">5.2&quot; display · Qualcomm MSM8994 Snapdragon 810 · 3 GB RAM · 2930 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-z3+.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-z3+">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia z5 sony smartphones" data-brand="Sony" data-price="45999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-z5/main-card.webp"><img class="cardimg" src="img/sony-xperia-z5/main-card.jpg" alt="Sony Xperia Z5" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-z5.html">Sony Xperia Z5</a></p>
+<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.2&quot; display</div><div class="spec">Qualcomm MSM8994 Snapdragon 810</div><div class="spec">3 GB RAM</div><div class="spec">2900 mAh</div>
+<div class="spec">5.2&quot; display · Qualcomm MSM8994 Snapdragon 810 · 3 GB RAM · 2900 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-z5.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-z5">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia z5 compact sony smartphones" data-brand="Sony" data-price="61999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-z5-compact/main-card.webp"><img class="cardimg" src="img/sony-xperia-z5-compact/main-card.jpg" alt="Sony Xperia Z5 Compact" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-z5-compact.html">Sony Xperia Z5 Compact</a></p>
+<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">4.6&quot; display</div><div class="spec">Qualcomm MSM8994 Snapdragon 810</div><div class="spec">2 GB RAM</div><div class="spec">2700 mAh</div>
+<div class="spec">4.6&quot; display · Qualcomm MSM8994 Snapdragon 810 · 2 GB RAM · 2700 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-z5-compact.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-z5-compact">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia z5 dual sony smartphones" data-brand="Sony" data-price="52999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-z5-dual/main-card.webp"><img class="cardimg" src="img/sony-xperia-z5-dual/main-card.jpg" alt="Sony Xperia Z5 Dual" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-z5-dual.html">Sony Xperia Z5 Dual</a></p>
+<div class="price"><span class="prc" data-pkr="52999"><b class="pkrv">Rs 52,999</b> <span class="usdv">$192</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.2&quot; display</div><div class="spec">Qualcomm MSM8994 Snapdragon 810</div><div class="spec">3 GB RAM</div><div class="spec">2900 mAh</div>
+<div class="spec">5.2&quot; display · Qualcomm MSM8994 Snapdragon 810 · 3 GB RAM · 2900 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-z5-dual.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-z5-dual">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia z5 premium sony smartphones" data-brand="Sony" data-price="58999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-z5-premium/main-card.webp"><img class="cardimg" src="img/sony-xperia-z5-premium/main-card.jpg" alt="Sony Xperia Z5 Premium" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-z5-premium.html">Sony Xperia Z5 Premium</a></p>
+<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8994 Snapdragon 810</div><div class="spec">3 GB RAM</div><div class="spec">3430 mAh</div>
+<div class="spec">5.5&quot; display · Qualcomm MSM8994 Snapdragon 810 · 3 GB RAM · 3430 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-z5-premium.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-z5-premium">Compare</a></div>
+</div></div><div class="card" data-name="sony xperia z5 premium dual sony smartphones" data-brand="Sony" data-price="67999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/sony-xperia-z5-premium-dual/main-card.webp"><img class="cardimg" src="img/sony-xperia-z5-premium-dual/main-card.jpg" alt="Sony Xperia Z5 Premium Dual" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/sony-xperia-z5-premium-dual.html">Sony Xperia Z5 Premium Dual</a></p>
+<div class="price"><span class="prc" data-pkr="67999"><b class="pkrv">Rs 67,999</b> <span class="usdv">$246</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8994 Snapdragon 810</div><div class="spec">3 GB RAM</div><div class="spec">3430 mAh</div>
+<div class="spec">5.5&quot; display · Qualcomm MSM8994 Snapdragon 810 · 3 GB RAM · 3430 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/sony-xperia-z5-premium-dual.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=sony-xperia-z5-premium-dual">Compare</a></div>
+</div></div><div class="card" data-name="vivo v1 vivo smartphones" data-brand="Vivo" data-price="" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/vivo-v1/main-card.webp"><img class="cardimg" src="img/vivo-v1/main-card.jpg" alt="Vivo V1" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/vivo-v1.html">Vivo V1</a></p>
+<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">5.0&quot; display</div><div class="spec">Qualcomm MSM8916 Snapdragon 410</div><div class="spec">2 GB RAM</div><div class="spec">2300 mAh</div>
+<div class="spec">5.0&quot; display · Qualcomm MSM8916 Snapdragon 410 · 2 GB RAM · 2300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/vivo-v1.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=vivo-v1">Compare</a></div>
+</div></div><div class="card" data-name="vivo x5pro vivo smartphones" data-brand="Vivo" data-price="92999" data-year="2015">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/vivo-x5pro/main-card.webp"><img class="cardimg" src="img/vivo-x5pro/main-card.jpg" alt="Vivo X5PRO" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/vivo-x5pro.html">Vivo X5PRO</a></p>
+<div class="price"><span class="prc" data-pkr="92999"><b class="pkrv">Rs 92,999</b> <span class="usdv">$336</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.2&quot; display</div><div class="spec">Qualcomm MSM8939 Snapdragon 615</div><div class="spec">2 GB RAM</div><div class="spec">2450 mAh</div>
+<div class="spec">5.2&quot; display · Qualcomm MSM8939 Snapdragon 615 · 2 GB RAM · 2450 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/vivo-x5pro.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=vivo-x5pro">Compare</a></div>
+</div></div><div class="card" data-name="vivo x6 vivo smartphones" data-brand="Vivo" data-price="" data-year="2015">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/vivo-x6/main-card.webp"><img class="cardimg" src="img/vivo-x6/main-card.jpg" alt="Vivo X6" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -3708,294 +3998,4 @@
 <div class="spec">2.8&quot; display · Qualcomm MSM7225 Snapdragon S1 · 1100 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/htc-tattoo.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=htc-tattoo">Compare</a></div>
-</div></div><div class="card" data-name="htc touch pro 2 htc smartphones" data-brand="HTC" data-price="" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-touch-pro-2/main-card.webp"><img class="cardimg" src="img/htc-touch-pro-2/main-card.jpg" alt="HTC Touch Pro 2" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-touch-pro-2.html">HTC Touch Pro 2</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">3.6&quot; display</div><div class="spec">Qualcomm MSM7200A</div><div class="spec">1500 mAh</div>
-<div class="spec">3.6&quot; display · Qualcomm MSM7200A · 1500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-touch-pro-2.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-touch-pro-2">Compare</a></div>
-</div></div><div class="card" data-name="motorola a3000 motorola smartphones" data-brand="Motorola" data-price="39999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-a3000/main-card.webp"><img class="cardimg" src="img/motorola-a3000/main-card.jpg" alt="Motorola A3000" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/motorola-a3000.html">Motorola A3000</a></p>
-<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.8&quot; display</div><div class="spec">Qualcomm ESM7206A</div><div class="spec">1130 mAh</div>
-<div class="spec">2.8&quot; display · Qualcomm ESM7206A · 1130 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/motorola-a3000.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=motorola-a3000">Compare</a></div>
-</div></div><div class="card" data-name="motorola a3100 motorola smartphones" data-brand="Motorola" data-price="45999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-a3100/main-card.webp"><img class="cardimg" src="img/motorola-a3100/main-card.jpg" alt="Motorola A3100" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/motorola-a3100.html">Motorola A3100</a></p>
-<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.8&quot; display</div><div class="spec">Qualcomm MSM7201A</div><div class="spec">1170 mAh</div>
-<div class="spec">2.8&quot; display · Qualcomm MSM7201A · 1170 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/motorola-a3100.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=motorola-a3100">Compare</a></div>
-</div></div><div class="card" data-name="nokia 5230 nokia smartphones" data-brand="Nokia" data-price="24999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-5230/main-card.webp"><img class="cardimg" src="img/nokia-5230/main-card.jpg" alt="Nokia 5230" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-5230.html">Nokia 5230</a></p>
-<div class="price"><span class="prc" data-pkr="24999"><b class="pkrv">Rs 24,999</b> <span class="usdv">$90</span></span><span class="plabel">Estimated price</span></div><div class="spec">3.2&quot; display</div><div class="spec">434 MHz ARM 11</div><div class="spec">1320 mAh</div>
-<div class="spec">3.2&quot; display · 434 MHz ARM 11 · 1320 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-5230.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-5230">Compare</a></div>
-</div></div><div class="card" data-name="nokia 5530 xpressmusic nokia smartphones" data-brand="Nokia" data-price="30999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-5530-xpressmusic/main-card.webp"><img class="cardimg" src="img/nokia-5530-xpressmusic/main-card.jpg" alt="Nokia 5530 Xpressmusic" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-5530-xpressmusic.html">Nokia 5530 Xpressmusic</a></p>
-<div class="price"><span class="prc" data-pkr="30999"><b class="pkrv">Rs 30,999</b> <span class="usdv">$112</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.9&quot; display</div><div class="spec">434 MHz ARM 11</div><div class="spec">1000 mAh</div>
-<div class="spec">2.9&quot; display · 434 MHz ARM 11 · 1000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-5530-xpressmusic.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-5530-xpressmusic">Compare</a></div>
-</div></div><div class="card" data-name="nokia 5630 xpressmusic nokia smartphones" data-brand="Nokia" data-price="36999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-5630-xpressmusic/main-card.webp"><img class="cardimg" src="img/nokia-5630-xpressmusic/main-card.jpg" alt="Nokia 5630 Xpressmusic" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-5630-xpressmusic.html">Nokia 5630 Xpressmusic</a></p>
-<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.2&quot; display</div><div class="spec">600 MHz ARM 11</div><div class="spec">860 mAh</div>
-<div class="spec">2.2&quot; display · 600 MHz ARM 11 · 860 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-5630-xpressmusic.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-5630-xpressmusic">Compare</a></div>
-</div></div><div class="card" data-name="nokia 5730 xpressmusic nokia smartphones" data-brand="Nokia" data-price="45999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-5730-xpressmusic/main-card.webp"><img class="cardimg" src="img/nokia-5730-xpressmusic/main-card.jpg" alt="Nokia 5730 Xpressmusic" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-5730-xpressmusic.html">Nokia 5730 Xpressmusic</a></p>
-<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.4&quot; display</div><div class="spec">369 MHz ARM 11</div><div class="spec">1000 mAh</div>
-<div class="spec">2.4&quot; display · 369 MHz ARM 11 · 1000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-5730-xpressmusic.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-5730-xpressmusic">Compare</a></div>
-</div></div><div class="card" data-name="nokia 6700 slide nokia smartphones" data-brand="Nokia" data-price="27999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-6700-slide/main-card.webp"><img class="cardimg" src="img/nokia-6700-slide/main-card.jpg" alt="Nokia 6700 Slide" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-6700-slide.html">Nokia 6700 Slide</a></p>
-<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.2&quot; display</div><div class="spec">600 MHz ARM 11</div><div class="spec">860 mAh</div>
-<div class="spec">2.2&quot; display · 600 MHz ARM 11 · 860 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-6700-slide.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-6700-slide">Compare</a></div>
-</div></div><div class="card" data-name="nokia 6710 navigator nokia smartphones" data-brand="Nokia" data-price="42999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-6710-navigator/main-card.webp"><img class="cardimg" src="img/nokia-6710-navigator/main-card.jpg" alt="Nokia 6710 Navigator" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-6710-navigator.html">Nokia 6710 Navigator</a></p>
-<div class="price"><span class="prc" data-pkr="42999"><b class="pkrv">Rs 42,999</b> <span class="usdv">$155</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.6&quot; display</div><div class="spec">600 MHz ARM 11</div><div class="spec">950 mAh</div>
-<div class="spec">2.6&quot; display · 600 MHz ARM 11 · 950 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-6710-navigator.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-6710-navigator">Compare</a></div>
-</div></div><div class="card" data-name="nokia 6720 classic nokia smartphones" data-brand="Nokia" data-price="27999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-6720-classic/main-card.webp"><img class="cardimg" src="img/nokia-6720-classic/main-card.jpg" alt="Nokia 6720 Classic" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-6720-classic.html">Nokia 6720 Classic</a></p>
-<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.2&quot; display</div><div class="spec">600 MHz ARM 11</div><div class="spec">1050 mAh</div>
-<div class="spec">2.2&quot; display · 600 MHz ARM 11 · 1050 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-6720-classic.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-6720-classic">Compare</a></div>
-</div></div><div class="card" data-name="nokia 6730 classic nokia smartphones" data-brand="Nokia" data-price="39999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-6730-classic/main-card.webp"><img class="cardimg" src="img/nokia-6730-classic/main-card.jpg" alt="Nokia 6730 Classic" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-6730-classic.html">Nokia 6730 Classic</a></p>
-<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.2&quot; display</div><div class="spec">600 MHz ARM 11</div><div class="spec">1050 mAh</div>
-<div class="spec">2.2&quot; display · 600 MHz ARM 11 · 1050 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-6730-classic.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-6730-classic">Compare</a></div>
-</div></div><div class="card" data-name="nokia 6760 slide nokia smartphones" data-brand="Nokia" data-price="33999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-6760-slide/main-card.webp"><img class="cardimg" src="img/nokia-6760-slide/main-card.jpg" alt="Nokia 6760 Slide" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-6760-slide.html">Nokia 6760 Slide</a></p>
-<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.4&quot; display</div><div class="spec">1500 mAh</div>
-<div class="spec">2.4&quot; display · 1500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-6760-slide.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-6760-slide">Compare</a></div>
-</div></div><div class="card" data-name="nokia 6790 surge nokia smartphones" data-brand="Nokia" data-price="27999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-6790-surge/main-card.webp"><img class="cardimg" src="img/nokia-6790-surge/main-card.jpg" alt="Nokia 6790 Surge" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-6790-surge.html">Nokia 6790 Surge</a></p>
-<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.4&quot; display</div><div class="spec">1500 mAh</div>
-<div class="spec">2.4&quot; display · 1500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-6790-surge.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-6790-surge">Compare</a></div>
-</div></div><div class="card" data-name="nokia e52 nokia smartphones" data-brand="Nokia" data-price="33999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-e52/main-card.webp"><img class="cardimg" src="img/nokia-e52/main-card.jpg" alt="Nokia E52" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-e52.html">Nokia E52</a></p>
-<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.4&quot; display</div><div class="spec">600 MHz ARM 11</div><div class="spec">1500 mAh</div>
-<div class="spec">2.4&quot; display · 600 MHz ARM 11 · 1500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-e52.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-e52">Compare</a></div>
-</div></div><div class="card" data-name="nokia e55 nokia smartphones" data-brand="Nokia" data-price="45999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-e55/main-card.webp"><img class="cardimg" src="img/nokia-e55/main-card.jpg" alt="Nokia E55" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-e55.html">Nokia E55</a></p>
-<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.4&quot; display</div><div class="spec">600 MHz ARM 11</div><div class="spec">1500 mAh</div>
-<div class="spec">2.4&quot; display · 600 MHz ARM 11 · 1500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-e55.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-e55">Compare</a></div>
-</div></div><div class="card" data-name="nokia e72 nokia smartphones" data-brand="Nokia" data-price="27999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-e72/main-card.webp"><img class="cardimg" src="img/nokia-e72/main-card.jpg" alt="Nokia E72" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-e72.html">Nokia E72</a></p>
-<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.36&quot; display</div><div class="spec">600 MHz ARM 11</div><div class="spec">1500 mAh</div>
-<div class="spec">2.36&quot; display · 600 MHz ARM 11 · 1500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-e72.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-e72">Compare</a></div>
-</div></div><div class="card" data-name="nokia e75 nokia smartphones" data-brand="Nokia" data-price="39999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-e75/main-card.webp"><img class="cardimg" src="img/nokia-e75/main-card.jpg" alt="Nokia E75" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-e75.html">Nokia E75</a></p>
-<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.4&quot; display</div><div class="spec">369 MHz ARM 11</div><div class="spec">1000 mAh</div>
-<div class="spec">2.4&quot; display · 369 MHz ARM 11 · 1000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-e75.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-e75">Compare</a></div>
-</div></div><div class="card" data-name="nokia n86 8mp nokia smartphones" data-brand="Nokia" data-price="55999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-n86-8mp/main-card.webp"><img class="cardimg" src="img/nokia-n86-8mp/main-card.jpg" alt="Nokia N86 8mp" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-n86-8mp.html">Nokia N86 8mp</a></p>
-<div class="price"><span class="prc" data-pkr="55999"><b class="pkrv">Rs 55,999</b> <span class="usdv">$202</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.6&quot; display</div><div class="spec">434 MHz ARM 11</div><div class="spec">1200 mAh</div>
-<div class="spec">2.6&quot; display · 434 MHz ARM 11 · 1200 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-n86-8mp.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-n86-8mp">Compare</a></div>
-</div></div><div class="card" data-name="nokia n900 nokia smartphones" data-brand="Nokia" data-price="49999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-n900/main-card.webp"><img class="cardimg" src="img/nokia-n900/main-card.jpg" alt="Nokia N900" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-n900.html">Nokia N900</a></p>
-<div class="price"><span class="prc" data-pkr="49999"><b class="pkrv">Rs 49,999</b> <span class="usdv">$181</span></span><span class="plabel">Estimated price</span></div><div class="spec">3.5&quot; display</div><div class="spec">TI OMAP 3430</div><div class="spec">1320 mAh</div>
-<div class="spec">3.5&quot; display · TI OMAP 3430 · 1320 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-n900.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-n900">Compare</a></div>
-</div></div><div class="card" data-name="nokia n97 mini nokia smartphones" data-brand="Nokia" data-price="36999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-n97-mini/main-card.webp"><img class="cardimg" src="img/nokia-n97-mini/main-card.jpg" alt="Nokia N97 Mini" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/nokia-n97-mini.html">Nokia N97 Mini</a></p>
-<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">3.2&quot; display</div><div class="spec">434 MHz ARM 11</div><div class="spec">1200 mAh</div>
-<div class="spec">3.2&quot; display · 434 MHz ARM 11 · 1200 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/nokia-n97-mini.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=nokia-n97-mini">Compare</a></div>
-</div></div><div class="card" data-name="samsung i8910 omnia hd samsung smartphones" data-brand="Samsung" data-price="45999" data-year="2009">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-i8910-omnia-hd/main-card.webp"><img class="cardimg" src="img/samsung-i8910-omnia-hd/main-card.jpg" alt="Samsung I8910 Omnia Hd" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-i8910-omnia-hd.html">Samsung I8910 Omnia Hd</a></p>
-<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">3.7&quot; display</div><div class="spec">600 MHz Cortex-A8</div><div class="spec">1500 mAh</div>
-<div class="spec">3.7&quot; display · 600 MHz Cortex-A8 · 1500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-i8910-omnia-hd.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-i8910-omnia-hd">Compare</a></div>
-</div></div><div class="card" data-name="asus p565 asus smartphones" data-brand="Asus" data-price="135999" data-year="2008">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/asus-p565/main-card.webp"><img class="cardimg" src="img/asus-p565/main-card.jpg" alt="Asus P565" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/asus-p565.html">Asus P565</a></p>
-<div class="price"><span class="prc" data-pkr="135999"><b class="pkrv">Rs 135,999</b> <span class="usdv">$492</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.8&quot; display</div><div class="spec">800 MHz Marvell TavorP</div><div class="spec">1300 mAh</div>
-<div class="spec">2.8&quot; display · 800 MHz Marvell TavorP · 1300 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/asus-p565.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=asus-p565">Compare</a></div>
-</div></div><div class="card" data-name="htc s740 htc smartphones" data-brand="HTC" data-price="36999" data-year="2008">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-s740/main-card.webp"><img class="cardimg" src="img/htc-s740/main-card.jpg" alt="HTC S740" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-s740.html">HTC S740</a></p>
-<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.4&quot; display</div><div class="spec">Qualcomm MSM7225 Snapdragon S1</div><div class="spec">1050 mAh</div>
-<div class="spec">2.4&quot; display · Qualcomm MSM7225 Snapdragon S1 · 1050 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-s740.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-s740">Compare</a></div>
-</div></div><div class="card" data-name="htc touch 3g htc smartphones" data-brand="HTC" data-price="61999" data-year="2008">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-touch-3g/main-card.webp"><img class="cardimg" src="img/htc-touch-3g/main-card.jpg" alt="HTC Touch 3g" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-touch-3g.html">HTC Touch 3g</a></p>
-<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.8&quot; display</div><div class="spec">Qualcomm MSM7225 Snapdragon S1</div><div class="spec">1100 mAh</div>
-<div class="spec">2.8&quot; display · Qualcomm MSM7225 Snapdragon S1 · 1100 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-touch-3g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-touch-3g">Compare</a></div>
-</div></div><div class="card" data-name="htc touch diamond htc smartphones" data-brand="HTC" data-price="39999" data-year="2008">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-touch-diamond/main-card.webp"><img class="cardimg" src="img/htc-touch-diamond/main-card.jpg" alt="HTC Touch Diamond" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-touch-diamond.html">HTC Touch Diamond</a></p>
-<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.8&quot; display</div><div class="spec">Qualcomm MSM7201A</div><div class="spec">900 mAh</div>
-<div class="spec">2.8&quot; display · Qualcomm MSM7201A · 900 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-touch-diamond.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-touch-diamond">Compare</a></div>
-</div></div><div class="card" data-name="htc touch hd htc smartphones" data-brand="HTC" data-price="89999" data-year="2008">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-touch-hd/main-card.webp"><img class="cardimg" src="img/htc-touch-hd/main-card.jpg" alt="HTC Touch Hd" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-touch-hd.html">HTC Touch Hd</a></p>
-<div class="price"><span class="prc" data-pkr="89999"><b class="pkrv">Rs 89,999</b> <span class="usdv">$325</span></span><span class="plabel">Estimated price</span></div><div class="spec">3.8&quot; display</div><div class="spec">Qualcomm MSM7201A</div><div class="spec">1350 mAh</div>
-<div class="spec">3.8&quot; display · Qualcomm MSM7201A · 1350 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-touch-hd.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-touch-hd">Compare</a></div>
-</div></div><div class="card" data-name="htc touch pro htc smartphones" data-brand="HTC" data-price="61999" data-year="2008">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-touch-pro/main-card.webp"><img class="cardimg" src="img/htc-touch-pro/main-card.jpg" alt="HTC Touch Pro" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-touch-pro.html">HTC Touch Pro</a></p>
-<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.8&quot; display</div><div class="spec">Qualcomm MSM7201A</div><div class="spec">1340 mAh</div>
-<div class="spec">2.8&quot; display · Qualcomm MSM7201A · 1340 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-touch-pro.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-touch-pro">Compare</a></div>
-</div></div><div class="card" data-name="htc touch viva htc smartphones" data-brand="HTC" data-price="42999" data-year="2008">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-touch-viva/main-card.webp"><img class="cardimg" src="img/htc-touch-viva/main-card.jpg" alt="HTC Touch Viva" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-touch-viva.html">HTC Touch Viva</a></p>
-<div class="price"><span class="prc" data-pkr="42999"><b class="pkrv">Rs 42,999</b> <span class="usdv">$155</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.8&quot; display</div><div class="spec">TI OMAP 850</div><div class="spec">1100 mAh</div>
-<div class="spec">2.8&quot; display · TI OMAP 850 · 1100 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-touch-viva.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-touch-viva">Compare</a></div>
-</div></div><div class="card" data-name="lg kt610 lg smartphones" data-brand="LG" data-price="30999" data-year="2008">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-kt610/main-card.webp"><img class="cardimg" src="img/lg-kt610/main-card.jpg" alt="LG Kt610" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/lg-kt610.html">LG Kt610</a></p>
-<div class="price"><span class="prc" data-pkr="30999"><b class="pkrv">Rs 30,999</b> <span class="usdv">$112</span></span><span class="plabel">Estimated price</span></div><div class="spec">2.4&quot; display</div><div class="spec">960 mAh</div>
-<div class="spec">2.4&quot; display · 960 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/lg-kt610.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=lg-kt610">Compare</a></div>
 </div></div>

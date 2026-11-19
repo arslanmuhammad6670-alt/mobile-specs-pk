@@ -210,7 +210,10 @@ EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide
     # watch 2026-11-18: Xiaomi Watch S5 41mm (global launch Nov 17, verified
     # China price CNY 1,250 -> Expected) + vivo Y6k (China-only, launched Nov 7,
     # verified official CNY 1,599 -> Expected); neither officially in Pakistan.
-    "xiaomi-watch-s5-41mm", "vivo-y6k-5g"}
+    "xiaomi-watch-s5-41mm", "vivo-y6k-5g",
+    # watch 2026-11-19: vivo Watch GT2 (China launch Oct 13 2025, India launch
+    # Nov 26; verified China price CNY 499 -> Expected); not officially in Pakistan.
+    "vivo-watch-gt2"}
 for _d in ALL:
     _d["price_expected"] = _d["slug"] in EXPECTED_SLUGS
 

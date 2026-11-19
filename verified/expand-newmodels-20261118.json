@@ -1,1 +1,176 @@
-[{"brand":"Xiaomi","cat":"Smartwatches","hl":["1.32\" display","HyperOS 4","590 mAh","14-day battery"],"name":"Xiaomi Watch S5 41mm","price":51999,"price_src":"approx","rows":[["Launch Year","2026 (announced 2026, September, released 2026, November 17)"],["Region","Global"],["Body","41.4 x 41.4 x 9.9 mm; 36 g (without strap); Stainless steel body, ceramic bezel (Ceramic White); 5ATM"],["Display","1.32-inch AMOLED, 466 x 466 pixels (~352 ppi); 60Hz; 1500 nits (HBM), 3000 nits (peak)"],["Operating System","HyperOS 4"],["Battery","590 mAh; up to 14 days light use, up to 8 days normal use, 5 days with always-on display"],["Sensors","Heart rate, blood oxygen (SpO2), skin temperature, sleep, stress; barometer, compass; 150+ sports modes"],["Wi-Fi","Wi-Fi 6"],["Bluetooth","5.4"],["GPS","GPS, Galileo, GLONASS, BeiDou, QZSS (dual-band)"],["NFC","Yes (Google Pay, Xiaomi Pay)"],["Colors","Black, Ceramic White, Light Blue"]],"slug":"xiaomi-watch-s5-41mm","source":"https://www.mi.com/global/product/xiaomi-watch-s5-41mm/","tag":"1.32\" display · HyperOS 4 · 590 mAh · 14-day battery","year":2026},{"brand":"vivo","cat":"Smartphones","hl":["6.74\" display","Dimensity 6300","6 GB RAM","6500 mAh"],"name":"vivo Y6k","price":66999,"price_src":"approx","rows":[["Launch Year","2026 (announced 2026, November 7, released 2026, November 7)"],["Region","China"],["Network","GSM / HSPA / LTE / 5G"],["Body","167.6 x 77.9 x 8.31 mm (6.60 x 3.07 x 0.33 in); 210 g (7.41 oz); Plastic back, plastic frame; SGS five-star drop-resistance certification"],["Display","LCD, 90Hz, 120Hz touch sampling; 6.74 inches, 1600 x 720 pixels (~260 ppi); 570 nits (HBM)"],["OS","Android 16, OriginOS 6"],["Chipset","Mediatek Dimensity 6300 (6 nm); Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); Mali-G57 MC2"],["RAM","6 GB"],["Storage","128 GB, UFS 2.2; microSDXC (up to 2 TB)"],["Main Camera","50 MP, f/1.8 (wide), PDAF; 0.3 MP, f/2.8"],["Selfie Camera","5 MP, f/2.2 (wide)"],["Sensors","Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, ambient light sensor"],["Loudspeaker","Yes"],["3.5mm Jack","Yes"],["Wi-Fi","Wi-Fi 802.11 a/b/g/n/ac, dual-band"],["Bluetooth","5.4"],["GPS","GPS, BeiDou, Galileo, GLONASS, QZSS"],["NFC","No"],["USB","USB Type-C 2.0, OTG"],["Battery","6500 mAh"],["Charging","44W wired"],["Colors","Flowing Cloud White, Twilight Night Black, Sunset Glow Blue"]],"slug":"vivo-y6k-5g","source":"https://shop.vivo.com.cn/product/10061866","tag":"6.74\" display · Dimensity 6300 · 6 GB RAM · 6500 mAh","year":2026}]
+[
+ {
+  "brand": "Xiaomi",
+  "cat": "Smartwatches",
+  "hl": [
+   "1.32\" display",
+   "HyperOS 4",
+   "590 mAh",
+   "14-day battery"
+  ],
+  "name": "Xiaomi Watch S5 41mm",
+  "price": 51999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, September, released 2026, November 17)"
+   ],
+   [
+    "Region",
+    "Global"
+   ],
+   [
+    "Body",
+    "41.4 x 41.4 x 9.9 mm; 36 g (without strap); Stainless steel body, ceramic bezel (Ceramic White); 5ATM"
+   ],
+   [
+    "Display",
+    "1.32-inch AMOLED, 466 x 466 pixels (~352 ppi); 60Hz; 1500 nits (HBM), 3000 nits (peak)"
+   ],
+   [
+    "Operating System",
+    "HyperOS 4"
+   ],
+   [
+    "Battery",
+    "590 mAh; up to 14 days light use, up to 8 days normal use, 5 days with always-on display"
+   ],
+   [
+    "Sensors",
+    "Heart rate, blood oxygen (SpO2), skin temperature, sleep, stress; barometer, compass; 150+ sports modes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 6"
+   ],
+   [
+    "Bluetooth",
+    "5.4"
+   ],
+   [
+    "GPS",
+    "GPS, Galileo, GLONASS, BeiDou, QZSS (dual-band)"
+   ],
+   [
+    "NFC",
+    "Yes (Google Pay, Xiaomi Pay)"
+   ],
+   [
+    "Colors",
+    "Black, Ceramic White, Light Blue"
+   ]
+  ],
+  "slug": "xiaomi-watch-s5-41mm",
+  "source": "https://www.mi.com/global/product/xiaomi-watch-s5-41mm/",
+  "tag": "1.32\" display · HyperOS 4 · 590 mAh · 14-day battery",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartphones",
+  "hl": [
+   "6.74\" display",
+   "Dimensity 6300",
+   "6 GB RAM",
+   "6500 mAh"
+  ],
+  "name": "vivo Y6k",
+  "price": 66999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, November 7, released 2026, November 7)"
+   ],
+   [
+    "Region",
+    "China"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "167.6 x 77.9 x 8.31 mm (6.60 x 3.07 x 0.33 in); 210 g (7.41 oz); Plastic back, plastic frame; SGS five-star drop-resistance certification"
+   ],
+   [
+    "Display",
+    "LCD, 60Hz/90Hz/120Hz, 120Hz/180Hz/240Hz touch sampling; 6.74 inches, 1600 x 720 pixels (~260 ppi); 570 nits (HBM)"
+   ],
+   [
+    "OS",
+    "Android 16, OriginOS 6"
+   ],
+   [
+    "Chipset",
+    "Mediatek Dimensity 6300 (6 nm); Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55); Mali-G57 MC2"
+   ],
+   [
+    "RAM",
+    "6 GB"
+   ],
+   [
+    "Storage",
+    "128 GB, UFS 2.2; microSDXC (up to 2 TB)"
+   ],
+   [
+    "Main Camera",
+    "13 MP, f/2.2 (wide)"
+   ],
+   [
+    "Selfie Camera",
+    "5 MP, f/2.2 (wide)"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, ambient light sensor"
+   ],
+   [
+    "Loudspeaker",
+    "Yes"
+   ],
+   [
+    "3.5mm Jack",
+    "Yes"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "5.4"
+   ],
+   [
+    "GPS",
+    "GPS, BeiDou, Galileo, GLONASS, QZSS"
+   ],
+   [
+    "NFC",
+    "No"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0, OTG"
+   ],
+   [
+    "Battery",
+    "6500 mAh"
+   ],
+   [
+    "Charging",
+    "15W wired"
+   ],
+   [
+    "Colors",
+    "Flowing Cloud White, Twilight Night Black, Sunset Glow Blue"
+   ]
+  ],
+  "slug": "vivo-y6k-5g",
+  "source": "https://shop.vivo.com.cn/product/10061866",
+  "tag": "6.74\" display · Dimensity 6300 · 6 GB RAM · 6500 mAh",
+  "year": 2026
+ }
+]

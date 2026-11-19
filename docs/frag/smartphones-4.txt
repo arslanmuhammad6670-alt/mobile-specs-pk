@@ -1,4 +1,34 @@
-<div class="card" data-name="realme gt5 pro realme smartphones" data-brand="Realme" data-price="132999" data-year="2023">
+<div class="card" data-name="realme gt3 realme smartphones" data-brand="Realme" data-price="185999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/realme-gt3/main-card.webp"><img class="cardimg" src="img/realme-gt3/main-card.jpg" alt="Realme Gt3" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/realme-gt3.html">Realme Gt3</a></p>
+<div class="price"><span class="prc" data-pkr="185999"><b class="pkrv">Rs 185,999</b> <span class="usdv">$672</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.74&quot; display</div><div class="spec">Qualcomm SM8475 Snapdragon 8+ Gen 1</div><div class="spec">8 / 12 / 16 GB RAM</div><div class="spec">4600 mAh</div>
+<div class="spec">6.74&quot; display · Qualcomm SM8475 Snapdragon 8+ Gen 1 · 8 / 12 / 16 GB RAM · 4600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/realme-gt3.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=realme-gt3">Compare</a></div>
+</div></div><div class="card" data-name="realme gt5 realme smartphones" data-brand="Realme" data-price="117999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/realme-gt5/main-card.webp"><img class="cardimg" src="img/realme-gt5/main-card.jpg" alt="Realme Gt5" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/realme-gt5.html">Realme Gt5</a></p>
+<div class="price"><span class="prc" data-pkr="117999"><b class="pkrv">Rs 117,999</b> <span class="usdv">$426</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.74&quot; display</div><div class="spec">Qualcomm SM8550-AB Snapdragon 8 Gen 2</div><div class="spec">12 / 16 GB RAM</div><div class="spec">5240 mAh</div>
+<div class="spec">6.74&quot; display · Qualcomm SM8550-AB Snapdragon 8 Gen 2 · 12 / 16 GB RAM · 5240 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/realme-gt5.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=realme-gt5">Compare</a></div>
+</div></div><div class="card" data-name="realme gt5 240w realme smartphones" data-brand="Realme" data-price="145999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/realme-gt5-240w/main-card.webp"><img class="cardimg" src="img/realme-gt5-240w/main-card.jpg" alt="Realme Gt5 240w" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/realme-gt5-240w.html">Realme Gt5 240w</a></p>
+<div class="price"><span class="prc" data-pkr="145999"><b class="pkrv">Rs 145,999</b> <span class="usdv">$528</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.74&quot; display</div><div class="spec">Qualcomm SM8550-AB Snapdragon 8 Gen 2</div><div class="spec">24 GB RAM</div><div class="spec">4600 mAh</div>
+<div class="spec">6.74&quot; display · Qualcomm SM8550-AB Snapdragon 8 Gen 2 · 24 GB RAM · 4600 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/realme-gt5-240w.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=realme-gt5-240w">Compare</a></div>
+</div></div><div class="card" data-name="realme gt5 pro realme smartphones" data-brand="Realme" data-price="132999" data-year="2023">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/realme-gt5-pro/main-card.webp"><img class="cardimg" src="img/realme-gt5-pro/main-card.jpg" alt="Realme Gt5 Pro" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -3968,34 +3998,4 @@
 <div class="spec">6.62&quot; display · Exynos 1080 · 8 / 12 GB RAM · 4600 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/vivo-s16e.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=vivo-s16e">Compare</a></div>
-</div></div><div class="card" data-name="vivo t1 44w vivo smartphones" data-brand="Vivo" data-price="" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<div class="cardph">📱</div>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/vivo-t1-44w.html">Vivo T1 44w</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.44&quot; display</div><div class="spec">Qualcomm Snapdragon 680 4G</div><div class="spec">4 / 6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.44&quot; display · Qualcomm Snapdragon 680 4G · 4 / 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/vivo-t1-44w.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=vivo-t1-44w">Compare</a></div>
-</div></div><div class="card" data-name="vivo t1 5g vivo smartphones" data-brand="Vivo" data-price="55999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/vivo-t1-5g/main-card.webp"><img class="cardimg" src="img/vivo-t1-5g/main-card.jpg" alt="Vivo T1 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/vivo-t1-5g.html">Vivo T1 5G</a></p>
-<div class="price"><span class="prc" data-pkr="55999"><b class="pkrv">Rs 55,999</b> <span class="usdv">$202</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.58&quot; display</div><div class="spec">Qualcomm SM6375 Snapdragon 695 5G</div><div class="spec">4 / 6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.58&quot; display · Qualcomm SM6375 Snapdragon 695 5G · 4 / 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/vivo-t1-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=vivo-t1-5g">Compare</a></div>
-</div></div><div class="card" data-name="vivo t1 pro 5g vivo smartphones" data-brand="Vivo" data-price="92999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/vivo-t1-pro-5g/main-card.webp"><img class="cardimg" src="img/vivo-t1-pro-5g/main-card.jpg" alt="Vivo T1 Pro 5G" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/vivo-t1-pro-5g.html">Vivo T1 Pro 5G</a></p>
-<div class="price"><span class="prc" data-pkr="92999"><b class="pkrv">Rs 92,999</b> <span class="usdv">$336</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.44&quot; display</div><div class="spec">Qualcomm SM7325 Snapdragon 778G 5G</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4700 mAh</div>
-<div class="spec">6.44&quot; display · Qualcomm SM7325 Snapdragon 778G 5G · 6 / 8 GB RAM · 4700 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/vivo-t1-pro-5g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=vivo-t1-pro-5g">Compare</a></div>
 </div></div>

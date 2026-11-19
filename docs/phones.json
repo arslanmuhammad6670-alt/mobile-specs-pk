@@ -3082,6 +3082,48 @@
   "pl": "Expected price"
  },
  {
+  "slug": "motorola-edge-70-neo-5g",
+  "name": "Motorola Edge 70 Neo",
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/motorola-edge-70-neo-5g.html",
+  "sb": 0
+ },
+ {
+  "slug": "huawei-mate-90-air-5g",
+  "name": "Huawei Mate 90 Air",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-mate-90-air-5g.html",
+  "sb": 8
+ },
+ {
+  "slug": "huawei-osta-o1-pro-5g",
+  "name": "Huawei OSTA O1 Pro",
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "price": null,
+  "price_pkr": null,
+  "path": "phones/huawei-osta-o1-pro-5g.html",
+  "sb": 19
+ },
+ {
+  "slug": "vivo-watch-gt2",
+  "name": "vivo Watch GT2",
+  "brand": "Vivo",
+  "cat": "Smartwatches",
+  "price": 76,
+  "price_pkr": 20999,
+  "path": "smartwatches/vivo-watch-gt2.html",
+  "sb": 21,
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
   "slug": "samsung-galaxy-tab-s8",
   "name": "Samsung Galaxy Tab S8",
   "brand": "Samsung",

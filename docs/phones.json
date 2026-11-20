@@ -3124,6 +3124,18 @@
   "pl": "Expected price"
  },
  {
+  "slug": "lava-smart-4-pro",
+  "name": "Lava Smart 4 Pro",
+  "brand": "Lava",
+  "cat": "Smartphones",
+  "price": 119,
+  "price_pkr": 32999,
+  "path": "phones/lava-smart-4-pro.html",
+  "sb": 23,
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
   "slug": "samsung-galaxy-tab-s8",
   "name": "Samsung Galaxy Tab S8",
   "brand": "Samsung",

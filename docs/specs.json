@@ -6310,6 +6310,24 @@
   "Bluetooth": "5.4, NFC",
   "Colors": "Obsidian Black, Stellar White"
  },
+ "lava-smart-4-pro": {
+  "Launch Year": "2026 (announced 20/11/2026)",
+  "Region": "India",
+  "Network": "GSM / HSPA / LTE",
+  "Body": "Dual SIM (Nano + Nano); MIL-STD-810H military-grade durability",
+  "Display": "6.75-inch HD+ (720 x 1570) LCD, 90Hz refresh rate, waterdrop notch",
+  "Operating System": "Android 16",
+  "Chipset": "Unisoc T610 (12 nm); Octa-core, up to 1.8 GHz",
+  "RAM": "4 GB (+ 4 GB virtual RAM)",
+  "Storage": "64 GB; microSD card up to 512 GB",
+  "Main Camera": "13 MP, LED flash",
+  "Selfie Camera": "5 MP, screen flash",
+  "Battery": "7000 mAh Li-Ion",
+  "Charging": "18W wired, USB Type-C",
+  "Sensors": "Fingerprint (side-mounted), Face Unlock",
+  "USB": "USB Type-C",
+  "Colors": "Konark Gold, Neelam Blue"
+ },
  "samsung-galaxy-tab-s8": {
   "Launch Year": "2022 (announced 2022, February 09)",
   "Region": "Global",

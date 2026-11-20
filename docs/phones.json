@@ -3106,10 +3106,12 @@
   "name": "Huawei OSTA O1 Pro",
   "brand": "Huawei",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 857,
+  "price_pkr": 236999,
   "path": "phones/huawei-osta-o1-pro-5g.html",
-  "sb": 19
+  "sb": 19,
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "vivo-watch-gt2",
@@ -8394,11 +8396,11 @@
   "name": "Samsung Galaxy A12",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 130,
-  "price_pkr": 35999,
+  "price": 163,
+  "price_pkr": 44999,
   "path": "phones/samsung-galaxy-a12.html",
   "sb": 15,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-s22-ultra-5g",
@@ -8504,11 +8506,11 @@
   "name": "Samsung Galaxy A14",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 101,
-  "price_pkr": 27999,
+  "price": 206,
+  "price_pkr": 56999,
   "path": "phones/samsung-galaxy-a14.html",
   "sb": 18,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-a21s",
@@ -8548,11 +8550,11 @@
   "name": "Apple iPhone 7+",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 358,
-  "price_pkr": 98999,
+  "price": 383,
+  "price_pkr": 105999,
   "path": "phones/apple-iphone-7+.html",
   "sb": 22,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-grand-prime",

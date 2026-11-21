@@ -8605,22 +8605,22 @@
   "name": "Samsung Galaxy A51",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 173,
-  "price_pkr": 47999,
+  "price": 181,
+  "price_pkr": 49999,
   "path": "phones/samsung-galaxy-a51.html",
   "sb": 9,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "apple-iphone-6s+",
   "name": "Apple iPhone 6s+",
   "brand": "Apple",
   "cat": "Smartphones",
-  "price": 267,
-  "price_pkr": 73999,
+  "price": 141,
+  "price_pkr": 39000,
   "path": "phones/apple-iphone-6s+.html",
   "sb": 1,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-z-fold6",
@@ -8715,11 +8715,12 @@
   "name": "Samsung Galaxy A13 4G",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 210,
+  "price_pkr": 57999,
   "path": "phones/samsung-galaxy-a13-4g.html",
   "sb": 21,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-z-flip6",
@@ -8957,11 +8958,11 @@
   "name": "Samsung Galaxy A53 5G",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 332,
-  "price_pkr": 91999,
+  "price": 484,
+  "price_pkr": 133999,
   "path": "phones/samsung-galaxy-a53-5g.html",
   "sb": 12,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "realme-14x-5g",
@@ -9067,11 +9068,11 @@
   "name": "Samsung Galaxy A22",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 137,
-  "price_pkr": 37999,
+  "price": 217,
+  "price_pkr": 59999,
   "path": "phones/samsung-galaxy-a22.html",
   "sb": 12,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "xiaomi-9a",
@@ -9100,11 +9101,11 @@
   "name": "Samsung Galaxy A31",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 199,
-  "price_pkr": 54999,
+  "price": 134,
+  "price_pkr": 36999,
   "path": "phones/samsung-galaxy-a31.html",
   "sb": 23,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "apple-iphone-8",
@@ -9133,11 +9134,11 @@
   "name": "Samsung Galaxy A33 5G",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 264,
-  "price_pkr": 72999,
+  "price": 423,
+  "price_pkr": 116999,
   "path": "phones/samsung-galaxy-a33-5g.html",
   "sb": 4,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "apple-iphone-12-mini",
@@ -9221,11 +9222,11 @@
   "name": "Samsung Galaxy A03s",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 130,
-  "price_pkr": 35999,
+  "price": 81,
+  "price_pkr": 22500,
   "path": "phones/samsung-galaxy-a03s.html",
   "sb": 16,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-s7",

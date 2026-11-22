@@ -9358,11 +9358,11 @@
   "name": "Samsung Galaxy A11",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 181,
-  "price_pkr": 49999,
+  "price": 69,
+  "price_pkr": 18999,
   "path": "phones/samsung-galaxy-a11.html",
   "sb": 13,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-j8",
@@ -9391,11 +9391,11 @@
   "name": "Samsung Galaxy A05",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 90,
-  "price_pkr": 24999,
+  "price": 130,
+  "price_pkr": 35999,
   "path": "phones/samsung-galaxy-a05.html",
   "sb": 5,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-a23-5g",
@@ -9424,11 +9424,11 @@
   "name": "Samsung Galaxy A10s",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 202,
-  "price_pkr": 55999,
+  "price": 61,
+  "price_pkr": 16999,
   "path": "phones/samsung-galaxy-a10s.html",
   "sb": 12,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "realme-c20",
@@ -9468,11 +9468,11 @@
   "name": "Samsung Galaxy A02",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 155,
-  "price_pkr": 42999,
+  "price": 60,
+  "price_pkr": 16699,
   "path": "phones/samsung-galaxy-a02.html",
   "sb": 22,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "honor-play-3",
@@ -9490,11 +9490,11 @@
   "name": "Samsung Galaxy A71",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 145,
-  "price_pkr": 39999,
+  "price": 246,
+  "price_pkr": 67999,
   "path": "phones/samsung-galaxy-a71.html",
   "sb": 11,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "huawei-p30-lite",
@@ -9611,22 +9611,22 @@
   "name": "Samsung Galaxy A04s",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 137,
-  "price_pkr": 37999,
+  "price": 145,
+  "price_pkr": 39999,
   "path": "phones/samsung-galaxy-a04s.html",
   "sb": 15,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-a04e",
   "name": "Samsung Galaxy A04e",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 119,
-  "price_pkr": 32999,
+  "price": 123,
+  "price_pkr": 33999,
   "path": "phones/samsung-galaxy-a04e.html",
   "sb": 14,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "apple-iphone-se-(2nd-gen)",
@@ -9699,11 +9699,11 @@
   "name": "Samsung Galaxy S20 FE 5G",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 336,
-  "price_pkr": 92999,
+  "price": 443,
+  "price_pkr": 122500,
   "path": "phones/samsung-galaxy-s20-fe-5g.html",
   "sb": 7,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-j1",
@@ -9732,11 +9732,11 @@
   "name": "Samsung Galaxy A03 Core",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 123,
-  "price_pkr": 33999,
+  "price": 67,
+  "price_pkr": 18500,
   "path": "phones/samsung-galaxy-a03-core.html",
   "sb": 19,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-j6+",
@@ -9765,22 +9765,22 @@
   "name": "Realme C25y",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 83,
-  "price_pkr": 22999,
+  "price": 181,
+  "price_pkr": 49999,
   "path": "phones/realme-c25y.html",
   "sb": 13,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-a03",
   "name": "Samsung Galaxy A03",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 141,
-  "price_pkr": 38999,
+  "price": 130,
+  "price_pkr": 35999,
   "path": "phones/samsung-galaxy-a03.html",
   "sb": 0,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-a7-(2018)",

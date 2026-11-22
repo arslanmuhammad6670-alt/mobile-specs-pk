@@ -220,7 +220,14 @@ EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide
     # nightly 2026-11-21: Huawei OSTA O1 Pro finalised (China-only launch
     # Nov 20, verified official list CNY 5,699 -> Expected at CNY x 41.48);
     # not officially in Pakistan.
-    "huawei-osta-o1-pro-5g"}
+    "huawei-osta-o1-pro-5g",
+    # watch 2026-11-22: Redmi R80/R80m 5G (China-only listing Nov 20,
+    # CNY 1,899/2,199 -> Expected at CNY x 41.48); Honor Watch 6 Pro
+    # (global pre-orders Nov 19, EUR 379 -> Expected); Dell XPS 16
+    # Creator Edition (India-only launch Nov 20, INR 4,49,990 -> Expected
+    # at INR x 3); none officially in Pakistan.
+    "xiaomi-redmi-r80-5g", "xiaomi-redmi-r80m-5g", "honor-watch-6-pro",
+    "dell-xps-16-creator-edition"}
 for _d in ALL:
     _d["price_expected"] = _d["slug"] in EXPECTED_SLUGS
 

@@ -1,4 +1,24 @@
-<div class="card" data-name="vivo y76 5g vivo smartphones" data-brand="Vivo" data-price="148999" data-year="2021">
+<div class="card" data-name="vivo y73 vivo smartphones" data-brand="Vivo" data-price="73999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/vivo-y73/main-card.webp"><img class="cardimg" src="img/vivo-y73/main-card.jpg" alt="Vivo Y73" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/vivo-y73.html">Vivo Y73</a></p>
+<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.44&quot; display</div><div class="spec">Mediatek MT6785V/CD Helio G95</div><div class="spec">8 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.44&quot; display · Mediatek MT6785V/CD Helio G95 · 8 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/vivo-y73.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=vivo-y73">Compare</a></div>
+</div></div><div class="card" data-name="vivo y74s vivo smartphones" data-brand="Vivo" data-price="98999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/vivo-y74s/main-card.webp"><img class="cardimg" src="img/vivo-y74s/main-card.jpg" alt="Vivo Y74s" width="480" height="480" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/vivo-y74s.html">Vivo Y74s</a></p>
+<div class="price"><span class="prc" data-pkr="98999"><b class="pkrv">Rs 98,999</b> <span class="usdv">$358</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.58&quot; display</div><div class="spec">Mediatek Dimensity 810</div><div class="spec">8 GB RAM</div><div class="spec">4100 mAh</div>
+<div class="spec">6.58&quot; display · Mediatek Dimensity 810 · 8 GB RAM · 4100 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/vivo-y74s.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=vivo-y74s">Compare</a></div>
+</div></div><div class="card" data-name="vivo y76 5g vivo smartphones" data-brand="Vivo" data-price="148999" data-year="2021">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/vivo-y76-5g/main-card.webp"><img class="cardimg" src="img/vivo-y76-5g/main-card.jpg" alt="Vivo Y76 5G" width="480" height="480" loading="lazy"></picture>
 <div class="cbody">
@@ -3978,24 +3998,4 @@
 <div class="spec">5.45&quot; display · Unisoc SC9863A · 2 GB RAM · 3000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/htc-wildfire-e.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=htc-wildfire-e">Compare</a></div>
-</div></div><div class="card" data-name="htc wildfire e1 htc smartphones" data-brand="HTC" data-price="27999" data-year="2019">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-wildfire-e1/main-card.webp"><img class="cardimg" src="img/htc-wildfire-e1/main-card.jpg" alt="HTC Wildfire E1" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-wildfire-e1.html">HTC Wildfire E1</a></p>
-<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.09&quot; display</div><div class="spec">Mediatek MT6763 Helio P23</div><div class="spec">3 GB RAM</div><div class="spec">3000 mAh</div>
-<div class="spec">6.09&quot; display · Mediatek MT6763 Helio P23 · 3 GB RAM · 3000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-wildfire-e1.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-wildfire-e1">Compare</a></div>
-</div></div><div class="card" data-name="htc wildfire e1+ htc smartphones" data-brand="HTC" data-price="36999" data-year="2019">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-wildfire-e1+/main-card.webp"><img class="cardimg" src="img/htc-wildfire-e1+/main-card.jpg" alt="HTC Wildfire E1+" width="480" height="480" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-wildfire-e1+.html">HTC Wildfire E1+</a></p>
-<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.09&quot; display</div><div class="spec">Mediatek MT6763 Helio P23</div><div class="spec">3 GB RAM</div><div class="spec">3000 mAh</div>
-<div class="spec">6.09&quot; display · Mediatek MT6763 Helio P23 · 3 GB RAM · 3000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-wildfire-e1+.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-wildfire-e1+">Compare</a></div>
 </div></div>

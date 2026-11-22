@@ -3138,6 +3138,54 @@
   "pl": "Expected price"
  },
  {
+  "slug": "xiaomi-redmi-r80-5g",
+  "name": "Redmi R80 5G",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 286,
+  "price_pkr": 78999,
+  "path": "phones/xiaomi-redmi-r80-5g.html",
+  "sb": 10,
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "xiaomi-redmi-r80m-5g",
+  "name": "Redmi R80m 5G",
+  "brand": "Xiaomi",
+  "cat": "Smartphones",
+  "price": 332,
+  "price_pkr": 91999,
+  "path": "phones/xiaomi-redmi-r80m-5g.html",
+  "sb": 12,
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "honor-watch-6-pro",
+  "name": "Honor Watch 6 Pro",
+  "brand": "Honor",
+  "cat": "Smartwatches",
+  "price": 441,
+  "price_pkr": 121999,
+  "path": "smartwatches/honor-watch-6-pro.html",
+  "sb": 21,
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "dell-xps-16-creator-edition",
+  "name": "Dell XPS 16 Creator Edition",
+  "brand": "Dell",
+  "cat": "Laptops",
+  "price": 4879,
+  "price_pkr": 1349999,
+  "path": "laptops/dell-xps-16-creator-edition.html",
+  "sb": 6,
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
   "slug": "samsung-galaxy-tab-s8",
   "name": "Samsung Galaxy Tab S8",
   "brand": "Samsung",

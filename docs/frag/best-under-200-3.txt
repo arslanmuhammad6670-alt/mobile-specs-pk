@@ -1,4 +1,14 @@
-<div class="card" data-name="realme 10s realme smartphones" data-brand="Realme" data-price="45999" data-year="2022">
+<div class="card" data-name="tecno camon 18i tecno smartphones" data-brand="Tecno" data-price="45999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/tecno-camon-18i/main.webp"><img class="cardimg" src="img/tecno-camon-18i/main.jpg" alt="Tecno Camon 18i" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/tecno-camon-18i.html">Tecno Camon 18i</a></p>
+<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Mediatek MT6769Z Helio G85</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.6&quot; display · Mediatek MT6769Z Helio G85 · 4 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/tecno-camon-18i.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=tecno-camon-18i">Compare</a></div>
+</div></div><div class="card" data-name="realme 10s realme smartphones" data-brand="Realme" data-price="45999" data-year="2022">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/realme-10s/main.webp"><img class="cardimg" src="img/realme-10s/main.jpg" alt="Realme 10s" loading="lazy"></picture>
 <div class="cbody">
@@ -698,16 +708,6 @@
 <div class="spec">Helio G99 aur 6 saal ke updates — Samsung ka naya sasta A-series phone</div>
 <div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a07.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=samsung-galaxy-a07">Compare</a></div>
-</div></div><div class="card" data-name="oppo a57 4g oppo smartphones" data-brand="Oppo" data-price="47999" data-year="2016">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/oppo-a57-4g/main.webp"><img class="cardimg" src="img/oppo-a57-4g/main.jpg" alt="Oppo A57 4G" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/oppo-a57-4g.html">Oppo A57 4G</a></p>
-<div class="price"><span class="prc" data-pkr="47999"><b class="pkrv">Rs 47,999</b> <span class="usdv">$173</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.2&quot; display</div><div class="spec">Qualcomm MSM8940 Snapdragon 435</div><div class="spec">3 GB RAM</div><div class="spec">2900 mAh</div>
-<div class="spec">5.2&quot; display · Qualcomm MSM8940 Snapdragon 435 · 3 GB RAM · 2900 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/oppo-a57-4g.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=oppo-a57-4g">Compare</a></div>
 </div></div><div class="card" data-name="oppo a76 oppo smartphones" data-brand="Oppo" data-price="47999" data-year="2022">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/oppo-a76/main.webp"><img class="cardimg" src="img/oppo-a76/main.jpg" alt="Oppo A76" loading="lazy"></picture>
@@ -1718,6 +1718,16 @@
 <div class="spec">5.5&quot; display · Qualcomm MSM8996 Snapdragon 82 · 4 GB RAM · 3450 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/google-pixel-xl.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=google-pixel-xl">Compare</a></div>
+</div></div><div class="card" data-name="oppo a57 4g oppo smartphones" data-brand="Oppo" data-price="50399" data-year="2016">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/oppo-a57-4g/main.webp"><img class="cardimg" src="img/oppo-a57-4g/main.jpg" alt="Oppo A57 4G" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oppo-a57-4g.html">Oppo A57 4G</a></p>
+<div class="price"><span class="prc" data-pkr="50399"><b class="pkrv">Rs 50,399</b> <span class="usdv">$182</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">5.2&quot; display</div><div class="spec">Qualcomm MSM8940 Snapdragon 435</div><div class="spec">3 GB RAM</div><div class="spec">2900 mAh</div>
+<div class="spec">5.2&quot; display · Qualcomm MSM8940 Snapdragon 435 · 3 GB RAM · 2900 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/oppo-a57-4g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oppo-a57-4g">Compare</a></div>
 </div></div><div class="card" data-name="realme p4x 4g realme smartphones" data-brand="Realme" data-price="50999" data-year="2026">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/realme-p4x/main.webp"><img class="cardimg" src="img/realme-p4x/main.jpg" alt="Realme P4x 4G" loading="lazy"></picture>

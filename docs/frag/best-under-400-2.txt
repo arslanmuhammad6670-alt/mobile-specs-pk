@@ -1,4 +1,14 @@
-<div class="card" data-name="samsung galaxy f07 samsung smartphones" data-brand="Samsung" data-price="35999" data-year="2025">
+<div class="card" data-name="htc desire 728g dual sim htc smartphones" data-brand="HTC" data-price="35999" data-year="0">
+
+<picture><source type="image/webp" srcset="img/htc-desire-728g-dual-sim/main.webp"><img class="cardimg" src="img/htc-desire-728g-dual-sim/main.jpg" alt="HTC Desire 728g Dual Sim" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/htc-desire-728g-dual-sim.html">HTC Desire 728g Dual Sim</a></p>
+<div class="price"><span class="prc" data-pkr="35999"><b class="pkrv">Rs 35,999</b> <span class="usdv">$130</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Octa-core</div><div class="spec">1 GB RAM</div><div class="spec">2800 mAh</div>
+<div class="spec">5.5&quot; display · Octa-core · 1 GB RAM · 2800 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/htc-desire-728g-dual-sim.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=htc-desire-728g-dual-sim">Compare</a></div>
+</div></div><div class="card" data-name="samsung galaxy f07 samsung smartphones" data-brand="Samsung" data-price="35999" data-year="2025">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/samsung-galaxy-f07/main.webp"><img class="cardimg" src="img/samsung-galaxy-f07/main.jpg" alt="Samsung Galaxy F07" loading="lazy"></picture>
 <div class="cbody">
@@ -108,6 +118,16 @@
 <div class="spec">5.0&quot; display · Exynos 7570 Quad · 3 GB RAM · 2500 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/samsung-galaxy-j5-prime.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=samsung-galaxy-j5-prime">Compare</a></div>
+</div></div><div class="card" data-name="realme 6 realme smartphones" data-brand="Realme" data-price="36999" data-year="2020">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/realme-6/main.webp"><img class="cardimg" src="img/realme-6/main.jpg" alt="Realme 6" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/realme-6.html">Realme 6</a></p>
+<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek MT6785 Helio G90T</div><div class="spec">4 / 6 / 8 GB RAM</div><div class="spec">4300 mAh</div>
+<div class="spec">6.5&quot; display · Mediatek MT6785 Helio G90T · 4 / 6 / 8 GB RAM · 4300 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/realme-6.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=realme-6">Compare</a></div>
 </div></div><div class="card" data-name="vivo y16 vivo smartphones" data-brand="Vivo" data-price="36999" data-year="2022">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/vivo-y16/main.webp"><img class="cardimg" src="img/vivo-y16/main.jpg" alt="Vivo Y16" loading="lazy"></picture>
@@ -1128,16 +1148,6 @@
 <div class="spec">6.5&quot; display · Exynos 850 · 3 / 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a04s.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=samsung-galaxy-a04s">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy a02s samsung smartphones" data-brand="Samsung" data-price="39999" data-year="2020">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/samsung-galaxy-a02s/main.webp"><img class="cardimg" src="img/samsung-galaxy-a02s/main.jpg" alt="Samsung Galaxy A02s" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/samsung-galaxy-a02s.html">Samsung Galaxy A02s</a></p>
-<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Qualcomm SDM450 Snapdragon 450</div><div class="spec">1 / 2 / 3 / 4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.5&quot; display · Qualcomm SDM450 Snapdragon 450 · 1 / 2 / 3 / 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/samsung-galaxy-a02s.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=samsung-galaxy-a02s">Compare</a></div>
 </div></div><div class="card" data-name="realme c21y realme smartphones" data-brand="Realme" data-price="39999" data-year="2021">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/realme-c21y/main.webp"><img class="cardimg" src="img/realme-c21y/main.jpg" alt="Realme C21y" loading="lazy"></picture>
@@ -1148,6 +1158,16 @@
 <div class="spec">6.5&quot; display · Unisoc T610 · 3 / 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/realme-c21y.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=realme-c21y">Compare</a></div>
+</div></div><div class="card" data-name="realme 8 realme smartphones" data-brand="Realme" data-price="39999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/realme-8/main-card.webp"><img class="cardimg" src="img/realme-8/main-card.jpg" alt="Realme 8" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/realme-8.html">Realme 8</a></p>
+<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.4&quot; display</div><div class="spec">Mediatek MT6785V/CD Helio G95</div><div class="spec">4 / 6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.4&quot; display · Mediatek MT6785V/CD Helio G95 · 4 / 6 / 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/realme-8.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=realme-8">Compare</a></div>
 </div></div><div class="card" data-name="realme narzo 50a realme smartphones" data-brand="Realme" data-price="39999" data-year="2021">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/realme-narzo-50a/main.webp"><img class="cardimg" src="img/realme-narzo-50a/main.jpg" alt="Realme Narzo 50a" loading="lazy"></picture>
@@ -3338,16 +3358,6 @@
 <div class="spec">5.5&quot; display · Mediatek MT6797 Helio X20 · 2 / 3 / 4 GB RAM · 4100 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/xiaomi-redmi-note-4.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=xiaomi-redmi-note-4">Compare</a></div>
-</div></div><div class="card" data-name="realme 9i realme smartphones" data-brand="Realme" data-price="45999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-9i/main.webp"><img class="cardimg" src="img/realme-9i/main.jpg" alt="Realme 9i" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-9i.html">Realme 9i</a></p>
-<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Qualcomm SM6225 Snapdragon 680 4G</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Qualcomm SM6225 Snapdragon 680 4G · 4 / 6 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-9i.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-9i">Compare</a></div>
 </div></div><div class="card" data-name="realme c35 realme smartphones" data-brand="Realme" data-price="45999" data-year="2023">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/realme-c35/main.webp"><img class="cardimg" src="img/realme-c35/main.jpg" alt="Realme C35" loading="lazy"></picture>
@@ -3988,14 +3998,4 @@
 <div class="spec">6.78&quot; display · Mediatek Helio G99 · 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/blackview-shark-8.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=blackview-shark-8">Compare</a></div>
-</div></div><div class="card" data-name="tecno camon 18i tecno smartphones" data-brand="Tecno" data-price="45999" data-year="2021">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/tecno-camon-18i/main.webp"><img class="cardimg" src="img/tecno-camon-18i/main.jpg" alt="Tecno Camon 18i" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/tecno-camon-18i.html">Tecno Camon 18i</a></p>
-<div class="price"><span class="prc" data-pkr="45999"><b class="pkrv">Rs 45,999</b> <span class="usdv">$166</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.6&quot; display</div><div class="spec">Mediatek MT6769Z Helio G85</div><div class="spec">4 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.6&quot; display · Mediatek MT6769Z Helio G85 · 4 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/tecno-camon-18i.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=tecno-camon-18i">Compare</a></div>
 </div></div>

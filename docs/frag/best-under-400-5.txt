@@ -1,14 +1,4 @@
-<div class="card" data-name="motorola moto z2 play motorola smartphones" data-brand="Motorola" data-price="70999" data-year="2017">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-moto-z2-play/main.webp"><img class="cardimg" src="img/motorola-moto-z2-play/main.jpg" alt="Motorola Moto Z2 Play" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/motorola-moto-z2-play.html">Motorola Moto Z2 Play</a></p>
-<div class="price"><span class="prc" data-pkr="70999"><b class="pkrv">Rs 70,999</b> <span class="usdv">$257</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.5&quot; display</div><div class="spec">Qualcomm MSM8953-Pro Snapdragon 626</div><div class="spec">3 / 4 GB RAM</div><div class="spec">3000 mAh</div>
-<div class="spec">5.5&quot; display · Qualcomm MSM8953-Pro Snapdragon 626 · 3 / 4 GB RAM · 3000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/motorola-moto-z2-play.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=motorola-moto-z2-play">Compare</a></div>
-</div></div><div class="card" data-name="oppo reno7 5g oppo smartphones" data-brand="Oppo" data-price="70999" data-year="2021">
+<div class="card" data-name="oppo reno7 5g oppo smartphones" data-brand="Oppo" data-price="70999" data-year="2021">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/oppo-reno7-5g/main.webp"><img class="cardimg" src="img/oppo-reno7-5g/main.jpg" alt="Oppo Reno7 5G" loading="lazy"></picture>
 <div class="cbody">
@@ -2598,6 +2588,16 @@
 <div class="spec">6.8&quot; display · Mediatek Helio G100 Turbo · 4 GB RAM · 6500 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/tcl-k70-power.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=tcl-k70-power">Compare</a></div>
+</div></div><div class="card" data-name="realme 9i realme smartphones" data-brand="Realme" data-price="79999" data-year="2022">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/realme-9i/main.webp"><img class="cardimg" src="img/realme-9i/main.jpg" alt="Realme 9i" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/realme-9i.html">Realme 9i</a></p>
+<div class="price"><span class="prc" data-pkr="79999"><b class="pkrv">Rs 79,999</b> <span class="usdv">$289</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.6&quot; display</div><div class="spec">Qualcomm SM6225 Snapdragon 680 4G</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.6&quot; display · Qualcomm SM6225 Snapdragon 680 4G · 4 / 6 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/realme-9i.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=realme-9i">Compare</a></div>
 </div></div><div class="card" data-name="oneplus nord 2 5g oneplus smartphones" data-brand="OnePlus" data-price="79999" data-year="2021">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/oneplus-nord-2-5g/main.webp"><img class="cardimg" src="img/oneplus-nord-2-5g/main.jpg" alt="OnePlus Nord 2 5G" loading="lazy"></picture>

@@ -3009,33 +3009,36 @@
   "name": "Honor 700",
   "brand": "Honor",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 596,
+  "price_pkr": 164999,
   "path": "phones/honor-700-5g.html",
   "sb": 12,
-  "exp": 1
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "honor-700-pro-5g",
   "name": "Honor 700 Pro",
   "brand": "Honor",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 687,
+  "price_pkr": 189999,
   "path": "phones/honor-700-pro-5g.html",
   "sb": 21,
-  "exp": 1
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "honor-700s-5g",
   "name": "Honor 700S",
   "brand": "Honor",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 535,
+  "price_pkr": 147999,
   "path": "phones/honor-700s-5g.html",
   "sb": 20,
-  "exp": 1
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "huawei-mate-x8-5g",
@@ -9900,11 +9903,11 @@
   "name": "Vivo Y93",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 224,
-  "price_pkr": 61999,
+  "price": 83,
+  "price_pkr": 22999,
   "path": "phones/vivo-y93.html",
   "sb": 0,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "nokia-x3",
@@ -9933,11 +9936,11 @@
   "name": "Nokia 6300",
   "brand": "Nokia",
   "cat": "Keypad Phones",
-  "price": 80,
-  "price_pkr": 21999,
+  "price": 34,
+  "price_pkr": 9500,
   "path": "keypad/nokia-6300.html",
   "sb": 18,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-s6-edge+",
@@ -9988,11 +9991,11 @@
   "name": "Samsung Galaxy A02s",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 145,
-  "price_pkr": 39999,
+  "price": 67,
+  "price_pkr": 18599,
   "path": "phones/samsung-galaxy-a02s.html",
   "sb": 9,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-note-5",
@@ -10087,11 +10090,11 @@
   "name": "Samsung Galaxy A52s 5G",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 220,
-  "price_pkr": 60999,
+  "price": 325,
+  "price_pkr": 89999,
   "path": "phones/samsung-galaxy-a52s-5g.html",
   "sb": 9,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-a73-5g",
@@ -10296,11 +10299,12 @@
   "name": "Samsung Galaxy A52 4G",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 239,
+  "price_pkr": 65999,
   "path": "phones/samsung-galaxy-a52-4g.html",
   "sb": 8,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "motorola-razr-v3",
@@ -10340,11 +10344,12 @@
   "name": "Realme C100 4G",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 361,
+  "price_pkr": 99999,
   "path": "phones/realme-c100-4g.html",
   "sb": 6,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "realme-c31",
@@ -10362,22 +10367,22 @@
   "name": "Vivo Y02",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 101,
-  "price_pkr": 27999,
+  "price": 130,
+  "price_pkr": 35999,
   "path": "phones/vivo-y02.html",
   "sb": 23,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "realme-8",
   "name": "Realme 8",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 126,
-  "price_pkr": 34999,
+  "price": 145,
+  "price_pkr": 39999,
   "path": "phones/realme-8.html",
   "sb": 1,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "nokia-100",
@@ -10483,11 +10488,11 @@
   "name": "Realme 6",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 213,
-  "price_pkr": 58999,
+  "price": 134,
+  "price_pkr": 36999,
   "path": "phones/realme-6.html",
   "sb": 6,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-s20-fe-lte",
@@ -10505,11 +10510,11 @@
   "name": "Oppo A57 4G",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 173,
-  "price_pkr": 47999,
+  "price": 182,
+  "price_pkr": 50399,
   "path": "phones/oppo-a57-4g.html",
   "sb": 18,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "oppo-a5s",
@@ -10527,11 +10532,11 @@
   "name": "Realme 9i",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 166,
-  "price_pkr": 45999,
+  "price": 289,
+  "price_pkr": 79999,
   "path": "phones/realme-9i.html",
   "sb": 18,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "oppo-a18",

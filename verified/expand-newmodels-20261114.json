@@ -1,1 +1,227 @@
-[{"brand":"Honor","cat":"Smartphones","hl":["6.57\" display","Snapdragon 8s Gen 4","12/16 GB RAM","9000 mAh"],"name":"Honor 700","price":null,"price_src":"approx","rows":[["Launch Year","2026 (launched 23/11/2026, China; global launch expected early 2027)"],["Region","China"],["Network","GSM / HSPA / LTE / 5G"],["Body","156.0 x 74.7 x 7.96 mm; 211 g"],["Display","6.57-inch LTPS AMOLED, 1.5K (1264 x 2728), 120Hz, 8000 nits peak; 1.72-inch rear display in camera module"],["OS","Android 17, MagicOS 11 (up to 6 major OS updates)"],["Chipset","Qualcomm Snapdragon 8s Gen 4"],["RAM","12 GB / 16 GB"],["Storage","256 GB / 512 GB"],["Main Camera","200 MP main camera, OIS, 50 MP periscope telephoto, 3.5x optical zoom, 12 MP ultrawide; G200 teleconverter accessory support"],["Selfie Camera","50 MP"],["Battery","9000 mAh"],["Charging","80W wired, 27W reverse wired"],["Colors","Blue Tone, Clear Sky, Pink Mist, Cold White"]],"slug":"honor-700-5g","source":"https://www.huaweicentral.com/honor-700-series-launched/","tag":"200MP camera, 1.72-inch rear display, Snapdragon 8s Gen 4 aur 9000 mAh battery wala naya Honor phone","year":2026},{"brand":"Honor","cat":"Smartphones","hl":["6.57\" display","Snapdragon 8 Gen 5","12/16 GB RAM","9000 mAh"],"name":"Honor 700 Pro","price":null,"price_src":"approx","rows":[["Launch Year","2026 (launched 23/11/2026, China; global launch expected early 2027)"],["Region","China"],["Network","GSM / HSPA / LTE / 5G"],["Body","156.0 x 74.7 x 7.96 mm; 213 g"],["Display","6.57-inch LTPS AMOLED, 1.5K (1264 x 2728), 120Hz, 8000 nits peak; 1.72-inch rear display in camera module"],["OS","Android 17, MagicOS 11 (up to 6 major OS updates)"],["Chipset","Qualcomm Snapdragon 8 Gen 5"],["RAM","12 GB / 16 GB"],["Storage","256 GB / 512 GB"],["Main Camera","200 MP main camera, OIS, 50 MP periscope telephoto, 3.5x optical zoom, 12 MP ultrawide; G200 teleconverter accessory support"],["Selfie Camera","50 MP"],["Battery","9000 mAh"],["Charging","80W wired, 50W wireless, 27W reverse wired"],["Colors","Blue Tone, Clear Sky, Pink Mist, Cold White"]],"slug":"honor-700-pro-5g","source":"https://www.huaweicentral.com/honor-700-series-launched/","tag":"Snapdragon 8 Gen 5, 200MP camera, 1.72-inch rear display aur 9000 mAh battery wala naya Honor flagship","year":2026},{"brand":"Honor","cat":"Smartphones","hl":["6.57\" display","Snapdragon 7 Gen 4","12 GB RAM","9000 mAh"],"name":"Honor 700S","price":null,"price_src":"approx","rows":[["Launch Year","2026 (launched 23/11/2026, China)"],["Region","China"],["Network","GSM / HSPA / LTE / 5G"],["Body","156.0 x 74.7 x 7.96 mm; 208 g"],["Display","6.57-inch LTPS AMOLED, 1.5K (1264 x 2728), 120Hz, 8000 nits peak; 1.72-inch rear display in camera module"],["OS","Android 17, MagicOS 11 (up to 6 major OS updates)"],["Chipset","Qualcomm Snapdragon 7 Gen 4"],["RAM","12 GB"],["Storage","256 GB / 512 GB"],["Main Camera","200 MP main camera, OIS, 12 MP ultrawide"],["Selfie Camera","50 MP"],["Battery","9000 mAh"],["Charging","80W wired"],["Colors","Blue Tone, Clear Sky, Pink Mist, Cold White"]],"slug":"honor-700s-5g","source":"https://www.huaweicentral.com/honor-700-series-launched/","tag":"200MP camera, 1.72-inch rear display aur 9000 mAh battery wala sasta Honor phone","year":2026}]
+[
+{
+"brand": "Honor",
+"cat": "Smartphones",
+"hl": [
+"6.57\" display",
+"Snapdragon 8s Gen 4",
+"12/16 GB RAM",
+"9000 mAh"
+],
+"name": "Honor 700",
+"price": 164999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (launched 23/11/2026, China; global launch expected early 2027)"
+],
+[
+"Region",
+"China"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"156.0 x 74.7 x 7.96 mm; 211 g"
+],
+[
+"Display",
+"6.57-inch LTPS AMOLED, 1.5K (1264 x 2728), 120Hz, 8000 nits peak; 1.72-inch rear display in camera module"
+],
+[
+"OS",
+"Android 17, MagicOS 11 (up to 6 major OS updates)"
+],
+[
+"Chipset",
+"Qualcomm Snapdragon 8s Gen 4"
+],
+[
+"RAM",
+"12 GB / 16 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB"
+],
+[
+"Main Camera",
+"200 MP main camera, OIS, 50 MP periscope telephoto, 3.5x optical zoom, 12 MP ultrawide; G200 teleconverter accessory support"
+],
+[
+"Selfie Camera",
+"50 MP"
+],
+[
+"Battery",
+"9000 mAh"
+],
+[
+"Charging",
+"80W wired, 27W reverse wired"
+],
+[
+"Colors",
+"Blue Tone, Clear Sky, Pink Mist, Cold White"
+]
+],
+"slug": "honor-700-5g",
+"source": "https://www.huaweicentral.com/honor-700-series-launched/",
+"tag": "200MP camera, 1.72-inch rear display, Snapdragon 8s Gen 4 aur 9000 mAh battery wala naya Honor phone",
+"year": 2026
+},
+{
+"brand": "Honor",
+"cat": "Smartphones",
+"hl": [
+"6.57\" display",
+"Snapdragon 8 Gen 5",
+"12/16 GB RAM",
+"9000 mAh"
+],
+"name": "Honor 700 Pro",
+"price": 189999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (launched 23/11/2026, China; global launch expected early 2027)"
+],
+[
+"Region",
+"China"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"156.0 x 74.7 x 7.96 mm; 213 g"
+],
+[
+"Display",
+"6.57-inch LTPS AMOLED, 1.5K (1264 x 2728), 120Hz, 8000 nits peak; 1.72-inch rear display in camera module"
+],
+[
+"OS",
+"Android 17, MagicOS 11 (up to 6 major OS updates)"
+],
+[
+"Chipset",
+"Qualcomm Snapdragon 8 Gen 5"
+],
+[
+"RAM",
+"12 GB / 16 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB"
+],
+[
+"Main Camera",
+"200 MP main camera, OIS, 50 MP periscope telephoto, 3.5x optical zoom, 12 MP ultrawide; G200 teleconverter accessory support"
+],
+[
+"Selfie Camera",
+"50 MP"
+],
+[
+"Battery",
+"9000 mAh"
+],
+[
+"Charging",
+"80W wired, 50W wireless, 27W reverse wired"
+],
+[
+"Colors",
+"Blue Tone, Clear Sky, Pink Mist, Cold White"
+]
+],
+"slug": "honor-700-pro-5g",
+"source": "https://www.huaweicentral.com/honor-700-series-launched/",
+"tag": "Snapdragon 8 Gen 5, 200MP camera, 1.72-inch rear display aur 9000 mAh battery wala naya Honor flagship",
+"year": 2026
+},
+{
+"brand": "Honor",
+"cat": "Smartphones",
+"hl": [
+"6.57\" display",
+"Snapdragon 7 Gen 4",
+"12 GB RAM",
+"9000 mAh"
+],
+"name": "Honor 700S",
+"price": 147999,
+"price_src": "approx",
+"rows": [
+[
+"Launch Year",
+"2026 (launched 23/11/2026, China)"
+],
+[
+"Region",
+"China"
+],
+[
+"Network",
+"GSM / HSPA / LTE / 5G"
+],
+[
+"Body",
+"156.0 x 74.7 x 7.96 mm; 208 g"
+],
+[
+"Display",
+"6.57-inch LTPS AMOLED, 1.5K (1264 x 2728), 120Hz, 8000 nits peak; 1.72-inch rear display in camera module"
+],
+[
+"OS",
+"Android 17, MagicOS 11 (up to 6 major OS updates)"
+],
+[
+"Chipset",
+"Qualcomm Snapdragon 7 Gen 4"
+],
+[
+"RAM",
+"12 GB"
+],
+[
+"Storage",
+"256 GB / 512 GB"
+],
+[
+"Main Camera",
+"200 MP main camera, OIS, 12 MP ultrawide"
+],
+[
+"Selfie Camera",
+"50 MP"
+],
+[
+"Battery",
+"9000 mAh"
+],
+[
+"Charging",
+"80W wired"
+],
+[
+"Colors",
+"Blue Tone, Clear Sky, Pink Mist, Cold White"
+]
+],
+"slug": "honor-700s-5g",
+"source": "https://www.huaweicentral.com/honor-700-series-launched/",
+"tag": "200MP camera, 1.72-inch rear display aur 9000 mAh battery wala sasta Honor phone",
+"year": 2026
+}
+]

@@ -12435,7 +12435,7 @@
 ],
 "name": "Vivo Y93",
 "price": 61999,
-"price_src": "approx",
+"price_src": "https://priceoye.pk/mobiles/vivo/vivo-y93",
 "rows": [
 [
 "Launch Year",
@@ -12706,7 +12706,7 @@
 ],
 "name": "Nokia 6300",
 "price": 21999,
-"price_src": "approx",
+"price_src": "https://priceoye.pk/mobiles/nokia/nokia-6300-4g",
 "rows": [
 [
 "Launch Year",
@@ -13122,7 +13122,7 @@
 ],
 "name": "Samsung Galaxy A02s",
 "price": 39999,
-"price_src": "approx",
+"price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a02s",
 "rows": [
 [
 "Launch Year",
@@ -13888,7 +13888,7 @@
 ],
 "name": "Samsung Galaxy A52s 5G",
 "price": 60999,
-"price_src": "approx",
+"price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a52s-5g",
 "rows": [
 [
 "Launch Year",
@@ -15551,7 +15551,7 @@
 ],
 "name": "Samsung Galaxy A52 4G",
 "price": null,
-"price_src": "approx",
+"price_src": "https://priceoye.pk/mobiles/samsung/samsung-galaxy-a52",
 "price_unverified": true,
 "rows": [
 [
@@ -15894,7 +15894,7 @@
 ],
 "name": "Realme C100 4G",
 "price": null,
-"price_src": "approx",
+"price_src": "https://priceoye.pk/mobiles/realme/realme-c100",
 "price_unverified": true,
 "rows": [
 [
@@ -16037,7 +16037,7 @@
 ],
 "name": "Vivo Y02",
 "price": 27999,
-"price_src": "approx",
+"price_src": "https://priceoye.pk/mobiles/vivo/vivo-y02",
 "rows": [
 [
 "Launch Year",
@@ -16132,7 +16132,7 @@
 ],
 "name": "Realme 8",
 "price": 34999,
-"price_src": "approx",
+"price_src": "https://priceoye.pk/mobiles/realme/realme-8",
 "rows": [
 [
 "Launch Year",
@@ -17006,7 +17006,7 @@
 ],
 "name": "Realme 6",
 "price": 58999,
-"price_src": "approx",
+"price_src": "https://priceoye.pk/mobiles/realme/realme-6",
 "rows": [
 [
 "Launch Year",
@@ -17201,7 +17201,7 @@
 ],
 "name": "Oppo A57 4G",
 "price": 47999,
-"price_src": "approx",
+"price_src": "https://priceoye.pk/mobiles/oppo/oppo-a57-4g",
 "rows": [
 [
 "Launch Year",
@@ -17384,7 +17384,7 @@
 ],
 "name": "Realme 9i",
 "price": 45999,
-"price_src": "approx",
+"price_src": "https://priceoye.pk/mobiles/realme/realme-9i",
 "rows": [
 [
 "Launch Year",

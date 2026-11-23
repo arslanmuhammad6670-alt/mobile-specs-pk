@@ -3012,7 +3012,8 @@
   "price": null,
   "price_pkr": null,
   "path": "phones/honor-700-5g.html",
-  "sb": 12
+  "sb": 12,
+  "exp": 1
  },
  {
   "slug": "honor-700-pro-5g",
@@ -3022,7 +3023,8 @@
   "price": null,
   "price_pkr": null,
   "path": "phones/honor-700-pro-5g.html",
-  "sb": 21
+  "sb": 21,
+  "exp": 1
  },
  {
   "slug": "honor-700s-5g",
@@ -3032,7 +3034,8 @@
   "price": null,
   "price_pkr": null,
   "path": "phones/honor-700s-5g.html",
-  "sb": 20
+  "sb": 20,
+  "exp": 1
  },
  {
   "slug": "huawei-mate-x8-5g",

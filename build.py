@@ -227,7 +227,12 @@ EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide
     # Creator Edition (India-only launch Nov 20, INR 4,49,990 -> Expected
     # at INR x 3); none officially in Pakistan.
     "xiaomi-redmi-r80-5g", "xiaomi-redmi-r80m-5g", "honor-watch-6-pro",
-    "dell-xps-16-creator-edition"}
+    "dell-xps-16-creator-edition",
+    # watch 2026-11-23: Honor 700 series finalised (China-only launch Nov 23,
+    # prices NOT yet published at run time — kept null; when the nightly run
+    # adds verified CNY prices they render Expected at CNY x 41.48).
+    # Not officially in Pakistan; global launch expected early 2027.
+    "honor-700-5g", "honor-700-pro-5g", "honor-700s-5g"}
 for _d in ALL:
     _d["price_expected"] = _d["slug"] in EXPECTED_SLUGS
 

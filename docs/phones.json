@@ -3092,10 +3092,12 @@
   "name": "Motorola Edge 70 Neo",
   "brand": "Motorola",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 445,
+  "price_pkr": 122999,
   "path": "phones/motorola-edge-70-neo-5g.html",
-  "sb": 0
+  "sb": 0,
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "huawei-mate-90-air-5g",

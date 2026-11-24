@@ -236,7 +236,11 @@ EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide
     # watch 2026-11-24: Motorola Edge 70 Neo finalised (India-only launch
     # Nov 24, verified list INR 40,999 -> Expected at INR x 3); not
     # officially in Pakistan.
-    "motorola-edge-70-neo-5g"}
+    "motorola-edge-70-neo-5g",
+    # nightly 2026-11-25: Huawei Mate 90 Air finalised (China-only launch
+    # Nov 24, verified official list CNY 4,999 -> Expected at CNY x 41.3907);
+    # not officially in Pakistan. (Mate X8 already listed above, 2026-11-17.)
+    "huawei-mate-90-air-5g"}
 for _d in ALL:
     _d["price_expected"] = _d["slug"] in EXPECTED_SLUGS
 

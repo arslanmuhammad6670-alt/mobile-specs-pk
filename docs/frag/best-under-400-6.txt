@@ -1,4 +1,24 @@
-<div class="card" data-name="xiaomi mi note 3 xiaomi smartphones" data-brand="Xiaomi" data-price="86999" data-year="2017">
+<div class="card" data-name="vivo y70s vivo smartphones" data-brand="Vivo" data-price="86999" data-year="2020">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/vivo-y70s/main.webp"><img class="cardimg" src="img/vivo-y70s/main.jpg" alt="Vivo Y70s" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/vivo-y70s.html">Vivo Y70s</a></p>
+<div class="price"><span class="prc" data-pkr="86999"><b class="pkrv">Rs 86,999</b> <span class="usdv">$314</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.53&quot; display</div><div class="spec">Exynos 880</div><div class="spec">6 / 8 GB RAM</div><div class="spec">4500 mAh</div>
+<div class="spec">6.53&quot; display · Exynos 880 · 6 / 8 GB RAM · 4500 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/vivo-y70s.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=vivo-y70s">Compare</a></div>
+</div></div><div class="card" data-name="motorola moto g60 motorola smartphones" data-brand="Motorola" data-price="86999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="../img/motorola-moto-g60/main.webp"><img class="cardimg" src="../img/motorola-moto-g60/main.jpg" alt="Motorola Moto G60" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/motorola-moto-g60.html">Motorola Moto G60</a></p>
+<div class="price"><span class="prc" data-pkr="86999"><b class="pkrv">Rs 86,999</b> <span class="usdv">$314</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.8&quot; display</div><div class="spec">Qualcomm SM7150 Snapdragon 732G</div><div class="spec">4 / 6 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="spec">6.8&quot; display · Qualcomm SM7150 Snapdragon 732G · 4 / 6 GB RAM · 6000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/motorola-moto-g60.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=motorola-moto-g60">Compare</a></div>
+</div></div><div class="card" data-name="xiaomi mi note 3 xiaomi smartphones" data-brand="Xiaomi" data-price="86999" data-year="2017">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/xiaomi-mi-note-3/main.webp"><img class="cardimg" src="img/xiaomi-mi-note-3/main.jpg" alt="Xiaomi Mi Note 3" loading="lazy"></picture>
 <div class="cbody">
@@ -70,7 +90,7 @@
 <a class="btn alt" href="compare.html?a=tecno-camon-17-pro">Compare</a></div>
 </div></div><div class="card" data-name="huawei nova y91 huawei smartphones" data-brand="Huawei" data-price="86999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-nova-y91/main.webp"><img class="cardimg" src="img/huawei-nova-y91/main.jpg" alt="Huawei Nova Y91" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/huawei-nova-y91/main.webp"><img class="cardimg" src="../img/huawei-nova-y91/main.jpg" alt="Huawei Nova Y91" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-nova-y91.html">Huawei Nova Y91</a></p>
@@ -90,7 +110,7 @@
 <a class="btn alt" href="compare.html?a=vivo-v50-lite-5g">Compare</a></div>
 </div></div><div class="card" data-name="huawei p smart z huawei smartphones" data-brand="Huawei" data-price="86999" data-year="2019">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-p-smart-z/main.webp"><img class="cardimg" src="img/huawei-p-smart-z/main.jpg" alt="Huawei P Smart Z" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/huawei-p-smart-z/main.webp"><img class="cardimg" src="../img/huawei-p-smart-z/main.jpg" alt="Huawei P Smart Z" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-p-smart-z.html">Huawei P Smart Z</a></p>
@@ -140,7 +160,7 @@
 <a class="btn alt" href="compare.html?a=motorola-moto-x-force">Compare</a></div>
 </div></div><div class="card" data-name="huawei y max huawei smartphones" data-brand="Huawei" data-price="86999" data-year="2018">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-y-max/main.webp"><img class="cardimg" src="img/huawei-y-max/main.jpg" alt="Huawei Y Max" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/huawei-y-max/main.webp"><img class="cardimg" src="../img/huawei-y-max/main.jpg" alt="Huawei Y Max" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-y-max.html">Huawei Y Max</a></p>
@@ -230,7 +250,7 @@
 <a class="btn alt" href="compare.html?a=oppo-reno-a">Compare</a></div>
 </div></div><div class="card" data-name="sony xperia t2 ultra dual sony smartphones" data-brand="Sony" data-price="86999" data-year="2014">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/sony-xperia-t2-ultra-dual/main-card.webp"><img class="cardimg" src="img/sony-xperia-t2-ultra-dual/main-card.jpg" alt="Sony Xperia T2 Ultra Dual" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/sony-xperia-t2-ultra-dual/main-card.webp"><img class="cardimg" src="../img/sony-xperia-t2-ultra-dual/main-card.jpg" alt="Sony Xperia T2 Ultra Dual" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/sony-xperia-t2-ultra-dual.html">Sony Xperia T2 Ultra Dual</a></p>
@@ -260,7 +280,7 @@
 <a class="btn alt" href="compare.html?a=doogee-s89">Compare</a></div>
 </div></div><div class="card" data-name="motorola defy (2021) motorola smartphones" data-brand="Motorola" data-price="86999" data-year="2021">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-defy-(2021)/main.webp"><img class="cardimg" src="img/motorola-defy-(2021)/main.jpg" alt="Motorola Defy (2021)" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/motorola-defy-(2021)/main.webp"><img class="cardimg" src="../img/motorola-defy-(2021)/main.jpg" alt="Motorola Defy (2021)" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/motorola-defy-(2021).html">Motorola Defy (2021)</a></p>
@@ -300,7 +320,7 @@
 <a class="btn alt" href="compare.html?a=oukitel-wp27">Compare</a></div>
 </div></div><div class="card" data-name="oukitel wp50 oukitel smartphones" data-brand="Oukitel" data-price="86999" data-year="2024">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/oukitel-wp50/main.webp"><img class="cardimg" src="img/oukitel-wp50/main.jpg" alt="Oukitel Wp50" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/oukitel-wp50/main.webp"><img class="cardimg" src="../img/oukitel-wp50/main.jpg" alt="Oukitel Wp50" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/oukitel-wp50.html">Oukitel Wp50</a></p>
@@ -330,7 +350,7 @@
 <a class="btn alt" href="compare.html?a=motorola-moto-s50">Compare</a></div>
 </div></div><div class="card" data-name="sony xperia z ultra sony smartphones" data-brand="Sony" data-price="86999" data-year="2013">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/sony-xperia-z-ultra/main.webp"><img class="cardimg" src="img/sony-xperia-z-ultra/main.jpg" alt="Sony Xperia Z Ultra" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/sony-xperia-z-ultra/main.webp"><img class="cardimg" src="../img/sony-xperia-z-ultra/main.jpg" alt="Sony Xperia Z Ultra" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/sony-xperia-z-ultra.html">Sony Xperia Z Ultra</a></p>
@@ -370,7 +390,7 @@
 <a class="btn alt" href="compare.html?a=oppo-a7-pro-5g">Compare</a></div>
 </div></div><div class="card" data-name="oneplus turbo 6 oneplus smartphones" data-brand="OnePlus" data-price="86999" data-year="2026">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/oneplus-turbo-6-5g/main.webp"><img class="cardimg" src="img/oneplus-turbo-6-5g/main.jpg" alt="OnePlus Turbo 6" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/oneplus-turbo-6-5g/main.webp"><img class="cardimg" src="../img/oneplus-turbo-6-5g/main.jpg" alt="OnePlus Turbo 6" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/oneplus-turbo-6-5g.html">OnePlus Turbo 6</a></p>
@@ -440,7 +460,7 @@
 <a class="btn alt" href="compare.html?a=xiaomi-mi-10-5g">Compare</a></div>
 </div></div><div class="card" data-name="motorola edge 40 neo motorola smartphones" data-brand="Motorola" data-price="88999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-edge-40-neo/main.webp"><img class="cardimg" src="img/motorola-edge-40-neo/main.jpg" alt="Motorola Edge 40 Neo" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/motorola-edge-40-neo/main.webp"><img class="cardimg" src="../img/motorola-edge-40-neo/main.jpg" alt="Motorola Edge 40 Neo" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/motorola-edge-40-neo.html">Motorola Edge 40 Neo</a></p>
@@ -650,7 +670,7 @@
 <a class="btn alt" href="compare.html?a=realme-v25">Compare</a></div>
 </div></div><div class="card" data-name="xiaomi poco f4 gt xiaomi smartphones" data-brand="Xiaomi" data-price="89999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/xiaomi-poco-f4-gt/main.webp"><img class="cardimg" src="img/xiaomi-poco-f4-gt/main.jpg" alt="Xiaomi Poco F4 Gt" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/xiaomi-poco-f4-gt/main.webp"><img class="cardimg" src="../img/xiaomi-poco-f4-gt/main.jpg" alt="Xiaomi Poco F4 Gt" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/xiaomi-poco-f4-gt.html">Xiaomi Poco F4 Gt</a></p>
@@ -670,7 +690,7 @@
 <a class="btn alt" href="compare.html?a=htc-touch-hd">Compare</a></div>
 </div></div><div class="card" data-name="motorola moto g200 5g motorola smartphones" data-brand="Motorola" data-price="89999" data-year="2021">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-moto-g200-5g/main.webp"><img class="cardimg" src="img/motorola-moto-g200-5g/main.jpg" alt="Motorola Moto G200 5G" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/motorola-moto-g200-5g/main.webp"><img class="cardimg" src="../img/motorola-moto-g200-5g/main.jpg" alt="Motorola Moto G200 5G" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/motorola-moto-g200-5g.html">Motorola Moto G200 5G</a></p>
@@ -700,7 +720,7 @@
 <a class="btn alt" href="compare.html?a=oppo-r1s">Compare</a></div>
 </div></div><div class="card" data-name="motorola droid turbo motorola smartphones" data-brand="Motorola" data-price="89999" data-year="2014">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-droid-turbo/main-card.webp"><img class="cardimg" src="img/motorola-droid-turbo/main-card.jpg" alt="Motorola Droid Turbo" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/motorola-droid-turbo/main-card.webp"><img class="cardimg" src="../img/motorola-droid-turbo/main-card.jpg" alt="Motorola Droid Turbo" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/motorola-droid-turbo.html">Motorola Droid Turbo</a></p>
@@ -750,7 +770,7 @@
 <a class="btn alt" href="compare.html?a=realme-q3t">Compare</a></div>
 </div></div><div class="card" data-name="htc desire 600 dual sim htc smartphones" data-brand="HTC" data-price="89999" data-year="2013">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-desire-600-dual-sim/main.webp"><img class="cardimg" src="img/htc-desire-600-dual-sim/main.jpg" alt="HTC Desire 600 Dual Sim" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/htc-desire-600-dual-sim/main.webp"><img class="cardimg" src="../img/htc-desire-600-dual-sim/main.jpg" alt="HTC Desire 600 Dual Sim" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/htc-desire-600-dual-sim.html">HTC Desire 600 Dual Sim</a></p>
@@ -760,7 +780,7 @@
 <a class="btn alt" href="compare.html?a=htc-desire-600-dual-sim">Compare</a></div>
 </div></div><div class="card" data-name="huawei ascend d quad huawei smartphones" data-brand="Huawei" data-price="89999" data-year="2012">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-ascend-d-quad/main.webp"><img class="cardimg" src="img/huawei-ascend-d-quad/main.jpg" alt="Huawei Ascend D Quad" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/huawei-ascend-d-quad/main.webp"><img class="cardimg" src="../img/huawei-ascend-d-quad/main.jpg" alt="Huawei Ascend D Quad" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-ascend-d-quad.html">Huawei Ascend D Quad</a></p>
@@ -770,7 +790,7 @@
 <a class="btn alt" href="compare.html?a=huawei-ascend-d-quad">Compare</a></div>
 </div></div><div class="card" data-name="sony xperia z3+ sony smartphones" data-brand="Sony" data-price="89999" data-year="2015">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/sony-xperia-z3+/main.webp"><img class="cardimg" src="img/sony-xperia-z3+/main.jpg" alt="Sony Xperia Z3+" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/sony-xperia-z3+/main.webp"><img class="cardimg" src="../img/sony-xperia-z3+/main.jpg" alt="Sony Xperia Z3+" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/sony-xperia-z3+.html">Sony Xperia Z3+</a></p>
@@ -780,7 +800,7 @@
 <a class="btn alt" href="compare.html?a=sony-xperia-z3+">Compare</a></div>
 </div></div><div class="card" data-name="blackview bv8900 blackview smartphones" data-brand="Blackview" data-price="89999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/blackview-bv8900/main.webp"><img class="cardimg" src="img/blackview-bv8900/main.jpg" alt="Blackview Bv8900" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/blackview-bv8900/main.webp"><img class="cardimg" src="../img/blackview-bv8900/main.jpg" alt="Blackview Bv8900" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/blackview-bv8900.html">Blackview Bv8900</a></p>
@@ -790,7 +810,7 @@
 <a class="btn alt" href="compare.html?a=blackview-bv8900">Compare</a></div>
 </div></div><div class="card" data-name="blackview a200 pro blackview smartphones" data-brand="Blackview" data-price="89999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/blackview-a200-pro/main.webp"><img class="cardimg" src="img/blackview-a200-pro/main.jpg" alt="Blackview A200 Pro" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/blackview-a200-pro/main.webp"><img class="cardimg" src="../img/blackview-a200-pro/main.jpg" alt="Blackview A200 Pro" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/blackview-a200-pro.html">Blackview A200 Pro</a></p>
@@ -800,7 +820,7 @@
 <a class="btn alt" href="compare.html?a=blackview-a200-pro">Compare</a></div>
 </div></div><div class="card" data-name="infinix hot 70 pro infinix smartphones" data-brand="Infinix" data-price="89999" data-year="2026">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/infinix-hot-70-pro-5g/main.webp"><img class="cardimg" src="img/infinix-hot-70-pro-5g/main.jpg" alt="Infinix Hot 70 Pro" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/infinix-hot-70-pro-5g/main.webp"><img class="cardimg" src="../img/infinix-hot-70-pro-5g/main.jpg" alt="Infinix Hot 70 Pro" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/infinix-hot-70-pro-5g.html">Infinix Hot 70 Pro</a></p>
@@ -850,7 +870,7 @@
 <a class="btn alt" href="compare.html?a=samsung-galaxy-s21-5g">Compare</a></div>
 </div></div><div class="card" data-name="honor 90 honor smartphones" data-brand="Honor" data-price="90999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/honor-90/main.webp"><img class="cardimg" src="img/honor-90/main.jpg" alt="Honor 90" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/honor-90/main.webp"><img class="cardimg" src="../img/honor-90/main.jpg" alt="Honor 90" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/honor-90.html">Honor 90</a></p>
@@ -1160,7 +1180,7 @@
 <a class="btn alt" href="compare.html?a=vivo-t1-pro-5g">Compare</a></div>
 </div></div><div class="card" data-name="honor 60 se honor smartphones" data-brand="Honor" data-price="92999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/honor-60-se/main.webp"><img class="cardimg" src="img/honor-60-se/main.jpg" alt="Honor 60 SE" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/honor-60-se/main.webp"><img class="cardimg" src="../img/honor-60-se/main.jpg" alt="Honor 60 SE" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/honor-60-se.html">Honor 60 SE</a></p>
@@ -1250,7 +1270,7 @@
 <a class="btn alt" href="compare.html?a=htc-one-m9+">Compare</a></div>
 </div></div><div class="card" data-name="xiaomi 11i hypercharge xiaomi smartphones" data-brand="Xiaomi" data-price="92999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/xiaomi-11i-hypercharge/main.webp"><img class="cardimg" src="img/xiaomi-11i-hypercharge/main.jpg" alt="Xiaomi 11i Hypercharge" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/xiaomi-11i-hypercharge/main.webp"><img class="cardimg" src="../img/xiaomi-11i-hypercharge/main.jpg" alt="Xiaomi 11i Hypercharge" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/xiaomi-11i-hypercharge.html">Xiaomi 11i Hypercharge</a></p>
@@ -1260,7 +1280,7 @@
 <a class="btn alt" href="compare.html?a=xiaomi-11i-hypercharge">Compare</a></div>
 </div></div><div class="card" data-name="motorola moto maxx motorola smartphones" data-brand="Motorola" data-price="92999" data-year="2014">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-moto-maxx/main.webp"><img class="cardimg" src="img/motorola-moto-maxx/main.jpg" alt="Motorola Moto Maxx" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/motorola-moto-maxx/main.webp"><img class="cardimg" src="../img/motorola-moto-maxx/main.jpg" alt="Motorola Moto Maxx" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/motorola-moto-maxx.html">Motorola Moto Maxx</a></p>
@@ -1380,7 +1400,7 @@
 <a class="btn alt" href="compare.html?a=doogee-s-cyber">Compare</a></div>
 </div></div><div class="card" data-name="blackview bl8800 pro blackview smartphones" data-brand="Blackview" data-price="92999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/blackview-bl8800-pro/main.webp"><img class="cardimg" src="img/blackview-bl8800-pro/main.jpg" alt="Blackview Bl8800 Pro" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/blackview-bl8800-pro/main.webp"><img class="cardimg" src="../img/blackview-bl8800-pro/main.jpg" alt="Blackview Bl8800 Pro" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/blackview-bl8800-pro.html">Blackview Bl8800 Pro</a></p>
@@ -1440,7 +1460,7 @@
 <a class="btn alt" href="compare.html?a=htc-one-x9">Compare</a></div>
 </div></div><div class="card" data-name="huawei ascend p6 s huawei smartphones" data-brand="Huawei" data-price="92999" data-year="2014">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-ascend-p6-s/main.webp"><img class="cardimg" src="img/huawei-ascend-p6-s/main.jpg" alt="Huawei Ascend P6 S" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/huawei-ascend-p6-s/main.webp"><img class="cardimg" src="../img/huawei-ascend-p6-s/main.jpg" alt="Huawei Ascend P6 S" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-ascend-p6-s.html">Huawei Ascend P6 S</a></p>
@@ -1470,7 +1490,7 @@
 <a class="btn alt" href="compare.html?a=samsung-galaxy-a6s">Compare</a></div>
 </div></div><div class="card" data-name="xiaomi redmi m100 pro xiaomi smartphones" data-brand="Xiaomi" data-price="92999" data-year="2026">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/xiaomi-redmi-m100-pro-5g/main.webp"><img class="cardimg" src="img/xiaomi-redmi-m100-pro-5g/main.jpg" alt="Xiaomi Redmi M100 Pro" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/xiaomi-redmi-m100-pro-5g/main.webp"><img class="cardimg" src="../img/xiaomi-redmi-m100-pro-5g/main.jpg" alt="Xiaomi Redmi M100 Pro" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/xiaomi-redmi-m100-pro-5g.html">Xiaomi Redmi M100 Pro</a></p>
@@ -1490,7 +1510,7 @@
 <a class="btn alt" href="compare.html?a=oppo-k15-5g">Compare</a></div>
 </div></div><div class="card" data-name="oneplus ace 5 oneplus smartphones" data-brand="OnePlus" data-price="92999" data-year="2024">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/oneplus-ace-5/main.webp"><img class="cardimg" src="img/oneplus-ace-5/main.jpg" alt="OnePlus Ace 5" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/oneplus-ace-5/main.webp"><img class="cardimg" src="../img/oneplus-ace-5/main.jpg" alt="OnePlus Ace 5" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/oneplus-ace-5.html">OnePlus Ace 5</a></p>
@@ -1540,7 +1560,7 @@
 <a class="btn alt" href="compare.html?a=vivo-nex">Compare</a></div>
 </div></div><div class="card" data-name="sony xperia 10 vi sony smartphones" data-brand="Sony" data-price="93999" data-year="2024">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/sony-xperia-10-vi/main.webp"><img class="cardimg" src="img/sony-xperia-10-vi/main.jpg" alt="Sony Xperia 10 Vi" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/sony-xperia-10-vi/main.webp"><img class="cardimg" src="../img/sony-xperia-10-vi/main.jpg" alt="Sony Xperia 10 Vi" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/sony-xperia-10-vi.html">Sony Xperia 10 Vi</a></p>
@@ -1590,7 +1610,7 @@
 <a class="btn alt" href="compare.html?a=sharp-aquos-r10">Compare</a></div>
 </div></div><div class="card" data-name="xiaomi poco x8 xiaomi smartphones" data-brand="Xiaomi" data-price="93999" data-year="2026">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/xiaomi-poco-x8-5g/main.webp"><img class="cardimg" src="img/xiaomi-poco-x8-5g/main.jpg" alt="Xiaomi Poco X8" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/xiaomi-poco-x8-5g/main.webp"><img class="cardimg" src="../img/xiaomi-poco-x8-5g/main.jpg" alt="Xiaomi Poco X8" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/xiaomi-poco-x8-5g.html">Xiaomi Poco X8</a></p>
@@ -1650,7 +1670,7 @@
 <a class="btn alt" href="compare.html?a=vivo-iqoo-z11-5g-(india)">Compare</a></div>
 </div></div><div class="card" data-name="doogee blade 20 max doogee smartphones" data-brand="Doogee" data-price="95999" data-year="2025">
 <span class="badge cont">Continued</span>
-<img class="cardimg" src="img/doogee-blade-20-max/main.jpg" alt="Doogee Blade 20 Max" loading="lazy">
+<picture><source type="image/webp" srcset="img/doogee-blade-20-max/main-card.webp"><img class="cardimg" src="img/doogee-blade-20-max/main-card.jpg" alt="Doogee Blade 20 Max" width="480" height="446" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/doogee-blade-20-max.html">Doogee Blade 20 Max</a></p>
@@ -1850,7 +1870,7 @@
 <a class="btn alt" href="compare.html?a=realme-q2-pro">Compare</a></div>
 </div></div><div class="card" data-name="lg g pro 2 lg smartphones" data-brand="LG" data-price="95999" data-year="2014">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-g-pro-2/main.webp"><img class="cardimg" src="img/lg-g-pro-2/main.jpg" alt="LG G Pro 2" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/lg-g-pro-2/main.webp"><img class="cardimg" src="../img/lg-g-pro-2/main.jpg" alt="LG G Pro 2" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/lg-g-pro-2.html">LG G Pro 2</a></p>
@@ -1860,7 +1880,7 @@
 <a class="btn alt" href="compare.html?a=lg-g-pro-2">Compare</a></div>
 </div></div><div class="card" data-name="huawei ascend d2 huawei smartphones" data-brand="Huawei" data-price="95999" data-year="2013">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-ascend-d2/main.webp"><img class="cardimg" src="img/huawei-ascend-d2/main.jpg" alt="Huawei Ascend D2" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/huawei-ascend-d2/main.webp"><img class="cardimg" src="../img/huawei-ascend-d2/main.jpg" alt="Huawei Ascend D2" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-ascend-d2.html">Huawei Ascend D2</a></p>
@@ -1960,7 +1980,7 @@
 <a class="btn alt" href="compare.html?a=oukitel-p2-plus-5g">Compare</a></div>
 </div></div><div class="card" data-name="doogee fire 7 ultra doogee smartphones" data-brand="Doogee" data-price="98999" data-year="2025">
 <span class="badge cont">Continued</span>
-<img class="cardimg" src="img/doogee-fire-7-ultra-5g/main.jpg" alt="Doogee Fire 7 Ultra" loading="lazy">
+<picture><source type="image/webp" srcset="img/doogee-fire-7-ultra-5g/main-card.webp"><img class="cardimg" src="img/doogee-fire-7-ultra-5g/main-card.jpg" alt="Doogee Fire 7 Ultra" width="480" height="406" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/doogee-fire-7-ultra-5g.html">Doogee Fire 7 Ultra</a></p>
@@ -2050,7 +2070,7 @@
 <a class="btn alt" href="compare.html?a=huawei-nova-7-se-5g">Compare</a></div>
 </div></div><div class="card" data-name="huawei nova 12 lite huawei smartphones" data-brand="Huawei" data-price="98999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-nova-12-lite/main-card.webp"><img class="cardimg" src="img/huawei-nova-12-lite/main-card.jpg" alt="Huawei Nova 12 Lite" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/huawei-nova-12-lite/main-card.webp"><img class="cardimg" src="../img/huawei-nova-12-lite/main-card.jpg" alt="Huawei Nova 12 Lite" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-nova-12-lite.html">Huawei Nova 12 Lite</a></p>
@@ -2070,7 +2090,7 @@
 <a class="btn alt" href="compare.html?a=vivo-s10e">Compare</a></div>
 </div></div><div class="card" data-name="honor x30 max honor smartphones" data-brand="Honor" data-price="98999" data-year="2021">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/honor-x30-max/main.webp"><img class="cardimg" src="img/honor-x30-max/main.jpg" alt="Honor X30 Max" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/honor-x30-max/main.webp"><img class="cardimg" src="../img/honor-x30-max/main.jpg" alt="Honor X30 Max" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/honor-x30-max.html">Honor X30 Max</a></p>
@@ -2090,7 +2110,7 @@
 <a class="btn alt" href="compare.html?a=htc-one-e9">Compare</a></div>
 </div></div><div class="card" data-name="nokia lumia 822 nokia smartphones" data-brand="Nokia" data-price="98999" data-year="2012">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-lumia-822/main.webp"><img class="cardimg" src="img/nokia-lumia-822/main.jpg" alt="Nokia Lumia 822" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/nokia-lumia-822/main.webp"><img class="cardimg" src="../img/nokia-lumia-822/main.jpg" alt="Nokia Lumia 822" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/nokia-lumia-822.html">Nokia Lumia 822</a></p>
@@ -2100,7 +2120,7 @@
 <a class="btn alt" href="compare.html?a=nokia-lumia-822">Compare</a></div>
 </div></div><div class="card" data-name="htc desire 820 dual sim htc smartphones" data-brand="HTC" data-price="98999" data-year="2014">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-desire-820-dual-sim/main.webp"><img class="cardimg" src="img/htc-desire-820-dual-sim/main.jpg" alt="HTC Desire 820 Dual Sim" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/htc-desire-820-dual-sim/main.webp"><img class="cardimg" src="../img/htc-desire-820-dual-sim/main.jpg" alt="HTC Desire 820 Dual Sim" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/htc-desire-820-dual-sim.html">HTC Desire 820 Dual Sim</a></p>
@@ -2140,7 +2160,7 @@
 <a class="btn alt" href="compare.html?a=tcl-20b">Compare</a></div>
 </div></div><div class="card" data-name="sony xperia 10 v sony smartphones" data-brand="Sony" data-price="98999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/sony-xperia-10-v/main.webp"><img class="cardimg" src="img/sony-xperia-10-v/main.jpg" alt="Sony Xperia 10 V" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/sony-xperia-10-v/main.webp"><img class="cardimg" src="../img/sony-xperia-10-v/main.jpg" alt="Sony Xperia 10 V" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/sony-xperia-10-v.html">Sony Xperia 10 V</a></p>
@@ -2230,7 +2250,7 @@
 <a class="btn alt" href="compare.html?a=oneplus-ace-6t-5g">Compare</a></div>
 </div></div><div class="card" data-name="redmi note 13 pro xiaomi smartphones" data-brand="Xiaomi" data-price="99999" data-year="2024">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/redmi-note-13-pro/main.webp"><img class="cardimg" src="img/redmi-note-13-pro/main.jpg" alt="Redmi Note 13 Pro" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/redmi-note-13-pro/main.webp"><img class="cardimg" src="../img/redmi-note-13-pro/main.jpg" alt="Redmi Note 13 Pro" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/redmi-note-13-pro.html">Redmi Note 13 Pro</a></p>
@@ -2290,7 +2310,7 @@
 <a class="btn alt" href="compare.html?a=infinix-note-30-vip">Compare</a></div>
 </div></div><div class="card" data-name="infinix zero ultra infinix smartphones" data-brand="Infinix" data-price="99999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/infinix-zero-ultra/main-card.webp"><img class="cardimg" src="img/infinix-zero-ultra/main-card.jpg" alt="Infinix Zero Ultra" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/infinix-zero-ultra/main-card.webp"><img class="cardimg" src="../img/infinix-zero-ultra/main-card.jpg" alt="Infinix Zero Ultra" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/infinix-zero-ultra.html">Infinix Zero Ultra</a></p>
@@ -2360,7 +2380,7 @@
 <a class="btn alt" href="compare.html?a=realme-c100-4g">Compare</a></div>
 </div></div><div class="card" data-name="motorola edge 70 pro motorola smartphones" data-brand="Motorola" data-price="99999" data-year="0">
 
-<picture><source type="image/webp" srcset="img/motorola-edge-70-pro/main.webp"><img class="cardimg" src="img/motorola-edge-70-pro/main.jpg" alt="Motorola Edge 70 Pro" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/motorola-edge-70-pro/main.webp"><img class="cardimg" src="../img/motorola-edge-70-pro/main.jpg" alt="Motorola Edge 70 Pro" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/motorola-edge-70-pro.html">Motorola Edge 70 Pro</a></p>
@@ -2380,7 +2400,7 @@
 <a class="btn alt" href="compare.html?a=google-pixel-5a">Compare</a></div>
 </div></div><div class="card" data-name="motorola edge 20 pro motorola smartphones" data-brand="Motorola" data-price="99999" data-year="2021">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-edge-20-pro/main.webp"><img class="cardimg" src="img/motorola-edge-20-pro/main.jpg" alt="Motorola Edge 20 Pro" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/motorola-edge-20-pro/main.webp"><img class="cardimg" src="../img/motorola-edge-20-pro/main.jpg" alt="Motorola Edge 20 Pro" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/motorola-edge-20-pro.html">Motorola Edge 20 Pro</a></p>
@@ -2480,7 +2500,7 @@
 <a class="btn alt" href="compare.html?a=samsung-galaxy-m55-5g">Compare</a></div>
 </div></div><div class="card" data-name="infinix zero x infinix smartphones" data-brand="Infinix" data-price="101999" data-year="2021">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/infinix-zero-x/main.webp"><img class="cardimg" src="img/infinix-zero-x/main.jpg" alt="Infinix Zero X" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/infinix-zero-x/main.webp"><img class="cardimg" src="../img/infinix-zero-x/main.jpg" alt="Infinix Zero X" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/infinix-zero-x.html">Infinix Zero X</a></p>
@@ -2520,7 +2540,7 @@
 <a class="btn alt" href="compare.html?a=samsung-galaxy-s7-edge">Compare</a></div>
 </div></div><div class="card" data-name="huawei p20 huawei smartphones" data-brand="Huawei" data-price="101999" data-year="2018">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-p20/main.webp"><img class="cardimg" src="img/huawei-p20/main.jpg" alt="Huawei P20" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/huawei-p20/main.webp"><img class="cardimg" src="../img/huawei-p20/main.jpg" alt="Huawei P20" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-p20.html">Huawei P20</a></p>
@@ -2600,7 +2620,7 @@
 <a class="btn alt" href="compare.html?a=sony-xperia-z1">Compare</a></div>
 </div></div><div class="card" data-name="nokia lumia 830 nokia smartphones" data-brand="Nokia" data-price="101999" data-year="2014">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-lumia-830/main.webp"><img class="cardimg" src="img/nokia-lumia-830/main.jpg" alt="Nokia Lumia 830" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/nokia-lumia-830/main.webp"><img class="cardimg" src="../img/nokia-lumia-830/main.jpg" alt="Nokia Lumia 830" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/nokia-lumia-830.html">Nokia Lumia 830</a></p>
@@ -2620,7 +2640,7 @@
 <a class="btn alt" href="compare.html?a=vivo-s17">Compare</a></div>
 </div></div><div class="card" data-name="xiaomi civi 3 xiaomi smartphones" data-brand="Xiaomi" data-price="101999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/xiaomi-civi-3/main.webp"><img class="cardimg" src="img/xiaomi-civi-3/main.jpg" alt="Xiaomi Civi 3" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/xiaomi-civi-3/main.webp"><img class="cardimg" src="../img/xiaomi-civi-3/main.jpg" alt="Xiaomi Civi 3" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/xiaomi-civi-3.html">Xiaomi Civi 3</a></p>
@@ -2660,7 +2680,7 @@
 <a class="btn alt" href="compare.html?a=realme-x7-5g">Compare</a></div>
 </div></div><div class="card" data-name="honor 90 gt honor smartphones" data-brand="Honor" data-price="101999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/honor-90-gt/main.webp"><img class="cardimg" src="img/honor-90-gt/main.jpg" alt="Honor 90 Gt" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/honor-90-gt/main.webp"><img class="cardimg" src="../img/honor-90-gt/main.jpg" alt="Honor 90 Gt" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/honor-90-gt.html">Honor 90 Gt</a></p>
@@ -2670,7 +2690,7 @@
 <a class="btn alt" href="compare.html?a=honor-90-gt">Compare</a></div>
 </div></div><div class="card" data-name="htc butterfly htc smartphones" data-brand="HTC" data-price="101999" data-year="2012">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-butterfly/main.webp"><img class="cardimg" src="img/htc-butterfly/main.jpg" alt="HTC Butterfly" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/htc-butterfly/main.webp"><img class="cardimg" src="../img/htc-butterfly/main.jpg" alt="HTC Butterfly" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/htc-butterfly.html">HTC Butterfly</a></p>
@@ -2750,7 +2770,7 @@
 <a class="btn alt" href="compare.html?a=asus-p750">Compare</a></div>
 </div></div><div class="card" data-name="htc s630 htc smartphones" data-brand="HTC" data-price="101999" data-year="2006">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-s630/main-card.webp"><img class="cardimg" src="img/htc-s630/main-card.jpg" alt="HTC S630" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/htc-s630/main-card.webp"><img class="cardimg" src="../img/htc-s630/main-card.jpg" alt="HTC S630" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/htc-s630.html">HTC S630</a></p>
@@ -2760,7 +2780,7 @@
 <a class="btn alt" href="compare.html?a=htc-s630">Compare</a></div>
 </div></div><div class="card" data-name="motorola moto s30 pro motorola smartphones" data-brand="Motorola" data-price="101999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-moto-s30-pro/main.webp"><img class="cardimg" src="img/motorola-moto-s30-pro/main.jpg" alt="Motorola Moto S30 Pro" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/motorola-moto-s30-pro/main.webp"><img class="cardimg" src="../img/motorola-moto-s30-pro/main.jpg" alt="Motorola Moto S30 Pro" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/motorola-moto-s30-pro.html">Motorola Moto S30 Pro</a></p>
@@ -2770,7 +2790,7 @@
 <a class="btn alt" href="compare.html?a=motorola-moto-s30-pro">Compare</a></div>
 </div></div><div class="card" data-name="sony xperia tx sony smartphones" data-brand="Sony" data-price="101999" data-year="2012">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/sony-xperia-tx/main.webp"><img class="cardimg" src="img/sony-xperia-tx/main.jpg" alt="Sony Xperia Tx" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/sony-xperia-tx/main.webp"><img class="cardimg" src="../img/sony-xperia-tx/main.jpg" alt="Sony Xperia Tx" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/sony-xperia-tx.html">Sony Xperia Tx</a></p>
@@ -2830,7 +2850,7 @@
 <a class="btn alt" href="compare.html?a=oppo-reno8-5g">Compare</a></div>
 </div></div><div class="card" data-name="motorola edge 40 motorola smartphones" data-brand="Motorola" data-price="103999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-edge-40/main.webp"><img class="cardimg" src="img/motorola-edge-40/main.jpg" alt="Motorola Edge 40" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/motorola-edge-40/main.webp"><img class="cardimg" src="../img/motorola-edge-40/main.jpg" alt="Motorola Edge 40" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/motorola-edge-40.html">Motorola Edge 40</a></p>
@@ -2970,7 +2990,7 @@
 <a class="btn alt" href="compare.html?a=htc-desire-820">Compare</a></div>
 </div></div><div class="card" data-name="nokia n93i nokia smartphones" data-brand="Nokia" data-price="104999" data-year="2007">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-n93i/main.webp"><img class="cardimg" src="img/nokia-n93i/main.jpg" alt="Nokia N93i" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/nokia-n93i/main.webp"><img class="cardimg" src="../img/nokia-n93i/main.jpg" alt="Nokia N93i" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/nokia-n93i.html">Nokia N93i</a></p>
@@ -3180,7 +3200,7 @@
 <a class="btn alt" href="compare.html?a=huawei-p40-pro">Compare</a></div>
 </div></div><div class="card" data-name="huawei nova 3 huawei smartphones" data-brand="Huawei" data-price="107999" data-year="2018">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/huawei-nova-3/main.webp"><img class="cardimg" src="img/huawei-nova-3/main.jpg" alt="Huawei Nova 3" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/huawei-nova-3/main.webp"><img class="cardimg" src="../img/huawei-nova-3/main.jpg" alt="Huawei Nova 3" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/huawei-nova-3.html">Huawei Nova 3</a></p>
@@ -3250,7 +3270,7 @@
 <a class="btn alt" href="compare.html?a=vivo-s5">Compare</a></div>
 </div></div><div class="card" data-name="motorola one vision motorola smartphones" data-brand="Motorola" data-price="107999" data-year="2019">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/motorola-one-vision/main-card.webp"><img class="cardimg" src="img/motorola-one-vision/main-card.jpg" alt="Motorola One Vision" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/motorola-one-vision/main-card.webp"><img class="cardimg" src="../img/motorola-one-vision/main-card.jpg" alt="Motorola One Vision" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/motorola-one-vision.html">Motorola One Vision</a></p>
@@ -3340,7 +3360,7 @@
 <a class="btn alt" href="compare.html?a=huawei-mate-s">Compare</a></div>
 </div></div><div class="card" data-name="nokia lumia 1520 nokia smartphones" data-brand="Nokia" data-price="107999" data-year="2013">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/nokia-lumia-1520/main-card.webp"><img class="cardimg" src="img/nokia-lumia-1520/main-card.jpg" alt="Nokia Lumia 1520" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/nokia-lumia-1520/main-card.webp"><img class="cardimg" src="../img/nokia-lumia-1520/main-card.jpg" alt="Nokia Lumia 1520" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/nokia-lumia-1520.html">Nokia Lumia 1520</a></p>
@@ -3390,7 +3410,7 @@
 <a class="btn alt" href="compare.html?a=oppo-reno8-z">Compare</a></div>
 </div></div><div class="card" data-name="xiaomi civi 2 xiaomi smartphones" data-brand="Xiaomi" data-price="107999" data-year="2022">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/xiaomi-civi-2/main.webp"><img class="cardimg" src="img/xiaomi-civi-2/main.jpg" alt="Xiaomi Civi 2" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/xiaomi-civi-2/main.webp"><img class="cardimg" src="../img/xiaomi-civi-2/main.jpg" alt="Xiaomi Civi 2" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/xiaomi-civi-2.html">Xiaomi Civi 2</a></p>
@@ -3410,7 +3430,7 @@
 <a class="btn alt" href="compare.html?a=vivo-z3i">Compare</a></div>
 </div></div><div class="card" data-name="xiaomi 13 lite xiaomi smartphones" data-brand="Xiaomi" data-price="107999" data-year="2023">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/xiaomi-13-lite/main.webp"><img class="cardimg" src="img/xiaomi-13-lite/main.jpg" alt="Xiaomi 13 Lite" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/xiaomi-13-lite/main.webp"><img class="cardimg" src="../img/xiaomi-13-lite/main.jpg" alt="Xiaomi 13 Lite" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/xiaomi-13-lite.html">Xiaomi 13 Lite</a></p>
@@ -3420,7 +3440,7 @@
 <a class="btn alt" href="compare.html?a=xiaomi-13-lite">Compare</a></div>
 </div></div><div class="card" data-name="htc p3300 htc smartphones" data-brand="HTC" data-price="107999" data-year="2006">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-p3300/main.webp"><img class="cardimg" src="img/htc-p3300/main.jpg" alt="HTC P3300" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/htc-p3300/main.webp"><img class="cardimg" src="../img/htc-p3300/main.jpg" alt="HTC P3300" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/htc-p3300.html">HTC P3300</a></p>
@@ -3460,7 +3480,7 @@
 <a class="btn alt" href="compare.html?a=realme-x50-pro-player">Compare</a></div>
 </div></div><div class="card" data-name="lg g7 one lg smartphones" data-brand="LG" data-price="107999" data-year="2018">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/lg-g7-one/main.webp"><img class="cardimg" src="img/lg-g7-one/main.jpg" alt="LG G7 One" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/lg-g7-one/main.webp"><img class="cardimg" src="../img/lg-g7-one/main.jpg" alt="LG G7 One" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/lg-g7-one.html">LG G7 One</a></p>
@@ -3470,7 +3490,7 @@
 <a class="btn alt" href="compare.html?a=lg-g7-one">Compare</a></div>
 </div></div><div class="card" data-name="htc desire 21 pro 5g htc smartphones" data-brand="HTC" data-price="107999" data-year="2021">
 <span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-desire-21-pro-5g/main.webp"><img class="cardimg" src="img/htc-desire-21-pro-5g/main.jpg" alt="HTC Desire 21 Pro 5G" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/htc-desire-21-pro-5g/main.webp"><img class="cardimg" src="../img/htc-desire-21-pro-5g/main.jpg" alt="HTC Desire 21 Pro 5G" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/htc-desire-21-pro-5g.html">HTC Desire 21 Pro 5G</a></p>
@@ -3500,7 +3520,7 @@
 <a class="btn alt" href="compare.html?a=oppo-reno-14f">Compare</a></div>
 </div></div><div class="card" data-name="xiaomi poco x8 power xiaomi smartphones" data-brand="Xiaomi" data-price="108999" data-year="2026">
 <span class="badge cont">Continued</span>
-<picture><source type="image/webp" srcset="img/xiaomi-poco-x8-power-5g/main.webp"><img class="cardimg" src="img/xiaomi-poco-x8-power-5g/main.jpg" alt="Xiaomi Poco X8 Power" loading="lazy"></picture>
+<picture><source type="image/webp" srcset="../img/xiaomi-poco-x8-power-5g/main.webp"><img class="cardimg" src="../img/xiaomi-poco-x8-power-5g/main.jpg" alt="Xiaomi Poco X8 Power" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/xiaomi-poco-x8-power-5g.html">Xiaomi Poco X8 Power</a></p>

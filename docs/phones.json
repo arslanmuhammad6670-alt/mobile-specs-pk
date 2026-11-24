@@ -3045,11 +3045,12 @@
   "name": "Huawei Mate X8",
   "brand": "Huawei",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 1944,
+  "price_pkr": 537999,
   "path": "phones/huawei-mate-x8-5g.html",
   "sb": 9,
-  "exp": 1
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "oppo-watch-5",
@@ -3104,10 +3105,12 @@
   "name": "Huawei Mate 90 Air",
   "brand": "Huawei",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 744,
+  "price_pkr": 205999,
   "path": "phones/huawei-mate-90-air-5g.html",
-  "sb": 8
+  "sb": 8,
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "huawei-osta-o1-pro-5g",
@@ -10655,11 +10658,11 @@
   "name": "Samsung Galaxy A04",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 69,
-  "price_pkr": 18999,
+  "price": 114,
+  "price_pkr": 31500,
   "path": "phones/samsung-galaxy-a04.html",
   "sb": 3,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "huawei-9x",
@@ -10699,11 +10702,12 @@
   "name": "Realme C100x",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 271,
+  "price_pkr": 74999,
   "path": "phones/realme-c100x.html",
   "sb": 20,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "realme-c21",
@@ -10787,11 +10791,11 @@
   "name": "Vivo Y16",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 134,
-  "price_pkr": 36999,
+  "price": 145,
+  "price_pkr": 39999,
   "path": "phones/vivo-y16.html",
   "sb": 7,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "realme-9-5g",
@@ -10831,33 +10835,34 @@
   "name": "Realme Note 80",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 155,
+  "price_pkr": 42999,
   "path": "phones/realme-note-80.html",
   "sb": 3,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "realme-c35",
   "name": "Realme C35",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 166,
-  "price_pkr": 45999,
+  "price": 181,
+  "price_pkr": 49999,
   "path": "phones/realme-c35.html",
   "sb": 12,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "vivo-y11-(2019)",
   "name": "Vivo Y11 (2019)",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 80,
-  "price_pkr": 21999,
+  "price": 65,
+  "price_pkr": 17999,
   "path": "phones/vivo-y11-(2019).html",
   "sb": 9,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "honor-x50",
@@ -10952,11 +10957,11 @@
   "name": "Oppo A54",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 148,
-  "price_pkr": 40999,
+  "price": 217,
+  "price_pkr": 59999,
   "path": "phones/oppo-a54.html",
   "sb": 7,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "realme-gt-5g",
@@ -11018,11 +11023,11 @@
   "name": "Tecno Spark 7",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 101,
-  "price_pkr": 27999,
+  "price": 56,
+  "price_pkr": 15499,
   "path": "phones/tecno-spark-7.html",
   "sb": 4,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "tecno-spark-go-1",
@@ -11040,11 +11045,11 @@
   "name": "Vivo Y22",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 105,
-  "price_pkr": 28999,
+  "price": 210,
+  "price_pkr": 57999,
   "path": "phones/vivo-y22.html",
   "sb": 13,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "realme-11-5g",
@@ -11084,11 +11089,11 @@
   "name": "Samsung Galaxy A20s",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 282,
-  "price_pkr": 77999,
+  "price": 110,
+  "price_pkr": 30500,
   "path": "phones/samsung-galaxy-a20s.html",
   "sb": 13,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-m34-5g",
@@ -11117,11 +11122,11 @@
   "name": "Vivo Y15s",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 134,
-  "price_pkr": 36999,
+  "price": 105,
+  "price_pkr": 28999,
   "path": "phones/vivo-y15s.html",
   "sb": 11,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "realme-8-pro",

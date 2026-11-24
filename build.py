@@ -232,7 +232,11 @@ EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide
     # prices NOT yet published at run time — kept null; when the nightly run
     # adds verified CNY prices they render Expected at CNY x 41.48).
     # Not officially in Pakistan; global launch expected early 2027.
-    "honor-700-5g", "honor-700-pro-5g", "honor-700s-5g"}
+    "honor-700-5g", "honor-700-pro-5g", "honor-700s-5g",
+    # watch 2026-11-24: Motorola Edge 70 Neo finalised (India-only launch
+    # Nov 24, verified list INR 40,999 -> Expected at INR x 3); not
+    # officially in Pakistan.
+    "motorola-edge-70-neo-5g"}
 for _d in ALL:
     _d["price_expected"] = _d["slug"] in EXPECTED_SLUGS
 

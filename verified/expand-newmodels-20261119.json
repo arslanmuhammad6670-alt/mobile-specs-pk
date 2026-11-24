@@ -1,306 +1,330 @@
 [
-{
-"brand": "Motorola",
-"cat": "Smartphones",
-"hl": [
-"6.8\" display",
-"Snapdragon 7s Gen 3",
-"8 GB RAM",
-"7000 mAh"
-],
-"name": "Motorola Edge 70 Neo",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, November 18; launch November 24, India; key specs confirmed by Motorola via GSMArena, rest per 91mobiles leak)"
-],
-[
-"Region",
-"India"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"IP64 dust and water resistance"
-],
-[
-"Display",
-"6.8-inch Extreme AMOLED, 1.5K resolution, 144Hz, 5200 nits peak brightness, Gorilla Glass 7i"
-],
-[
-"OS",
-"Android 16"
-],
-[
-"Chipset",
-"Qualcomm Snapdragon 7s Gen 3 (4 nm)"
-],
-[
-"RAM",
-"6 GB / 8 GB"
-],
-[
-"Storage",
-"128 GB / 256 GB, UFS 3.1"
-],
-[
-"Main Camera",
-"50 MP, Sony LYT-710, OIS; 2 MP macro"
-],
-[
-"Selfie Camera",
-"32 MP"
-],
-[
-"Battery",
-"7000 mAh"
-],
-[
-"Charging",
-"45W wired; 7.5W reverse wired"
-],
-[
-"Sensors",
-"Fingerprint (in-display)"
-],
-[
-"Colors",
-"Pantone Mountain View, Pantone Grey Lilac, Pantone Milky Blue, Pantone Sage"
-]
-],
-"slug": "motorola-edge-70-neo-5g",
-"source": "https://www.gsmarena.com/motorola_edge_70_neo_now_has_an_official_launch_date_and_its_main_specs_confirmed-news-75533.php",
-"tag": "Upcoming — expected Nov 24, 2026: 7000mAh battery, 144Hz AMOLED display aur 50MP Sony camera wala naya Motorola phone",
-"year": 2026
-},
-{
-"brand": "Huawei",
-"cat": "Smartphones",
-"hl": [
-"7\" display",
-"Kirin 9030",
-"12 GB RAM",
-"6800 mAh"
-],
-"name": "Huawei Mate 90 Air",
-"price": null,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, November 19; launch November 24, China; colors and configs per official Vmall listing, specs per Digital Chat Station leaks — to be confirmed at launch)"
-],
-[
-"Region",
-"China"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"6-7 mm thick; thinnest Mate bar phone yet"
-],
-[
-"Display",
-"7-inch 1.5K quad-curved display"
-],
-[
-"OS",
-"HarmonyOS 7"
-],
-[
-"Chipset",
-"Kirin 9030"
-],
-[
-"RAM",
-"12 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB"
-],
-[
-"Main Camera",
-"50 MP main, 12 MP telephoto, 8 MP ultra-wide"
-],
-[
-"Battery",
-"6800 mAh"
-],
-[
-"Charging",
-"66W wired, 50W wireless"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted)"
-],
-[
-"Colors",
-"Rose Gold, Moon Silver, Obsidian Black"
-]
-],
-"slug": "huawei-mate-90-air-5g",
-"source": "https://www.gizmochina.com/2026/11/19/huawei-mate-90-air-colors-configs-vmall-listing/",
-"tag": "Upcoming — expected Nov 24, 2026: 7-inch display, Kirin 9030 aur 6800 mAh battery wala Huawei ka sab se patla flagship",
-"year": 2026
-},
-{
-"brand": "Huawei",
-"cat": "Smartphones",
-"hl": [
-"6.39\" display",
-"Kirin 9030S",
-"12/16 GB RAM",
-"7000 mAh"
-],
-"name": "Huawei OSTA O1 Pro",
-"price": 236999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2026, November 20; released November 20, China)"
-],
-[
-"Region",
-"China"
-],
-[
-"Network",
-"GSM / HSPA / LTE / 5G"
-],
-[
-"Body",
-"144.1 x 87 x 6.7 mm; 200 g; glass front (Kunlun Glass), glass back, aluminum frame"
-],
-[
-"Display",
-"6.39-inch OLED, 1B colors, 120Hz, 2160Hz PWM, HDR Vivid, 6500 nits (peak); 1320 x 2232 pixels, 16:9.5 aspect ratio; Kunlun Glass"
-],
-[
-"Operating System",
-"HarmonyOS 7.0"
-],
-[
-"Chipset",
-"Kirin 9030S (5 nm); Octa-core (1x2.7 GHz Taishan Big & 3x2.15 GHz Taishan Mid & 4x1.62 GHz Taishan Little); Maleoon 935F GPU"
-],
-[
-"RAM",
-"12 GB / 16 GB"
-],
-[
-"Storage",
-"256 GB / 512 GB / 1 TB; no microSD slot"
-],
-[
-"Main Camera",
-"200 MP, f/1.8, 23mm (wide), PDAF, OIS; 50 MP, f/2.6, 88mm (periscope telephoto), PDAF, OIS, 3.7x optical zoom; Laser AF, color spectrum sensor, LED flash; 4K video"
-],
-[
-"Selfie Camera",
-"50 MP, f/2.4 (wide); 4K@30fps video"
-],
-[
-"Battery",
-"7000 mAh"
-],
-[
-"Charging",
-"66W wired, 50W wireless, 5W reverse wired"
-],
-[
-"Wi-Fi",
-"Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
-],
-[
-"Bluetooth",
-"6.0, A2DP, LE"
-],
-[
-"NFC",
-"Yes"
-],
-[
-"USB",
-"USB Type-C"
-],
-[
-"Sensors",
-"Fingerprint (side-mounted), accelerometer, gyro, compass, altimeter"
-],
-[
-"Colors",
-"Starry Black, Nebula White, Starburst Purple"
-]
-],
-"slug": "huawei-osta-o1-pro-5g",
-"source": "https://www.gsmarena.com/huawei_osta_o1_pro-15088.php",
-"tag": "200MP camera, 7000mAh battery aur wide 16:9.5 display wala Huawei ka naya OSTA phone",
-"year": 2026
-},
-{
-"brand": "vivo",
-"cat": "Smartwatches",
-"hl": [
-"2.07\" display",
-"BlueOS 3.0",
-"695 mAh",
-"25-day battery"
-],
-"name": "vivo Watch GT2",
-"price": 20999,
-"price_src": "approx",
-"rows": [
-[
-"Launch Year",
-"2026 (announced 2025, October 13, China; India launch November 26, 2026; specs per official vivo product page and Gadgets360)"
-],
-[
-"Region",
-"China, India"
-],
-[
-"Body",
-"47.5 x 40.2 x 11 mm; ~35.8 g (Bluetooth); aluminium alloy case; 2 ATM"
-],
-[
-"Display",
-"2.07-inch AMOLED, 432 x 514 pixels, 60Hz, 2400 nits local peak brightness, always-on display"
-],
-[
-"OS",
-"BlueOS 3.0"
-],
-[
-"Battery",
-"695 mAh (Bluetooth); up to 25 days (Bluetooth, max), 14 days typical, 12 days with always-on display"
-],
-[
-"Sensors",
-"Heart rate, blood oxygen (SpO2), sleep, stress, menstrual cycle tracking; 100+ sports modes; GPS"
-],
-[
-"Bluetooth",
-"5.4, NFC"
-],
-[
-"Colors",
-"Obsidian Black, Stellar White"
-]
-],
-"slug": "vivo-watch-gt2",
-"source": "https://www.vivo.com/za/en/products/watch-gt-2",
-"tag": "Upcoming — expected Nov 26, 2026: 2.07-inch AMOLED display, 25-day battery wali nayi vivo smartwatch",
-"year": 2026
-}
+ {
+  "brand": "Motorola",
+  "cat": "Smartphones",
+  "hl": [
+   "6.8\" display",
+   "Snapdragon 7s Gen 3",
+   "8 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Motorola Edge 70 Neo",
+  "price": 122999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, November 24; on sale from December 1, 2026, India)"
+   ],
+   [
+    "Region",
+    "India"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "Glass front (Gorilla Glass 7i), plastic frame; IP64 dust and water resistant; MIL-STD-810H; 162.7 x 75.7 x 8.49 mm; 204 g"
+   ],
+   [
+    "Display",
+    "6.8-inch Extreme AMOLED, 1B colors, 144Hz, HDR10+, 5200 nits (peak); 1272 x 2772 pixels (~450 ppi); Corning Gorilla Glass 7i; quad-curved"
+   ],
+   [
+    "OS",
+    "Android 16 (Hello UX); 3 OS upgrades, 5 years of security patches"
+   ],
+   [
+    "Chipset",
+    "Qualcomm SM7635 Snapdragon 7s Gen 3 (4 nm)"
+   ],
+   [
+    "RAM",
+    "8 GB, LPDDR5X"
+   ],
+   [
+    "Storage",
+    "128 GB, UFS 3.1; microSDXC expandable up to 1 TB (shared SIM slot)"
+   ],
+   [
+    "Main Camera",
+    "50 MP, f/1.8, 24mm (wide), 1/1.56\", Sony LYTIA 710, OIS; 2 MP macro; 3-in-1 light sensor"
+   ],
+   [
+    "Selfie Camera",
+    "32 MP, f/2.2"
+   ],
+   [
+    "Battery",
+    "7000 mAh"
+   ],
+   [
+    "Charging",
+    "45W wired (charger in the box); 7.5W reverse wired; bypass charging"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (in-display), accelerometer, gyro, proximity, compass"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE"
+   ],
+   [
+    "GPS",
+    "GPS"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "USB",
+    "USB Type-C 2.0"
+   ],
+   [
+    "3.5mm jack",
+    "No"
+   ],
+   [
+    "Colors",
+    "Pantone Mountain View, Pantone Gray Lilac, Pantone Milky Blue, Pantone Sage"
+   ]
+  ],
+  "slug": "motorola-edge-70-neo-5g",
+  "source": "https://www.gsmarena.com/motorola_edge_70_neo_is_here_with_a_7000_mah_battery_and_144hz_screen-news-75602.php",
+  "tag": "6.8\" display · Snapdragon 7s Gen 3 · 8 GB RAM · 7000 mAh",
+  "year": 2026
+ },
+ {
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "hl": [
+   "7\" display",
+   "Kirin 9030",
+   "12 GB RAM",
+   "6800 mAh"
+  ],
+  "name": "Huawei Mate 90 Air",
+  "price": null,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, November 19; launch November 24, China; colors and configs per official Vmall listing, specs per Digital Chat Station leaks — to be confirmed at launch)"
+   ],
+   [
+    "Region",
+    "China"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "6-7 mm thick; thinnest Mate bar phone yet"
+   ],
+   [
+    "Display",
+    "7-inch 1.5K quad-curved display"
+   ],
+   [
+    "OS",
+    "HarmonyOS 7"
+   ],
+   [
+    "Chipset",
+    "Kirin 9030"
+   ],
+   [
+    "RAM",
+    "12 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB"
+   ],
+   [
+    "Main Camera",
+    "50 MP main, 12 MP telephoto, 8 MP ultra-wide"
+   ],
+   [
+    "Battery",
+    "6800 mAh"
+   ],
+   [
+    "Charging",
+    "66W wired, 50W wireless"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted)"
+   ],
+   [
+    "Colors",
+    "Rose Gold, Moon Silver, Obsidian Black"
+   ]
+  ],
+  "slug": "huawei-mate-90-air-5g",
+  "source": "https://www.gizmochina.com/2026/11/19/huawei-mate-90-air-colors-configs-vmall-listing/",
+  "tag": "Upcoming — expected Nov 24, 2026: 7-inch display, Kirin 9030 aur 6800 mAh battery wala Huawei ka sab se patla flagship",
+  "year": 2026
+ },
+ {
+  "brand": "Huawei",
+  "cat": "Smartphones",
+  "hl": [
+   "6.39\" display",
+   "Kirin 9030S",
+   "12/16 GB RAM",
+   "7000 mAh"
+  ],
+  "name": "Huawei OSTA O1 Pro",
+  "price": 236999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2026, November 20; released November 20, China)"
+   ],
+   [
+    "Region",
+    "China"
+   ],
+   [
+    "Network",
+    "GSM / HSPA / LTE / 5G"
+   ],
+   [
+    "Body",
+    "144.1 x 87 x 6.7 mm; 200 g; glass front (Kunlun Glass), glass back, aluminum frame"
+   ],
+   [
+    "Display",
+    "6.39-inch OLED, 1B colors, 120Hz, 2160Hz PWM, HDR Vivid, 6500 nits (peak); 1320 x 2232 pixels, 16:9.5 aspect ratio; Kunlun Glass"
+   ],
+   [
+    "Operating System",
+    "HarmonyOS 7.0"
+   ],
+   [
+    "Chipset",
+    "Kirin 9030S (5 nm); Octa-core (1x2.7 GHz Taishan Big & 3x2.15 GHz Taishan Mid & 4x1.62 GHz Taishan Little); Maleoon 935F GPU"
+   ],
+   [
+    "RAM",
+    "12 GB / 16 GB"
+   ],
+   [
+    "Storage",
+    "256 GB / 512 GB / 1 TB; no microSD slot"
+   ],
+   [
+    "Main Camera",
+    "200 MP, f/1.8, 23mm (wide), PDAF, OIS; 50 MP, f/2.6, 88mm (periscope telephoto), PDAF, OIS, 3.7x optical zoom; Laser AF, color spectrum sensor, LED flash; 4K video"
+   ],
+   [
+    "Selfie Camera",
+    "50 MP, f/2.4 (wide); 4K@30fps video"
+   ],
+   [
+    "Battery",
+    "7000 mAh"
+   ],
+   [
+    "Charging",
+    "66W wired, 50W wireless, 5W reverse wired"
+   ],
+   [
+    "Wi-Fi",
+    "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band"
+   ],
+   [
+    "Bluetooth",
+    "6.0, A2DP, LE"
+   ],
+   [
+    "NFC",
+    "Yes"
+   ],
+   [
+    "USB",
+    "USB Type-C"
+   ],
+   [
+    "Sensors",
+    "Fingerprint (side-mounted), accelerometer, gyro, compass, altimeter"
+   ],
+   [
+    "Colors",
+    "Starry Black, Nebula White, Starburst Purple"
+   ]
+  ],
+  "slug": "huawei-osta-o1-pro-5g",
+  "source": "https://www.gsmarena.com/huawei_osta_o1_pro-15088.php",
+  "tag": "200MP camera, 7000mAh battery aur wide 16:9.5 display wala Huawei ka naya OSTA phone",
+  "year": 2026
+ },
+ {
+  "brand": "vivo",
+  "cat": "Smartwatches",
+  "hl": [
+   "2.07\" display",
+   "BlueOS 3.0",
+   "695 mAh",
+   "25-day battery"
+  ],
+  "name": "vivo Watch GT2",
+  "price": 20999,
+  "price_src": "approx",
+  "rows": [
+   [
+    "Launch Year",
+    "2026 (announced 2025, October 13, China; India launch November 26, 2026; specs per official vivo product page and Gadgets360)"
+   ],
+   [
+    "Region",
+    "China, India"
+   ],
+   [
+    "Body",
+    "47.5 x 40.2 x 11 mm; ~35.8 g (Bluetooth); aluminium alloy case; 2 ATM"
+   ],
+   [
+    "Display",
+    "2.07-inch AMOLED, 432 x 514 pixels, 60Hz, 2400 nits local peak brightness, always-on display"
+   ],
+   [
+    "OS",
+    "BlueOS 3.0"
+   ],
+   [
+    "Battery",
+    "695 mAh (Bluetooth); up to 25 days (Bluetooth, max), 14 days typical, 12 days with always-on display"
+   ],
+   [
+    "Sensors",
+    "Heart rate, blood oxygen (SpO2), sleep, stress, menstrual cycle tracking; 100+ sports modes; GPS"
+   ],
+   [
+    "Bluetooth",
+    "5.4, NFC"
+   ],
+   [
+    "Colors",
+    "Obsidian Black, Stellar White"
+   ]
+  ],
+  "slug": "vivo-watch-gt2",
+  "source": "https://www.vivo.com/za/en/products/watch-gt-2",
+  "tag": "Upcoming — expected Nov 26, 2026: 2.07-inch AMOLED display, 25-day battery wali nayi vivo smartwatch",
+  "year": 2026
+ }
 ]

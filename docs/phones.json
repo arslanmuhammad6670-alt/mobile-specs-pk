@@ -7403,10 +7403,12 @@
   "name": "Sharp Aquos sense11",
   "brand": "Sharp",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 593,
+  "price_pkr": 163999,
   "path": "phones/sharp-aquos-sense11-5g.html",
-  "sb": 9
+  "sb": 9,
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "lenovo-idea-tab-pro-gen-2",
@@ -11312,11 +11314,12 @@
   "name": "Tecno Spark 8c",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 90,
+  "price_pkr": 24999,
   "path": "phones/tecno-spark-8c.html",
   "sb": 19,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "tecno-spark-go-2024",
@@ -11521,11 +11524,11 @@
   "name": "Vivo Y51",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 145,
-  "price_pkr": 39999,
+  "price": 119,
+  "price_pkr": 32999,
   "path": "phones/vivo-y51.html",
   "sb": 8,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "xiaomi-9c",
@@ -11664,11 +11667,11 @@
   "name": "Tecno Spark 10 Pro",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": 181,
-  "price_pkr": 49999,
+  "price": 145,
+  "price_pkr": 39999,
   "path": "phones/tecno-spark-10-pro.html",
   "sb": 13,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "vivo-y91",
@@ -11829,11 +11832,11 @@
   "name": "Samsung Galaxy A72",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 412,
-  "price_pkr": 113999,
+  "price": 300,
+  "price_pkr": 82999,
   "path": "phones/samsung-galaxy-a72.html",
   "sb": 9,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "samsung-galaxy-j1-mini-prime",

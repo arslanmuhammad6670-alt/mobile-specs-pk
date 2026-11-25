@@ -3197,6 +3197,42 @@
   "pl": "Expected price"
  },
  {
+  "slug": "huawei-watch-air",
+  "name": "Huawei Watch Air",
+  "brand": "Huawei",
+  "cat": "Smartwatches",
+  "price": 372,
+  "price_pkr": 102999,
+  "path": "smartwatches/huawei-watch-air.html",
+  "sb": 23,
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "huawei-matebook-fold-s",
+  "name": "Huawei MateBook Fold S",
+  "brand": "Huawei",
+  "cat": "Laptops",
+  "price": 2241,
+  "price_pkr": 619999,
+  "path": "laptops/huawei-matebook-fold-s.html",
+  "sb": 5,
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
+  "slug": "ulefone-armor-35-pro",
+  "name": "Ulefone Armor 35 Pro",
+  "brand": "Ulefone",
+  "cat": "Smartphones",
+  "price": 430,
+  "price_pkr": 118999,
+  "path": "phones/ulefone-armor-35-pro.html",
+  "sb": 6,
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
   "slug": "samsung-galaxy-tab-s8",
   "name": "Samsung Galaxy Tab S8",
   "brand": "Samsung",

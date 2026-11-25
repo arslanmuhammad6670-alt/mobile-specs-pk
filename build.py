@@ -247,7 +247,11 @@ EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide
     # list CNY 14,999 -> Expected at CNY x 41.3907, floor to ...999)
     # + Ulefone Armor 35 Pro (global sale Dec 7, verified $429.99 ->
     # Expected at USD/PKR rate, ceiling to ...999); none officially in Pakistan.
-    "huawei-watch-air", "huawei-matebook-fold-s", "ulefone-armor-35-pro"}
+    "huawei-watch-air", "huawei-matebook-fold-s", "ulefone-armor-35-pro",
+    # nightly 2026-11-26: Sharp Aquos sense11 finalised (Japan-only sale
+    # Nov 26, verified official SIM-free list JPY 94,600 -> Expected at
+    # site JPY rate, floor to ...999); not officially in Pakistan.
+    "sharp-aquos-sense11-5g"}
 for _d in ALL:
     _d["price_expected"] = _d["slug"] in EXPECTED_SLUGS
 

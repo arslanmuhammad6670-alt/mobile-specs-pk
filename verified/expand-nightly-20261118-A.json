@@ -9,16 +9,16 @@
 "5000 mAh"
 ],
 "name": "Sharp Aquos sense11",
-"price": null,
+"price": 163999,
 "price_src": "approx",
 "rows": [
 [
 "Launch Year",
-"2026 (announced 2026, November 17)"
+"2026 (announced 2026, November 17; released 2026, November 26, Japan)"
 ],
 [
 "Region",
-"Global"
+"Japan"
 ],
 [
 "Network",
@@ -107,7 +107,7 @@
 ],
 "slug": "sharp-aquos-sense11-5g",
 "source": "https://www.gsmarena.com/sharp_aquos_sense11_5g-15087.php",
-"tag": "Upcoming — expected 2026, December",
+"tag": "6.2-inch 240Hz OLED display, Snapdragon 7s Gen 3 aur 5000 mAh battery wala Sharp ka halka phulka mid-ranger",
 "year": 2026
 },
 {

@@ -240,7 +240,14 @@ EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide
     # nightly 2026-11-25: Huawei Mate 90 Air finalised (China-only launch
     # Nov 24, verified official list CNY 4,999 -> Expected at CNY x 41.3907);
     # not officially in Pakistan. (Mate X8 already listed above, 2026-11-17.)
-    "huawei-mate-90-air-5g"}
+    "huawei-mate-90-air-5g",
+    # watch 2026-11-25: Huawei Watch Air (China-only launch Nov 24, verified
+    # official list CNY 2,499 -> Expected at CNY x 41.3907, floor to ...999)
+    # + Huawei MateBook Fold S (China-only launch Nov 24, verified official
+    # list CNY 14,999 -> Expected at CNY x 41.3907, floor to ...999)
+    # + Ulefone Armor 35 Pro (global sale Dec 7, verified $429.99 ->
+    # Expected at USD/PKR rate, ceiling to ...999); none officially in Pakistan.
+    "huawei-watch-air", "huawei-matebook-fold-s", "ulefone-armor-35-pro"}
 for _d in ALL:
     _d["price_expected"] = _d["slug"] in EXPECTED_SLUGS
 

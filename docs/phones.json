@@ -5321,10 +5321,12 @@
   "name": "Oppo Pad Air6",
   "brand": "Oppo",
   "cat": "Tablets",
-  "price": null,
-  "price_pkr": null,
+  "price": 463,
+  "price_pkr": 127999,
   "path": "tablets/oppo-pad-air6.html",
-  "sb": 11
+  "sb": 11,
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "cubot-megapad",

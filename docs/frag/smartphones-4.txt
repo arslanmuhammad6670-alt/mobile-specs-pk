@@ -1,4 +1,24 @@
-<div class="card" data-name="realme gt neo 5 realme smartphones" data-brand="Realme" data-price="104999" data-year="2023">
+<div class="card" data-name="realme c55 realme smartphones" data-brand="Realme" data-price="33999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/realme-c55/main.webp"><img class="cardimg" src="img/realme-c55/main.jpg" alt="Realme C55" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/realme-c55.html">Realme C55</a></p>
+<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.72&quot; display</div><div class="spec">Mediatek MT6769H Helio G88</div><div class="spec">4 / 6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.72&quot; display · Mediatek MT6769H Helio G88 · 4 / 6 / 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/realme-c55.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=realme-c55">Compare</a></div>
+</div></div><div class="card" data-name="realme c67 realme smartphones" data-brand="Realme" data-price="39999" data-year="2023">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/realme-c67/main.webp"><img class="cardimg" src="img/realme-c67/main.jpg" alt="Realme C67" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/realme-c67.html">Realme C67</a></p>
+<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.72&quot; IPS LCD 90Hz</div><div class="spec">Snapdragon 685</div><div class="spec">6/8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">108MP camera wala sasta aur powerful budget phone</div>
+<div class="btnrow"><a class="btn" href="phones/realme-c67.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=realme-c67">Compare</a></div>
+</div></div><div class="card" data-name="realme gt neo 5 realme smartphones" data-brand="Realme" data-price="104999" data-year="2023">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/realme-gt-neo-5/main.webp"><img class="cardimg" src="img/realme-gt-neo-5/main.jpg" alt="Realme Gt Neo 5" loading="lazy"></picture>
 <div class="cbody">
@@ -488,13 +508,13 @@
 <div class="spec">7.85&quot; display · Mediatek Dimensity 9000+ · 12 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/tecno-phantom-v-fold.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=tecno-phantom-v-fold">Compare</a></div>
-</div></div><div class="card" data-name="tecno pop 7 tecno smartphones" data-brand="Tecno" data-price="" data-year="2023">
+</div></div><div class="card" data-name="tecno pop 7 tecno smartphones" data-brand="Tecno" data-price="20999" data-year="2023">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/tecno-pop-7/main-card.webp"><img class="cardimg" src="img/tecno-pop-7/main-card.jpg" alt="Tecno Pop 7" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/tecno-pop-7.html">Tecno Pop 7</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.6&quot; display</div><div class="spec">2 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="price"><span class="prc" data-pkr="20999"><b class="pkrv">Rs 20,999</b> <span class="usdv">$76</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.6&quot; display</div><div class="spec">2 GB RAM</div><div class="spec">5000 mAh</div>
 <div class="spec">6.6&quot; display · 2 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/tecno-pop-7.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=tecno-pop-7">Compare</a></div>
@@ -578,13 +598,13 @@
 <div class="spec">6.8&quot; display · Mediatek MT6769H Helio G88 · 4 / 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/tecno-spark-10-pro.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=tecno-spark-10-pro">Compare</a></div>
-</div></div><div class="card" data-name="tecno spark 10c tecno smartphones" data-brand="Tecno" data-price="" data-year="2023">
+</div></div><div class="card" data-name="tecno spark 10c tecno smartphones" data-brand="Tecno" data-price="31999" data-year="2023">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/tecno-spark-10c/main.webp"><img class="cardimg" src="img/tecno-spark-10c/main.jpg" alt="Tecno Spark 10c" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/tecno-spark-10c.html">Tecno Spark 10c</a></p>
-<div class="price"><span class="usdv">Price not verified</span></div><div class="spec">6.6&quot; display</div><div class="spec">Unisoc T606</div><div class="spec">4 / 8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="price"><span class="prc" data-pkr="31999"><b class="pkrv">Rs 31,999</b> <span class="usdv">$116</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.6&quot; display</div><div class="spec">Unisoc T606</div><div class="spec">4 / 8 GB RAM</div><div class="spec">5000 mAh</div>
 <div class="spec">6.6&quot; display · Unisoc T606 · 4 / 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/tecno-spark-10c.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=tecno-spark-10c">Compare</a></div>
@@ -988,13 +1008,13 @@
 <div class="spec">Mediatek Dimensity 900 · 8 GB RAM · 4500 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/vivo-y100-5g.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=vivo-y100-5g">Compare</a></div>
-</div></div><div class="card" data-name="vivo y17s vivo smartphones" data-brand="Vivo" data-price="29999" data-year="2023">
+</div></div><div class="card" data-name="vivo y17s vivo smartphones" data-brand="Vivo" data-price="34999" data-year="2023">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/vivo-y17s/main.webp"><img class="cardimg" src="img/vivo-y17s/main.jpg" alt="Vivo Y17s" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/vivo-y17s.html">Vivo Y17s</a></p>
-<div class="price"><span class="prc" data-pkr="29999"><b class="pkrv">Rs 29,999</b> <span class="usdv">$108</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.56&quot; display</div><div class="spec">Mediatek MT6769 Helio G85</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="price"><span class="prc" data-pkr="34999"><b class="pkrv">Rs 34,999</b> <span class="usdv">$126</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.56&quot; display</div><div class="spec">Mediatek MT6769 Helio G85</div><div class="spec">4 / 6 GB RAM</div><div class="spec">5000 mAh</div>
 <div class="spec">6.56&quot; display · Mediatek MT6769 Helio G85 · 4 / 6 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/vivo-y17s.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=vivo-y17s">Compare</a></div>
@@ -2648,13 +2668,13 @@
 <div class="spec">6.56&quot; display · Qualcomm SM6225 Snapdragon 680 4G · 6 / 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/oppo-a36.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=oppo-a36">Compare</a></div>
-</div></div><div class="card" data-name="oppo a52 oppo smartphones" data-brand="Oppo" data-price="73999" data-year="2022">
+</div></div><div class="card" data-name="oppo a52 oppo smartphones" data-brand="Oppo" data-price="34999" data-year="2022">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/oppo-a52/main.webp"><img class="cardimg" src="img/oppo-a52/main.jpg" alt="Oppo A52" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/oppo-a52.html">Oppo A52</a></p>
-<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Unisoc SC9863A1</div><div class="spec">2 GB RAM</div><div class="spec">5180 mAh</div>
+<div class="price"><span class="prc" data-pkr="34999"><b class="pkrv">Rs 34,999</b> <span class="usdv">$126</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.5&quot; display</div><div class="spec">Unisoc SC9863A1</div><div class="spec">2 GB RAM</div><div class="spec">5180 mAh</div>
 <div class="spec">6.5&quot; display · Unisoc SC9863A1 · 2 GB RAM · 5180 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/oppo-a52.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=oppo-a52">Compare</a></div>
@@ -3978,24 +3998,4 @@
 <div class="spec">6.62&quot; display · Qualcomm SM8250-AC Snapdragon 870 5G · 8 / 12 GB RAM · 4500 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/vivo-s15.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=vivo-s15">Compare</a></div>
-</div></div><div class="card" data-name="vivo s15 pro vivo smartphones" data-brand="Vivo" data-price="148999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/vivo-s15-pro/main.webp"><img class="cardimg" src="img/vivo-s15-pro/main.jpg" alt="Vivo S15 Pro" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/vivo-s15-pro.html">Vivo S15 Pro</a></p>
-<div class="price"><span class="prc" data-pkr="148999"><b class="pkrv">Rs 148,999</b> <span class="usdv">$538</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.56&quot; display</div><div class="spec">Mediatek Dimensity 8100</div><div class="spec">8 / 12 GB RAM</div><div class="spec">4500 mAh</div>
-<div class="spec">6.56&quot; display · Mediatek Dimensity 8100 · 8 / 12 GB RAM · 4500 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/vivo-s15-pro.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=vivo-s15-pro">Compare</a></div>
-</div></div><div class="card" data-name="vivo s15e vivo smartphones" data-brand="Vivo" data-price="92999" data-year="2022">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/vivo-s15e/main.webp"><img class="cardimg" src="img/vivo-s15e/main.jpg" alt="Vivo S15e" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/vivo-s15e.html">Vivo S15e</a></p>
-<div class="price"><span class="prc" data-pkr="92999"><b class="pkrv">Rs 92,999</b> <span class="usdv">$336</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.44&quot; display</div><div class="spec">Exynos 1080</div><div class="spec">8 / 12 GB RAM</div><div class="spec">4700 mAh</div>
-<div class="spec">6.44&quot; display · Exynos 1080 · 8 / 12 GB RAM · 4700 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/vivo-s15e.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=vivo-s15e">Compare</a></div>
 </div></div>

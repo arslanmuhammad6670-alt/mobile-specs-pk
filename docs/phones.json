@@ -2545,33 +2545,36 @@
   "name": "Vivo X500 Pro Max",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 1793,
-  "price_pkr": 495999,
+  "price": 1789,
+  "price_pkr": 494999,
   "path": "phones/vivo-x500-pro-max.html",
   "sb": 9,
-  "pl": "Estimated price"
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "vivo-x500-pro",
   "name": "Vivo X500 Pro",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 1507,
-  "price_pkr": 416999,
+  "price": 1626,
+  "price_pkr": 449999,
   "path": "phones/vivo-x500-pro.html",
   "sb": 22,
-  "pl": "Estimated price"
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "vivo-x500",
   "name": "Vivo X500",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 1149,
-  "price_pkr": 317999,
+  "price": 1301,
+  "price_pkr": 359999,
   "path": "phones/vivo-x500.html",
   "sb": 21,
-  "pl": "Estimated price"
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "oneplus-ace-7-pro",
@@ -8282,6 +8285,18 @@
   "sb": 1
  },
  {
+  "slug": "honor-choice-t20",
+  "name": "Honor Choice T20",
+  "brand": "Honor",
+  "cat": "Smartphones",
+  "price": 145,
+  "price_pkr": 39999,
+  "path": "phones/honor-choice-t20.html",
+  "sb": 23,
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
   "slug": "honor-400",
   "name": "Honor 400",
   "brand": "Honor",
@@ -11922,11 +11937,11 @@
   "name": "Oppo A52",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 267,
-  "price_pkr": 73999,
+  "price": 126,
+  "price_pkr": 34999,
   "path": "phones/oppo-a52.html",
   "sb": 2,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "vivo-y12s",
@@ -11944,22 +11959,22 @@
   "name": "Vivo Y12",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 181,
-  "price_pkr": 49999,
+  "price": 90,
+  "price_pkr": 24999,
   "path": "phones/vivo-y12.html",
   "sb": 6,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "vivo-y17s",
   "name": "Vivo Y17s",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 108,
-  "price_pkr": 29999,
+  "price": 126,
+  "price_pkr": 34999,
   "path": "phones/vivo-y17s.html",
   "sb": 17,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "huawei-honor-6x",
@@ -12054,11 +12069,11 @@
   "name": "Realme C11",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 105,
-  "price_pkr": 28999,
+  "price": 58,
+  "price_pkr": 15999,
   "path": "phones/realme-c11.html",
   "sb": 7,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "realme-10-pro+-5g",
@@ -12219,55 +12234,57 @@
   "name": "Tecno Spark 10c",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 116,
+  "price_pkr": 31999,
   "path": "phones/tecno-spark-10c.html",
   "sb": 14,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "tecno-pop-7",
   "name": "Tecno Pop 7",
   "brand": "Tecno",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 76,
+  "price_pkr": 20999,
   "path": "phones/tecno-pop-7.html",
   "sb": 15,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "vivo-y30",
   "name": "Vivo Y30",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 213,
-  "price_pkr": 58999,
+  "price": 101,
+  "price_pkr": 27999,
   "path": "phones/vivo-y30.html",
   "sb": 0,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "vivo-y20s",
   "name": "Vivo Y20s",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 224,
-  "price_pkr": 61999,
+  "price": 112,
+  "price_pkr": 30999,
   "path": "phones/vivo-y20s.html",
   "sb": 7,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "oppo-a1k",
   "name": "Oppo A1k",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 112,
-  "price_pkr": 30999,
+  "price": 61,
+  "price_pkr": 16999,
   "path": "phones/oppo-a1k.html",
   "sb": 6,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "huawei-honor-7s",
@@ -12384,11 +12401,11 @@
   "name": "Samsung Galaxy M11",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 123,
-  "price_pkr": 33999,
+  "price": 90,
+  "price_pkr": 24999,
   "path": "phones/samsung-galaxy-m11.html",
   "sb": 17,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "vivo-y04",

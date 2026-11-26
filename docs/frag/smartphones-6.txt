@@ -1,4 +1,24 @@
-<div class="card" data-name="vivo y73 vivo smartphones" data-brand="Vivo" data-price="73999" data-year="2021">
+<div class="card" data-name="vivo y71t vivo smartphones" data-brand="Vivo" data-price="73999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/vivo-y71t/main.webp"><img class="cardimg" src="img/vivo-y71t/main.jpg" alt="Vivo Y71t" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/vivo-y71t.html">Vivo Y71t</a></p>
+<div class="price"><span class="prc" data-pkr="73999"><b class="pkrv">Rs 73,999</b> <span class="usdv">$267</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.44&quot; display</div><div class="spec">Mediatek Dimensity 810</div><div class="spec">8 GB RAM</div><div class="spec">4000 mAh</div>
+<div class="spec">6.44&quot; display · Mediatek Dimensity 810 · 8 GB RAM · 4000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/vivo-y71t.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=vivo-y71t">Compare</a></div>
+</div></div><div class="card" data-name="vivo y72 5g vivo smartphones" data-brand="Vivo" data-price="83999" data-year="2021">
+<span class="badge disc">Discontinued</span>
+<picture><source type="image/webp" srcset="img/vivo-y72-5g/main.webp"><img class="cardimg" src="img/vivo-y72-5g/main.jpg" alt="Vivo Y72 5G" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/vivo-y72-5g.html">Vivo Y72 5G</a></p>
+<div class="price"><span class="prc" data-pkr="83999"><b class="pkrv">Rs 83,999</b> <span class="usdv">$304</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.58&quot; display</div><div class="spec">Mediatek Dimensity 700</div><div class="spec">6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="spec">6.58&quot; display · Mediatek Dimensity 700 · 6 / 8 GB RAM · 5000 mAh</div>
+<div class="btnrow"><a class="btn" href="phones/vivo-y72-5g.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=vivo-y72-5g">Compare</a></div>
+</div></div><div class="card" data-name="vivo y73 vivo smartphones" data-brand="Vivo" data-price="73999" data-year="2021">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/vivo-y73/main-card.webp"><img class="cardimg" src="img/vivo-y73/main-card.jpg" alt="Vivo Y73" loading="lazy"></picture>
 <div class="cbody">
@@ -2308,13 +2328,13 @@
 <div class="spec">6.5&quot; display · Qualcomm SM6115 Snapdragon 662 · 4 / 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/realme-7i.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=realme-7i">Compare</a></div>
-</div></div><div class="card" data-name="realme c11 realme smartphones" data-brand="Realme" data-price="28999" data-year="2020">
+</div></div><div class="card" data-name="realme c11 realme smartphones" data-brand="Realme" data-price="15999" data-year="2020">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/realme-c11/main.webp"><img class="cardimg" src="img/realme-c11/main.jpg" alt="Realme C11" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/realme-c11.html">Realme C11</a></p>
-<div class="price"><span class="prc" data-pkr="28999"><b class="pkrv">Rs 28,999</b> <span class="usdv">$105</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek MT6765G Helio G35</div><div class="spec">2 / 3 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="price"><span class="prc" data-pkr="15999"><b class="pkrv">Rs 15,999</b> <span class="usdv">$58</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.5&quot; display</div><div class="spec">Mediatek MT6765G Helio G35</div><div class="spec">2 / 3 GB RAM</div><div class="spec">5000 mAh</div>
 <div class="spec">6.5&quot; display · Mediatek MT6765G Helio G35 · 2 / 3 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/realme-c11.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=realme-c11">Compare</a></div>
@@ -2658,13 +2678,13 @@
 <div class="spec">6.2&quot; display · Mediatek MT6762 Helio P22 · 3 GB RAM · 4000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/samsung-galaxy-m01s.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=samsung-galaxy-m01s">Compare</a></div>
-</div></div><div class="card" data-name="samsung galaxy m11 samsung smartphones" data-brand="Samsung" data-price="33999" data-year="2020">
+</div></div><div class="card" data-name="samsung galaxy m11 samsung smartphones" data-brand="Samsung" data-price="24999" data-year="2020">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/samsung-galaxy-m11/main.webp"><img class="cardimg" src="img/samsung-galaxy-m11/main.jpg" alt="Samsung Galaxy M11" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/samsung-galaxy-m11.html">Samsung Galaxy M11</a></p>
-<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.4&quot; display</div><div class="spec">Qualcomm SDM450 Snapdragon 450</div><div class="spec">3 / 4 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="price"><span class="prc" data-pkr="24999"><b class="pkrv">Rs 24,999</b> <span class="usdv">$90</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.4&quot; display</div><div class="spec">Qualcomm SDM450 Snapdragon 450</div><div class="spec">3 / 4 GB RAM</div><div class="spec">5000 mAh</div>
 <div class="spec">6.4&quot; display · Qualcomm SDM450 Snapdragon 450 · 3 / 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/samsung-galaxy-m11.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=samsung-galaxy-m11">Compare</a></div>
@@ -3498,23 +3518,23 @@
 <div class="spec">6.51&quot; display · Qualcomm SM4250 Snapdragon 460 · 3 / 4 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/vivo-y20i.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=vivo-y20i">Compare</a></div>
-</div></div><div class="card" data-name="vivo y20s vivo smartphones" data-brand="Vivo" data-price="61999" data-year="2020">
+</div></div><div class="card" data-name="vivo y20s vivo smartphones" data-brand="Vivo" data-price="30999" data-year="2020">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/vivo-y20s/main.webp"><img class="cardimg" src="img/vivo-y20s/main.jpg" alt="Vivo Y20s" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/vivo-y20s.html">Vivo Y20s</a></p>
-<div class="price"><span class="prc" data-pkr="61999"><b class="pkrv">Rs 61,999</b> <span class="usdv">$224</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.51&quot; display</div><div class="spec">Qualcomm SM4250 Snapdragon 460</div><div class="spec">4 / 6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="price"><span class="prc" data-pkr="30999"><b class="pkrv">Rs 30,999</b> <span class="usdv">$112</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.51&quot; display</div><div class="spec">Qualcomm SM4250 Snapdragon 460</div><div class="spec">4 / 6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
 <div class="spec">6.51&quot; display · Qualcomm SM4250 Snapdragon 460 · 4 / 6 / 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/vivo-y20s.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=vivo-y20s">Compare</a></div>
-</div></div><div class="card" data-name="vivo y30 vivo smartphones" data-brand="Vivo" data-price="58999" data-year="2020">
+</div></div><div class="card" data-name="vivo y30 vivo smartphones" data-brand="Vivo" data-price="27999" data-year="2020">
 <span class="badge disc">Discontinued</span>
 <picture><source type="image/webp" srcset="img/vivo-y30/main-card.webp"><img class="cardimg" src="img/vivo-y30/main-card.jpg" alt="Vivo Y30" loading="lazy"></picture>
 <div class="cbody">
 <span class="cat">Smartphones</span>
 <p class="ct"><a href="phones/vivo-y30.html">Vivo Y30</a></p>
-<div class="price"><span class="prc" data-pkr="58999"><b class="pkrv">Rs 58,999</b> <span class="usdv">$213</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.47&quot; display</div><div class="spec">Mediatek MT6765 Helio P35</div><div class="spec">3 / 4 / 6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
+<div class="price"><span class="prc" data-pkr="27999"><b class="pkrv">Rs 27,999</b> <span class="usdv">$101</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.47&quot; display</div><div class="spec">Mediatek MT6765 Helio P35</div><div class="spec">3 / 4 / 6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
 <div class="spec">6.47&quot; display · Mediatek MT6765 Helio P35 · 3 / 4 / 6 / 8 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/vivo-y30.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=vivo-y30">Compare</a></div>
@@ -3978,24 +3998,4 @@
 <div class="spec">6.2&quot; display · Mediatek MT6762 Helio P22 · 3 GB RAM · 3850 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/htc-desire-19s.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=htc-desire-19s">Compare</a></div>
-</div></div><div class="card" data-name="htc u19e htc smartphones" data-brand="HTC" data-price="129999" data-year="2019">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-u19e/main.webp"><img class="cardimg" src="img/htc-u19e/main.jpg" alt="HTC U19e" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-u19e.html">HTC U19e</a></p>
-<div class="price"><span class="prc" data-pkr="129999"><b class="pkrv">Rs 129,999</b> <span class="usdv">$470</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.0&quot; display</div><div class="spec">Qualcomm SDM710 Snapdragon 710</div><div class="spec">6 GB RAM</div><div class="spec">3930 mAh</div>
-<div class="spec">6.0&quot; display · Qualcomm SDM710 Snapdragon 710 · 6 GB RAM · 3930 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-u19e.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-u19e">Compare</a></div>
-</div></div><div class="card" data-name="htc wildfire e htc smartphones" data-brand="HTC" data-price="36999" data-year="2019">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/htc-wildfire-e/main.webp"><img class="cardimg" src="img/htc-wildfire-e/main.jpg" alt="HTC Wildfire E" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/htc-wildfire-e.html">HTC Wildfire E</a></p>
-<div class="price"><span class="prc" data-pkr="36999"><b class="pkrv">Rs 36,999</b> <span class="usdv">$134</span></span><span class="plabel">Estimated price</span></div><div class="spec">5.45&quot; display</div><div class="spec">Unisoc SC9863A</div><div class="spec">2 GB RAM</div><div class="spec">3000 mAh</div>
-<div class="spec">5.45&quot; display · Unisoc SC9863A · 2 GB RAM · 3000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/htc-wildfire-e.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=htc-wildfire-e">Compare</a></div>
 </div></div>

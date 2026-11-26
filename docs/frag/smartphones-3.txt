@@ -1,4 +1,24 @@
-<div class="card" data-name="oneplus ace 3 pro oneplus smartphones" data-brand="OnePlus" data-price="126999" data-year="2024">
+<div class="card" data-name="oneplus 12r oneplus smartphones" data-brand="OnePlus" data-price="120999" data-year="2024">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/oneplus-12r/main.webp"><img class="cardimg" src="img/oneplus-12r/main.jpg" alt="OnePlus 12R" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oneplus-12r.html">OnePlus 12R</a></p>
+<div class="price"><span class="prc" data-pkr="120999"><b class="pkrv">Rs 120,999</b> <span class="usdv">$437</span></span><span class="plabel">Market price · Pakistan</span></div><div class="spec">6.78&quot; AMOLED 120Hz</div><div class="spec">Snapdragon 8 Gen 2</div><div class="spec">8/16 GB RAM</div><div class="spec">5,500 mAh</div>
+<div class="spec">Snapdragon 8 Gen 2 aur 100W charging budget flagship mein</div>
+<div class="btnrow"><a class="btn" href="phones/oneplus-12r.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oneplus-12r">Compare</a></div>
+</div></div><div class="card" data-name="oneplus 13 oneplus smartphones" data-brand="OnePlus" data-price="221499" data-year="2024">
+<span class="badge cont">Continued</span>
+<picture><source type="image/webp" srcset="img/oneplus-13/black-eclipse.webp"><img class="cardimg" src="img/oneplus-13/black-eclipse.jpg" alt="OnePlus 13" loading="lazy"></picture>
+<div class="cbody">
+<span class="cat">Smartphones</span>
+<p class="ct"><a href="phones/oneplus-13.html">OnePlus 13</a></p>
+<div class="price"><span class="prc" data-pkr="221499"><b class="pkrv">Rs 221,499</b> <span class="usdv">$801</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.82&quot; LTPO AMOLED 120Hz</div><div class="spec">Snapdragon 8 Elite</div><div class="spec">12/16/24 GB RAM</div><div class="spec">6000 mAh</div>
+<div class="spec">Snapdragon 8 Elite aur 6000mAh battery wala speed king flagship</div>
+<div class="btnrow"><a class="btn" href="phones/oneplus-13.html">Full Specs</a>
+<a class="btn alt" href="compare.html?a=oneplus-13">Compare</a></div>
+</div></div><div class="card" data-name="oneplus ace 3 pro oneplus smartphones" data-brand="OnePlus" data-price="126999" data-year="2024">
 <span class="badge cont">Continued</span>
 <picture><source type="image/webp" srcset="img/oneplus-ace-3-pro/main.webp"><img class="cardimg" src="img/oneplus-ace-3-pro/main.jpg" alt="OnePlus Ace 3 Pro" loading="lazy"></picture>
 <div class="cbody">
@@ -3978,24 +3998,4 @@
 <div class="spec">6.74&quot; display · Unisoc Tiger T612 · 3 / 4 / 6 GB RAM · 5000 mAh</div>
 <div class="btnrow"><a class="btn" href="phones/realme-c51.html">Full Specs</a>
 <a class="btn alt" href="compare.html?a=realme-c51">Compare</a></div>
-</div></div><div class="card" data-name="realme c55 realme smartphones" data-brand="Realme" data-price="33999" data-year="2023">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-c55/main.webp"><img class="cardimg" src="img/realme-c55/main.jpg" alt="Realme C55" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-c55.html">Realme C55</a></p>
-<div class="price"><span class="prc" data-pkr="33999"><b class="pkrv">Rs 33,999</b> <span class="usdv">$123</span></span><span class="plabel">Estimated price</span></div><div class="spec">6.72&quot; display</div><div class="spec">Mediatek MT6769H Helio G88</div><div class="spec">4 / 6 / 8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">6.72&quot; display · Mediatek MT6769H Helio G88 · 4 / 6 / 8 GB RAM · 5000 mAh</div>
-<div class="btnrow"><a class="btn" href="phones/realme-c55.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-c55">Compare</a></div>
-</div></div><div class="card" data-name="realme c67 realme smartphones" data-brand="Realme" data-price="39999" data-year="2023">
-<span class="badge disc">Discontinued</span>
-<picture><source type="image/webp" srcset="img/realme-c67/main.webp"><img class="cardimg" src="img/realme-c67/main.jpg" alt="Realme C67" loading="lazy"></picture>
-<div class="cbody">
-<span class="cat">Smartphones</span>
-<p class="ct"><a href="phones/realme-c67.html">Realme C67</a></p>
-<div class="price"><span class="prc" data-pkr="39999"><b class="pkrv">Rs 39,999</b> <span class="usdv">$145</span></span><span class="plabel">Official price · Pakistan</span></div><div class="spec">6.72&quot; IPS LCD 90Hz</div><div class="spec">Snapdragon 685</div><div class="spec">6/8 GB RAM</div><div class="spec">5000 mAh</div>
-<div class="spec">108MP camera wala sasta aur powerful budget phone</div>
-<div class="btnrow"><a class="btn" href="phones/realme-c67.html">Full Specs</a>
-<a class="btn alt" href="compare.html?a=realme-c67">Compare</a></div>
 </div></div>

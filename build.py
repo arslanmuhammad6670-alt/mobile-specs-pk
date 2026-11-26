@@ -254,7 +254,13 @@ EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide
     # nightly 2026-11-26: Sharp Aquos sense11 finalised (Japan-only sale
     # Nov 26, verified official SIM-free list JPY 94,600 -> Expected at
     # site JPY rate, floor to ...999); not officially in Pakistan.
-    "sharp-aquos-sense11-5g"}
+    "sharp-aquos-sense11-5g",
+    # nightly 2026-11-27: vivo X500 series India debut Nov 26 (official
+    # INR 119,999 / 149,999 / 164,999 -> Expected at INR x 3, floor to
+    # ...999) + Honor Choice T20 (Russia launch Nov 25, GSMArena "About
+    # 130 EUR" / ~$145 -> Expected at USD x 276.7, floor to ...999);
+    # none officially in Pakistan.
+    "vivo-x500", "vivo-x500-pro", "vivo-x500-pro-max", "honor-choice-t20"}
 for _d in ALL:
     _d["price_expected"] = _d["slug"] in EXPECTED_SLUGS
 

@@ -214,6 +214,9 @@ EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide
     # watch 2026-11-19: vivo Watch GT2 (China launch Oct 13 2025, India launch
     # Nov 26; verified China price CNY 499 -> Expected); not officially in Pakistan.
     "vivo-watch-gt2",
+    # watch 2026-11-26: Oppo Pad Air6 (China-only launch Nov 16, verified
+    # official CNY 3,099 -> Expected); not officially in Pakistan.
+    "oppo-pad-air6",
     # watch 2026-11-20: Lava Smart 4 Pro (India-only launch Nov 20, verified
     # India price INR 10,999 -> Expected); not officially in Pakistan.
     "lava-smart-4-pro",

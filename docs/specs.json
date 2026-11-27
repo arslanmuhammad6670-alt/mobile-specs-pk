@@ -6464,6 +6464,25 @@
   "USB": "USB Type-C",
   "Colors": "Mecha Black"
  },
+ "hmd-rise": {
+  "Launch Year": "2026 (announced 2026, November 26; on sale from December 2, 2026, India)",
+  "Region": "India",
+  "Network": "GSM / HSPA / LTE",
+  "Body": "Dual-tone design",
+  "Display": "6.517-inch HD+ IPS LCD, 576 x 1280 pixels, 60Hz; waterdrop notch",
+  "Operating System": "Android 16 Go Edition; 2 years of quarterly security updates",
+  "Chipset": "Unisoc 9863A (SC9863A), octa-core",
+  "RAM": "4 GB",
+  "Storage": "64 GB; microSDXC up to 128 GB",
+  "Main Camera": "13 MP dual camera, LED flash",
+  "Selfie Camera": "5 MP",
+  "Battery": "5000 mAh",
+  "Charging": "10W wired, USB Type-C; charger in the box",
+  "3.5mm jack": "Yes",
+  "USB": "USB Type-C",
+  "AI": "Indus by Sarvam AI, 22 Indian languages",
+  "Colors": "Emerald Gold, Indigo Silver, Midnight Gold"
+ },
  "samsung-galaxy-tab-s8": {
   "Launch Year": "2022 (announced 2022, February 09)",
   "Region": "Global",

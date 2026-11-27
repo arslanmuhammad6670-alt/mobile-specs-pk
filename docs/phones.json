@@ -3236,6 +3236,18 @@
   "pl": "Expected price"
  },
  {
+  "slug": "hmd-rise",
+  "name": "HMD Rise",
+  "brand": "HMD",
+  "cat": "Smartphones",
+  "price": 108,
+  "price_pkr": 29999,
+  "path": "phones/hmd-rise.html",
+  "sb": 1,
+  "exp": 1,
+  "pl": "Expected price"
+ },
+ {
   "slug": "samsung-galaxy-tab-s8",
   "name": "Samsung Galaxy Tab S8",
   "brand": "Samsung",

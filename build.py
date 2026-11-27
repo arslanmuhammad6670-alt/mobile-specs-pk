@@ -264,7 +264,11 @@ EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide
     # watch 2026-11-27: HMD Rise (India-only launch Nov 26, verified
     # Day-1 special price INR 9,999 -> Expected at INR x 3, floor to
     # ...999; post-Day-1 price not announced); not officially in Pakistan.
-    "hmd-rise"}
+    "hmd-rise",
+    # nightly 2026-11-28: OnePlus 15 finalised (global launch 13 Nov 2026,
+    # verified official $899.99 base / India INR 85,999 -> Expected at
+    # USD x 276.7, floor to ...999 = Rs 248,999); not officially in Pakistan.
+    "oneplus-15-5g"}
 for _d in ALL:
     _d["price_expected"] = _d["slug"] in EXPECTED_SLUGS
 

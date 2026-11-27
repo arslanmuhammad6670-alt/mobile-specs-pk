@@ -12633,11 +12633,11 @@
   "name": "Samsung Galaxy S10 Lite",
   "brand": "Samsung",
   "cat": "Smartphones",
-  "price": 426,
-  "price_pkr": 117999,
+  "price": 412,
+  "price_pkr": 113999,
   "path": "phones/samsung-galaxy-s10-lite.html",
   "sb": 13,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "siemens-a50",
@@ -12655,22 +12655,22 @@
   "name": "Vivo S1",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 257,
-  "price_pkr": 70999,
+  "price": 130,
+  "price_pkr": 35999,
   "path": "phones/vivo-s1.html",
   "sb": 19,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "vivo-y1s",
   "name": "Vivo Y1s",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 90,
-  "price_pkr": 24999,
+  "price": 69,
+  "price_pkr": 18999,
   "path": "phones/vivo-y1s.html",
   "sb": 0,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "oppo-a11",
@@ -12711,11 +12711,11 @@
   "name": "Realme C17",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 181,
-  "price_pkr": 49999,
+  "price": 105,
+  "price_pkr": 28999,
   "path": "phones/realme-c17.html",
   "sb": 2,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "honor-x10-5g",
@@ -12744,11 +12744,11 @@
   "name": "Huawei Mate 20 Pro",
   "brand": "Huawei",
   "cat": "Smartphones",
-  "price": 896,
-  "price_pkr": 247999,
+  "price": 434,
+  "price_pkr": 119999,
   "path": "phones/huawei-mate-20-pro.html",
   "sb": 23,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "huawei-nova-4e",
@@ -13041,22 +13041,22 @@
   "name": "Vivo S1 Pro",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 166,
-  "price_pkr": 45999,
+  "price": 145,
+  "price_pkr": 39999,
   "path": "phones/vivo-s1-pro.html",
   "sb": 5,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "vivo-y20",
   "name": "Vivo Y20",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 166,
-  "price_pkr": 45999,
+  "price": 94,
+  "price_pkr": 25999,
   "path": "phones/vivo-y20.html",
   "sb": 1,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "vivo-y21s",
@@ -13074,22 +13074,23 @@
   "name": "Vivo Y02s",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": 112,
-  "price_pkr": 30999,
+  "price": 116,
+  "price_pkr": 31999,
   "path": "phones/vivo-y02s.html",
   "sb": 3,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "vivo-y02t",
   "name": "Vivo Y02t",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 90,
+  "price_pkr": 24999,
   "path": "phones/vivo-y02t.html",
   "sb": 8,
-  "unv": 1
+  "unv": 1,
+  "pl": "Official price"
  },
  {
   "slug": "oppo-a72-5g",
@@ -13107,22 +13108,22 @@
   "name": "Oppo A15s",
   "brand": "Oppo",
   "cat": "Smartphones",
-  "price": 145,
-  "price_pkr": 39999,
+  "price": 94,
+  "price_pkr": 26000,
   "path": "phones/oppo-a15s.html",
   "sb": 19,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "realme-9-pro+",
   "name": "Realme 9 Pro+",
   "brand": "Realme",
   "cat": "Smartphones",
-  "price": 231,
-  "price_pkr": 63999,
+  "price": 379,
+  "price_pkr": 104999,
   "path": "phones/realme-9-pro+.html",
   "sb": 17,
-  "pl": "Estimated price"
+  "pl": "Official price"
  },
  {
   "slug": "realme-9-pro",
@@ -49537,11 +49538,12 @@
   "name": "OnePlus 15",
   "brand": "OnePlus",
   "cat": "Smartphones",
-  "price": 896,
-  "price_pkr": 247999,
+  "price": 900,
+  "price_pkr": 248999,
   "path": "phones/oneplus-15-5g.html",
   "sb": 20,
-  "pl": "Estimated price"
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "huawei-enjoy-100",

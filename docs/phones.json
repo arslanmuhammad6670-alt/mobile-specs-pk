@@ -3002,10 +3002,12 @@
   "name": "vivo V80 FE",
   "brand": "Vivo",
   "cat": "Smartphones",
-  "price": null,
-  "price_pkr": null,
+  "price": 578,
+  "price_pkr": 159999,
   "path": "phones/vivo-v80-fe-5g.html",
-  "sb": 15
+  "sb": 15,
+  "exp": 1,
+  "pl": "Expected price"
  },
  {
   "slug": "honor-700-5g",

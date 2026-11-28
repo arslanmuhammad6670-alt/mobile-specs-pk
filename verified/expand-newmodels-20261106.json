@@ -9,12 +9,12 @@
    "7000 mAh"
   ],
   "name": "vivo V80 FE",
-  "price": null,
+  "price": 159999,
   "price_src": "approx",
   "rows": [
    [
     "Launch Year",
-    "2026 (announced 3 November 2026, expected release November 2026)"
+    "2026 (announced 3 November 2026; pre-orders opened 26 November 2026, Philippines)"
    ],
    [
     "Network",
@@ -71,7 +71,7 @@
   ],
   "slug": "vivo-v80-fe-5g",
   "source": "https://www.gsmarena.com/vivo_v80_fe_5g-15061.php",
-  "tag": "Upcoming — expected Nov 2026: 7000 mAh battery aur 50MP selfie camera wala naya FE phone",
+  "tag": "7000 mAh battery, triple 50MP ZEISS cameras aur 50MP selfie camera wala vivo ka naya FE phone",
   "year": 2026
  }
 ]

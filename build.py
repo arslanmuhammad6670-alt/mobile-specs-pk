@@ -265,6 +265,10 @@ EXPECTED_SLUGS = {"samsung-galaxy-z-fold8-ultra-5g", "samsung-galaxy-z-fold-wide
     # Day-1 special price INR 9,999 -> Expected at INR x 3, floor to
     # ...999; post-Day-1 price not announced); not officially in Pakistan.
     "hmd-rise",
+    # watch 2026-11-28: vivo V80 FE finalised (Philippines pre-orders
+    # opened Nov 26, verified official Php 36,999 -> Expected at site PHP
+    # rate, nearest ...999 = Rs 159,999); not officially in Pakistan.
+    "vivo-v80-fe-5g",
     # nightly 2026-11-28: OnePlus 15 finalised (global launch 13 Nov 2026,
     # verified official $899.99 base / India INR 85,999 -> Expected at
     # USD x 276.7, floor to ...999 = Rs 248,999); not officially in Pakistan.
